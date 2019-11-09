@@ -1,0 +1,11 @@
+baseURL = "https://foret-de-berce.fr/"
+languageCode = "fr-fr"
+title = "Bercé, une forêt d'exception"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "fr"
+SectionPagesMenu = "main"
+Paginate = 3
+googleAnalytics = ""
+enableRobotsTXT = true
