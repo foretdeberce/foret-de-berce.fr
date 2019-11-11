@@ -1,5 +1,5 @@
-baseURL = "https://foret-de-berce.fr/"
-languageCode = "fr-fr"
+baseURL = "https://www.foret-de-berce.fr/"
+languageCode = "fr-FR"
 title = "Bercé, une forêt d'exception"
 theme = "ananke"
 
@@ -7,5 +7,5 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
 Paginate = 3
-googleAnalytics = ""
+googleAnalytics = "UA-151972727-1"
 enableRobotsTXT = true
