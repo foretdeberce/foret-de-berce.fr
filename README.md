@@ -46,7 +46,13 @@ Tous les articles se trouvent actuellement au sein du dossier `content/articles`
 pour markdown par page.
 Nom de l'article en minuscule, sans accent avec un tiret pour les espaces.
 
+
 ## Markdown
+
+Quelques bons guides pour apprendre la syntaxe Markdown avec des exemples :
++ https://docs.microsoft.com/fr-fr/contribute/how-to-write-use-markdown
++ https://guides.github.com/features/mastering-markdown/ (en anglais)
+
 
 ## Shortcodes
 
