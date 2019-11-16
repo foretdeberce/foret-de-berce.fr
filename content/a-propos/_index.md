@@ -1,9 +1,9 @@
 ---
 title: "A propos"
 description: "Ce site est dédié au site “Bercé, une forêt d'exception“, écrit par Yves Gouchet, paru en 6 Juin 2018 aux éditions de l'Étrave"
-featured_image: '/images/foret-de-berce-hiver.jpg'
+featured_image: '/images/chene-muriel.jpg'
 ---
-{{<figure src="/images/livre-berce-une-foret-d-exception.jpg" title="Bercé, une forêt d'exception écrit par Yves Gouchet, paru le 06/06/2018 aux éditions Étrave">}}
+{{<figure src="/images/articles/livre-berce-une-foret-d-exception.jpg" title="Bercé, une forêt d'exception écrit par Yves Gouchet, paru le 06/06/2018 aux éditions Étrave">}}
 
 ## Un livre
 

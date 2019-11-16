@@ -2,10 +2,12 @@ baseURL = "https://www.foret-de-berce.fr/"
 languageCode = "fr-FR"
 title = "Bercé, une forêt d'exception"
 theme = "ananke"
+canonifyURLs = true
+copyright = "Yves GOUCHET"
+googleAnalytics = "UA-151972727-1"
+enableRobotsTXT = true
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
 Paginate = 3
-googleAnalytics = "UA-151972727-1"
-enableRobotsTXT = true
