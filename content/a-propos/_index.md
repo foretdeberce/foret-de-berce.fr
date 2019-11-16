@@ -1,5 +1,7 @@
 ---
 title: "A propos"
+date: 2019-11-16T13:15:51+01:00
+draft: false
 description: "Ce site est dédié au site “Bercé, une forêt d'exception“, écrit par Yves Gouchet, paru en 6 Juin 2018 aux éditions de l'Étrave"
 featured_image: '/images/chene-muriel.jpg'
 ---

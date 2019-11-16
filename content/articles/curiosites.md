@@ -4,7 +4,7 @@ date: 2019-11-10T00:16:41+01:00
 draft: false
 description: "La petite bête qui stoppa un temps le grand ruban."
 featured_image: "/images/curiosites.jpg"
-tags: ["Atypique"]
+tags: ["Remarquables"]
 ---
 
 À 26 km d’altitude, prenons un peu de hauteur pour admirer ce que Jean Marie Ballu, ancien directeur

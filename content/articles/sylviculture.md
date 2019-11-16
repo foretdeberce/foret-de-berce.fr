@@ -4,7 +4,7 @@ date: 2019-11-09T10:58:08+01:00
 draft: false
 description: "Initiée par Colbert en forêt de Bercé"
 featured_image: "/images/sylviculture.jpg"
-tags: ["gestion durable"]
+tags: ["Exploitation"]
 ---
 {{<figure src="/images/articles/plan-berce-1783.jpg" title="Plan de la forêt de Bercé en 1783">}}
 

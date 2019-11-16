@@ -11,3 +11,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
 Paginate = 9
+
+
+[params]
+  featured_image = "/images/foret-de-berce.jpg"
