@@ -11,17 +11,21 @@ Afin de réaliser le visuel principal, il faut une image d'au moins `1440 px` de
 
 ## Images
 
-Les images sont à sauvegarder dans le dossier suivant:
-> /static/images
+Les images sont à sauvegarder dans les dossiers suivants:
+> `/static/images`: image à taille fixe
+> `/assets/images`: image redimensionnable servant d'illustration principale à l'article. 
 
 Pour créer le visuel principal de chaque page, je te propose de toujours repartir de celui de
-la page d'accueil. Il possède les dimensions suivantes `1440x642 px`:
+la page d'accueil. Il possède les dimensions suivantes `1440 x 642 px`:
 > /static/images/foret-de-berce.jpg
 
 Ce dernier est présent tout en haut du fichier Markdown :
-`featured_image: "/images/articles/curiosites.jpg"`
+`featured_image: "/images/curiosites.jpg"`
 
-Pour les articles, c'est ici:
+Pour l'image principale de l'article, c'est ici:
+> /assets/images/
+
+Pour le reste, c'est ici:
 > /static/images/articles
 
 Partons du principe que toutes les images servant d'illustration au sein des articles font au
@@ -89,10 +93,10 @@ Exemples de `rel` et `relref`:
 
 ```markdown
 [Lieux Mythiques]({{<ref "articles/lieux-mythiques.md">}})
-[La coudre]({{< relref "articles/lieux-mythiques.md#la-coudre" >}})
+[La coudre]({{<relref "articles/lieux-mythiques.md#la-coudre">}})
 ```
 [Lieux Mythiques]({{<ref "articles/lieux-mythiques.md">}})
-[La coudre]({{< relref "articles/lieux-mythiques.md#la-coudre" >}})
+[La coudre]({{<relref "articles/lieux-mythiques.md#la-coudre">}})
 
 ### youtube
 
