@@ -1,5 +1,5 @@
 ---
-title: "Curiosites"
+title: "Curiosités"
 date: 2019-11-10T00:16:41+01:00
 draft: false
 description: "La petite bête qui stoppa un temps le grand ruban."

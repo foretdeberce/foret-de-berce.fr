@@ -10,4 +10,4 @@ enableRobotsTXT = true
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
-Paginate = 3
+Paginate = 9

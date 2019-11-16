@@ -1,10 +1,10 @@
 ---
-title: "Lieux Mythiques"
+title: "Lieux mythiques"
 date: 2019-11-09T22:49:46+01:00
 draft: false
 description: "Ouest Bercé"
 featured_image: "/images/lieux-mythiques.jpg"
-tags: ["Histoire", "Mythes"]
+tags: ["Histoire", "Remarquable"]
 ---
 
 ## La Coudre
