@@ -1,5 +1,5 @@
 ---
-title: "La forêt de Bercé "
+title: "La forêt de Bercé"
 featured_image: '/images/foret-de-berce.jpg'
 description: "Bercé, est une forêt d'exception de 5400 hectares située à 30 km au sud du Mans. "
 ---
