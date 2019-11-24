@@ -2,7 +2,7 @@
 title: "Lieux mythiques"
 date: 2019-11-09T22:49:46+01:00
 draft: false
-description: "Ouest Bercé"
+description: "Les vallons"
 featured_image: "/images/lieux-mythiques.jpg"
 tags: ["Histoire", "Remarquables"]
 ---
