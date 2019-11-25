@@ -34,3 +34,34 @@ peu d'aubier, grain fin, belle  couleur claire, qui le fait rechercher pour l'é
 et le tranchage (fabrication de placage de moins de un millimètre d'épaisseur) .
 > Aujourd'hui Bercé est avant tout un Cru pour la tonnellerie qui lui redonne ses lettres de noblesse,
 ... et lui fait renouer avec ses racines Gauloises.
+
+
+> "Le sol lui-même fait souvent confidence à qui se déplace pour le consulter" (Roger Verdier)
+L’intensification des défrichements remonte à l'âge du fer (Époque Gauloise) et plus tard (Époque Gallo–Romaine).
+Les cultivateurs mirent en place les premiers parcellaires.
+> "Notre région éminemment forestière offre en pleine "Paix Romaine" une insécurité totale,
+car, cultivée suivant le mode Celtique, par clairières  isolées " (Marc Bloch).
+
+Vers l'An mil, l'implantation de colonies religieuses en forêt marque aussi le début des grands  défrichements médiévaux. 
+Sur Bercé, plus de 160 enclos sont recensés, terre rejetée à l'intérieur de la possession, 
+formant talus, opposant par là même un double obstacle à l'intrus .
+Rassemblés en "en grappe", situés sur les hauteurs fertiles, les enclos se dotent d'un point d'eau et d'un accès aisé.
+De quelques ares à plus de cinquante hectares, la disparité des surfaces en dit long sur la hiérarchisation des possesseurs. 
+Ces enclos coïncident toujours avec une occupation humaine plus ancienne (exemple les Ferriers ou camps protohistoriques).
+Au fil du temps, le passage sans cesse répété de ces hommes courageux et de leurs bêtes a creusé et raviné des chemins,
+laissant çà et là  des traces indélébiles tel, le " Coin des fossés" (ancien canton de 1783 situé Parcelles 241 et 242) 
+véritable passage obligé de toute une époque, en fond de vallon.
+
+>>                             La forêt Royale  en 1669 
+Les forestiers de 1669 n'avaient qu'à être les continuateurs de leurs devanciers dans l'exécution des prescriptions 
+de la nouvelle Ordonnance de Colbert qui ne faisait elle-même que confirmer le régime à tire et aire
+et les modes de repeuplement recommandés pour les futaies par les ordonnances antérieures, 
+notamment par celle de  Charles IX, de 1573.
+Les officiers de la Maîtrise ne se bornèrent pas à pratiquer le nouvel aménagement et à faire les repeuplements 
+prescrits par les réformateurs en améliorant l'état de la forêt.
+> Ils arrivèrent aussi à augmenter la forêt d'environ 1200 hectares, 
+fait qui  doit être assez rare dans l'histoire des forêts domaniales. (Potel)
+Ainsi des Arrêts du Conseil du Roi (lettres patentes des 13 et 25 septembre 1723) ordonnèrent, 
+la réunion au corps de la forest de Bercé appartenant à Sa Majesté et le reboisement des landes de Longuebranche,
+dites de Grammont (300 arpents) et des landes de Haute-Perche (2000  arpents).  
+
