@@ -16,14 +16,11 @@ le label Forêt d’Exception®.
 Après Fontainebleau, Verdun, La Grande Chartreuse, Rouen, Val Suzon et Montagne de Reims, Bercé est enfin
 la 7ème forêt labellisée.
 
-# Dix autres forêts attendent encore de recevoir ce précieux sésame, dont une en Martinique.# 
-    # Depuis des siècles, les arbres sont davantage l’œuvre des hommes que celle de la nature.
-                                          Ce sont nos enfants de verdure.#  
-                                          (J. Lacarrière O.N.F)
-
-
-                                         
-
+# Dix autres forêts attendent encore de recevoir ce précieux sésame, dont une en Martinique.
+    Depuis des siècles, les arbres sont davantage
+    l’œuvre des hommes que celle de la nature.
+    Ce sont nos enfants de verdure.
+    (J. Lacarrière O.N.F)
 
 L’Office National des Forêts a en charge la gestion du massif
 Domanial de Bercé avec trois principes essentiels qui sont :
