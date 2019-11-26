@@ -39,7 +39,7 @@ et le tranchage (fabrication de placage de moins de un millimètre d'épaisseur)
 # "Le sol lui-même fait souvent confidence à qui se déplace pour le consulter" 
 Cette phrase de Roger Verdier annonce l’intensification des défrichements à l'âge du fer (Époque Gauloise) et plus tard (Époque Gallo–Romaine).
 Les cultivateurs mirent en place les premiers parcellaires.
-> "Notre région éminemment forestière offre en pleine "Paix Romaine" une insécurité totale,
+"Notre région éminemment forestière offre en pleine "Paix Romaine" une insécurité totale,
 car, cultivée suivant le mode Celtique, par clairières  isolées " (Marc Bloch).
 # Vers l'An mil, 
 l'implantation de colonies religieuses en forêt marque aussi le début des grands  défrichements médiévaux. 
@@ -57,7 +57,7 @@ Dépendant de la Baronnie de Château du Loir, la forêt de Bercé était aussi 
 Le vieux château des Étangs, à Saint Vincent du Lorouër, près des Sources de l’Hermitière,  existe depuis le XI° siècle. Il abrita en ses murs de nombreux veneurs dont le plus célèbre fut sans doute le puissant Archevêque de Reims,  Gervais de Château du Loir.
 Hilarion de Fromentière, Seigneur des Étangs, est du fait de sa charge de gestionnaire de la forêt Royale de Bercé, intimement lié à ce terroir.   
 Au nombre des importantes forêts visitées par les Réformateurs de Colbert, se trouvait la forêt de Bercé (Maine). La mission s'y transporta le mardi 8 octobre 1669 et y resta jusqu'au 17 inclusivement ; elle était assistée entre autre de Hilarion de Fromentières, chevalier, seigneur des Étangs, Maître particulier ancien et alternatif de la Maîtrise de Château-du-Loir.
- Du  1er juin au 9 juillet 1667, le Commissaire–enquêteur, Jean Baptiste Voisin de Noiray, procédait à  la  reconnaissance des  limites de la  forêt de Bercé, en même temps, 1'attention de celui–ci était retenue par la question des revenus de la maîtrise de Château du Loir et du produit de  la vente des Coupes qui jusqu'alors, avaient porté sur 41 arpents, dont 31 à Bercé. La moyenne des six années 1654 à 1659 avait donné 7791 livres dont il n’était revenu que 4502 livres au Roi, cependant chargé du paiement des gages des officiers de la maîtrise. L'adjudicataire des coupes avait dû payer 500 livres pour un chauffage de grand-maître (office créé en 1575), 328 cordes de bois de chauffage pour les officiers de la maîtrise (évalués 990 livres), et 287 cordes pour le chauffage des usagers. Par jugement du 2 juillet 1668, Hilarion, maître particulier alternatif,  fut condamné à restituer à Sa Majesté 925 livres pour la valeur de 225 cordes de bois de chauffage à maison (de 1653 à 1658), 500 livres pour ses vacations aux assiettes et journées des ventes de la même période, 9175 livres par lui reçus de la coupe et exploitation de 46 arpents de haute futaie à Bercé, plus 1500 livres pour dommages-intérêts envers Sa Majesté.
+Du  1er juin au 9 juillet 1667, le Commissaire–enquêteur, Jean Baptiste Voisin de Noiray, procédait à  la  reconnaissance des  limites de la  forêt de Bercé, en même temps, 1'attention de celui–ci était retenue par la question des revenus de la maîtrise de Château du Loir et du produit de  la vente des Coupes qui jusqu'alors, avaient porté sur 41 arpents, dont 31 à Bercé. La moyenne des six années 1654 à 1659 avait donné 7791 livres dont il n’était revenu que 4502 livres au Roi, cependant chargé du paiement des gages des officiers de la maîtrise. L'adjudicataire des coupes avait dû payer 500 livres pour un chauffage de grand-maître (office créé en 1575), 328 cordes de bois de chauffage pour les officiers de la maîtrise (évalués 990 livres), et 287 cordes pour le chauffage des usagers. Par jugement du 2 juillet 1668, Hilarion, maître particulier alternatif,  fut condamné à restituer à Sa Majesté 925 livres pour la valeur de 225 cordes de bois de chauffage à maison (de 1653 à 1658), 500 livres pour ses vacations aux assiettes et journées des ventes de la même période, 9175 livres par lui reçus de la coupe et exploitation de 46 arpents de haute futaie à Bercé, plus 1500 livres pour dommages-intérêts envers Sa Majesté.
           (R. Potel )
 
 
@@ -68,7 +68,7 @@ et les modes de repeuplement recommandés pour les futaies par les ordonnances a
 notamment par celle de  Charles IX, de 1573.
 Les officiers de la Maîtrise ne se bornèrent pas à pratiquer le nouvel aménagement et à faire les repeuplements 
 prescrits par les réformateurs en améliorant l'état de la forêt.
-> Ils arrivèrent aussi à augmenter la forêt d'environ 1200 hectares, 
+Ils arrivèrent aussi à augmenter la forêt d'environ 1200 hectares, 
 fait qui  doit être assez rare dans l'histoire des forêts domaniales. (Potel)
 Ainsi des Arrêts du Conseil du Roi (lettres patentes des 13 et 25 septembre 1723) ordonnèrent, 
 la réunion au corps de la forest de Bercé appartenant à Sa Majesté et le reboisement des landes de Longuebranche,
