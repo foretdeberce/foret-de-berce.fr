@@ -16,13 +16,13 @@ le label Forêt d’Exception®.
 Après Fontainebleau, Verdun, La Grande Chartreuse, Rouen, Val Suzon et Montagne de Reims, Bercé est enfin
 la 7ème forêt labellisée.
 
-> Dix autres forêts attendent encore de recevoir ce précieux sésame, dont une en Martinique. 
-
-
-                                          Depuis des siècles, les arbres sont davantage
-                                          L’œuvre des hommes que celle de la nature.
-                                          Ce sont nos enfants de verdure.  
+# Dix autres forêts attendent encore de recevoir ce précieux sésame, dont une en Martinique.# 
+    # Depuis des siècles, les arbres sont davantage l’œuvre des hommes que celle de la nature.
+                                          Ce sont nos enfants de verdure.#  
                                           (J. Lacarrière O.N.F)
+
+
+                                         
 
 
 L’Office National des Forêts a en charge la gestion du massif
@@ -32,9 +32,8 @@ De protéger et de conserver ce milieu fragile
 De nous accueillir
 
 
-  >                            Bienvenue  à Bercé, ce terroir ou l’on cultive l’Excellence !   
-
-         Située au  Nord de la vallée du Loir, la majestueuse forêt domaniale de Bercé s’étend sur 5337 hectares,
+#Bienvenue  à Bercé, ce terroir ou l’on cultive l’Excellence !#   
+ Située au  Nord de la vallée du Loir, la majestueuse forêt domaniale de Bercé s’étend sur 5337 hectares,
 11 communes, et 5 communautés de communes, entre le Mans et Tours,  sur le plateau Calaisien, 
 à une altitude moyenne de 150 m.  Elle est boisée pour l’essentiel de chênes aux longs fûts plusieurs fois
 centenaires, et de hêtres. Les anciennes landes plus pauvres, sont plantées d’essences feuillues
