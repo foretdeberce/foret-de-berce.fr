@@ -29,7 +29,7 @@ De protéger et de conserver ce milieu fragile
 De nous accueillir
 
 
-" Bienvenue  à Bercé, ce terroir ou l’on cultive l’Excellence ! "   
+# Bienvenue  à Bercé, ce terroir ou l’on cultive l’Excellence !   
  Située au  Nord de la vallée du Loir, la majestueuse forêt domaniale de Bercé s’étend sur 5337 hectares,
 11 communes, et 5 communautés de communes, entre le Mans et Tours,  sur le plateau Calaisien, 
 à une altitude moyenne de 150 m.  Elle est boisée pour l’essentiel de chênes aux longs fûts plusieurs fois
