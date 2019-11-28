@@ -8,7 +8,7 @@ tags: ["Remarquables"]
 ---
 
 
-# l’ arbre mémoire vivante 
+# L’arbre mémoire vivante 
 
 En forêt domaniale de Bercé, dans la Sarthe, un chêne en pleine force de l’âge,  se dresse en fond de parcelle 218, dans la vallée dite Noire, surgissant à la vue tel un point d’exclamation. 
 Seul de sa génération (car il est né avant la révolution de 1789), il domine de plus jeunes chênes  et des pins d’origine américaine (douglas).
