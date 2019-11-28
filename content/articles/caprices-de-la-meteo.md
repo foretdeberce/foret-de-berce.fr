@@ -9,15 +9,15 @@ tags: ["Flore","Histoire"]
 
 En 1876 les forestiers recensent l’importance et la fréquence des brouillards et des gelées quelquefois bien tardives. Un temps trop doux peut favoriser une invasion de chenilles ou d’autres hôtes tout aussi indésirables.
 
-Le froid
+# Le froid
 L’hiver 1878/1879 (neige et verglas) occasionne de gros dégâts sur les cimes des pins sylvestres. «Durant un an, nous fait savoir le préposé Eugène Crossonneau, les cessionnaires fabriqueront ces têtes dans les parcelles 258 et 260»
 Durant l’hiver 1879-1880 on recensera 78 jours de gel et des températures de — 25°.
 La gélivure, tare quasiment héréditaire, affecte le chêne tendre de Bercé. 
 Sous l’action du gel, le bois éclate à cœur. Une détonation semblable à celle d’un coup de fusil se fait alors entendre. L’arbre fabrique par la suite, le long de son écorce, un bourrelet cicatriciel pour refermer tant bien que mal cette plaie béante.
 
-Le vent
+# Le vent
 Le plus grand fléau en forêt, est avec le feu, la conjugaison du vent et de la pluie. Une forte rafale de vent sur un sol détrempé et c’est la catastrophe assurée. Au fil du temps les grandes catastrophes naturelles se succèdent avec une fréquence accrue de nos jours. Que d’arbres vénérables juchés à terre, comme terrassés par un tremblement de terre.
-La liste des années à chablis (arbres tombés à terre) est longue : 1857, 1866, 1868 (5 à 10 par canton), 11-1875 (plus de 500 chablis sur le triage au garde Heintz), 27-01-1881 ( la tempête a renversé plusieurs chablis et enlevé plusieurs ardoises sur le poste des Clos ), 1886.
+La liste des années à chablis (arbres tombés à terre) est longue : 1857, 1866, 1868 (5 à 10 par canton), 11-1875 (plus de 500 chablis sur le triage au garde Heintz), 27-01-1881 (la tempête a renversé plusieurs chablis et enlevé plusieurs ardoises sur le poste des Clos), 1886.
 Après des gelées et une pluie abondante en février, dans la nuit du 13 au 14 février 1900, survint un ouragan.
 En 1907 le garde des Clos fait remplacer 300 ardoises après le coup de chablis du printemps.
 Chablis encore en 1911, 1930, 1932, etc.…. 
