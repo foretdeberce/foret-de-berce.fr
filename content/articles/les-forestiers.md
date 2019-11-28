@@ -45,3 +45,23 @@ Ces gestes se répètent inlassablement depuis l’arrivée des premiers foresti
 
 En 100 ans, de 1850 à 1950, plus de 130 Préposés forestiers se sont côtoyés ou succédés et encore bien plus d’auxiliaires. Tout ce monde formait une grande famille. Nombre de forestiers ont fait souche à Bercé, tissant par là même des liens très étroits entre la forêt et ses habitants. Parmi ceux-ci, la famille Pigault fut endeuillée par l’un des tous premiers accidents de la circulation routière à Bercé, qui survint le 2 Novembre 1932 au Soir. Revenant en vélo d'une Vente à Marigné, Louis Pigault et son épouse se trouvaient au Rond de la Lune et amorçaient leur changement de route vers le Hameau de Bercé, quand surgit de par derrière une voiture se dirigeant vers Jupilles. N'entendant pas les cris désespérés de son épouse, Louis fut violemment percuté par ce véhicule .  
 Agonisant, il décéda le 5 Novembre 1932.
+
+# Les officiers
+    
+**Louis-René Roulleau de la Roussière** 
+(1857-1929) en 1878 à l 'École Nationale des Eaux et Forêts de Nancy.
+Il fut Inspecteur Adjoint au Mans puis Inspecteur de 1885 à 1907  et a enrichi  la  toponymie de bercé,  en laissant  son nom à une avenue (dès la fin du 19e),  un rond et  un chêne . Il créa en 1907, l’Office Forestier du Centre  et de l’Ouest, et en 1912 le Comité 
+des Forêts.
+
+# Les tournées forestières 
+
+Les Écoles Forestières et Bercé
+….Une grande complicité ……….
+
+L’E.N.E.F: (créé en 1823)
+L'École Nationale des Eaux et Forêts (située à Nancy) fut La première à étudier Bercé Le 26 mai 1875. Cette  prestigieuse  École forme à l’époque les Officiers Forestiers Brevetés. 
+L’E.D.B. : (ouverte en 1884)
+L'École Secondaire d’ Enseignement Professionnel des Barres (située à Nogent Sur Vernisson-Loiret) forme des Officiers non brevetés, issus du rang des Préposés.
+Du 31 mai au 3 juin 1898, Officiers, Professeurs et Élèves viennent étudier Bercé pour La première fois.
+Depuis lors, ces deux Écoles n'auront de cesse de revenir régulièrement sur Bercé à l'invitation des Inspecteurs Forestiers en place et d’en faire son éloge. 
+1903 : Établissement par les Ouvriers d'abris en feuillage - les familles forestières établissaient une Loge et sa pancarte indiquant «Honneur à l'École Nationale Forestière»
