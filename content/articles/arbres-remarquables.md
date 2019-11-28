@@ -37,7 +37,8 @@ Une publication de l’inspecteur Potel concerne l’âge probable du Chêne Bop
 la revue des Eaux et Forêts de février 1924 relate : ***Les plus gros de ces arbres sont visiblement d’anciennes  réserves du «Tire et Aire» dont l’âge doit donc être d’environ 450 ans.***
 Pour les Forestiers c’est une évidence car jusqu’au 22 juillet 1935 personne n’avait auparavant pensé à compter les cernes sur les souches des arbres exploités qui se sont révélés être sur celle-ci au nombre de 275 (par déduction à 1m30).
 
-## Abatage (avec un "t" ... pour se démarquer de la boucherie) de l'ancien chêne Boppe .
+## Abatage de l'ancien chêne Boppe .
+(Abatage est noté ici selon le voeu de Raymond Viney ... avec un "t" ... pour se démarquer de la boucherie)
 Le Vendredi 19 Juillet 1935 commence l’ébranchage - Le garde Leclercq note pour ce jour : ***«au Chêne Boppe toute la journée pour prises de vues photographiques de son élagage et découpe d’une bille de 10 m de tronc ». Le collet était tellement gros qu’il sont montés à deux éhouppeurs.*** Le Samedi 20 juillet, ***«le matin à la Huberdière pour développement des clichés pris la veille au Chêne Boppe».*** (Albert Leclercq)
 L’abattage a lieu le 22 juillet. Les bûcherons, eurent raison de ce géant que l’on découpa bille par bille. y participaient : E.Vannier, P.Rimasson, A.Granier, Hervé "dit Pape", Ramaugé et Guimier.
 Le Godendart  (ce tire à toi, pousse à moi) est actionné simultanément par 4 personnes, deux sur la scie et deux sur la corde reliée à celle-ci. Ballion l’avait aiguisée pour l’occasion.
