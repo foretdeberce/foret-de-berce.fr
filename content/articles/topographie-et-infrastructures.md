@@ -7,7 +7,7 @@ featured_image: '/images/mare-en-foret.jpg'
 tags: ["Exploitation"]
 ---
 
-# topographie de Bercé  
+# Topographie de Bercé  
 Il pleut, il neige, et le brouillard emmitoufle la Forêt . Chaque arbre intercepte, évapore, transpire. Le sol tel une éponge, absorbe lentement, filtre, emmagasine. Les pentes ruissellent, les sources restituent  l'eau qui de nouveau s'infiltre . On le voit bien ici, à Bercé, eaux et forêt sont intimement liées.
 «.....Sous le sol de la Forêt de Bercé, la nappe d'eau se trouve à une profondeur de 30 à 33 m, elle coule sur les grès vert supérieurs sur lesquels repose la craie Tuffeau - Les seules sources qu’on rencontre émergent de ces grès au fond de petites vallées assez profondes  » (Potel) .   
 
