@@ -145,7 +145,7 @@ convenance de l’acquisition au compte de l’État, de la ferme de la Maison N
 20.000 f. frais non compris, pour 10 ha 77 a 40 ca appartenant à Mme. Veuve Duchesne demeurant à
 Luceau - Sarthe. Cette ferme est finalement achetée avec entrée en jouissance au 1er novembre 1934.
 
-> «  Allé avec un cultivateur reconnaître le terrain à cultiver dépendant de la ferme de la
+> « Allé avec un cultivateur reconnaître le terrain à cultiver dépendant de la ferme de la
 > maison Neuve puis allé avec lui chez le brigadier pour lui indiquer les conditions
 > demandées. » - PELTIER le 12 novembre 1934
 
@@ -203,16 +203,16 @@ le 27 octobre 1936 :
 + 2 picéas pungens glauca en motte (0,70 m à 0,90 m) : 28 f  (épicéas du Colorado).
 + Total 161,80 f – 25% accordés à l’administration. 
 
-*6 novembre 1936*, (PIE André) « Plantation d’arbustes dans le pré de la Coudre et extraction de plants
+*6 novembre 1936*, (PIE André) «Plantation d’arbustes dans le pré de la Coudre et extraction de plants
 de chêne (par deux ouvriers) pour plantation à la Maison Neuve- huit ouvriers jusqu’au 2 octobre 1936
-et 1 laboureur jusqu’au 2 novembre 1937. »
+et 1 laboureur jusqu’au 2 novembre 1937.»
 
 *1937*, construction d’une passerelle sur la ligne de série à la fontaine de la Coudre en fond de vallée
 à la limite des parcelles 144/127. Ragréage de la route d’accès à la Coudre. Semis de glands en réunion
 de brigade avec quatre ouvriers sur le terrain de la Maison Neuve. Réfection des digues des étangs. 
 
 *Octobre 1940*, démolition d’un mur de la Maison Neuve. Les pierres étant disposées en remblai sur la
-nouvelle route de la Coudre par les «  chômeurs ». Cette maison tombera en ruine après guerre faute de
+nouvelle route de la Coudre par les «chômeurs». Cette maison tombera en ruine après guerre faute de
 crédits pour pouvoir la conserver. En juillet 1943 elle est réduite à un tas de pierres. Seul le puits
 est en état. Construction de la loge de la Coudre par les chômeurs dans la vallée.
 
