@@ -26,15 +26,20 @@ Mais aussi des «Bois de mauvaise figure» comme le disait Buffon.
 (Brigadier Albrecht-avril 1906).
 En aucun cas ces pièces de Marine n’étaient destinées à la  Mâture. Les mâts provenaient des Pyrénées ou de Riga (baltique)
 
-
-
-Transport ferroviaire :
+## Transport ferroviaire :
 La dernière année ou il est question de Bois « Bons pour la Marine » sur Bercé ( 1921 ) est aussi la plus chargée en renseignements, rendez-vous et anecdotes. Le Garde Pigault écrit pour les 15 et 16 juin, puis 10 juillet 1921: *avec Mr. l’Inspecteur  Adoint et Mr. l’Agent réceptionnaire de la Marine, ainsi que les Collègues à la réception des bois de Marine dans la Parcelle A² (262) du Tertre aux Bœufs. L’entrepreneur Roquebert est chargé du transport de 488 M3 de bois de Marine. Employé au numérotage des billes. Le 11 Juillet avec le collègue Jouaux, nous avons marqué d’une lettre initiale, les arbres destinés à la Marine des Ports de Guerre de Rochefort, Lorient et Bizerte (Tunisie). Le 17 juillet 1921 : À la gare de Chahaignes, chercher les feuilles de voiture pour l’expédition des bois de Marine.*
 
 # 2 - Les  travaux forestiers 
+Les ateliers
+*«Les petits métiers se sont développés dans les massifs malaisés à exploiter et écartés des voies d’eau ou de terre; La confection d’objets représentait un moyen de valoriser sur place les matières ligneuses et de leur ouvrir malgré les obstacles, une certaine zone d’exportation».* P. Deffontaines.
 
-De nos Jours, grâce à une Sylviculture de pointe, et à ses bois de qualité, Bercé reste un des phares de la Forêt Française, attirant sans relâche quantité de Congressistes .
-«Imiter la Nature , hâter son oeuvre» : Cette céLèbre définition de la Sylviculture moderne, donnée par Le Forestier Parade (1837) directeur de l'E.N.E.F. garde encore aujourd’hui tout son sens.
+Une particularité méconnue de Bercé, c’est d’avoir produit un temps de la résine.
+En effet, de 1919 à 1931 nombre de pins ont subit cette traumatisante expérience du gemmage. Mais ces ateliers n’ont pas su attirer, contrairement à ceux du merrain l’attention des photographes. 
+Les bois de merrains étaient transformés en douelles pour barriques dans les ateliers situés en forêt ou dans les villages, tels ceux des tonneliers huiliers, recensés par Lucette Bardet de Château du Loir : 1755 René Savignard (la Huberdière), 1806 Pierre Savignard (Thoiré) et Jean Savignard, 1843 Prospère Savignard (Volumiers) . 
+Ou plus proche de nous, celui d’Albert Gateau, artisan tonnelier à St Vincent du Lorouër (1891-1987). 
+Lucien Miat a travaillé pour le Père Provost à la tâche, il a fait du merrain jusqu’en 1963 (il y en avait d’autres, mais ils sont décédés). Après il a été tonnelier et faisait des barriques à la Chartre sur le Loir.(témoignage de Marcel Perroux, né en 1922)
+Les ateliers en forêt, prennent ainsi place autour des loges, elles mêmes situées au cœur des ventes. La maison Gauthereau a été la dernière à fabriquer le merrain en forêt.
+
 
 # 3 - Le martelage
 Le martelage, est une opération sylvicole qui consiste à désigner les arbres à abattre, à l’aide d’un marteau et de son empreinte (ci dessus à gauche : 18e siècle, à droite, 19e et 20 e siècles. Les lettres Administration Forestière sont  gothiques et  y figure le numéro de la conservation). Peu de photos anciennes relatent cette particularité du métier de forestier sur Bercé.
