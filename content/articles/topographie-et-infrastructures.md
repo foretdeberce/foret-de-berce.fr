@@ -33,7 +33,7 @@ Bref, Bercé n'était point percé !
 Article 3 du titre 28 de l'Ordonnance de 1669 réglant les matières forestières .
 "Ordonnons que tous bois, épines, et broussailles, qui se trouveront dans l'espace de 60 pieds des grands chemins servant au passage des coches et carrosses publics, seront essartés et coupés, en sorte que le chemin soit libre et plus sûr". Cet article vise en ce qui nous concerne les routes royales de Vaas et de Tours.
 
-> Vu du ciel, Bercé apparaît comme un centre de résistance au défrichement. Dans les angles rentrants du Massif on a de grandes chances d'y trouver l'entrée d'un sentier, car l'homme soucieux de sa sécurité, pénétrait en sous bois le plus tardivement possible. C'est l'époque où le loup, grand prédateur, hantait les fourrés et que les bandits de grand chemin vous détroussaient, tel, dans celui de "Passe-Vite", véritable coupe-gorge. 
+>Vu du ciel, Bercé apparaît comme un centre de résistance au défrichement. Dans les angles rentrants du Massif on a de grandes chances >d'y trouver l'entrée d'un sentier, car l'homme soucieux de sa sécurité, pénétrait en sous bois le plus tardivement possible. C'est >l'époque où le loup, grand prédateur, hantait les fourrés et que les bandits de grand chemin vous détroussaient, tel, dans celui de >"Passe-Vite", véritable coupe-gorge. 
 
 Pratiqués par les charretiers (Transporteurs en tous genres) et leurs bêtes de somme, les anciens chemins se font aujourd’hui si discrets que l’on a bien du mal à les repérer.
 En 1783, date du deuxième aménagement de Bercé, le Surintendant Chaillou, agissant pour les intérêts de Monsieur, frère du Roi, entreprend le percement de Bercé, à la façon des grandes Forêts Royales à savoir : Création d'un réseau dense de routes, convergeant vers les carrefours en étoile, répondant parfaitement à l 'archétype du théâtre de la chasse à courre.
@@ -69,10 +69,11 @@ Une seule croix de bois existe de nos jours à Bercé, au rond du Souvenir, plac
 # Les loges des ronds
 Foyer d’humanité dans cet enfer vert, elles apportent à l’homme, chaleur, couvert et sécurité. N’oublions pas  que Bercé ne fut percé qu’en 1783.
 Au début du XIXe siècle la Loge commence à orner les ronds-points nouvellement créés. Elle accueille désormais, tout en prenant ses lettres de noblesse, ces messieurs de la chasse à courre, leurs chevaux, et les suiveurs. En briques de Pruillé l’Éguillé, en bois, torchis, paille, terre, tôles, elles répondent aux besoins de halte, repos et convivialité.
+
 «Le 4 septembre 1866, les Cantonniers Berger, Dupré, Venot et Le Simple, abattent un chêne pour la réparation de la loge de la croix Marconnay avec l’aide d’un Charretier ».
 Malgré ces continuelles réhabilitations, les Loges sont endommagées par des "dévoyés", le feu les ravage, les tables et bancs disparaissent, les « Plisses » d’herbe qui recouvrent certaines sont régulièrement piétinées par les enfants.
 Vers 1900, l’abri du Rond du Nacron, couvert de ses bardeaux possède une immense cheminée qui est le reste d’une première construction. Cette Loge fut incendiée accidentellement le 7 Janvier 1940, par des soldats, qui du 7 février à la fin août en rebâtirent une autre.
-La loge de Volumiers  vers 1900, peut accueillir trois chevaux de chasse à courre ou éventuellement ceux de Messieurs les officiers Forestiers, venus en opération de Martelage. Il s’y déroulait les revues d’armes ou  les inspections forestières.
+La loge de Volumiers  vers 1900, peut accueillir trois chevaux de chasse à courre ou éventuellement ceux de Messieurs les officiers Forestiers, venus en opération de Martelage. Il s’y déroulait les revues d’armes ou les inspections forestières.
 Volumiers et Croix Marconnay jouaient à la fois les rôles de :
 Salle de réunions « Avoir été au rendez-vous des deux brigades à la loge de Volumiers pour le service de surveillance ». (Paul Masseron – 22 Sept 1866).
 Dortoir : le 23 Juin 1902, les élèves Officiers de l’École Forestière de Nancy sont logés à Croix Marconnay dans un confort plus que sommaire.
@@ -91,7 +92,7 @@ Ce chemin de fer d’intérêt local, du Mans à Château du Loir, est désiré 
 Acte du 27 mars 1917 : Régissant le passage du tramway à Bercé.
 Par sécurité, les Services des Tramways de la Sarthe effectueront le débroussaillement de cette bande d'isolement (peu large : 1m70 de chaque côté de l’emprise) vers le 24 Juillet 1920.
 20 juillet 1921 : Note du garde général Heurteau.
-"Avec la sécheresse actuelle, seules les locomotives de Tramway, pourront faire exception à toutes les interdictions de feu, l'attention des Chefs de train et Mécaniciens devra être appelée sur l'utilité de fermer les cheminées avec une grille, au moins pour la traversée de la Forêt."
+*"Avec la sécheresse actuelle, seules les locomotives de Tramway, pourront faire exception à toutes les interdictions de feu, l'attention des Chefs de train et Mécaniciens devra être appelée sur l'utilité de fermer les cheminées avec une grille, au moins pour la traversée de la Forêt."*
 Les voyageurs étaient quelques fois invités à descendre des wagons pour éventuellement pousser l’attelage.
 14 mars 1933 : Dernière mention sur le Tramway pour une fermeture en 1935.
 Les rails ne seront démontés que plus tard : 1939, car en 1940 et Février 1941, le reste des rails est transporté par camion, quelques uns serviront à renforcer le virage de la Coudre.
