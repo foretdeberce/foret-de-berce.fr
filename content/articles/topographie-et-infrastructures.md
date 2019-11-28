@@ -69,7 +69,6 @@ Une seule croix de bois existe de nos jours à Bercé, au rond du Souvenir, plac
 # Les loges des ronds
 Foyer d’humanité dans cet enfer vert, elles apportent à l’homme, chaleur, couvert et sécurité. N’oublions pas  que Bercé ne fut percé qu’en 1783.
 Au début du XIXe siècle la Loge commence à orner les ronds-points nouvellement créés. Elle accueille désormais, tout en prenant ses lettres de noblesse, ces messieurs de la chasse à courre, leurs chevaux, et les suiveurs. En briques de Pruillé l’Éguillé, en bois, torchis, paille, terre, tôles, elles répondent aux besoins de halte, repos et convivialité.
-
 «Le 4 septembre 1866, les Cantonniers Berger, Dupré, Venot et Le Simple, abattent un chêne pour la réparation de la loge de la croix Marconnay avec l’aide d’un Charretier ».
 Malgré ces continuelles réhabilitations, les Loges sont endommagées par des "dévoyés", le feu les ravage, les tables et bancs disparaissent, les « Plisses » d’herbe qui recouvrent certaines sont régulièrement piétinées par les enfants.
 Vers 1900, l’abri du Rond du Nacron, couvert de ses bardeaux possède une immense cheminée qui est le reste d’une première construction. Cette Loge fut incendiée accidentellement le 7 Janvier 1940, par des soldats, qui du 7 février à la fin août en rebâtirent une autre.
@@ -78,6 +77,22 @@ Volumiers et Croix Marconnay jouaient à la fois les rôles de :
 Salle de réunions « Avoir été au rendez-vous des deux brigades à la loge de Volumiers pour le service de surveillance ». (Paul Masseron – 22 Sept 1866).
 Dortoir : le 23 Juin 1902, les élèves Officiers de l’École Forestière de Nancy sont logés à Croix Marconnay dans un confort plus que sommaire.
 Par la suite les Naturalistes de tous poils, s’y donneront rendez–vous.
+La loge de la Coudre, aujourd’hui disparue date de la dernière guerre. 
+En octobre 1940 : La route de contournement de la Coudre et la Construction de la Loge  forestière ont été réalisés par un chantier de Chômeurs. Il y avait un dépôt de munitions le long de la R.F. des Forges. En effet Bercé, la discrète hébergea de nombreux Résistants, Prisonniers et Dépôts de Munitions au sein de ses frondaisons.
+A la même période la route de contournement du ruisseau de la Gaie Mariée était aussi surnommée *«route des chômeurs»*.
+
+# Les loges et balays de bucherons
+Une  cabane en Forêt (rêve de tous gamins) était présente dans le milieu des coupes et devait répondre (fin XIXe) à de sévères règles d’établissement,  encore en vigueur avant la dernière guerre. Albrecht (1905) écrit : *«Accompagne Monsieur le Garde général et le brigadier pour la marque des places de loges et d’ateliers sur mon triage»*. Désignation était faite aussi des loges à feu. Note de l’Inspecteur du 28 janvier 1905: *«Les adjudicataires, ainsi que leurs facteurs, employés, bûcherons, ouvriers et voituriers, ne pourront laisser errer leurs chiens dans les Forêts. Les chiens servant à la garde des loges ateliers et chantiers devront être constamment attachés ou enfermés»*
+Émondeurs et bûcherons se reposaient dans leur « balay » de bois à Bercé.
+Ils confectionnaient sur le foyer de leur loge à feu, un vin chaud. A moins que ce ne soit un café arrosé de goutte et réchauffé sur la braise. Plusieurs fois n’a-t-on pas été surpris de voir la casserole s’enflammer d’elle même, tellement la charge en eau de vie était forte. La boisson alcoolisée était le carburant du Bûcheron. Mais lorsqu’ils se sont mis en tête de vouloir carburer à l’Oberlin, ils n’ont pu tenir plus d’un mois. André Vannier, le patron de Georges Chambon, avait une vigne à Chahaignes et par ce biais lui en avait procuré.
+«La Villa Huguette» loge de la famille Ballion.
+Loge implantée Parcelle 161, au carrefour  de la ligne de chemin de fer et de la ligne du Pau. Roland Ballion naitra au rond de Verneil en 1930... La scierie mobile se trouvait alors dans la parcelle 107 des Profonds Vaux, sur la commune de Lavernat. 
+Marc naîtra au rond de Peyrelongue, et sera le dernier enfant inscrit à Jupilles, comme étant né en Forêt. 
+## La famille Ballion
+>Venant du pays Landais, louvoyant au gré des forêts rencontrées, elle s’immobilise un temps au Lude, à la Porerie, et échouera enfin à >Bercé, alors terre d’accueil. Henri Thénaisie (né en 1911) a procédé avec son père , charretier, au déménagement de la Scierie Mobile >et de la roulotte du Lude vers Bercé ( 52Km ) ou l’atelier se sédentarisera petit à petit. La scierie fut établie un temps à Perseigne.
+>A Bercé, ils scient à façon pour Cartereau (Boisselier), Breteché, Gauthereau, la Scierie du Champ de Mars (Delhomeau), Millerand, >Garnier, conservant la vie durant, le même banc de scie à vapeur, se permettant d’y changer uniquement les volants.
+>Lorsque la guerre survint, les Ballion s’expatrient pour retourner chez eux dans les Landes de Gascogne. Le pont de Saumur sauta après >que Pierre Ballion fut passé. Lorsqu’ils arrivèrent là bas, il y avait tout autant, sinon plus d’Allemands. Émile y resta un mois puis >s’en revint seul en Sarthe. De là, il fut réquisitionné par les forces d’occupation pour aller scier au Luart. Plus tard, après guerre, >quand ses fils voulurent moderniser la scierie, Émile Ballion s’ établi marchand de bois. Pour se détendre, le dimanche, la famille >chassait lièvres et lapins alors en abondance à Bercé.
+
 
 # Le Tramway en quelques chiffres
 14 ans de Tramway à Bercé ( 1920- 1934 )
