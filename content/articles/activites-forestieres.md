@@ -6,7 +6,7 @@ description: "Forêt d'Exception"
 featured_image: '/images/activites-forestieres.jpg'
 tags: ["Exploitation"]
 ---
-# 1 - Les bois de marine
+# Les bois de marine
 Descente par flottage des bois sur le loir puis la Loire :
 Dans une lettre du 13 septembre 1797, le Sous-Ingénieur provisoire de la Marine précise :
 *«qu'il y a encore tant dans la forêt de Bercé que dans les ports de la Pointe et de Cour d'Hamont sur le Loir, environ 22000 pieds cubes (soit 754 m³) de superbes bois qui pourront je l'espère descendre la rivière dans le courant du mois prochain, Salut et fraternité.»*    Signé : Braud.
@@ -29,7 +29,17 @@ En aucun cas ces pièces de Marine n’étaient destinées à la  Mâture. Les m
 ## Transport ferroviaire :
 La dernière année ou il est question de Bois « Bons pour la Marine » sur Bercé ( 1921 ) est aussi la plus chargée en renseignements, rendez-vous et anecdotes. Le Garde Pigault écrit pour les 15 et 16 juin, puis 10 juillet 1921: *avec Mr. l’Inspecteur  Adoint et Mr. l’Agent réceptionnaire de la Marine, ainsi que les Collègues à la réception des bois de Marine dans la Parcelle A² (262) du Tertre aux Bœufs. L’entrepreneur Roquebert est chargé du transport de 488 M3 de bois de Marine. Employé au numérotage des billes. Le 11 Juillet avec le collègue Jouaux, nous avons marqué d’une lettre initiale, les arbres destinés à la Marine des Ports de Guerre de Rochefort, Lorient et Bizerte (Tunisie). Le 17 juillet 1921 : À la gare de Chahaignes, chercher les feuilles de voiture pour l’expédition des bois de Marine.*
 
-# 2 - Les  travaux forestiers 
+
+## Durant la dernière guerre : la carbonisation
+La carbonisation, pour une forêt, n’est pas un facteur d’équilibre, car le bois est bien souvent coupé très jeune, dégradant au passage le paysage et les sols. Bercé  en fut protégé. 
+En 1922 l’aménagiste dit de Bercé : Charbon de bois : ni marchands, ni propriétaires exploitants carbonisateurs de charbons de bois depuis longtemps sur Bercé, ni dans les environs.
+La reprise de l’activité du charbon de bois dans la Ragée, durant la dernière guerre, (de 1940 à 1942) n’avait qu’une connotation stratégique, afin d’alimenter les gazogènes, les moulins, boulangeries et  charbonniers du Mans.
+Le charbon confectionné en meule traditionnelle, était plus ouvrageux que celui du four en tôle, mais en contre partie beaucoup plus beau. Les charbonniers couchaient sur place afin de contrôler toutes les phases de la carbonisation.
+Il y eut de la carbonisation et de la mise en sac de charbon de bois dans la vallée de la Ragée pour son acheminement en carriole vers le rond du Guignier et son transbordement en camion jusqu’au Moulin de Saint-Georges près le Mans. 
+La famille Vannier, comme beaucoup d’autres, issue du monde rural, n’avait guère le choix de se tourner autrement que vers la forêt pour subsister. Le petit bordage ne suffisait en effet plus à l’entretien de la famille.
+Émile, en 1925 travaille dans les bois comme émondeur et bûcheron jusque vers 1937 puis comme marchand de bois et scieur (scierie de la route du Vaugermain, jusqu’en 1968). C’est à ce titre qu’en 1940, il est réquisitionné par les Bois de Guerre. 
+
+# Les  travaux forestiers 
 Les ateliers
 *«Les petits métiers se sont développés dans les massifs malaisés à exploiter et écartés des voies d’eau ou de terre; La confection d’objets représentait un moyen de valoriser sur place les matières ligneuses et de leur ouvrir malgré les obstacles, une certaine zone d’exportation».* P. Deffontaines.
 
@@ -50,12 +60,12 @@ Les derniers scieurs de long que j’ai vu étaient dans la parcelle 213 au dess
                                                                                           (Maurice Vérité, né en 1911)
 
 
-# 3 - Le martelage
+# Le martelage
 Le martelage, est une opération sylvicole qui consiste à désigner les arbres à abattre, à l’aide d’un marteau et de son empreinte (ci dessus à gauche : 18e siècle, à droite, 19e et 20 e siècles. Les lettres Administration Forestière sont  gothiques et  y figure le numéro de la conservation). Peu de photos anciennes relatent cette particularité du métier de forestier sur Bercé.
 Le compas forestier ou pied à coulisse, sert à mesurer le diamètre en valeurs compensées de 5 en 5 cm. La hauteur de la grume marchande est laissée à l’appréciation du marteleur. Les mesures sont ensuite appelées à voix forte en direction du pointeur qui les note sur sa fiche de martelage.
 Ces gestes se répètent inlassablement depuis l’arrivée des premiers forestiers sur le Massif de Bercé : (Gaubert (Gausbertus) forestier de Cléopas de Nouâtre en 1067 et Foucher, forestier de Gervais II, seigneur de Château du Loir (1071)
 
-# 4 - L’exploitation des bois ... Les bûcherons
+# L’exploitation des bois ... Les bûcherons
 
 Une équipe de trois bûcherons et le facteur de coupe ou garde vente en compagnie du Préposé des Eaux et Forêts Louis Pigault, lorsque celui ci occupait le poste de la Maison Forestière des Clos, vers 1920.
 Mr. Massicot travaillait comme facteur pour la maison CAREL du Mans qui faisait du  Merrain. Il avait une roulotte avec un cheval .(Maurice Vérité). Dupré, de Beaumont était celui de la Maison Ferrant. 
@@ -75,7 +85,7 @@ On s’y plaisait en Forêt ! - Au début c’était la cognée (la hache), ce 
 Avant le passe partout, les bûcherons s’appliquent à moiner le pied, c’est à dire à l’égobeler ou lui ôter les hanches. 
 Bercé c’est aussi une série résineuse de 2500 ha, moins prestigieuse que les 3000 ha de chênes, mais plus ouvrageuse. Edouard Guillier (quand il n’éhoupait pas) abattait les coupes pour Garnier, marchand de bois à Mayet et pour bien d’autres encore.                        La famille Pichon, a fourni en Bercé  des bûcherons de père en fils depuis des générations. Daniel dont le Père Raymond et le Grand Père Jules était aussi Bûcheron, pare le 5 décembre 1985 le plus gros chêne des Clos (1 m 40 de diamètre), qui a été vendu la bagatelle somme de 113.000F HT soit 17.227 €.
                             
-# 5 - Les As de Bercé : Les éhouppeurs
+# Les As de Bercé : Les éhouppeurs
 
 Les grumes de chênes de Bercé, parées de leur belle couleur rosée, sont tendres à souhait et se fendent facilement. Ces particularités font que les marchands de bois ne tergiversent pas longtemps sur le nombre d’arbres à éhoupper. La valeur de ces arbres est comme le risque à prendre : trop  grand. 
 Lorsque le collet était trop imposant, il était bon d’être au moins deux à bûcher au moment fatidique de la découpe. À trois dans le même hêtre….c’est souvent pour trinquer à la santé d'un photographe.
@@ -99,13 +109,42 @@ Témoignage de Maurice Vérité.
 Ces deux photos (archives Guillier) ont été prises en 1973 lors du tournage du film du Ministère de l’Agriculture intitulé Chroniques de Bercé. (réalisation : Mr Deleule)
 *Le métier d’éhouppeur était et est toujours difficile* (témoigne Édouard) *au début, les salaires étaient plus avantageux. Le métier est dangereux. Je me suis trouvé à recevoir un jour une trique sèche. Quand il pleuvait sur les hêtres, la corde ne tenait pas. Les hêtres de Bercé étaient plus durs, alors qu’en forêt de Lyons, ils étaient plus tendres. J’ai commencé à bûcher les pieds dans le fond des Monnées, sans tronçonneuse. L’éhouppement se faisait en ce temps là avec une petite hache. C’était pénible sans l’être, car les premières tronçonneuses étaient lourdes, mais ça partait plus vite. Au départ, il n’y avait pas de vêtements de sécurité.*
 
-# 6 - Les coupes
+# Les coupes
 
 Le paysage sylvicole de Bercé est peu représenté seul sur carte postale, mais à l’image la tendance qui prédomine est une haute futaie de chênes et hêtres en mélange. Aux dires de la dernière campagne de mesures de l’ONF, ces chênes sembleraient être les plus hauts de France (près de 50m dans l’Hermitière).        
 Bref, **"Le touriste bénéficie de ce qui a été fait depuis des siècles dans la forêt pour des fins dont il était parfaitement absent, faute d’exister... Avant qu’il naquit la forêt est prête à le recevoir et elle s’ouvre à lui sans défiance".*  
 (Roger Blais-la Forêt — 1947)
 
-# 7 - Paysages forestiers
+
+# Les scieries mobiles en forêt de Bercé : 
+La famille Ballion possédait en 1927 pour sa scierie, (grâce au Père d’Olga sa femme), du matériel de location. Il sciait 2 m ¾ / jour , il fallait que ça tourne.
+Face à la Villa Huguette la scierie Ballion, faussement dénommée Cartereau est implantée dans la parcelle 170, le long de l’actuel CD13. Le tramway desservait ce lieu.  
+Avec le cheval vapeur, la scierie devient "mobile ou volante". Il fallait 4 à 5 jours pour installer le matériel et les 16 m de rails du chariot. Quelques familles (il fallait être volontaire avec un grand V) vivaient ainsi au contact direct de la forêt, tels les Vannier, les Bignon de Jupilles, les Ballion de Pruillé l’Eguillé.
+Une fois, une autorisation qui avait été accordée de longue date par un Inspecteur des Eaux et Forêts, s’est transformée une semaine après le montage de la scierie Vannier, en un refus catégorique de la part de son successeur. Il a donc fallu démonter en toute hâte! (A.Vannier)
+
+# Le débardage à cheval ou à boeuf : tracteurs de nos aïeux .
+Voituriers, Charretiers, Fardiers, Attelages, tous utilisent la plus belle conquête de l'Homme. En 1905 il existait sur le Massif de Bercé : 
+68 Chevaux, 42 Fardiers, 29 Diables.
+Dès 1940, les chevaux et leurs charretiers sont mis à la disposition du 3e groupement de travailleurs forestiers par voie de réquisition afin de subvenir à la vidange et au transport des bois de guerre ainsi qu’au ravitaillement des camps de chômeurs ou de prisonniers.
+L’été, durant la guerre, les chevaux prennent pension dans les exploitations agricoles où ils aident aux travaux des champs.
+Après guerre, ce mode de transport ne survivra pas longtemps, au modernisme.  Vite détrôné, le cheval-vapeur, les gazogènes, les camions à essence puis à gasoil envahissent peu à peu le parterre des coupes. Nos Forestiers ont bien hésité à laisser rentrer ces monstres sur les semis, mais devant tant d’enthousiasme ils n’y purent rien.
+# Le Charretier
+Du temps d’André Ciret, né le 13 août 1921, il y avait pour débusquer le bois, jusqu’à huit chevaux, couplés par quatre. Bûcheron, il passait sa saison dans le balay avec toute l’équipe. Il amenait toujours avec lui un crochet pour "désencrouer" les arbres ou les arracher à "culée noire".
+André Ciret avait un profond respect de son métier et en parlait avec nostalgie.
+Henri Thénaisie (né en 1911) quitte l’école à 12 ans pour rejoindre son Père en forêt. Pour protéger ses reins, il portera toujours bien ligotée une ceinture de flanelle. Clément Thénaisie est en effet charretier propriétaire (1920 : train de 4 chevaux et 2 limons), tout comme Raymond Legeay. Le plus gros chêne qu’ Henri ai ramené de Forêt avec son père, c’était dans le Sault Moulin, avec le gros diable de chez Pasquier : 1 m 45 de diamètre par 10 mètre de long. « On a eu du mal à passer les fossés. On emmenait ces arbres à Château du loir par Vouvray pour ne pas avoir de côtes. De temps en temps on laissait des grumes au Guignier ou au clocher, pour les reprendre le lendemain. Les chevaux buvaient dans les mares le long du trajet , mares qui étaient régulièrement entretenues tous les ans». 
+
+# Le cheval vapeur
+Les tous premiers tracteurs Renault en Forêt de Bercé ressemblaient à des tanks.
+Le 6 mai 1922 les premiers tracteurs font leur apparition sur le parterre des coupes. 
+Après la première guerre mondiale, la machine arrive sur le massif. Des démonstrations de tracteurs eurent lieu dans le canton du Sault Moulin (en régénération), devant les Inspecteurs et Préposés. Rappelons que le tracteur à moteur à pétrole est une invention Française de 1849, que le tracteur à chenilles date de 1904 et que la formule Diesel n’est apparue qu’en 1929. Sont donc essayés à Bercé : 
+Le 20 mars 1931 : le tracteur à chenilles Caterpilar
+Le 17 avril 1931 : les tracteurs Renault (ci dessus) et Lathil
+Le 30 avril 1931 : le tracteur Citroën
+Suite à ces essais concluants, les Marchands de bois virent tout de suite le profit qu’ils pourraient tirer du modernisme . Des charges plus lourdes tirées en un minimum de temps. C’est à court terme le glas du Percheron, du Boeuf et de leurs charretiers.  
+Mais le progrès a du mal à s’imposer en 1939, car les tracteurs à chenillettes sont interdits par certains forestiers qui tremblent à l’idée de les voir saccager les semis en sous bois.
+Pour évacuer les bois vers les scieries, on emploie dès 1928 les camions gazogènes.
+
+# Paysages forestiers
 Bercé c’est l’ancienne forêt Royale, peuplée principalement par Le Grand Colbert, de chênes bien venants.
 Mais c’est aussi sur les ruptures de pentes (terrains Pauvres) et les acquisitions de landes de 1723, une sylviculture plus intensive des pins sylvestres (récente) et de pins maritimes (introduits bien avant 1650 dans la région d’Écommoy).
 Cette biodiversité c’est tout le charme de cette Forêt.
