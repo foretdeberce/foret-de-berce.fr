@@ -6,6 +6,30 @@ description: "Forêt d'Exception"
 featured_image: '/images/activites-forestieres.jpg'
 tags: ["Exploitation"]
 ---
+# 1 - Les bois de marine
+Descente par flottage des bois sur le loir puis la Loire :
+Dans une lettre du 13 septembre 1797, le Sous-Ingénieur provisoire de la Marine précise :
+*«qu'il y a encore tant dans la forêt de Bercé que dans les ports de la Pointe et de Cour d'Hamont sur le Loir, environ 22000 pieds cubes (soit 754 m³) de superbes bois qui pourront je l'espère descendre la rivière dans le courant du mois prochain, Salut et fraternité.»*    Signé : Braud.
+D'autres références connues font état de :
+34 trains de bois sur le Loir en 1832 d'après la perception des droits de navigation sur les coupons de trains de bois…… 11 trains en 1833….3 trains de bois pour 102 m3 en 1852 acheminés par six hommes Ce fut probablement la fin du flottage sur le Loir. Les marchandises transportées à la descente se composaient au ¾ du tonnage total, de bois et de planches. (bois de débit, de sciage, de charpente et voliges). Cette date de 1852, correspond avec l’amélioration du réseau routier, à Bercé comme en Sarthe.
+1er Mars 1870 : *J’ai visité le canton de Volumiers ce qui a donné lieu au rapport ci—après :
+Monsieur le Brigadier ,
+Ce matin en visitant la coupe définitive 2e lot de l’exercice 1869, au Canton de Volumiers, j’ai remarqué  que la marine portant le n°15 n’était pas abattue, l’article 45 du Cahier des Charges de l’exercice 1869 en prescrit l’abatage à la date de aujourd’hui. Le n°12 qui a été renversé par le vent, n’est pas ébranché. J’ai cru urgent de porter ces faits à votre connaissance.
+J’ai bien l’honneur de vous saluer très respectueusement.
+		Le Garde Forestier Leroux*
+NB : Les anciens forestiers se démarquaient de la boucherie, en écrivant abatage avec un seul « t ».
+
+La marine ne recherchait pas seulement sur Bercé des billes droites pour les membrures :
+*A l’âge de 100 ans* (dit l’aménagiste de la forêt de Bercé en 1843) *les bois commencent seulement à prendre de la valeur et ne donnent que de la menue charpente, produits très accessoires pour une Forêt comme celle de Bercé, destinée à fournir aux constructions navales et civiles, les bois des plus grandes dimensions...*
+Mais aussi des «Bois de mauvaise figure» comme le disait Buffon. 
+*«En reconnaissance des arbres bifurqués dans les coupes du Canton de la Gaie-Mariée»* 
+(Brigadier Albrecht-avril 1906).
+En aucun cas ces pièces de Marine n’étaient destinées à la  Mâture. Les mâts provenaient des Pyrénées ou de Riga (baltique)
+
+
+
+Transport ferroviaire :
+La dernière année ou il est question de Bois « Bons pour la Marine » sur Bercé ( 1921 ) est aussi la plus chargée en renseignements, rendez-vous et anecdotes. Le Garde Pigault écrit pour les 15 et 16 juin, puis 10 juillet 1921: *avec Mr. l’Inspecteur  Adoint et Mr. l’Agent réceptionnaire de la Marine, ainsi que les Collègues à la réception des bois de Marine dans la Parcelle A² (262) du Tertre aux Bœufs. L’entrepreneur Roquebert est chargé du transport de 488 M3 de bois de Marine. Employé au numérotage des billes. Le 11 Juillet avec le collègue Jouaux, nous avons marqué d’une lettre initiale, les arbres destinés à la Marine des Ports de Guerre de Rochefort, Lorient et Bizerte (Tunisie). Le 17 juillet 1921 : À la gare de Chahaignes, chercher les feuilles de voiture pour l’expédition des bois de Marine.*
 
 # 2 - Les  travaux forestiers 
 
