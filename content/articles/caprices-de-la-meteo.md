@@ -25,3 +25,20 @@ Ces arbres, si grand, ne peuvent luter à armes égales avec des éléments déc
 En  1967  c’est une catastrophe annoncée : du 7 janvier jusqu’au 14 février le sol enneigé emmagasine l’eau. En mars, c’est sur un sol détrempé que la tempête se lève le dimanche 12 vers 17 h 30. Les estimations semblent impossibles devant l’ampleur des dégâts.
 Mais la pluie continue en mai et le 25, c’est Ventouse II... le retour.
 Le rapport de l’agent technique Louis Goenvec mentionne : ***"La tempête se lève à 12 h 30 avec un maximum vers 13 h 15 jusqu’à 17 h 10. Les militaires sont en manœuvre et les routes à nouveau coupées. Les militaires participent au débarrage des routes jusqu’au lendemain. À 13 h signature du PV de bien vivre qu’ils ont bien mérité".Ces désobstructions dureront ainsi jusqu’en juin. Cette deuxième secouée a fait beaucoup d’autres dégâts en forêt. Au chêne Boppe c’est une catastrophe".*** 
+
+# Le feu
+
+## Les incendies
+
+Note de Mr le Conservateur à Mr l’Inspecteur des Eaux et Forêts au Mans.
+
+*Félicitations 
+Des renseignements que vous m’avez adressés relativement à l’incendie qui a éclaté durant la nuit du 2 au 3 août dans la forêt domaniale de Bercé, canton des profonds Vaux, il résulte que le garde Barbé s’est employé à combattre cet incendie avec beaucoup d’énergie et de dévouement.
+Je vous prie de transmettre à ce préposé mes vives félicitations. 
+Alençon le 13 août 1906*           Signé : Bartet
+
+## L'incendie de 1949
+
+Bernard Masseau fut embauché comme bûcheron chez Ledru, son beau-père en août 1949 (le chantier se trouvait sur c’te Ménouère de Vaas). Il se souvient de ce fameux été, il faisait très chaud, trop chaud, le feu avançait tellement vite qu’ils ont dû partir – Cette année, c’est près de 500 hectares qui partiront en fumée. L’actualité Sarthoise du 1er août 1949 en  a fait sa "une".
+Après le terrible incendie de 1949, on afficha partout des tracts pour ne pas jeter cigarette et allumettes.Le feu est l’ennemi de la forêt et rare sont sur Bercé les feux d’ origine naturelle, telle la foudre.Après guerre, des entreprises de déminage fonctionnèrent en forêt dans l’endroit appelé aujourd’hui Bikini. Ce canton fut sans arrêt dévasté par des mises à feu d’obus incontrôlées. 
+
