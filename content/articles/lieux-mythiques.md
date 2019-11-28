@@ -254,23 +254,23 @@ Pierre BOULAY, marchand de bois.
 (Henri deviendra aussi entrepreneur de travaux forestiers).
 
 *1914*, Ouest Éclair du 13 mai : Grande fête champêtre  et réunion sportive. 
-*La grande fête champêtre annuelle qui a lieu au hameau de Saint-Hubert et qui attire toujours une foule
-considérable, de promeneurs dans ce joli coin de la belle forêt de Bercé, aura lieu le dimanche de la
-Pentecôte, 31 mars 1914. Plusieurs sociétés musicales prêteront leur concours à cette grande réunion
-sportive, de bicyclettes et motocyclettes. A 13 heures, course cycliste, séries, vitesse, distance
-6 kilomètres; à 14 heures et demie, rendez-vous des motocyclettes ou side-cars; à 15 heures, 
-grande excursion motocycliste à la fontaine de la Coudre, un des plus beaux sites de la forêt de 
-Jupilles (cette excursion est ouverte à tout motocycliste, lesquels sont priés de se faire inscrire 
-à l'avance, jusqu'au 25 mai, dernier délai, chez M. CHOPLAIN, bar de la Sirène, au Mans, ou chez M. AVICE.
-cafetier à Saint-Hubert, commune de Marigné; droit d'inscription, 0,50 f; à 15 heures et demie,
-course cycliste, finale; à 16 heures et demie, course de motocyclettes, ouverte à tous les
-motocyclistes (2ème catégories), deux objets d'art; pendant les courses, concert; à 17 heures et demie,
-collation en plein air, après laquelle le champagne sera offert gratuitement à tout cycliste ou
-motocycliste ayant participé à l'excursion ci-dessus; à 19 heures, grand banquet par souscription servi
-par M. AVICE, cafetier; à 22 heures, retraite aux flambeaux, bal public.
-De nombreux engagements de motocyclistes sont déjà inscrits et nous sommes certains que cette belle,
-fête attirera cette année de nombreux promeneurs, lesquels n'auront pas à regretter leur déplacement
-en ce jour de fête.*
+>*La grande fête champêtre annuelle qui a lieu au hameau de Saint-Hubert et qui attire toujours une foule
+>considérable, de promeneurs dans ce joli coin de la belle forêt de Bercé, aura lieu le dimanche de la
+>Pentecôte, 31 mars 1914. Plusieurs sociétés musicales prêteront leur concours à cette grande réunion
+>sportive, de bicyclettes et motocyclettes. A 13 heures, course cycliste, séries, vitesse, distance
+>6 kilomètres; à 14 heures et demie, rendez-vous des motocyclettes ou side-cars; à 15 heures, 
+>grande excursion motocycliste à la fontaine de la Coudre, un des plus beaux sites de la forêt de 
+>Jupilles (cette excursion est ouverte à tout motocycliste, lesquels sont priés de se faire inscrire 
+>à l'avance, jusqu'au 25 mai, dernier délai, chez M. CHOPLAIN, bar de la Sirène, au Mans, ou chez M. AVICE.
+>cafetier à Saint-Hubert, commune de Marigné; droit d'inscription, 0,50 f; à 15 heures et demie,
+>course cycliste, finale; à 16 heures et demie, course de motocyclettes, ouverte à tous les
+>motocyclistes (2ème catégories), deux objets d'art; pendant les courses, concert; à 17 heures et demie,
+>collation en plein air, après laquelle le champagne sera offert gratuitement à tout cycliste ou
+>motocycliste ayant participé à l'excursion ci-dessus; à 19 heures, grand banquet par souscription servi
+>par M. AVICE, cafetier; à 22 heures, retraite aux flambeaux, bal public.
+>De nombreux engagements de motocyclistes sont déjà inscrits et nous sommes certains que cette belle,
+>fête attirera cette année de nombreux promeneurs, lesquels n'auront pas à regretter leur déplacement
+>en ce jour de fête.*
 
 *1921*, Il y a fête à Saint-Hubert (patron des forestiers et des chasseurs) le 15 mai 1921 : courses
 cyclistes et réjouissances.
