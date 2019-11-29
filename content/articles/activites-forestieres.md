@@ -144,6 +144,16 @@ Suite à ces essais concluants, les Marchands de bois virent tout de suite le pr
 Mais le progrès a du mal à s’imposer en 1939, car les tracteurs à chenillettes sont interdits par certains forestiers qui tremblent à l’idée de les voir saccager les semis en sous bois.
 Pour évacuer les bois vers les scieries, on emploie dès 1928 les camions gazogènes.
 
+# Les scieries 
+En lieu et place des Armatures Mancelles sur Marigné au début du 20e siècle : la scierie Berger, est alors réputée pour sa grande et belle production de parquet.
+Elle employait en forêt nombre de bûcherons et d’éhouppeurs.
+A l’époque une multitude de petites exploitations forestières, naissent autour de la Forêt de Bercé. On assiste aussi au développement des scieries ambulantes qui, en effectuant leur tour de France, s’arrêtent quelques mois dans la région,  pour débiter les grumes en forêt. 
+La scierie Bignon de Jupilles, dont le moteur à vapeur a pris feu au ras du moulin dans la Vallée du Dinan (moulin ayant appartenu au Prince Charles de Beauveau). La Scierie Allard de Beaumont Pied de Bœuf, est une affaire de famille depuis 1926. Les scieries Adet à Saint Vincent du Lorouër, Jamet à Thoiré, Vannier à Chahaignes, Ballion, Foreau et Legeay à Pruillé l’Éguillé, Papin à Villaines sous Lucé, Berger à Marigné, Garnier à Laillé, Luce et Barillet à Écommoy, Busson et Cavé à  Verneil et Mayet et bien d’autres encore que j’ai pu oublier...Toutes ces exploitations familiales ont participé activement et très directement à l’essor du marché du bois de la forêt de Bercé, dite de Jupilles, comme le précise l’entête de facture Adet. 
+Il est vrai qu’à l’époque, Bignon, cafetier aux Sources de l’Hermitière (sur St Vincent du Lorouër), ventait celles ci par le biais de cartes postales portant toutes le cachet  :
+ les Sources de l’Hermitière—Jupilles—Sarthe. 
+Bignon, qui habitait cette commune située au cœur du croissant vert, lui assurait ainsi la meilleure  des publicités.
+
+
 # Paysages forestiers
 Bercé c’est l’ancienne forêt Royale, peuplée principalement par Le Grand Colbert, de chênes bien venants.
 Mais c’est aussi sur les ruptures de pentes (terrains Pauvres) et les acquisitions de landes de 1723, une sylviculture plus intensive des pins sylvestres (récente) et de pins maritimes (introduits bien avant 1650 dans la région d’Écommoy).
