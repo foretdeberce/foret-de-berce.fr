@@ -188,3 +188,166 @@ En 1959 les vieux fusils et revolvers de calibre 6/35 seront délaissés au prof
 • Les livrets journaliers de Bercé à ces dates.
 
 
+
+
+# L A   G U E R R E  1914 - 1918                                                           
+
+## En 1914 ##  
+La région était calme  (Henri Thénaisie)
+1er août 1914 : (Silvestre) En tournée aux Cantons de la Lune et du Buisson, à Marigné ayant entendu le tocsin, passé chez le Brigadier.
+2 août 1914 (Pelletier) chez le Brigadier Esse, pour voir s'il y avait des ordres relatifs à la mobilisation décidée la veille . Mobilisation de Jean-Robert (Profonds Vaux):
+*Reçu l'ordre de Mobilisation Générale ... fait les préparatifs de départ en attendant l'ordre de départ. Reste à mon Poste en attendant l'ordre du départ , le 4 – le 5 – le 6 – le 7 (Service de nuit pour la surveillance des routes et des grandes voies de communication idem le 8 – le 9 –10 – surveille les 6 – 7 – et 8ème triages, le 11 tournées aux routes et ronds jusqu’au 31 août.
+3  août  1914 : Reçu des ordres du Brigadier Esse d'avoir à se préparer pour le Vendredi 7 Août , pour partir au camp du Mans.(Peltier)
+7  août   1914 : A La gare de Château du Loir, conduire les camarades mobilisés (Silvestre) – Départ de Peltier et Esse ( 08/1915) .
+27 août  1914: Restriction des Crédits ? (Silvestre) à Marigné et à Ecommoy, prévenir le menuisier et le peintre que les travaux de la Maison Forestière des Renardières n'auraient pas lieu ( Suite au départ du Brigadier Esse) .
+13 sept.1914 : (Silvestre) Reçu l'ordre de remettre mon fusil à la Gendarmerie d'Ecommoy le 15 septembre  (fusil et accessoires) .
+Le 16 septembre : au soir, été verser le fusil baïonnette - baguette 1886/93 à la Gendarmerie de Château du Loir – Ordre de Mr. le Conservateur : fusil propre et en bon état, vu par le Maréchal des Logis de la Gendarmerie.
+18 oct.1914 :  (Silvestre) à Ecommoy, pour assister à l'enterrement d'un ami mort au Champ d'Honneur.
+21 octobre: 2 ouvriers à enlever les tôles à un hangar américain – le garde Robert assume l'intérim des Forestiers partis à la Guerre.
+13 déc. 1914 :   Distribution de cartes de circulation.*
+>Les Prisonniers arrivent vers le 24 décembre 1914.
+
+## 1915
+*Oct. 1915 :  Le Génie militaire est en Forêt avec ses Bûcherons militaires.
+18/10/15    Reconnaître 2 logements pour les ouvriers militaires:
+1°> Un logement pour 20 hommes chez M me. Gaudin, au Petit coq.
+2°> Un logement à Laillé chez Mr Hureau Père: une Maison entière, plus  une grande salle chez sa fille, même bâtiment  pour 30 hommes.
+23 octobre, Visité le soir avec Mr. l' Inspecteur, à St. Hubert les cantonnements des Prisonniers de Guerre.
+6 et 7 décembre 1915 : installation de 60 Prisonniers de Guerre à St. Hubert ( Ordre de Mr. l' Inspecteur Allaire ).
+8 décembre Embauchage de 60 Prisonniers de Guerre pour les travaux d'abattage de bois dans une coupe 	de Pins  - Canton de la Tasse.
+Le 10 décembre Ils n'étaient plus que 59 – Fait réparer les outils - Le 14 été à Château du Loir à l' Hôpital complémentaire, voir Mr l' Officier Gestionnaire, demander un médecin  pour le service des Prisonniers de Guerre ( ordre de Mr. l' Inspecteur Allaire) – Fait apporter 18 masses en bois  à St. Hubert et 4 coins en fer.  Le 16 décembre :  Confection de 30 masses en bois de Hêtre.*
+>Signatures du livret : par manque de personnels il y a  peu de signatures  sur les livrets journaliers en temps de guerre. 1 les 22 >avril 1914 Allaire, 5 mai 1914, 8 juillet 1914, 13 août 1914 , 23 septembre 1914, 4 mars 1915, 26 août 1916  puis plus rien jusqu'au  >28 février 1920 .
+Surveillance des Maisons Forestières dont les Forestiers sont partis sur le Front, le 28 Août ( Renardières,  Forges, Tasse, Profonds Vaux) et 5 Septembre (Huberdière , Doucinière) .
+Durant la Grande Guerre, la pénurie des hommes se faisait durement sentir. Les Forestiers, écrivaient le 8 novembre 1915  " Par manque de personnel, les Marchands de bois ne peuvent plus fournir dans le coin, des traverses de chemin de fer." .
+1915 (Suite)	Le 24 Novembre 1915 (Silvestre) " Trouvé ce matin, dans le canton du Sault Moulin une femme  demi-gelée, fait le nécessaire pour lui faire réintégrer son domicile. 
+6 Décembre, (Silvestre) à St. Hubert avec Mr.  l'Inspecteur pour l'installation des prisonniers de guerre.
+
+## 1916
+*Prisonniers de Guerre : Un Inspecteur du Ministère de la Guerre, le Conservateur et l'Inspecteur, à vérifier le 7 mars 1916, les travaux des Prisonniers aux Chantiers de la Tasse Croix Segrier, (puis Joriette), Verneil.
+Départ des prisonniers : 8 juillet 1916 à St. Hubert.
+Ouvriers du Génie en oct. 1916 jusqu’au 23 Janv. 1919 - Génie: Soir du 17 Mars 1919 : en embuscade route de Tours – La Tasse ( Départ du Génie) de 18 h à 22 h ( coupes de bois) route de Vaas: (dépôt du Génie Profond Vaux coupe 107 de 16 à 20 h et ainsi de suite, donc plus de militaire à cette date.
+7 Septembre (Silvestre) à Château du loir, chercher des objets de literie prêtés à l'Hôpital temporaire.* 
+>Tout, durant la guerre, devant être tenu secret par devant l'ennemi , il est des phrases dans les livrets qui transpirent cet état de >choc : exemple le 8 octobre 1916 : (Silvestre) " vu le garde Bougreau qui m'a fait part d'un incident, dont j'ai rendu compte à Mr. >l'Inspecteur – Vers 18 h reçu la visite de Mr. Marion et Lalouët  qui m'ont entretenu de l'affaire ci-dessus – de laquelle, on ne saura >jamais rien.
+
+## 1917	
+6 Janvier, les PG (Prisonniers de Guerre) sont à l'abattage des arbres P.261 des Monnées, jusqu'au 31 janvier et en Février sont à Gaie Mariée (extraction de pierre) puis sur les RF dans les Follets, ils travaillent aussi  dans Croix Gorgeas.
+Les Prisonniers ne travaillent pas les jours de pluie ( sans doute à cause des difficultés de séchage du linge.)
+12 décembre 1916 : Jouaux est occupé à faire la clôture du camp des Prisonniers de Guerre à Gaie - Mariée – idem le 18.
+### Les Camps -
+Il y en a plusieurs :
+1)   La Huberdière ( un groupe de 8 baraques de type Génie de 15 m x 3,80) plus une baraque de 23 m x 5, couverte en tôle ondulée qui servait de cuisine et réfectoire, il y avait aussi 2 WC. ( entourages en planche 6 m x 2 et 3 m x 1,50) . Ce Camp était entouré de poteaux, ronces  artificielles (107 m) et grillage sur 215 m
+2)  Le Camp de la Chauvinière
+     1 groupe de 3 baraques type Génie de 15 m x 3,80
+1 Groupe de 6 baraques de types divers (écuries, hangars, magasins) longueur totale 111 m x  3,40m.
+3)  Au Rond-point des Forges:
+     Un hangar en partie clos de 20 m x 6 et une baraque de type Génie.
+4)  Camp des Prisonniers de la gaie Mariée ( Rd. Wautot)
+  P. 198 b, à l' emplacement de l' actuelle plantation d' Alisiers ( dans la pointe, à l’intersection de la route de la mare des Etangs) ensemencée  naturellement en PS vers 1932, 1 baraque de type Adrian de 41 m x 8 avec mobilier: 53 isolateurs, 4 poêles à cloches……
+      Entourage du Camp, 170 m de poteaux avec grillage de 2 m et 1000 m de ronce artificielle
+ 5)  Au Rond du Guinier.
+      Une baraque de type Adrian de 10 m 50 x 8m.
+
+Le 15/04 -Main d'œuvre:  Sursis d'appel pour Auguste Manceau de Jupilles ouvrier de Mr. Jules Reffé (Thoiré - Marchand de bois). Sursis refusé en revanche à Touchard Narcisse de Pontvallain.
+ Vu la cherté du coût de la vie, il est attribué en août 1917 aux Préposés une indemnité dite de " Cherté de vie"  de 15 Fs. par mois  ( par Mandat)
+ 20 novembre 1917 (Silvestre) avec les Gendarmes de la Chartre, arrestation de deux déserteurs Belges au Canton des Hutteries.
+
+## 1918	
+Neige à  la mi-Février 1918
+*6 Mars : Agrandissement par les" P.G."  du chemin de l'Hermitière. Au dessus de l'Hermitière, dans une Maison isolée "Les Patisseaux" logent des Prisonniers Marocains (Voir témoignage Fernand Vérité) ceux-ci devaient être maltraités, car le soir on les entendaient crier, hurler. 
+15 Mars 1918 (Jouaux) Prévenu l'adjudant des Marocains et les prisonniers que vu le temps beau et sec , il était défendu de faire du feu en Forêt.
+4 Juin 1918 ( Jouaux) " Remarquer que les conducteurs Marocains, mettaient leurs chevaux  au pacage dans les coupes de régénération de Tertre aux bœufs P.262 - Prévenu, suite à l'arrêté Préfectoral sur la fièvre aphteuse, le Sergent qui commande les Conducteurs Marocains, chargés de l'enlèvement des bois de l'intendance de ne pas laisser pacager leurs chevaux dans les coupes de régénération du Tertre aux bœufs P.262  ( idem Bougreau 06/1919) . 
+20 Juillet 1918 (Silvestre) " A Ecommoy conduire mon fils partant pour le Front"
+Camps " des Américains" route de Mayet et de Vaas, 13 Nov. 1918.*
+
+
+## 1919
+10 Janvier 1919 (Albrecht) *Pris connaissance d'une circulaire de Mr. le Directeur Général concernant la mobilisation des Agents et Préposés des E. et F. 16 Janvier 1919 (Fin des travaux 	des P.G.) 24 Janvier 1919 – Vu la carrière des Américains – Mesurage du champ de tir 10/04/19.*
+(Albrecht) *" Au Camp de Prisonniers de Guerre, pour l'inventaire des outils et du matériel appartenant à l'Administration. Dans le même  temps, des tournées de nuit ont lieu dans les coupes exploitées par le Centre des Bois afin de prévenir tout vol ;
+Un Prisonnier Allemand a été enterré à St.Vincent. Après guerre, elle n'était pas du tout entretenue ; en 1944 à l'arrivée des Allemands, la tombe a été rénovée, puis ils ont emmené  les restes chez eux – (Paulette Berthelon) Ce Prisonnier, serait mort du côté de l'Hermitière, à faire du bois.*
+
+### PRISONNIERS
+(Silvestre) à St Hubert le 6 décembre 1915 avec Mr. l' Inspecteur pour l'installation des Prisonniers.
+Du 6 au 12 déc.1915 et du 13 au 18 déc.1915 : 381 journées. (épandage de pierres sur les routes forestières).
+Du 16 au 31 déc.   1915 : 808 journées soit environ 60 Prisonniers
+Du 1er au 15 janv.  1916 : 722 h.
+Du 17 au 31 janv.  1916 : 713 h. ( 56 Prisonniers /J)
+Du 31/01 au 15/02 1916 :  668 h. ( 56 Prisonniers /J
+Du 16 au 29 fév.   1916:  465 h (  54 Prisonniers /J)
+Di 1er au 15 mars   1916 :  53 à 59 Prisonniers soit : 736 h.
+Du 16 au 31 mars  1916 :  783 h. soit 57 à 59 Prisonniers .
+Du 1er au 15 avril.  1916 :  757 h. (ragréage routes) 57 à 58 Prisonniers.
+Du 16 au 22 avril.  1916 :  670 h. (réfection fossés) 2 à 58 Prisonniers.
+Du 1er au 15 mai    1916 :  726 h.( nivellement d'accotements) 52 à 58 Prisonniers
+Du 16 au 31 mai :  1916 :  772 h. : 2 à 58 Prisonniers.
+Du 1er au 14 juin : 1916 :  de 2 ( punis le Dimanche) à 57 : 682 h.
+Du 16 au 30 juin : 1916 : de 2 ( le Dimanche) à 54 : 633 h.
+Du 1er au 7 juillet:  1916 : de 2 (Dimanches corvéables) à 54 : 318 h.
+>Les Prisonniers étaient donc chargés principalement d'entretien routiers, sur le Massif, mais apportaient ponctuellement une aide au >façonnage des coupes réservées à l'armée.
+>Les Prisonniers recevaient une solde, ne travaillaient pas les jours de pluie.
+>15/01/1916 : Remis 200 Fs. au Chef du détachement, même chose le 29/01/1916 (Solde des Prisonniers).
+>L'arrêt des chantiers de Prisonniers se situe en début février 1919
+	
+Durant l'année 1919, les préposés reçoivent des mandats :
+		1) Pour indemnité de route.
+		2) Frais de vaccination.
+		3) Indemnité exceptionnelle du temps de guerre.
+		4) Pour travaux d'amélioration exécutés en 1918.
+
+Ainsi le 20 Mars 1919 (Albrecht) : *Visité les "exploitations militaires". Les restrictions alimentaires sont d'actualité. Ex : 31 Mars 1919 (Albrecht) à Marigné, pour les cartes de pain. 20 Juin 1919 retour de Fernand Peltier (Père) démobilisé. Repris son service le 21 Juin ( à Château du Loir, faire viser notre livret militaire à la Gendarmerie) 14 Juillet : - Pavoisé la Maison Forestière. Les bois du Génie sont donc surveillés nuit et jour par les Préposés qui en font en mars l'estimation du cube pour la liquidation le 16 Juillet 1919.
+	Champ de Tir Américain : Surveillance 31/07/19, 15 octobre 1919 : été à Mayet prévenir  Mr. Delaroche, tonnelier , lui interdire l'enlèvement des hangars du champ de tir américain (non vendus).	 fait transporter le 5 Mai 1919 : 180 tôles provenant du champ de tir Américain, en dépôt sur la route de la Guiltière pour y être transportées à la gare de Mayet, et être expédiées à  l'Inspection de Rennes.
+ 2 Novembre 1919, à la fête des Morts. Les bois seront vendus à Legeay  et Adet (St Vincent) – Maris et Pasquier (La Chartre s/Loir) . Mais il reste encore du bois de chauffage  sur les coupes du Génie -(Intendance) (8 Déc. 1919) Comptage des poteaux et rondins appartenant au Génie qui sont en dépôt sur la ligne de Grammont, la route de Jupilles à Mayet, la route Nationale Le Mans-Tours  et la ligne de "Waas" (écrit comme cela par Peltier) et route de Pruillé. Ce dépôt  sur la "RN 138" ne disparaîtra que le 27 janvier 1921. (Voir plus loin)– Les 30 et 31 Décembre: sectionnement des stocks. Le 31 Décembre 1919 : numérotage des stocks et répartition des lots en vue de leur vente.*
+
+## 1920	
+1er Janvier 1920, constate quelque tôles enlevées. 10 novembre 1920 vidange des champs de tir.
+7 Janvier : Nivellement butte de tir (en partie). Estimation le 20 janvier de 2 lots de matériel : charpente, plancher, stères et stock bois du génie.
+	Liquidation des stocks de la 15 ème conservation – Forêt Domaniale de Bercé – le 11 Mars à 14 heures à la Mairie de Jupilles.
+	A)   Stocks Français : (Bois de chauffage façonné et déposé bord de routes forestières- stères de bois durs et résineux).
+	B)    Vente ce même jour des stocks américains dont nous avons déjà parlé.
+
+## 1921
+### Histoire d'un dépôt de bois gênant.
+Origine : Ce dépôt  fait partie du dernier stock de l'Autorité Militaire. Bois du Génie du Mans
+déposé sur le bord de la route en 1916, par l'Equipe du Centre d' Exploitation des bois, dont le Commandant était le Capitaine du Génie Granger.
+      Début de l'Affaire : ... les  méandres des administations
+9 Juin 1921  Rapport du Chef de Brigade de 3ème Classe Blanc de la Gendarmerie de Château du Loir sur un dépôt de Sapins en grume sur la Route Nationale n° 158 à 50 m de la Maison Forestière de la Tasse (7 tas de sapins en grume) Placés perpendiculairement à la route de telle sorte que l'extrémité se retrouve près du bord de la chaussée,... *ce dépôt d'arbres, constitue un réel danger pour la circulation, étant donné que le moindre écart sur le bas côté, lors du croisement de deux voitures (par exemple), notamment pendant la nuit, pourrait occasionner un accident.*
+11 Juin 1921	N° 1021 Vu et transmis – à St.Calais , le Lieutenant Asserguet, commandant l'arrondissement.
+13 Juin 1921	N° 695 J'ai l 'honneur de vous transmettre, le présent rapport qui a été établi par mon ordre, à la suite des constatations que j'ai faites en me rendant en automobile à Château du Loir. L'embarras de la voie publique signalé, cause un réel danger à la circulation sur cette route nationale et constitue une infraction à l'article 471 5.4 du Code Pénal.
+
+14 Juin 1921	Le Mans le Capitaine Mathieu Commandant la Compagnie. 
+N° 5266B Transmis pour attribution à Mr. l' Inspecteur des Eaux et Forêts, Directeur de l'Ancien Centre des bois du Mans.
+19 Juin 1921	Le Mans , le Chef de Bataillon Le Bourgeois- Chef du Génie.
+N° 779 – Transmis à Mr Hurteau , Inspecteur Adjoint des Eaux et Forêts au Mans, qui voudra bien se charger de la liquidation des stocks, à moins qu'il n'aient déjà été vendus, auquel cas il faudrait mettre en cause l'acquéreur. Rambouillet : Le Directeur du Centre des bois du Mans  signé : Granger.
+25 juin 1921	Communiqué au Brigadier Albrecht à Marigné, en le priant de me faire connaître de quels arbres il s'agit ? S'ils appartiennent  à l'Autorité Militaire, indiquer le Cube et la valeur approximative de ces bois. Le Mans. L'Inspecteur Adjt des E et F Hurteau.
+28 Juin 1921	J'ai l'honneur de faire connaître à Mr. l'Inspecteur Adjoint des E et F  que les bois en dépôt  sur la Route Nationale n° 158 font partie du dernier stock vendu à Mr Cavé Albert, marchand de bois à Mayet .
+Ces bois en question ont été enlevés le 27 Juin 1921. Il n'en reste plus en dépôt  sur la route Nationale 158 (actuellement 138) .
+Marigné le brigadier des E et F. Albrecht
+
+Camp Indochinois à Aubigné le 13 Juillet 1921. 
+
+## 1922
+(Janvier)  Cubage de la butte de terre de la Guiltière : (butte de Tir)
+9 Oct. 1922 et 17 octobre : Nivellement des banquettes. Comblement des banquettes de tir .
+
+## 1923 
+17 Février 1923 (Pigault) reçu mandat n° 32 de 198 Fs. Liquidation des stocks de guerre.
+
+## 1927
+Le 24 Juillet, Cérémonie Officielle de l'Inauguration du Monument dédié à la mémoire des disparus durant la Grande Guerre… et déjà l'on pense à la prochaine!
+Le 23 Décembre 1927: Les Forestiers aident au recensement dans les Mairies des Villages pour transmission au comité de recrutement.
+
+## 1928
+10 Fév. 1928	Le Ministre de l'Agriculture (Direction de l'Agriculture établit et tient à jour pour l'ensemble du Pays, un Plan et un Journal de mobilisation agricole
+Caractère secret  des documents de mobilisation.
+*Tous les documents concernant la préparation de la Défense Nationale , doivent être considérés comme ayant un caractère confidentiel, même s'ils se rapportent à des dispositions paraissant n'avoir aucun caractère secret – La divulgation de celles-ci , peut en effet par recoupements successifs , fournir aux services de renseignements, qui ont intérêt à les connaître , des indications précieuses sur l'ensemble de notre organisation pour le temps de guerre..
+Par suite, toutes mesures doivent être prises en vue d'assurer le secret de leur réception, garde et transmissions.*
+
+## 1929
+19 Août 1929	Besoins du Ministère de la Guerre, en charbon de bourdaine à la mobilisation
+   SECRET	Le Directeur Général des Eaux et Forêts à Mr le Conservateur à Alençon:
+*Monsieur le Ministre de la Guerre vient de m'informer, que les besoins mensuels  de la Direction de l' Artillerie en charbon de bourdaine  serait de 36.000 Kgs. A la Mobilisation. Il serait nécessaire, de connaître la quantité de bourdaine que pourrait fournir votre arrondissement ( forêt soumise ou non ), ainsi que les noms des exploitants ou industriels, qui pourraient  être chargés de l'exploitation de cette bourdaine et de sa carbonisation. Vous voudrez bien m'adresser ces renseignements aussitôt que possible et pour le 15 Octobre prochain au plus tard.
+	Po. Le Directeur Général
+ – Le Conservateur des Eaux et Forêts autorisé – signé Emery
+	Transmettre les éléments demandés à la Conservation pour le 1er Octobre  signé Ducellier 20 Août 1929.
+	Transmettre les renseignements demandés à l'Inspection pour le 15 Septembre  signé Potel .24 Août 1929.
+	Réponse d'Albrecht le 11 Septembre 1929 .
+	J'ai l'honneur de rendre compte à Mr. l' Inspecteur Principal qu'il n'y a pas de Bourdaine en quantité suffisante pour faire une exploitation, dans la 2ème Brigade de la Forêt de Bercé, ni dans les bois particuliers des environs. Il en sera ramassé sur Bercé en 1945.
