@@ -109,20 +109,24 @@ Depuis lors, ces deux Écoles n'auront de cesse de revenir régulièrement sur B
 
 
 # PLAQUES DE GARDES
-## Eaux et forêts….. « Force à la loi » 
+## 1 - Eaux et forêts….. « Force à la loi » 
 
 La seule vue de leur plaque invite à la sagesse d’éventuels saccageurs !
 Cette marque distinctive de leur fonction d’autorité fait partie du costume des gardes du domaine ou des gardes particuliers. Dans les textes anciens, les gardes sont désignés comme assistants des officiers des Maîtrises des eaux et forêts mais on ne parlait guère alors de la «vêture» des gardes (leur tenue d’aujourd'hui).
+
 **XI° siècle :**
 Mise en place d’un service forestier sur le « forestage Seigneurial de Berçay »
+
 **XII-XVI° siècles :**
 Vers 1291 (date de la création par Philippe le Bel du corps des Eaux et forêts), la livrée est par définition, un vêtement fourni par le seigneur à sa suite, et dont certains éléments, couleurs, galons, boutons, rappelle les armoiries du maître.
 Par décret Royal, « Les sergents de toute nature, officiers publics chargés de l'exécution des décisions de justice, ne doivent exercer leurs fonctions que revêtus de leur manteau bigarré et la verge à la main »… bien entendu, nous ne parlons ici que d’un bâton de bois…! (Ordonnances sur le fait de la chasse donc des Eaux et forêts de François 1er  de mars 1515 et août 1533).
 Les gardes sont cités dans l'édit de Charles IX d'août 1573. En 1563, Charles IX rachète Bercé aux Rohan qui deviendra définitivement forêt royale en 1585 …» 
+
 **Fin XVII° siècle :**
 « Toutes les coutures des vêtements des personnages, y compris des gens de service, sont recouvertes de passementeries multicolores «bigarrées», sortes de galons que l'on retrouve en bordure des bandoulières (ou baudriers) sur lesquelles sont appliquées les armoiries princières, brodées ou métalliques. Cette marque, brodée à l'origine, fut peu à peu et dès la fin du XVIIème siècle, constituée par une plaque de métal présentant les armes ou armoiries du propriétaire du domaine sur l'étendue duquel le garde exerçait son activité. » 
 1669 :Dans la célèbre «Ordonnance de Louis XIV sur le fait des Eaux et Forêts du 13 août», au chapitre des « Huissiers-audienciers, gardes généraux et gardes des forêts et des bois », article III, page 39 de l'édition originale, il est fait mention de l'obligation  aux gardes de porter « des casaques brodées à nos armes pour les faire reconnaître ». 
 Les "Maistres" et officiers établis pour commander aux gardes d’une forêt éloignée d’une maîtrise, possédaient quant à eux une tenue verte qui faisait qu’on les surnommait tel l’oiseau forestier « le verdier d’Europe ». Ce nom commun désignant le forestier est aussi à rapprocher à Bercé du toponyme « Segrayer » concernant le canton de Croix Segrier. (cf: Gruerie) 
+
 **Fin XVIII° siècle**:
 ...et spécialement dès le début de l'époque révolutionnaire.
 Il fut admis « … que les plaques ou broderies pourraient être portées sur un brassard, et même remplacées par des médailles à une ou deux faces parlantes appendues au cou. 
@@ -148,5 +152,26 @@ En 1852, un décret fixe la couleur « vert finance » des uniformes pour les 
 Une plaque identique à la photo ci-dessous à gauche a été retrouvée à la maison forestière de Nardos  (Perseigne). 
 Cette plaque modèle 1875, dite de la 3ème République est la dernière en service aux Eaux et forêts. Elle fut remplacée après guerre par l’insigne argenté sur patte de cuir (photo ci-dessous). 
 Désormais ce dernier, appelé écusson,  pucelle ou épinglette désigne clairement à son tour la légitimité de celui qui la porte.
+
+**XX° siècle** : 
+1922 : La plaque reste l'insigne des fonctions des préposés. Elle est fournie par l'Administration avec le livret. Le garde entrant n'a rien à rembourser à son prédécesseur pour la remise de cet insigne. Les autres objets sont achetés et payés par les préposés. Elle se porte ostensiblement. Il  est  important  que,  dans  l'exercice  de  leurs fonctions, les préposés soient toujours munis de leur plaque et revêtus de leur petite tenue. La petite tenue, telle qu'elle a été réglée par un  arrêté ministériel  du  25 novembre 1878 (Circulaire. 238), et qui n'a subi depuis que des modifications de détails, se compose d'une blouse bleue en coutil de coton, d'un gilet à manches en drap vert foncé, d'un pantalon en drap bleuté pour l'hiver et en coutil rayé bleu pour l'été, d'un képi souple, identique à celui de la grande tenue avec cors de chasse sur le képi et d'une cravate bleue en coton. Les brigadiers portent à leur képi un galon d'argent de trois millimètres.
+
+Les préposés de tout grade doivent en outre être munis des objets suivants :
+ 1°) Sac de chasse, dit carnier, avec bandoulière en cuir noir.
+ 2°) Plaque, en cuivre, avec l'inscription : Administration des Eaux et Forêts.
+ 3°) Marteau. Le marteau est affecté au triage dont il porte le numéro, mais l'acquisition en est laissée à la charge des préposés, aussi sa valeur doit-elle en être remboursée au garde sortant. 
+ 4°) Livret. 
+ 5°) Chaîne métrique.
+Le port de ce costume et des insignes distinctifs de l'emploi permet de reconnaître  la qualité des gardes, et prévient ainsi les violences auxquelles ils peuvent être exposés de la part des délinquants. Les gardes doivent pouvoir à tout moment, exhiber leur plaque portant comme inscription "Administration des forêts" (1850), "Administration des Eaux et Forêts"(1950), "Forêts" (plus tard), ou tout simplement  leur commission.
+
+## 2— Gardes Particuliers….. « Force à la loi » 
+
+Les gardes particuliers ne possèdent pas d'uniforme particulier. Dans les grandes forêts, ils portent fréquemment une tenue de chasse aux insignes du propriétaire et ostensiblement une plaque sur laquelle sont inscrits les mots "La Loi" et doivent être munis de leur commission. Plaques ou insignes peuvent s'accrocher par une pince ou des agrafes à hauteur de la poche supérieure gauche de la veste du garde.
+
+
 **Bibliographie :
 (1) Des années entières dans les bois lozériens : les agents et préposés des eaux et forêts en Lozère, du Code forestier à la Grande guerre / Olivier NOUGAREDE(1985)**
+**** « Des plaques de Gardes » par Raymond GAGNEUX (administrateur de la Société pour  la protection des paysages et de l’esthétique en France – Paris)  publié par La Revue Forestière Française – 1982.
+* « Insignes et marques distinctives de l'Administration des Eaux et Forêts » Étude de monsieur Louis LAVAUDEN (Nancy. Promotion 1907) publiée par la « Revue des Eaux et Forêts » en 1927.
+**** « Des années entières dans les bois Lozériens » mémoire d’Olivier NOUGAREDE 1985 Laboratoire de l’INRA : les agents et préposés des Eaux et forêts en Lozère du code forestier à la Grande Guerre.
+* Étude de Jean Claude CHAUSSE : « la reformation des plaques de baudrier des eaux et forets. Question de communication ou affirmation du pouvoir ? » Revue Forestière Française LXII - 2-2010 pages 175 à 178.
