@@ -102,10 +102,10 @@ Le 8 avril : "à Château du Loir pour consulter le Médecin qui me traite depui
 Benoni cessera toute activité forestière le 1er mars 1891 avec le grade de "Garde général". 
 Il sera enterré le 27 juillet 1894 à Beaumont Pied de Bœuf. 
 
-## Ah, ce siège de Paris! : Coté Allemand : 10.000 tués et blessés 2.000 disparus. 
-## Coté Français 16.000 tués et blessés 8.000 disparus…une véritable boucherie. 
-## Du général Trochu, chef du gouvernement provisoire de défense nationale, Victor Hugo dira de lui : 
-## "Trochu, du verbe trop choir".  
+> Ah, ce siège de Paris! : Coté Allemand : 10.000 tués et blessés 2.000 disparus. 
+> Coté Français 16.000 tués et blessés 8.000 disparus…une véritable boucherie. 
+> Du général Trochu, chef du gouvernement provisoire de défense nationale, Victor Hugo dira de lui : 
+> "Trochu, du verbe trop choir".  
 
 ## Henri Thénaisie témoigne : 
 *"Il n’y a pas eu, à ma connaissance d’exaction en forêt durant la guerre de 70. Cependant au niveau des Forges, à 100 m on voyait les tranchées de la guerre de 1870. Quand les Prussiens sont passés, ils ont vidé le moulin des Follets (Chez le Père Morisseau- Moulin en activité jusqu’en 1927). Sur St. Pierre du Lorouer, par contre, les combats furent acharnés (ST. Pierre est le verrou naturel de la vallée de la Veuve)."*
