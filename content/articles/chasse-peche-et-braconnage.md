@@ -7,7 +7,7 @@ featured_image: '/images/chasse-a-courre.jpg'
 tags: ["Faune"]
 ---
 
-# La pêche une mission des eaux et forêts de 1897 à 1938
+# La pêche une mission des eaux et forêts de 1897 à 1938.
 
 40 ans de surveillance et de gestion des cours d'eau domaniaux
 par les Préposés des Eaux et Forêts de Bercé.
