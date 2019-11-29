@@ -49,7 +49,7 @@ Se faisant discrets, sous leur manteau de feuilles ou au plus  profond du labour
 les Ferriers ont su nous parvenir intacts.
 Tel le carreau minier de la Coudre avec ses puits comblés, et les haldes de machefer.
 Ce machefer contient encore 42% de minerai.
-
+En 1926 reprise de l'exploitation des déchets de Forges par des serbes qui le dimanche faisaient des fêtes.
 Les cultivateurs mirent en place les premiers parcellaires.
 "Notre région éminemment forestière offre en pleine "Paix Romaine" une insécurité totale,
 car, cultivée suivant le mode Celtique, par clairières  isolées " (Marc Bloch).
