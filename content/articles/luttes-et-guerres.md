@@ -123,23 +123,24 @@ L'avers porte l'effigie de la République, tête à gauche, cuirassée et casqu�
 
 Le 20 octobre 1912 le garde Silvestre écrit sur son livret journalier: « Assisté à la remise des médailles de 1870 – 1871 à Ecommoy » 
 
->DOTATION le 14 septembre 1875 du Chasseur Forestier Heintz  (n° matricule 3129)
+>DOTATION le 14 septembre 1875 du Chasseur Forestier Heintz  (n° matricule 3129).
 >Un mousqueton chassepot d’artillerie modèle 1866 (calibre 11mm. Il mesure 0m 93 pour 3kg200 plus 0m70 de sabre-baïonnette) d’une portée >de 1200m. Mis en service en 1873, soit un an avant le système 1874. Arme très rare, en version d’origine, dite d’artillerie.
->Une poche à cartouches
->Une bretelle de mousqueton
->Deux coulants en cuivre
->Une plaque de ceinturon et le verrou de cette plaque
->Deux crochets à bouton en cuivre 
->Une musette en toile ou sachet à cartouches
->Un havresac avec planchettes et courroies
->Un porte-sabre baïonnette
->Un sabre baïonnette
->Un fourreau de sabre 
+>Une poche à cartouches.
+>Une bretelle de mousqueton.
+>Deux coulants en cuivre.
+>Une plaque de ceinturon et le verrou de cette plaque.
+>Deux crochets à bouton en cuivre. 
+>Une musette en toile ou sachet à cartouches.
+>Un havresac avec planchettes et courroies.
+>Un porte-sabre baïonnette.
+>Un sabre baïonnette.
+>Un fourreau de sabre. 
 >Un nécessaire d’arme renfermant un « lavoir » une lame tourne vis une clef, une spatule curette et une trousse.
->Un étui renfermant une aiguille et un ressort à boudin de rechange
->Deux obturateurs dont un de rechange
->Un ceinturon d’infanterie
->Une giberne 
+>Un étui renfermant une aiguille et un ressort à boudin de rechange.
+>Deux obturateurs dont un de rechange.
+>Un ceinturon d’infanterie.
+>Une giberne.
+
 •Il y a encore peu de temps, sous la restauration et le II empire, les forestiers portaient en sus, un "couteau de chasse" qui pouvait s’apparenter à un glaive.
 
 Des revues d’armement ont lieu périodiquement, pour présenter aux officiers forestiers le bon état d’entretien de ces matériels.
