@@ -6,9 +6,9 @@ description: "Forêt d'Exception"
 featured_image: '/images/tourime.jpg'
 tags: ["Remarquables"]
 ---
-# Le Tourisme  
 
 ## 3 Avril 1905
+Dès le xxe siècle, le tourisme se développe avec les avancées techniques et le développement de l'automobile. 
 Note de Roulleau : 3 Avril 1905 à Mr le Garde Général.
 J’ai attiré d’une façon très particulière votre attention dans mes lettres du 16/08 et du
 27/10/1904 sur la question des mesures à prendre pour empêcher les déprédations 
