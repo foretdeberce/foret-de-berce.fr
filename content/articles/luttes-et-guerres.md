@@ -79,7 +79,7 @@ La lutte est particulièrement vive à Montreuil le Henri, Brives près de Courd
 «Un Prussien est, dit-on, enterré sur Chahaignes, près de la cave à Guédé dans le taillis.». 
 
 
-### L'action :### 
+### L'action :
 *« Le 5 janvier 1871, attaque des forts du Sud. L'attitude des hommes, sous la pluie des projectiles qui vient subitement les accueillir, fut admirable. L'amiral FLEURIAU de LANGLE, commandant le 6ème secteur, fit complimenter officiers et soldats. La contenance de la troupe ne se démentit pas un seul instant pendant les 20 jours que dura le bombardement. Les détachements de service se maintinrent aux postes les plus périlleux et les compagnies, bien qu'exposées jour et nuit dans leurs casernements, à la chute des obus, firent preuve du meilleur esprit et de la plus grande solidité. »*
 Le régiment constituait aussi, avec douaniers et gendarmes, une division de réserve, tant en vue d'opérations extérieures, que de troubles intérieurs à réprimer (général SOUMAIN puis de MALROY).
 11 janvier 1871 : La Bataille du Mans est perdue. Les prussiens entrent dans le Mans le 12 janvier après-midi.
