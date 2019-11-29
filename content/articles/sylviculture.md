@@ -14,6 +14,9 @@ En forêt de Bercé, les règles de culture font l’objet de soins constants de
 l'ensemble du personnel de l'Office national des forêts.
 Les forestiers interviennent tout au long de la vie des peuplements pour façonner une forêt
 apte à vous accueillir.
+De nos Jours, grâce à une Sylviculture de pointe, et à ses bois de qualité, Bercé reste un des phares de la Forêt Française, attirant sans relâche quantité de Congressistes .
+**«Imiter la Nature , hâter son oeuvre» : Cette céLèbre définition de la Sylviculture moderne, donnée par Le Forestier Parade (1837) directeur de l'E.N.E.F. garde encore aujourd’hui tout son sens.**
+
 
 
 ### La partie cultivée en chêne est assez bien équilibrée en classes d'âge.
