@@ -8,9 +8,8 @@ tags: ["Remarquables"]
 ---
 
 
-# L’arbre mémoire vivante 
-
-En forêt domaniale de Bercé, dans la Sarthe, un chêne en pleine force de l’âge,  se dresse en fond de parcelle 218, dans la vallée dite Noire, surgissant à la vue tel un point d’exclamation. 
+# En forêt domaniale de Bercé
+dans la Sarthe, un chêne en pleine force de l’âge,  se dresse en fond de parcelle 218, dans la vallée dite Noire, surgissant à la vue tel un point d’exclamation. 
 Seul de sa génération (car il est né avant la révolution de 1789), il domine de plus jeunes chênes  et des pins d’origine américaine (douglas).
 En empruntant à pied la route de la vallée des Pierres, cet arbre majestueux {n°54 : 3,34m de circonférence, 41,50m de hauteur totale, fourche à 20,50m (06/01)} a vite fait de vous interpeller. 
 Les forestiers l’ont élu, lui donneront pour nom : Chêne Muriel …..et condamné à conserver la vie
