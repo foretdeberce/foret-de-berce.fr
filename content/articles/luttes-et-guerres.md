@@ -351,3 +351,260 @@ Par suite, toutes mesures doivent être prises en vue d'assurer le secret de leu
 	Transmettre les renseignements demandés à l'Inspection pour le 15 Septembre  signé Potel .24 Août 1929.
 	Réponse d'Albrecht le 11 Septembre 1929 .
 	J'ai l'honneur de rendre compte à Mr. l' Inspecteur Principal qu'il n'y a pas de Bourdaine en quantité suffisante pour faire une exploitation, dans la 2ème Brigade de la Forêt de Bercé, ni dans les bois particuliers des environs. Il en sera ramassé sur Bercé en 1945.
+	
+# La guerre 1939-1945
+## 1933
+Le 9 juin…En cas de mobilisation, des pointeurs réceptionnaires seront rattachés au  " Centre des Bois" dépendant des différentes Conservations. Ces Pointeurs réceptionnaires seront chargés de réceptionner sur coupes, les bois exploités et dans les scieries, les bois débités Pressentis sur Bercé: A savoir: PENARD (Pruillé), GARNIER (Mayet), LEGEAY  (Pruillé), BORDEAU et ADET (St.Vincent) OLIVIER (Jupilles).
+
+## 1936
+Tout le monde est, à st Vincent, sorti pour voir arriver à la gare du tramway les Chômeurs. Ceux ci sont partis à pied vers la forêt. Ce sont eux qui ont entre autre construit la cabane de la fontaine de la Coudre.
+
+## 1937
+Sur le cahier affiche des ventes de bois, l’on peut voir cette publicité :
+Marchands de bois, Scieurs, Exploitants Forestiers………
+Donnez l’exemple, faites de la propagande pour l’emploi du gazogène.
+Dénombrement des stocks de bois en scierie : fait en déc. 1937 par les forestiers afin d'étudier l'approvisionnement du Centre des Bois.
+
+## 1938
+TELEGRAMME OFFICIEL N° 0577644 du 28 Novembre 1938
+MINISTRE DE L’INTERIEUR A PREFETS FRANCE
+CIRCULAIRE
+*Vous communique… appel du Gouvernement aux fonctionnaires, agents et ouvriers des services publics. Le GOUVERNEMENT ne doute pas, qu'après l'appel adressé à leur raison et à leur conscience par le Président du Conseil, tous les fonctionnaires, agents et ouvriers des Services Publics seront à leur poste dans la journée du Mercredi 30 Novembre
+Il rappelle que la cessation du travail, constituerait une faute grave. Cette faute, exposerait ceux qui la commettraient à la révocation. Aucune autorisation d'absence individuelle ne sera accordée le 30 Novembre. Une liste des absences constatées, sera dressée par chaque Chef de service en vue de l'application de sanctions légales – Elle sera adressée par télégramme au Président du Conseil le 1er Décembre à 8 heures du matin.
+Devra être particulièrement signalée, toute action de propagande destinée à provoquer la cessation du travail, propagande qui tombe directement sous le coup de poursuites légales.* EDOUARD DALADIER
+Veuillez communiquer ce document à tous les chefs de service de votre département pour être immédiatement porté à la connaissance du personnel.
+Copie conforme adressée pour sa règle à Monsieur le Conservateur des Eaux et Forêts. Au Mans le 28 Novembre 1938
+Le Préfet - Signé : M. GEORGE
+Copie conforme transmise au Brigadier Poumérol, pour information. Je ne doute pas, que l'appel du Gouvernement sera entendu et que chacun voudra faire son devoir.
+Le Mans le 29 Novembre  1938, Le Conservateur des Eaux et Forêts.
+30/11/1938  A. Pie : Reste à mon poste par ordre de Mr l'Inspecteur (note du 28/11/38)
+
+>MINISTERE DE LA DEFENSE NATIONALE ET DE LA GUERRE
+>DECRET PORTANT REQUISITION DES AGENTS ET OUVRIERS DES SERVICES PUBLICS ET DES PERSONNELS DES SERVICES CONCEDES.
+>LE PRESIDENT DE LA REPUBLIQUE FRANCAISE,
+>Sur le rapport du Président du Conseil, Ministre de la Défense Nationale et de la Guerre,
+>Vu les articles 1er, 2,5, 29 et 58 de la loi du 3 Juillet 1877, modifiée par la loi du 21    Janvier 1935;
+>Vu le Décret du 6 Juin 1936 relatif à l'exercice du droit de réquisition ;
+>Vu l'article 2 du décret du 5 Novembre 1870 ;
+>DECRETE :
+>ARTICLE PREMIER : - Sont mis en état de réquisition :
+>1°  - L'ensemble des Agents et Ouvriers des Services Publics  de l'Etat, des Départements et des Communes.
+>2°  - L'ensemble du Personnel des Services concédés de l'Etat, des Départements et des Communes.
+>ARTICLE 2 : -  La présente réquisition fera l'objet, suivant les circonstances, soit de notifications collectives par voies d'affiches, >dans les conditions prévues par l'article 132 du Règlement d'administration publique du 2 Août 1877, modifié par le Décret du 2 Août >1914, soit de notifications individuelles.
+>ARTICLE 3 :  Le Président du Conseil , Ministre de la Défense Nationale et de la Guerre, est chargé de l'application du présent Décret, >qui recevra exécution immédiate.
+>Par le Président de la République - Fait à Paris le 28 Novembre 1938
+>Le Président du Conseil, Ministre de la Défense Nationale et de la Guerre - Albert LEBRUN-Edouard DALADIER
+
+NOTIFICATION
+>Le Décret ci-dessus publié au " Journal Officiel " du 29 Novembre 1938 est immédiatement exécutoire.
+>La présente affiche constitue la notification collective prévue par l'article 2.
+>En conséquence, le personnel de la 15 ème  Conservation des Eaux et Forêts, est, dès à présent en état de réquisition.
+>Le Président du Conseil, Ministre de la Défense
+>Nationale et de la Guerre : Edouard DALADIER
+
+
+## 1939
+Stock d'Armes : 2 mai 1939. A 14 h suis allé voir un stock d'armes découvert par les Ouvriers à la Guiltière. Découverte par deux Ouvriers dans la Parcelle 58 du Canton de la Tasse de plusieurs armes de guerre : 1 Fusil Mitrailleur de marque Anglaise – 1 Fusil Lebel – 1 Fusil  de marque Anglaise – 1 Mousqueton Français – (Toutes armes sans culasse).
+12/09/39 Arrêté supprimant le repos hebdomadaire.
+
+Les Agents, Pie, Messager, et Rimasson sont mobilisés du 8 au 21 Septembre 1939 au Centre des Bois n° 15 à Versailles, puis à leur retour au Mans, au C. M. B n°15 et affectés jusqu'à nouvel ordre dans leurs Maisons Forestières.
+En fin d'année, travaux de réception de bois militaires, dans les scieries Pasquier (La Chartre) ou Cavé  (Mayet) et délivrance le 23 Décembre de deux épicéas  pour la Troupe d'Ecommoy.
+Des travailleurs espagnols travaillaient durant la 2ème Guerre pour des Français. Ils transportaient en 1939 les bombes en forêt pour les cacher. Les Espagnols sont pratiquement tous restés en France fuyant le régime de Franco.
+
+
+## 1940
+
+Témoignage de Mr. Borderon Adrien (né en 1915) et Claudette Borderon (née en 1918)
+*Pendant la guerre, les riverains, s'ils avaient besoin d'un arbre, allaient le prendre pas trop loin dans un endroit assez découvert.
+Le Gibier était interdit d'être chassé. Mais comme tout ce qui est interdit malheureusement ! Mais actuellement c'est tellement interdit que celui qui est pris, il perd ses biens.
+Les  Allemands avaient la Forêt  (de juin 40 à Août 44). Mais il y avait "les collets" qu'on appelle, des trucs quoi! Comme dans l'ancien temps, comme au Moyen Age, mais on ne craignait pas grand chose, on ne craignait que les Allemands. A deux, on faisait confiance en son voisin, et tout seul il faisait attention.*
+
+
+***Production Forestière en temps de Guerre***
+20 Janvier 1940 (Décret)
+La Réquisition peut porter sur les biens (bois sur pied, abattus, débités), comme sur les services des Exploitants forestiers et des Scieurs.
+La Réquisition porte sur tous Bois et Forêts de plus de 10 ha. Toute exploitation doit être déclarée en Mairie.
+Les commandes qui sont passées par la Défense Nationale à des Exploitants forestiers ou à des Industriels travaillant le bois, doivent être exécutées par priorité avant toute autre commande.
+Les Marchands de bois, les Exploitants forestiers et les Industriels pratiquant le sciage des bois sont tenus de déclarer avant le 10 de chaque mois, les stocks et leurs achats.
+Pour l'approvisionnement des troupes en chauffage André Pie rencontre début Janvier, le Capitaine afin de légaliser la coupe du bois effectuée par les militaires de Jupilles, car ces derniers enlevaient le bois sans le monter en stère. (3 stères étaient ainsi partis).
+
+***Occupation par l'Armée.***
+Une partie importante de la Forêt de Bercé était occupée par des installations de l'Armée dont la présence a pour conséquence notamment  l'interdiction absolue de circuler sur certaines routes, les Adjudicataires devront supporter les différentes sujétions résultant de cette situation. Obligation du port d'une arme individuelle par les Gardes Forestiers dans l'exercice de leurs fonctions.
+Par décision en date du 14 Mars 1940. Mr. le Président du Conseil, Ministre de la Défense Nationale et de la Guerre, a prescrit que les Fonctionnaires des Eaux et Forêts non mobilisés  de la Zone de l'intérieur et de la Zone des Armées, devront à l'avenir, porter leur revolver d'ordonnance, dans l'exercice de leurs fonctions..
+14 Mai 1940 (Volard) avec le Brigadier Peltier en tournée route de Grammont, recherche des parachutistes "suspects".
+24 Mai 1940 Les Forestiers visitent la partie du canton de la Chauvinière, "non occupée".
+Ouvriers forestiers travaillant pour les Allemands: *Payé le 24 décembre Leroux et Martineau pour des travaux effectués pour les Allemands.*
+La zone occupée couvre, le Buisson, la Chauvinière (Pie) Croix Marconnay, Nacron, le Mai, les Trembles ; L’interdiction absolue de circuler sur certaines routes, sera préjudiciable à l’exploitation et au transport des bois.
+11-12-13 juin 40 : Délivrance de gaules de Pin pour l'Armée, afin d'établir des barrages sur les routes. Surveillance par les Forestiers de l'enceinte de stockage d'Aubigné dans le Triage n° 4.
+Le 14 juin, Volard prospecte des logements pour les réfugiés et achète quelques outils.
+19 juin : Au Poste attendant l'ARMISTICE.
+Fin juin, les Forestiers multiplient les tournées de nuit, à la recherche de délinquants et à la quête de renseignements.
+1er juillet 1940 : Avec le Brigadier Peltier (Volard) en tournée à Croix Marconnay : Camp occupé par les Allemands. 2 Juillet 1940 à St. Vincent pour dépôt de revolver n°3441.
+Retour de Thomas: *Reprise le 1er Juillet 1940, avec l'autorisation de Brigadier Poumerol*
+Le 8 Juillet 1940 : *Allé chez le Brigadier qui m'a remis le revolver. Après-midi, allé à Beaumont pour remise de mon arme, conformément aux ordres de la Kommandantur. Reçu mes cartes d'alimentation, j'ai déclaré ma situation à la Mairie, Madame la Secrétaire m'a déclaré n'avoir reçu aucun ordre concernant cette situation militaire.*
+### 10 juillet 1940 : Prise de Pouvoir par le Maréchal PETAIN –
+C'est alors la désorganisation complète de l'Administration des Eaux et Forêts. Nombre d'Officiers Forestiers descendent en zone libre- Ainsi Volard reçoit le 16 juillet de Mr. l'Inspecteur, un bon de caisse n°75- Accusé réception ce même jour à AFAT par Théon (Dordogne) : Zone libre.
+17 Juillet 1940 : Après midi : reçu la visite du Brigadier qui m'a apporté mon mandat différentiel. Aussitôt que j'ai été en possession de l'adresse de Monsieur l'Inspecteur, je lui ai adressé la lettre suivante:
+Beaumont Pied de Bœuf le 17 Juillet 1940
+Le Garde Thomas à Monsieur l'Inspecteur
+*J'ai l'honneur de vous rendre compte qu'au moment de la reddition de Cherbourg, les Marins du 1er dépôt abrités dans le Fort de Querqueville ont reçu, de Monsieur le Capitaine de Frégate commandant le Fort, l'autorisation verbale de libre disposition d'eux-mêmes, le 18 Juin à 10 h30. J'ai donc dans ces conditions regagné par mes propres moyens mon Poste  à la Maison Forestière de la Tasse, où sur l'autorisation de Mr. le Brigadier Poumerol, j'assume  depuis le 1er Juillet la surveillance du Triage et j'assiste aux réunions de Brigade.
+Je suis désireux  de faire régulariser ma situation militaire, mais je ne sais pas à qui m'adresser – Peut-être  accepteriez vous de me conseiller ou de faire quelques démarches en ma faveur.
+Recevez Monsieur l’Inspecteur, l'assurance de mon profond respect.
+Transmis cette lettre  à Mr le Brigadier pour expédition à Mr. l'Inspecteur.*
+Pour subvenir à la pénurie, des coupes de bois de chauffage sont marquées et délivrées aux Communes, le 19 juillet et suivants, les Forestiers surveillent la partie occupée, évacuée par les Allemands.
+Aout 1940 (Thomas) : Réserve la MF des Profonds Vaux, au Service Militaire des bois de guerre.Témoignage d'Henri Thénaisie (1er Fév. 1997)
+Des tas d'obus étaient empilés par tas le long du CD 13 et de la Menoëre de Vaas.
+Une bombe est tombée près du Chêne Boppe et sur les Forges, quand ils l'ont fait sauter, Jupilles était à même d'ouvrir toutes ses fenêtres.
+En 1940, les fusils furent réquisitionnés. Le Beau-Père à Bernard Chevalier a tué un Allemand en compagnie d'Auguste Mortier (Oncle à Didier)
+29 Août 1940 : *Allé à Château du Loir, avec le Brigadier pour me faire démobiliser. Reçu une autorisation de port d'armes de l'Inspecteur.*
+La solde des Personnels Forestiers mobilisés au C.M.B.G était réglée directement au Mans, tous les Mois.
+18 Septembre 1940 : Matinée – entretien de la Forestière en attendant Mr. le Garde Général qui à passé dans mon triage de 13 h à 17 h.
+Les Brigadiers Peltier et Poumerol, récupèrent les chevaux et le matériel du 3 ème Centre des Bois dans les Communes riveraines.
+1940 : Les tôles et les abris sont démontés et transportés dans les Postes Forestiers.
+La discipline est stricte en temps de Guerre et les permissions accordées aux Forestiers sont peu nombreuses.
+Un Garde de l'Orne en a fait les frais en quittant son Poste le 9 août 1940 sans autorisation pour se rendre en Bretagne dans sa famille ...Résultat un blâme avec publicité dans la 15 ème Conservation.
+Malgré l'Occupation, la vie reprend son cours et des chasses sont organisées pour les Officiers Allemands, afin de tirer Cerfs, Biches et Sangliers.
+C'est en 1940 que sont mis sur pied les Chantiers contre le Chômage en Forêt de Bercé.
+En raison du froid excessif "l'atelier de fabrication" ne débutera qu'en 1941.
+Parlant des Fonctionnaires sous le Régime de Vichy :
+*"Oui, tous ceux qui ont mis leurs talent  au Service de ce Régime raciste et collaborateur, ont trahi les devoirs de leur charge et les valeurs qu'ils étaient censés défendre.*  Vincent Jauvert (Nouvel Observateur n° 1715 Sept 1997)
+Fort heureusement sur Bercé, tel n'a pas été le comportement de nos valeureux Forestiers.
+
+Démobilisation le 13 Août 1940 :
+B ier. Poumerol 10 Août 1940   Le Mans
+G de. Pie André 12 Août 1940  Ecommoy
+G de. Thomas    (âgé de 30 ans)  n'est pas démobilisé en 1940, mais il reviendra sur Bercé en 07/1941.
+
+La solde des Personnels Forestiers mobilisés au C.M.B.G était réglée directement au Mans, tous les Mois.
+18 Septembre 1940 : Matinée – entretien de la Forestière en attendant Mr. le Garde Général qui à passé dans mon triage de 13 h à 17 h.
+Vichy 27 Oct. 1940 : Le Maréchal Pétain (Nous, Maréchal de France, Chef de l'Etat Français) décrétons : Tout Français de l'un ou l'autre sexe âgé de plus de 16 ans, ne peut justifier son identité que par la présentation de la "Carte d'identité de Français".
+
+## 1941
+Le 2 janvier 1941 : Le transport est assuré par un camion de l'Administration " que l'Atelier de Fabrication désirerait voir revenir chargé de 6 stères de chauffage dur, à chaque retour". (Bois de chauffage dur : Chêne), façonné par les chômeurs au Chantier de la Coudre (Mars 1941)
+A la Coudre, la cabane en rondins est une de leur réalisation.
+Volard note le 19 janvier: « à St. Vincent, évaluer les quantités de bois de chauffage détenues par Mr MAYET (Boulanger)».
+Les Boulangers avaient en effet une priorité dans la livraison du chauffage pour leur fournil.
+L'arpentage des coupes et le balivage des bois réquisitionnés s'effectuent toujours – Exemple le 10 février 1941: à Vouvray s/Loir départ 7 h retour 20 h, le 11 février, signature du PV par Mr. Robineau, Notaire à Château du loir – Réception de ces bois  le 29 février.
+17 février: Volard se rend sur la parcelle, au Clocher, affectée au "Camp de Jeunesse»,"Aucun travailleur sur la coupe". Les Ouvriers "auxiliaires ont le droit à des tickets supplémentaires (T:travailleurs)
+La Réquisition et le rappel des chevaux suivent bon train (voir plus loin) – Les Chasses avec les Allemands de même – Le Chantier " dit des chômeurs" se poursuit. Réfection des routes, construction de routes neuves, extraction de pierres  dans les carrières (Gaie Mariée et Trembles).
+2 brouettes sont volées au chantier des Trembles, on ne les retrouvera pas. Le Chef de l'ensemble des Chantiers de l'Atelier de Fabrication en Forêt de Bercé est Mr. GODE. Le nombre de chômeurs est de 60.
+Les Chômeurs : sont en fait des soldats (et peu de chômeurs). Ils avaient monté des cabanes dans Gaie Mariée, l'allée des Tournants  et une dans le bourg de Jupilles (à l'ancienne Gare). 2 brouettes sont volées au chantier des Trembles, on ne les retrouvera pas. Le chef de l’ensemble des chantiers de l’atelier de fabrication en forêt de Bercé est Mr Gode. Le nombre des chômeurs est de 60.
+Les Pâtisseaux  Ont été abandonnés en 1912 à cause des partages:
+1 Maison aux Legeay-Barré – 1 Maison aux Guillier. Les Prisonniers allemands logeaient chez E. Guillier à la Coutière, durant la Guerre. 39/45 
+La Discrétion est de rigueur, on privilégie l'oral à l'écrit: (Thomas) Reçu communication téléphonique de Mr. le Garde Général, allé en rendre compte  au Brigadier, puis aux Renardières.
+Approvisionnement en pétrole, et cartes de vêtements 23/06/41 et remis déclaration de non appartenance à la race Juive.
+
+### Bicyclette.
+En 1941, il est difficile de se procurer des pneumatiques et des chambres à air. De plus, par arrêté préfectoral du 20 février 1941, du fait du couvre feu : les phares des automobiles et motocyclettes doivent être pourvus du dispositif de camouflage Cordier DPR 52 A  et les lanternes de bicyclettes du même dispositif DPR52B. Les restrictions allant bon train, le 1er janvier 1943 ne sont autorisés à se servir de leur motocyclettes ou cycles à moteur personnels que les officiers, géomètres, brigadiers et gardes  des Eaux et Forêts.
+Le 9 mars 1946, le garde Volard rend son vélo. Le 5 juillet André Pie remet à Mr l’Inspecteur la somme de 11.592f pour l’achat de 3 bicyclettes à l’Administration pour les gardes Albérola, Pie, et l’auxiliaire Weber. Le 4 novembre de cette même année,  le garde Messager s’en va au Mans pour toucher un vélo et les effets des 2 Brigades.
+En 1965 on répare les bicyclettes en vue de leur utilisation pour les prochains jours car tout autre véhicule n’est pas autorisé par l’Administration en cas d’accident de service.
+Les premières voitures Administratives n’arriveront qu’en janvier 1969, au District.
+Exemple : Gendre débute à pied, puis en mobylette, en voiture personnelle en 1964, en cyclomoteur en 1968 et en fin de carrière avec sa voiture personnelle.
+
+
+## 1942
+Rien ne va plus en 1942 – Le braconnage s'intensifie tant du côté Allemands qu'aux alentours du Massif. Et puis les délits de bois se multiplient.
+6/01/1942 (Messager) Au domicile de mon Brigadier pour lui rendre compte que, d'après les dires des bûcherons employés dans les Art. 29 et 30, depuis quelques  jours du bois était enlevé de cette coupe par un camion Allemand servant à transporter des obus.
+Le 24/01/1942 :*A Chahaignes pour demander un wagon pour transporter le bois de Chauffage du ministère de l'Agriculture.*
+Les moyens de fonctionnement de l’Administration sont comptés. Ainsi Volard le 17 avril va-t-il à St. Vincent pour légaliser une demande de pneus pour sa bicyclette (Reçu le 30 octobre : un bon de chaussures + une chaîne de bicyclette).
+André Pie constate le 5 août 1942, qu'il avait été abattu à la hache et enlevé en bordure de la route d’accès aux carrières P. 14 et 15 des Hutteries: environ une vingtaine de pins Sylvestre verts d'un diamètre variant entre 15 et 25 cm, mesures prises à la souche- Après renseignement pris auprès du Sieur GONNET (Carrier) travaillant à proximité du lieu du délit, ce dernier m'a déclaré qu'il avait vu dans la matinée des soldats Allemands  cantonnés à Marigné, couper et enlever ces pins à l'aide d'une voiture et d'un cheval réquisitionnés à un cultivateur de la Commune. Les Sieurs Saison Léon et Avisse Albert cultivateurs, demeurant à Marigné, nous ont confirmé ce fait; ils ont été réquisitionnés pour conduire le bois de Forêt, dans un pré situé près du Bourg de Marigné.
+Nous étant rendus dans le pré indiqué, nous avons constaté que ces Pins avaient servi à monter un observatoire utilisé par les Troupes d'Occupation.
+Il y a dommage causé au peuplement par suite de l'abattage effectué sans méthode – PV enregistré à Ecommoy le 20 août 1942. (Pie) avec le Garde Thomas, délivrance le 31 août, à titre gratuit de 3 stères de bois pour la Tombola au profit des Prisonniers de la Commune de Marigné.
+
+**Effort National** : Visite par les Forestiers des Communes pour l'imposition des bois : (l’Homme, Ruillé, Poncé, Lamnay, la Chapelle Gaugain (4 Sept.) Marçon, Beaumont s/Dême, Chahaignes (7 Sept.)
+
+Toujours pas question de décoration en temps de guerre, depuis le 19 juillet 1941, pour les décorations civiles :(Mérite Agricole, Palmes Académiques, Mérite Social, Médailles d'honneur), l'examen à leur candidature est toujours suspendu.
+12/12/42 Prisonniers à Jupilles – Marigné - Beaumont – Laillé – St. Vincent.
+Thomas est Allé à Mayet pour demander  la liste des femmes de prisonniers.
+
+## 1943
+La misère rode : 7 Mars 1943 : Rencontré une vieille femme dans la Tasse, réfugiée de Brest égarée allé à Mayet, donner le signalement en vue de son envoi dans un hôpital.
+Les chevaux sont toujours réquisitionnés pour les travaux de toutes sortes. Les Chômeurs abattent des arbres route du Sault.
+26 Avril : Volard se rend à la Doucinière pour chercher le fusil du Collègue Messager. Le lendemain, il s'en va au Mans pour remise aux bureaux (1 rue du Port) de 6 fusils qui avaient été donnés aux Préposés par les Autorités Allemandes en 1940.
+Les Forestiers sollicitent auprès de Mr. l'Inspecteur, le 24 Juin, un certificat de l'Employeur pour être maintenus dans la catégorie"T"  (Travailleurs) - Certificats remis le 10/07.
+27 Décembre 1943 : (tour de garde assuré par les Forestiers).
+*Le soir départ 18 h. Désigné par la Commune de Marigné pour prendre la garde sur la voie ferrée Le Mans-Tours, retour le 28 à 8 h.-blessé au cours de ce service- Le Dr. Estraband d'Ecommoy m'a donné un congé d'un mois (repris le 26/01/1944)* Pie André
+
+## 1944
+C'est l'année de la reconquête.
+En ce début d'année, les battues avec les Officiers et Sous-Officiers de l'armée Allemande, se poursuivent.
+Les visites dans les Forêts extérieures font désormais partie du quotidien : Ainsi en février: Martelage à Vouvray s/Loir, puis en mai, visite des bois du Duc de Grammont et à Poncé s/Loir en compagnie du Garde particulier Talveau , visite du bois du Comte de Germini.
+Le Service Forestier en Avril, s'organise comme il le peut à savoir : le 28 avril Volard reçoit du Bier . Poumerol, le revolver 21844, anciennement à Daviron et le 29 avril Volard part à St.Vincent, puis au Grand Lucé reprendre une culotte usagée versée au Secours National local.
+Des coupes sont exploitées par les Camps de Jeunesse au profit des Allemands, dans les Trembles P.136 et la Chauvinière P.163. Cubage, en réunion de Brigade des Produits ainsi exploités.
+Les années de guerre désorganisent le service. La chasse est diligentée par le gouvernement Allemand et par les Officiers des Eaux et Forêts. Durant la guerre 39/45 (note du 18 août 1941) ce sont les Feldkommandants qui organisent les battues avec le concours des Officiers et préposés de tous grades. Le Personnel forestier domanial doit se mettre à la disposition des autorités allemandes sur la demande de ces derniers, pour leur donner tous conseils utiles et leur prêter leur concours en vue d’assurer le succès de ces battues. Les personnes pouvant tenir le fusil seront désignées. Seul le tir à balle est autorisé. Le partage des animaux s’effectue pour moitié pour l’armée allemande et moitié à l’élément civil français. La répartition entre chasseurs et traqueurs n’ayant lieu qu’en cas de risque de détérioration de la chair. Ces battues perdureront de novembre 1940 à février 1944 n’occultant nullement les actes de braconnage (pose de collets, création de fosses) les rendant même sympathiques.
+Cette chasse soulevait moult jalousies parmi les riverains. Nombre de ceux-ci se "débrouillaient" par eux-mêmes, et quelques petits malins sciaient soit les barreaux, soit les poteaux des miradors sur lesquels les Allemands se postaient à l'affût d'un quelconque  gibier. Les poilus de 1914, voyaient d’un mauvais œil ces messieurs les officiers de la Flèche ou de Saumur, venir chasser à courre dans leur forêt. S’en suivait une véritable guerre des mots, et des gestes : semis de poivre pour désorienter les chiens.
+6 juin 1944 : Débarquement en Normandie.
+Juin 1944 : Un camion partant du Moulin de St. Pierre, a été mitraillé par 3 avions qui ont cru que c'était des Allemands. Ils avaient fait 2 à 3 tours de reconnaissance avant de mitrailler le camion.
+Les Boulangeries continuent à être approvisionnées. 29 août 1944 : livraison avec le chauffeur Daubias et le Bier  Poumerol Livraison de 12 stères de bois chez Mme. LEROUX (Boulanger à St. Vincent).
+
+**Témoignage famille Borderon :**
+*Les Allemands sont partis de Bercé au mois d'août 1944. La première fête qu'il y a eu, c'était au bal le 15 août à l'Hermitière et nous y avons rencontré la 1ère colonne américaine qui faisait un bruit inimaginable. Mon gamin avait 4 ans, il avait tellement mal aux oreilles que mon Mari l'a ramené à travers champs à la maison. La gamine, les Américains cela lui plaisait bien, ils donnaient du chocolat. Ils disaient toujours ça : C’est tous des Noirs, c'est tous des noirs, ben, il y avait des noirs, mais ils étaient tous noirs….. De fumées, de poussière, de chaleur.
+Les derniers Allemands, en 1944, (avec bandes de mitrailleuse sur l'épaule) les Américains avaient bombardé le camp d'Aubigné, nous en avons dormi dehors, il faisait chaud, de toutes façons tout ce qu'il y avait dans ce camp c'était intraficable, les bombes étaient bonnes à rien.
+Les Allemands cherchaient  à se faire prisonniers, ils en avaient marre. La résistance du dernier moment disait : «on va les descendre», heureusement des gens qui réfléchissaient ont dit « non on va les faire prisonniers ! ».
+Des enfants sont morts à Pruillé en déminant un obus, le seul survivant était puni à la maison (2 ou 3 tués), même après la guerre, à Bikini il y a eu un tué, les gens du coin apportaient des obus (pour décorer). Certains par peur en ont même enterré pour ne pas que les gamins jouent avec.*
+
+**Août 1944 : GOUVERNEMENT PROVISOIRE**
+Réception de bois de chauffage au Tronchet (bois en régie)  par Mr. l'Ingénieur T.P.E de Château du Loir et le Chef Cantonnier de Luceau (octobre 1944).
+Surveillance effectuée par les Forestiers de l'abattage de bois par les soldats américains dans la Parcelle 61 du Tronchet.
+Le 3 novembre: La vente des bois du Mans est remise à plus tard.
+6 Novembre 1944 (Instruction)
+Les Préposés, Brigadiers, Officiers et Garde Domaniaux, des Eaux et Forêts sont exemptés de la déclaration d'armes, prévue par l'article 9 du Décret-Loi du 23 Octobre 1935.
+11 novembre : Volard assiste aux cérémonies commémoratives des guerres 14/18 et 1940 à St. Vincent.
+15 novembre Note au sujet de l'attitude du Personnel à l'occasion de la Libération du Territoire...(Déclaration individuelle sur l’honneur)
+Il est fait mention d'un camp Américain: P 70 Guiltière.
+Griffage, en réunion de Brigade d'une coupe destinée aux femmes des Prisonniers  de Château du loir (17 novembre). Le 27 novembre Les Forestiers désignent au Maire de Marigné une coupe à exploiter dans la P.151 des Salles (100 stères) pour les femmes des Prisonniers de guerre. Durant la Guerre, dans les coupes marquées pour les Communes, la moitié des Produits est donnée à la Commune sollicitante.
+Les Bûcherons sont recrutés parmi les Gens les plus nécessiteux. Exemple : Coupe Parcelles 208-209 de Croix Chambault : 271 stères. Il revient à la Commune de Thoiré 136 et à l'Administration 135 et le Bûcheron de la Commune de Thoiré est Rousseau (9 enfants), celui de l'Administration est Virlouvet  (7 enfants)
+Fin 1944, une note de service fait état de l'attitude du Personnel à l'occasion de la Libération du Territoire, chacun devant fournir une déclaration individuelle sur l'honneur de cette attitude.
+1er décembre 1944 : Collision d'un camion et d'une voiture de tourisme au carrefour de St.Hubert à 13 h.
+Un camion chargé de balais près P 58 (Tasse) est incendié le 13/12/1944.
+
+## 1945
+5 Janvier 1945 : Une note cadre le Redressement de la situation administrative de certains Fonctionnaires.
+Les Préposés jonglent avec le quotidien : Renouvellement des cartes de Textiles, tickets d'alimentation. Ainsi le 6 Juin 1945 : Echange de billets, ravitaillement en carbure, perception de bons d'achats de pneus et de bicyclette.
+Les Forestiers visitent toujours les Forêts privées.
+Bois du Parc du Grand-Lucé (décembre1944) et griffage du bois du Parc, sous la surveillance de Mrs. l'Inspecteur Viney et de l'Inspecteur des Beaux Arts (3 avril 1945) le bois de la Chénuère, propriété du Comte de Rainack ( en mai 1945) .
+La délivrance de bois aux communes perdure encore ainsi le 30 janvier 1945 (Pie) " Constaté l'enlèvement de 2 stères de bois dans la coupe cédée à la Commune de Marigné." Après enquête nous avons appris que ces stères avaient été enlevés par des soldats américain (Pie) autorise le Cantonnier Manceau le 21 janvier (des T.P.E.) à prendre 5 stères pour les écoles de Château du loir.
+Poumerol, le brigadier de la 2ème Brigade marque le 5 Février 30 perches de Pins sylvestre de diamètre 15 pour l'entreprise Mercier. (Reconstruction du Pont de la ligne de Chemin de Fer de Château du Loir–Saumur) Parcelle 2 des Profonds Vaux.
+En 1945, les débuts du téléphone sont difficiles: (Poumerol) *Je n'ai pas téléphoné le 9 février à Mr. l'Inspecteur Adjoint... la ligne étant coupée.*
+Le 13 mars : classement du matériel du 3 ème Groupe Forestier.
+BIKINI : Poumerol recherche le 19 mars 1945 avec un officier au camp d'Aubigné, un emplacement pour la destruction massive d'explosifs.
+MUNITIONS : Boulanger :  1/5/1945 : Visite d'un adjudant venu pour faire sauter des munitions au Rond des Forges – A refusé d'aller au lieu prévu pour ce travail, après avoir pris des mesures de sécurité pour les habitants des environs, nous avons fait dégager la route par un Auxiliaire, puis avons prévenu les Brigadiers Viney et Allavoine (2/5/1945 , adjoint : Charlan 6/35)
+BIKINI : 7/5/1945 : visite de 2 enquêteurs (Officiers du Mans) des dégâts causés par les bombes aux Forges.
+8 Mai 1945 Fête de la Victoire.
+5 juillet : Poumerol assiste à la réception à Jupilles du Déporté André Ricordeau et le 15 novembre 1958 Goenvec ira à la sépulture du Caporal Baïrdi, tombé à la résistance en Dordogne et ramené à Jupilles.
+Poumerol n'oublie pas non plus, de marquer des menus produits à Mr. Polpré (de Luceau) déporté politique…!
+Octobre 1945 : Groupement d'achat des bois de Boulange- Ainsi le Maire de Beaumont Pied de Bœuf, sollicite, 15 stères en urgence pour faire la soudure. Ces bois étaient une sorte d'imposition, imposition aussi du bois de chauffage sur les coupes au profit des Villages et Villes (Nov. 1945)
+Oct. 1945 : dans C 3 (P.193) de Gaie Mariée et C ² (P.199) de Vieux Puits exploitation de bois de chauffage par les Prisonniers Allemands.
+27 octobre 1945 : Départ des troupes américaines du Cantonnement d'Ecommoy.
+11 novembre 1945 : Dans toutes les communes les cérémonies du Souvenir, rappellent les heures tristes des Guerres.
+Fin décembre : Livraison de 2 fois 2 stères de bois de feu au 11 ème  Groupe blindé du 64 ème RAD Le Mans.
+Le Groupement d'achat des bois de Boulange, fait parvenir la "demande de Mr. le Maire de Beaumont pied de Bœuf qui sollicite 15 stères en urgence pour faire la soudure".
+
+Témoignage de Mr. Borderon Adrien (né en 1915) et de Claudette Borderon (née en 1918)
+*Quand la guerre a fini, il y a eu tellement de gibier qu'il y avait des dégâts partout.  Les Allemands indemnisaient les dégâts, ils payaient, il fallait avertir à St. Hubert, il y avait un vieil Allemand, pas méchant (43-44 ans) ("tant que j’suis là, j’bouge pas")… il avait faim, vers la fin de la guerre et il n'avait pas le droit d'acheter au marché noir. Une fois cet Allemand était venu demander à manger – on pouvait le dénoncer à la Kommandantur. Y en a qui ont gagné beaucoup au Marché Noir.
+Pour la réquisition on ne donnait que les méchantes bêtes
+De Gaulle a bien fait de changer de l'argent car certains n'ont pas pu prouver l'origine de cet argent. A la fin, quand les Allemands sont partis, il en est rentré 7 ou 8 avec des mitraillettes, qui voulaient manger. Le père a dit de leur donner à manger, ils s'en iront- La mère a fait une omelette.*
+
+## 1946
+L'APRES GUERRE
+
+Les Prisonniers Allemands exploitent toujours en janvier (Coupe de Sermaize P. 180) pour la Ville du Mans.
+Bikini : Cela se précise: Pie accompagne les Officiers de l'Armée P107 Profonds vaux pour reconnaître les emplacements pour destruction d'explosifs (23/01/1946).
+Bombe – Le 20 janvier 1946 Pie note : fait le plan pour l'explosion de la Bombe P.147 des Salles.
+Le quotidien est toujours "serré" – Les Cartes d'alimentation existeront jusqu'en 1947 et les Bûcherons qui travaillent en Régie pour l'Administration se verront octroyés des cartes de "Travailleurs de Force"
+La vie continue son cours tranquille. Réception de bois : 60 stères pour Château du loir, 53 poteaux télégraphiques etc….
+Et le 21 Mars 1946, les Forestiers seront convoqués au Mans pour assister à la remise de la Médaille forestière au Commis Muriel, déporté et disparu en Allemagne.
+D. 12 Mai 1946  Fête de la Victoire à St. Vincent
+11 Mai 1947 Fête de la Victoire à St. Vincent et toujours des tickets d'alimentation !
+Il y a des jours où la Victoire peut sembler amère !!!….
+22/11/46 : Eclatement munitions P. 107 Profonds Vaux. P. 107 - 3 fourneaux de mine, préparés et amorcés  le 6/05/1946 et aussi P. 108 destruction d'explosifs – Feu le 7/07/46 – reconnu à 13 h 30.  17 h 45- Quitté 23h30.
+
+**Secrets cachés ?**
+Il y a des vérités qui deviennent légende, faute d'en parler vraiment et de pouvoir interroger les intéressés.
+Heck et André Albert se seraient cachés en Forêt au " Trou de l'Hermite ", qu'ils auraient d'ailleurs dynamité.
+Mais le silence est d'or et ...pour quelle raison dynamiter un souterrain en fin de conflit 
+Il est peut être des vérités qui ne sont pas bonnes à dévoiler... même plus de 70 ans après !
+
+
+
+
