@@ -7,7 +7,7 @@ featured_image: '/images/activites-forestieres.jpg'
 tags: ["Exploitation"]
 ---
 # Les bois de marine
-Descente par flottage des bois sur le loir puis la Loire :
+Étaient descendus par flottage sur le loir puis la Loire :
 Dans une lettre du 13 septembre 1797, le Sous-Ingénieur provisoire de la Marine précise :
 *«qu'il y a encore tant dans la forêt de Bercé que dans les ports de la Pointe et de Cour d'Hamont sur le Loir, environ 22000 pieds cubes (soit 754 m³) de superbes bois qui pourront je l'espère descendre la rivière dans le courant du mois prochain, Salut et fraternité.»*    Signé : Braud.
 D'autres références connues font état de :
