@@ -79,6 +79,7 @@ Du 15 au 16 octobre 1987 : un ouragan ravage tout l’ouest dans la nuit avec 
 
 # La pluie
 **«Si d’Lucé, t’entends Pruillé,… ça va mouiller !»**
+
 17 et 24 juin 1727 des orages de pluie et de grêle dévastent les cultures de blé et de chanvre sur Saint-Vincent et Saint-Pierre.
 29 mai 1928 : Deux siècles plus tard, *«L’après midi vers 7h 45, un orage d’une rare violence s’est abattu sur la forêt de Bercé. La pluie tombant à verse pendant 1h 45 a profondément raviné les routes forestières. Les routes de l’Hermitière, de la vallée des Pierres, sont les plus endommagées. Le  pont de la route basse de l’Hermitière a été partiellement emporté. Les fossés bordiers de la route haute sont creusés par place jusqu’à 1,50 m de profondeur. Les berges et les accotements sont profondément ravinés. Cinquante à soixante mètres cubes de graviers de pierres et de détritus de toutes sortes se sont accumulés sur le terre-plein de l’Hermitière. 
 Les ponceaux, construits par BIGNON pour l’exploitation de son commerce ont été emportés par les eaux.»* 
@@ -95,6 +96,7 @@ Faible hygrométrie en 1995 et 1996. 1990, 1994, 1997 et 2013 sont les 4 années
 
 # Le tonnerre
 >«Les fourmis sont d’sortie, l’orage aussi.»
+
 La parcelle du chêne BOPPE raconte : *«…Le feu céleste a été envoyé le 18 décembre 1934 sous forme d'orage pour tuer le chêne BOPPE. Vers 15 heures, un coup de tonnerre formidable déchirait l'air et 18 éclairs descendaient du ciel : trois frappèrent le chêne BOPPE et me secouèrent, quinze autres foudroyèrent ensemble 15 chênes d'une de mes voisines.»* (Mémoires recueillies par R. VINEY). *«Tous ces débris de bois déchiquetés à terre…. on aurait dit de la neige»,* confiera l’agent du triage.
 En 1939 quelques orages éclatent, plusieurs chênes sont frappés par la foudre dans le canton du Sault Moulin, ainsi que, fait assez rare, un hêtre du canton des Forges. Réapparition cette même année et en 1943 du Dyorictria Splendinella (ponte de papillons donnant lieu à des déformations du tronc sur les pins sylvestres).
 La foudre cause un incendie dans la Tasse le 2 juillet 1943 (parcelle 25).
