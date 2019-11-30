@@ -7,6 +7,30 @@ featured_image: '/images/chene-muriel.jpg'
 tags: ["Remarquables"]
 ---
 
+*« L'arbre remarquable n'est pas seulement un arbre d'élite que sa taille ou sa forme distingue de tous les autres. C'est aussi l'arbre consacré par une histoire  et  qu'une  collectivité  humaine  reconnaît comme un élément de son patrimoine »* **(1)** 
+La longévité des arbres leur permet d'être les témoins de l'histoire humaine.
+La fascination qu'ils exercent tient beaucoup à cette mémoire qu’ils portent en eux, celle des événements du temps où l'on n'était pas là.  
+Par circulaire du 29 juin 1899, le directeur général des Eaux et Forêts demandait à tous les conservateurs des forêts françaises de protéger *«…les arbres renommés dans la contrée soit par les souvenirs historiques ou légendaires qui s’y rattachent, soit par l'admiration qu'inspirent la majesté de leur port, leurs dimensions exceptionnelles ou leur âge vénérable».*
+En forêt de Bercé existent des arbres commémoratifs, devenus remarquables par une décision humaine. 
+Ces arbres monumentaux le sont au sens de «ce qui rappelle le souvenir d'un homme ou d'un événement». 
+II peut arriver que les événements se succédant, les noms de l'arbre suivent alors les péripéties de l'histoire tel le chêne de la résistance «ancien chêne PETAIN» en forêt de Tronçais.
+## Nos chers Disparus
+Des gros chênes, de mémoire d’homme, il y en avait à foison dans le Sault-Moulin.
+Un gros arbre (1,55 m de diamètre) a bien failli faire de l’ombre au chêne du Mai. 
+Il s’agit du chêne CHAPLAIN (mort en 1946) : mention en est faite par les forestiers, dans le clos du  Chêne BOPPE. 
+Le garde VOLARD, le 16 avril 1937 en parle : *«visite des Clos avec le brigadier et RIMASSON et vu l’ancien Chêne BOPPE, son remplaçant, et le chêne CHAPLAIN».*
+15 Février 1939 (PIE André) *«Le soir départ 12 h 30 avec le brigadier et 3 ouvriers, occupés à couper et à conduire à la Huberdière des houx pour le chêne CHAPLAIN - retour 18 h.»*
+Le chêne de Gaie-Mariée : ce chêne était situé dans la parcelle 194. Il a été abandonné à l’exploitation le 18 novembre 1946. Mesurée en 1942 par le brigadier ALBÉROLA, sa circonférence était de : 3 m 45 pour 208 ans d’âge et une hauteur totale de 35 m dont 22 m sous branches. 
+Un autre chêne de 1 m 05 de diamètre fut exploité dans cette même parcelle en 1953...
+Peut être était-ce le chêne AJAM, du nom du député de la Sarthe qui prit position pour la sauvegarde du clos du chêne BOPPE le 18 novembre 1907 devant l’Assemblée Nationale. 
+Le chêne Girafe (curiosité botanique située parcelle 251) est aujourd’hui disparu. Déstabilisé par les exploitations dans les années 1980, il n’a pas eu le soutien nécessaire pour témoigner de son originalité. 
+Le chêne à gui de la parcelle 207 (c’était le 3ème sur Bercé) à échappé à la vigilance forestière….dont acte….
+Le chêne à graisse de la parcelle 13, est tombé lui aussi avec son immense grosseur au pied. 
+Un champignon a bien eu vite raison de son embonpoint.
+
+**Bibliographie :
+**(1) Extraits de BOURDU et VIARD, 1993 : « les arbres remarquables en forêt » ONF guide de gestion 2001. 
+
 
 # UNE RÉSERVE HORS D’ÂGE : LA FUTAIE DES CLOS
 
@@ -53,8 +77,47 @@ Les automobiles particulières devront se ranger d'un seul côté (ouest) de la 
 Au moment de l'arrivée de M. le Directeur Général, qui sera signalée par des coups de trompe successifs, les préposés se trouveront alignés le long de la route des Clos dans l'ordre réglementaire, en face du carrefour de l'École, au niveau de l'entrée du chemin d'accès au chêne Boppe."*** Signé : Viney (Inspecteur des Eaux et Forêts)
 
 # Le chêne Potel
+C’est l’un des plus discrets de la futaie des clos, certains  visiteurs ne l’aperçoivent même pas, tant c'est ici... la forêt qui cache l’arbre. Déjà en 1960 les  forestiers écossais d’Édimbourg étaient venus s’extasier en kilt devant son imposante stature.
+Ses dimensions sont surprenantes. Sa circonférence est en 1957 : 2,69 m  et en 2001 : 3,15 m. En 43 ans, ce vénérable a atteint un accroissement annuel moyen sur le rayon de 1,7 mm et possède une belle écorce. Il a même été repéré par les anglais d’Oxford qui l’ont ceinturé de blanc  pour suivre ses glandées.
+Baptisé du nom de l’inspecteur des forêts, en poste au Mans de 1918 à 1931 (auteur du premier historique de Bercé), il trône fièrement au dessus du fossé de l’enclos médiéval qui l’accueille.
+>POTEL (Raoul Louis Amédée)
+Naissance : le 16 décembre 1862 à La Rochelle (Charente-Maritime) décédé le 22 avril 1937 au Mans (Sarthe), à l’âge de 74 ans. Garde général stagiaire à 24 ans, il est le fils de Pierre Antoine Ernest et de Endoxie Marie Sophie PIGALLE. Devenu inspecteur principal des Eaux et Forêts, il s’installe au 41 puis 123 de l’avenue Bollée au Mans. Il a été promu Chevalier de la légion d’honneur en novembre 1924 et Chevalier du mérite agricole.
+
+POTEL fait partie de ceux qui laissent une œuvre forestière durable par leur travail dans les commissions de cantonnement ou d'aménagement. 
+Fidèle aux traditions forestières, préférant l'observation à l'expérimentation, représentant le meilleur de l'ancienne école, il est le continuateur des anciens maîtres, qu'on ne doit ni rejeter, ni oublier, même si leurs méthodes sont en partie dépassées. *« En cessant mes fonctions à l’inspection du Mans où j’avais pris le service le 23 mai 1919, je garderai un excellent souvenir du personnel et des forêts de cette belle inspection qui depuis 1925 a été agrandie de plus de 4000 hectares par l’acquisition de nouveaux massifs (Sillé, Pezé, Petite-Charnie) et où je laisse quelques autres traces de mon passage, par la révision d’aménagement de Bellebranche en 1921, de Saint-Mars-de-Locquenay en 1923, de Bercé de 1924 à 1929 ainsi que par certaines améliorations visibles par tous au moins à Bercé (éclaircies, gemmage, travaux de la Fontaine de la Coudre et de la route André HALLAYS.) Je remercie de nouveau le personnel du dévouement avec lequel il a répondu à mon appel en m’aidant à m’acquitter jusqu’au bout d’une tâche de plus en plus lourde. Je fais mes adieux à tous, y compris les nouveaux venus, en leur adressant mes meilleurs souhaits pour les années à venir. Je désire que la présente note soit transcrite sur les livrets journaliers de tous les préposés ». Le Mans le 14 décembre 1929.*
+**« Au cours d' une longue carrière  dans les taillis sous futaie de la région Lorraine, puis dans Les futaies de l'ouest, il s'était formé sur le traitement des forêts feuillues, des idées bien arrêtées qu'il défendait avec une ardeur toute juvénile dans nos publications forestières /.../ Resté fidèle à l'enseignement qui se donnait, il y a cinquante ans et qui faisait plus de crédit à la simple observation qu'a la recherche expérimentale, il représentait l'ancienne école dans ce  qu'elle avait de meilleur. Il aimait à revenir dans ses écrits sur ce qu’il appelait "la méthode de traitement varié"  à laquelle  il  avait été initié par un  forestier de  grand talent, M. de  GAIL. Méthode rationnelle en somme et bien dans la tradition Française, car elle repose sur une idée juste que les  progrès de la science devront toujours respecter la soumission aux indications de la nature.»**
+
+**Bibliographie :**
+***Nécrologie du conservateur POTEL (revue des Eaux et Forêts  1937 page 562 à 565) Laboratoire de l’INRA (mémoire sur « des années entières dans les bois Lozériens » par Olivier NOUGAREDE, (pages 178/179) 1985 les agents et préposés des Eaux et Forêts en Lozère du code forestier à la Grande Guerre.
+POTEL : La vie et  la mort  en forêt de Bersay, et Le chêne BOPPE, (Bulletin de la Société d'Agriculture, Sciences et Arts de la Sarthe, T. LIV, p. 48 et 301)
+
 # Le chêne Roulleau
+Ce chêne a été baptisé  le 27 mai 1952, lors de la tournée du Comité des Forêts, du nom de l’inspecteur qui a contribué à la  sauvegarde du clos du chêne BOPPE (1885-1900) et créé en 1912 ce fameux comité. **(1)**. 
+Sa circonférence était en 1952 : 2,75 m, 1957 : 2,80 m, 1979 : 3,04 m, 2001 : 3,30 m, 2012 : 3,40 m (Accroissement annuel moyen sur le rayon sur 60 ans : 1,824 mm) avec une hauteur sous branche de 26 m et totale de 41 m.
+À ce baptême, on avait même prévu, à la méthode marine, de faire lancer par la marraine une bouteille de champagne sur l’infortuné arbre… mais elle n’a jamais voulu exploser! Elle était trop solide...Le conservateur BLOUERE, se rappelle Yves CAMISY, avait fait ce jour là un sacré beau discours. 
+Mais revenons en 1895…Le conservateur de l'époque voulut absolument exploiter la parcelle des Clos, car l'aménagement arrivait en fin de période. M.ROULLEAU remua alors ciel et terre pour l'en empêcher. Le directeur des forêts refusa d'en faire une section hors cadre. Mais ROULLEAU ne s'avoua pas vaincu et, sans en informer personne, il fit battre le pavé. Toutes les écoles forestières d'Europe ainsi que diverses personnalités furent invitées pour faire reconnaitre l’aura de son joyau.
+1904 : Nouveau rapport... DAUBRÉE accepte alors de surseoir aux coupes jusqu'à nouvel ordre. Le cas est présenté à la chambre des députés en 1907, qui applaudit la décision de conserver la parcelle. Révision de l'aménagement en 1912 par M. EMERY qui propose que la parcelle soit laissée en dehors des exploitations. 
+Le 21 octobre 1949, un décret prévoit en forêt une série artistique pour y classer les plus belles parcelles.
+**Référence : 
+(1) Ce syndicat Français a été fondé en 1912, par le Marquis de NICOLAY et M. ROULLEAU DE LA ROUSSIERE, conservateur des Eaux et Forêts, avec l'objectif de défendre les intérêts de la «forêt privée française » avec l’aide d’autres propriétaires.**
+
 # Le chêne Lorne
+
+# Le chêne Sermaize
+Dit aussi Chêne Seul….ou ….chêne Parapluie. Dans la parcelle 180, nous avons à faire à un chêne droit ...très droit... haut très haut ...34,60 m …gros…très gros…308 cm de circonférence....premier nœud à 16 m. Seulement 340 ans en 2009 et qui dépasse tous ses congénères d’une tête.   
+
+# Le chêne Émery
+(Du nom de l’aménagiste de la forêt de Bercé en 1911)  
+47,75 m : l’un des plus hauts de France et le plus fort accroissement annuel de sa catégorie. 
+En décembre 1929 les forestiers recherchent activement parmi les arbres ayant une circonférence supérieure à 3,30 m 
+l’élu qui deviendra le chêne EMERY du nom d’Auguste Joseph né le 16 août 1868 à Colmar (Haut-Rhin) 63ème de l’ENEF (sorti major en 1889), conservateur des Eaux et Forêts. Cessation de fonction : 1930 (retraite) *« J’ai l’honneur de faire connaître à M. l’inspecteur principal que la plaque pour le chêne EMERY de Bercé sera faite pour la fin de la semaine prochaine. C’est M. MOIRE, peintre à Bellême qui se charge de ce travail et de l’expédition à Marigné. Pour attacher cette plaque, il n’y a pas besoin de brides, un simple fil de fer est suffisant.»* Hermousset le 14 mai 1930.
+Le brigadier des Eaux et forêts - Signé : LEBOULEUX
+Le Mans 14 mai 1930
+Tournée de M. EMERY, conservateur, sous directeur général de l’administration, admis à la retraite.
+*«Le 2 juin 1930, monsieur le conservateur et moi l’accompagnerons. Rendez-vous pour le brigadier ALBRECHT à Saint-Hubert à 14 h 45. Le garde PELTIER se trouvera à l’entrée du chemin de la Coudre à 14h50. Visite de la fontaine et baptême du chêne ÉMERY ; à ce sujet, j’ai commandé au brigadier LEBOULEUX un écriteau portant cette inscription qui devra parvenir avant la date fixée au brigadier ALBRECHT qui la fera fixer à 5 mètres du sol sur l’arbre en question au moyen d’un lien de fer. Ensuite départ en auto pour les Pressenteries, le brigadier ALBRECHT et le garde PELTIER pourront disposer. Pour le brigadier FÉLIOT et le garde JOUAUX, rendez-vous route des Pressenteries entre A² et C² à 16 H 45. Visite de ces deux parcelles et ensuite au chêne BOPPE par un sentier à travers C³ des Clos. Départ sur la route des Clos à 17h30.»* L’inspecteur principal des Eaux et forêts,  Signé : DUCELLIER     
+
+# Le chêne du Mai
+Situé dans la parcelle 112, près de sa mare dont il boit toute l’eau, majestueux au bout de son allée, avec 41,50 m de haut, 496 cm de circonférence et 28,74 m3 de grume, C'est actuellement, à 227 ans, le plus gros chêne de Bercé.
 
 # Le chêne Girafe
 Le "Chêne Girafe" de la parcelle 251 aujourd’hui disparu. Ce phénomène de double empattement se nomme anastomose (jonction de deux brins en contact étroit, dont l’un dépérira au profit de l’autre)                                                          
