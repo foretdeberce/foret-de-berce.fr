@@ -175,3 +175,88 @@ Les gardes particuliers ne possèdent pas d'uniforme particulier. Dans les grand
 * « Insignes et marques distinctives de l'Administration des Eaux et Forêts » Étude de monsieur Louis LAVAUDEN (Nancy. Promotion 1907) publiée par la « Revue des Eaux et Forêts » en 1927.
 **** « Des années entières dans les bois Lozériens » mémoire d’Olivier NOUGAREDE 1985 Laboratoire de l’INRA : les agents et préposés des Eaux et forêts en Lozère du code forestier à la Grande Guerre.
 * Étude de Jean Claude CHAUSSE : « la reformation des plaques de baudrier des eaux et forets. Question de communication ou affirmation du pouvoir ? » Revue Forestière Française LXII - 2-2010 pages 175 à 178.
+
+
+# Origines du chêne Lorne
+
+Nous sommes le samedi 27 septembre 2008. Il est 17heures et un forestier d’exception est à nouveau mis à l’honneur par ses pairs de l’O.N.F.  Une centaine de personnes parcourent avec une certaine jubilation les quelques 300 m qui les séparent d’un énigmatique géant. 
+Après avoir été accueillis par Pascal JARRET (responsable forêt), Jean Marc AUBAN (directeur d’agence), Dominique BOUTHIER (directeur territorial), et avant que ne s’expriment  Fabien LORNE et Roland  du LUART, Bertrand LORNE, l’aîné de la famille prend la parole en ces termes :
+*Amis de la Forêt,
+Chère famille,
+C’est avec beaucoup d’émotion, mais également de fierté, que notre famille se trouve réunie aujourd’hui dans cette magnifique forêt de Bercé qui était si chère à Papa et qui évoque pour nous tant de souvenirs ; nous avons tous en mémoire nos séjours au Pavillon de Bercé, avec le voisinage si sympathique de M. CALVEL, Chef de district, et de son épouse.
+Nous sommes conscients de l’honneur que représente le baptême d’un chêne au nom de Papa et en remercions le corps des Eaux et Forêts auquel il a été si attaché et si fier d’appartenir. 
+De son éducation, Papa avait hérité le sens du devoir, de la patrie, de l’honneur, des traditions familiales avec une totale intégrité.
+ C’est ainsi, qu’outre les forêts, sa vie, toujours animée par une foi profonde, a été au service de deux autres grandes passions : la France et  sa famille …*
+Edward LORNE, résume alors le parcours sans faute de son grand père tandis qu’un rayon de soleil vient caresser le flan ouest du géant. 
+*… A l’aube de cet ouragan terrible de 1914, vous voyez le jour sans l’ombre protectrice d’un père couché trop tôt sur le sol. Vous êtes alors bien seul pour affronter une végétation adventice dense et parfois hostile. Très vite, vous comprenez qu’une croissance harmonieuse ne peut se passer d’un enracinement solide et de la recherche de la lumière. Votre pivot s’encrera dans les valeurs familiales et la rigueur du travail. Vous vous alimenterez des rayons de la foi et d’une ambition certaine ...* 
+En cette journée du 27 septembre, Roland du LUART, président du conseil général et lui même forestier, rompt à l’aide du marteau de l’État, le lierre entourant le chêne sous le regard bienveillant de Dominique BOUTHIER.
+C’est une tante de Roland du LUART alors infirmière, qui soigna Rémond LORNE à Monte Cassino.
+Jean-Eudes et Bertrand LORNE rompront à leur tour ce lien symbolique.
+—-0oOoo—-
+Mais revenons sur la carrière de cet officier des Eaux et Forêts.
+
+>Ancien conservateur des Eaux et Forêts, commandeur de la légion d’honneur et Croix de guerre 1939-1945, Rémond LORNE entre à l'âge de >24 ans à l'école forestière de Nancy. Après l’Algérie et la région Parisienne, il passe 20 ans de sa carrière en Sarthe. Précurseur >d’une sylviculture moderne, son raisonnement lui a parfois valu les foudres de ses aînés. Il fut notamment l’initiateur de la méthode >actuelle dite des arbres objectifs et dont ce chêne aujourd’hui baptisé, est l’illustration parfaite. Terminant sa carrière comme >directeur régional de l'ONF au Mans, il prend sa retraite à 55 ans pour créer un cabinet d'expertise forestière que Fabien son fils, et >Edward, son petit-fils, gèrent aujourd’hui. 
+
+## ADJOINT A L’INSPECTEUR VINEY (1949-1953).
+Arrivant de Saint Germain, Rémond LORNE est nommé au Mans comme adjoint au Conservateur, M. BLOUERE. 
+Il rejoint vite l'Inspecteur VINEY qui gère les forêts domaniales de la Sarthe. Ce dernier lui attribue les travaux. 
+Souvenez vous, cet été 1949 est particulièrement chaud et sec. 450 hectares brûleront dans  la partie résineuse de Bercé. 
+## CONCEPTEUR DE  LA CHARRUE FORESTIERE A DISQUES INDEPENDANTS 
+*« … A cette époque l'on ne connaissait guère que le travail manuel à la pioche, alors que la guerre très américanisée, venait de nous  ouvrir à l'ère du bulldozer. C'est dans ce sens que très vite je tâtonnais. Un mécanicien en machines agricoles, Monsieur JARDIN, d'un village proche de Bercé, s'intéressa à ce problème, essayant de trouver les engins agricoles susceptibles d'être utilisés en forêt, en particulier les charrues à disques qui roulent sur les souches, plutôt que de buter dedans comme des socs. Il fut très heureux de trouver un forestier d'État curieux de ses essais, et il y voyait surtout une source de profit possible qui le tirerait de son état de forgeron de village converti à la mécanique. 
+Nous avons collaboré tous deux et je lui suggérais, plutôt que les trois ou quatre disques de la charrue soient montés sur un même axe, ce qui faisait déraper le tout quand un disque se soulevait sur une souche, d'individualiser les disques pour que l'un ou l'autre puisse se  soulever, les autres  continuant à travailler normalement.* 
+## ACTION SYNDICALE (1947 à 1956 environ)
+Son engagement syndical est particulièrement actif pour défendre au travers la C.F.T.C., la « Doctrine Sociale de l’Église » mais également pour tenter, mais en vain, de préserver « le Corps des Officiers des Eaux et Forêts », au moment de l’élaboration du nouveau statut.
+## INTERIM DE L’INSPECTION DU MANS (1953-1956)
+L’inspecteur  VINEY part  en septembre  1953  comme professeur, puis directeur, de l'École Forestière de Nancy. 
+Rémond LORNE est alors chargé de l'intérim de l'Inspection.
+## SON ACTION SUR LE TOURISME
+*« … Dans la Sarthe, le réseau était dense aussi, comme desserte de ces beaux massifs, mais il avait été a peine entretenu pendant toute la guerre et, les  voitures  se multipliant,  il  fallait  aussi  y  prévoir  l'essor  du tourisme. 
+Ma génération, je l'ai déjà écrit, était très imprégnée de la Doctrine Sociale de l'Église et notre attention était très dirigée vers le côté humain de nos vies professionnelles. 
+Ainsi j’avais compris que la forêt n’était pas seulement une usine productrice de bois, mais qu'elle devait aussi contribuer à 1'epanouissement de nos semblables. C'est dans cet esprit que j'ai entrepris de goudronner une partie de ce réseau en y intéressant le Département, par la Préfecture à l'époque. 
+Mes crédits d'état étaient  insuffisants,  j'obtins que  le département, chaque année, inscrive à son budget une ligne à cet effet,  et l'état, alors, était obligé de suivre.* 
+NDLR : Robert CALVEL est arrivé au poste de Jupilles avec ce grade, et est devenu technicien forestier grâce aux nouveaux statuts, obtenus de « haute lutte », et défendus par LORNE
+## SON ACTION SUR LES  PEUPLEMENTS 
+*« ….Quel devrait être le rôle du forestier tout au long de la longue vie de ces futaies. Pour obtenir en final de gros arbres, de très belle qualité, c'est-à-dire du tranchage, je préconisais de désigner vite un certain nombre de beaux pieds à l'hectare, et de dégager énergiquement toujours les mêmes, ceux-là qui allaient jusqu'au terme du peuplement.
+Je terminais en disant que cela devrait faire l'objet d'une étude chiffrée qui me paraissait indispensable. 
+Ainsi,  j'étais amené à constater que tout n’était pas parfait dans nos forêts domaniales, comme cherchait à m'en convaincre VINEY, et ceci même dans nos magnifiques futaies de chêne de l'ouest. 
+Ainsi les régénérations  (remplacement des vieilles futaies par semis naturel) étaient trop souvent médiocres, ronces ou fougères prenant le dessus,  l'homme n'intervenait pas assez  faisant  trop  confiance  à  la nature seule ; c’était d'ailleurs l'un des axiomes de la sylviculture française et c'était devenu l'excuse parfaite à la paresse, si naturelle, justement, à l'homme … 
+Mais aussi,  au bout de 240 ans,  c'est à ce terme que l’aménagement de Bercé prévoyait le remplacement des peuplements, les arbres étaient encore de faible diamètre, parce qu'il ne leur avait pas été réservé assez de place pour pouvoir grossir et donc que  les éclaircies successives qu'on y avait pratiqué au cours de leur vie, n'avaient pas été assez énergiques et aussi que les marteleurs,  d'une fois sur l'autre, n'avaient pas la continuité nécessaire pour favoriser toujours les pieds qui devaient subsister jusqu'au terme, 240 ans c'est long …
+Ces  faibles diamètres en final,  avaient  une  répercussion  très importante sur la rentabilité de la forêt. 
+Peu de pieds pouvaient être utilisés par  l'industrie  du  tranchage  (fines  lamelles  pour  contre-plaqués)  alors que la valeur des pieds à tranchage,  les gros,  était jusqu'a dix fois supérieure à celle des petits... !
+Tout  cela mijotait dans ma tête et m'amena finalement  à rédiger un article destine à la Revue Forestière Française. 
+C'était au printemps 1956, à la fin de mon règne seul à l’Inspection du Mans … ».* 
+A l’Inspection du Mans avec M. de MOUSTIER (1956-1960)
+C’est l’époque où Rémond LORNE fait paraître des articles sur la sylviculture des futaies de chênes :
+>«A la recherche de la qualité et des gros diamètres dans les futaies de chênes» (Revue Forestière Française 1956).
+>« Étude quantitative sur les éclaircies dans les futaies de chênes », publié en 1959.
+>« La sylviculture de l’avenir » est parue en avril 1961. 
+
+**Un visionnaire au Danemark** 
+Au printemps 1958, lors d’une mission à l’étranger, Rémond LORNE note :
+*« ……Les Danois ne barguignent pas avec le travail. Ce que je voyais là,  la nature assistée d'un intense travail humain, dépassait encore mes conceptions,  et,  pour le chêne,  ce que j'étais entrain d'imaginer, existait déjà, en forêt privée, j'y vis des "chênes d'avenir"  ceinturés de rouge,  si bien éclaircis  qu'ils  étaient  gros relativement jeunes.
+En gros, les chênes, à l'époque, avaient un "accroissement annuel moyen" (la"cerne" que l'on voit sur une souche ou une bûche) de 1,6 mm, et je proposais de le porter, à 2 mm ce qui correspond encore à un tranchage de grande classe et ce, en 200 ans au lieu de 240 ans. Mais, au lieu de 110 chênes à l'hectare en finale, il n'en fallait que 60, désignés jeunes comme "arbres d'avenir", cerclés à la peinture tout le long de leur vie, pour que les éclaircies soient toujours effectuées énergiquement à leur profit….. »* 
+Chargé à la conservation du service de la forêt privée, de la chasse et de la pêche (1960-1963)
+La Conservation, à l’époque, couvrait la Sarthe, la Mayenne, le Maine & Loire et l’Indre & Loire. Il lui appartenait donc, au nom du Conservateur, d’agir auprès des Inspections.
+Le "pivot" de son personnel était Madame ROBERT, secrétaire (veuve de cheminot) toujours très appréciée. Rappelez vous, elle était présente lors de l’arrestation de Georges France MURIEL au siège de l’inspection qui était alors rue du Port et avait remué ciel et terre pour retrouver Michel MURIEL afin de baptiser un chêne à la mémoire de son père (cf. : au fil du temps n°17 : les grands témoins ……et le film)
+Conservateur puis directeur régional de l’Office National des Forêts (1964-1969)
+1967 année de la rénovation…..
+## La maison du Bourg d'Anguy siège de la conservation nous est décrite par Rémond LORNE lui-même :              
+ *«L'on y entrait par une grande grille et un joli jardin aux tilleuls taillés où les voitures pouvaient stationner. La maison elle-même, de la fin du siècle dernier, était plus cossue que belle. Le bas était constitué par les pièces de réception : deux grands salons dans lesquels travaillait mon personnel, mon bureau était dans la salle à manger, avec une cheminée. La Conservation proprement dite occupait le 1er étage et l'Inspection le second. Une balustrade en pierre bordait l'avancée en terrasse des deux salons.»*
+Mais l’hôtel particulier fin XIXème de la rue du Bourg d'Anguy est rasé pour donner vie à la fameuse percée centrale. L’Office National des Forêts, tout nouvellement créé prend alors possession de ses vastes bureaux de l’Avenue du Général de Gaulle.
+L'Aménagement de Bercé est révisé cette même année, permettant de pérenniser pour 20 ans les idées de Rémond LORNE.
+AUJOURD’HUI, la forêt de Bercé est proposée « forêt d'exception »
+Parmi 16 forêts déjà sélectionnées pour leur patrimoine remarquable l’objectif est de créer : 
+- Un lieu d’exemplarité pour l’excellence de la gestion multifonctionnelle et durable.
+- Un lieu privilégié pour accueillir le public et lui expliquer les multiples facettes de la gestion durable, lui montrer le rôle prépondérant et concret de la forêt face aux grands enjeux que constituent changement climatique, consommation d’énergie et préservation des ressources naturelles. Bref le couronnement de l’action de nos prédécesseurs dont Rémond LORNE. 
+Cette nouvelle étape va garantir la gestion durable de la forêt domaniale, objet de la politique environnementale actuelle de l'ONF :
+Production de très gros bois de « haute qualité » dans le cadre d'exploitations qui se situent au sein de parcelles ‘label’ menées au delà de l’age normal d’exploitation.
+Développer des surfaces favorables à la biodiversité et intégrer dans le développement local, des peuplements à intérêt touristique. 
+La parcelle 132 : parcelle Label : nouveau centre d’intérêt du massif
+Depuis trois ans un projet de baptême mûrissait. Un nom, s’imposa tout naturellement, celui de l’Officier des Eaux et Forêts Rémond LORNE. 
+>L'Office National des Forêts lui rend donc hommage ce 27 septembre 2008, en baptisant le chêne le plus majestueux de la parcelle 132. 
+>Situé près du rond de la Croix Marconnay et du haut de ses 43 mètres le géant rivalise sans complexe avec les chênes BOPPE, ROULLEAU, >POTEL & MURIEL, fleurons de la futaie des Clos.
+>Les deux enclos (Clos du chêne BOPPE & Clos du chêne LORNE) étaient autrefois livrés à la culture et au pâturage. Ceux-ci sont encore >visibles, car bornés par de grands fossés.
+>Procédant à l’inventaire des richesses de  l’enclos du chêne LORNE (8,62ha), nous y repérerons deux mares permanentes, trois >temporaires et à proximité : cinq ferriers. La mise en valeur touristique et pédagogique de ces éléments patrimoniaux est de nature à >plaire à Rémond LORNE ce forestier devenu Chêne. 
+
+ 
+
