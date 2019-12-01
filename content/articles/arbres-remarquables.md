@@ -102,6 +102,7 @@ Le 21 octobre 1949, un décret prévoit en forêt une série artistique pour y c
 (1) Ce syndicat Français a été fondé en 1912, par le Marquis de NICOLAY et M. ROULLEAU DE LA ROUSSIERE, conservateur des Eaux et Forêts, avec l'objectif de défendre les intérêts de la «forêt privée française » avec l’aide d’autres propriétaires.**
 
 # Le chêne Lorne
+**Se reporter au chapitre consacré aux forestiers...
 
 # Le chêne Sermaize
 Dit aussi Chêne Seul….ou ….chêne Parapluie. Dans la parcelle 180, nous avons à faire à un chêne droit ...très droit... haut très haut ...34,60 m …gros…très gros…308 cm de circonférence....premier nœud à 16 m. Seulement 340 ans en 2009 et qui dépasse tous ses congénères d’une tête.   
