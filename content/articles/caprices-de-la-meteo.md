@@ -44,9 +44,10 @@ En janvier et février 1985 la température descend en dessous de -20°. Les arb
 En 1986, le 23 février, 30 cm de neige bloquent toute vie en forêt. 
 Phénomène rare : la pluie verglaçante du 13 janvier 1997...un épisode rare…mais intense !
 Les hivers 2010 et 2011 nous amèneront de la neige à foison.
-**Sur les chênes :**
-La gélivure, tare quasiment héréditaire, affecte bien souvent le chêne tendre de Bercé sur les trois premiers mètres. 
-Sous l’action du gel, le bois éclate à cœur. Une détonation semblable à celle d’un coup de fusil se fait alors entendre. L’arbre fabrique par la suite, le long de son écorce, un bourrelet cicatriciel pour refermer tant bien que mal cette plaie béante.
+
+>**Sur les chênes :**
+>La gélivure, tare quasiment héréditaire, affecte bien souvent le chêne tendre de Bercé sur les trois premiers mètres. 
+>Sous l’action du gel, le bois éclate à cœur. Une détonation semblable à celle d’un coup de fusil se fait alors entendre. L’arbre >fabrique par la suite, le long de son écorce, un bourrelet cicatriciel pour refermer tant bien que mal cette plaie béante.
 
 ## Le vent
 Le plus grand fléau de la forêt, est avec le feu, la conjugaison du vent et de la pluie. 
@@ -67,7 +68,7 @@ Décembre 1952 : après le dégel les arbres tombent jusqu’en début 1953.
 En  1967, C’EST LA CATASTROPHE ANNONCÉE : Du 7 janvier jusqu’au 14 février le sol enneigé emmagasine l’eau. En mars c’est sur un sol détrempé que la tempête se lève le dimanche 12 vers 17h 30 *«Jamais vu pareille chose,* dira GOENVEC. *Dégâts à la maison forestière, les arbres tombent à la volée ! D’après les bruits entendus. Les vents soufflent à plus de 100 km/h sans arrêt, en pression constante. » Les 12 et 13 mars : «La tempête fait rage. Les vents sont hurleurs, procédons au débarrage des routes ; toutes sont barrées.»
 Le 14 mars : « Recherche de bûcherons. Nombreux chablis au chêne BOPPE,…  c’est un vrai désastre ».* 
 Mais la pluie continuant en mai, ... le 25 c’est "VENTOUSE II, le retour".*«La tempête se lève à 12h30 avec un maximum vers 13h 15 jusqu’à 17h 10. Les militaires sont en manœuvre et les routes à nouveau coupées. Les militaires participent au débarrage des routes jusqu’au lendemain (à 13h signature du PV de bien vivre **(1)** qu’ils ont bien mérité)»*.  Ces désobstructions dureront ainsi jusqu’au 8 juin. Cette deuxième secouée a fait beaucoup d’autres dégâts en forêt. Au chêne BOPPE c’est une véritable catastrophe. 
-***(1)*** : ce PV démontrait à l’autorité militaire qu’il n’y avait eu aucun incident avec la troupe en forêt)
+>***(1)*** : ce PV démontrait à l’autorité militaire qu’il n’y avait eu aucun incident avec la troupe en forêt)
 13 octobre 1982, dans l’après-midi vers 17h  40, un ouragan d’une rare violence (tornade), ravage la forêt entre  Laillé et Pruillé sur une bande de 100 à 200 m de large sur 5 km de long. 
 Des milliers de mètres-cubes de bois sont cassés et arrachés. 
 *«L’on aurait dit un train passant dans le jardin»* relate Jean MANAC’H, aux Renardières. Des morceaux d’une caravane stationnée à Laillé atterrissent près de chez lui. Le ciel s’est subitement obscurci de feuilles et de poussières. 
