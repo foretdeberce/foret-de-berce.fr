@@ -89,12 +89,11 @@ En 1986, le 23 février, 30 cm de neige bloquent toute vie en forêt.
 
 Les hivers 2010 et 2011 nous amèneront de la neige à foison.
 
-Sur les chênes, la gélivure, tare quasiment héréditaire, affecte bien souvent le chêne tendre de Bercé sur les
-trois premiers mètres. 
-Sous l’action du gel, le bois éclate à cœur.
+Sur les chênes, **la gélivure**, tare quasiment héréditaire, affecte bien souvent le chêne tendre de Bercé
+sur les trois premiers mètres. Sous l’action du gel, le bois éclate à cœur.
 Une détonation semblable à celle d’un coup de fusil se fait alors entendre.
-L’arbre fabrique par la suite, le long de son écorce, un bourrelet cicatriciel pour refermer tant bien que mal
-cette plaie béante.
+L’arbre fabrique par la suite, le long de son écorce, un bourrelet cicatriciel pour refermer tant bien
+que mal cette plaie béante.
 
 
 ## Le vent
