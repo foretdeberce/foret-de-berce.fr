@@ -6,66 +6,177 @@ description: "Forêt d'Exception"
 featured_image: '/images/activites-forestieres.jpg'
 tags: ["Exploitation"]
 ---
-# Les bois de marine
-Étaient descendus par flottage sur le loir puis la Loire :
-Dans une lettre du 13 septembre 1797, le Sous-Ingénieur provisoire de la Marine précise :
-*«qu'il y a encore tant dans la forêt de Bercé que dans les ports de la Pointe et de Cour d'Hamont sur le Loir, environ 22000 pieds cubes (soit 754 m³) de superbes bois qui pourront je l'espère descendre la rivière dans le courant du mois prochain, Salut et fraternité.»*    Signé : Braud.
-D'autres références connues font état de :
-34 trains de bois sur le Loir en 1832 d'après la perception des droits de navigation sur les coupons de trains de bois…… 11 trains en 1833….3 trains de bois pour 102 m3 en 1852 acheminés par six hommes Ce fut probablement la fin du flottage sur le Loir. Les marchandises transportées à la descente se composaient au ¾ du tonnage total, de bois et de planches. (bois de débit, de sciage, de charpente et voliges). Cette date de 1852, correspond avec l’amélioration du réseau routier, à Bercé comme en Sarthe.
-1er Mars 1870 : *J’ai visité le canton de Volumiers ce qui a donné lieu au rapport ci—après :
-Monsieur le Brigadier ,
-Ce matin en visitant la coupe définitive 2e lot de l’exercice 1869, au Canton de Volumiers, j’ai remarqué  que la marine portant le n°15 n’était pas abattue, l’article 45 du Cahier des Charges de l’exercice 1869 en prescrit l’abatage à la date de aujourd’hui. Le n°12 qui a été renversé par le vent, n’est pas ébranché. J’ai cru urgent de porter ces faits à votre connaissance.
-J’ai bien l’honneur de vous saluer très respectueusement.
-		Le Garde Forestier Leroux*
-NB : Les anciens forestiers se démarquaient de la boucherie, en écrivant abatage avec un seul « t ».
 
-La marine ne recherchait pas seulement sur Bercé des billes droites pour les membrures :
-*A l’âge de 100 ans* (dit l’aménagiste de la forêt de Bercé en 1843) *les bois commencent seulement à prendre de la valeur et ne donnent que de la menue charpente, produits très accessoires pour une Forêt comme celle de Bercé, destinée à fournir aux constructions navales et civiles, les bois des plus grandes dimensions...*
-Mais aussi des «Bois de mauvaise figure» comme le disait Buffon. 
+## Les bois de marine
+
+Ils étaient descendus par flottage sur le Loir puis la Loire.
+Dans une lettre du 13 septembre 1797, Braud, le Sous-Ingénieur provisoire de la Marine précise :
+*«qu'il y a encore tant dans la forêt de Bercé que dans les ports de la Pointe et de Cour d'Hamont sur le Loir,
+environ 22000 pieds cubes (soit 754 m³) de superbes bois qui pourront je l'espère, descendre la rivière dans
+le courant du mois prochain, Salut et fraternité.»*.
+
+D'autres références connues font état de 34 trains de bois sur le Loir en 1832.
+D'après la perception des droits de navigation sur les coupons de trains de bois, 11 trains en 1833, 
+3 trains de bois pour 102 m3 en 1852 acheminés par six hommes.
+ 
+> Ce fut probablement la fin du flottage sur le Loir.
+
+Les marchandises transportées à la descente se composaient au ¾ du tonnage total, de bois et de planches
+(bois de débit, de sciage, de charpente et voliges).
+Cette date de 1852, correspond avec l’amélioration du réseau routier, à Bercé comme en Sarthe.
+
+1er Mars 1870 : le Garde Forestier Leroux écrit le rapport ci—après suite à la visite du canton de Volumiers :
+
+    Monsieur le Brigadier,
+    Ce matin en visitant la coupe définitive 2e lot de l’exercice 1869,
+    au Canton de Volumiers, j’ai remarqué que la marine portant le n°15
+    n’était pas abattue, l’article 45 du Cahier des Charges de
+    l’exercice 1869 en prescrit l’abatage à la date de aujourd’hui.
+    Le n°12 qui a été renversé par le vent, n’est pas ébranché.
+    J’ai cru urgent de porter ces faits à votre connaissance.
+    J’ai bien l’honneur de vous saluer très respectueusement.
+
+> Les anciens forestiers se démarquaient de la boucherie, en écrivant abatage avec un seul « t ».
+
+La marine ne recherchait pas seulement sur Bercé des billes droites pour les membrures.
+*A l’âge de 100 ans* (dit l’aménagiste de la forêt de Bercé en 1843) *les bois commencent seulement 
+à prendre de la valeur et ne donnent que de la menue charpente, produits très accessoires pour une 
+Forêt comme celle de Bercé, destinée à fournir aux constructions navales et civiles, les bois des plus 
+grandes dimensions...*
+
+Mais aussi des «Bois de mauvaise figure» comme le disait Buffon :
 *«En reconnaissance des arbres bifurqués dans les coupes du Canton de la Gaie-Mariée»* 
 (Brigadier Albrecht-avril 1906).
-En aucun cas ces pièces de Marine n’étaient destinées à la  Mâture. Les mâts provenaient des Pyrénées ou de Riga (baltique)
 
-## Transport ferroviaire :
-La dernière année ou il est question de Bois « Bons pour la Marine » sur Bercé ( 1921 ) est aussi la plus chargée en renseignements, rendez-vous et anecdotes. Le Garde Pigault écrit pour les 15 et 16 juin, puis 10 juillet 1921: *avec Mr. l’Inspecteur  Adoint et Mr. l’Agent réceptionnaire de la Marine, ainsi que les Collègues à la réception des bois de Marine dans la Parcelle A² (262) du Tertre aux Bœufs. L’entrepreneur Roquebert est chargé du transport de 488 M3 de bois de Marine. Employé au numérotage des billes. Le 11 Juillet avec le collègue Jouaux, nous avons marqué d’une lettre initiale, les arbres destinés à la Marine des Ports de Guerre de Rochefort, Lorient et Bizerte (Tunisie). Le 17 juillet 1921 : À la gare de Chahaignes, chercher les feuilles de voiture pour l’expédition des bois de Marine.*
+En aucun cas ces pièces de Marine n’étaient destinées à la Mâture.
+Les mâts provenaient des Pyrénées ou de Riga (baltique)
 
 
-## Durant la dernière guerre : la carbonisation
-La carbonisation, pour une forêt, n’est pas un facteur d’équilibre, car le bois est bien souvent coupé très jeune, dégradant au passage le paysage et les sols. Bercé  en fut protégé. 
-En 1922 l’aménagiste dit de Bercé : Charbon de bois : ni marchands, ni propriétaires exploitants carbonisateurs de charbons de bois depuis longtemps sur Bercé, ni dans les environs.
-La reprise de l’activité du charbon de bois dans la Ragée, durant la dernière guerre, (de 1940 à 1942) n’avait qu’une connotation stratégique, afin d’alimenter les gazogènes, les moulins, boulangeries et  charbonniers du Mans.
-Le charbon confectionné en meule traditionnelle, était plus ouvrageux que celui du four en tôle, mais en contre partie beaucoup plus beau. Les charbonniers couchaient sur place afin de contrôler toutes les phases de la carbonisation.
-Il y eut de la carbonisation et de la mise en sac de charbon de bois dans la vallée de la Ragée pour son acheminement en carriole vers le rond du Guignier et son transbordement en camion jusqu’au Moulin de Saint-Georges près le Mans. 
-La famille Vannier, comme beaucoup d’autres, issue du monde rural, n’avait guère le choix de se tourner autrement que vers la forêt pour subsister. Le petit bordage ne suffisait en effet plus à l’entretien de la famille.
-Émile, en 1925 travaille dans les bois comme émondeur et bûcheron jusque vers 1937 puis comme marchand de bois et scieur (scierie de la route du Vaugermain, jusqu’en 1968). C’est à ce titre qu’en 1940, il est réquisitionné par les Bois de Guerre. 
+### Transport ferroviaire
 
-# Les  travaux forestiers 
-Les ateliers
-*«Les petits métiers se sont développés dans les massifs malaisés à exploiter et écartés des voies d’eau ou de terre; La confection d’objets représentait un moyen de valoriser sur place les matières ligneuses et de leur ouvrir malgré les obstacles, une certaine zone d’exportation».* P. Deffontaines.
+La dernière année ou il est question de Bois *« Bons pour la Marine »* sur Bercé (1921) est aussi
+la plus chargée en renseignements, rendez-vous et anecdotes.
+
+Le Garde Pigault écrit pour les 15 et 16 juin, puis 10 juillet 1921:
+
+    Avec Mr. l’Inspecteur Adoint et Mr. l’Agent réceptionnaire de la
+    Marine, ainsi que les Collègues à la réception des bois de Marine
+    dans la Parcelle A² (262) du Tertre aux Bœufs.
+    L’entrepreneur Roquebert est chargé du transport de 488 M3 de bois
+    de Marine.
+    Employé au numérotage des billes.
+
+    Le 11 Juillet avec le collègue Jouaux, nous avons marqué d’une lettre
+    initiale, les arbres destinés à la Marine des Ports de
+    Guerre de Rochefort, Lorient et Bizerte (Tunisie).
+
+    Le 17 juillet 1921 : à la gare de Chahaignes, chercher les feuilles
+    de voiture pour l’expédition des bois de Marine.
+
+
+### Durant la dernière guerre : la carbonisation
+
+La carbonisation, pour une forêt, n’est pas un facteur d’équilibre, car le bois est bien souvent coupé
+très jeune, dégradant au passage le paysage et les sols.
+Bercé en fut protégé. 
+
+En 1922 l’aménagiste dit de Bercé : Charbon de bois : ni marchands, ni propriétaires exploitants
+carbonisateurs de charbons de bois depuis longtemps sur Bercé, ni dans les environs.
+La reprise de l’activité du charbon de bois dans la Ragée, durant la dernière guerre, de 1940 à 1942
+qu’une connotation stratégique, afin d’alimenter les gazogènes, les moulins, boulangeries et charbonniers du Mans.
+
+Le charbon confectionné en meule traditionnelle, était plus ouvrageux que celui du four en tôle, mais en
+contre partie beaucoup plus beau.
+Les charbonniers couchaient sur place afin de contrôler toutes les phases de la carbonisation.
+
+Il y eut de la carbonisation et de la mise en sac de charbon de bois dans la vallée de la Ragée pour
+son acheminement en carriole vers le rond du Guignier et son transbordement en camion jusqu’au Moulin de
+Saint-Georges près le Mans. 
+
+La famille Vannier, comme beaucoup d’autres, issue du monde rural, n’avait guère le choix de se tourner
+autrement que vers la forêt pour subsister.
+Le petit bordage ne suffisait en effet plus à l’entretien de la famille.
+Émile, en 1925 travaille dans les bois comme émondeur et bûcheron jusque vers 1937 puis comme marchand de
+bois et scieur (scierie de la route du Vaugermain, jusqu’en 1968).
+C’est à ce titre qu’en 1940, il est réquisitionné par les Bois de Guerre. 
+
+
+## Les travaux forestiers 
+
+### Les ateliers
+
+> «Les petits métiers se sont développés dans les massifs malaisés à exploiter et écartés des voies d’eau ou
+de terre; La confection d’objets représentait un moyen de valoriser sur place les matières ligneuses et de
+leur ouvrir malgré les obstacles, une certaine zone d’exportation».
+> 
+> -- P. Deffontaines.
 
 Une particularité méconnue de Bercé, c’est d’avoir produit un temps de la résine.
-En effet, de 1919 à 1931 nombre de pins ont subit cette traumatisante expérience du gemmage. Mais ces ateliers n’ont pas su attirer, contrairement à ceux du merrain l’attention des photographes. 
-Les bois de merrains étaient transformés en douelles pour barriques dans les ateliers situés en forêt ou dans les villages, tels ceux des tonneliers huiliers, recensés par Lucette Bardet de Château du Loir : 1755 René Savignard (la Huberdière), 1806 Pierre Savignard (Thoiré) et Jean Savignard, 1843 Prospère Savignard (Volumiers) . 
-Ou plus proche de nous, celui d’Albert Gateau, artisan tonnelier à St Vincent du Lorouër (1891-1987). 
-Lucien Miat a travaillé pour le Père Provost à la tâche, il a fait du merrain jusqu’en 1963 (il y en avait d’autres, mais ils sont décédés). Après il a été tonnelier et faisait des barriques à la Chartre sur le Loir.(témoignage de Marcel Perroux, né en 1922)
-Les ateliers en forêt, prennent ainsi place autour des loges, elles mêmes situées au cœur des ventes. La maison Gauthereau a été la dernière à fabriquer le merrain en forêt.
-Les Fendeurs, les bûcherons, les mérandiers, les éhouppeurs, tous ces corps de métier s’entendaient très bien. Les ouvriers qui faisaient du merrain faisait du feu à même leur belle cabane pour chasser les mouches. Ils faisaient leur merrain directement en forêt. (Marcel Perroux–1997)
-L’atelier de merrains est ici mis en scène sous deux aspects différents. Il pouvait être fabriqué dans ces ateliers, aussi bien des lattes, que des éclisses, des échalas ou des bardeaux : Jules Bellanger faisait des bardeaux en châtaigner. Le Père Drouault , a fait du merrain jusqu’en 1947. Les derniers bardeaux qu’il a fabriqué ont été commandés et non pris. Il partait l’été en Forêt à 5 h. du matin, se reposait 2 h. l’après-midi. L’hiver il faisait ses merrains avec son gars : Roger.(Maurice Vérité) 
-Les Scieurs de Long
-Nos ancêtres les gaulois utilisaient déjà cette technique du sciage à bras qui a perduré chez nous jusqu’à l’arrivée des premières scieries mobiles.
-Aux scieurs de long sédentaires s’ajoutaient sur Bercé des scieurs migrants principalement venus du Massif Central, au savoir faire inégalable.
-Nos fameux «balays», ou "balais" en seraient originaires de même que la Lauvergne, bourrée que l’on dansait peut-être à l’Hermitière. 
+
+En effet, de 1919 à 1931 nombre de pins ont subit cette traumatisante expérience du gemmage.
+Mais ces ateliers n’ont pas su attirer, contrairement à ceux du merrain l’attention des photographes. 
+Les bois de merrains étaient transformés en douelles pour barriques dans les ateliers situés en forêt ou
+dans les villages, tels ceux des tonneliers huiliers, recensés par Lucette Bardet de Château du Loir :
+* 1755 : René Savignard (la Huberdière)
+* 1806 : Pierre Savignard (Thoiré) et Jean Savignard
+* 1843 : Prospère Savignard (Volumiers) * 
+* Ou plus proche de nous, celui d’Albert Gateau, artisan tonnelier à St Vincent du Lorouër (1891-1987)
+
+Lucien Miat a travaillé pour le Père Provost à la tâche, il a fait du merrain jusqu’en 1963 (il y en avait
+d’autres, mais i.ls sont décédés).
+Après il a été tonnelier et faisait des barriques à la Chartre sur le Loir
+
+*Témoignage de Marcel Perroux, né en 1922.*
+
+Les ateliers en forêt, prennent ainsi place autour des loges, elles mêmes situées au cœur des ventes.
+La maison Gauthereau a été la dernière à fabriquer le merrain en forêt.
+
+Les Fendeurs, les bûcherons, les mérandiers, les éhouppeurs, tous ces corps de métier s’entendaient très bien.
+
+Les ouvriers qui faisaient du merrain faisait du feu à même leur belle cabane pour chasser les mouches.
+Ils faisaient leur merrain directement en forêt.
+
+*Témoignage de Marcel Perroux, 1997).*
+
+L’atelier de merrains est ici mis en scène sous deux aspects différents.
+Il pouvait être fabriqué dans ces ateliers, aussi bien des lattes, que des éclisses, des échalas ou des
+bardeaux : Jules Bellanger faisait des bardeaux en châtaigner.
+Le Père Drouault, a fait du merrain jusqu’en 1947.
+Les derniers bardeaux qu’il a fabriqué ont été commandés et non pris.
+Il partait l’été en Forêt à 5h du matin, se reposait 2h l’après-midi.
+L’hiver il faisait ses merrains avec son gars : Roger.
+
+*Témoignage de Maurice Vérité, né en 1911.*
+
+**Les Scieurs de Long**
+
+Nos ancêtres les gaulois utilisaient déjà cette technique du sciage à bras qui a perduré chez nous
+jusqu’à l’arrivée des premières scieries mobiles.
+Aux scieurs de long sédentaires s’ajoutaient sur Bercé des scieurs migrants principalement venus du
+Massif Central, au savoir faire inégalable.
+Nos fameux «balays», ou "balais" en seraient originaires de même que la Lauvergne,
+bourrée que l’on dansait peut-être à l’Hermitière. 
 Ils étaient organisés en Ateliers qu’ils déplaçaient avec leurs loges au gré des coupes. 
 Les derniers scieurs de long que j’ai vu étaient dans la parcelle 213 au dessus du ruisseau. 
-                                                                                          (Maurice Vérité, né en 1911)
+
+*Témoignage de Maurice Vérité, né en 1911.*
 
 
-# Le martelage
-Le martelage, est une opération sylvicole qui consiste à désigner les arbres à abattre, à l’aide d’un marteau et de son empreinte (ci dessus à gauche : 18e siècle, à droite, 19e et 20 e siècles. Les lettres Administration Forestière sont  gothiques et  y figure le numéro de la conservation). Peu de photos anciennes relatent cette particularité du métier de forestier sur Bercé.
-Le compas forestier ou pied à coulisse, sert à mesurer le diamètre en valeurs compensées de 5 en 5 cm. La hauteur de la grume marchande est laissée à l’appréciation du marteleur. Les mesures sont ensuite appelées à voix forte en direction du pointeur qui les note sur sa fiche de martelage.
-Ces gestes se répètent inlassablement depuis l’arrivée des premiers forestiers sur le Massif de Bercé : (Gaubert (Gausbertus) forestier de Cléopas de Nouâtre en 1067 et Foucher, forestier de Gervais II, seigneur de Château du Loir (1071)
+## Le martelage
 
-# L’exploitation des bois ... Les bûcherons
+Le martelage, est une opération sylvicole qui consiste à désigner les arbres à abattre,
+à l’aide d’un marteau et de son empreinte (ci dessus à gauche : 18e siècle, à droite, 19e et 20e siècles.
+Les lettres Administration Forestière sont gothiques et y figure le numéro de la conservation).
+Peu de photos anciennes relatent cette particularité du métier de forestier sur Bercé.
+Le compas forestier ou pied à coulisse, sert à mesurer le diamètre en valeurs compensées de 5 en 5 cm.
+La hauteur de la grume marchande est laissée à l’appréciation du marteleur. Les mesures sont ensuite appelées
+à voix forte en direction du pointeur qui les note sur sa fiche de martelage.
+Ces gestes se répètent inlassablement depuis l’arrivée des premiers forestiers sur le Massif de Bercé : 
+(Gaubert (Gausbertus) forestier de Cléopas de Nouâtre en 1067 et Foucher, forestier de Gervais II, 
+seigneur de Château du Loir (1071).
+
+
+## L’exploitation des bois : les bûcherons
 
 Une équipe de trois bûcherons et le facteur de coupe ou garde vente en compagnie du Préposé des Eaux et Forêts Louis Pigault, lorsque celui ci occupait le poste de la Maison Forestière des Clos, vers 1920.
 Mr. Massicot travaillait comme facteur pour la maison CAREL du Mans qui faisait du  Merrain. Il avait une roulotte avec un cheval .(Maurice Vérité). Dupré, de Beaumont était celui de la Maison Ferrant. 
