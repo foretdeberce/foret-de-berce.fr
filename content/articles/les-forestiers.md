@@ -6,14 +6,21 @@ description: "Forêt d'Exception"
 featured_image: '/images/futais.jpg'
 tags: ["Exploitation"]
 ---
-Coup de projecteur sur les siècles passés, rendons hommage aux femmes et aux hommes qui y ont œuvré. 
-Bien des familles s’y sont encrées, parfois dans le dénuement le plus total, mais tous ont eu à cœur d’y travailler.
-Bien sûr il y eut des drames, du sang, des larmes, mais aussi toute une vie qui grouillait, des ambiances festives, et l’incomparable chaîne d’entraide du petit monde forestier.  
+
+Coup de projecteur sur les siècles passés, rendons hommage aux femmes et aux hommes qui y ont œuvré.
+
+Bien des familles s’y sont encrées, parfois dans le dénuement le plus total, mais tous ont eu à cœur d’y
+travailler.
+Bien sûr il y eut des drames, du sang, des larmes, mais aussi toute une vie qui grouillait, des ambiances
+festives, et l’incomparable chaîne d’entraide du petit monde forestier.  
 Lors de vos prochaines sorties en forêt, plongez vous sur les traces de leur passage.
 
-# LES FORESTIERS DE BERCÉ AVANT  1800
 
-Période du Moyen-âge  **1067 à 1097**  - BERSAY : GERVAIS II, seigneur de Château-du-Loir, dont la descendance sera la dynastie PLANTAGENET délègue  pour le domaine son forestier FOUCHER. Il y est question aussi d’un dénommé HARDOUIN **(1)** CLÉOPAS : CLÉOPAS de NOUÂTRE. Un des témoins de cet acte était le forestier de l'époque qui s'appelait GAUBERT (Gausbertus); le texte porte en effet : «  Testcs sunt isti : Hubertus, ejusdem Cleopa filius, “ Gausbertus forestarius …” ». **(1)**
+## Les forestiers de Bercé avant 1800
+
+Période du Moyen-âge 1067/1097, Bersay: Gervais II, seigneur de Château-du-Loir, dont la descendance sera
+la dynastie Plantagenet délègue pour le domaine son forestier Foucher.
+Il y est question aussi d’un dénommé Hardouin **(1)** CLÉOPAS : CLÉOPAS de NOUÂTRE. Un des témoins de cet acte était le forestier de l'époque qui s'appelait GAUBERT (Gausbertus); le texte porte en effet : «  Testcs sunt isti : Hubertus, ejusdem Cleopa filius, “ Gausbertus forestarius …” ». **(1)**
 **1371** : « un apellé Robert Macé, nostre sergent de nos forestz dou Chasteau dou Loir » (en vieux français)
 En **1492**, Jehan de TARDES, maître des Eaux et Forêts du Maine et capitaine de Château-du-Loir, administrait la forêt royale. 
 Les sources fiscales enregistrent comme gardes à Jupilles : Hilarion LEPINGLEUX de **1730 à 1750**, Jean LEPINGLEUX en 1760, François LEFEBVRE en **1760 et 1770**, Jacques BOUVIER et François LEFEBVRE en 1780-1789, Jacques BARRIER et François JOUSSELET, en 1789. À Marigné, on relève pour cette même fonction, les noms de LEDRU en 1730, CAZAL en 1740 et 1750, Pierre PETIT-PIN en 1760 et Jacques POTTIER en 1770. 

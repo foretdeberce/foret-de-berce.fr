@@ -453,7 +453,8 @@ représentent les monuments et sites ci-dessous énumérés :
 * **Planche 1** : La Cathédrale, la Maison d'Adam et Eve, le Moulin d'Enfer, le Pont Vieux à Pontlieue, 
 le plan de l'ancienne Enceinte Gallo-romaine (IVe siècle), l'hôtel de Vaux, la Tour Madeleine, la Tour du Vivier, 
 la Maison du Pilier Rouge la Grande Poterne. 
-* **Planche II** : Le Donjon de Sillé-le-Guillaume, l'Eglise, les ruines du Donjon et une vue de la Sarthe à Fresnay,
+* **Planche II** : Le Donjon de Sillé-le-Guillaume, l'Eglise, les ruines du Donjon et une vue de la Sarthe à
+Fresnay,
 l'Eglise Notre-Dame à Mamers, la Porte de Ville à la Ferté-Bernard, le plan des forêts de Sillé et de Perseigne,
 la Sarthe à Saint-Léonard-des-Bois, le vieux pont a Beaumont-sur-Sarthe, le Château de Ballon et 
 l'Eglise Notre-Dame-des-Marais à la Ferté-Bernard. 
