@@ -53,7 +53,7 @@ En 1929, début janvier, la neige est épaisse. Des tempêtes d’une rare viole
 extrêmement difficile jusqu’au 14 février. 
 En février 1942, c’est neige et verglas.
 
-> «Il y a des dégâts dans les pins maritimes et du bois tombé.»*
+> «Il y a des dégâts dans les pins maritimes et du bois tombé.»
 
 Le 24 février le docteur BAROT bute avec sa voiture sur un pin tombé sur la route : il est blessé. 
 Neige aussi en 1945 tout le mois de janvier, et verglas par la suite. 
@@ -137,15 +137,15 @@ Décembre 1952 : après le dégel les arbres tombent jusqu’en début 1953.
 
 En 1967, c’est la catastrophe annoncée : du 7 janvier jusqu’au 14 février le sol enneigé emmagasine l’eau.
 En mars c’est sur un sol détrempé que la tempête se lève le dimanche 12 vers 17h 30.
-* «Dégâts à la maison forestière, les arbres tombent à la volée ! D’après les bruits entendus.
+*« Dégâts à la maison forestière, les arbres tombent à la volée ! D’après les bruits entendus.
 Les vents soufflent à plus de 100 km/h sans arrêt, en pression constante. »*
 
 Les 12 et 13 mars : *«La tempête fait rage. Les vents sont hurleurs, procédons au débarrage des routes; 
 toutes sont barrées.»*
 
-Le 14 mars : *« Recherche de bûcherons. Nombreux chablis au chêne BOPPE, c’est un vrai désastre ».*
+Le 14 mars : *« Recherche de bûcherons. Nombreux chablis au chêne Boppe, c’est un vrai désastre ».*
  
-Mais la pluie continuant en mai, le 25 c’est **VENTOUSE II, le retour**.
+Mais la pluie continuant en mai, le 25 c’est **Ventouse II, le retour**.
 
 > «La tempête se lève à 12h30 avec un maximum vers 13h 15 jusqu’à 17h 10.
 > Les militaires sont en manœuvre et les routes à nouveau coupées.
@@ -156,7 +156,7 @@ Mais la pluie continuant en mai, le 25 c’est **VENTOUSE II, le retour**.
 
 Ces désobstructions dureront ainsi jusqu’au 8 juin.
 Cette deuxième secouée a fait beaucoup d’autres dégâts en forêt.
-Au chêne BOPPE c’est une véritable catastrophe. 
+Au chêne Boppe c’est une véritable catastrophe. 
 
 13 octobre 1982, dans l’après-midi vers 17h40, un ouragan d’une rare violence (tornade), ravage la forêt entre
 Laillé et Pruillé sur une bande de 100 à 200 m de large sur 5 km de long. 
@@ -233,13 +233,13 @@ Faible hygrométrie en 1995 et 1996. 1990, 1994, 1997 et 2013 sont les 4 années
 
 > «Les fourmis sont d’sortie, l’orage aussi.»
 
-La parcelle du chêne BOPPE raconte, mémoires recueillies par R. VINEY :
+La parcelle du chêne Boppe raconte, mémoires recueillies par R.Viney :
     
     « Le feu céleste a été envoyé le 18 décembre 1934 sous forme d'orage
-    pour tuer le chêne BOPPE.
+    pour tuer le chêne Boppe.
     Vers 15 heures, un coup de tonnerre formidable déchirait l'air et 
     18 éclairs descendaient du ciel : 
-    trois frappèrent le chêne BOPPE et me secouèrent, quinze autres 
+    trois frappèrent le chêne Boppe et me secouèrent, quinze autres 
     foudroyèrent ensemble 15 chênes d'une de mes voisines.»
    
 *«Tous ces débris de bois déchiquetés à terre, on aurait dit de la neige»,* confiera l’agent du triage.
@@ -290,6 +290,6 @@ Le feu est l’ennemi de la forêt et rare sont sur Bercé les feux d’ origine
 Après guerre, des entreprises de déminage fonctionnèrent en forêt dans l’endroit appelé aujourd’hui Bikini.
 Ce canton fut sans arrêt dévasté par des mises à feu d’obus incontrôlées. 
 
-> Bibliographie :
->
-> Archives et vieux registres journaliers de l’administration des Eaux et forêts, annotés par les préposés.
+#### Bibliographie :
+
+Archives et vieux registres journaliers de l’administration des Eaux et forêts, annotés par les préposés.
