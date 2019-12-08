@@ -16,29 +16,37 @@ le label Forêt d’Exception®.
 Après Fontainebleau, Verdun, La Grande Chartreuse, Rouen, Val Suzon et Montagne de Reims, Bercé est enfin
 la 7ème forêt labellisée.
 
-# Dix autres forêts attendent encore de recevoir ce précieux sésame, dont une en Martinique.
+**Dix autres forêts attendent encore de recevoir ce précieux sésame, dont une en Martinique.**
+
     Depuis des siècles, les arbres sont davantage
     l’œuvre des hommes que celle de la nature.
     Ce sont nos enfants de verdure.
     (J. Lacarrière O.N.F)
 
-L’Office National des Forêts a en charge la gestion du massif
-Domanial de Bercé avec trois principes essentiels qui sont :
-De produire du bois de qualité
-De protéger et de conserver ce milieu fragile
-De nous accueillir
+L’Office National des Forêts a en charge la gestion du massif Domanial de Bercé avec trois principes
+essentiels qui sont :
+1. Produire du bois de qualité.
+1. Protéger et de conserver ce milieu fragile.
+1. Accueillir les visiteurs.
 
 
-# Bienvenue  à Bercé, ce terroir ou l’on cultive l’Excellence !   
- Située au  Nord de la vallée du Loir, la majestueuse forêt domaniale de Bercé s’étend sur 5337 hectares,
-11 communes, et 5 communautés de communes, entre le Mans et Tours,  sur le plateau Calaisien, 
-à une altitude moyenne de 150 m.  Elle est boisée pour l’essentiel de chênes aux longs fûts plusieurs fois
-centenaires, et de hêtres. Les anciennes landes plus pauvres, sont plantées d’essences feuillues
-et résineuses qui assurent la biodiversité du Massif. 
-         Jadis utilisé pour la construction navale, le chêne de Bercé est aujourd’hui mondialement  recherché 
+## Bienvenue  à Bercé, ce terroir ou l’on cultive l’Excellence !
+
+Située au Nord de la vallée du Loir, la majestueuse forêt domaniale de Bercé s’étend sur 5337 hectares,
+11 communes, et 5 communautés de communes, entre le Mans et Tours, sur le plateau Calaisien, 
+à une altitude moyenne de 150 m.
+
+Elle est boisée pour l’essentiel de chênes aux longs fûts plusieurs fois centenaires et de hêtres.
+Les anciennes landes plus pauvres, sont plantées d’essences feuillues et résineuses qui assurent
+la biodiversité du Massif. 
+
+Jadis utilisé pour la construction navale, le chêne de Bercé est aujourd’hui mondialement recherché 
 pour l’ébénisterie, le tranchage et la tonnellerie. 
-         Le hêtre, qui aide à la croissance du chêne vers le haut, était autrefois utilisé pour la 
-boissellerie et la saboterie. 
-         Les photos et cartes postales glanées çà et là témoignent de ce passé prestigieux où tous les villages 
+
+Le hêtre, qui aide à la croissance du chêne vers le haut, était autrefois utilisé pour la boissellerie et
+la saboterie. 
+
+Les photos et cartes postales glanées çà et là témoignent de ce passé prestigieux où tous les villages 
 avoisinants vivaient des métiers de la forêt.
+
 Elles nous permettent aujourd’hui de relater à nos enfants le passé prestigieux de la forêt de leurs aïeux. 

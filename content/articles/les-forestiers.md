@@ -6,14 +6,30 @@ description: "Forêt d'Exception"
 featured_image: '/images/futais.jpg'
 tags: ["Exploitation"]
 ---
-Coup de projecteur sur les siècles passés, rendons hommage aux femmes et aux hommes qui y ont œuvré. 
-Bien des familles s’y sont encrées, parfois dans le dénuement le plus total, mais tous ont eu à cœur d’y travailler.
-Bien sûr il y eut des drames, du sang, des larmes, mais aussi toute une vie qui grouillait, des ambiances festives, et l’incomparable chaîne d’entraide du petit monde forestier.  
+
+Coup de projecteur sur les siècles passés, rendons hommage aux femmes et aux hommes qui y ont œuvré.
+
+Bien des familles s’y sont encrées, parfois dans le dénuement le plus total, mais tous ont eu à cœur d’y
+travailler.
+
+Bien sûr il y eut des drames, du sang, des larmes, mais aussi toute une vie qui grouillait, des ambiances
+festives, et l’incomparable chaîne d’entraide du petit monde forestier.  
 Lors de vos prochaines sorties en forêt, plongez vous sur les traces de leur passage.
 
-# LES FORESTIERS DE BERCÉ AVANT  1800
+{{<figure src="/images/articles/forestier-1979.jpg" title="Un forestier en 1979">}}
 
-Période du Moyen-âge  **1067 à 1097**  - BERSAY : GERVAIS II, seigneur de Château-du-Loir, dont la descendance sera la dynastie PLANTAGENET délègue  pour le domaine son forestier FOUCHER. Il y est question aussi d’un dénommé HARDOUIN **(1)** CLÉOPAS : CLÉOPAS de NOUÂTRE. Un des témoins de cet acte était le forestier de l'époque qui s'appelait GAUBERT (Gausbertus); le texte porte en effet : «  Testcs sunt isti : Hubertus, ejusdem Cleopa filius, “ Gausbertus forestarius …” ». **(1)**
+## Les forestiers de Bercé avant 1800
+
+Période du Moyen-âge 1067/1097, Bersay: Gervais II, seigneur de Château-du-Loir, dont la descendance sera
+la dynastie Plantagenet délègue pour le domaine son forestier Foucher.
+Il y est question aussi d’un dénommé Hardouin : Cléopas de Nouâtre
+Un des témoins de cet acte était le forestier de l'époque qui s'appelait Gaubert (Gausbertus).
+Le texte porte en effet : 
+
+> « Testcs sunt isti : Hubertus, ejusdem Cleopa filiu, Gausbertus forestarius »*.
+>
+> -- Cartulaire de Château-du-Loir
+
 **1371** : « un apellé Robert Macé, nostre sergent de nos forestz dou Chasteau dou Loir » (en vieux français)
 En **1492**, Jehan de TARDES, maître des Eaux et Forêts du Maine et capitaine de Château-du-Loir, administrait la forêt royale. 
 Les sources fiscales enregistrent comme gardes à Jupilles : Hilarion LEPINGLEUX de **1730 à 1750**, Jean LEPINGLEUX en 1760, François LEFEBVRE en **1760 et 1770**, Jacques BOUVIER et François LEFEBVRE en 1780-1789, Jacques BARRIER et François JOUSSELET, en 1789. À Marigné, on relève pour cette même fonction, les noms de LEDRU en 1730, CAZAL en 1740 et 1750, Pierre PETIT-PIN en 1760 et Jacques POTTIER en 1770. 
@@ -22,7 +38,7 @@ Les sources fiscales enregistrent comme gardes à Jupilles : Hilarion LEPINGLEUX
 TITRE X (p.596 et 597) délits et malversations de René GAUDRON & Michel DUPRÉ
 « Sur le rapport de trois Gardes de la forêt de Bercé dépendante de la maîtrise de Château-du-Loir: les nommés Christophe DOPTERRE, Claude RAGUIDEAU et Jean LEMÉE, sergents gardes de ladite forêt, en auraient fait les perquisitions pour en découvrir les auteurs, & ayant reconnu que c’était les nommés René GAUDRON & Michel DUPRÉ, ils en auraient fait leur rapport au sieur d’AVANCOURT (d'HARAUCOURT) maître particulier des Eaux et forêts de Château-du-Loir, lequel en aurait informé à la requête du procureur de sa majesté en ladite maîtrise, & décerné décret de prise de corps contre lesdits GAUDRON & DUPRÉ, le 23 juin dernier, duquel décret lesdits gardes ayant été chargés pour le mettre à exécution, & s’étant mis en état d’arrêter lesdits GAUDRON & DUPRÉ, ils en auraient été empêchés par une rébellion, & une force majeure ou ils auraient été excédés & maltraités de plusieurs coups, que les nommés GAUDRON & DUPRÉ avaient commis plusieurs délits et malversations dans ladite forêt, le maître particulier en informa à la requête du procureur du roi, et les décréta de prise de corps….. » « 30 juin, le Maître particulier a rendu un second décret de prise de corps contre GAUDRON & DUPRÉ plus une provision alimentaire de 100 livres, mais GAUDRON & DUPRÉ voulant se mettre à couvert de cette poursuite, ont postérieurement et par récrimination rendu plainte à l’assesseur criminel du Château-du-Loir des prétendus excès commis à leur égard par les gardes, lorsqu’ils voulurent exécuter le  décret, sur laquelle ils auraient obtenu permission d’informer, & une provision alimentaire de cent livres le 7 juillet en suivant pour le paiement de laquelle lesdits DOPTERRE, RAGUIDEAU et LEMÉE, ont été emprisonnés dans les prisons de Château-du-Loir, et leurs meubles saisis & vendus… et fait défense aux dits GAUDRON & DUPRÉ de faire poursuite ailleurs que par devant le maitre particulier, sous peine de nullité et 500 livres d’amende, dépens et dommages et intérêts. » Signé, RANСHIN **(4)**
 
-## PIERRE VÉRITÉ
+## Pierre Vérité
 
 **1773**. — Registre des procédures criminelles. —
 « Est comparu Jacques FOUQUET de PUISIÈRES, marchand de bois, demeurant à Salvert, paroisse de Pruillé-l'Éguillé, lequel nous a dit et déclaré qu'à la réquisition du sieur Pierre VÉRITÉ, garde-marteau de la maîtrise des Eaux et forêts de cette ville, il se serait rendu, le dix-sept du présent mois, en cette dite ville à l'effet de concilier et terminer une instance pendante en la sénéchaussée et siège royal de cette ville entre ledit sieur VÉRITÉ et le comparant, en laquelle dite instance messire de LONGUEVAL était sur le point d'intervenir. Le lendemain dix-huit, le comparant invita donc ledit sieur de LONGUEVAL de lui faire l'honneur de déjeuner le jour d'hier, et lui fit part du dessein dans lequel ledit sieur VÉRITÉ et lui étaient de s'arranger.
@@ -32,7 +48,7 @@ Le jeu fini, ledit sieur VÉRITÉ fit différents signes au comparant pour l'eng
 Le comparant lui dit alors: "Je sais ce que vous me voulez, mais je ne veux me venger de vos insultes et voies de fait que par les voies de la justice". Le sieur VÉRITÉ sortit donc du billard très en colère, et arrivé à son auberge, il tint même encore des discours injurieux contre l'honneur et la réputation dudit comparant...» 
 1768-1770. -  Registre des jugements Anne SOTEAU, contre Pierre VÉRITÉ, garde-marteau en la maîtrise particulière des Eaux et Forêts de Château-du-Loir (f° 2) 
  
-## LA CONSERVATION GÉNÉRALE DES FORÊTS
+## La conservation générale des forêts
 **1790** : Elle est créée le 29 septembre et devient autonome le 16 janvier 1801 avec la nomination d’un directeur général. Les maîtrises n’existent plus.
 **1791**, le 13 mars, la municipalité de Marigné établit un certificat de bonne conduite à Jacques COURCITTÉ afin que celui-ci puisse devenir garde de la "forest de Bercé"
 **1793**, Marin GOUTARD, **(3)** vainqueur de la Bastille, ci-devant garde de la forêt de Bercé au triage et paroisse de Saint-Vincent-du-Lorouër, enrôlé comme volontaire, réclame néanmoins le tiers de ses appointements de garde. 
@@ -231,32 +247,82 @@ C’est l’époque où Rémond LORNE fait paraître des articles sur la sylvicu
 >« Étude quantitative sur les éclaircies dans les futaies de chênes », publié en 1959.
 >« La sylviculture de l’avenir » est parue en avril 1961. 
 
-**Un visionnaire au Danemark** 
-Au printemps 1958, lors d’une mission à l’étranger, Rémond LORNE note :
-*« ……Les Danois ne barguignent pas avec le travail. Ce que je voyais là,  la nature assistée d'un intense travail humain, dépassait encore mes conceptions,  et,  pour le chêne,  ce que j'étais entrain d'imaginer, existait déjà, en forêt privée, j'y vis des "chênes d'avenir"  ceinturés de rouge,  si bien éclaircis  qu'ils  étaient  gros relativement jeunes.
-En gros, les chênes, à l'époque, avaient un "accroissement annuel moyen" (la"cerne" que l'on voit sur une souche ou une bûche) de 1,6 mm, et je proposais de le porter, à 2 mm ce qui correspond encore à un tranchage de grande classe et ce, en 200 ans au lieu de 240 ans. Mais, au lieu de 110 chênes à l'hectare en finale, il n'en fallait que 60, désignés jeunes comme "arbres d'avenir", cerclés à la peinture tout le long de leur vie, pour que les éclaircies soient toujours effectuées énergiquement à leur profit….. »* 
-Chargé à la conservation du service de la forêt privée, de la chasse et de la pêche (1960-1963)
-La Conservation, à l’époque, couvrait la Sarthe, la Mayenne, le Maine & Loire et l’Indre & Loire. Il lui appartenait donc, au nom du Conservateur, d’agir auprès des Inspections.
-Le "pivot" de son personnel était Madame ROBERT, secrétaire (veuve de cheminot) toujours très appréciée. Rappelez vous, elle était présente lors de l’arrestation de Georges France MURIEL au siège de l’inspection qui était alors rue du Port et avait remué ciel et terre pour retrouver Michel MURIEL afin de baptiser un chêne à la mémoire de son père (cf. : au fil du temps n°17 : les grands témoins ……et le film)
-Conservateur puis directeur régional de l’Office National des Forêts (1964-1969)
-1967 année de la rénovation…..
-## La maison du Bourg d'Anguy siège de la conservation nous est décrite par Rémond LORNE lui-même :              
- *«L'on y entrait par une grande grille et un joli jardin aux tilleuls taillés où les voitures pouvaient stationner. La maison elle-même, de la fin du siècle dernier, était plus cossue que belle. Le bas était constitué par les pièces de réception : deux grands salons dans lesquels travaillait mon personnel, mon bureau était dans la salle à manger, avec une cheminée. La Conservation proprement dite occupait le 1er étage et l'Inspection le second. Une balustrade en pierre bordait l'avancée en terrasse des deux salons.»*
-Mais l’hôtel particulier fin XIXème de la rue du Bourg d'Anguy est rasé pour donner vie à la fameuse percée centrale. L’Office National des Forêts, tout nouvellement créé prend alors possession de ses vastes bureaux de l’Avenue du Général de Gaulle.
-L'Aménagement de Bercé est révisé cette même année, permettant de pérenniser pour 20 ans les idées de Rémond LORNE.
-AUJOURD’HUI, la forêt de Bercé est proposée « forêt d'exception »
+
+
+
+
+### Un visionnaire au Danemark 
+
+Au printemps 1958, lors d’une mission à l’étranger, Rémond Lorne note :
+
+*« Les Danois ne barguignent pas avec le travail. Ce que je voyais là, la nature assistée d'un intense
+travail humain, dépassait encore mes conceptions et pour le chêne, ce que j'étais entrain d'imaginer,
+existait déjà, en forêt privée, j'y vis des "chênes d'avenir" ceinturés de rouge, si bien éclaircis
+qu'ils  étaient  gros relativement jeunes.
+En gros, les chênes à l'époque, avaient un "accroissement annuel moyen" (la"cerne" que l'on voit sur
+une souche ou une bûche) de 1,6 mm et je proposais de le porter, à 2 mm ce qui correspond encore à
+un tranchage de grande classe et ce, en 200 ans au lieu de 240 ans. Mais, au lieu de 110 chênes
+à l'hectare en finale, il n'en fallait que 60, désignés jeunes comme "arbres d'avenir",
+cerclés à la peinture tout le long de leur vie, pour que les éclaircies soient toujours effectuées
+énergiquement à leur profit….. »*
+ 
+Chargé à la conservation du service de la forêt privée, de la chasse et de la pêche (1960-1963).
+La Conservation, à l’époque, couvrait la Sarthe, la Mayenne, le Maine & Loire et l’Indre & Loire.
+Il lui appartenait donc, au nom du Conservateur, d’agir auprès des Inspections.
+Le *"pivot"* de son personnel était Madame Robert, secrétaire (veuve de cheminot) toujours très appréciée.
+Rappelez vous, elle était présente lors de l’arrestation de Georges France Muriel au siège de
+l’inspection qui était alors rue du Port et avait remué ciel et terre pour retrouver Michel Muriel
+afin de baptiser un chêne à la mémoire de son père (cf. : au fil du temps n°17 : les grands témoins et le film)
+Conservateur puis directeur régional de l’Office National des Forêts (1964-1969).
+
+
+### 1967 année de la rénovation
+
+La maison du Bourg d'Anguy siège de la conservation nous est décrite par Rémond LORNE lui-même :              
+*«L'on y entrait par une grande grille et un joli jardin aux tilleuls taillés où les voitures pouvaient
+stationner.
+La maison elle-même, de la fin du siècle dernier, était plus cossue que belle.
+Le bas était constitué par les pièces de réception : deux grands salons dans lesquels travaillait mon personnel,
+mon bureau était dans la salle à manger, avec une cheminée.
+La Conservation proprement dite occupait le 1er étage et l'Inspection le second.
+Une balustrade en pierre bordait l'avancée en terrasse des deux salons.»*
+
+Mais l’hôtel particulier fin XIXème de la rue du Bourg d'Anguy est rasé pour donner vie à la fameuse
+percée centrale. L’Office National des Forêts, tout nouvellement créé prend alors possession de ses
+vastes bureaux de l’Avenue du Général de Gaulle.
+
+L'Aménagement de Bercé est révisé cette même année, permettant de pérenniser pour 20 ans les idées de
+Rémond Lorne.
+
+18 mars 2017, la forêt de Bercé est proposée « forêt d'exception »
+
 Parmi 16 forêts déjà sélectionnées pour leur patrimoine remarquable l’objectif est de créer : 
 - Un lieu d’exemplarité pour l’excellence de la gestion multifonctionnelle et durable.
-- Un lieu privilégié pour accueillir le public et lui expliquer les multiples facettes de la gestion durable, lui montrer le rôle prépondérant et concret de la forêt face aux grands enjeux que constituent changement climatique, consommation d’énergie et préservation des ressources naturelles. Bref le couronnement de l’action de nos prédécesseurs dont Rémond LORNE. 
-Cette nouvelle étape va garantir la gestion durable de la forêt domaniale, objet de la politique environnementale actuelle de l'ONF :
-Production de très gros bois de « haute qualité » dans le cadre d'exploitations qui se situent au sein de parcelles ‘label’ menées au delà de l’age normal d’exploitation.
-Développer des surfaces favorables à la biodiversité et intégrer dans le développement local, des peuplements à intérêt touristique. 
-La parcelle 132 : parcelle Label : nouveau centre d’intérêt du massif
-Depuis trois ans un projet de baptême mûrissait. Un nom, s’imposa tout naturellement, celui de l’Officier des Eaux et Forêts Rémond LORNE. 
->L'Office National des Forêts lui rend donc hommage ce 27 septembre 2008, en baptisant le chêne le plus majestueux de la parcelle 132. 
->Situé près du rond de la Croix Marconnay et du haut de ses 43 mètres le géant rivalise sans complexe avec les chênes BOPPE, ROULLEAU, >POTEL & MURIEL, fleurons de la futaie des Clos.
->Les deux enclos (Clos du chêne BOPPE & Clos du chêne LORNE) étaient autrefois livrés à la culture et au pâturage. Ceux-ci sont encore >visibles, car bornés par de grands fossés.
->Procédant à l’inventaire des richesses de  l’enclos du chêne LORNE (8,62ha), nous y repérerons deux mares permanentes, trois >temporaires et à proximité : cinq ferriers. La mise en valeur touristique et pédagogique de ces éléments patrimoniaux est de nature à >plaire à Rémond LORNE ce forestier devenu Chêne. 
+- Un lieu privilégié pour accueillir le public et lui expliquer les multiples facettes de la gestion durable,
+lui montrer le rôle prépondérant et concret de la forêt face aux grands enjeux que constituent changement
+climatique, consommation d’énergie et préservation des ressources naturelles.
+Bref le couronnement de l’action de nos prédécesseurs dont Rémond Lorne. 
 
+Cette nouvelle étape va garantir la gestion durable de la forêt domaniale, objet de la politique
+environnementale actuelle de l'ONF :
+* Production de très gros bois de *« haute qualité »* dans le cadre d'exploitations qui se situent au sein
+de parcelles "label" menées au delà de l’age normal d’exploitation.
+*Développer des surfaces favorables à la biodiversité et intégrer dans le développement local,
+des peuplements à intérêt touristique. 
+
+La parcelle 132 : parcelle Label, nouveau centre d’intérêt du massif.
+
+Depuis trois ans un projet de baptême mûrissait.
+Un nom, s’imposa tout naturellement, celui de l’Officier des Eaux et Forêts Rémond Lorne.
  
+L'Office National des Forêts lui rend donc hommage ce 27 septembre 2008, en baptisant le chêne le plus
+majestueux de la parcelle 132. 
+Situé près du rond de la Croix Marconnay et du haut de ses 43 mètres le géant rivalise sans complexe
+avec les chênes Boppe, Roulleau, Potel & Muriel, fleurons de la futaie des Clos.
+Les deux enclos (Clos du chêne Boppe & Clos du chêne Lorne) étaient autrefois livrés à la culture et
+au pâturage. Ceux-ci sont encore visibles, car bornés par de grands fossés.
 
+Procédant à l’inventaire des richesses de l’enclos du chêne Lorne (8,62ha), nous y repérerons deux mares
+permanentes, trois temporaires et à proximité : cinq ferriers.
+La mise en valeur touristique et pédagogique de ces éléments patrimoniaux est de nature à plaire à Rémond Lorne
+ce forestier devenu Chêne. 

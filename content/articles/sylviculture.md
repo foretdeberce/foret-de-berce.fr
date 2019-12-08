@@ -14,10 +14,16 @@ En forêt de Bercé, les règles de culture font l’objet de soins constants de
 l'ensemble du personnel de l'Office national des forêts.
 Les forestiers interviennent tout au long de la vie des peuplements pour façonner une forêt
 apte à vous accueillir.
-De nos Jours, grâce à une Sylviculture de pointe, et à ses bois de qualité, Bercé reste un des phares de la Forêt Française, attirant sans relâche quantité de Congressistes .
-**«Imiter la Nature , hâter son oeuvre» : Cette céLèbre définition de la Sylviculture moderne, donnée par Le Forestier Parade (1837) directeur de l'E.N.E.F. garde encore aujourd’hui tout son sens.**
 
+De nos Jours, grâce à une Sylviculture de pointe, et à ses bois de qualité, Bercé reste un des phares
+de la Forêt Française, attirant sans relâche quantité de Congressistes .
 
+> Imiter la Nature , hâter son oeuvre
+>
+> -- 1837, Le Forestier Parade 
+
+Cette céLèbre définition de la Sylviculture moderne, donnée par Le Forestier Parade (1837)
+directeur de l'E.N.E.F. garde encore aujourd’hui tout son sens.
 
 ### La partie cultivée en chêne est assez bien équilibrée en classes d'âge.
 
@@ -95,25 +101,27 @@ Seul bémol, mais de taille, la durée de révolution a baissé…
 Le climat se modifie et devient plus chaud, les arbres poussent donc plus vite et nos chênes,
 desserrés au maximum n’en seront ainsi que plus gros.
 À voir sur le long terme cet effet à double tranchant.
+
 Des îlots de sénescence ont été créés qui répondent aux besoins de l'avifaune.
 Les zones humides ne sont plus asséchées. Des mares sont créées ou rafraîchies pour permettre 
 à l'herpétofaune de se développer et à la faune de s'abreuver.
+
 La forêt a son rôle à jouer dans la limitation des crues et la filtration des eaux.
 Les eaux de pluie ne doivent pas s’empresser de gagner les lits des rivières mais rejoindre le sous-sol
 pour le bien commun.
+
 La durée de révolution sur quelques îlots de vieillissement mûrement choisis est accrue : 
 nos chênes dans ces parcelles labellisées devraient être plus gros et moins hauts, car plus espacés.
 La prise au vent s'en trouvera améliorée et les tempêtes seront peut-être moins catastrophiques.
-Des arbres remarquables sont aussi sauvegardés çà et là pour le plaisir des yeux et en témoignage du passé.
+Des arbres remarquables sont aussi sauvegardés çà et là, pour le plaisir des yeux et en témoignage du passé.
 
 #### Protection de la nature.
 
 Depuis 2002, les poubelles sont supprimées sur le massif. Le randonneur, remporte ses déchets 
 pour un tri sélectif.
-Bien avant le Grenelle de l'environnement, les forestiers de Bercé avaient pris conscience de ces enjeux.
-
-> Imiter la nature, hâter son œuvre. - Adolphe Parade - Nommé à la tête de l'École nationale des eaux et forêts, prestigieuse école forestière de Nancy, de 1835 à 1864).Elle reste à ce jour tout à fait d’actualité.
-
+Bien avant le Grenelle de l'environnement, les forestiers de Bercé avaient pris conscience de ces enjeux,
+à l'instar d'Adolphe Parade, nommé à la tête de l'École nationale des eaux et forêts,
+prestigieuse école forestière de Nancy, de 1835 à 1864).Elle reste à ce jour tout à fait d’actualité.
 
 La conservation dans le nouvel aménagement des ilots de vieillissement et de sénescence, 
 permettent à la faune et à la flore de s'exprimer en toute quiétude.
@@ -142,10 +150,9 @@ dans l’armoire de la chambre de M. l’inspecteur».
 
 Le 24 mai 1894, l’inspecteur CHAUTAN de VERCLY et son adjoint ROULLEAU de la ROUSSIÈRE visent ainsi le matin,
 en guise de prologue au martelage, sur les livrets d’ordres des préposés cette phrase
-« Vu par les agents forestiers en tournée », d’ailleurs, depuis le 15, c’est tous les jours
+*« Vu par les agents forestiers en tournée »*, d’ailleurs, depuis le 15, c’est tous les jours
 qu’est laconiquement inscrite sur les livrets des préposés la phrase suivante :
-
-> « Accompagné MM. les agents forestiers aux opérations dans les 1ère, 2ème et 3ème série » 
+*« Accompagné MM. les agents forestiers aux opérations dans les 1ère, 2ème et 3ème série »*.
 
 Le Journal Officiel du 22 juin 1896 (Revue des Eaux et forêts) dernier fait savoir que dans les futaies 
 de la 15ème conservation, les coupes d'ensemencement et secondaires, assises par volume, 
