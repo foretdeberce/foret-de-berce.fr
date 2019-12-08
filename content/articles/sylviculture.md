@@ -20,7 +20,7 @@ de la Forêt Française, attirant sans relâche quantité de Congressistes .
 
 > Imiter la Nature , hâter son oeuvre
 >
-> -- <cite>Le Forestier Parade (1837)</cite> 
+> -- 1837, Le Forestier Parade 
 
 Cette céLèbre définition de la Sylviculture moderne, donnée par Le Forestier Parade (1837)
 directeur de l'E.N.E.F. garde encore aujourd’hui tout son sens.

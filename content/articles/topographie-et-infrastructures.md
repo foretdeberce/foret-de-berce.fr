@@ -61,6 +61,8 @@ la Sarthe ou l’Huisne.
 
 ## Routes et chemins
 
+{{<figure src="/images/articles/plan-de-berce-en-1669.jpg" title="Plan de Bercé en 1669">}}
+
 Avant le premier Aménagement de la Forêt en 1669, Bercé ne possédait qu'une grande route Royale et trois
 grands chemins. Des chemins de traverse par contre, il en existait beaucoup, peu praticables en mauvaise saison.
 Bref, Bercé n'était point percé !

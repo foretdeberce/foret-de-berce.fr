@@ -16,6 +16,7 @@ Bien sûr il y eut des drames, du sang, des larmes, mais aussi toute une vie qui
 festives, et l’incomparable chaîne d’entraide du petit monde forestier.  
 Lors de vos prochaines sorties en forêt, plongez vous sur les traces de leur passage.
 
+{{<figure src="/images/articles/forestier-1979.jpg" title="Un forestier en 1979">}}
 
 ## Les forestiers de Bercé avant 1800
 

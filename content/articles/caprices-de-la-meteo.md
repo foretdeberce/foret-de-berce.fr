@@ -37,6 +37,8 @@ L’hiver 1878/1879, neige et verglas occasionnent de gros dégâts sur les cime
 *« Durant un an, les cessionnaires fabriqueront ces têtes dans les parcelles 258 et 260 »* nous fait savoir le 
 préposé Eugène Crossonneau.
 
+{{<figure src="/images/articles/berce-sous-givre-dec-2004.jpg" title="Bercé sous le givre">}}
+
 Durant l’hiver 1879/1880 on recensera 78 jours de gel et des températures de -25°.
 
 > « Les pins maritimes de cette époque ayant tous été détruits au cours de l'hiver 1879/1880 n'ont pas 
@@ -248,6 +250,8 @@ En 1939 quelques orages éclatent, plusieurs chênes sont frappés par la foudre
 ainsi que, fait assez rare, un hêtre du canton des Forges.
 Réapparition cette même année et en 1943 du Dyorictria Splendinella (ponte de papillons donnant lieu à des
 déformations du tronc sur les pins sylvestres).
+
+{{<figure src="/images/articles/arbre-foudroye-mars-2014.jpg" title="Arbre foudroyé">}}
 
 La foudre cause un incendie dans la Tasse le 2 juillet 1943 (parcelle 25).
 Dans les années 80, un paratonnerre est monté à la MF de la Huberdière suite au coup de foudre qui traversa 

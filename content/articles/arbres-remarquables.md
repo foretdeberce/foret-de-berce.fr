@@ -13,6 +13,7 @@ tags: ["Remarquables"]
 >
 > -- Extraits de BOURDU et VIARD, 1993 : *« les arbres remarquables en forêt »* ONF guide de gestion 2001.
 
+{{<figure src="/images/articles/arbres-remarquables.jpg" title="Un arbre remarquable">}}
  
 La longévité des arbres leur permet d'être les témoins de l'histoire humaine.
 La fascination qu'ils exercent tient beaucoup à cette mémoire qu’ils portent en eux, celle des événements
@@ -60,6 +61,8 @@ Un champignon a bien eu vite raison de son embonpoint.
 
 
 ## Une réserve hors d’âge : la futaie des clos
+
+{{<figure src="/images/articles/futaie-des-clos-photo-de-yann-le-jeune.jpg" title="La futaie des clos">}}
 
 1669 environ : l'ancienne futaie est régénérée selon les préceptes de Colbert pour les besoins de la Marine Royale.
 Les parents de l'actuelle futaie des Clos sont coupés et laissent la place à de jeunes semis.

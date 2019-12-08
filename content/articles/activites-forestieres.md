@@ -269,6 +269,7 @@ La famille Pichon, a fourni en Bercé des bûcherons de père en fils depuis des
 Daniel dont le Père Raymond et le Grand Père Jules était aussi Bûcheron, pare le 5 décembre 1985 le plus
 gros chêne des Clos (1 m 40 de diamètre), qui a été vendu la bagatelle somme de 113.000F HT soit 17.227 €.
 
+{{<figure src="/images/articles/bucherons.jpg" title="La famille Pichon">}}
                             
 ## Les As de Bercé : Les éhouppeurs
 
@@ -420,6 +421,8 @@ les gazogènes, les camions à essence puis à gasoil envahissent peu à peu le 
 Nos Forestiers ont bien hésité à laisser rentrer ces monstres sur les semis, mais devant tant d’enthousiasme
 ils n’y purent rien.
 
+{{<figure src="/images/articles/debardage.jpg" title="Débardage en tracteur">}}
+
 
 ## Le Charretier
 
@@ -492,6 +495,8 @@ des publicités.
 
 
 ## Paysages forestiers
+
+{{<figure src="/images/articles/1-stere.jpg" title="1 strère de bois">}}
 
 Bercé c’est l’ancienne forêt Royale, peuplée principalement par Le Grand Colbert, de chênes bien venants.
 Mais c’est aussi sur les ruptures de pentes (terrains pauvres) et les acquisitions de landes de 1723,

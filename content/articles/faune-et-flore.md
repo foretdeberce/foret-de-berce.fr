@@ -169,6 +169,8 @@ Malgré mes hurlements, le voilà qui approche…
 Mais il m’ignore. Il veut tout bêtement s’approprier la biche dont je n’avais pas soupçonné l’existence et
 qui était restée en retrait près de Mathieu.
 
+{{<figure src="/images/articles/biche.jpg" title="Une biche">}}
+
 Avec hardiesse, je leur fait signe de partir, pensant au pauvre Mathieu gisant à terre.
 Alors, je m’ approche doucement, sur la pointe des pieds, craignant qu’il ne se redresse pour me foncer dessus.  
 Je remarque ses bois sur le côté. Visiblement il ne se relèvera pas. Il me regarde, on dirait qu’il me reconnaît.  
@@ -237,10 +239,11 @@ les 65 espèces d’oiseaux qui nichent à tous les étages de la sylve ou les 6
 l’hectare participent au maintien de cette biodiversité au même titre que les cavités naturelles dans
 le tuffeau.
 
-A Bercé, le plus connu des coléoptères, un des plus gros, mais aussi le plus discret est le :
-
+{{<figure src="/images/draft/chauve-souris.jpg" title="Une chauve sourie">}}
 
 ## Le pique-prune
+
+A Bercé, le plus connu des coléoptères, un des plus gros, mais aussi le plus discret est le :
 
 {{<figure src="/images/articles/pic-prune.jpg" title="Le pic prune aui stoppa l'autoroute">}}
 
