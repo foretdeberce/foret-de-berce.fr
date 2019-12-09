@@ -9,6 +9,8 @@ tags: ["Flore","Histoire"]
 
 ## Les aléas climatiques
 
+{{<figure src="/images/articles/arbre-foudroye-parcelle-165-juin-1999.jpg" title="Arbre foudroyé en juin 1999">}}
+
 Les oies qui remontent début février, annoncent toujours à grand coup d’ailes un changement de saison.
 
 > «Quand les oies r’montent, au cul la ponte»
@@ -153,8 +155,10 @@ Mais la pluie continuant en mai, le 25 c’est **Ventouse II, le retour**.
 > Les militaires sont en manœuvre et les routes à nouveau coupées.
 > Les militaires participent au débarrage des routes jusqu’au lendemain (à 13h signature du PV de bien vivre
 > qu’ils ont bien mérité)».
-
-    Ce PV démontrait à l’autorité militaire qu’il n’y avait eu aucun incident avec la troupe en forêt.
+> 
+> --
+>
+> Ce PV démontrait à l’autorité militaire qu’il n’y avait eu aucun incident avec la troupe en forêt.
 
 Ces désobstructions dureront ainsi jusqu’au 8 juin.
 Cette deuxième secouée a fait beaucoup d’autres dégâts en forêt.

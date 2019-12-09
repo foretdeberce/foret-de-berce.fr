@@ -174,6 +174,8 @@ Ces gestes se répètent inlassablement depuis l’arrivée des premiers foresti
 (Gaubert (Gausbertus) forestier de Cléopas de Nouâtre en 1067 et Foucher, forestier de Gervais II, 
 seigneur de Château du Loir (1071).
 
+{{<figure src="/images/articles/grume.jpg" title="Une grume">}}
+
 
 ## L’exploitation des bois : les bûcherons
 

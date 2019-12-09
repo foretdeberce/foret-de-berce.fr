@@ -82,11 +82,14 @@ dont le sol était ciselé par le bois restant (bois qui déséquilibrait l’an
 rival, (un dix cors seulement) *« qui ne l’était finalement qu’au moment du brame, car chaque année au
 sortir de l’hiver, entre 1993 et 1996 je trouvais toujours les bois des deux copains ensemble »*. 
 
-> Le point de vue d’Yves CAMISY 
-> Une fois j’ai tué un "pendule" (cerf avec un grand et un petit bois, un des deux bois n’étant retenu que par
-> la peau) cela pourrait être dù à un testicule atrophié (dans ce cas-ci : le gauche) par une chevrotine ou
-> un coup d’andouillet adverse lors d’un combat.
+    Le point de vue d’Yves CAMISY 
+    
+    Une fois j’ai tué un "pendule", cela pourrait être dù à
+    un testicule atrophié (dans ce cas-ci : le gauche)
+    par une chevrotine ou un coup d’andouillet adverse lors
+    d’un combat.
 
+> "pendule" :cerf avec un grand et un petit bois, un des deux bois n’étant retenu que par la peau.
 
 ## Au fil du temps  
 
@@ -223,7 +226,7 @@ cachée.
 Beaumont Pied de Bœuf, le 31 janvier 2003.  
 
 
-# L’Atout biodiversité des vieux peuplements
+# L’tout biodiversité des vieux peuplements
 
 ## Entre piques et pics...
 
@@ -239,7 +242,7 @@ les 65 espèces d’oiseaux qui nichent à tous les étages de la sylve ou les 6
 l’hectare participent au maintien de cette biodiversité au même titre que les cavités naturelles dans
 le tuffeau.
 
-{{<figure src="/images/draft/chauve-souris.jpg" title="Une chauve sourie">}}
+{{<figure src="/images/articles/chauve-souris.jpg" title="Une chauve souris">}}
 
 ## Le pique-prune
 

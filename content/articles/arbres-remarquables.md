@@ -353,7 +353,7 @@ admis à la retraite.
 > Visite de ces deux parcelles et ensuite au chêne Boppe par un sentier à travers C³ des Clos.
 > Départ sur la route des Clos à 17h30.»
 >
-> Ducellier, Inspecteur principal des Eaux et forêts     
+> -- Ducellier, Inspecteur principal des Eaux et forêts     
 
 
 ## Le Chêne du Mai

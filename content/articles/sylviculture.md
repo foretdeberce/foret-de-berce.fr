@@ -33,10 +33,12 @@ dont l'âge d'exploitabilité est actuellement fixé à 180 ans.
 Pour maintenir cet équilibre (selon le dernier aménagement approuvé),
 il est nécessaire d'exploiter 1/180° de la surface, soit 16,66 ha chaque année.
 Les vieux arbres arrivés à maturité ensemencent le terrain  avant de disparaître progressivement,
-pour laisser  place aux jeunes semis. Les régénérations courent sur environ 10 ans,
+pour laisser place aux jeunes semis. Les régénérations courent sur environ 10 ans,
 mettant à nu 166 ha de peuplement.
 Le hêtre est bien présent en sous étage, mais jusqu’à quand avec le réchauffement climatique qui s’intensifie.
 Bercé, était il n’y a pas si longtemps, une magnifique hêtraie !
+
+{{<figure src="/images/articles/pouce-hetre.jpg" title="Une jeune pouce de hètre">}}
 
 
 ### La partie cultivée en résineux est moins équilibrée.
@@ -51,6 +53,8 @@ dans le respect de la biodiversité.
 
 
 ### Bercé: une gestion raisonnée et un sentiment écologique plus fort qu'auparavant.
+
+{{<figure src="/images/articles/bas-perchis-50 ans.jpg" title="Bas perchis fr 50 ans">}}
 
 #### Travaux forestiers.
 
@@ -130,23 +134,23 @@ permettent à la faune et à la flore de s'exprimer en toute quiétude.
 
 Chaque garde était propriétaire, donc responsable de l’utilisation de son propre marteau particulier
 qui servait uniquement à la reconnaissance des souches exploitées et des délits reconnus.
-Jupilles le 11décembre 1898, le brigadier MAUNY, «… remet au garde JOUAUX, un marteau particulier neuf,
+Jupilles le 11décembre 1898, le brigadier MAUNY, *«… remet au garde JOUAUX, un marteau particulier neuf,
 car l’ancien est usé. Le prix d’achat est 12f., les frais de timbres, transport et envoi de mandat de 1f.
-Total du prix de revient : 13f. L’ancien marteau a été payé au garde sortant 0,50f. par JOUAUX ». 
+Total du prix de revient : 13f. L’ancien marteau a été payé au garde sortant 0,50f. par JOUAUX »*. 
 L’empreinte du marteau particulier du garde forestier cantonnier est ovale, toutes les autres 
 sont carrées sauf celle du marteau de l’État, qui garde toujours sa forme ronde. L’équipe est composée 
 des préposés ou gardes qui tiennent marteaux et compas, du brigadier qui pointe les appels sur une feuille
 de pointage et d’un, voir deux agents en tournée (inspecteur ou garde général) qui supervisent l’opération.
 
-28 septembre 1868 - LEROUX note « Rendez vous du brigadier à la loge de Croix Marconnay pour présenter
-les marteaux à M. le sous-inspecteur ».
+28 septembre 1868 - LEROUX note *« Rendez vous du brigadier à la loge de Croix Marconnay pour présenter
+les marteaux à M. le sous-inspecteur »*.
 Les marteaux utilisés en opération conjointe de martelage dits marteaux de l’État, dont la falsification 
 de l’empreinte était punissable de la même peine que la contrefaçon de monnaie, étaient, eux,
 conservés à l’inspection du Mans dans un coffre, et amenés par l’inspecteur ou l’agent sur le terrain
 les seuls jours "d’opération".
 
-Le 6 août 1899 il est noté que « les empreintes des marteaux de l’État sont déposées au Pavillon de Bercé,
-dans l’armoire de la chambre de M. l’inspecteur».
+Le 6 août 1899 il est noté que *« les empreintes des marteaux de l’État sont déposées au Pavillon de Bercé,
+dans l’armoire de la chambre de M. l’inspecteur »*.
 
 Le 24 mai 1894, l’inspecteur CHAUTAN de VERCLY et son adjoint ROULLEAU de la ROUSSIÈRE visent ainsi le matin,
 en guise de prologue au martelage, sur les livrets d’ordres des préposés cette phrase
@@ -179,7 +183,7 @@ voire dans les maisons forestières des brigadiers après 1813, où une chambre 
 réservée. 
 
 Depuis 1891 le Pavillon de Bercé, propriété de l’administration, deviendra la résidence officielle de 
-ces messieurs. « Pour les martelages, chaque jour, le personnel convoqué comprendra 6 gardes ».
+ces messieurs. *« Pour les martelages, chaque jour, le personnel convoqué comprendra 6 gardes »*.
 L’heure du lever est matinale sachant que les moyens de déplacement sont sobres : à pied ou à vélo.
 
 #### Le repas de martelage.
@@ -196,7 +200,7 @@ et à MM.
 les officiers forestiers, la cuisine au reste de la troupe, chacun se faisant un devoir d’apporter son repas.
 Ces repas partagés étaient pour l’équipe un bon moyen de renforcer les liens et la cohésion et de 
 synchroniser cette activité….mais parfois…gare au pousse café…qui pouvait rapidement en ralentir certains.
-On donne encore au dernier repas de la saison le terrible nom de « tuer le chien ».
+On donne encore au dernier repas de la saison le terrible nom de *« tuer le chien »*.
 
 Cette expression  trouve aisément son fondement dans la quête du forestier à vouloir, à l’arrivée des
 beaux jours, enterrer les trois saisons de labeur.
