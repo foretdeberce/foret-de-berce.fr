@@ -25,7 +25,7 @@ Les marchandises transportées à la descente se composaient au ¾ du tonnage to
 (bois de débit, de sciage, de charpente et voliges).
 Cette date de 1852, correspond avec l’amélioration du réseau routier, à Bercé comme en Sarthe.
 
-1er Mars 1870 : le Garde Forestier Leroux écrit le rapport ci—après suite à la visite du canton de Volumiers :
+1er Mars 1870 : le Garde Forestier Leroux écrit le rapport ci-après suite à la visite du canton de Volumiers :
 
     Monsieur le Brigadier,
     Ce matin en visitant la coupe définitive 2e lot de l’exercice 1869,
