@@ -31,7 +31,7 @@ Le texte porte en effet :
 > -- Cartulaire de Château-du-Loir
 
 **1371** : « un apellé Robert Macé, nostre sergent de nos forestz dou Chasteau dou Loir » (en vieux français)
-En **1492**, Jehan de TARDES, maître des Eaux et Forêts du Maine et capitaine de Château-du-Loir, administrait la forêt royale. 
+En 1492, Jehan de TARDES, maître des Eaux et Forêts du Maine et capitaine de Château-du-Loir, administrait la forêt royale. 
 Les sources fiscales enregistrent comme gardes à Jupilles : Hilarion LEPINGLEUX de **1730 à 1750**, Jean LEPINGLEUX en 1760, François LEFEBVRE en **1760 et 1770**, Jacques BOUVIER et François LEFEBVRE en 1780-1789, Jacques BARRIER et François JOUSSELET, en 1789. À Marigné, on relève pour cette même fonction, les noms de LEDRU en 1730, CAZAL en 1740 et 1750, Pierre PETIT-PIN en 1760 et Jacques POTTIER en 1770. 
 
 **1669** -  Conférence de l'ordonnance de Louis XIV du mois d'août 1669, sur le fait des Eaux et forêts.**(2)**
