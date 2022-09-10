@@ -11,8 +11,8 @@ tags: ["Faune"]
 
 Portrait d’un talentueux et à la fois discret photographe animalier : Daniel GIRARD. 
  
-Son père, Daniel GIRARD, originaire de Beaumont pied de Bœuf, de part sa filiation a toujours été proche
-de la nature. Son père, bûcheron, l’emmenait tout gamin sur les coupes. En forêt de Bercé et de leur balai,
+Daniel GIRARD est originaire de Beaumont pied de Bœuf.
+Son père, bûcheron, l’emmenait tout gamin sur les coupes, en forêt de Bercé et de leur balai,
 ils pouvaient ensemble admirer les animaux qui eux-mêmes les observaient discrètement *« c’était majestueux »*.
 Un père qui l’a initié à la chasse, mais délaissant sur le tard son fusil, Daniel préféra tout naturellement
 la chasse photographique.
@@ -219,11 +219,11 @@ commençant à accuser quelque peu l’âge de ses bois : il ravale.
 
 Amateurs de nature, ne vous avisez jamais de tenter pareille aventure. Il faut être initié.
 Le danger rôde la nuit et la nature, parfois, semble hostile!
+-- Beaumont Pied de Bœuf, le 31 janvier 2003. 
    
-Aujourd'hui, Daniel n'est plus, il nous a quitté en 2018 mais son oeuvre d’éducation se poursuit auprès des
+## Aujourd'hui, Daniel n'est plus, il nous a quitté en 2018 mais son oeuvre d’éducation se poursuit auprès des
 photographes en herbe qui veulent affronter comme lui, cette vraie nature pour en découvrir toute la beauté
-cachée.                                                  
-Beaumont Pied de Bœuf, le 31 janvier 2003.  
+cachée. 
 
 
 # L’tout biodiversité des vieux peuplements
