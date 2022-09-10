@@ -221,9 +221,10 @@ Amateurs de nature, ne vous avisez jamais de tenter pareille aventure. Il faut �
 Le danger rôde la nuit et la nature, parfois, semble hostile!
 -- Beaumont Pied de Bœuf, le 31 janvier 2003. 
    
-## Aujourd'hui, Daniel n'est plus, il nous a quitté en 2018 mais son oeuvre d’éducation se poursuit auprès des
-photographes en herbe qui veulent affronter comme lui, cette vraie nature pour en découvrir toute la beauté
-cachée. 
+## Aujourd'hui, Daniel n'est plus, il nous a quitté en 2018 
+ 
+Son oeuvre d’éducation se poursuit auprès des photographes en herbe qui veulent affronter comme lui,
+cette vraie nature pour en découvrir toute la beauté cachée. 
 
 
 # L’tout biodiversité des vieux peuplements
