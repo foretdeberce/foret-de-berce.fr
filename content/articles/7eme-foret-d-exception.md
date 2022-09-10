@@ -25,6 +25,7 @@ la 7ème forêt labellisée.
 
 L’Office National des Forêts a en charge la gestion du massif Domanial de Bercé avec trois principes
 essentiels qui sont :
+
 1. Produire du bois de qualité.
 1. Protéger et de conserver ce milieu fragile.
 1. Accueillir les visiteurs.
