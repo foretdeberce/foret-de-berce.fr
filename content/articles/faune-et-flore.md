@@ -227,7 +227,7 @@ Son oeuvre d’éducation se poursuit auprès des photographes en herbe qui veul
 cette vraie nature pour en découvrir toute la beauté cachée. 
 
 
-# L’tout biodiversité des vieux peuplements
+# L’atout biodiversité des vieux peuplements
 
 ## Entre piques et pics...
 
