@@ -20,17 +20,19 @@ L’ONF et l’ensemble des acteurs de la démarche territoriale Bercé Forêt
 d’Exception ont soutenu dès 2016 la démarche d'Yves, passionné d’archéologie 
 et de forêt en général, pour publier un ouvrage dédié à celle-ci.
   
-  L'action était inscrite au sein du livret « Bercé Forêt d’Exception : « 14 actions pour la forêt et le territoire » -
+L'action était inscrite au sein du livret « Bercé Forêt d’Exception : « 14 actions pour la forêt et le territoire » -
 Le livre « Bercé, une forêt d’exception » est maintenant disponible ! 
 Grâce aux nombreuses anecdotes et recherches passionnées d’Yves Gouchet, l’ouvrage 
 « Bercé, une forêt d’exception » est une véritable invitation à découvrir ou à redécouvrir notre forêt, son histoire, ses légendes, ses habitants, sa faune, sa flore, etc.
-Les sujets et les angles ne manquent pas à Yves pour créer la curiosité et l’envie d’en apprendre toujours plus sur la forêt domaniale de Bercé … 
+Les sujets et les angles ne manquent pas à Yves pour créer la curiosité et l’envie d’en apprendre toujours plus sur Bercé … 
   
 ## Bercé, un trésor à partager 
   
-Yves Gouchet a fait toute sa carrière à l’Office national des forêts en forêt domaniale de Bercé… où il y connaît les moindres recoins. Il nous livre, à travers cet ouvrage, ici le travail d’années de recherches en ces lieux empreints d’Histoire, de beauté et de mystère… 
+Yves Gouchet a fait toute sa carrière à l’Office National des Forêts en forêt domaniale de Bercé… Il y connaît les moindres recoins. 
+Il nous livre, à travers cet ouvrage, le travail d’années de recherches en ces lieux empreints d’Histoire, de beauté et de mystère… 
 Durant des décennies, la forêt de Bercé lui a confié de nombreux secrets qu’il veut aujourd’hui partager avec le plus grand nombre… 
-Et cela n’est pas près de finir ! Pour aller encore plus loin, suite à la publication de son ouvrage, Yves a décidé d’ouvrir des blog pour continuer à alimenter ses sujets favoris et surtout les partager, encore et toujours… 
+Et cela n’est pas près de finir ! 
+Pour aller encore plus loin, suite à la publication de son ouvrage, Yves a décidé d’ouvrir des blogs pour continuer à alimenter ses sujets favoris et surtout les partager, encore et toujours… 
   
 Romain PERROT, Chargé de communication, Animateur Bercé Forêt d’Exception (ONF Pays de la Loire)
   
