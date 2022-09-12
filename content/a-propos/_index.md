@@ -12,20 +12,21 @@ featured_image: '/images/chene-muriel.jpg'
 De tout temps, les hommes et les femmes ont trouvé refuge, source d’énergie et nourriture en forêt de Bercé.
 Mais la forêt d’antan ne ressemblait en rien à celle que nous fréquentons.
 Au fil des siècles, l’homme en a façonné patiemment les contours pour en faire ce qu’elle est devenue aujourd’hui.
-Réputée pour son chêne tendre car poussant lentement dans un environnement de qualité, Bercé, 
-la discrète et la prestigieuse, vient de recevoir le label “Forêt d’Exception”.
+
+Réputée pour son chêne tendre car poussant lentement dans un environnement de qualité, 
+Bercé, la discrète et la prestigieuse, vient de recevoir le label “Forêt d’Exception”.
 
 ## Bercé livre ses secrets à travers les écrits passionnés d'Yves Gouchet !
   
-L’ONF et l’ensemble des acteurs de la démarche territoriale Bercé Forêt 
-d’Exception ont soutenu dès 2016 la démarche d'Yves, passionné d’archéologie 
-et de forêt en général, pour publier un ouvrage dédié à celle-ci.
+L’ONF et l’ensemble des acteurs de la démarche territoriale Bercé Forêt d’Exception 
+ont soutenu dès 2016 la démarche d'Yves, passionné d’archéologie et de forêt en général,
+pour publier un ouvrage dédié à celle-ci.
 
-L'action était inscrite au sein du livret « Bercé Forêt d’Exception : 
-« 14 actions pour la forêt et le territoire » -
-Le livre « Bercé, une forêt d’exception » est maintenant disponible ! 
-Grâce aux nombreuses anecdotes et recherches passionnées d’Yves Gouchet, l’ouvrage 
-« Bercé, une forêt d’exception » est une véritable invitation à découvrir ou 
+L'action était inscrite au sein du livret « Bercé Forêt d’Exception : 14 actions pour la forêt et le territoire » -
+Le livre « Bercé, une forêt d’exception » est maintenant disponible !
+ 
+Grâce aux nombreuses anecdotes et recherches passionnées d’Yves Gouchet,
+’ouvrage « Bercé, une forêt d’exception » est une véritable invitation à découvrir ou 
 à redécouvrir notre forêt, son histoire, ses légendes, ses habitants, sa faune, sa flore, etc.
 Les sujets et les angles ne manquent pas à Yves pour créer la curiosité et
 l’envie d’en apprendre toujours plus sur Bercé … 
