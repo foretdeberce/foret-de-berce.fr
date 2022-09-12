@@ -81,7 +81,7 @@ autre par son cri ou son vol si caractéristique.
 La LPO et l’ONF veillent ensemble à la protection de cet oiseau discret, en laissant quelques îlots de
 bois sec, dans  chacune de ses aires. La présence des vieux bois est pour lui gage de stabilité de son aire.
 
-{{<figure src="/images/articles/pic-noir-photo-de-michel-marc.jpg" title="Le pic noir de Michel Marc">}}
+{{<figure src="/images/articles/pic-noir-photo-de-michel-marc.jpg" title="Le pic noir photographié par Michel Marc">}}
 
 Michel Marc a été parmi les tous premiers, dans les années 1970 à diagnostiquer sa présence à Bercé.
 
