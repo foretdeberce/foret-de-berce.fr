@@ -2,7 +2,7 @@
 title: "Caprices de la météo"
 date: 2019-11-16T13:24:52+01:00
 draft: false
-description: "Forêt d'Exception"
+description: "Force des élements naturels"
 featured_image: '/images/caprices-de-la-meteo.jpg'
 tags: ["Flore"],["Histoire"],["Arbre"]
 ---
