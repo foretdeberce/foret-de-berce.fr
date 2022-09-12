@@ -38,6 +38,8 @@ Romain PERROT, chargé de communication, animateur "Bercé Forêt d’Exception"
   
 ## Pour se procurer le livre
   
-* [Librairies Indépendantes](https://www.librairiesindependantes.com/product/9782359920529/)
-* [Amazon](https://www.amazon.fr/Berc%C3%A9-for%C3%AAt-dexception-Yves-Gouchet/dp/2359920529)
-* [Éditions de l'Étrave](http://www.editions-etrave.fr/pub-inclass-berce.html)  
+[Librairies Indépendantes](https://www.librairiesindependantes.com/product/9782359920529/)
+  
+[Amazon](https://www.amazon.fr/Berc%C3%A9-for%C3%AAt-dexception-Yves-Gouchet/dp/2359920529)
+  
+[Éditions de l'Étrave](http://www.editions-etrave.fr/pub-inclass-berce.html)  
