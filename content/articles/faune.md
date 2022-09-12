@@ -9,16 +9,19 @@ tags: ["Faune","Biodiversité"]
 
 ## Choc de titans chronique d’une mort annoncée
 
-Portrait d’un talentueux et à la fois discret photographe animalier : Daniel GIRARD. 
+Portrait d’un talentueux et à la fois discret photographe animalier :
+
+# Daniel GIRARD. 
  
-Daniel GIRARD est originaire de Beaumont pied de Bœuf.
-Son père, bûcheron, l’emmenait tout gamin sur les coupes, en forêt de Bercé et de leur balai,
-ils pouvaient ensemble admirer les animaux qui eux-mêmes les observaient discrètement *« c’était majestueux »*.
-Un père qui l’a initié à la chasse, mais délaissant sur le tard son fusil, Daniel préféra tout naturellement
+Originaire de Beaumont pied de Bœuf, son père, bûcheron, l’emmenait tout gamin sur les coupes, 
+en forêt de Bercé et de leur balai (cabane de bois), ils pouvaient ensemble admirer les animaux 
+qui eux-mêmes les observaient discrètement *« c’était majestueux »*.
+Initié très tôt à la chasse, il délaissera sur le tard son fusil, préférant tout naturellement
 la chasse photographique.
  
 Sa mère travaillait au Château de la Couetterie, alors demeure de Mme de Boisanger, qui chassait à courre
-en Bercé. *«Un jour, Jacques Bizard, maître d’équipage de Champchevrier, m’avait fait l’honneur lors de
+en Bercé. 
+*«Un jour, Jacques Bizard, maître d’équipage de Champchevrier, m’avait fait l’honneur lors de
 la curée, d’enlever moi-même la tête du cerf devant la meute, alors que je devais avoir seulement 8 ou 9 ans.
 J’en ai été très touché et très fier de rendre ainsi hommage à cet animal tellement majestueux.
 J’en devins par la suite un grand passionné »*. 
