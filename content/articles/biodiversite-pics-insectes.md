@@ -29,7 +29,7 @@ le tuffeau.
   
 ## Expertise chiroptères – Forêt domaniale de Bercé (72) – Année 2011
   
-Recensement effectué par Guy Lereste
+## *Recensement effectué par Guy Lereste*
 Présence d’une richesse en chauves-souris hors du commun dans la vallée de l’Hermitière.
 Les espèces suivantes ont été contactées :
 Pipistrelle commune – Pipistrelle de Kuhl – Sérotine commune – Oreillard roux – 
