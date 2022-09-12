@@ -175,7 +175,7 @@ Malgré mes hurlements, le voilà qui approche…
 Mais il m’ignore. Il veut tout bêtement s’approprier la biche dont je n’avais pas soupçonné l’existence et
 qui était restée en retrait près de Mathieu.
 
-{{<figure src="/images/articles/biche.jpg" title="Une biche">}}
+{{<figure src="/images/articles/biche.jpg" title="Le cerf Mathieu">}}
 
 Avec hardiesse, je leur fait signe de partir, pensant au pauvre Mathieu gisant à terre.
 Alors, je m’ approche doucement, sur la pointe des pieds, craignant qu’il ne se redresse pour me foncer dessus.  
