@@ -87,10 +87,9 @@ dont le sol était ciselé par le bois restant (bois qui déséquilibrait l’an
 rival, (un dix cors seulement) *« qui ne l’était finalement qu’au moment du brame, car chaque année au
 sortir de l’hiver, entre 1993 et 1996 je trouvais toujours les bois des deux copains ensemble »*. 
 
-    Le point de vue d’Yves CAMISY 
- 
  {{<figure src="/images/articles/camisy.jpg" title="Yves l'éleveur de sangliers">}}
-    
+ 
+    Le point de vue d’Yves CAMISY 
     Une fois j’ai tué un "pendule", cela pourrait être dù à
     un testicule atrophié (dans ce cas-ci : le gauche)
     par une chevrotine ou un coup d’andouillet adverse lors
