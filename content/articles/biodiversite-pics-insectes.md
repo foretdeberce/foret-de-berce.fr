@@ -35,12 +35,13 @@ Les espèces suivantes ont été contactées :
 Pipistrelle commune – Pipistrelle de Kuhl – Sérotine commune – Oreillard roux – 
 Murin d’Alcathoé – Barbastelle – Noctule commune.
 
+  
 
 ## Le pique-prune
 
 A Bercé, le plus connu des coléoptères, un des plus gros, mais aussi le plus discret est le :
 
-{{<figure src="/images/articles/pic-prune.jpg" title="Le pic prune aui stoppa l'autoroute">}}
+{{<figure src="/images/articles/pic-prune.jpg" title="Le pic prune qui stoppa vaillamment l'autoroute A28">}}
 
 Lors de la construction de la section Le Mans-Tours sud de l’A-28, on a découvert une espèce rare de
 scarabée, appelée le scarabée "pique-prune", vivant dans le terreau des souches des chênes présents
@@ -71,6 +72,7 @@ Dans le cas ci dessous l'abattage d’un géant mort ou sénescent n’est justi
 sécuritaire qu’il représente dans un peuplement hors d’âge totalement ouvert au public.
 
 
+  
 ## Un autre pic, le pic noir
 
 Inféodé à la haute futaie sur Bercé depuis peu : le pic noir aime à nous rappeler sa présence de temps à
