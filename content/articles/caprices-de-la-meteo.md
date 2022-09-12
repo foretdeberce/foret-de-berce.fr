@@ -203,8 +203,7 @@ Saint-Vincent et Saint-Pierre.
     Les routes de l’Hermitière, de la vallée des Pierres,
     sont les plus endommagées.
     Le pont de la route basse de l’Hermitière a été partiellement emporté.
-    Les fossés bordiers de la route haute sont creusés par place jusqu’à
-    1,50 m de profondeur.
+    Les fossés bordiers de la route haute sont creusés par place jusqu’à 1,50 m de profondeur.
     Les berges et les accotements sont profondément ravinés.
     Cinquante à soixante mètres cubes de graviers de pierres et de détritus
     de toutes sortes se sont accumulés sur le terre-plein de l’Hermitière. 
