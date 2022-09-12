@@ -13,7 +13,7 @@ Portrait d’un talentueux et à la fois discret photographe animalier :
 
 {{<figure src="/images/articles/daniel.jpg" title="Survolant la forêt">}}
 
-# Daniel GIRARD. 
+## Daniel GIRARD 
  
 Originaire de Beaumont pied de Bœuf, son père, bûcheron, l’emmenait tout gamin sur les coupes, 
 en forêt de Bercé et de leur balai (cabane de bois), ils pouvaient ensemble admirer les animaux 
@@ -179,7 +179,7 @@ Malgré mes hurlements, le voilà qui approche…
 Mais il m’ignore. Il veut tout bêtement s’approprier la biche dont je n’avais pas soupçonné l’existence et
 qui était restée en retrait près de Mathieu.
 
-{{<figure src="/images/articles/mathieu.jpg" title="Le cerf Mathieu">}}
+{{<figure src="/images/articles/terminator.jpg" title="Le cerf Mathieu">}}
 
 Avec hardiesse, je leur fait signe de partir, pensant au pauvre Mathieu gisant à terre.
 Alors, je m’ approche doucement, sur la pointe des pieds, craignant qu’il ne se redresse pour me foncer dessus.  
