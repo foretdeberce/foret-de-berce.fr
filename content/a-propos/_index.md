@@ -26,7 +26,7 @@ L'action était inscrite au sein du livret « Bercé Forêt d’Exception : 14 a
 Le livre « Bercé, une forêt d’exception » est maintenant disponible !
  
 Grâce aux nombreuses anecdotes et recherches passionnées d’Yves Gouchet,
-’ouvrage « Bercé, une forêt d’exception » est une véritable invitation à découvrir ou 
+l’ouvrage « Bercé, une forêt d’exception » est une véritable invitation à découvrir ou 
 à redécouvrir notre forêt, son histoire, ses légendes, ses habitants, sa faune, sa flore, etc.
 Les sujets et les angles ne manquent pas à Yves pour créer la curiosité et
 l’envie d’en apprendre toujours plus sur Bercé … 
@@ -42,11 +42,11 @@ Durant des décennies, la forêt de Bercé lui a confié de nombreux secrets
 qu’il veut aujourd’hui partager avec le plus grand nombre… 
 Et cela n’est pas près de finir ! 
 
-Pour aller encore plus loin, suite à la publication de son ouvrage,
-Yves a décidé d’ouvrir un site internet pour continuer à alimenter ses sujets favoris et
-surtout les partager, encore et toujours… 
-  
--- Romain PERROT, chargé de communication, animateur "Bercé Forêt d’Exception" (ONF Pays de la Loire)
+> Pour aller encore plus loin, suite à la publication de son ouvrage,
+> Yves a décidé d’ouvrir un site internet pour continuer à alimenter ses sujets favoris et
+> surtout les partager, encore et toujours… 
+> 
+> -- Romain PERROT, chargé de communication, animateur "Bercé Forêt d’Exception" (ONF Pays de la Loire)
   
 ## Pour se procurer le livre
   
