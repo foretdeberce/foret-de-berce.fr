@@ -298,6 +298,6 @@ Le feu est l’ennemi de la forêt et rare sont sur Bercé les feux d’ origine
 Après guerre, des entreprises de déminage fonctionnèrent en forêt dans l’endroit appelé aujourd’hui Bikini.
 Ce canton fut sans arrêt dévasté par des mises à feu d’obus incontrôlées. 
 
-#### Bibliographie :
+#### Bibliographie : 
 
 Archives et vieux registres journaliers de l’administration des Eaux et forêts, annotés par les préposés.
