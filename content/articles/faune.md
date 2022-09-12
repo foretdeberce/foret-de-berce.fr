@@ -178,9 +178,7 @@ Malgré mes hurlements, le voilà qui approche…
 Mais il m’ignore. Il veut tout bêtement s’approprier la biche dont je n’avais pas soupçonné l’existence et
 qui était restée en retrait près de Mathieu.
 
-{{<figure src="/images/articles/terminator.jpg" title="Le cerf Mathieu">}}
-
-Avec hardiesse, je leur fait signe de partir, pensant au pauvre Mathieu gisant à terre.
+ Avec hardiesse, je leur fait signe de partir, pensant au pauvre Mathieu gisant à terre.
 Alors, je m’ approche doucement, sur la pointe des pieds, craignant qu’il ne se redresse pour me foncer dessus.  
 Je remarque ses bois sur le côté. Visiblement il ne se relèvera pas. Il me regarde, on dirait qu’il me reconnaît.  
 
@@ -212,7 +210,9 @@ chamboulé par sa vision du petit matin.
 
  
 ## Et Terminator dans tout ça ?
-
+ 
+{{<figure src="/images/articles/terminator.jpg" title="Le cerf Terminator">}}
+ 
 Il y a trois ans, il a pris une sacrée raclée par un grand cerf dont la tête trône désormais comme trophée
 dans une maison de La Turballe en Loire Atlantique.
 Comme quoi, les revers de fortune ça existe bel et bien !
