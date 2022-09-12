@@ -222,6 +222,7 @@ commençant à accuser quelque peu l’âge de ses bois : il ravale.
 
 Amateurs de nature, ne vous avisez jamais de tenter pareille aventure. Il faut être initié.
 Le danger rôde la nuit et la nature, parfois, semble hostile!
+ 
 -- Beaumont Pied de Bœuf, le 31 janvier 2003. 
    
 ## Aujourd'hui, Daniel n'est plus, il nous a quitté en 2018 
