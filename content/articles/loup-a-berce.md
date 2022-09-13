@@ -1,5 +1,5 @@
 ---
-title: "Loup à Bercé"
+title: "Le loup à Bercé"
 date: 2019-11-16T13:15:27+01:00
 draft: false
 description: "Une histoire ancienne"
@@ -7,7 +7,7 @@ featured_image: '/images/loup.jpg'
 tags: ["Faune","Histoire"]
 ---
 
-## Le loup une bête mystérieuse qui terrorise la contrée 
+## Le loup ... une bête mystérieuse qui terrorise la contrée 
  
 Les relations Homme-Loup datent de la préhistoire : une peinture rupestre représente un loup sur les parois
 de la grotte de Font-de-Gaume en Dordogne.
