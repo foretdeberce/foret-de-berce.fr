@@ -21,6 +21,13 @@ Les travaux touristiques : confection de loges* ...le tourisme n'est à l'époqu
 
 ## Liste des auxiliaires, cantonniers, tacherons, carriers, bûcherons de l'administration entre 1860 et 1900
 
+> SVL: Saint Vincent du Lorouer
+> SPL: Saint Pierre du Lorouer
+> T
+> PE
+> ML
+
+
 ### NOM Prénom Ville
 
 	ADET Alexandre	SVL				

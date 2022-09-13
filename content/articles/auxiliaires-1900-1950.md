@@ -4,7 +4,7 @@ date: 2019-11-16T13:17:03+01:00
 draft: false
 description: "1900-1950"
 featured_image: "/images/vieux-ouvriers-est.jpg"
-tags: ["Hommes","Auxiliaires","Ouvriers","Journaliers","carriers","tacherons","cantonnier","bûcheron"]
+tags: ["Hommes","Auxiliaires","Ouvriers","Journaliers","Carriers","Tacherons","Cantonniers","Bûcherons"]
 
 ---
 Dans cette première moitié du 20ème siècle, les routes sont encore un vaste chantier et réclament une grande mobilisation des effectifs des Eaux et Forêts. 
