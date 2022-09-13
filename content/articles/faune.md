@@ -72,8 +72,9 @@ nous nous connaissons »*.
  
 
 ## Le brame tourne au drame
-  
-**Mathieu** : *« J’ai connu Mathieu en 1992, c’était début juillet, il était en train de frayer : il frottait
+  # Les protagonistes :
+**Mathieu** : 
+ *« J’ai connu Mathieu en 1992, c’était début juillet, il était en train de frayer : il frottait
 ses bois aux branches pour en enlever le velours. C’était un cerf énorme et charpenté avec des bois
 magnifiques (18 cors) et pendant 3 ans j’ai retrouvé ses mues. Je l’ai photographié de 1993 à 1996 sur la place
 de brame de la parcelle 156 du Pau, entre l’étang et le château d’eau. Ce roi de la forêt avait déjà été repéré
@@ -83,7 +84,8 @@ Son rival, tenait l’ouest. En 1993 je l’ai vu perdre devant moi une de ses m
 tranquillement puis je suis parti. Plus tard j’ai trouvé l’autre mue à 2 kilomètres de la première, sur un talus
 dont le sol était ciselé par le bois restant (bois qui déséquilibrait l’animal) »*
  
-**Terminator** : Tel est le nom que Daniel a donné, (vu son andouiller de massacre proéminent) à ce fameux
+**Terminator** :
+ Tel est le nom que Daniel a donné, (vu son andouiller de massacre proéminent) à ce fameux
 rival, (un dix cors seulement) *« qui ne l’était finalement qu’au moment du brame, car chaque année au
 sortir de l’hiver, entre 1993 et 1996 je trouvais toujours les bois des deux copains ensemble »*. 
 
