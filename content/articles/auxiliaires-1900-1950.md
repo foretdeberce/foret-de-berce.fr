@@ -7,7 +7,16 @@ featured_image: "/images/vieux-ouvriers-est.jpg"
 tags: ["Hommes","Auxiliaires","Ouvriers","Journaliers","carriers","tacherons","cantonnier","bûcheron"]
 
 ---
- 
+Dans cette première moitié du 20ème siècle, les routes sont encore un vaste chantier et réclament une grande mobilisation des effectifs des Eaux et Forêts. 
+
+La donne à changé quand à la variété de main d’œuvre. Les deux dernières guerres ont décimé les familles, les épouses prennent leur destin en main, et quand elles ne travaillent pas aux champs, c’est en forêt qu’elles se dirigent avec bien souvent les enfants. 
+
+Ce métier physique réclame aussi un bon esprit d’équipe, de la constance et une grande technicité.
+
+Des générations de besogneux ont ainsi par tous les temps, œuvré dans l’ombre des sous-bois et je leur tire mon chapeau. 
+
+
+
 ## Liste des auxiliaires, cantonniers, carriers, bûcherons de l'administration	
  
 ### NOM,   Prénom,    sexe 
