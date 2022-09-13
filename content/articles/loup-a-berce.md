@@ -3,7 +3,7 @@ title: "Loup à Bercé"
 date: 2019-11-16T13:15:27+01:00
 draft: false
 description: "Une histoire ancienne"
-featured_image: '/images/loup.jpg'
+featured_image: '/static/images/loup.jpg'
 tags: ["Faune","Histoire"]
 ---
 
