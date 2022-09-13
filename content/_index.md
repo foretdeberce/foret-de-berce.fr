@@ -1,6 +1,6 @@
 ---
 title: "La forêt de Bercé"
-featured_image: '/images/251chasseau.jpg'
+featured_image: '/images/chasseau.jpg'
 description: "Bercé, est une forêt d'exception de 5400 hectares située à 30 km au sud du Mans. "
                     "Feuillus et résineux cohabitent sur le haut de plateau Calaisien"
 ---
