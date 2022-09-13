@@ -46,7 +46,9 @@ Et cela n’est pas près de finir !
 > Yves a décidé d’ouvrir un site internet pour continuer à alimenter ses sujets favoris et
 > surtout les partager, encore et toujours… 
 > 
->>* source: Romain PERROT, chargé de communication, animateur "Bercé Forêt d’Exception" - ONF Pays de la Loire
+
+  Source: Romain PERROT, chargé de communication, animateur "Bercé Forêt d’Exception"
+  ONF Pays de la Loire
   
 ## Pour se procurer le livre
   
