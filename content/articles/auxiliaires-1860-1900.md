@@ -1,8 +1,8 @@
 ---
-title: "les travailleurs du 19ème siècle"
+title: "Les travailleurs du 19ème siècle"
 date: 2022-09-13T13:24:33+01:00
 draft: false
-description: "1860 à 1900"
+description: " Liste des auxiliaires de 1860 à 1900"
 featured_image: "/images/78.jpg"
 tags: ["Hommes","auxiliaires","journaliers","saisonniers","scieurs-de-long","artisans-du-bois"]
 ---
