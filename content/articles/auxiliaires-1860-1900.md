@@ -232,7 +232,7 @@ TAILLANDIER Jean
 TAILLARD Jean-Baptiste	PE				
 THIODET Louis					
 THIODET Pierre					
-TOUCHARD François	SPL				
+TOUCHARD François	SPL	 			
 VENOT			CANTONNIERS (1866)		
 VERITE Auguste	PE				
 VERITE Auguste	SVL				
