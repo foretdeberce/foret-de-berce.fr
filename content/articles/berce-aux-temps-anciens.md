@@ -2,8 +2,8 @@
 title: "Bercé aux temps anciens"
 date: 2019-11-16T13:18:08+01:00
 draft: false
-description: 'l'exploitation du fer apporte la richesse'
-featured_image: '/images/routesetchemins.jpg'
+description: "l'exploitation du fer apporte la richesse"
+featured_image: "/images/routesetchemins.jpg"
 tags: ["Histoire", "archeologie", "toponymie"]
 ---
 
