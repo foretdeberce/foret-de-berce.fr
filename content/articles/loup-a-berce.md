@@ -154,7 +154,7 @@ Il disparaît ensuite progressivement de la région du Mans et du sud sarthois.
     
     Témoignage d’Adrien et Claudette Borderon
 
-Dernier loup tué en forêt de Bercé : 1870.
+Le dernier loup sera tué en forêt de Bercé en 1870.
 
 Joël PICARD  a interrogé en 1992, madame Germaine DELHAYE, née en 1898, qui avait travaillé un certain temps
 en forêt de Bercé. D'après ses dires, *« on avait pendu les deux derniers loups de la région pendant la guerre
