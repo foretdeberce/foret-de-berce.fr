@@ -4,13 +4,13 @@ date: 2019-11-16T13:17:03+01:00
 draft: false
 description: "1900-1950"
 featured_image: "/images/vieux-ouvriers-est.jpg"
-tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
+tags: ["Hommes","Auxiliaires","Ouvriers","Journaliers","carriers","tacherons","cantonnier","bûcheron"]
 
 ---
  
 ## Liste des auxiliaires, cantonniers, carriers, bûcherons de l'administration	
  
-### NOM, Prénom, sexe 
+### NOM,   Prénom,    sexe 
 
 	ADET Alexandre		M					
 	ADET Léontine		F					
@@ -19,53 +19,53 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	ALLARD Gustave		M					
 	ALLYS Eugène		M					
 	ARCHENAULT		M					
-	ARMANDIES Henriette		F					
+	ARMANDIES Henriette	F					
 	ARMANDIES Jules		M					
 	AUBERT Albert		M					
 	AUBERT Georges		M					
-	AUBERT Georgette		F					
+	AUBERT Georgette	F					
 	AUGIER Evarîste		M					
 	AVISSE Achille		M					
 	AVISSE Albert		M					
 	AVISSE Auguste		M					
 	AVISSE Eugène		M					
 	AVISSE Henri		M					
-	BALLIERE Maurice		M					
-	BARBIER Albertine		F					
-	BARBIER Laurentine		F					
+	BALLIERE Maurice	M					
+	BARBIER Albertine	F					
+	BARBIER Laurentine	F					
 	BARDET Aurélie		F					
 	BARDET Henri		M					
 	BARDET Victor		M					
-	BARDET Victorine		F					
+	BARDET Victorine	F					
 	BARNIER Armand		M					
 	BARRE Germaine		F					
 	BAUDRIER Elise		F					
 	BAUYAGUE Henri		M					
 	BELLANDE Arsène		M					
-	BELLANGER Alexandre		M					
+	BELLANGER Alexandre	M					
 	BELLANGER Alice		F					
-	BELLANGER Auguste		M					
-	BELLANGER Clémentine		F					
-	BELLANGER Eugène		M					
-	BELLANGER Gustave		M					
+	BELLANGER Auguste	M					
+	BELLANGER Clémentine	F					
+	BELLANGER Eugène	M					
+	BELLANGER Gustave	M					
 	BELLANGER Louis		M					
-	BELLANGER marcel		M					
+	BELLANGER marcel	M					
 	BELLANGER Marie		F					
-	BELLANGER Maxime		M					
-	BELLANGER Rosalie		F					
+	BELLANGER Maxime	M					
+	BELLANGER Rosalie	F					
 	BELUIN Louis		M					
 	BENARD Marcel		M					
 	BERGEON Eugène		M					
-	BERGEON Geneviève		F					
+	BERGEON Geneviève	F					
 	BERGER Henri		M					
-	BERGERE Alfred		M	ML	
-	BERGERE Georgette		F					
+	BERGERE Alfred		M 	
+	BERGERE Georgette	F					
 	BERGERE Louis		M					
-	BERTHIER Augustine		F					
+	BERTHIER Augustine	F					
 	BERTHIER Jules		M					
 	BESNARD Isidore		M					
 	BESNARD Marcel		M					
-	BESNARD Marcelle		F					
+	BESNARD Marcelle	F					
 	BESNARD Victor		M					
 	BIGNON Angèle		F					
 	BIGNON Angèle		F					
@@ -78,48 +78,48 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	BINET Auguste		M					
 	BINET Joseph		M					
 	BINET Lucienne		F					
-	BLANCHARD Alexandre		M					
+	BLANCHARD Alexandre	M					
 	BLANCHARD Louis		M					
-	BLANCHARD Madeleine		F					
+	BLANCHARD Madeleine	F					
 	BLANCHARD René		M					
 	BLIN Ferdinand		M					
 	BLUTEAU Alice		F					
 	BLUTEAU Auguste		M					
 	BLUTEAU Esther		F					
-	BLUTEAU Georgette		F					
+	BLUTEAU Georgette	F					
 	BLUTEAU Louis		M					
 	BLUTEAU Marie		F					
 	BLUTEAU Martine		F					
-	BLUTTEAU Estelle		F					
-	BLUTTEAU Juliette		F					
+	BLUTTEAU Estelle	F	
+	BLUTTEAU Juliette       F
 	BOIZARD Louis		M					
-	BOIZARD Madeleine		F					
+	BOIZARD Madeleine	F					
 	BONNET Georges		M					
 	BONTEMPS Marthe		F					
 	BORDRON Jules		M					
 	BORELLI Marin		M					
-	BOUGARD Alexandre		M					
-	BOUHOURS Alexandre		M					
-	BOUHOURS Désirée		F					
+	BOUGARD Alexandre	M					
+	BOUHOURS Alexandre	M					
+	BOUHOURS Désirée	F					
 	BOUHOURS Emile		M					
 	BOUHOURS Léon		M					
-	BOULLE		M					
+	BOULLE		        M					
 	BOURCIER Marcel		M					
 	BOURGOIN Henri		M					
-	BOURMAUD Frédéric		M					
+	BOURMAUD Frédéric	M					
 	BOURMAULT Aimée		F					
 	BOUSSARD Eugène		M					
 	BOUSSARD Victor		M					
 	BOUSSIER Henri		M					
-	BOUTHIER Mélanie		F					
+	BOUTHIER Mélanie	F					
 	BOUTHIER René		M					
 	BOUTIER Joseph		M					
 	BOUTIQUE Emile		M					
 	BOUTIQUE Marcel		M					
 	BOUTTIER Henri		M					
 	BOUTTIER Marcel		M					
-	BOUTTIER Mélanie		F					
-	BOUZEAU Alexandre		M					
+	BOUTTIER Mélanie	F					
+	BOUZEAU Alexandre	M					
 	BOUZEAU Eugène		M					
 	BRARD Jules		M					
 	BRIERE Adrienne		F					
@@ -129,11 +129,11 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	BRIERE Léon		M					
 	BRIERE Mme		F					
 	BRIERE René		M					
-	BRIMBALLE Ernest		M					
+	BRIMBALLE Ernest	M					
 	BRION Alfred		M					
 	BRION Emile		M					
 	BROSSARD Alice		F					
-	BROSSARD Georgette		F					
+	BROSSARD Georgette	F					
 	BROSSARD Marcel		M					
 	BROSSARD Paul		M					
 	BROSSIER Henri		M					
@@ -148,48 +148,48 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	CAREME Gustave		M					
 	CAREME Raymond		M					
 	CARREAU Jules		M					
-	CARTEREAU Armand		M					
+	CARTEREAU Armand	M					
 	CARTEREAU Emile		M					
-	CARTEREAU Gustave		M					
+	CARTEREAU Gustave	M					
 	CELLIER Henri		M					
-	CHAILLOU Alexandrine		F					
-	CHAILLOUX Michel		M					
-	CHALIGNE Auguste		M					
-	CHALIGNE Gabrielle		F					
+	CHAILLOU Alexandrine	F					
+	CHAILLOUX Michel	M					
+	CHALIGNE Auguste	M					
+	CHALIGNE Gabrielle	F					
 	CHALIGNE gaston		M					
 	CHALIGNE Jules		M					
 	CHALIGNE Julien		M					
-	CHALIGNE Juliette		F					
-	CHALIGNE Madeleine		F					
-	CHANTOISEAU Armand		M					
-	CHANTOISEAU Auguste		M					
-	CHANTOISEAU Eugène		M					
-	CHANTOISEAU Henri		M					
-	CHANTOISEAU Louis		M					
-	CHANTOISEAU Marcel							
-	CHANTOISEAU Marie		F					
-	CHANTOISEAU Maxime		M					
-	CHANTOISEAU Rose		F					
-	CHAPON Victorine		F			
-	CHARTIER Charles		M					
+	CHALIGNE Juliette	F					
+	CHALIGNE Madeleine	F					
+	CHANTOISEAU Armand	M					
+	CHANTOISEAU Auguste	M					
+	CHANTOISEAU Eugène	M					
+	CHANTOISEAU Henri	M					
+	CHANTOISEAU Louis	M					
+	CHANTOISEAU Marcel	M						
+	CHANTOISEAU Marie	F					
+	CHANTOISEAU Maxime	M					
+	CHANTOISEAU Rose	F					
+	CHAPON Victorine	F			
+	CHARTIER Charles	M					
 	CHAUSSY Jules		M					
 	CHAUVIN Robert		M					
-	CHESNIER Augustine		F					
-	CHESNIER Juliette		F					
+	CHESNIER Augustine	F					
+	CHESNIER Juliette	F					
 	CHESNIER Marcel		M					
-	CHEVALIER Albert		M					
-	CHEVALIER Alexandre		M					
-	CHEVALIER Alphonse		M					
-	CHEVALIER Auguste		M					
-	CHEVALIER Juliette		F					
+	CHEVALIER Albert	M					
+	CHEVALIER Alexandre	M					
+	CHEVALIER Alphonse	M					
+	CHEVALIER Auguste	M					
+	CHEVALIER Juliette	F					
 	CHEVALIER Louis		M					
-	CHEVALLIER Eugène		M					
+	CHEVALLIER Eugène	M					
 	CHEVEREAU Leone		F					
-	CHEVREAU Stanislas		M					
+	CHEVREAU Stanislas	M					
 	CHEVREAU Adrien		M					
 	CHEVREAU Arthur		M					
-	CHEVREAU Etienne		M					
-	CHEVREAU François		M					
+	CHEVREAU Etienne	M					
+	CHEVREAU François	M					
 	CHEVREAU Léard		M					
 	CHEVREAU Louis		M					
 	CHEVREAU Louise		F					
@@ -197,15 +197,15 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	CHEVREAU Marcel		M					
 	CHEVREAU Marie		F					
 	CHOLET Louis		M					
-	COCHARD Adélaïde		F					
+	COCHARD Adélaïde	F					
 	COCHARD Berthe		F					
 	COCHARD Clément		M					
 	COCHARD Ernest		M					
 	COCHARD Félix		M					
-	COCHARD Juliette		F					
-	COCHONNEAU Albert		M					
-	COCHONNEAU Prosper		M					
-	COHERGNE Clément		M					
+	COCHARD Juliette	F					
+	COCHONNEAU Albert	M					
+	COCHONNEAU Prosper	M					
+	COHERGNE Clément	M					
 	COHERGNE Jules		M					
 	COLAS Jules		M					
 	COLAS Valentin		M					
@@ -214,24 +214,24 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	CORMIER Eugène		M					
 	CORMIER Marie		F					
 	CORMIER Marius		M					
-	CORNILLAUD Raphaël		M					
+	CORNILLAUD Raphaël	M					
 	COUTARD Gaston		M					
-	CROUBOIS Alexandre		M					
+	CROUBOIS Alexandre	M					
 	CRUCHET Henri		M					
 	DALLIER Louis		M					
-	DELMOTTE Julienne		F					
+	DELMOTTE Julienne	F					
 	DELMOTTE Yvonne		F					
 	DEMANGE Elie		M					
 	DEMONGIN Gaston		M					
 	DEMONGIN Justin		M					
 	DENIS Gustave		M					
 	DENIS Maurice		M					
-	DERANCOURT Céleste		M					
+	DERANCOURT Céleste	M					
 	DESPRES Raphaël		M					
 	DHOMMEE Auguste		M					
 	DHOMMEE Paul		M					
 	DHOMMEE Pierre		M					
-	DOISTEAU Aristide		M					
+	DOISTEAU Aristide	M					
 	DORIZON Arnaud		M					
 	DORIZON Lucien		M					
 	DORIZON Paul		M					
@@ -242,12 +242,12 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	DRONNE Maurice		M					
 	DROUAULT Armand		M					
 	DROUAULT Arnaud		M					
-	DROUAULT Auguste		M					
-	DROUAULT Germaine		F					
+	DROUAULT Auguste	M					
+	DROUAULT Germaine	F					
 	DROUAULT Henri		M					
 	DROUAULT Marcel		M					
 	DROUAULT Victor		M					
-	DROUAULT Victorine		F					
+	DROUAULT Victorine	F					
 	DROUAUX Marie		F					
 	DROUAUX Victor		M					
 	DUPARS Adolphe		M					
@@ -268,19 +268,19 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	FEFEU Raymonde		F					
 	FEFEU Richard		M					
 	FELIOT Roger		M					
-	FIGUETTE Alphonse Père		M					
+	FIGUETTE Alphonse Père	M					
 	FIGUETTE Céline		F					
 	FIGUETTE Henri		M					
 	FIGUETTE Julien		M					
-	FONTAINEAU Auguste		M					
+	FONTAINEAU Auguste	M					
 	FOSSET Alphonse		M					
 	FOSSET Jean		M					
 	FOSSET Jules		M					
 	FOSSET Louis		M					
-	FOSSET Maximilien		M					
-	FOUASSIER Joséphine		F					
+	FOSSET Maximilien	M					
+	FOUASSIER Joséphine	F					
 	FOUASSIER Louis		M					
-	FOUASSIER William		M					
+	FOUASSIER William	M					
 	FOUCAULT Julien		M					
 	FOURMY Arthur		M					
 	FOURMY Auguste		M					
@@ -289,22 +289,22 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	FOURMY Louis		M					
 	FOURNIER Alice		F					
 	FOURNIER Arthur		M					
-	FOURNIER Augustine		F					
-	FOURNIER Clément		M					
+	FOURNIER Augustine	F					
+	FOURNIER Clément	M					
 	FOURNIER Emile		M					
 	FRECHET Albert		M					
 	FRECHET Henri		M					
-	FRESCHET Mathilde		F					
-	FRESNEAU Anatole		M					
-	FRESNEAU Frédéric		M					
-	FRETIGNE Georges		M					
+	FRESCHET Mathilde	F					
+	FRESNEAU Anatole	M					
+	FRESNEAU Frédéric	M					
+	FRETIGNE Georges	M					
 	FREULON Alice		F					
 	FREULON Auguste		M					
 	FREULON Eugène		M					
 	FREULON Henri		M					
 	FREULON Jules		M					
 	FREULON Marceau		M					
-	FREULON Marceline		F					
+	FREULON Marceline	F					
 	FREULON Victor		M					
 	FROGER Clément		M					
 	FROGER Colombe		F					
@@ -313,7 +313,7 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	FROGER Mathilde		F					
 	FURET Germaine		F					
 	GAGNOT Auguste		M					
-	GAIGNARD Constant		M					
+	GAIGNARD Constant	M					
 	GAILLARD Albert		M					
 	GARNIER Eugène		M					
 	GARNIER Eugénie		F					
@@ -324,16 +324,16 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	GAUTELIER Marie		F					
 	GAZE Joseph		M					
 	GELINEAU Eugène		M					
-	GELINEAU Raphaël		M					
+	GELINEAU Raphaël	M					
 	GEORGES André		M					
 	GERMAIN  Emile		M					
 	GERMAIN Henri		M					
 	GERMAIN Jules		M					
-	GOBERT Eugène    		M					
-	GOBERT Robert     		M				
+	GOBERT Eugène    	M					
+	GOBERT Robert     	M				
 	GOBUSSEAU		M					
-	GODEFROY Alexandre		M					
-	GODEFROY Auguste		M					
+	GODEFROY Alexandre	M					
+	GODEFROY Auguste	M					
 	GODEFROY Marie		F					
 	GOYER Victor		M					
 	GRASSIN Auguste		M					
@@ -342,25 +342,25 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	GRENET Lucien		M					
 	GRILLON Gustave		M					
 	GRIVEAU Jean		M					
-	GROSBOIS Héloïse		F					
-	GROSBOIS Hilaire		M					
+	GROSBOIS Héloïse	F					
+	GROSBOIS Hilaire	M					
 	GROSBOIS René		M					
 	GROSJEAN Jean		M					
 	GUET Henri		M					
-	GUILBAUT Jacques		M					
-	GUILBAUT Juliette		F					
-	GUILLIER Augustine		F					
-	GUILLIER Emiliène		F				
+	GUILBAUT Jacques	M					
+	GUILBAUT Juliette	F					
+	GUILLIER Augustine	F					
+	GUILLIER Emiliène	F				
 	GUILLIER Louise		F					
 	GUILLON Alexis		M					
 	GUILLON Auguste		M					
-	GUILLON Marceline		F					
-	GUIMIER Alphonsine		F					
+	GUILLON Marceline	F					
+	GUIMIER Alphonsine	F					
 	GUIMIER Eugénie		F					
 	GUIMIER Henri		M					
 	GUIMIER Jules		M					
 	GUIMIER Lucien		M					
-	GUIMIER Virginie		F					
+	GUIMIER Virginie	F					
 	GUMIER Marie		F					
 	GUY Arthur		M					
 	GUYOT Charles		M					
@@ -375,13 +375,13 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	HERVE Marie		F					
 	HERVE Théophile		M					
 	HUBERT Eugène		M					
-	HUBERT Florentin		M					
+	HUBERT Florentin	M					
 	HUGER Frédéric		M					
 	HUGER Raymond		M					
-	HUREAU		M					
-	JACQUES Juliette		F					
+	HUREAU	                M					
+	JACQUES Juliette	F					
 	JAMIN Victorine		F					
-	JOBARD Ernestine		F					
+	JOBARD Ernestine	F					
 	JOHAN Elise		F					
 	JOLIVEAU Victor		M					
 	JOUANEAU Julien		M					
@@ -391,68 +391,68 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	JULIEN Marie		F					
 	JUSTICE Alice		F					
 	KLEIN Louis		M					
-	KLIN		M					
+	KLIN		        M					
 	KLOUKOSKY Jacob		M					
 	LACROIX Emile		M					
-	LADUREE Alphonse		M					
+	LADUREE Alphonse	M					
 	LADUREE Angèle		F					
 	LANDAIS Clément		M					
-	LANDEAU Augustine		F					
-	LARTHIER Alphonse		M					
-	LARTHIER Clément		M					
+	LANDEAU Augustine	F					
+	LARTHIER Alphonse	M					
+	LARTHIER Clément	M					
 	LAUDROT Henri		M					
-	LAUNAT Françoise		F					
+	LAUNAT Françoise	F					
 	LAUNAY François		M					
 	LEBEL Aimé		M					
 	LEBOUC Célestin		M					
 	LEBOUC Henri		M					
-	LEBOULEUX Angeline		F					
-	LEBOULEUX Georgette		F					
+	LEBOULEUX Angeline	F					
+	LEBOULEUX Georgette	F					
 	LEBOULEUX Henri		M					
 	LEBOULEUX Louis		M					
 	LEBROU Henri 		M					
-	LEBROU Juliette 		F					
+	LEBROU Juliette 	F					
 	LEBROU Marie		F					
 	LEBRUN Paul 		M					
-	LECHOUASNE Marie		F					
+	LECHOUASNE Marie	F					
 	LECLAIR Clément		M					
-	LECLERC    Henri            		M					
+	LECLERC    Henri        M					
 	LECOMTE Louise		F					
 	LECOMTE Robert		M					
-	LECONTE Gustave 		M					
+	LECONTE Gustave 	M					
 	LECONTE Solange		F					
 	LEDAIN Henri		M					
-	LEDRU Augustine             		F					
-	LEDRU Henri                    		M					
+	LEDRU Augustine         F					
+	LEDRU Henri             M					
 	LEDRU Marie 		F					
 	LEDRU Robert 		M					
 	LEDUC Héloïse		F					
 	LEDUC Pierre 		M					
-	LEFLOCH François           		M					
-	LEFLOCH Joseph             		M					
+	LEFLOCH François        M					
+	LEFLOCH Joseph          M					
 	LEGEAY Auguste 		M					
-	LEGEAY Emilienne		F					
-	LEGEAY Hippolyte           		M					
-	LEGEAY lucienne             		F					
+	LEGEAY Emilienne	F					
+	LEGEAY Hippolyte        M					
+	LEGEAY lucienne         F					
 	LEGEAY Marie 		F					
 	LEGEAY Mélanie 		F					
 	LEGEAY Michel 		M					
-	LEGUILLON Lucien          		M					
-	LELARGE Albertine		F					
+	LEGUILLON Lucien        M					
+	LELARGE Albertine	F					
 	LELONG Marie		F					
-	LEMAÎTRE Alexandre		M					
+	LEMAÎTRE Alexandre	M					
 	LEMAÎTRE Eugène		M					
 	LEMAITRE Richer		M					
-	LEMARCHAND Alexandre		M					
-	LEMARCHAND Marie		F					
+	LEMARCHAND Alexandre	M					
+	LEMARCHAND Marie	F					
 	LEMAY François		M					
-	LEMOINE Alexandre		M					
-	LEMOINE Alphonse		M					
+	LEMOINE Alexandre	M					
+	LEMOINE Alphonse	M					
 	LEMOINE Eugène		M					
 	LEMOINE Julien		M					
 	LEMOINE Louis		M					
-	LEMOINE Lucien             		M					
-	LEMOINE Raymonde		F					
+	LEMOINE Lucien          M					
+	LEMOINE Raymonde	F					
 	LEPROUST Louise		F					
 	LEPROUST Paul		M					
 	LEROI Claire		F					
@@ -460,41 +460,41 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	LEROUX Auguste		M					
 	LEROUX Ernest		M					
 	LEROUX Eugène		M					
-	LEROUX Marceline		F					
+	LEROUX Marceline	F					
 	LEROUX Raymond		M					
 	LEROY Claire		F					
 	LEROY Suzanne		F					
-	LESTRINGANT Auguste		M					
+	LESTRINGANT Auguste	M					
 	LETANG Gustave		M					
 	LETOILE Eugène		M					
-	LHUISSIER Julien		M					
-	LHUISSIER Juliette		F					
+	LHUISSIER Julien	M					
+	LHUISSIER Juliette	F					
 	LONGUET Camille		F					
 	LONGUET Eugène		M					
 	LONGUET Gustave		M					
 	LONGUET Léon		M					
-	LORGUEUILLEUX Lucien		M					
+	LORGUEUILLEUX Lucien	M					
 	LORIOT Louis		M					
 	LOYER Victor		M					
 	LUCAS Jean		M					
 	MABILLE Louis		M					
 	MACE Victor		M					
-	MAGDELEINE Euphrasie		F					
-	MAGDELEINE Ferdinand		M					
-	MAGDELEINE Frosine		F					
-	MAGDELEINE Hippolyte		M					
+	MAGDELEINE Euphrasie	F					
+	MAGDELEINE Ferdinand	M					
+	MAGDELEINE Frosine	F					
+	MAGDELEINE Hippolyte	M					
 	MANCEAU Gabriel		M					
 	MANSARD Emile		M					
 	MARCHAND Adrien		M					
-	MARCHAND Alexandre		M					
+	MARCHAND Alexandre	M					
 	MARCHAND Marie		F					
 	MARIS Henri		M					
 	MARQUER Marie		F					
 	MARTIN Anna		F					
-	MARTINEAU Auguste		M					
-	MARTINEAU Eugène		F					
+	MARTINEAU Auguste	M					
+	MARTINEAU Eugène	F					
 	MARTINEAU Marie		F					
-	MARTINEAU Théodore		M					
+	MARTINEAU Théodore	M					
 	MASSON Arthur		M					
 	MASSON Jules		M					
 	MASSON Roche		M					
@@ -506,27 +506,27 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	METEREAU Robert		M					
 	MIQUEAU Antoine		M					
 	MONCELET Louis		M					
-	MONCHATRE Angèle		F					
+	MONCHATRE Angèle	F					
 	MONTARON Marcel		M					
 	MONTCHATRE		M					
-	MONTCHATRE Louis		M					
+	MONTCHATRE Louis	M					
 	MORANCAIS		M					
 	MOREAU Auguste		M					
 	MOREAU Berthe		F					
 	MOREAU Eugène		M					
-	MOREAU Ferdinand		M					
+	MOREAU Ferdinand	M					
 	MOREAU Germaine		F					
 	MOREAU Louis		M	
 	MOREAU Marcelle		F					
-	MOREAU Marguerite		F					
+	MOREAU Marguerite	F					
 	MOREAU Vve.		F					
 	MOSMARD Louis		M					
 	MOULLE Emile		M					
-	NAVARRO François		M					
+	NAVARRO François	M					
 	NAVARRO Georges		M					
-	NEPVEUX Madeleine		F					
+	NEPVEUX Madeleine	F					
 	OGER Henri		M					
-	PAPILLON Auguste		M					
+	PAPILLON Auguste	M					
 	PAPILLON Marcel		M					
 	PAPILLON Marie		F					
 	PARIS André		M					
@@ -550,14 +550,14 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	PENARD Valentin		M					
 	PERRAULT Eugène		M					
 	PERROUX Albert		M					
-	PERROUX Albertine		F					
+	PERROUX Albertine	F					
 	PERROUX Auguste		M					
 	PERROUX Eugénie		F					
-	PETITHOMME Adolphe		M					
-	PETITHOMME Auguste		M					
-	PETITHOMME Clément		M					
-	PETITHOMME Georges		M					
-	PICHARD		M					
+	PETITHOMME Adolphe	M					
+	PETITHOMME Auguste	M					
+	PETITHOMME Clément	M					
+	PETITHOMME Georges	M					
+	PICHARD		        M					
 	PICHON Almire		M					
 	PICHON Auguste		M					
 	PICHON Etienne		M					
@@ -567,33 +567,33 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	PICHON Marcel		M					
 	PIE Jean		M					
 	PIE Roland		M					
-	PIGAULT Marguerite		F					
-	PINEAU Florentine		F					
+	PIGAULT Marguerite	F					
+	PINEAU Florentine	F					
 	PINEAU Gaston		M					
 	PIOU Auguste		M					
 	PIRAUX Jean		M					
 	PIREYRE Jules		M					
-	PIREYRE Maximilienne		F					
-	PLOUZEAU Estelle		F					
+	PIREYRE Maximilienne	F					
+	PLOUZEAU Estelle	F					
 	PLOUZEAU Louis		M					
 	POIRIER Marie		F					
 	POIRIER Clément		M			
 	POIRRIER Henri		M					
 	POMMIER Michel		M					
-	PORCHERON Hippolyte		M					
+	PORCHERON Hippolyte	M					
 	POSSON Alexis		M					
 	POTTIER Aimée		F					
-	POTTIER Alexandre		M					
-	POTTIER Germaine		F					
+	POTTIER Alexandre	M					
+	POTTIER Germaine	F					
 	POTTIER Vital		M					
-	POUPIN Clémentine		F					
+	POUPIN Clémentine	F					
 	PROUST Julien		M					
 	PROUST Paul		M					
 	PROUX Louise		F					
-	PROVOST Alphonsine		F					
+	PROVOST Alphonsine	F					
 	PROVOST Léon		M					
 	RAMAUGE Auguste		M					
-	RAMBAUD		M					
+	RAMBAUD		        M					
 	RAULT Gabriel		M					
 	RAULT Narcisse		M					
 	REBUFET Maurice		M					
@@ -603,16 +603,16 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	RENAULT Henri		M					
 	RENAULT Louis		M					
 	RENOU Blanche		F					
-	RENVOISE Auguste		M					
+	RENVOISE Auguste	M					
 	RETIF Gustave		M					
 	RICHARD Fernand		M					
 	RICHER Suzanne		F					
 	RICHOMME Eugène		M					
 	RICHOMME Henri		M					
 	RICHOMME Marthe		F					
-	RIVIERE Ferdinand		M					
-	RIOLON		M					
-	ROBERT Augustine		F					
+	RIVIERE Ferdinand	M					
+	RIOLON		        M					
+	ROBERT Augustine	F					
 	ROBERT Baptiste		M					
 	ROBERT Georges		M					
 	ROBERT Jérome		M					
@@ -620,10 +620,10 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	ROBERT Lucien		M					
 	ROBERT Marie		F					
 	ROCHER Victor		M					
-	ROINSOLLE Georges		M					
+	ROINSOLLE Georges	M					
 	ROMASTIN Eugène		M					
 	ROTTIER Aimée		F					
-	ROTTIER Alexandre		M					
+	ROTTIER Alexandre	M					
 	ROTTIER Jules		M					
 	ROUILLARD Mme.		F					
 	ROULLIAT Gustin		M					
@@ -635,20 +635,20 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	ROUSSEAU Victor		M					
 	ROUX Robert		M					
 	SANSPEUR Louise		F					
-	SAVARY Victorine		F					
-	SCHEPPER Jacques		M					
+	SAVARY Victorine	F					
+	SCHEPPER Jacques	M					
 	SELLIER Emile		M					
-	SELLIER Emilienne		F					
+	SELLIER Emilienne	F					
 	SELLIER Henri		M					
-	SELLIER Juliette		F					
+	SELLIER Juliette	F					
 	SELLIER Lucie		F					
 	SELLIER Lucien		M					
-	SELLIER Valentine		F					
+	SELLIER Valentine	F					
 	SENAILLE Marie		F					
-	SENAILLES Alexis		M					
+	SENAILLES Alexis	M					
 	SENAILLES Léon		M					
 	SENAILLES Louis		M					
-	SENAILLES Michel		M					
+	SENAILLES Michel	M					
 	SIMON Emile		M					
 	SIMON Jules		M					
 	SIMON Marcel		M					
@@ -663,7 +663,7 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	THEARD Louis		M					
 	THEROY Félicien		M					
 	TOLMONT Joseph		M					
-	TOLMONT Théophile		M					
+	TOLMONT Théophile	M					
 	TOUCHARD Louis		M					
 	TRAMEAU Marcel		M					
 	VAL Théodore		M					
@@ -673,11 +673,11 @@ tags: ["Hommes","Auxilliaires","Ouvriers","Journaliers"]
 	VERITE Irma		F					
 	VERITE Juliette		F					
 	VERITE Léa		F					
-	VERITE Marguerite		F					
+	VERITE Marguerite	F					
 	VERITE René		M					
-	VIGNON		M					
+	VIGNON		        M					
 	VILOTEAU Henri		M					
 	VILOTEAU Jules		M					
-	VILOTTEAU Eugène		M					
+	VILOTTEAU Eugène	M					
 	VIVET Jules		M					
 	VOISIN Louis		M
