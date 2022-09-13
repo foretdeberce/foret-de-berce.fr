@@ -228,7 +228,7 @@ Le danger rôde la nuit et la nature, parfois, semble hostile!
  
 -- Beaumont Pied de Bœuf, le 31 janvier 2003. 
    
-## Aujourd'hui, Daniel n'est plus, il nous a quitté en 2018 
+## Aujourd'hui, Daniel n'est plus, il nous a quitté en 2018. 
  
 Son oeuvre d’éducation se poursuit auprès des photographes en herbe qui veulent affronter comme lui,
 cette vraie nature pour en découvrir toute la beauté cachée. 
