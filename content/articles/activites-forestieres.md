@@ -2,7 +2,7 @@
 title: "Activités forestières"
 date: 2019-11-17T00:21:04+01:00
 draft: false
-description: "Forêt d'Exception"
+description: "Les bateaux naissent en forêt"
 featured_image: '/images/activites-forestieres.jpg'
 tags: ["Exploitation"]
 ---
