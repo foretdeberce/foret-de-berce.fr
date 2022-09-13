@@ -1,9 +1,9 @@
 ---
-title: "Arbre, mémoire vivante"
+title: "les travailleurs du 19ème siècle"
 date: 2022-09-13T13:24:33+01:00
 draft: false
-description: "Travailleurs de 1860 à 1900"
-featured_image: '/images/chene-muriel.jpg'
+description: "1860 à 1900"
+featured_image: '/images/78.jpg'
 tags: ["Hommes", "auxiliaires", "journaliers", "saisonniers", "scieurs-de-long", "artisans-du-bois"]
 ---
 # Liste des auxiliaires, cantonniers, tacherons, carriers, bûcherons de l'administration entre 1860 et 1900.
