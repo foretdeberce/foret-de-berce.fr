@@ -4,7 +4,7 @@ date: 2022-09-13T13:24:33+01:00
 draft: false
 description: " Liste des auxiliaires de 1860 à 1900"
 featured_image: "/images/ofouest.jpg"
-tags: ["Hommes","auxiliaires","journaliers","saisonniers","scieurs-de-long","artisans-du-bois","carriers",cantonniers"]
+tags: ["Hommes","Auxiliaires","Journaliers","Saisonniers","Scieurs-de-long","Artisans-du-bois","Carriers",Cantonniers","Tacherons"]
 ---
 ##  Fin 19ème la liste des tâches faites par les ouvriers est longue et se décompose comme suit :
 
@@ -21,11 +21,21 @@ Les travaux touristiques : confection de loges* ...le tourisme n'est à l'époqu
 
 ## Liste des auxiliaires, cantonniers, tacherons, carriers, bûcherons de l'administration entre 1860 et 1900
 
-> SVL: Saint Vincent du Lorouer
-> SPL: Saint Pierre du Lorouer
-> T
-> PE
-> ML
+> SVL: Saint Vincent du Lorouër
+> 
+> SPL: Saint Pierre du Lorouër
+> 
+> T: Thoiré/Dinan  
+> 
+> PE: Pruillé L'Éguillé
+> 
+> ML : Marigné Laillé
+>  
+> LGL: Le Grand-Lucé
+> 
+> J: Jupilles
+> 
+> C: Chahaignes
 
 
 ### NOM Prénom Ville
