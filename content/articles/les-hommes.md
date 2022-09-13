@@ -1,17 +1,16 @@
 ---
-title: "Les auxilliaires forestiers"
+title: "Les auxiliaires forestiers"
 date: 2022-09-12T00:18:04+01:00
 draft: false
-description: "Pour une Forêt d'Exception"
+description: "La génèse d'une Forêt d'Exception"
 featured_image: '/images/ouvriers-1976.jpg'
-tags: ["Exploitation","Forestiers","Hommes"]
+tags: ["Exploitation","Forestiers","Hommes","carriers","auxiliaires","cantonnier","tacherons"]
 ---
 
 Cheville ouvrière de la forêt, celle-ci ne peut pas se passer d’eux. 
 Si l’officier en est l’architecte, le préposé ...Le maître d’œuvre, l’ouvrier en est le maçon. 
 Cette forêt que l’on dit naturelle est un pur produit de l’homme et sans celui-ci elle aurait tôt fait de redevenir hostile. Ces ouvriers, ces « sans-grade », sont sans aucun doute les plus méritants des forestiers et pourtant les moins bien rémunérés.
 
-Des générations de besogneux ont ainsi par tous les temps, œuvré dans l’ombre des sous-bois et je leur tire mon chapeau. Ce métier physique réclame aussi un bon esprit d’équipe, de la constance et une grande technicité. 
 
 ## 1860 
 
@@ -35,7 +34,7 @@ Quelques exemples de prix de journée : Fauchage de joncs H: 2,50 f / jour F: 2 
 
 Il fallait une bonne dose de rigueur pour comptabiliser tout ce monde au travail en forêt. 
 
-## 20 ème siècle
+## 20ème siècle
 
 En 1900 l'écobuage n'est plus de mise sur Bercé. De grands travaux routiers s'annoncent. 
 Nos auxiliaires ressemblent plus à des cantonniers : balayage, extraction de ronces route de la Martinière en 1908. Les ouvriers étaient payés de leur journée par l'administration et travaillaient parfois dans le cadre de charges imposées aux marchands de bois. Comme le précise cette instruction datée du 10 mars 1866 de M. l’inspecteur : 
@@ -45,7 +44,7 @@ Bien des ouvriers étaient plus connus par leur surnom :
 En 1920 l’âge légal de retraite des ouvriers est de 60 ans, mais ils peuvent demander un ajournement à 65 ans. 
 Les ouvriers chargés des travaux imposés sur les coupes et payés par les adjudicataires, ne sont pas considérés comme salariés de l'État. Même chose pour les travaux exécutés par les concessionnaires de menus produits ou travaillant à leur compte : à l’époque le temps de travail est 10 h/ jour.
 
-## Les auxilliaires forestiers deviennent au 20èm, les ouvriers forestiers
+## Les auxiliaires forestiers deviennent dans la seconde partie du 20ème, de véritables ouvriers forestiers
 
 Depuis les années 1950, et l’arrivée sur le massif de forestiers novateurs comme LORNE et CALVEL, les anciens cantonniers ou carriers sont redevenus des sylviculteurs. 
-> « Il y a plus à faire en forêt que sur les routes !».
+> *« Il y a plus à faire en forêt que sur les routes !»*.
