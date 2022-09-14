@@ -27,7 +27,7 @@ Les derniers scieurs de long que j’ai vu étaient dans la parcelle 213 au dess
 
 ## Liste des scieurs de long recencés dans les villages de la Révolution à la fin du 19ème siècle.
 
-## Nom	Prénom	Village
+## NOM	Prénom	Village
 ADET	René	St Vincent du L
 ADET	Théodore	St Vincent du L
 ANGEARD	Alexandre	Chahaignes
