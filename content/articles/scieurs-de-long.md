@@ -23,4 +23,80 @@ Massif Central, au savoir faire inégalable.
 *Nos fameux «balays», ou "balais" en seraient originaires, de même que la Lauvergne : bourrée que l’on dansait peut-être à l’Hermitière. 
 Ils étaient organisés en ateliers qu’ils déplaçaient avec leurs loges au gré des coupes. 
 Les derniers scieurs de long que j’ai vu étaient dans la parcelle 213 au dessus du ruisseau.* 
-**Témoignage de Maurice Vérité, né en 1911.**
+# *Témoignage de Maurice Vérité, né en 1911.**
+
+## Liste des scieurs de long recencés dans les villages de la Révolution à la fin du 19ème siècle.
+
+## Nom	Prénom	Village
+ADET	René	St Vincent du L
+ADET	Théodore	St Vincent du L
+ANGEARD	Alexandre	Chahaignes
+BEAUNER	André	St Pierre du L
+BELLANDE	Louis	St Vincent du L/St Pierre du L
+BELLANDE	Arsène	St Pierre du L
+BENARD	Louis	Chahaignes
+BIGNON 	Arsène	Chahaignes
+BIGOT	Auguste	Chahaignes
+BLANCHARD	Hippolyte	Marigné Laillé
+BOIVIN	Pierre	St Vincent du L
+BOULANGER	René	Lavernat
+BOULZAY	Jacques	St Vincent du L
+BOULZAY	Auguste	St Vincent du L
+BOUVIER	Louis	St Vincent du L
+BRUNEAU	Louis	St Vincent du L
+CARREAU	Pierre	St Vincent du L
+CHIFFETEAU	François	St Pierre du L
+CHOLLET	Louis	Chahaignes
+CHOLLET	Julien	Chahaignes
+CHOPLAIN	Almire	St Vincent du L
+CHOPLIN	Louis	St Vincent du L
+COCHARD	Gustave	St Vincent du L
+COCHARD	Marcel	St Vincent du L
+COCHARD	Pierre	St Vincent du L
+COCHONNEAU	Louis	Chahaignes
+DOUINEAU	Julien	Chahaignes
+DUBOIS	Pierre	Chahaignes
+DUPARC	Jules	St Vincent du L
+FEUFEU	Gervais	Lavernat
+FEUFEU	Auguste	Lavernat
+FOREAU	Léon	Chahaignes
+FOUCHER	Ernest	St Vincent du L
+FOUQUET	Louis	St Vincent du L
+FOUQUET	René	St Vincent du L
+FOUQUET	Michel	St Vincent du L
+FOUREAU		St Vincent du L
+GAUDIN	Auguste	Lavernat
+GENIRON	Michel	St Vincent du L
+HERTEREAU	Pierre	St Vincent du L
+HERVÉ	Arsène	Chahaignes
+HULOT	Isidore	St Vincent du L
+JANVIER	Louis	St Vincent du L
+LAINAULT	Pierre	Chahaignes
+LAINAULT	François	Chahaignes
+LAVAT	Louis	St Pierre du L
+LEFEBVRE	Louis	St Pierre du L
+LEFEBVRE	Alexandre	St Pierre du L
+LEROUX	Jacques	St Vincent du L
+LEROUX	Alexis	Chahaignes
+LEVILLAIN	Joseph	Chahaignes
+LEVILLAIN	Auguste	Chahaignes
+MARTINEAU	Louis	Lavernat
+MERCIER	René	Chahaignes
+MERCIER	René Jacques	Chahaignes
+MERCIER	Jacques	Chahaignes
+MIGNOT	Julien	Chahaignes
+PEINEAU	Ferdinand	St Vincent du L
+POSSON	Pierre	Chahaignes
+PROVOST	Lazare	St Vincent du L
+RICHARD	Jérome	St Vincent du L
+RIVIERE	Théodore	St Vincent du L
+RONCIERE	François	St Vincent du L
+ROUILLARD	Julien	Lavernat
+ROUSSELIERE	Louis	St Vincent du L
+TABAREAU	Arsène	St Vincent du L
+VERITÉ	Pierre	Lavernat
+VERITÉ	Jacques	St Vincent du L
+VERITÉ	René	St Vincent du L
+VERITÉ	Alexandre	St Vincent du L
+VERITÉ	Léonard	St Vincent du L
+VEZIN	Joseph	St Vincent du L 
