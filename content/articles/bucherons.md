@@ -30,7 +30,7 @@ Maurice Vérité dont le père était Charretier".
 >
 > -- Édouard Guillier
 
-{{<figure src="/images/articles/ciret-tire-fort.jpg" title="Le père Ciret et le premier tire-fort 1964">}}
+{{<figure src="/images/articles/ciret-tire-fort.jpg" title="Le père Ciret et le premier tire-fort en 1964">}}
 
 Gaston Masseau est né en 1914 de parents Agriculteurs sur Pruillé.
 
