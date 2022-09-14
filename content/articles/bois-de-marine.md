@@ -25,13 +25,14 @@ Les marchandises transportées à la descente se composaient au ¾ du tonnage to
 (bois de débit, de sciage, de charpente et voliges).
 Cette date de 1852, correspond avec l’amélioration du réseau routier, à Bercé comme en Sarthe.
 
-     1860 : À Cherbourg, on arme ##"la Sarthe", un bâtiment de servitude
-     (coque en bois, gréé en trois-mâts) de type Annamite. La flotte de Napoléon III
-     s’enorgueillit, grâce à un approvisionnement de bois provenant de
-     Bercé, d’un navire armé dès 1863 pour la guerre de Cochinchine. Après
-     plusieurs rotations, il importera à son retour en 1884 la dernière
-     épidémie de choléra en France. Au terme de sa mission, en 1911, il sera
-     démembré.
+     1860 : À Cherbourg, on arme *"La Sarthe"*, un bâtiment de servitude
+     (coque en bois, gréé en trois-mâts) de type Annamite. La flotte 
+     de Napoléon III s’enorgueillit, grâce à un approvisionnement de
+     bois provenant de Bercé, d’un navire armé dès 1863 pour la guerre
+     de Cochinchine.
+     Après plusieurs rotations, il importera à son retour en 1884 la
+     dernière épidémie de choléra en France. Au terme de sa mission,
+     en 1911, il sera démembré.
 
 
 1er Mars 1870 : le Garde Forestier Leroux écrit le rapport ci-après suite à la visite du canton de Volumiers :
