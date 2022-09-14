@@ -31,4 +31,4 @@ autrement que vers la forêt pour subsister.
 Le petit bordage ne suffisait en effet plus à l’entretien de la famille.
 Émile, en 1925 travaille dans les bois comme émondeur et bûcheron jusque vers 1937 puis comme marchand de
 bois et scieur (scierie de la route du Vaugermain, jusqu’en 1968).
-C’est à ce titre qu’en 1940, il est réquisitionné par les Bois de Guerre. 
+C’est à ce titre qu’en 1940, il est réquisitionné par les Bois de Guerre.  
