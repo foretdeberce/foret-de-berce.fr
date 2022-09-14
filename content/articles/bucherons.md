@@ -30,6 +30,7 @@ Maurice Vérité dont le père était Charretier".
 >
 > -- Édouard Guillier
 
+{{<figure src="/images/articles/ciret-tire-fort.jpg" title="Le père Ciret et le premier tire-fort 1964">}}
 
 Gaston Masseau est né en 1914 de parents Agriculteurs sur Pruillé.
 
@@ -66,7 +67,9 @@ Le métier de bûcheron, Gaston l’exerçait au début avec Maxime Claudot né 
     fêtes entre nous. On n’était pas embêté par les Gardes, 
     ils étaient habitués avec nous, en plus ils étaient presque
     tous du *« Pays »*.
-
+    
+{{<figure src="/images/articles/famille-le-meunier-ciret.jpg" title="Les familles Le Meunier et Ciret">}}
+    
 Bernard, quant à lui, se souvient de cet accident arrivé dans les années 60/61, dans le Sault Moulin.
 Le Père Trouvé, originaire de Pruillé mais résidant à Marigné, bûchait dans de l’efforage.
 Bernard et ses frères qui travaillaient à proximité se dirent soudainement : *« il y a une sente pas ordinaire,
