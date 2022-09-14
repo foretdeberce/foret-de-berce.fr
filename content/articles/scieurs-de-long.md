@@ -1,5 +1,15 @@
-## Les Scieurs de Long
-  Annie Arnoult, qui a écrit sur le sujet, nous décrit cette vie hors du commun.
+---
+title: "Les scieurs de long"
+date: 2022-09-14T00:13:25+01:00
+draft: false
+description: "Un savoir faire inégalé"
+featured_image: '/images/scieursdelong.jpg'
+tags: ["Exploitation","Travaux","Hommes"]
+---
+
+## Les scieurs de Long
+
+   Annie Arnoult, qui a écrit sur le sujet, nous décrit cette vie hors du commun.
 	*Les scieurs de long faisaient partie de ces nombreux migrants du Massif Central qui partaient régulièrement, en "brigades" ou en bandes pour des saisons de travail à l’extérieur. De septembre à juin, ils vivaient loin de leur village, au cœur de forêts lointaines, dormant dans des cabanes où ils affrontaient la froidure de l’hiver, pour scier les planches et les poutres dans les troncs des plus hauts arbres. 
 
 *Ils travaillaient par équipes de deux pour manier l’énorme scie, qu’ils nommaient volontiers la "criminelle" ou la "belle-mère", sur un support nommé le "chevalet", l’un en haut (le "chevrier") et l’autre en bas (le "renard"). 
