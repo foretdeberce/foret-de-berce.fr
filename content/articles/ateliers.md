@@ -3,7 +3,7 @@ title: "Les ateliers"
 date: 2022-09-14T00:10:25+01:00
 draft: false
 description: "Tout un petit monde en forêt"
-featured_image: '/images/1943atelier.jpg'
+featured_image: "/images/1943atelier.jpg"
 tags: ["Exploitation","Travaux","Hommes"]
 ---
 ### Les ateliers
@@ -52,51 +52,51 @@ L’hiver il faisait ses merrains avec son gars : Roger.
 **Fendeurs recensés à partir de 1850
 
    ## Nom	Prénom	Village
-BEAUCHAMP	Eugène	Marigné Laillé
-BIGNON	Pierre	Chahaignes
-BIGNON	Jacques	Chahaignes
-BIGNON	Jacques	Chahaignes
-BIGNON	Julien	Chahaignes
-BIGNON	Jacques	Chahaignes
-BOUSSION	Julien	St Vincent du L
-BRANJONNEAU	Alexandre	St Vincent du L
-BUSSON 	Louis	St Vincent du L
-BUSSON 	Eugène	St Vincent du L
-CADOR	Victor	Lavernat
-CHALIGNE	Henri	Marigné Laillé
-CHÂTEAU	Louis	Lavernat
-DEREAU	René	St Vincent du L
-DEREAU	Etienne	St Vincent du L
-DEREAU	Etienne	St Vincent du L
-DOMMÉE	Etienne	St Vincent du L
-DOMMÉE	Jacques	Chahaignes
-DOMMÉE	François	Chahaignes
-DOUCET	Pierre	St Vincent du L
-DROUAULT	Gabriel 	St Vincent du L
-DROUAULT	Laurent	St Vincent du L
-DROUAULT	François	St Vincent du L
-DROUAULT	François	St Vincent du L
-DROUAULT	Etienne	St Vincent du L
-DROUAULT	René	St Vincent du L
-DROUAULT	René	St Vincent du L
-DROUAULT	René	St Vincent du L
-DROUAULT	Jean Baptiste	St Vincent du L
-DROUAULT	Alexandre	St Vincent du L
-DROUAULT	Joseph	St Vincent du L
-DROUAULT	Joseph	St Vincent du L
-DROUAULT	René	St Vincent du L
-DROUAULT	Victor	St Vincent du L/St Pierre du L
-DROUAULT	Arsène	St Vincent du L
-DROUAULT	François	St Pierre du L
-GUIMIER	Jean Baptiste	St Vincent du L
-HERVÉ	Gabriel	Jupilles
-HUGER	Julien	St Vincent du L
-JOUSSE	Auguste	Lavernat
-LEBERT	Antoine	St Vincent du L
-LEBERT	Antoine	St Vincent du L
-LEMOINE	Pierre	Chahaignes
-LESNAULT	Jean	Chahaignes
-MAILLARD	Charles	Thoiré/Dinan
-RICHER	Louis	St Pierre du L
-ROGER	Victor	Lavernat 
+  BEAUCHAMP	Eugène	Marigné Laillé
+  BIGNON	Pierre	   Chahaignes
+  BIGNON	Jacques	   Chahaignes
+  BIGNON	Jacques	   Chahaignes
+  BIGNON	Julien	   Chahaignes
+  BIGNON	Jacques	   Chahaignes
+  BOUSSION Julien	   St Vincent du L
+  BRANJONNEAU	Alexandre	St Vincent du L
+  BUSSON 	Louis	St Vincent du L
+  BUSSON 	Eugène	St Vincent du L
+  CADOR	Victor	Lavernat
+  CHALIGNE	Henri	Marigné Laillé
+  CHÂTEAU	Louis	Lavernat
+  DEREAU	René	St Vincent du L
+  DEREAU	Etienne	St Vincent du L
+  DEREAU	Etienne	St Vincent du L
+  DOMMÉE	Etienne	St Vincent du L
+  DOMMÉE	Jacques	Chahaignes
+  DOMMÉE	François	Chahaignes
+  DOUCET	Pierre	St Vincent du L
+  DROUAULT	Gabriel 	St Vincent du L
+  DROUAULT	Laurent	St Vincent du L
+  DROUAULT	François	St Vincent du L
+  DROUAULT	François	St Vincent du L
+  DROUAULT	Etienne	St Vincent du L
+  DROUAULT	René	St Vincent du L
+  DROUAULT	René	St Vincent du L
+  DROUAULT	René	St Vincent du L
+  DROUAULT	Jean Baptiste	St Vincent du L
+  DROUAULT	Alexandre	St Vincent du L
+  DROUAULT	Joseph	St Vincent du L
+  DROUAULT	Joseph	St Vincent du L
+  DROUAULT	René	St Vincent du L
+  DROUAULT	Victor	St Vincent du L/St Pierre du L
+  DROUAULT	Arsène	St Vincent du L
+  DROUAULT	François	St Pierre du L
+  GUIMIER	Jean Baptiste	St Vincent du L
+  HERVÉ	Gabriel	Jupilles
+  HUGER	Julien	St Vincent du L
+  JOUSSE	Auguste	Lavernat
+  LEBERT	Antoine	St Vincent du L
+  LEBERT	Antoine	St Vincent du L
+  LEMOINE	Pierre	Chahaignes
+  LESNAULT	Jean	Chahaignes
+  MAILLARD	Charles	Thoiré/Dinan
+  RICHER	Louis	St Pierre du L
+  ROGER	Victor	Lavernat 
 
