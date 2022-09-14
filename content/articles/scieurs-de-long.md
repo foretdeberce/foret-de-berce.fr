@@ -23,7 +23,7 @@ Massif Central, au savoir faire inégalable.
 *Nos fameux «balays», ou "balais" en seraient originaires, de même que la Lauvergne : bourrée que l’on dansait peut-être à l’Hermitière. 
 Ils étaient organisés en ateliers qu’ils déplaçaient avec leurs loges au gré des coupes. 
 Les derniers scieurs de long que j’ai vu étaient dans la parcelle 213 au dessus du ruisseau.* 
-# *Témoignage de Maurice Vérité, né en 1911.**
+ *Témoignage de Maurice Vérité, né en 1911.**
 
 ## Liste des scieurs de long recencés dans les villages de la Révolution à la fin du 19ème siècle.
 
