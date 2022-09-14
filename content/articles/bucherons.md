@@ -102,3 +102,4 @@ Daniel dont le Père Raymond et le Grand Père Jules était aussi Bûcheron, par
 gros chêne des Clos (1 m 40 de diamètre), qui a été vendu la bagatelle somme de 113.000F HT soit 17.227 €.
 
 {{<figure src="/images/articles/bucherons.jpg" title="Les frères Pichon et Denis Legeay">}}
+    
