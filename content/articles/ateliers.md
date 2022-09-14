@@ -49,9 +49,9 @@ Les derniers bardeaux qu’il a fabriqué ont été commandés et non pris.
 Il partait l’été en Forêt à 5h du matin, se reposait 2h l’après-midi.
 L’hiver il faisait ses merrains avec son gars : Roger.
 
-**Fendeurs recensés
+**Fendeurs recensés à partir de 1850
 
-    Nom	Prénom	Village
+   ## Nom	Prénom	Village
 BEAUCHAMP	Eugène	Marigné Laillé
 BIGNON	Pierre	Chahaignes
 BIGNON	Jacques	Chahaignes
