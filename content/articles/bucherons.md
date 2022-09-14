@@ -103,7 +103,7 @@ gros chêne des Clos (1 m 40 de diamètre), qui a été vendu la bagatelle somme
 
 {{<figure src="/images/articles/bucherons.jpg" title="Les frères Pichon et Denis Legeay">}}
     
-## Liste des bucherons de 1850 à 1914 :
+Liste des bucherons de 1850 à 1914 :
     
     ## NOM	Prénom	Village
 	
@@ -225,3 +225,4 @@ TROUVÉ	Marcel	Lavernat
 VENOT	X	Jupilles
 VERITÉ	Louis	St Vincent du L
 VIVET	Jules	Jupilles
+*Liste non exhaustive*
