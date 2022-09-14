@@ -1,6 +1,6 @@
 ---
 title: "Bois de marine"
-date: 2019-11-17T00:21:04+01:00
+date: 2022-09-14T00:08:04+01:00
 draft: false
 description: "Les bateaux naissent en forêt"
 featured_image: '/images/annamite.jpg'
