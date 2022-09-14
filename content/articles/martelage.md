@@ -6,7 +6,6 @@ description: "Science forestière"
 featured_image: '/images/martelage.jpg'
 tags: ["Exploitation","Travaux","Hommes"]
 ---
-## Le martelage
 
 Le martelage, est une opération sylvicole qui consiste à désigner les arbres à abattre,
 à l’aide d’un marteau et de son empreinte. (Au 19ème,  les lettres Administration Forestière sont gothiques et y figure le numéro de la conservation).
