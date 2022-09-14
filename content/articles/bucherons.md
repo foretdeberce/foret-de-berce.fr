@@ -127,6 +127,7 @@ CHARPENTIER	Louis	Mayet
 CHAUSSON	Georges	Chahaignes
 CHAUSSON	René	St Pierre du L
 CHOUTEAU	Joseph	St Vincent du L
+CIRET	        Pruillé L'Éguillé
 COMPAIN	Auguste	Mayet
 COMPAIN	Henri	Lavernat
 COUDRAY	Armand	St Vincent du L
@@ -177,6 +178,7 @@ LEDUC	René	St Vincent du L
 LEFEBVRE	Ferdinand	St Vincent du L
 LEFEBVRE	Louis	St Vincent du L
 LEGUILLON	Albert Auguste	Marigné Laillé
+LE MEUNIER Maxime Pruillé l'Éguillé	
 LEPROUST	Auguste	Marigné Laillé
 LESNAULT	René	Chahaignes
 LESNAULT	Pierre	Chahaignes
