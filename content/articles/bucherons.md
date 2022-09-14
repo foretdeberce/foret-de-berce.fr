@@ -98,4 +98,4 @@ La famille Pichon, a fourni en Bercé des bûcherons de père en fils depuis des
 Daniel dont le Père Raymond et le Grand Père Jules était aussi Bûcheron, pare le 5 décembre 1985 le plus
 gros chêne des Clos (1 m 40 de diamètre), qui a été vendu la bagatelle somme de 113.000F HT soit 17.227 €.
 
-{{<figure src="/images/articles/bucherons.jpg" title="La famille Pichon">}}
+{{<figure src="/images/articles/bucherons.jpg" title="Les frères Pichon et Denis Legeay">}}
