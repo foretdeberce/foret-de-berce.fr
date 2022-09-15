@@ -56,3 +56,4 @@ Pruillé l’Eguillé.
 s’est transformée une semaine après le montage de la scierie Vannier, en un refus catégorique de la part de
 son successeur.* 
 *Il a donc fallu démonter en toute hâte!* (A.Vannier)
+       
