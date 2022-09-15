@@ -4,7 +4,7 @@ title: "Timbroscopie"
 date: 2022-09-15T10:24:16+01:00
 draft: false
 description: "Démêler le vrai du faux"
-featured_image: "/images/ouest-eclair.jpg"
+featured_image: "/images/timbroscopie.jpg"
 tags: ["Remarquables","Tourisme","Hommes","Tramway","Hermitiere","Coudre","Boppe"]
 ---
 
