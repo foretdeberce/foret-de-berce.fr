@@ -46,7 +46,7 @@ Il sciait 2 m ¾ / jour , il fallait que ça tourne.
 Face à la Villa Huguette la scierie Ballion, faussement dénommée Cartereau est implantée dans la parcelle 170,
 le long de l’actuel CD13. Le tramway desservait ce lieu.  
   
-{{<figure src="/images/articles/plan-berce-1783.jpg" title="Plan de la forêt de Bercé en 1783">}}  
+{{<figure src="/images/articles/scierie-ballion.jpg" title="La loge Ballion en 1931">}}  
   
 Avec le cheval vapeur, la scierie devient "mobile ou volante". Il fallait 4 à 5 jours pour installer le
 matériel et les 16 m de rails du chariot. Quelques familles (il fallait être volontaire avec un grand V)
