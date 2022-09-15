@@ -147,8 +147,6 @@ devoir suffire à ce sujet.
 
 {{<figure src="/images/articles/hermitiere.jpg" title="Arrivée aux sources">}}
 
-{{
-}}
   
 ## 4 Septembre 1929
   
