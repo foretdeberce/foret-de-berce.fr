@@ -1,6 +1,6 @@
 ---
 title: "Tourisme"
-date: 2022-09-15T10:24:16+01:00
+date: 2022-09-15T08:24:16+01:00
 draft: false
 description: "Aménagements proposés"
 featured_image: "/images/tourisme1973.jpg"
@@ -132,7 +132,7 @@ devoir suffire à ce sujet.
 
 ## Séries et Sites Artistiques
 
-{{<figure src="/images/articles/hermitière.jpg" title="Arrivée aux sources">}}
+{{<figure src="/images/articles/hermitiere.jpg" title="Arrivée aux sources">}}
 
 {{
 }}
