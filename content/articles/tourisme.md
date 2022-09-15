@@ -190,7 +190,7 @@ Améliorations Touristiques (Note de Potel):
 
 ### 4 Septembre 1929
 
-Note de Mr L’Inspecteur Principal Potel
+Note de Mr l’inspecteur principal Potel
 
 Il existe déjà à Bercé, aux Cantons des Clos et des Forges, deux séries artistiques :
 1. la 1ère depuis longtemps 
