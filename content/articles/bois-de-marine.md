@@ -23,9 +23,12 @@ de Château-du-Loir et dans les bourgs et villages qui sont dans les environs.
 Il s’y fabrique aussi beaucoup de merrin ».*
 
       L’aménagiste de 1843 précise :
-      *« Le Loir devient flottable au port de la Pointe, situé entre La Chartre et Château-du-Loir, 
-      à 3 kilomètres de l’extrémité sud de la forêt, c’est de ce port et de celui de Coëmont, 
-      existant un peu plus en aval (partie navigable), que partent, pour être descendus à Nantes, 
+      *« Le Loir devient flottable au port de la Pointe, 
+      situé entre La Chartre et Château-du-Loir, 
+      à 3 kilomètres de l’extrémité sud de la forêt,
+      c’est de ce port et de celui de Coëmont, 
+      existant un peu plus en aval (partie navigable),
+      que partent, pour être descendus à Nantes, 
       les bois de marine provenant de la forêt de Bercé ».*
 
 Tout compte fait, si Colbert s’est avéré un très bon stratège, force est de reconnaître qu’il ne
@@ -51,13 +54,17 @@ Les marchandises transportées à la descente se composaient au ¾ du tonnage to
 (bois de débit, de sciage, de charpente et voliges).
 Cette date de 1852, correspond avec l’amélioration du réseau routier, à Bercé comme en Sarthe.
 
-     1860 : À Cherbourg, on arme *"La Sarthe"*, un bâtiment de servitude
-     (coque en bois, gréé en trois-mâts) de type Annamite. La flotte 
-     de Napoléon III s’enorgueillit, grâce à un approvisionnement de
-     bois provenant de Bercé, d’un navire armé dès 1863 pour la guerre
-     de Cochinchine.
-     Après plusieurs rotations, il importera à son retour en 1884 la
-     dernière épidémie de choléra en France. Au terme de sa mission,
+     1860 : À Cherbourg, on arme *"La Sarthe"*, 
+     un bâtiment de servitude
+     (coque en bois, gréé en trois-mâts)
+     de type Annamite. La flotte 
+     de Napoléon III s’enorgueillit,     
+     grâce à un approvisionnement de
+     bois provenant de Bercé, d’un navire 
+     armé dès 1863 pour la guerre de Cochinchine.
+     Après plusieurs rotations, il importera à 
+     son retour en 1884 la dernière épidémie de 
+     choléra en France. Au terme de sa mission,
      en 1911, il sera démembré.
 
 
@@ -95,17 +102,17 @@ la plus chargée en renseignements, rendez-vous et anecdotes.
 
 Le Garde Pigault écrit pour les 15 et 16 juin, puis 10 juillet 1921:
 
-    Avec Mr. l’Inspecteur Adoint et Mr. l’Agent réceptionnaire de la
-    Marine, ainsi que les Collègues à la réception des bois de Marine
-    dans la Parcelle A² (262) du Tertre aux Bœufs.
+    Avec Mr. l’Inspecteur Adoint et Mr. l’Agent réceptionnaire 
+    de la Marine, ainsi que les Collègues à la réception des
+    bois de Marine dans la Parcelle A² (262) du Tertre aux Bœufs.
     L’entrepreneur Roquebert est chargé du transport de 488 M3 de bois
-    de Marine.
-    Employé au numérotage des billes.
+    de Marine. Employé au numérotage des billes.
 
-    Le 11 Juillet avec le collègue Jouaux, nous avons marqué d’une lettre
-    initiale, les arbres destinés à la Marine des Ports de
-    Guerre de Rochefort, Lorient et Bizerte (Tunisie).
-    {{<figure src="/images/articles/plan-berce-1783.jpg" title="Plan de la forêt de Bercé en 1783">}}
-
-    Le 17 juillet 1921 : à la gare de Chahaignes, chercher les feuilles
-    de voiture pour l’expédition des bois de Marine.
+    Le 11 Juillet avec le collègue Jouaux, nous avons marqué
+    d’une lettre initiale, les arbres destinés à la Marine 
+    des Ports de Guerre de Rochefort, Lorient et Bizerte (Tunisie).
+    
+    Le 17 juillet 1921 : à la gare de Chahaignes, chercher 
+    les feuilles de voiture pour l’expédition des bois de Marine.
+    
+{{<figure src="/images/articles/marine-sermaize.jpg" title="Bois de marine sélectionné dans Sermaize de nos jours">}}
