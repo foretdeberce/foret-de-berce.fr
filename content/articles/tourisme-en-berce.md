@@ -4,7 +4,7 @@ date: 2022-09-15T08:24:16+01:00
 draft: false
 description: "Aménagements proposés"
 featured_image: "/images/tourisme1973.jpg"
-tags: ["Remarquables","Tourisme","Hommes""Tramway","Hermitiere","Coudre","Boppe"]
+tags: ["Remarquables","Tourisme","Hommes","Tramway","Hermitiere","Coudre","Boppe"]
 ---
 
 ## 3 Avril 1905
