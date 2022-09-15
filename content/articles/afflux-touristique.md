@@ -12,7 +12,7 @@ Bercé c’est l’ancienne forêt Royale, peuplée principalement par Le Grand 
 Mais c’est aussi sur les ruptures de pentes (terrains pauvres) et les acquisitions de landes de 1723, une sylviculture plus intensive des pins sylvestres (récente) et de pins maritimes (introduits bien avant 1650 dans la région d’Écommoy).
 Cette biodiversité c’est tout le charme de cette Forêt.
 
-{{<figure src="/images/articles/hermitière.jpg" title="L’arrivée à l’Hermitière">}}
+{{<figure src="/images/articles/rond-wautot.jpg" title="Poteaux indicateurs">}}
   
             > « Le touriste bénéficie de ce qui a été fait depuis des siècles dans la forêt 
               pour des fins dont  il était parfaitement absent, faute d’exister. 
