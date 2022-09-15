@@ -210,4 +210,4 @@ Réponse d’Albrecht :
 Accès Chemin de la Coudre ( voir route) – délimitation chemin des Salles Maison Neuve : Terrain labouré en 1937.
 
 Film 31/08/42
-	  Vu des opérateurs de Cinéma en train de filmer sur la croix Segrier. 
+	  Vu des opérateurs de Cinéma en train de filmer sur la croix Segrier.  
