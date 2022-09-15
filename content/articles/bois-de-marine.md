@@ -7,9 +7,35 @@ featured_image: '/images/annamite.jpg'
 tags: ["Exploitation","Travaux","Hommes"]
 ---
 
-## Les bois de marine
+En 1669, Jean-Baptiste Colbert, contrôleur des finances du royaume de France, met en place une vigoureuse
+politique d’expansion navale, pour repousser l’Anglais. Il faut drainer à travers tout le royaume les bois
+nécessaires à la construction des navires de guerre. Dans le Maine, la forêt de Bercé est pressentie. 
 
-Ils étaient descendus par flottage sur le Loir puis la Loire.
+Un vaisseau de première ligne requiert environ 4000 chênes de 1mᶟ soit quelques hectares de ce chêne 
+dont on fait la coque, la quille, la contre quille, la fausse quille et la couverture. 
+
+*Avec les bois de guerre  … ainsi vogue la forêt.*
+
+## Le procès-verbal d’aménagement de 1783/1785 relate
+*« Les plus beaux bois de cette forêt s’exploitent en bois carrés et se tirent pour la marine,
+le surplus s’exploite en bois carrés, en cordes et fagots qui se consomment dans la ville 
+de Château-du-Loir et dans les bourgs et villages qui sont dans les environs. 
+Il s’y fabrique aussi beaucoup de merrin ».*
+
+      L’aménagiste de 1843 précise :
+      *« Le Loir devient flottable au port de la Pointe, situé entre La Chartre et Château-du-Loir, 
+      à 3 kilomètres de l’extrémité sud de la forêt, c’est de ce port et de celui de Coëmont, 
+      existant un peu plus en aval (partie navigable), que partent, pour être descendus à Nantes, 
+      les bois de marine provenant de la forêt de Bercé ».*
+
+Tout compte fait, si Colbert s’est avéré un très bon stratège, force est de reconnaître qu’il ne
+pouvait pas en son temps, anticiper les changements qui allaient bouleverser au XIXe siècle 
+toute la construction navale. Mais sans le savoir, il vient d’œuvrer grandement
+pour la forêt française et la production de chêne de qualité en développant
+un concept très particulier de sylviculture.
+
+
+Les bois de Bercé, principalement des "bois de mine" étaient descendus par flottage sur le Loir puis la Loire.
 Dans une lettre du 13 septembre 1797, Braud, le Sous-Ingénieur provisoire de la Marine précise :
 *«qu'il y a encore tant dans la forêt de Bercé que dans les ports de la Pointe et de Cour d'Hamont sur le Loir,
 environ 22000 pieds cubes (soit 754 m³) de superbes bois qui pourront je l'espère, descendre la rivière dans
@@ -37,14 +63,14 @@ Cette date de 1852, correspond avec l’amélioration du réseau routier, à Ber
 
 1er Mars 1870 : le Garde Forestier Leroux écrit le rapport ci-après suite à la visite du canton de Volumiers :
 
-    Monsieur le Brigadier,
+    *(Monsieur le Brigadier,
     Ce matin en visitant la coupe définitive 2e lot de l’exercice 1869,
     au Canton de Volumiers, j’ai remarqué que la marine portant le n°15
     n’était pas abattue, l’article 45 du Cahier des Charges de
     l’exercice 1869 en prescrit l’abatage à la date de aujourd’hui.
     Le n°12 qui a été renversé par le vent, n’est pas ébranché.
     J’ai cru urgent de porter ces faits à votre connaissance.
-    J’ai bien l’honneur de vous saluer très respectueusement.
+    J’ai bien l’honneur de vous saluer très respectueusement.)*
 
 > Les anciens forestiers se démarquaient de la boucherie, en écrivant abatage avec un seul « t ».
 
@@ -79,6 +105,7 @@ Le Garde Pigault écrit pour les 15 et 16 juin, puis 10 juillet 1921:
     Le 11 Juillet avec le collègue Jouaux, nous avons marqué d’une lettre
     initiale, les arbres destinés à la Marine des Ports de
     Guerre de Rochefort, Lorient et Bizerte (Tunisie).
+    {{<figure src="/images/articles/plan-berce-1783.jpg" title="Plan de la forêt de Bercé en 1783">}}
 
     Le 17 juillet 1921 : à la gare de Chahaignes, chercher les feuilles
     de voiture pour l’expédition des bois de Marine.
