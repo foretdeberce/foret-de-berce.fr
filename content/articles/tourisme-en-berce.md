@@ -6,7 +6,8 @@ description: "Aménagements proposés"
 featured_image: "/images/tourisme1973.jpg"
 tags: ["Remarquables","Tourisme","Hommes""Tramway","Hermitiere","Coudre","Boppe"]
 ---
-3 Avril 1905
+
+## 3 Avril 1905
 Dès le xxe siècle, le tourisme se développe avec les avancées techniques et le développement de l'automobile. Note de Roulleau : 3 Avril 1905 à Mr le Garde Général.
 J’ai attiré d’une façon très particulière votre attention dans mes
 lettres du 16/08 et du 27/10/1904 sur la question des mesures à
@@ -31,7 +32,9 @@ Les affiches posées cet hiver à Bercé ont été connues de la presse
 spéciale et de la presse politique, Tous, qu’ils s’agisse du
 Touring-Club, des Débats, ou du Petit Parisien sont avec nous.
 J’espère donc que les gardes de Bercé rempliront leur devoir sans passion comme sans faiblesse.
-5 Mars 1920
+
+## 5 Mars 1920
+
 Le Conseiller d’État, Directeur Général des E et F (L.DABAT) s’exprime en ces mots :
 Le Tourisme constituant pour la France, une source d’importants revenus, il importe
 dans les circonstances actuelles, plus encore que par le passé, d’en favoriser le développement et d’en stimuler l’essor. Les Forêts qui forment une des plus belles portions de notre patrimoine national, présentent pour les touristes un attrait tout particulier.
@@ -45,7 +48,9 @@ Mesures d’amélioration :
 •	Amélioration des routes et sentiers touristiques ( élargissement des routes) . (pour que l’ombre des arbres (Réserves) ne donne pas trop d’humidité à la partie empierrée, on sera parfois amené à créer, de chaque côté de celle-ci, un large accotement gazonné, coupé de saignées pour l’écoulement des eaux.
 •	Les carrefours devront avoir un diamètre suffisant.
 •	Certaines parties de Forêt, pourront être aménagées en Parc , en Jardin.
-10 Mai 1920
+
+## 10 Mai 1920
+
 Note de Potel à porter verbalement à la connaissance des gardes en réunion de brigade.
 Parmi les mesures prescrites, j’appelle  leur attention sur
 l’utilité des sentiers pouvant servir aux touristes, soit pour visiter
@@ -71,7 +76,9 @@ Préposés ne sont pas destinées pour servir à des
 intérêts particuliers.
 Point de vue partagé par le Brigadier Albrecht.
 Cordons d’arbres réservés le long des routes
-8 Mai 1928
+
+## 8 Mai 1928
+
 Note du Conservateur à Alençon du 8 Mai 1928.
 J’attire l’ attention de MMrs les Inspecteurs sur l’impression
 fâcheuse que produiront aux touristes, les coupes rases
@@ -81,7 +88,9 @@ Je les prie de bien vouloir examiner s’il n’y aurait pas lieu
 de recourir au système des anciens aménagements, c’est à dire
 de faire des cordons de réserves le long des routes les plus
 fréquentées.
-23 mai 1928
+
+## 23 mai 1928
+
 Réponse du Brigadier Albrecht :
 Il n’y a actuellement dans la 2ème Brigade de la Forêt de Bercé,
 plus de cordons de réserves à conserver le long des routes
@@ -89,14 +98,18 @@ principales, sauf en bordure de la route de Grammont dans les
 coupes ( parcelles :27-132-140) où il pourrait être laissé
 un cordon de réserves lors de l’exploitation des coupes
 dans ces parcelles.
-4 août 1928
+
+## 4 août 1928
+
 Réponse de Potel (Inspecteur Principal) à faire verbalement aux Gardes :
 Les arbres réservés dans les conditions indiquées, seront
 utilement repérés et reconnus avant le passage  des coupes de
 régénération à Bercé et Perseigne, en vue de leur martelage
 en réserve.
 N.D.L.R.: On sait aujourd’hui qu’en matière de Paysage, ce système est une très mauvaise solution. Il est préférable de briser les bordures, voir de laisser des bouquets Feuillus dans les résineux ou vice et versa .
-1er août 1928
+
+## 1er août 1928
+
 Améliorations Touristiques (Note de Potel):
 Comme je l’ai préconisé à diverses reprises, par exemple dans
 ma notice sur le traitement en futaie par le Tire et Aire
@@ -136,7 +149,9 @@ devoir suffire à ce sujet.
 
 {{
 }}
-4 Septembre 1929
+  
+## 4 Septembre 1929
+  
 Note de Mr l’inspecteur principal Potel
 Il existe déjà à Bercé, aux Cantons des Clos et des Forges, deux séries artistiques :
 1.	la 1ère depuis longtemps
@@ -146,7 +161,9 @@ Réponse d’Albrecht :
 Propose la Coudre et en ce qui concerne les arbres de bordure,
 ils pourraient être délaissés, quelques uns dans les parties
 pré-comptables : 130 – 140 – 141 – 27.
-1936
+  
+## 1936
+  
 Confection de l'accès au Chemin de la Coudre (voir route) – délimitation du chemin des Salles Maison Neuve : Terrain labouré en 1937.
 *Le 31/08/42 Vu des opérateurs de Cinéma en train de filmer sur la croix Segrier.*
 
