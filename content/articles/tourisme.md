@@ -3,7 +3,7 @@ title: "Tourisme"
 date: 2022-09-15T10:24:16+01:00
 draft: false
 description: "Aménagements proposés"
-featured_image: '/images/tourisme1973.jpg'
+featured_image: "/images/tourisme1973.jpg"
 tags: ["Remarquables","Tourisme","Hommes""Tramway","Hermitiere","Coudre","Boppe"]
 ---
 
@@ -184,6 +184,9 @@ Améliorations Touristiques (Note de Potel):
     devoir suffire à ce sujet.
 
 ## Séries et Sites Artistiques
+
+{{<figure src="/images/articles/hermitiere.jpg" title="Arrivée aux sources de l'Hermitière">}}
+
 
 ### 4 Septembre 1929
 
