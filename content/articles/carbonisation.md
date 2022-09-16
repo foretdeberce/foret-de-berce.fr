@@ -13,11 +13,14 @@ La carbonisation, pour une forêt, n’est pas un facteur d’équilibre, car le
 très jeune, dégradant au passage le paysage et les sols.
 Bercé en fut protégé dans les temps anciens. 
 
-En 1922 l’aménagiste dit de Bercé : Charbon de bois : ni marchands, ni propriétaires exploitants
+En 1922 l’aménagiste dit de Bercé à propos du charbon de bois :
+*ni marchands, ni propriétaires exploitants
 carbonisateurs de charbons de bois depuis longtemps sur Bercé, ni dans les environs.
-La reprise de l’activité du charbon de bois dans la Ragée, durant la dernière guerre, de 1940 à 1942
-qu’une connotation stratégique, afin d’alimenter les gazogènes, les moulins, boulangeries et charbonniers du Mans.
+La reprise de l’activité du charbon de bois dans la Ragée, durant la dernière guerre, 
+de 1940 à 1942 qu’une connotation stratégique, afin d’alimenter les gazogènes* (photo), 
+*les moulins, boulangeries et charbonniers du Mans.*
 
+{{<figure src="/images/articles/renault1940.jpg" title="Chahaignes-passage des ouvriers Renault">}}
 Le charbon confectionné en meule traditionnelle, était plus ouvrageux que celui du four en tôle, mais en
 contre- partie beaucoup plus beau.
 Les charbonniers couchaient sur place afin de contrôler toutes les phases de la carbonisation.
@@ -31,4 +34,5 @@ autrement que vers la forêt pour subsister.
 Le petit bordage ne suffisait en effet plus à l’entretien de la famille.
 Émile, en 1925 travaille dans les bois comme émondeur et bûcheron jusque vers 1937 puis comme marchand de
 bois et scieur (scierie de la route du Vaugermain, jusqu’en 1968).
+
 C’est à ce titre qu’en 1940, il est réquisitionné par les Bois de Guerre.  
