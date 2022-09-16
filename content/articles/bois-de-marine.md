@@ -17,6 +17,7 @@ dont on fait la coque, la quille, la contre quille, la fausse quille et la couve
 *Avec les bois de guerre  … ainsi vogue la forêt.*
 
 ## Le procès-verbal d’aménagement de 1783/1785 relate
+
 *« Les plus beaux bois de cette forêt s’exploitent en bois carrés et se tirent pour la marine,
 le surplus s’exploite en bois carrés, en cordes et fagots qui se consomment dans la ville 
 de Château-du-Loir et dans les bourgs et villages qui sont dans les environs. 
@@ -40,6 +41,7 @@ un concept très particulier de sylviculture.
 
 Les bois de Bercé, principalement des "bois de mine" étaient descendus par flottage sur le Loir puis la Loire.
 Dans une lettre du 13 septembre 1797, Braud, le Sous-Ingénieur provisoire de la Marine précise :
+
 *«qu'il y a encore tant dans la forêt de Bercé que dans les ports de la Pointe et de Cour d'Hamont sur le Loir,
 environ 22000 pieds cubes (soit 754 m³) de superbes bois qui pourront je l'espère, descendre la rivière dans
 le courant du mois prochain, Salut et fraternité.»*.
@@ -54,7 +56,7 @@ Les marchandises transportées à la descente se composaient au ¾ du tonnage to
 (bois de débit, de sciage, de charpente et voliges).
 Cette date de 1852, correspond avec l’amélioration du réseau routier, à Bercé comme en Sarthe.
 
-     1860 : À Cherbourg, on arme *"La Sarthe"*, 
+     # 1860 : À Cherbourg, on arme *"La Sarthe"*, 
      un bâtiment de servitude
      (coque en bois, gréé en trois-mâts)
      de type Annamite. La flotte 
@@ -70,14 +72,14 @@ Cette date de 1852, correspond avec l’amélioration du réseau routier, à Ber
 
 1er Mars 1870 : le Garde Forestier Leroux écrit le rapport ci-après suite à la visite du canton de Volumiers :
 
-    *(Monsieur le Brigadier,
+    *Monsieur le Brigadier,
     Ce matin en visitant la coupe définitive 2e lot de l’exercice 1869,
     au Canton de Volumiers, j’ai remarqué que la marine portant le n°15
     n’était pas abattue, l’article 45 du Cahier des Charges de
     l’exercice 1869 en prescrit l’abatage à la date de aujourd’hui.
     Le n°12 qui a été renversé par le vent, n’est pas ébranché.
     J’ai cru urgent de porter ces faits à votre connaissance.
-    J’ai bien l’honneur de vous saluer très respectueusement.)*
+    J’ai bien l’honneur de vous saluer très respectueusement.*
 
 > Les anciens forestiers se démarquaient de la boucherie, en écrivant abatage avec un seul « t ».
 
@@ -91,9 +93,10 @@ Mais aussi des «Bois de mauvaise figure» comme le disait Buffon :
 *«En reconnaissance des arbres bifurqués dans les coupes du Canton de la Gaie-Mariée»* 
 (Brigadier Albrecht-avril 1906).
 
+{{<figure src="/images/articles/marine-sermaize.jpg" title="Bois de marine sélectionné dans Sermaize de nos jours">}}
+      
 En aucun cas ces pièces de Marine n’étaient destinées à la Mâture.
-Les mâts provenaient des Pyrénées ou de Riga (baltique)
-     
+Les mâts provenaient des Pyrénées ou de Riga (baltique)     
 
 ### Transport ferroviaire
 
@@ -115,4 +118,4 @@ Le Garde Pigault écrit pour les 15 et 16 juin, puis 10 juillet 1921:
     Le 17 juillet 1921 : à la gare de Chahaignes, chercher 
     les feuilles de voiture pour l’expédition des bois de Marine.
     
-{{<figure src="/images/articles/marine-sermaize.jpg" title="Bois de marine sélectionné dans Sermaize de nos jours">}}
+
