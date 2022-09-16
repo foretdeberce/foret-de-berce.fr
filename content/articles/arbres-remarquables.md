@@ -380,6 +380,8 @@ Brigadier Fernand Peltier dans la parcelle 183, en bordure de la Boulaie (résid
 Ce jour, l’heureux retraité (en poste à Bercé d’octobre 1913 à fin 1945, puis Maire à Jupilles) était entouré
 de Robert Calvel, Marie Rimasson, Louis Goenvec, Pierre Rimasson, Fernande Pelletier,
 Fernand Pelletier (fils) et Lucile Pelletier.
+ 
+ {{<figure src="/images/articles/chene-peltier.jpg" title="Baptême du chêne parcelle 183">}}
 
 
 ## Le Hêtre Bouvard
