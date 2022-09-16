@@ -3,7 +3,7 @@ title: "Activités forestières"
 date: 2019-11-17T00:21:04+01:00
 draft: false
 description: "La mécanisation progressive"
-featured_image: '/images/activites-forestieres.jpg'
+featured_image: '/images/transport-grumes.jpg'
 tags: ["Exploitation","Hommes","travaux"]
 ---
 
