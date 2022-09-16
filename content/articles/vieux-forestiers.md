@@ -1,11 +1,10 @@
-title: "Les anciens forestiers"
+title: "les-anciens-forestiers"
 date: 2022-09-16T15:22:44+01:00
 draft: false
 description: "Remontons le temps"
 featured_image: "/images/cassini.jpg"
 tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques","Armement"]
 ---
-
 
 Période du Moyen-âge 1067/1097, Bersay: Gervais II, seigneur de Château-du-Loir, dont la descendance sera
 la dynastie Plantagenet délègue pour le domaine son forestier Foucher.
