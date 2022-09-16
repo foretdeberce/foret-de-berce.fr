@@ -1,12 +1,11 @@
 ---
-title: "Les tournées forestières"
+title: " Les tournées forestières "
 date: 2022-09-16T16:23:44+01:00
 draft: false
-description: "Les écoles forestières en Bercé"
+description: " Les écoles forestières en Bercé "
 featured_image: "/images/honneur.jpg"
 tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques","Armement","MF"]
 ---
-# Les tournées forestières 
 
 
 # L’E.N.E.F. a été créé en 1823.
