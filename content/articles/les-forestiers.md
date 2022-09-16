@@ -3,9 +3,10 @@ title: "Les forestiers"
 date: 2022-09-16T13:22:44+01:00
 draft: false
 description: "Les livrets journaliers"
-featured_image: '/images/visa-livret.jpg'
-tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques"]
+featured_image: "/images/visa-livret.jpg"
+tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques","Armement"]
 ---
+
 
 Coup de projecteur sur les siècles passés, rendons hommage aux femmes et aux hommes qui y ont œuvré.
 
@@ -32,6 +33,8 @@ Le port de ce costume et des insignes distinctifs de l'emploi permet de reconna�
 Si l’écriture est maîtrisée de façon magistrale sur certains livrets, n’oublions pas que l’école s’arrêtait pour certains de façon prématurée laissant place à une orthographe plus qu’hésitante. Le français que l’on rencontre dans ces livrets n’est pas très académique mais à l’avantage de refléter et sentir bon le terroir.
 Le forestier résume  sur le livret en fin de journée les moments forts de ses occupations. Il y consigne ses procès verbaux, ses rencontres, les chablis de son triage, et les bois de délit.
 L’alternance de ces phrases dénote la monotonie à remplir ce "mouchard" qui était porté en permanence par le Préposé et régulièrement visé par Mr les Agents  lors de leurs tournées en forêt. De même devait-il avoir sur lui, la plaque forestière agrafée ostensiblement sur le baudrier, le marteau particulier et la chaîne métrique (ou canne de 1m). 
+
+{{<figure src="/images/articles/ecriture-heintz.jpg" title="En 1879, le trait déraille">}}
 
 La page du livret à Heintz, du 18 au 20 janvier 1879, qui déraille en plein hiver, ( l’un des plus froids de ce siècle), reflète un état de grande lassitude dont on ne recherchera pas les causes, peut-être est-ce tout simplement le fait de doigts encore gelés au retour de tournée.
 
