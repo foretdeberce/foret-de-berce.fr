@@ -25,33 +25,30 @@ dans les villages, tels ceux des tonneliers huiliers, recensés par Lucette Bard
 * 1843 : Prospère Savignard (Volumiers) * 
 * Ou plus proche de nous, celui d’Albert Gateau, artisan tonnelier à St Vincent du Lorouër (1891-1987)
 
-Lucien Miat a travaillé pour le Père Provost à la tâche, il a fait du merrain jusqu’en 1963 (il y en avait
+*Lucien Miat a travaillé pour le Père Provost à la tâche, il a fait du merrain jusqu’en 1963 (il y en avait
 d’autres, mais i.ls sont décédés).
-Après il a été tonnelier et faisait des barriques à la Chartre sur le Loir
-
-**Témoignage de Marcel Perroux, né en 1922: **
+Après il a été tonnelier et faisait des barriques à la Chartre sur le Loir*
+(Témoignage de Marcel Perroux, né en 1922)
 
 Les ateliers en forêt, prennent ainsi place autour des loges, elles mêmes situées au cœur des ventes.
 La maison Gauthereau a été la dernière à fabriquer le merrain en forêt.
 
-Les Fendeurs, les bûcherons, les mérandiers, les éhouppeurs, tous ces corps de métier s’entendaient très bien.
-
+*Les Fendeurs, les bûcherons, les mérandiers, les éhouppeurs, tous ces corps de métier s’entendaient très bien.
 Les ouvriers qui faisaient du merrain faisait du feu à même leur belle cabane pour chasser les mouches.
-Ils faisaient leur merrain directement en forêt.
-
-**Témoignage de Marcel Perroux, 1997:**
-
-L’atelier de merrains est ici mis en scène sous deux aspects différents.
+Ils faisaient leur merrain directement en forêt.*
+*L’atelier de merrains est ici mis en scène sous deux aspects différents.
 Il pouvait être fabriqué dans ces ateliers, aussi bien des lattes, que des éclisses, des échalas ou des
 bardeaux : Jules Bellanger faisait des bardeaux en châtaigner.
 Le Père Drouault, a fait du merrain jusqu’en 1947.
 Les derniers bardeaux qu’il a fabriqué ont été commandés et non pris.
 Il partait l’été en Forêt à 5h du matin, se reposait 2h l’après-midi.
-L’hiver il faisait ses merrains avec son gars : Roger.
+L’hiver il faisait ses merrains avec son gars : Roger.*
+(Témoignage de Marcel Perroux, 1997)
 
-**Fendeurs recensés à partir de 1850
+## Fendeurs recensés à partir de 1850
 
    ## Nom	Prénom	Village
+   
   BEAUCHAMP	Eugène	Marigné Laillé
   BIGNON	Pierre	   Chahaignes
   BIGNON	Jacques	   Chahaignes
@@ -99,4 +96,6 @@ L’hiver il faisait ses merrains avec son gars : Roger.
   MAILLARD	Charles	Thoiré/Dinan
   RICHER	Louis	St Pierre du L
   ROGER	Victor	Lavernat 
+  
+  Liste non exhaustive !
 
