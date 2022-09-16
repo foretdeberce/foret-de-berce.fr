@@ -4,7 +4,7 @@ date: 2019-11-16T13:22:44+01:00
 draft: false
 description: "Le martelage"
 featured_image: '/images/visa-livret.jpg'
-tags: ["Exploitation"]
+tags: ["Exploitation","martelage","livrets","forestiers"]
 ---
 
 Coup de projecteur sur les siècles passés, rendons hommage aux femmes et aux hommes qui y ont œuvré.
