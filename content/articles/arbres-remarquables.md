@@ -2,7 +2,7 @@
 title: "Arbres remarquables"
 date: 2019-11-16T13:24:05+01:00
 draft: false
-description: "Exemples pour les générations futures"
+description: "Des modèles pour les générations futures"
 featured_image: '/images/chene-muriel.jpg'
 tags: ["Remarquables"]
 ---
