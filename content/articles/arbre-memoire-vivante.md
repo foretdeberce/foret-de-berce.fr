@@ -2,7 +2,7 @@
 title: "Arbre, mémoire vivante"
 date: 2019-11-16T13:24:33+01:00
 draft: false
-description: "Forêt d'Exception"
+description: "Le chêne Muriel"
 featured_image: '/images/chene-muriel.jpg'
 tags: ["Remarquables"]
 ---
@@ -26,6 +26,8 @@ Né le 30 septembre 1914 à Montsûrs (53).
 Exécuté à l’âge de 30 ans d’une balle dans la tête avec ses camarades du réseau Alliance, le 1er septembre 1944,
 juste avant la libération par les Américains du camp Alsacien du Struthof, tenu par les Allemands.
 
+{{<figure src="/images/articles/muriel.jpg" title="Georges France Muriel">}}
+  
 ### L’histoire de cette arrestation
 
 Ce jeune Résistant, démasqué avec son réseau, se laissa un jour piéger et vit débarquer dans les bureaux
