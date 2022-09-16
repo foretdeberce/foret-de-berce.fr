@@ -45,8 +45,11 @@ Le comparant lui dit alors: "Je sais ce que vous me voulez, mais je ne veux me v
 
 ## Bibliographie :
 **(1)** Cartulaire de Château-du-Loir
+
 **(2)** L’ordonnance des Eaux et forêts d’aout 1669 établit l’arpent forestier de 100 perches et 22 pieds chacune. Contenance de la forêt à cette époque : 6435 arpents. Ref: travaux de Joël Picard.
 Inventaire sommaire des archives départementales de la Sarthe antérieures à 1790 série B.
 Almanach national de France: l'an neuvième (1800-1801) de la République Française une et indivisible.
+
 **(3)** Minutes des arrêtés du directoire  des 21 janvier-31 mars 1793. ADS
+
 **(4)**  Extrait du registre du conseil d'état fait au conseil d'état du roi, tenu à Versailles le 15 Août 1687.(1712 - Orthographié en français nouveau) 
