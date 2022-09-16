@@ -3,7 +3,7 @@ title: "Les forestiers"
 date: 2022-09-16T13:22:44+01:00
 draft: false
 description: "Les livrets journaliers"
-featured_image: "/images/visa-livret.jpg"
+featured_image: "/images/visa-livrets.jpg"
 tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques","Armement"]
 ---
 
