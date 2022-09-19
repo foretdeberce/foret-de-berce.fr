@@ -41,7 +41,8 @@ Laurent HEINTZ et Anne Marie Louise VÉRITÉ, née en 1849 (Photo ci-dessous) se
 Le 23 janvier 1895 « A Château-du-Loir, tiré le billet du sort de mon fils Théophile né le 3 avril 1874». HEINTZ perçoit comme tous ses collègues, la ration mensuelle de tabac. Cet « avantage » perdurera malheureuse ment pour notre santé, 100 ans plus tard. 
 13 novembre 1882 « Le soir accompagné le juge de paix sur le canton de Croix-Veneur parcelle A5 pour la reconnaissance d’un cadavre trouvé dans cette parcelle par le sieur BRANJONNEAU. Rendu compte au brigadier » 
 9 avril 1883 : « Gardé la maison pour cause d’enflure du pied droit, ne pouvant pas mettre de chaussures. » Laurent HEINTZ souffre comme nombre de forestiers des pieds, organes essentiels de la marche en forêt. 
-1890, du 21 mars au 16 avril… malade : « vu le docteur Manceau de Château-du-Loir ». Du 5 août au 13 septembre 1890 : « Parti aux eaux thermales de Bourbon-l’Archambault » (idem en 1891) 
+1890, du 21 mars au 16 avril… malade : 
+  * « vu le docteur Manceau de Château-du-Loir ». Du 5 août au 13 septembre 1890 : « Parti aux eaux thermales de Bourbon-l’Archambault » (idem en 1891) *
 Du 3 mai au 6 juin 1894 et du 21 août au 21 octobre 1895, Laurent HEINTZ est souvent arrêté « malade... au poste ». Il se plaint toujours des rhumatismes. 
 Le 24 septembre 1897, il va au Mans chez un médecin assermenté pour un certificat de maladie. Laurent HEINTZ a pris sa retraite le 11 septembre 1897 car son état de santé ne lui permettait plus de continuer dans ses fonctions « visite du médecin : 5fr ». Du 1er au 10 novembre 1897 date de sa retraite effective il est en position de « permission retraite ».
 30 juillet 1917 : enterrement de l’ancien garde HEINTZ décédé à Thoiré-sur-Dinan. 
