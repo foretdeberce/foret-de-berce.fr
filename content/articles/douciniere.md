@@ -1,8 +1,8 @@
 ---
-title: "Maison forestière"
+title: "Maison forestière de la Doucinière"
 date: 2022-09-18T17:23:44+01:00
 draft: false
-description: "La Doucinière"
+description: "Pruillé l' Éguillé"
 featured_image: "/images/douciniere1983.jpg"
 tags: ["Forestiers","MF"]
 ---
