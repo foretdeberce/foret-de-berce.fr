@@ -62,7 +62,7 @@ Afin de retenir les jeunes forestiers, une programmation de rénovation des mais
   enfin du 20 mai au 15 août 1977 au « Pavillon de Bercé », 
   tout en participant aux travaux de gros œuvre. » 
   
-  13 septembre 1977 : arrivée du téléphone. 
+  13 septembre 1977 : Arrivée du téléphone. 
   
 {{<figure src="/images/articles/etangs3.jpg" title="Les Étangs en 1991">}}
   
