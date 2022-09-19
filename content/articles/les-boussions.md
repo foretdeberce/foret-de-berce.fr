@@ -41,6 +41,9 @@ Sergent au 19ème bataillon de chasseurs à pied, 8ème compagnie, à Toulouse i
 
 « Les gardes HEINTZ et LESIMPLE font partie de cette troupe de gardes d’élite, fermes, soumis, dévoués, modes tes, qui sont l’honneur d’un corps, qui donnent aux jeunes l’exemple à suivre, et qui forment, dans une forêt, cette tradition du personnel, nécessaire au bon fonctionnement de la gestion. » Note de ROULLEAU-1893 
 1 ère classe depuis le 24 juillet 1880 et nommé à la classe exceptionnelle le 25 février 1888, aujourd’hui abolie. Il reçoit en 1893, la médaille d’honneur forestière à défaut de la médaille militaire qui lui revenait de droit. En effet, de brillants états de services et plusieurs faits d’armes lui sont crédités, malheureusement sans que personne ne puisse en témoigner. Bon nombre de ses camarades sont en effet « Morts pour la France ».
+    
+    {{<figure src="/images/articles/laurent-marielouise.jpg" title="Laurent Heintz et Marie-Louise Vérité">}}
+
 Laurent HEINTZ et Anne Marie Louise VÉRITÉ, née en 1849 (Photo ci-dessous) se sont mariés à Thoiré-sur Dinan le 3 mai 1873. De 1874 à 1881, ils eurent 4 enfants (3 garçons et une fille) mais le 20 juillet 1875 «Resté à la maison pour faire enterrer mon enfant nouveau né ». Les obsèques ont lieu à Thoiré. Le 8 novembre 1876 « Été à Lucé pour chercher un enfant de l’Assistance publique de Douai. ». 
 17 Juillet 1881 : « Été à Thoiré faire baptiser mon enfant (Eugène Camille) né de samedi, passé le reste de la journée à vaquer à mes affaires ». 
 Le 23 janvier 1895 « A Château-du-Loir, tiré le billet du sort de mon fils Théophile né le 3 avril 1874». HEINTZ perçoit comme tous ses collègues, la ration mensuelle de tabac. Cet « avantage » perdurera malheureuse ment pour notre santé, 100 ans plus tard. 
