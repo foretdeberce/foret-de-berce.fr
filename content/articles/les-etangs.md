@@ -1,8 +1,8 @@
 ---
-title: "Maison forestière"
+title: "Maison forestière des Étangs"
 date: 2022-09-18T17:23:44+01:00
 draft: false
-description: "Les Étangs"
+description: "Saint-Vincent du Lorouër"
 featured_image: "/images/etangs-96.jpg"
 tags: ["Forestiers","MF"]
 ---
