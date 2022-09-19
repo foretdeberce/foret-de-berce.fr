@@ -10,7 +10,8 @@ tags: ["Forestiers","MF"]
 La maison forestière des Clos aujourd’hui n’est plus accessible au public,
 car elle fut la première de Bercé à être versée dans le domaine privé. 
 Située sur le haut du plateau, près des Clos, elle jouit de part sa situation
-d’un environnement des plus tranquilles.
+d’un environnement des plus tranquilles. Le terrain annexé à la maison était 
+à l'époque de son occupation de 1,10ha. Il fut en partie transformé en pépinière.
 
 Voici la liste des forestiers ayant occupé cette maison forestière :
 
