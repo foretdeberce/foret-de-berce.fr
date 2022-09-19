@@ -9,8 +9,10 @@ tags: ["Forestiers","MF"]
 
 La maison forestière de la Doucinière est située sur la commune de Pruillé l’Éguillé.
 Là aussi nous avons à faire à un agrandissement de logement.
-Bâtie en 1815, elle avait elle aussi dépassé la norme, devenue trop petite pour une famille d’aujourd’hui.
-Façade tournée vers l’ouest, elle est bordée de 1.08ha de terre, près du CD13 menant au village. Contrairement à l’isolement recherché, 
+Bâtie en 1815, elle avait elle aussi dépassé la norme, 
+devenue trop petite pour une famille d’aujourd’hui.
+Façade tournée vers l’ouest, elle est bordée de 1.08ha de terre,
+près du CD13 menant au village. Contrairement à l’isolement recherché, 
 elle est contigüe à une autre maison. 
 
 Voici la liste des forestiers ayant occupé cette maison forestière : 
@@ -22,21 +24,23 @@ Voici la liste des forestiers ayant occupé cette maison forestière :
       « …Le garde PASSERAT, était le beau frère de la grand-mère maternelle de mon épouse, 
       il venait de la forêt d’Orléans et épousa une demoiselle HUGER de la Haute Claie sur Saint-Vincent-du-Lorouër. 
       Ils eurent trois filles, toutes célibataires, dont la cousine Marie BIGNON (1890-1986) de Montreuil-le-Henri,
-      épouse de Léon BROSSARD qui fut ma belle mère. Le 1er aout 1880 à Pruillé, HEINTZ, sera parrain de l’une de ses filles.
+      épouse de Léon BROSSARD qui fut ma belle mère. Le 1er aout 1880 à Pruillé, HEINTZ, sera parrain de l’une de ses
+      filles.
       Le garde PASSERAT succédera à ses beaux parents à la Haute Claie. 
       Ses deux filles ainées travaillaient à la fabrique de brosse à Saint-Vincent. » 
       (Témoignage de Gaston GAUTRONNEAU - Montreuil-le-Henri) 
+ 
 C’est un bon exemple d’intégration dans notre contrée.
   
 {{<figure src="/images/articles/douciniere1933.jpg" title="La famille Leclercq en 1933">}}
   
 MESSAGER, dont les voisins diront qu’il aimait bien sa cave, tant et si bien qu’il s’y cachait, 
   avait été, durant la dernière guerre, mobilisé au centre des bois N°15 à Versailles pour une 
-  quinzaine avant d’être affecté jusqu’à nouvel ordre à son poste. En août 1951 il rejoindra son poste de SaintRémy (Côte d’Or). 
-  Sur le livret d’ordres du garde MESSAGER, figure en bonne place à la journée du 7 mai 1941 et pour toute la durée de celle-ci :
+  quinzaine avant d’être affecté jusqu’à nouvel ordre à son poste. En août 1951 il rejoindra son poste de SaintRémy (Côte   d’Or). 
+  Sur le livret d’ordres du garde MESSAGER, figure en bonne place à la journée du 7 mai 1941 et pour toute la durée de       celle-ci :
   « à Lucé, porté un pneu de vélo à Monsieur FÉLIOT, brigadier des Eaux et forêts en retraite.» 
   
-Jules VERSEAU a pris sa retraite à Jupilles, il est décédé à plus de 80 ans. 
+  Jules VERSEAU a pris sa retraite à Jupilles, il est décédé à plus de 80 ans. 
   Sa fille se souvient de la visite régulière des forestiers chez son père. 
   Elle avait le devoir d’aller les saluer, puis de quitter la pièce. 
   La porte était alors soigneusement refermée afin que le plus grand secret 
