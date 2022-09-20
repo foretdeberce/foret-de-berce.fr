@@ -63,7 +63,7 @@ Quand à BOULANGER, qui avait demandé la Tasse…
 {{<figure src="/images/articles/forges1958.jpg" title="Aux Forges à l’occasion du départ de Foucault pour la Vendée">}}
   
 Sur la photo ci-dessus prise en 1958 aux Forges à l'occasion du départ de Foucault en Vendée, on peut reconnaître (de haut en bas et de gauche à droite) les forestiers suivants:
-Pelletier,Goenvec, Gendre, Rimasson, Visage, Calvel,de Moustier, Foucault, Lorne et Pie. 
+Pelletier, Goenvec, Gendre, Rimasson, Visage, Calvel, de Moustier, Foucault, Lorne et Pie. 
   
 Les chefs VISAGE et PIE profiteront de la proximité de la forêt de Bercé à l’heure de la retraite (à Mayet et Laillé).
 L’installation de WC intérieur date du 9 octobre 1963, quand au chauffage central il sera installé le 27 juillet 1971. Le téléphone est monté en 1961. Une voiture est affectée au poste en 1967 (2cv). Des travaux auront lieu aux Forges en 1979. 
