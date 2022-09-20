@@ -3,7 +3,7 @@ title: "Les maisons forestières"
 date: 2022-09-18T16:23:44+01:00
 draft: false
 description: "Un plan type pour Bercé"
-featured_image: "/images/mfrenardieres.jpg"
+featured_image: "/images/tasse-chasse.jpg"
 tags: ["Forestiers","MF"]
 ---
 *« L'Administration des Forêts a toujours considéré la construction de maisons forestières
@@ -28,13 +28,13 @@ Mais c’est sous la Restauration que la plus part de nos maisons à Bercé fure
   Les maisons devaient ainsi être élevées dans un lieu sain et aéré, de préférence dans les vallées et les terrains les plus fertiles,
   à distance des arbres pour limiter l'humidité.
   
-Mais il fallait également les protéger des vents du nord. La dernière maison construite fut celle de la Tasse (sous Napoléon III). 
-  Sa construction initialement prévue dans la pointe de la parcelle 91, qui possédait une mare se fit en fait à la limite des parcelles
-  54 et 55 situées en face, de l’autre côté de la route «royale».
+Mais il fallait également les protéger des vents du nord.
   
 ## Règles générales d’implantation 
   
 L'habitation pour la quelle était fourni un plan type, disposait impérativement d'un point d'eau : source, citerne, mare ou puits.
+  
+  {{<figure src="/images/articles/1980etangs.jpg" title="Un cartouche au dessus de la porte d'entrée">}}
   
 Afin de protéger la demeure de l'humidité remontant de la terre, les Eaux et forêts préconisaient de surélever le niveau du sol de 50 centimètres,
 voire plus en cas de terrain particulière ment humide, limitant la dénivellation à trois ou quatre marches, 
@@ -42,6 +42,9 @@ d'où ces petits perrons d'accès que l'on rencontre devant chaque maison au mil
   
 Toutes les maisons, à l'origine sans autre isolation que celle de la grande épaisseur des murs (pierres et moellons de la forêt)
 sont donc généralement construites sur un même plan. Bref, l'implantation, les fondations, les dimensions, tout était fixé à l'avance. 
+  
+  {{<figure src="/images/articles/etangsplan.jpg" title="Modifications de 1950">}}
+  
     La circulaire précisait que :  
     *l'épaisseur des murs, les cloisons, les encadrements des portes et des fenêtres, 
     la couverture des bâtiments et par suite la charpente pourront être modifiés en
