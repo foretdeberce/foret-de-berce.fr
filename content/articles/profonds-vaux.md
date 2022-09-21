@@ -1,5 +1,5 @@
 ---
-title: "Maison forestière de la Tasse"
+title: "Maison forestière des Profonds-Vaux"
 date: 2022-09-20T17:23:44+01:00
 draft: false
 description: "Beaumont-Pied-de-Bœuf"
@@ -65,7 +65,7 @@ Louée régulièrement aux chasseurs du lot de Mayet,
 Seul sera conservé la boulangerie et son four, 
   accueillant aujourd’hui en son endroit, chauves souris et autres mammifères.
 
-{{<figure src="/images/articles/profondsvaux.jpg" title="comparatif des années 1950-2020">}}
+{{<figure src="/images/articles/profondsvaux-ign.jpg" title="comparatif des années 1950-2020">}}
 
 La photo ci-dessus, met en évidence l’absence de la maison forestière des Profonds-Vaux
   grâce à l’IGN et sa machine à remonter le temps, entre 1950 et 2022.
