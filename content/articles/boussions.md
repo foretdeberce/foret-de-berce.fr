@@ -7,6 +7,7 @@ featured_image: "/images/boussions-neuf.jpg"
 tags: ["Forestiers","MF"]
 ---
 
+
 La maison forestière des Boussions, située sur la commune de Thoiré sur Dinan
 est aujourd’hui une construction bois.
 La précédente batie en 1814, présentait quelques désordres architecturaux 
