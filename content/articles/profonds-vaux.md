@@ -7,6 +7,7 @@ featured_image: "/images/profondsvaux.jpg"
 tags: ["Forestiers","MF"]
 ---
 
+
 La maison forestière des Profonds-Vaux était située sur la commune de Beaumont-Pied-de-Bœuf.
 Sa façade était exposée plein sud et la maison entourée de 1,20ha de terre.
 Bâtie en 1817, elle faisait partie de la « Brigade Est »…
@@ -36,10 +37,10 @@ Le garde Césari Jean Toussaint, dont je vous relaterai l’épopée,
 Le garde THIBAULT Bélizaire (chasseurs forestiers) 
   sera lui aussi enterré à Beaumont. 
   Cette maison est loin de tout… THIBAULT écrit le 28 octobre 1908
-  « À ma rentrée à la maison forestière des Profonds-Vaux à 3h du soir, 
-  j’ai trouvé un rendez-vous donné par Mr le garde général, 
-  je me suis mis en route immédiatement, mais pris par la nuit,
-  j’ai dû m’arrêter au rond de Bercé. »
+     « À ma rentrée à la maison forestière des Profonds-Vaux à 3h du soir, 
+     j’ai trouvé un rendez-vous donné par Mr le garde général, 
+     je me suis mis en route immédiatement, mais pris par la nuit,
+     j’ai dû m’arrêter au rond de Bercé. »
   
 Suite au décès du garde THIBAULT en mai 1910, 
   à la maison forestière on désinfecte par lessivage à la potasse 
