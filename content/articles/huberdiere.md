@@ -11,7 +11,7 @@ La maison forestière de la Huberdière est située sur la commune de Jupilles.
 Façade tournée à l’est et arrière exposé plein ouest, elle est bordée de 1,49ha de terre,
 Bâtie en 1812, elle est plus grande que les autres… c’est une maison pour brigadiers.
 Il y est prévu à l’étage une chambre pour ces messieurs les officiers de passage. 
-Elle est construite en bordure du CD304, au sein d’un hameau de quelques maisons.
+Elle est construite en bordure du CD137, au sein d’un hameau de quelques maisons.
 
      Voici la liste des forestiers ayant occupé cette maison forestière : 
 
