@@ -179,24 +179,24 @@ Le 9 avril 1884 : « Attendu l’employé de la marine au rond du Clocher »
 Les cantons des Follets, Sermaize, Croix-Veneur, des Sorels, de Gaie Mariée, Pressenteries et Tertre-aux-Bœufs seront ainsi visités pour la production des bois de marine. 
 
       Calendrier de l’exploitation des marines sur le massif forestier de bercé :
-      ## Janvier / février : Efforage, nettoyage des coupe, extraction des houx et du sous-étage.
-      ## Mars : Reconnaissance des bois et martelage des "marines". "Abatage" (2) des marines de l’exercice précédent. 
+      -Janvier / février : Efforage, nettoyage des coupe, extraction des houx et du sous-étage.
+      - Mars : Reconnaissance des bois et martelage des "marines". "Abatage" (2) des marines de l’exercice précédent. 
       Mais aussi éhouppement et découpes des houppiers de marine reconnus l’an passé. 
       Comptage des arbres avec monsieur l’inspecteur adjoint. 
-      ## Avril : Reconnaissance des arbres "bifurqués" dans les coupes. 
+      - Avril : Reconnaissance des arbres "bifurqués" dans les coupes. 
       Comptage des arbres éhoupés (abattus) et des divers autres produits façonnés. 
       Numérotage des arbres de marine. 
-      ## Mai : Marquage des arbres réservés pour la marine. 
+      - Mai : Marquage des arbres réservés pour la marine. 
       Monsieur l’inspecteur adjoint assiste au comptage des bois de marine. 
-      ## Mars à juin : En brigade au comptage des marines et à la reconnaissance de pièces.
+      - Mars à juin : En brigade au comptage des marines et à la reconnaissance de pièces.
       Réception des produits façonnés.
-      ## De juin à septembre : Évacuation des marines, transport des produits.
-      ## Juillet à octobre: Comptage des produits (chauffage et bourrées) dans les coupes de marine. 
+      - De juin à septembre : Évacuation des marines, transport des produits.
+      - Juillet à octobre: Comptage des produits (chauffage et bourrées) dans les coupes de marine. 
       Exploitation, marquage et réception des rebuts de marine (produits inutilisés de l’exercice précédent) et rémanents.
-      ## Août : marquage des houppiers des pièces de marine pour le chauffage. 
-      ## Octobre : Reconnaissance des rémanences» en fait : rémanents (restes de houppiers façonnés).
+      - Août : marquage des houppiers des pièces de marine pour le chauffage. 
+      - Octobre : Reconnaissance des rémanences» en fait : rémanents (restes de houppiers façonnés).
       Reconnaissance des marines de l’exercice suivant. 
-      ## Novembre à février : "Abatage"(2) des coupes vendues en octobre.
+      - Novembre à février : "Abatage"(2) des coupes vendues en octobre.
       Voici donc écoulée…une année de marine Même les copeaux sont récupérés,
       ils représentent une masse imposante dans l’exploitation des bois de marine. 
 
@@ -267,7 +267,9 @@ les plus grandes possibilités de développement de l'aviation. "
 [cf. journal Les Ailes du 25 octobre 1928 rappelant le contenu de ce discours de 1927].
 Mais bientôt les avions en bois et en toile se sentiront de plus en plus démodés…   
       
-Tout compte fait, si Colbert s’est avéré un très bon stratège, force est de reconnaître qu’il ne
+## Conclusions
+      
+      Tout compte fait, si Colbert s’est avéré un très bon stratège, force est de reconnaître qu’il ne
 pouvait pas en son temps, anticiper les changements qui allaient bouleverser au XIXe siècle 
 toute la construction navale.
 Mais sans le savoir, il vient d’œuvrer grandement
