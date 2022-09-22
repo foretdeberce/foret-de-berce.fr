@@ -2,11 +2,10 @@
 title: "Un Corse à Bercé"
 date: 2022-09-16T15:22:44+01:00
 draft: false
-description: "Jean-Toussaint Césari"
+description: "Jean-Toussaint Cesari"
 featured_image: "/images/cesari1.jpg"
 tags: ["Martelage","Livrets","Forestiers","Plaques","Armement"]
 ---
-
 
 Arrivé avec le siècle, ce 19 mai 1901 de Laval en Mayenne, Jean Toussaint CESARI, d’origine Corse,
 débarque en Bercé, au poste de la maison forestière des Profonds-Vaux, 
@@ -14,7 +13,7 @@ commune de Beaumont-Pied-de-Bœuf. En un siècle de foresterie, 68 préposés (g
 des Eaux et Forêts  puis de l’Office National des Forêts se succèderont ainsi
 aux commandes de ce massif si prestigieux. 
 
-	Mal dans sa peau, se sentant exilé au sens propre du terme et loin des siens,
+  Mal dans sa peau, se sentant exilé au sens propre du terme et loin des siens,
   Jean-Toussaint CESARI ne résistera pas plus de quatre ans au climat frais
   et humide de la Sarthe. C’est son histoire que j’ai choisi de raconter tant 
   elle est mouvementée et pleine de rebondissements. 
@@ -152,17 +151,18 @@ Dans ses tournées le garde doit toujours avoir son livret,
       demandé par télégramme une prolongation de dix  jours. 
       Repris notre service le 6 décembre à midi.
   
-	Le garde BARBÉ, cantonnier à la station 1 de la Tasse, relate les frasques de son collègue de la façon suivante :
-      2 décembre 1904 : Le soir, rendez–vous avec monsieur le 
-      garde général HERMIER  à la maison forestière de la Tasse. 
-      Accompagné celui-ci avec le brigadier MARSAC à la maison 
-      forestière des Profonds-Vaux pour une enquête sur la 
-      disparition du garde CESARI. 
-      Ensuite été à la gare de Château-du-Loir pour le même objet.
+	Le garde BARBÉ, cantonnier à la station 1 de la Tasse, 
+	relate les frasques de son collègue de la façon suivante :
+        2 décembre 1904 : Le soir, rendez–vous avec monsieur le 
+        garde général HERMIER  à la maison forestière de la Tasse. 
+        Accompagné celui-ci avec le brigadier MARSAC à la maison 
+        forestière des Profonds-Vaux pour une enquête sur la 
+        disparition du garde CESARI. 
+        Ensuite été à la gare de Château-du-Loir pour le même objet.
   
 	    BARBÉ reçoit de son supérieur l’ordre de le surveiller de près
-      et de noter chacune de leur rencontre au livret journalier de 
-      la Tasse.
+        et de noter chacune de leur rencontre au livret journalier de 
+        la Tasse.
   
 	CESARI note peu de temps après sur son livret ce qui suit :
   
@@ -315,8 +315,8 @@ L’omerta (loi du silence en Corse) pèse sur le poste des Profonds–Vaux quan
 26 juin 1905 : Travaillé à la maison pour notre déménagement. 
   
   
-	   Jusqu'à la date de son départ, le garde CESARI
-     s’emploiera à effectuer son déménagement. 
+   Jusqu'à la date de son départ, le garde CESARI
+   s’emploiera à effectuer son déménagement. 
   
 Il sera remplacé le 15 juillet 1905 par le garde Jules Henri BOUFET.
   
