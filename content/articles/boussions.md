@@ -7,13 +7,13 @@ featured_image: "/images/boussions-neuf.jpg"
 tags: ["Forestiers","MF"]
 ---
 
-
 La maison forestière des Boussions, située sur la commune de Thoiré sur Dinan
 est aujourd’hui une construction bois.
-La précédente batie en 1814, présentait quelques désordres architecturaux 
-qui la rendaient insalubre. 
-Située sur le haut du plateau, bordée de 1.22ha de terre, située près du rond du Clocher,
+La précédente batie selon les préceptes de l'époque en 1814,
+présentait quelques désordres qui auraient alourdi sa rénovation. 
+Située sur le haut du plateau, bordée de 1.22ha de terre, près du rond du Clocher,
 elle jouit de part sa situation d’un environnement ensoleillé.
+Une autre habitation la jouxte en lisière.
 
 
     Voici la liste des forestiers ayant occupé cette maison forestière :
@@ -31,11 +31,9 @@ Bibliographie : (1) f° 9-ADS-actes - 7 M 402
   
 28 décembre 1868, note de LEROUX : « Mr. le sous -inspecteur est venu chez moi pour mentionner les dégâts ou réparations à faire à la M.F. qui seraient susceptibles d’être imputés à mon compte. » LEROUX profitera le 27 janvier 1870 d’une permission de 8 jours pour se marier, deviendra brigadier fin 1872 et sera enterré à Pruillé-l’Éguillé le 18 mai 1874.
 Réparations effectuées en septembre 1876, mise en place de grave dans la cour le 20 septembre 1876 avec un charretier et 2 prestataires (DUTERTRE de Chahaignes). Le sous inspecteur constate le 22 septembre que la tenue de la maison du garde HEINTZ est convenable… Quelques réparations en août 1889, drainage des fossés le 8 novembre 1894 et en mars 1897, l’ouvrier couvreur a employé 100 ardoises, peint les lambourdes des gouttières, mis un tuyau de descente, recrépi les cheminées avec du ciment.
-  
-  
+   
 {{<figure src="/images/articles/anciens-boussions.jpg" title="Ancienne maison forestière des Boussions">}}
   
-
 Alfred JOUAUX appartient au corps des chasseurs forestiers, il se rend le 7 août 1914 au camp de Sainte-Maure, mais il est renvoyé à son poste le 20 juin 1915, car il est âgé de plus de 45 ans. 7 octobre 1915, incendie à la maison forestière : « le soir entre 6h et 6h30, en rentrant à notre domicile, nous avons trouvé six personnes du voisinage, qui venaient éteindre avec l’aide de ma femme un commencement d’incendie qui s’était déclaré pendant notre absence. Les dégâts sont : un lit brûlé en entier, une table de nuit, les peintures de la cuisine sont très endommagées… » Des réparations seront effectuées du 26 octobre au 9 novembre 1921 qui concerneront les peintures, menuiseries et en plus….six ouvriers maçons y travailleront. « À Saint Calais le 12 novembre pour toucher ma prime d’assuré pour incendie. »
   
 Pierre RIMASSON et Marie ont en 1936, pour berger CHALIGNÉ William (né en 1922) et pour fille Aline dont la passion est l’élevage des "p’tits chiens". Elle se maria avec Jean LACHIVER forestier à la Fresnaye-sur-Chédouet dont le père André, lui-même forestier occupait le poste de Saint-Rigomer-des Bois. 
@@ -48,9 +46,9 @@ Sergent au 19ème bataillon de chasseurs à pied, 8ème compagnie, à Toulouse i
 « Les gardes HEINTZ et LESIMPLE font partie de cette troupe de gardes d’élite, fermes, soumis, dévoués, modes tes, qui sont l’honneur d’un corps, qui donnent aux jeunes l’exemple à suivre, et qui forment, dans une forêt, cette tradition du personnel, nécessaire au bon fonctionnement de la gestion. » Note de ROULLEAU-1893 
 1 ère classe depuis le 24 juillet 1880 et nommé à la classe exceptionnelle le 25 février 1888, aujourd’hui abolie. Il reçoit en 1893, la médaille d’honneur forestière à défaut de la médaille militaire qui lui revenait de droit. En effet, de brillants états de services et plusieurs faits d’armes lui sont crédités, malheureusement sans que personne ne puisse en témoigner. Bon nombre de ses camarades sont en effet « Morts pour la France ».
     
-    {{<figure src="/images/articles/laurent-marielouise.jpg" title="Laurent Heintz et Marie-Louise Vérité">}}
+{{<figure src="/images/articles/laurent-marielouise.jpg" title="Laurent Heintz et Marie-Louise Vérité">}}
 
-Laurent HEINTZ et Anne Marie Louise VÉRITÉ, née en 1849 (Photo ci-dessous) se sont mariés à Thoiré-sur Dinan le 3 mai 1873. De 1874 à 1881, ils eurent 4 enfants (3 garçons et une fille) mais le 20 juillet 1875 «Resté à la maison pour faire enterrer mon enfant nouveau né ». Les obsèques ont lieu à Thoiré. Le 8 novembre 1876 « Été à Lucé pour chercher un enfant de l’Assistance publique de Douai. ». 
+Laurent HEINTZ et Anne Marie Louise VÉRITÉ, née en 1849 (Photo ci-dessus) se sont mariés à Thoiré-sur Dinan le 3 mai 1873. De 1874 à 1881, ils eurent 4 enfants (3 garçons et une fille) mais le 20 juillet 1875 «Resté à la maison pour faire enterrer mon enfant nouveau né ». Les obsèques ont lieu à Thoiré. Le 8 novembre 1876 « Été à Lucé pour chercher un enfant de l’Assistance publique de Douai. ». 
 17 Juillet 1881 : « Été à Thoiré faire baptiser mon enfant (Eugène Camille) né de samedi, passé le reste de la journée à vaquer à mes affaires ». 
 Le 23 janvier 1895 « A Château-du-Loir, tiré le billet du sort de mon fils Théophile né le 3 avril 1874». HEINTZ perçoit comme tous ses collègues, la ration mensuelle de tabac. Cet « avantage » perdurera malheureuse ment pour notre santé, 100 ans plus tard. 
 13 novembre 1882 « Le soir accompagné le juge de paix sur le canton de Croix-Veneur parcelle A5 pour la reconnaissance d’un cadavre trouvé dans cette parcelle par le sieur BRANJONNEAU. Rendu compte au brigadier » 
