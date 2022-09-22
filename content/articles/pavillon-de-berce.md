@@ -31,6 +31,8 @@ Le 26 septembre 1892, Pierre-Marin LEROI, garde aux Hutteries,
 s’en va chercher chez le garde général à Écommoy une plaque indicatrice
 pour la Maison Forestière du Pavillon de Bercé récemment acquise.
 
+{{<figure src="/images/articles/plan.jpg" title="Plan des bâtiments">}}
+
 Cette ancienne maison de maître dotée (comme on peut le voir sur le plan)
 d’une boulangerie, est affectée dès l'origine pour le logement des officiers
 forestiers de passage à Bercé. Elle servira fidèlement sa mission jusque vers 1965.
@@ -126,6 +128,6 @@ Le 12 novembre 1962 :
 
 En 1972, cet imposant bâtiment ne voit plus grand monde passer en ses murs. Quelques réunions par-ci, par-là  avec des forestiers, des chasseurs, des pots de l'amitié, mais plus de véritables locataires. A cette date, durant l'été, le Pavillon est loué pour des séjours de 15 jours à 3 semaines à des forestiers en vacances, par l'intermédiaire de l'association pour l'action sociale de l'O.N.F. Ces séjours perdureront environ une dizaine d’année, jusqu'à ce que le Pavillon soit déclaré trop vétuste pour recevoir du monde.  
 
-
+{{<figure src="/images/articles/pavillon2.jpg" title="Le pavillon aujourd'hui">}}
 
 Il fut remis au Domaine, pour sa vente, en Mai 1998.
