@@ -1,10 +1,10 @@
  ---
-title: "Les anciens forestiers"
+title: "Un Corse à Bercé"
 date: 2022-09-16T15:22:44+01:00
 draft: false
-description: "Un peu d’histoire"
-featured_image: "/images/visa-livret.jpg"
-tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques","Armement"]
+description: "Jean-Toussaint Césari"
+featured_image: "/images/cesari1.jpg"
+tags: ["Martelage","Livrets","Forestiers","Plaques","Armement"]
 ---
 
 
@@ -105,16 +105,23 @@ Rien ne va plus pour Jean-Toussaint, son service se relâche, de même le
   respect dû au brigadier, qui n’est plus mentionné comme à l’accoutumée 
   avec un « B » majuscule.
   
-Les phrases jalonnant le livret, durant l’été 1904 :                                                                 « remarqué qu’on avait encore coupé de l’herbe ou fait le guet pour surprendre les femmes qui coupent de l’herbe », 
-sont soulignées au crayon par l’inspecteur et se répètent laconiquement
-  sans que CESARI ne prenne aucune mesure sérieuse, c’est-à-dire, comme 
-  à l’accoutumée pour ce genre de fait à l’époque, établir un procès verbal.
+        Les phrases jalonnant le livret, durant l’été 1904 :
+	« remarqué qu’on avait encore coupé de l’herbe ou fait le guet
+	pour surprendre les femmes qui coupent de l’herbe », 
+	sont soulignées au crayon par l’inspecteur et se répètent 
+	laconiquement sans que CESARI ne prenne aucune mesure sérieuse,
+	c’est-à-dire, comme à l’accoutumée pour ce genre de fait à l’époque,
+	établir un procès verbal.
+	
 Pourtant le garde ne se désarme pas, et visant une plus haute condition,
-  brigue de devenir brigadier : 
-Passe les examens de l’École des Barres à Alençon les 19 et 20 août 1904
-  et aux épreuves orales à Paris les 13 au 16 octobre de cette même année.
+brigue de devenir brigadier : 
+	
+"Passe les examens de l’École des Barres à Alençon les 19 et 20 août 1904
+et aux épreuves orales à Paris les 13 au 16 octobre de cette même année."
+	
 Mais la dure réalité quotidienne le tenaille, ruinant son moral et sa santé :
-5 septembre 1904 : Ayant la pointe du pied gauche enflée, nous n’avons pu 
+5 septembre 1904 : 
+	Ayant la pointe du pied gauche enflée, nous n’avons pu 
   nous rendre au rendez-vous commandé, toutefois nous nous sommes traîné 
   jusqu’à Saint-Hubert pour profiter de l’occasion de quelque voiturier. 
   Mais vers 10 heures n’ayant vu personne, nous nous sommes rendu jusqu’à
