@@ -202,7 +202,7 @@ Dans ses tournées le garde doit toujours avoir son livret,
 Ces procès-verbaux d’enquêtes minent la santé du fier CESARI, allant jusqu’à lui déclencher
   quelques aigreurs d’estomac. De violentes douleurs rhumatismales le paralysent. 
   
-	Le 4 mars 1905, le médecin constate que CESARI est atteint de neurasthénie et de troubles
+Le 4 mars 1905, le médecin constate que CESARI est atteint de neurasthénie et de troubles
   gastriques et propose de l’hospitaliser dans une station balnéaire.
  « Dans ce cas nous avons dit à monsieur l’inspecteur que nous retirions
   notre demande de mise en disponibilité. 
@@ -289,7 +289,8 @@ Le 26 mars 1905 : le brigadier nous a annoncé que Nous étions appelé au poste
     le départ du brigadier.
   
   
-## Lors de son dernier voyage à Paris, il est victime d’un rarissime accident de train : 
+## Lors de son dernier voyage à Paris, 
+il est victime d’un rarissime accident de train : 
   
    4 mai 1905: Eté à Paris en permission de deux jours, le 5 étant en chemin de fer de ceinture,
    il nous est arrivé un accident dans les circonstances suivantes : à la gare, avenue Martin,
