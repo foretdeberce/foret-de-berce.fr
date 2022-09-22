@@ -269,7 +269,7 @@ Mais bientôt les avions en bois et en toile se sentiront de plus en plus démod
       
 ## Conclusions
       
-      Tout compte fait, si Colbert s’est avéré un très bon stratège, force est de reconnaître qu’il ne
+Tout compte fait, si Colbert s’est avéré un très bon stratège, force est de reconnaître qu’il ne
 pouvait pas en son temps, anticiper les changements qui allaient bouleverser au XIXe siècle 
 toute la construction navale.
 Mais sans le savoir, il vient d’œuvrer grandement
