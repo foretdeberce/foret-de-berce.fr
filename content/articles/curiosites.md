@@ -72,7 +72,7 @@ Gendre effectue un service de sécurité avec l’aide des ouvriers.
 1993 : démolition de l’ancien pylône et mise en service
 du nouveau. On passe de 320 mètres à 342 mètres. 
   
- {{<figure src="/images/articles/terreblanches.jpg" title="342 m record battu">}}
+ {{<figure src="/images/articles/terresblanches.jpg" title="342 m record battu">}}
 
 1996 : La base de l’ancien pylône s’est métamorphosée 
 en une sculpture contemporaine (signée Jean Bernard
