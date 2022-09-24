@@ -1,9 +1,9 @@
 ---
 title: "Curiosités"
-date: 2022-09-14T00:21:25+01:00
+date: 2022-09-24T00:21:25+01:00
 draft: false
 description: " Anastomoses "
-featured_image: "/images/A186.jpg"
+featured_image: "/images/a186.jpg"
 tags: ["Arbres","Curiosité"]
 ---
 L'anastomose est un terme d'anatomie biologique signifiant : 
