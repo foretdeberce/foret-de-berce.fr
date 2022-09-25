@@ -15,6 +15,100 @@ l'Office national des forêts.
 Les forestiers interviennent tout au long de la vie des
 peuplements pour façonner une forêt apte à vous accueillir.
 
+## Réflexions et avis de Rémond Lorne.
+(initiateur de la méthode actuelle dite des arbres objectifs) 
+
+*« ….Quel devrait être le rôle du forestier tout au long de la 
+longue vie de ces futaies. Pour obtenir en final de gros arbres, 
+de très belle qualité, c'est-à-dire du tranchage, je préconisais 
+de désigner vite un certain nombre de beaux pieds à l'hectare, 
+et de dégager énergiquement toujours les mêmes, ceux-là qui 
+allaient jusqu'au terme du peuplement.
+Je terminais en disant que cela devrait faire l'objet d'une 
+étude chiffrée qui me paraissait indispensable. 
+Ainsi,  j'étais amené à constater que tout n’était pas parfait 
+dans nos forêts domaniales, comme cherchait à m'en convaincre VINEY,
+et ceci même dans nos magnifiques futaies de chêne de l'ouest. 
+Ainsi les régénérations  (remplacement des vieilles futaies par 
+semis naturel) étaient trop souvent médiocres, ronces ou fougères
+prenant le dessus, l'homme n'intervenait pas assez  faisant  trop
+confiance  à  la nature seule ; c’était d'ailleurs l'un des axiomes
+de la sylviculture française et c'était devenu l'excuse parfaite à 
+la paresse, si naturelle, justement, à l'homme … 
+Mais aussi,  au bout de 240 ans,  c'est à ce terme que l’aménagement
+de Bercé prévoyait le remplacement des peuplements, les arbres étaient
+encore de faible diamètre, parce qu'il ne leur avait pas été réservé 
+assez de place pour pouvoir grossir et donc que  les éclaircies 
+successives qu'on y avait pratiqué au cours de leur vie, n'avaient 
+pas été assez énergiques et aussi que les marteleurs,  d'une fois 
+sur l'autre, n'avaient pas la continuité nécessaire pour favoriser 
+toujours les pieds qui devaient subsister jusqu'au terme, 240 ans
+…c'est long …
+Ces  faibles diamètres en final, avaient  une  répercussion très 
+importante sur la rentabilité de la forêt. 
+Peu de pieds pouvaient être utilisés par  l'industrie du  tranchage 
+(fines  lamelles  pour  contre-plaqués)  alors que la valeur des 
+pieds à tranchage,  les gros,  était jusqu'a dix fois supérieure 
+à celle des petits... !
+Tout  cela mijotait dans ma tête et m'amena finalement à rédiger
+un article destine à la Revue Forestière Française. 
+C'était au printemps 1956, à la fin de mon règne seul à
+l’inspection du Mans … ».* 
+
+## Un visionnaire au Danemark 
+
+Au printemps 1958, lors d’une mission à l’étranger,
+Rémond Lorne note :
+*« Les Danois ne barguignent pas avec le travail.
+Ce que je voyais là, la nature assistée d'un intense
+travail humain, dépassait encore mes conceptions et 
+pour le chêne, ce que j'étais entrain d'imaginer,
+existait déjà, en forêt privée, j'y vis des "chênes 
+d'avenir" ceinturés de rouge, si bien éclaircis
+qu'ils  étaient  gros relativement jeunes.
+
+{{<figure src="/images/articles/rougis.jpg" title="Le rouge basque est remplacé aujourd'hui par le beige">}}
+
+En gros, les chênes à l'époque, avaient un "accroissement
+annuel moyen" (le «cerne" que l'on voit sur
+une souche ou une bûche) de 1,6 mm et je proposais de 
+le porter, à 2 mm ce qui correspond encore à
+un tranchage de grande classe et ce, en 200 ans au lieu 
+de 240 ans. Mais, au lieu de 110 chênes
+à l'hectare en finale, il n'en fallait que 60, désignés 
+jeunes comme "arbres d'avenir",
+cerclés à la peinture tout le long de leur vie, pour 
+que les éclaircies soient toujours effectuées
+énergiquement à leur profit….. »*
+
+
+    A l’Inspection du Mans avec M. de MOUSTIER (1956-1960).
+    C’est l’époque où Rémond LORNE fait paraître des articles 
+    sur la sylviculture des futaies de chênes :
+    >«A  la recherche de la qualité et des gros diamètres
+    dans les futaies de chênes» (Revue Forestière Française 1956).
+    >« Étude quantitative sur les éclaircies dans les futaies de chênes »,
+    publié en 1959.
+    >« La sylviculture de l’avenir » est parue en avril 1961. 
+    Chargé à la conservation du service de la forêt privée, 
+    de la chasse et de la pêche .
+    De 1960 à 1963 il est attaché au conservateur au Mans.
+    La conservation, à l’époque, couvrait la Sarthe,
+    la Mayenne, le Maine & Loire et l’Indre & Loire.
+    Il lui appartenait donc, au nom du Conservateur, 
+    d’agir auprès des inspections. Le *"pivot"* de son personnel
+    était Madame Robert, secrétaire (veuve de cheminot)
+    toujours très appréciée. Rappelez vous, elle était présente
+    lors de l’arrestation de Georges France Muriel au siège de
+    l’inspection qui était alors rue du Port. 
+    De 1964 à 1969 il fut conservateur puis directeur
+    régional de l’Office National des Forêts. Il prendra sa
+    retraite à 55 ans pour créer un cabinet d'expertise
+    forestière que Fabien son fils, et Edward, 
+    son petit-fils, gèrent aujourd’hui.  
+
+{{<figure src="/images/articles/1968.jpg" title="De gauche à droite :Lorne-Hoyau-Goenvec-Peltier, avril 1968">}}
+
 De nos Jours, grâce à une Sylviculture de pointe, 
 et à ses bois de qualité, Bercé reste un des phares
 de la Forêt Française, attirant sans relâche 
