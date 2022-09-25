@@ -81,6 +81,8 @@ véhicules sont systématiquement implantés dès le jeune âge
 permettant ainsi de réduire considérablement le tassement anarchique
 de nos limons fragiles.
 * Quand un sol limoneux est tassé,  les dommages en sont irréparables. 
+  
+  {{<figure src="/images/articles/tracteurenault.jpg" title="les premiers tracteurs">}}
 
 (1) crochetage : travail superficiel du sol destiné à favoriser la régénération.
 
@@ -108,13 +110,15 @@ Les rémanents ne sont plus incinérés depuis 1997 :
 la matière organique revient enfin à l'humus du sol.
 L’apport de  feu est strictement prohibé en forêt.
 La mise à feu c'était aussi l'apport de matières
-polluantes (huiles de vidange, pneus), l’éradication  
+polluantes (huiles de vidange, pneus) et l’éradication  
 des insectes, champignons, bactéries,
 par décapage ou brûlage de la matière vivante des 
 horizons superficiels du sol, ainsi que la
 participation active au phénomène de l'effet de serre,
 sans compter une minéralisation subite de 
 l'humus  du sol  et donc  son appauvrissement.
+  
+  {{<figure src="/images/articles/p198en97.jpg" title="Dernier feux parcelle 198 en 1997">}}
   
 Bref, l’exemple à ne pas suivre !
 
@@ -160,11 +164,6 @@ de gagner les lits des rivières mais rejoindre le sous-sol
 pour le bien commun.
 
 
-## Protection de la nature.
-
-Depuis 2002, les poubelles sont supprimées sur le massif. 
-Le randonneur, remporte ses déchets 
-pour un tri sélectif.
 
 
 
