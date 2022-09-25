@@ -20,7 +20,7 @@ et à ses bois de qualité, Bercé reste un des phares
 de la Forêt Française, attirant sans relâche 
 quantité de Congressistes .
 
-{{<figure src="/images/articles/plan-berce-1783.jpg" title="Plan de la forêt de Bercé en 1783">}}
+{{<figure src="/images/articles/nouvel-amenagement.jpg" title="Nouvel aménagement 2006-2026">}}
   
     En 1837, le forestier Adolphe Parade, alors 
     à la tête de l'École nationale des eaux et forêts,
