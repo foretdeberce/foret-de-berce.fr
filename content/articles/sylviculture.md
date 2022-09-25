@@ -73,7 +73,8 @@ ces peuplements fragilisés, dans le respect total de la biodiversité.
 
 Les travaux mécaniques sur les sols limoneux sont aujourd’hui, 
 réduits au minimum, afin d'éviter toute évaporation et exportation
-d'eau utile. 
+d'eau utile.
+*(voir photo d'en tête : crochetage du sol dans les Hirondelles en 1953)*
 Il n'y a donc plus de crochetage (1) avant glandée.
 Les cloisonnements d'exploitation pour acheminer personnes et 
 véhicules sont systématiquement implantés dès le jeune âge 
