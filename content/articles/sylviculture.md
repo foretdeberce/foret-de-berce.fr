@@ -107,7 +107,7 @@ que les éclaircies soient toujours effectuées
     forestière que Fabien son fils, et Edward, 
     son petit-fils, gèrent aujourd’hui.  
 
-{{<figure src="/images/articles/1968.jpg" title="De gauche à droite :Lorne-Hoyau-Goenvec-Peltier, avril 1968">}}
+{{<figure src="/images/articles/1968.jpg" title="De gauche à droite : Lorne-Hoyau-Goenvec-Peltier, avril 1968 au Grand-Lucé">}}
 
 De nos Jours, grâce à une Sylviculture de pointe, 
 et à ses bois de qualité, Bercé reste un des phares
