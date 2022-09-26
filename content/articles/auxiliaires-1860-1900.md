@@ -8,15 +8,39 @@ tags: ["Hommes","Auxiliaires","Journaliers","Saisonniers","Scieurs-de-long","Art
 ---
 ##  Fin 19ème la liste des tâches faites par les ouvriers est longue et se décompose comme suit :
 
-Ouvriers, auxiliaires, cantonniers, carriers et tacherons sont détachés principalement fin 19ème à l’établissement du réseau routier.
-Les tâches sylvicoles sont quant à elles réalisées, soit par les auxiliaires forestiers, ou les préposés eux-mêmes, dans le cadre des travaux d'amélioration, soit par des journaliers (hommes ou femmes payés à la tâche) ou bien en remboursement de journées de concessions de toutes sortes.
-Par exemple : « Plantations de hêtres "moyenne tige" pour compléter le massif dans le canton des Follets p.224 : le 16 fév. 1880 » ou « … à faucher des joncs dans les coupes à crocheter p.223 des Follets » voir encore « extraction à la main de bruyères dans les coupes définitives de la p. 242 en oct. 1880. » 
+Ouvriers, auxiliaires, cantonniers, carriers et tacherons sont détachés 
+principalement fin 19ème à l’établissement du réseau routier.
+Les tâches sylvicoles sont quant à elles réalisées, soit par les 
+auxiliaires forestiers, ou les préposés eux-mêmes, dans le cadre
+des travaux d'amélioration, soit par des journaliers (hommes ou femmes
+payés à la tâche) ou bien en remboursement de journées de concessions de toutes sortes.
+Par exemple : « Plantations de hêtres "moyenne tige" pour compléter le massif 
+dans le canton des Follets p.224 : le 16 fév. 1880 » ou
+« … à faucher des joncs dans les coupes à crocheter p.223 des Follets » 
+voir encore « extraction à la main de bruyères dans les 
+coupes définitives de la p. 242 en oct. 1880. » 
+
 ### *Note n° 139 du 6 septembre concernant les calepins d'attachement :*
-*1er avril 1881 : « Accompagné mon brigadier en tournée dans mon triage (J.E. Crossonneau). Nous avons enseigné aux ouvriers qui font le travail de réensemencement dans le canton des Monnées (pins sylvestres p. 258 et 260) la manière de faire des bandes.»* 
-L'exploitation en régie : L’administration procédait durant l'année à l'exploitation pour elle-même de quelques coupes pour la vente de produits façonnés. 
-Ainsi nous pouvons lire au 10 juin 1879 : *« j'ai remarqué que les ouvriers mettaient en fagots du bois trop gros, malgré la défense qui leur en a été faite par moi.»* Ou bien encore, le 21 octobre 1879 Crossonneau *« … remarque que les ouvriers avaient fait des bourrées trop longues et mis des pins trop gros pour les fabriquer. »* 
-Les travaux touristiques : confection de loges* ...le tourisme n'est à l'époque pas très développé. 
-* La loge est l’abri construit en forêt pour un usage principalement touristique. 
+
+*1er avril 1881 : « Accompagné mon brigadier en tournée dans mon triage 
+(J.E. Crossonneau). Nous avons enseigné aux ouvriers qui font le travail 
+de réensemencement dans le canton des Monnées (pins sylvestres p. 
+258 et 260) la manière de faire des bandes.»* 
+
+L'exploitation en régie : L’administration procédait durant l'année 
+à l'exploitation pour elle-même de quelques coupes pour 
+la vente de produits façonnés. 
+Ainsi nous pouvons lire au 10 juin 1879 :
+*« j'ai remarqué que les ouvriers mettaient en fagots du bois trop gros,
+malgré la défense qui leur en a été faite par moi.»* Ou bien encore, 
+le 21 octobre 1879 Crossonneau 
+*« … remarque que les ouvriers avaient fait des bourrées 
+trop longues et mis des pins trop gros pour les fabriquer. »* 
+Les travaux touristiques : confection de loges*
+...le tourisme n'est à l'époque pas très développé. 
+
+    * La loge est l’abri construit en forêt
+    pour un usage principalement touristique. 
 
 
 ## Liste des auxiliaires, cantonniers, tacherons, carriers, bûcherons de l'administration entre 1860 et 1900
