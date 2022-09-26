@@ -1,8 +1,8 @@
 ---
-title: "Afflux touristique"
+title: "Bercé et la presse"
 date: 2022-09-15T10:24:16+01:00
 draft: false
-description: "La presse"
+description: "Tourisme en vue"
 featured_image: "/images/ouest-eclair.jpg"
 tags: ["Remarquables","Tourisme","Hommes","Tramway","Hermitiere","Coudre","Boppe"]
 ---
