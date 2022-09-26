@@ -1,8 +1,8 @@
 ---
-title: "Les maisons forestières"
+title: "Un plan type"
 date: 2022-09-18T16:23:44+01:00
 draft: false
-description: "Un plan type pour Bercé"
+description: "pour les maisons forestières"
 featured_image: "/images/tasse-chasse.jpg"
 tags: ["Forestiers","MF"]
 ---
