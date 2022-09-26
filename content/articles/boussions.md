@@ -13,19 +13,16 @@ est aujourd’hui une construction bois.
 La précédente batie selon les préceptes de l'époque en 1814,
 présentait quelques désordres qui auraient alourdi sa rénovation. 
 
+## Voici la liste des forestiers ayant occupé cette maison forestière :
+
+{{<figure src="/images/articles/boussions.jpg" title="Forestiers des Boussions">}}
+  
 Située sur le haut du plateau, bordée de 1.22ha de terre, près du rond du Clocher,
 elle jouit de part sa situation d’un environnement ensoleillé.
 
 Une autre habitation la jouxte en lisière.
 
-## Voici la liste des forestiers ayant occupé cette maison forestière :
-
-
-{{<figure src="/images/articles/boussions.jpg" title="Forestiers des Boussions">}}
-
-
 ## Anecdotes liées au poste 
-  
   
 17 février 1770 :
   « Étienne HOUSSEAU, laboureur, se plaint que 
