@@ -7,7 +7,7 @@ featured_image: '/images/toile-d-araignee.jpg'
 tags: ["Faune","Biodiversité"]
 ---
 
-# L’atout biodiversité des vieux peuplements
+## L’atout biodiversité des vieux peuplements
 
 ## Entre tiques et pics...
 
@@ -33,9 +33,9 @@ le tuffeau.
 
 {{<figure src="/images/articles/chauve-souris.jpg" title="Une chauve souris">}}
   
-## Expertise chiroptères – Forêt domaniale de Bercé (72) – Année 2011
+### Expertise chiroptères – Forêt domaniale de Bercé (72) – Année 2011
   
-## *Recensement effectué par Guy Lereste*
+### *Recensement effectué par Guy Lereste*
   
 Présence d’une richesse en chauves-souris
   hors du commun dans la vallée de l’Hermitière.
@@ -50,7 +50,7 @@ Présence d’une richesse en chauves-souris
       – Noctule commune.
 
   
-## le pic noir
+### le pic noir
 
 Inféodé à la haute futaie sur Bercé depuis peu : 
   le pic noir aime à nous rappeler sa présence de temps à
