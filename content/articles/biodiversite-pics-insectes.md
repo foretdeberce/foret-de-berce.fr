@@ -11,7 +11,7 @@ tags: ["Faune","Biodiversité"]
 
 # L’atout biodiversité des vieux peuplements
 
-## Entre piques et pics...
+## Entre tiques et pics...
 
 > « Parler de biodiversité en forêt ne peut s’envisager sans faire référence aux coléoptères saproxyliques.
 Les organismes saproxyliques se définissent comme des espèces qui dépendent, au moins pendant une partie
