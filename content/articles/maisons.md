@@ -126,7 +126,7 @@ Dans cet ordre d'idées tout à fait paternaliste,
   
   Certains feront souche par le biais du mariage, d’autres, soit réfractaires à l’autorité ou au climat, soit nostalgiques de leur région d’origine, ne feront pas de vieux os à Bercé. Telle l’histoire du garde Césari, ce Corse arrivé à contrecœur sur Bercé.
 
-## Noms de baptême des maisons
+### Noms de baptême des maisons
 
 	La règle : *Un cartouche établi par les soins de l'administration 
   indiquera que cette maison est une maison forestière, en plus de 
