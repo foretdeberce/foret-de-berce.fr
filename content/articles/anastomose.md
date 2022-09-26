@@ -1,8 +1,8 @@
 ---
-title: "Curiosités"
+title: "Anastomoses"
 date: 2022-09-24T00:21:25+01:00
 draft: false
-description: " Anastomoses "
+description: " Cabinet des curiosités forestières "
 featured_image: "/images/a186.jpg"
 tags: ["Arbres","Curiosité"]
 ---
