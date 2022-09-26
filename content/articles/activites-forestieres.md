@@ -1,8 +1,8 @@
 ---
-title: "Activités forestières"
+title: "Mécanisation forestière progressive"
 date: 2019-11-17T00:21:04+01:00
 draft: false
-description: "La mécanisation progressive"
+description: "l'abandon des bêtes de somme"
 featured_image: '/images/transport-grumes.jpg'
 tags: ["Exploitation","Hommes","travaux"]
 ---
@@ -10,29 +10,36 @@ tags: ["Exploitation","Hommes","travaux"]
 ## Le débardage à cheval ou à boeuf : tracteurs de nos aïeux
 
 Voituriers, Charretiers, Fardiers, Attelages, tous utilisent la plus belle conquête de l'Homme.
-En 1905 il existait sur le Massif de Bercé : 68 Chevaux, 42 Fardiers, 29 Diables.
+En 1905 il existait sur le Massif de Bercé :
+68 Chevaux, 42 Fardiers, 29 Diables.
 Dès 1940, les chevaux et leurs charretiers sont mis à la disposition du 3e groupement de travailleurs
 forestiers par voie de réquisition afin de subvenir à la vidange et au transport des bois de guerre ainsi 
 qu’au ravitaillement des camps de chômeurs ou de prisonniers.
 L’été, durant la guerre, les chevaux prennent pension dans les exploitations agricoles où ils aident aux travaux
 des champs.
-Après guerre, ce mode de transport ne survivra pas longtemps, au modernisme.  Vite détrôné, le cheval-vapeur,
+Après guerre, ce mode de transport ne survivra pas longtemps, au modernisme. 
+Vite détrôné, le cheval-vapeur,
 les gazogènes, les camions à essence puis à gasoil envahissent peu à peu le parterre des coupes.
-Nos Forestiers ont bien hésité à laisser rentrer ces monstres sur les semis, mais devant tant d’enthousiasme
-ils n’y purent rien.
+Nos Forestiers ont bien hésité à laisser rentrer ces monstres sur les semis,
+mais devant tant d’enthousiasme ils n’y purent rien.
 
 {{<figure src="/images/articles/debardage.jpg" title="Débardage en tracteur">}}
 
 
 ## Le Charretier
 
-Du temps d’André Ciret, né le 13 août 1921, il y avait pour débusquer le bois, jusqu’à huit chevaux,
-couplés par quatre.
+Du temps d’André Ciret, né le 13 août 1921, 
+    il y avait pour débusquer le bois, jusqu’à huit chevaux, couplés par quatre.
+    
 Bûcheron, il passait sa saison dans le balay avec toute l’équipe.
+    
 Il amenait toujours avec lui un crochet pour "désencrouer" les arbres ou les arracher à "culée noire".
+    
 André Ciret avait un profond respect de son métier et en parlait avec nostalgie.
+    
 Henri Thénaisie (né en 1911) quitte l’école à 12 ans pour rejoindre son Père en forêt.
 Pour protéger ses reins, il portera toujours bien ligotée une ceinture de flanelle.
+    
 Clément Thénaisie est en effet charretier propriétaire (1920 : train de 4 chevaux et 2 limons),
 tout comme Raymond Legeay.
 
