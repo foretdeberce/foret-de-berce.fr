@@ -4,7 +4,7 @@ date: 2022-09-25T17:23:44+01:00
 draft: false
 description: "Une éradication difficile"
 featured_image: "/images/et-ordures.jpg"
-tags: ["Tourisme"]
+tags: ["Tourisme","protection"]
 ---
 
 ## Protection de la nature.
