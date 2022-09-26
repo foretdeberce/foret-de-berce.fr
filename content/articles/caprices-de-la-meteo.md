@@ -1,5 +1,5 @@
 ---
-title: "Caprices de la météo"
+title: "Le vent"
 date: 2019-11-16T13:24:52+01:00
 draft: false
 description: "Force des éléments naturels"
@@ -9,7 +9,6 @@ tags: ["Flore","Histoire","Arbre"]
 
 ## Les aléas climatiques
 
-{{<figure src="/images/articles/arbre-foudroye-parcelle-165-juin-1999.jpg" title="Arbre foudroyé en juin 1999">}}
 
 Les oies qui remontent début février, annoncent toujours à grand coup d’ailes un changement de saison.
 
@@ -32,75 +31,9 @@ bien tardives : les gelées de printemps brûlant régulièrement les fonds fra
 par contre favoriser l’invasion des chenilles ou de quelques hôtes indésirables (des centaines de kilos de 
 hannetons sont ramassés en mai 1890).
 
-
-## Le froid
-
-L’hiver 1878/1879, neige et verglas occasionnent de gros dégâts sur les cimes des pins sylvestres.
-*« Durant un an, les cessionnaires fabriqueront ces têtes dans les parcelles 258 et 260 »* nous fait savoir le 
-préposé Eugène Crossonneau.
-
-{{<figure src="/images/articles/berce-sous-givre-dec-2004.jpg" title="Bercé sous le givre">}}
-
-Durant l’hiver 1879/1880 on recensera 78 jours de gel et des températures de -25°.
-
-> « Les pins maritimes de cette époque ayant tous été détruits au cours de l'hiver 1879/1880 n'ont pas 
-laissé subsister de traces jusqu'à nous, mais il est certain, à la lecture des aménagements, que la plupart 
-des semis de pin maritime avaient réussi. »
->
-> -- R. Viney
-
-La grêle accompagne aussi parfois le tonnerre, compromettant la venue des fleurs ou fruits.
-Certains hivers les chutes de neiges sont très importantes ; le 16 janvier 1926, la neige empêche les 
-auxiliaires de travailler. Le martelage aux Hospices du Mans le 23 mars est aussi perturbé.
-Toute cette neige accumulée induira des chablis en avril 1926. 
-En 1929, début janvier, la neige est épaisse. Des tempêtes d’une rare violence rendront la circulation sur Bercé
-extrêmement difficile jusqu’au 14 février. 
-En février 1942, c’est neige et verglas.
-
-> «Il y a des dégâts dans les pins maritimes et du bois tombé.»
-
-Le 24 février le docteur BAROT bute avec sa voiture sur un pin tombé sur la route : il est blessé. 
-Neige aussi en 1945 tout le mois de janvier, et verglas par la suite. 
-Le 1er mars 1946 il y a tellement de neige (tempête) qu’il est impossible de se déplacer. 
-En février 1954 le bois craque et se fend par le gel. Les températures atteignent moins 20°C.
-
-### Dégâts collatéraux :
-
-**13 février 1956** : Louis GOENVEC devant effectuer une battue aux lapins, doit abandonner son Solex 
-à la Croix-Chambault, étant bloqué par la neige. Retour à pied par Jupilles.
-
-**23 février 1956** : *« De retour de la maison forestière des Étangs, la roue libre du Solex s’est cassée 
-sous l’effet dévastateur du gel.»*
-
-**25 février 1963** : sur l’article 39, un éhouppeur a brisé sa hache sur le bois gelé. 
-
-Avec le goudronnage des routes, le manège des barrières de dégel commence.
-Elles sont souvent déplacées et c’est souvent, en réaction que le service forestier y abat carrément 
-un arbre en travers. 
-
-12 au 18 février 1978, vingt centimètres de neige marqueront le sol, occasionnant par la suite inondations et 
-chablis.
-
-23 mars 1978 : grêle, neige et à nouveau le 11 avril.
-
-> « brouillards de mars… frimes de mai »
-
-En janvier et février 1985 la température descend en dessous de -20°.
-Les arbres claquent comme des coups de fusil. 
-En 1986, le 23 février, 30 cm de neige bloquent toute vie en forêt. 
-
-**Phénomène rare** : la pluie verglaçante du 13 janvier 1997, un épisode rare mais intense !
-
-Les hivers 2010 et 2011 nous amèneront de la neige à foison.
-
-Sur les chênes, **la gélivure**, tare quasiment héréditaire, affecte bien souvent le chêne tendre de Bercé
-sur les trois premiers mètres. Sous l’action du gel, le bois éclate à cœur.
-Une détonation semblable à celle d’un coup de fusil se fait alors entendre.
-L’arbre fabrique par la suite, le long de son écorce, un bourrelet cicatriciel pour refermer tant bien
-que mal cette plaie béante.
-
-
 ## Le vent
+
+{{<figure src="/images/articles/arbre-foudroye-parcelle-165-juin-1999.jpg" title="Arbre vrillé par une tornade en juin 1999">}}
 
 Le plus grand fléau de la forêt, est avec le feu, la conjugaison du vent et de la pluie. 
 Une forte rafale de vent sur un sol détrempé et c’est la catastrophe assurée. Sur Bercé, au fil du temps, 
@@ -188,114 +121,6 @@ se trouvait à chaque fois sur les franges de ces deux monstres.
 Fort heureusement les dégâts restent faibles par rapport à 1999: 1000 m3 environ.
 
 
-## La pluie
-
-> «Si d’Lucé, t’entends Pruillé, ça va mouiller !»
-
-17 et 24 juin 1727 des orages de pluie et de grêle dévastent les cultures de blé et de chanvre sur 
-Saint-Vincent et Saint-Pierre.
-
-29 mai 1928 : Deux siècles plus tard :
-
-    L’après midi vers 7h 45, un orage d’une rare violence s’est abattu sur
-    la forêt de Bercé. La pluie tombant à verse pendant 1h 45 a profondément
-    raviné les routes forestières.
-    Les routes de l’Hermitière, de la vallée des Pierres,
-    sont les plus endommagées.
-    Le pont de la route basse de l’Hermitière a été partiellement emporté.
-    Les fossés bordiers de la route haute sont creusés par place jusqu’à 1,50 m de profondeur.
-    Les berges et les accotements sont profondément ravinés.
-    Cinquante à soixante mètres cubes de graviers de pierres et de détritus
-    de toutes sortes se sont accumulés sur le terre-plein de l’Hermitière. 
-    Les ponceaux, construits par BIGNON pour l’exploitation de son commerce
-    ont été emportés par les eaux.
-
-4 janvier 1988 à l’Hermitière deux ponts sur trois sont emportés, puis les sources retrouvent leur niveau. 
-Les hauteurs maximales seront enregistrées durant l’hiver 2000/2001, avec des cotes d’alerte partout.
-À l’Hermitière tous les ponts sauteront, l’eau arrivera à détruire l’emplacement des sources dépassant 
-le muret du puits.
-Les courts-si-il-pleut débordent et des sources jailliront en des endroits ou on ne les avait jamais vues.
-Les fontaines froides de Sermaize quant à elles, n’arrivent plus à entonner.
-
-
-## La sècheresse
-
-Est aussi omniprésente et succède aux périodes humides, comme une déferlante, suivant le cycle solaire.
-Elle est avec les orages une des causes principales des incendies.
-En septembre 1911, puis en août 1921 et 1928 l’état de sécheresse persistant met à mal l’agriculture.
-Des autorisations d’extraire les herbes, fougères, bruyères, mousses, de mener les bestiaux au parcours 
-en forêt sont données répondant ainsi à la détresse des éleveurs. 
-
-Sécheresse aussi en 1953 telle que le point d’eau de Sermaize est presque tari.
-En 1959, et de 1973 à 1983 : état de sécheresse relative. 
-
-Faible hygrométrie en 1995 et 1996. 1990, 1994, 1997 et 2013 sont les 4 années les plus chaudes depuis 100 ans.
-2011 cumule un déficit annuel des précipitations de 225 mm sur une moyenne espérée de 813 mm.
-2014, courbe des moyennes des températures en hausse.
-
-
-## Le tonnerre
-
-> «Les fourmis sont d’sortie, l’orage aussi.»
-
-La parcelle du chêne Boppe raconte, mémoires recueillies par R.Viney :
-    
-    « Le feu céleste a été envoyé le 18 décembre 1934 sous forme d'orage
-    pour tuer le chêne Boppe.
-    Vers 15 heures, un coup de tonnerre formidable déchirait l'air et 
-    18 éclairs descendaient du ciel : 
-    trois frappèrent le chêne Boppe et me secouèrent, quinze autres 
-    foudroyèrent ensemble 15 chênes d'une de mes voisines.»
-   
-*«Tous ces débris de bois déchiquetés à terre, on aurait dit de la neige»,* confiera l’agent du triage.
-
-En 1939 quelques orages éclatent, plusieurs chênes sont frappés par la foudre dans le canton du Sault Moulin,
-ainsi que, fait assez rare, un hêtre du canton des Forges.
-Réapparition cette même année et en 1943 du Dyorictria Splendinella (ponte de papillons donnant lieu à des
-déformations du tronc sur les pins sylvestres).
-
-{{<figure src="/images/articles/arbre-foudroye-mars-2014.jpg" title="Arbre foudroyé">}}
-
-La foudre cause un incendie dans la Tasse le 2 juillet 1943 (parcelle 25).
-Dans les années 80, un paratonnerre est monté à la MF de la Huberdière suite au coup de foudre qui traversa 
-de part en part l’imposte de la porte du bureau.
-Le temps doux et humide est propice aux invasions d’insectes et de champignons lignivores tel le Bostryche qui 
-se développe par le système racinaire  du pin maritime. 
-
-La Huberdière est l’endroit de la forêt où l’on rencontre le plus de hautes fourmilières, dont acte ! 
-
-> Serait-ce un endroit propice à l’émergence de nœuds telluriques terrestres tels ceux du fameux réseau
-> de Hartmann ?
-
-
-## Le feu - Les incendies
-
-Note de Mr le Conservateur à Mr l’Inspecteur des Eaux et Forêts au Mans.
-
-    Félicitations 
-    
-    Des renseignements que vous m’avez adressés relativement à l’incendie
-    qui a éclaté durant la nuit du 2 au 3 août dans la forêt domaniale
-    de Bercé, canton des profonds Vaux, il résulte que le garde Barbé
-    s’est employé à combattre cet incendie avec beaucoup d’énergie et de
-    dévouement.
-    Je vous prie de transmettre à ce préposé mes vives félicitations. 
-    
-    Alençon le 13 août 1906
-    Signé : Bartet
-
-### L'incendie de 1949
-
-Bernard Masseau fut embauché comme bûcheron chez Ledru, son beau-père en août 1949 (le chantier se trouvait 
-sur c’te Ménouère de Vaas). Il se souvient de ce fameux été, il faisait très chaud, trop chaud, 
-le feu avançait tellement vite qu’ils ont dû partir.
-Cette année, c’est près de 500 hectares qui partiront en fumée. L’actualité Sarthoise du 1er août 1949 en a 
-fait sa "une".
-
-Après le terrible incendie de 1949, on afficha partout des tracts pour ne pas jeter cigarette et allumettes.
-Le feu est l’ennemi de la forêt et rare sont sur Bercé les feux d’ origine naturelle, telle la foudre.
-Après guerre, des entreprises de déminage fonctionnèrent en forêt dans l’endroit appelé aujourd’hui Bikini.
-Ce canton fut sans arrêt dévasté par des mises à feu d’obus incontrôlées. 
 
 #### Bibliographie : 
 
