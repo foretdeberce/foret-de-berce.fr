@@ -36,44 +36,7 @@ Pipistrelle commune – Pipistrelle de Kuhl – Sérotine commune – Oreillard 
 Murin d’Alcathoé – Barbastelle – Noctule commune.
 
   
-
-## Le pique-prune
-
-A Bercé, le plus connu des coléoptères, un des plus gros, mais aussi le plus discret est le :
-
-{{<figure src="/images/articles/pic-prune.jpg" title="Le pic prune qui stoppa vaillamment l'autoroute A28">}}
-
-Lors de la construction de la section Le Mans-Tours sud de l’A-28, on a découvert une espèce rare de
-scarabée, appelée le scarabée "pique-prune", vivant dans le terreau des souches des chênes présents
-auprès de la forêt de Bercé. « Six fûts d'arbres dont les cavités contenaient des indices de présence
-de pique-prunes étaient situés sur le tracé de la future autoroute Rouen-Alençon. Or ce scarabée est
-inscrit dans la Convention internationale de Berne de 1982. »
-
-Finalement, après des mesures drastiques de préservation de cette espèce  et au vu des conclusions
-d'un rapport élaboré par Patrick Blandin, professeur au Muséum national d'histoire naturelle,
-qui préconisait le déplacement des souches du même côté, par exemple et la préservation des autres
-espèces par la créations de "crapauducs", de passages à gibiers, etc., l'autoroute a été, malgré
-l'opposition des écologistes, construite et ouverte à la circulation fin 2005 par Cofiroute,
-le concessionnaire de cette portion de l'A28. Il aura fallu un temps d'étude de 8 ans.
-Conclusions de cette enquête: « l'impact de l'A28 sur l'habitat du pique-prune est marginal ».
-
-Trop d’enjeux économiques étaient sur la table à cet instant, et la petite bête ne pouvait impunément
-stopper les gros scrapers et la logique commerciale des autoroutiers. La présence d'Osmoderma Éremita
-est tout de même le signe de la préservation en Sarthe, au côté des forêts, d'un milieu rural de qualité.
-L'espèce est un chaînon essentiel dans le fonctionnement écologique des milieux forestiers et représente
-un bio-indicateur fiable de la qualité de ceux-ci.
-
-Le maintien de cette biodiversité, malmenée par le morcellement des territoires, ne peut être garanti
-que par la protection des sites scientifiquement reconnus. C'est la notion même de patrimoine naturel
-qui est aujourd’hui en cause. En forêt domaniale, le maintien des vieux peuplements, contribue à sa
-façon à la survie des espèces.
-
-Dans le cas ci dessous l'abattage d’un géant mort ou sénescent n’est justifié que par le risque
-sécuritaire qu’il représente dans un peuplement hors d’âge totalement ouvert au public.
-
-
-  
-## Un autre pic, le pic noir
+## le pic noir
 
 Inféodé à la haute futaie sur Bercé depuis peu : le pic noir aime à nous rappeler sa présence de temps à
 autre par son cri ou son vol si caractéristique.
