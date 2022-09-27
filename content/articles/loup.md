@@ -30,8 +30,6 @@ monde chrétien diabolise le loup : il appartient à un
 monde sauvage, inaccessible et incontrôlé qui agresse 
 des humains, d'où la lutte pour en éloigner le danger. 
  
-{{<figure src="/images/articles/profonds-vaux.jpg" title="Forestiers de La Tasse">}} 
- 
 Au IXe siècle, Charlemagne créée les louvetiers, 
 qui traquent loups, louves et louveteaux.
 Les louvetiers font obtenir des primes aux gens 
