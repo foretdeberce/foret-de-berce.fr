@@ -1,6 +1,6 @@
 ---
 title: "Fagots et bourrées"
-date: 2022-09-20T17:23:44+01:00
+date: 2022-09-27T17:23:44+01:00
 draft: false
 description: "Petites mains forestières"
 featured_image: "/images/et.fagots.jpg"
