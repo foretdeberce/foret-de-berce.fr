@@ -4,7 +4,7 @@ date: 2019-11-10T00:16:41+01:00
 draft: false
 description: "Plus haut que la tour Eiffel"
 featured_image: "/images/antenne-mayet.jpg"
-tags: ["Remarquables"]
+tags: ["Remarquables","Curiosités","Monument"]
 ---
 
 ## Un monument de Bercé ... Le pylône de Mayet
