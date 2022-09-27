@@ -23,6 +23,8 @@ Les auteurs gréco-latins ne signalent pas d'attaque du
 loup sur l'homme, ou s'il y en a une, elle est décrite
 comme anormale.
 
+{{<figure src="/images/articles/archives.jpg" title="L'imagerie populaire">}} 
+
 Durant le Haut Moyen Âge, le passage du monde païen au
 monde chrétien diabolise le loup : il appartient à un
 monde sauvage, inaccessible et incontrôlé qui agresse 
@@ -42,7 +44,7 @@ et le port d'armes à feu.
 Napoléon permet l'organisation d'une lutte exterminatrice. 
 Au début du 18e siècle, le loup était partout.
 
-{{<figure src="/images/articles/profonds-vaux.jpg" title="Forestiers de La Tasse">}}
+{{<figure src="/images/articles/carte1783.jpg" title="Le loup à Bercé">}}
 
 CE QUE RACONTENT LES REGISTRES PAROISSIAUX ET COMMUNAUX
  
@@ -56,6 +58,8 @@ Marie BOULLAY sa belle mère et Marin DRUGEON son cousin et
 ont les présents signé : 
 			DORISSE curé de céans			 R. GROISIL, 
 				     R. LEVILLAIN				 R.  PAVY
+	
+{{<figure src="/images/articles/loupmarigne.jpg" title="Registre de Marigné">}} 	
     
     Primes de 1750 : 
     levée de 2000 livres sur tous les contribuables aux 
@@ -68,7 +72,7 @@ ont les présents signé :
     louveteau, l’animal pesant moins de 16 livres).
     1752 : levée de 4000 livres, dans le même but.
 
-{{<figure src="/images/articles/profonds-vaux.jpg" title="Forestiers de La Tasse">}}
+{{<figure src="/images/articles/le-loup.jpg" title="Marie Vérité 1753">}}
 
 *Thoiré sur Dinan,le 29 mai 1753 Le corps de Marie VERITE âgée de 8 ans, décédée d'hier a été inhumé en
 le petit cimetière de cette paroisse par moi prêtre vicaire d'icelle soussigné le 30 de mai 1753,
@@ -79,7 +83,8 @@ procession des Rogations le 29 de mai et secourue de ceux qui y assistaient et m
 Julien Maurice Leroux de Saint Laurent Requeil, le 30 septembre 1753 : sépulture d'enfant dévoré par une
 bête carnassière.*
 
-
+{{<figure src="/images/articles/marie-verite.jpg" title="Registre de Thoiré sur Dinan">}} 
+	
 ## L'extermination des loups
 
 On pense qu’elle provient de la révolution sociale (conquête du droit de chasse pour les manants) et
@@ -231,6 +236,8 @@ national.
 Nommés par le préfet, ils sont chargés d’organiser la destruction des bêtes fauves ou nuisibles en dehors
 des périodes de chasse autorisées.
 
+{{<figure src="/images/articles/louveterie1814.jpg" title="Lieutenant de louveterie en 1814">}} 
+	
 Sur Bercé se succèderont ainsi : Mr. Dutrochet (1869) puis Mr. Derre (1882) Mr. Dinaux des Arsis,
 Mr le Comte d’Argence (1894), Mr le Marquis de Vance (1897), Mr Pierre Guillais (propriétaire 15 rue de
 Bouère à Sablé sur Sarthe - 1903), Mr de la Blanchere (1910), Mr Jean de Champchevrier, Indre et Loire,
