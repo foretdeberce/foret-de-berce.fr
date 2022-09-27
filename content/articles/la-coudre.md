@@ -227,7 +227,8 @@ Descriptif de la Ferme et Emplacement des terres :
 {{<figure src="/images/articles/la-maison-neuve.jpg" title="Acquisition des terres de la Maison Neuve">}}
 
 Note de l’inspecteur cherchant à savoir la quantité récoltable de pommes 
-et le cours actuel : Réponse d’Albrecht : *« 350 kg. de pommes à cidre de 90 f à 100 f et 150 kg. de poires à 60/70 f les 1000 kg. »*
+et le cours actuel : Réponse d’Albrecht : *« 350 kg. de pommes à cidre 
+de 90 f à 100 f et 150 kg. de poires à 60/70 f les 1000 kg. »*
 
 Parcelle 195 : Taillis médiocre : châtaignier 5/10e – chêne 3/10e – 
     hêtre et divers 2/10e (exploité en 1932 et 1933).
@@ -335,5 +336,4 @@ adresse un chèque de 1.000 f afin que l’ONF procède au nettoyage de celle-ci
 
 2010, année internationale de la biodiversité : 
 curage complet des bassins et remise en eau fin octobre.
-{{<figure src="/images/articles/lieu-dit-chene-boppe.jpg" title="Sortie au Chêne Boppe">}}
-{{<figure src="/images/articles/lieu-dit-chene-boppe.jpg" title="Sortie au Chêne Boppe">}}
+
