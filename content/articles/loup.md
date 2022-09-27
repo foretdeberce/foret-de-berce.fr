@@ -186,6 +186,8 @@ empoisonnement (noix vomique : *«La noix vomique contient
 plusieurs alcaloïdes dont le principal est la strychnine »*).
 En Sarthe, le loup est commun partout jusqu'au début du XIX e siècle.
 Il disparaît ensuite progressivement de la région du Mans et du sud sarthois.
+	
+{{<figure src="/images/articles/piege.jpg" title="Un piège à loup">}} 	
 
  ## Mayet 1826
 En juin 1826, une louve qui rôdait autour des jardins du bourg de Mayet, enlève par ses jupons un enfant tout jeune, qu’elle emporte et dépose, à peu de distance, au milieu de plusieurs louveteaux à la pâture desquels elle le destine probablement.
