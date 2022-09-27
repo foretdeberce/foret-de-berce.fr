@@ -4,7 +4,7 @@ date: 2019-11-16T13:15:08+01:00
 draft: false
 description: "Choc de titans"
 featured_image: '/images/cerf.jpg'
-tags: ["Faune","Biodiversité"]
+tags: ["Faune","Biodiversité","chasse"]
 ---
 
 ## Choc de titans chronique d’une mort annoncée
@@ -70,13 +70,11 @@ ont une distance de sécurité) et savent très bien que je ne leur désire aucu
 à chaque fois ils s’éloignent tranquillement sans presser le pas. Pourtant ils ont peur de l’humain, mais
 nous nous connaissons »*.
  
-
 ## Le brame tourne au drame
   # Les protagonistes :
  
  {{<figure src="/images/articles/mathieu2.jpg" title="Le cerf Mathieu">}}
  
-**Mathieu** : 
  *« J’ai connu Mathieu en 1992, c’était début juillet, il était en train de frayer : il frottait
 ses bois aux branches pour en enlever le velours. C’était un cerf énorme et charpenté avec des bois
 magnifiques (18 cors) et pendant 3 ans j’ai retrouvé ses mues. Je l’ai photographié de 1993 à 1996 sur la place
