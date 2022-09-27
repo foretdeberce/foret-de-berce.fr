@@ -2,8 +2,8 @@
 title: "Pêche"
 date: 2019-11-16T13:17:03+01:00
 draft: false
-description: "1897 à 1938"
-featured_image: '/images/chasse-a-courre.jpg'
+description: " de 1897 à 1938"
+featured_image: '/images/et-filet.jpg'
 tags: ["Faune","Peche","Chasse","Garderie"]
 ---
 
@@ -118,7 +118,7 @@ au moulin de Bénéhard, de ne tendre aucun engin de pêche,
 ou faute de quoi, il leur serait dressé Procès-verbal à la
 1ère contravention.
 
-{{<figure src="/images/articles/profonds-vaux.jpg" title="Forestiers de La Tasse">}}
+{{<figure src="/images/articles/barrage.jpg" title="Surveillance d'un barrage">}}
  
 Juillet 1902 : il n’y a plus d'écrevisses dans le ruisseau de Vaux
 	depuis plusieurs années. (garde  Albrecht)
@@ -126,7 +126,7 @@ Juillet 1902 : il n’y a plus d'écrevisses dans le ruisseau de Vaux
 	l'écrevisse à pattes blanches n'arrive
 	pas à grossir et à fabriquer de la carapace .
  
- {{<figure src="/images/articles/profonds-vaux.jpg" title="Forestiers de La Tasse">}}
+ {{<figure src="/images/articles/2ecrevisse.jpg" title="l'écrevisse à pattes blanches">}}
 
 
 En 1903, il est déjà question de pollution industrielle (29 Sept 1903).
@@ -138,9 +138,9 @@ Instruction pour le prélèvement d'eau polluée par une usine,
 
 Les tournées se succèdent : En 1906, le 23 mai le garde Heintz note sur son livret journalier :
 
-{{<figure src="/images/articles/profonds-vaux.jpg" title="Forestiers de La Tasse">}}
+{{<figure src="/images/articles/peche.jpg" title="livret journalier du garde Heintz">}}
  
-4 Sept 1910 : 	Pêche avec carrelet non réglementaire sur la Veuve ( 18 mm de mailles),
+4 Sept 1910 : Pêche avec carrelet non réglementaire sur la Veuve ( 18 mm de mailles),
 	Cosset louis Victor,  casseur de pierres, habitant Lhomme 
 	(pêchait sur la veuve de St. Pierre au Moulin St. Blaise).
 	
@@ -208,10 +208,11 @@ Frais occasionnés : 1 voiture et 1 repas : 12 F*
 	Fait et clos à St. Pierre du Lorouer le 26 Août 1907 ; Signé Albrecht
 	
 	
-{{<figure src="/images/articles/BALANCES.jpg" title="Forestiers de La Tasse">}}	
+{{<figure src="/images/articles/balances.jpg" title="Balances">}}	
 	
 
-Idem le 28 Août 1907 avec le Sieur Chennel Henri, cultivateur au Moulin de Vaux à Courdemanche.
+Idem le 28 Août 1907 avec le Sieur Chennel Henri, cultivateur 
+	au Moulin de Vaux à Courdemanche.
 	
 4 Sept 1910 : PV pour Pêche avec carrelet non réglementaire sur la Veuve 
 	( 18 mm de mailles), à l’encontre de Cosset louis Victor, 
@@ -245,7 +246,7 @@ En 1915 A l'étang de Gruau, une vente de poissons est organisée
 31 Déc. 1920  : Louis Pigault constate une fraye de truite commune dans le
 	ruisseau de Vaux (St. Pierre du Lorouer).
 	
-{{<figure src="/images/articles/TRUITE.jpg" title="Forestiers de La Tasse">}}		
+{{<figure src="/images/articles/taconettruitelle.jpg" title="Dessin à emporter en tournée">}}		
 
 ## Sècheresse de 1921
 	
@@ -307,6 +308,9 @@ Note de Potel : ( 11 oct. 1924)  Les Préposés, particulièrement ceux du
 2°/ Non autorisés :
 	- L'explosif, l'emploi de filets et engins à mailles ou à 
 	écartement de verges, inférieure à 27 mm.
+	
+{{<figure src="/images/articles/lignedefon.jpg" title="Ligne de fond">}}			
+	
         La répression du braconnage, s'effectuait  aussi de nuit à 
 	deux, mais à ma connaissance aucun PV ne relate une pêche de
 	nuit avec engin prohibé.
@@ -367,6 +371,8 @@ Note de Potel : ( 11 oct. 1924)  Les Préposés, particulièrement ceux du
 	avec engins prohibés . Signé Leclerc
 	*Leclerc constatera que des pêcheurs d'écrevisses sont 
 	repassés le 19 Août 1933.
+	
+{{<figure src="/images/articles/2ecrevisse.jpg" title="Écrevisse à patte blanche">}}		
 	
 ## Epilogue  de ce PV  du 13 Août 1933
 A propos des délinquants du 13 Août 1933, Mr. Bouttier Georges cultivateur 
