@@ -1,8 +1,8 @@
 ---
-title: "Faune"
+title: "cerf"
 date: 2019-11-16T13:15:08+01:00
 draft: false
-description: "Sa majesté le Cerf"
+description: "Choc de titans"
 featured_image: '/images/cerf.jpg'
 tags: ["Faune","Biodiversité"]
 ---
@@ -73,6 +73,9 @@ nous nous connaissons »*.
 
 ## Le brame tourne au drame
   # Les protagonistes :
+ 
+ {{<figure src="/images/articles/mathieu2.jpg" title="Le cerf Mathieu">}}
+ 
 **Mathieu** : 
  *« J’ai connu Mathieu en 1992, c’était début juillet, il était en train de frayer : il frottait
 ses bois aux branches pour en enlever le velours. C’était un cerf énorme et charpenté avec des bois
