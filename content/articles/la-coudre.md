@@ -15,7 +15,7 @@ La Coudre fait partie du triptyque conventionnel de Bercé
 à savoir les 3 parcelles touristiques :
 La Coudre, l’Hermitière, le Chêne Boppe.
 
-{{<figure src="/images/articles/fontainecoudre.jpg" title="Le lavoir de la Coudre">}}
+{{<figure src="/images/articles/fontainecoudre .jpg" title="Le lavoir de la Coudre">}}
 
 L’essor du tourisme sur Bercé fin du 19ème Siècle et début du 20ème,
 nous fait commencer l’histoire de la Coudre en 1905, bien que figurant 
