@@ -9,68 +9,75 @@ tags: ["Faune","Histoire"]
 
 ## Le loup ... une bête mystérieuse qui terrorise la contrée 
  
-Les relations Homme-Loup datent de la préhistoire : une peinture rupestre représente un loup sur les parois
+Les relations Homme-Loup datent de la préhistoire : 
+une peinture rupestre représente un loup sur les parois
 de la grotte de Font-de-Gaume en Dordogne.
 
-La période romaine véhicule des idées positives sur le loup, qui participe à la légende de la fondation de Rome,
-par une louve allaitant Romulus et Remus. Par la suite, le loup sera associé à la fécondité, mais aussi à Mars, dieu de la guerre et à Apollon,
-dieu de la lumière.
+La période romaine véhicule des idées positives sur le loup,
+qui participe à la légende de la fondation de Rome,
+par une louve allaitant Romulus et Remus. Par la suite,
+le loup sera associé à la fécondité, mais aussi à Mars, 
+dieu de la guerre et à Apollon, dieu de la lumière.
 
-Les auteurs gréco-latins ne signalent pas d'attaque du loup sur l'homme, ou s'il y en a une, elle est décrite
+Les auteurs gréco-latins ne signalent pas d'attaque du 
+loup sur l'homme, ou s'il y en a une, elle est décrite
 comme anormale.
 
-Durant le Haut Moyen Âge, le passage du monde païen au monde chrétien diabolise le loup : il appartient à un
-monde sauvage, inaccessible et incontrôlé qui agresse des humains, d'où la lutte pour en éloigner le danger. 
+Durant le Haut Moyen Âge, le passage du monde païen au
+monde chrétien diabolise le loup : il appartient à un
+monde sauvage, inaccessible et incontrôlé qui agresse 
+des humains, d'où la lutte pour en éloigner le danger. 
  
-Au IXe siècle, Charlemagne créée les louvetiers, qui traquent loups, louves et louveteaux.
-Les louvetiers font obtenir des primes aux gens qui les aident à chasser, d'où une régression du loup
+{{<figure src="/images/articles/profonds-vaux.jpg" title="Forestiers de La Tasse">}} 
+ 
+Au IXe siècle, Charlemagne créée les louvetiers, 
+qui traquent loups, louves et louveteaux.
+Les louvetiers font obtenir des primes aux gens 
+qui les aident à chasser, d'où une régression du loup
 jusqu’à la fin du Moyen Âge. 
 
 Au 18e siècle, la lutte contre le loup s'accélère.
-La Révolution accorde le droit de chasse aux populations et le port d'armes à feu.
-Napoléon permet l'organisation d'une lutte exterminatrice. Au début du 18e siècle, le loup était partout.
-Fin 19e, il reste trois grands îlots de présence :  Est, Massif Central et Poitou.
+La Révolution accorde le droit de chasse aux populations 
+et le port d'armes à feu.
+Napoléon permet l'organisation d'une lutte exterminatrice. 
+Au début du 18e siècle, le loup était partout.
+
+{{<figure src="/images/articles/profonds-vaux.jpg" title="Forestiers de La Tasse">}}
+
+CE QUE RACONTENT LES REGISTRES PAROISSIAUX ET COMMUNAUX
  
-St Jean du Bois, le 20 juillet 1744 a été inhumé dans le cimetière de cette lise le corps de Jacques Chevallier
-décédé d'hier aux Vallées âgé de 3 ans ou environ, en présence de René CHEVALLIER son père et plusieurs autres
-ses amis qui ont déclaré ne savoir signé enquis.
-
-    Ce pauvre enfant a été pris par un loup à 10 pieds de la principale
-    entrée de sa maison et dévoré dans le taillis de la cure proche
-    la vigne.
-    J’ai eu le chagrin de le voir en cet état et encore en vie.
+## Marigné : Bête dévorante
+Le 23e jour de mai 1690 est décédée et a été  dévorée par 
+cette maudite bête qui fait tant de ravages Jeanne PELOYS, 
+fille de défunt Jean PELOYS, âgée d’environ 15 ans et le 
+lendemain 24e du dit mois, son corps a été enterré par moi
+curé, au petit cimetière, présents Marie PELOYS sa sœur et 
+Marie BOULLAY sa belle mère et Marin DRUGEON son cousin et 
+ont les présents signé : 
+			DORISSE curé de céans			 R. GROISIL, 
+				     R. LEVILLAIN				 R.  PAVY
     
-    M.DUFAY, curé de St-Jean du Bois.
+    Primes de 1750 : 
+    levée de 2000 livres sur tous les contribuables aux 
+    Tailles de la généralité de Tours (impôt royal sur 
+    les ressources des roturiers) pour gratifications 
+    aux destructeurs de loups à raison de :
+    20 livres pour une louve ;
+    10 livres pour un loup ;
+    3 livres pour un louveteau (était considéré 
+    louveteau, l’animal pesant moins de 16 livres).
+    1752 : levée de 4000 livres, dans le même but.
 
-St Ouen en Belin, le 2 mai 1753 a été, par moi curé soussigné, inhumé dans le grand cimetière de ce lieu le
-corps de Madeleine Fronteau âgée d'environ 11 ans qui a été dévorée hier sur les 10 heures du matin par
-une bête d'une forme inconnue et ce, en présence de Louis Fronteau son père, d'Anne Fronteau sa sœur et
-de Jean Fronteau son cousin gerrmain qui ne savent point tous signer, enquis, V. Leroy curé.
-Le garde du marquis de Mailly reçoit du prieur de Château l’Hermitage des balles bénites par lui pour tuer
-l’animal. Le loup en agonisant poussa des cris si épouvantables, que son meurtrier en mourut de frayeur.
+{{<figure src="/images/articles/profonds-vaux.jpg" title="Forestiers de La Tasse">}}
 
-Thoiré sur Dina,le 29 mai 1753 Le corps de Marie VERITE âgée de 8 ans, décédée d'hier a été inhumé en
+*Thoiré sur Dinan,le 29 mai 1753 Le corps de Marie VERITE âgée de 8 ans, décédée d'hier a été inhumé en
 le petit cimetière de cette paroisse par moi prêtre vicaire d'icelle soussigné le 30 de mai 1753,
-J.H. Lepingleux. Attaquée du loup carnassier ou cervier à 8 heures et demie du matin à la tête de la
+J.H. Lepingleux.* 
+ 
+*Attaquée du loup carnassier ou cervier à 8 heures et demie du matin à la tête de la
 procession des Rogations le 29 de mai et secourue de ceux qui y assistaient et mourut à 2 heures après midi.
 Julien Maurice Leroux de Saint Laurent Requeil, le 30 septembre 1753 : sépulture d'enfant dévoré par une
-bête carnassière.
-    
-    Le 30 de septembre 1753 par nous prêtre curé de cette paroisse
-    soussigné a été inhumé dans le cimetière de céans le corps de
-    Jean Robert, âgé de 9 ans dévoré par une bête carnassière.
-    
-    Présents à la sépulture Jean Robert son père et Jean Hérisson
-    son beau frère de cette paroisse, lesquels ont déclaré
-    ne signer enquis.
-    
-    Froger.
-
-Vers 1756/1757, Marin Rottier chassa le loup en Belinois.
-
-En Juin 1826, une louve enlève sans succès à Mayet un jeune enfant pour le donner en pâture à ses louveteaux.
-Fort heureusement la mère et des voisins ont fait fuir la bête.
-Les louveteaux furent détruits mais on ne put atteindre la mère (Julien Rémy Pesche). 
+bête carnassière.*
 
 
 ## L'extermination des loups
@@ -79,91 +86,133 @@ On pense qu’elle provient de la révolution sociale (conquête du droit de cha
 technologique (amélioration des armes), du début du XIXe siècle alors que le loup avait sa place dans
 une société aristocratique qui le protégeait comme gibier avant que les paysans, devenus citoyens,
 l'éliminent comme prédateur.
-
-1750, levée de 2000 livres sur tous les contribuables aux Tailles de la généralité de Tours (impôt royal
-sur les ressources des roturiers) pour gratifications aux destructeurs de loups.
-A noter qu’était considéré louveteau, l'animal pesant moins de 16 livres.
-
-1752, levée de 4000 livres, dans le même but. 1er janvier 1761 - 31 décembre 1764 : 356 loups, louves et
-louveteaux détruits (2658 livres de primes).
-
-4 mars 1789, cahier de doléances de Marigné. **Art. 2**, que la proximité de la forêt de Bercé l'exposant aux
-ravages des grosses bêtes, on recommence à les y laisser trop multiplier. **Art. 3**, *« Qu'il paraîtrait dans
-l'ordre que Messieurs les Conservateurs qui ressentent seuls le commode de la chasse de ce gibier,
-s'occupassent plus souvent de celle des loups qui, depuis deux ou trois ans, font des torts considérables »*.  
  
-Nuit du 4 août 1789, assemblée constituante : abolition des privilèges dont celui de la chasse. **Art. 3**.
-Le droit exclusif de la chasse ou des garennes ouvertes est pareillement aboli, et tout propriétaire a le
-droit de détruire ou faire détruire, seulement sur ses possessions, toute espèce de gibier, sauf à se conformer
-aux lois de police qui pourront être faites relativement à la sûreté publique.
-Toutes les capitaineries même royales, et toutes réserves de chasse, sous quelque dénomination que ce soit,
-sont pareillement abolies et il sera pourvu, par des moyens compatibles avec le respect dû aux propriétés et
-à la liberté, à la conservation des plaisirs personnels du Roi. M. le Président est chargé de demander au Roi
-le rappel des galériens et des bannis pour simple fait de chasse, l'élargissement des prisonniers actuellement
-détenus, et l'abolition des procédures existantes à cet égard.
+   
+    Notons pour la petite histoire que 130 loups
+    et 200     louveteaux seront abattus en 
+    Sarthe entre 1750 et 1757.
+    - 1er janvier 1761 – 31 décembre 1764 : 
+    356 loups, louves et louveteaux détruits 
+    (2658 livres de primes).
+    - 14 mai 1765 : nouvelles primes :
+    20 livres par louve - 24 livres par 
+    louve pleine - 12 livres par loup - 
+    6 livres par louveteau.
+    - 9 décembre 1771 : Maintien des primes
+    habituelles, sauf celle pour le louveteau
+    qui s’élève à 10 livres.
+    - 13 février 1781 : Prime pour louveteau:
+    6 livres ; aucun changement pour les autres.
+ 
+4 mars 1789, cahier de doléances de Marigné.
+ **Art. 2**, que la proximité de la forêt de Bercé l'exposant aux
+ravages des grosses bêtes, on recommence à les y laisser trop multiplier.
+ **Art. 3**, *« Qu'il paraîtrait dans l'ordre que Messieurs les
+Conservateurs qui ressentent seuls le commode de la chasse de ce gibier,
+s'occupassent plus souvent de celle des loups qui, depuis deux ou trois ans,
+font des torts considérables »*.  
+ 
+ ## Nuit du 4 août 1789, assemblée constituante : 
+ abolition des privilèges dont celui de la chasse. 
+ **Art. 3**. Le droit exclusif de la chasse ou des
+ garennes ouvertes est pareillement aboli, et tout 
+ propriétaire a le droit de détruire ou faire 
+ détruire, seulement sur ses possessions, 
+ toute espèce de gibier, sauf à se conformeraux 
+ lois de police qui pourront être faites relativement
+ à la sûreté publique.
+ Toutes les capitaineries même royales, et toutes
+ réserves de chasse, sous quelque dénomination que
+ ce soit,sont pareillement abolies et il sera pourvu,
+ par des moyens compatibles avec le respect dû aux
+ propriétés et à la liberté, à la conservation des
+ plaisirs personnels du Roi. M. le Président est
+ chargé de demander au Roi le rappel des galériens 
+ et des bannis pour simple fait de chasse, 
+ l'élargissement des prisonniers actuellement
+ détenus, et l'abolition des procédures existantes
+ à cet égard.
 
-15 septembre 1790, Saint-Pierre du Lorouër :  **Art. 3** : Le voisinage de la forêt et des bêtes fauves qui
-l'habitent, nuit beaucoup aux paroisses voisines : ce qui les met dans l'état de réclamer des diminutions sur
-les impositions à proportion des pertes.
+## 15 septembre 1790,
+ Saint-Pierre du Lorouër : 
+ **Art. 3** : Le voisinage de la forêt et des bêtes 
+ fauves qui l'habitent, nuit beaucoup aux paroisses voisines :
+ ce qui les met dans l'état de réclamer des diminutions sur
+ les impositions à proportion des pertes.
 
-25 septembre 1790, Marigné : Jean Jouffroy de Marigné reçoit 25 livres (33 jours 1/3 de travail) pour la
-destruction d'une louve par lui tuée le jour d'hier, en la forêt de Bercé, au canton de Profondevaux :
+25 septembre 1790, Marigné : Jean Jouffroy de Marigné 
+reçoit 25 livres (33 jours 1/3 de travail) pour la
+destruction d'une louve par lui tuée le jour d'hier, 
+en la forêt de Bercé, au canton de Profondevaux :
 laquelle représentée, l'oreille droite lui a été coupée.
 
-6 octobre 1790 à Pruillé l'Éguillé : François Gagnon, bûcheur de Pruillé l'Éguillé, présente un jeune loup
-de 6 à 7 mois, tué le jour d'hier en la forêt de Bercé, au canton de La Croix de la Lune.
-Il en reçoit 3 livres (4 jours de travail), l'animal représenté, l'oreille droite lui fut coupée.
+6 octobre 1790 à Pruillé l'Éguillé : François Gagnon,
+bûcheur de Pruillé l'Éguillé, présente un jeune loup
+de 6 à 7 mois, tué le jour d'hier en la forêt de Bercé,
+au canton de La Croix de la Lune.
+Il en reçoit 3 livres (4 jours de travail), 
+l'animal représenté, l'oreille droite lui fut coupée.
 
-25 mai 1792, à Marigné : 8 louveteaux capturés par René Chevalier, bordager à Haute-Perche, Pierre Simon
-à la Guérinière et Jean Germain à Haute-Perche. Gratification de 40 livres.
+25 mai 1792, à Marigné : 8 louveteaux capturés par 
+René Chevalier, bordager à Haute-Perche, Pierre Simon
+à la Guérinière et Jean Germain à Haute-Perche. 
+Gratification de 40 livres.
 
-5 janvier 1794 à Saint Georges de la Couée : 16 nivôse an II, signaler les chiens enragés.
+6 octobre 1796 : battues avec participation des habitants
+des communes circonvoisines exécutées sous la
+direction de la force armée sous les ordres du
+général Quesnel en forêt de Bercé.
 
-19 avril 1794 à Saint Georges de la Couée : 30 germinal an II, tuer les chiens au-dessus d'un par famille.
+22 janvier 1797 : valeur métallique.
+L'assignat de 100 livres ne valait plus que 15 livres 2 sols.
 
-6 octobre 1796 : battues avec participation des habitants des communes circonvoisines exécutées sous la
-direction de la force armée sous les ordres du général Quesnel en forêt de Bercé.
+   1807 : Primes : 
+   18 francs pour une louve pleine - 
+   15 francs pour une louve non pleine -
+   12 francs pour un loup - 
+   6 francs pour un louveteau.
+   Le maire ne devait délivrer son certificat
+   qu'après avoir coupé les 2 oreilles et s'être assuré que
+   le corps avait été enterré. 
+   La destruction d’une louve pleine payait
+   la valeur de 100kg de froment.
 
-22 janvier 1797 : valeur métallique. L'assignat de 100 livres ne valait plus que 15 livres 2 sols.
-
-11 mai 1798 - 4 mai 1799 : destruction de 17 loups, 6 louves pleines, 18 louveteaux.
-
-23 septembre 1804 - 19 juin 1805 : destruction de  2 loups (bois de la Buzardière à Changé).
-2 loups et 7 louveteaux (environs de La Flèche).
-2 loups, 3 louves, 5 louveteaux (forêt de Montmirail).
-3 loups, 4 louves (bois de Vibraye et de Marchevert). 
-
-1807 : Le maire ne devait délivrer son certificat qu'après avoir coupé les 2 oreilles et s'être assuré que
-le corps avait été enterré. La destruction d’une louve pleine payait la valeur de 100kg de froment.
-
-1818 : Pièges et traquenards, chasses à courre ou à tir faites isolément ou en battue (en mars et en décembre),
-empoisonnement (noix vomique : *«La noix vomique contient plusieurs alcaloïdes dont le principal est la
-strychnine »*).
+1818 : Pièges et traquenards, chasses à courre ou à tir 
+faites isolément ou en battue (en mars et en décembre),
+empoisonnement (noix vomique : *«La noix vomique contient
+plusieurs alcaloïdes dont le principal est la strychnine »*).
 En Sarthe, le loup est commun partout jusqu'au début du XIX e siècle.
 Il disparaît ensuite progressivement de la région du Mans et du sud sarthois.
 
-    Un certain Chevreau s’en revenait d’un mariage sur Marigné avec
-    des galettes (le grand père est né en 1838 et il y a eu
-    des loups jusqu’en 1870 à Bercé).
-    
-    Entendant brousser derrière lui, il se réfugia dans un petit
-    hêtre et donna les galettes aux loups qui le suivaient,
-    jusqu’à la dernière.
-    
-    Puis, il joua du violon, faisant fuir ses assaillants.
-    
+ ## Mayet 1826
+En juin 1826, une louve qui rôdait autour des jardins du bourg de Mayet, enlève par ses jupons un enfant tout jeune, qu’elle emporte et dépose, à peu de distance, au milieu de plusieurs louveteaux à la pâture desquels elle le destine probablement.
+Poursuivie par la mère de cet enfant et par plusieurs personnes accourues à ses cris, la louve se sauve et permet de l’enlever de cette affreuse compagnie sans qu’il lui fût arrivé aucun mal.
+Les louveteaux furent détruits, mais on ne put atteindre la mère.(Julien Rémy Pesche)
+
+    Un certain Chevreau s’en revenait
+    d’un mariage sur Marigné avec des galettes.
+    (le grand père est né en 1838).
+    Entendant brousser derrière lui,
+    il se réfugia dans un petit
+    hêtre et donna les galettes aux 
+    loups qui le suivaient, jusqu’à la dernière.
+    Puis, il joua du violon, 
+    faisant fuir ses assaillants.    
     Témoignage d’Adrien et Claudette Borderon
 
-Le dernier loup sera tué en forêt de Bercé en 1870.
-
-Joël PICARD  a interrogé en 1992, madame Germaine DELHAYE, née en 1898, qui avait travaillé un certain temps
-en forêt de Bercé. D'après ses dires, *« on avait pendu les deux derniers loups de la région pendant la guerre
-de 1870, près de la Testerie, territoire de Jupilles et au même endroit, on avait enterré un Autrichien. »*
+## Dernier loup tué en forêt de Bercé : 1870. 
+« Joël Picard a interrogé en 1992, 
+madame Germaine DELHAYE, née en 1898,
+et qui avait travaillé un certain temps
+en forêt de Bercé. 
+D’après ses dires, on avait pendu les 
+deux derniers loups de la région pendant
+la guerre de 1870, près de la Testerie,
+territoire de Jupilles et, au même endroit, 
+on avait enterré un Autrichien. » 
 
 
 ### Primes
- 
-Notons pour la petite histoire que 130 loups et 200 louveteaux seront abattus en Sarthe entre 1750 et 1757. 
 
 Après 1870, il est encore présent sur la frange Nord-Ouest de la Sarthe (région de Sillé, Alpes Mancelles,
 massif de Perseigne). Le dernier loup abattu officiellement dans le département de la Sarthe (avec prime)
@@ -193,7 +242,7 @@ Jean Huger (exploitant à Chahaignes), Mr d’Andigné (château de Maigné), Mr
 St Germain de la coudre). Mr Foucher (1959-1963), Mr Jean Louis Coupe, Mr Claude Cureau (1982),
 Mr Roland Dupui (1998), Mr Marcel Tessé (1990-1998, qui se blessera mortellement avec son fusil prés de
 la forêt).  
-
+Fin 19e, il reste trois grands îlots de présence :  Est, Massif Central et Poitou.
 
 ### Bibliographie
 
