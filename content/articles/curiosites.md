@@ -1,8 +1,8 @@
 ---
-title: "Curiosités"
+title: "Pylône TDF"
 date: 2019-11-10T00:16:41+01:00
 draft: false
-description: "Plus haute que la tour Eiffel"
+description: "Plus haut que la tour Eiffel"
 featured_image: "/images/antenne-mayet.jpg"
 tags: ["Remarquables"]
 ---
