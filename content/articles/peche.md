@@ -333,7 +333,7 @@ Note de Potel : ( 11 oct. 1924)  Les Préposés, particulièrement ceux du
 	objet du ruisseau, qui nous a semblé de suite être une balance à 
 	écrevisses. Puis continuant de descendre le ruisseau, l'homme
 	renouvela  une dizaine de fois le même geste et chaque fois nous 
-	avons pu reconnaître l'objet, pour une balance, dont deux nous 
+	avons pu reconnaître l'objet, pour une balance, dont deux nous  
 	frappèrent par la couleur rouge de l'armature métallique.
 	Puis ils vinrent rejoindre d'autre personnes assises  ou couchées
 	sur le sol dans une boucle de la rivière. Près d'eux une automobile
