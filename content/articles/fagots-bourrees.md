@@ -1,10 +1,10 @@
 ---
-title: "Maison forestière de la Tasse"
+title: "Fagots et bourrées"
 date: 2022-09-20T17:23:44+01:00
 draft: false
-description: "Beaumont-Pied-de-Bœuf"
-featured_image: "/images/mf2009.jpg"
-tags: ["Forestiers","MF"]
+description: "Petites mains forestières"
+featured_image: "/images/et.fagots.jpg"
+tags: ["Forestiers","Journaliers","Bucherons"]
 ---
 
 Jadis, une tolérance féodale permettait au 
