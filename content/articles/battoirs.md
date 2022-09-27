@@ -1,6 +1,6 @@
 ---
 title: "Fabricant de battoirs"
-date: 2022-09-20T17:23:44+01:00
+date: 2022-09-27T19:23:44+01:00
 draft: false
 description: "Un métier disparu"
 featured_image: "/images/et.courdemanche.jpg"
