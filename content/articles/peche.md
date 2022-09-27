@@ -309,7 +309,7 @@ Note de Potel : ( 11 oct. 1924)  Les Préposés, particulièrement ceux du
 	- L'explosif, l'emploi de filets et engins à mailles ou à 
 	écartement de verges, inférieure à 27 mm.
 	
-{{<figure src="/images/articles/lignedefon.jpg" title="Ligne de fond">}}			
+{{<figure src="/images/articles/lignedefond.jpg" title="Ligne de fond">}}			
 	
         La répression du braconnage, s'effectuait  aussi de nuit à 
 	deux, mais à ma connaissance aucun PV ne relate une pêche de
@@ -372,7 +372,7 @@ Note de Potel : ( 11 oct. 1924)  Les Préposés, particulièrement ceux du
 	*Leclerc constatera que des pêcheurs d'écrevisses sont 
 	repassés le 19 Août 1933.
 	
-{{<figure src="/images/articles/2ecrevisse.jpg" title="Écrevisse à patte blanche">}}		
+{{<figure src="/images/articles/ecrevisse.jpg" title="Écrevisse à patte blanche">}}		
 	
 ## Epilogue  de ce PV  du 13 Août 1933
 A propos des délinquants du 13 Août 1933, Mr. Bouttier Georges cultivateur 
