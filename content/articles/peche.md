@@ -71,7 +71,7 @@ civile pour la dite surveillance, est entrée en pourparlers
 avec le Comité de Direction des Grands Réseaux de Chemins
 de Fer Français en vue de faire admettre que les préposés
 porteurs d'une carte de service donnant droit à la 
-demi-place soient autorisés à circuler dans les trains
+demi-place soient autorisés à circuler dans les trains 
 sans autres marques distinctives de leurs fonctions 
 que leur plaque, leur commission et une carte d’identité
 portant photo, revêtue du cachet rond de la conservation.*    
