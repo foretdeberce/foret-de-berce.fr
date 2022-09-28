@@ -33,10 +33,11 @@ oncle qui était sabotier, route du Mans et employait à cette époque 4 ouvrier
 {{<figure src="/images/articles/sabotier02.jpg" title="classement des rondins">}}
 
 
-C’était un dur métier. On le mit à creuser des sabots à la cuillère. 
+C’était un dur métier. 
+On le mit à creuser des sabots à la cuillère. 
 C’était le travail le plus difficile et le plus fatiguant. 
 Il creusait 3 paires de sabots par jour et pour ce faire, 
-il ne fallait pas avoir les deux pieds dans le même sabot !
+*il ne fallait pas avoir les deux pieds dans le même sabot !*
 Le soir l’épaule droite était bien douloureuse.
 
 
