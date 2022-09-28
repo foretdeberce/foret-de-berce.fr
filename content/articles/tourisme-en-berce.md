@@ -165,3 +165,9 @@ pré-comptables : 130 – 140 – 141 – 27.
 Confection de l'accès au Chemin de la Coudre (voir route) – délimitation du chemin des Salles Maison Neuve : Terrain labouré en 1937.
 *Le 31/08/42 Vu des opérateurs de Cinéma en train de filmer sur la croix Segrier.*
 
+  Aujourd'hui Bercé attire par sa renommée quantité de monde
+## Cette petite présentation vous donnera peut-être l'envie de la parcourir.
+  
+  {{<youtube id="O8nrNpmKvR8" autoplay="true">}}
+  
+  
