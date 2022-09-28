@@ -6,12 +6,16 @@ description: "Près de 200 noms oubliés"
 featured_image: "/images/et.toponymie.jpg"
 tags: ["cantons","parcelles","triages"]
 ---
+La toponymie, c'est au départ le bon sens populaire.
+Le nom d'un lieu est bien souvent le fait de l'observation, du nom des 
+personnes y ayant vécu ou d'une particularité physique ou géologique.
+Les tableaux qui suivent donnent des indications sur les lieux forestiers
+suivant la nomenclature indiquée dans la légende.
+D’autre part, Joël PICARD nous éclaire sur la signification de quelques toponymes 
+dans son mémoire : «C’TE FORÊT»
 
-Les tableaux à suivre donnent des indications sur les lieux forestiers
-suivant la nomenclature indiquée dans la légende. D’autre part, 
-Joël PICARD nous éclaire sur la signification des toponymes de « C’TE FORÊT »
-Un * : carte de 1673 - deux ** : carte de 1783 - O.E.F. : Officier des Eaux et Forêts 
-T.O. : Toponymie orale - p : numéro de la parcelle forestière concernée.
+{{<figure src="/images/articles/topo.jpg" title="Légende des tableaux">}}
+	
 
 {{<figure src="/images/articles/mayet.jpg" title="Carte des acquisitions">}}
 	
@@ -409,9 +413,10 @@ T.O. : Toponymie orale - p : numéro de la parcelle forestière concernée.
 		CHARME à MONSIEUR (Comte de Provence devenu LOUIS XVIII le Désiré)	223
 
 
-## BIBLIOGRAPHIE
-= La FORÊT de BERCÉ … ou « C’TE FORÊT »  par Joël PICARD  - 1994 - ; 
-= PLANS de la FORÊT 1673 / 1783 / 1843 et NOUVEAUX  AMÉNAGEMENTS ;
-= CARTULAIRE de CHÂTEAU-DU-LOIR – Archives  du  Maine.     
-= Bon sens populaire.
+### BIBLIOGRAPHIE
+    La FORÊT de BERCÉ … ou « C’TE FORÊT » Joël PICARD  - 1994. 
+    PLANS de la FORÊT 1673 / 1783 / 1843 et NOUVEAUX  AMÉNAGEMENTS.
+    CARTULAIRE de CHÂTEAU-DU-LOIR – Archives du  Maine.     
+    Le bon sens populaire!
+    Cartes archives départementales de la Sarthe et des Yvelines.
 
