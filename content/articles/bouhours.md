@@ -21,21 +21,36 @@ qu’il portait à ce lieu si particulier.
 ## La côte de la jument blanche
 
 Attelée à un grand diable trop lourd,
+  
 La courageuse vieille jument blanche
+  
 Tire éperdument sous les basses branches 
+  
 Un débardage en cette fin de jour.
+  
+  
 
 Les injures du charretier balourd
+  
 Pleuvent, les coups de fouet sur la peau tranchent
+  
 Des sillons sanglants et la jument flanche :
+  
 La pente est raide et les muscles sont gourds.
+  
+  
+  
 
 Neige nuit tombent ; sous le regard torve
+  
 D’un maître odieux, la bête bave et morve,
+  
 Se couche et crève dans ce froid tantôt.
 
 Et tandis que la mort est dans la boue,
+  
 Une larme coule sur une joue …
+  
 La côte est nommée près du rond Wautot.
   
   
@@ -46,15 +61,24 @@ La côte est nommée près du rond Wautot.
 ## Le corbeau et la grenouille
 
 Noir corbeau virant roulant sur les airs
+  
 Croit voir une grosse grenouille verte,
+  
 Croit pouvoir croquer cette proie offerte,
+  
 L’ombre croît par un ciel couvert :
+  
 … Croâ ! Croâ ! … en l’air.
 
+  
 Petite bête au sol lève les yeux :
+  
 « Quoi ! Quoi ! Quel est cet oiseau dans les cieux
+  
 Qui soudainement dessus moi se penche ?
+  
 L’adéquat : que je plonge avec les tanches ! »
+  
 … Coâ ! Coâ ! … dans l’eau.
 
 Moralité : Croit quoi ? ! ...
