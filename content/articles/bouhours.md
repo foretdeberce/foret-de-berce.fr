@@ -3,7 +3,7 @@ title: "Marc Bouhours"
 date: 2022-09-28T12:23:44+01:00
 draft: false
 description: "Trois poèmes"
-featured_image: "/images/marc.jpg"
+featured_image: "/images/et.cheval.jpg"
 tags: ["Art","Poésie"]
 ---
 
