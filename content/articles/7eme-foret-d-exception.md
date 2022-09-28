@@ -11,7 +11,7 @@ En cette matinée du 18 mars 2017, Stéphane LE FOLL, alors ministre de l’Agri
 de la Forêt et porte-parole du gouvernement est venu sur Bercé, pour accorder à la forêt domaniale de Bercé,
 le label Forêt d’Exception®.
 
-{{<youtube C7qTZ4ED83g>}}
+{{<youtube lT_NYys3Tm4>}}
 
 Après Fontainebleau, Verdun, La Grande Chartreuse, Rouen, Val Suzon et Montagne de Reims, Bercé est enfin
 la 7ème forêt labellisée.
