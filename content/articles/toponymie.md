@@ -17,8 +17,6 @@ dans son mémoire : «C’TE FORÊT»
 {{<figure src="/images/articles/topo.jpg" title="Légende des tableaux">}}
 	
 
-{{<figure src="/images/articles/mayet.jpg" title="Carte des acquisitions">}}
-	
 ## Les Profonds Vaux 	 
 
   	VALLEE de l’EPAU *	p 5
@@ -34,6 +32,10 @@ dans son mémoire : «C’TE FORÊT»
   	L’EPAU *	p 106
   	Les BRETONNIERES *	p 105
 
+	
+{{<figure src="/images/articles/mayet.jpg" title="Carte des acquisitions">}}
+	
+	
 ## La Guiltière ou la Guittière	 
 
         Les BAIGNEUX *	p 78
@@ -170,6 +172,10 @@ dans son mémoire : «C’TE FORÊT»
 		Carrefour du MORTIER du SAUL * rond du SAULT -  étang du PUTOIS (T.O.)	113
 		Vallée de la FONTAINE * FONTAINE des TROIS PAROISSES	111
 		BUISSON ROND *, près route de la BUTTE	
+	
+	
+{{<figure src="/images/articles/planonf.jpg" title="Numérotation actuelle">}}
+	
 
 ## La Lune	
 
