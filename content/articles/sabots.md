@@ -30,7 +30,7 @@ oncle qui était sabotier, route du Mans et employait à cette époque 4 ouvrier
 
 {{<figure src="/images/articles/sabotier01.jpg" title="abattage de l’arbre">}}
 
-{{<figure src="/images/articles/ sabotier02.jpg" title="classement des rondins">}}
+{{<figure src="/images/articles/sabotier02.jpg" title="classement des rondins">}}
 
 
 C’était un dur métier. On le mit à creuser des sabots à la cuillère. 
@@ -148,4 +148,5 @@ Aujourd’hui encore le foyer rural continue de faire
 perdurer la transmission de ce savoir.
 
  
-## Dossier « Au Fil du Temps » préparé par Roxane Dairon ( n°25 pages 8 à 10)
+### Dossier « Au Fil du Temps » 
+*préparé par Roxane Dairon ( n°25 pages 8 à 10)*
