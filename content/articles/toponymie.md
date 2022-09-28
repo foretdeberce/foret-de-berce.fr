@@ -19,7 +19,7 @@ T.O. : Toponymie orale - p : numéro de la parcelle forestière concernée.
    	La PATTE au LOUP * près rond de Verneil ou des Vernes	p 104
   	BOIS d’ANDREAU *	p 96
   	VALLEE des PROFONDS VAUX *, du MUGUET (20e s.)	 
-    M. F. des PROFONDS VAUX : milieu de la p 100 : La MARE au LOUP, aux CANES   
+        M. F. des PROFONDS VAUX : milieu de la p 100 : La MARE au LOUP, aux CANES   
   	Bikini (T.O. 20e s.) Le DEMINAGE	p 106
   	Les VAUX GOURDES *   VALLEE du CHATAIGNIER MOISY * 	p 108
   	Le POTEAU de MANGE (entrée sud-ouest de Bercé)	 
@@ -30,7 +30,7 @@ T.O. : Toponymie orale - p : numéro de la parcelle forestière concernée.
 
 ## La Guiltière ou la Guittière	 
 
-   Les BAIGNEUX *	p 78
+        Les BAIGNEUX *	p 78
   	VALLEE des FONTAINES * ou du GRAND MONARQUE (1947)	p 78
   	VALLEE des BELLANGERIES Les TERRES BLANCHES	p 74
   	Vallée de l’ETANG GRUOT * carrière de la CROIX GUINET	p 87
@@ -52,17 +52,17 @@ T.O. : Toponymie orale - p : numéro de la parcelle forestière concernée.
 ## R. N. 138
 
   	CROIX au SEGRAÏER ** puis SEGRAYER (ancienne route royale)	près p  62
- 	  SAINT-HUBERT (rond de … ) départ de C’te Menouëre (route de Vaas) 
-    à proximité M. F. de la TASSE	 
+ 	SAINT-HUBERT (rond de … ) départ de C’te Menouëre (route de Vaas) 
+        à proximité M. F. de la TASSE	 
 
 ## Croix Segrier
 
-   	VALLEE des BRONDOUILLETS *	p 58
+   	  VALLEE des BRONDOUILLETS *	p 58
  	  La COUETTERIE * CHAPEAU TROIS CORNES (T.O.)	près p 153
   
 ## Les Salles
 
-    DESFAIS DES SALLES (XIIIe siècle-Cartulaire de Château-du-Loir)	
+                DESFAIS DES SALLES (XIIIe siècle-Cartulaire de Château-du-Loir)	
 		Route des TOURNANTS (T.O.)	149
 		Mortier du SAUT * du SAULE ** 	147
 		PETITS MOULINS *	148
@@ -361,9 +361,9 @@ T.O. : Toponymie orale - p : numéro de la parcelle forestière concernée.
 ## Les Clos	
 
 		CHANT au CERF * (CHAMP au SERF ?)
-    Chêne BOPPE ; Chêne POTEL ;      226
-    Chêne ROULLEAU de la ROUSSIÈRE ;       226
-    Chêne MURIEL ; Rond de l’École Forestière de NANCY	226
+                Chêne BOPPE ; Chêne POTEL ;      226
+                Chêne ROULLEAU de la ROUSSIÈRE ;       226
+                Chêne MURIEL ; Rond de l’École Forestière de NANCY	226
 		BUISSON ROND * près Rond du Guignier	228
 
 ## Les Pressenteries
