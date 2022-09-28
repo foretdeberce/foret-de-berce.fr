@@ -13,6 +13,8 @@ Joël PICARD nous éclaire sur la signification des toponymes de « C’TE FOR�
 Un * : carte de 1673 - deux ** : carte de 1783 - O.E.F. : Officier des Eaux et Forêts 
 T.O. : Toponymie orale - p : numéro de la parcelle forestière concernée.
 
+{{<figure src="/images/articles/mayet.jpg" title="Carte des acquisitions">}}
+	
 ## Les Profonds Vaux 	 
 
   	VALLEE de l’EPAU *	p 5
@@ -48,6 +50,8 @@ T.O. : Toponymie orale - p : numéro de la parcelle forestière concernée.
 ## Le Tronchet	
 
    	Les ENSEMENCEES (idem HAUTES PERCHES, PROFONDS VAUX)	p 61
+	
+{{<figure src="/images/articles/salles.jpg" title="Garde des Salles">}}	
 
 ## R. N. 138
 
@@ -80,6 +84,8 @@ T.O. : Toponymie orale - p : numéro de la parcelle forestière concernée.
 		Lande de la ROUSSARDIÈRE **	47 - 48
 		Pâtis à l’ÂNE **	48
 
+{{<figure src="/images/articles/roues.jpg" title="Garde des Roues">}}		
+	
 ## Hautes Perches	
 
 		Les Petites NOUYES **	40
@@ -97,6 +103,8 @@ T.O. : Toponymie orale - p : numéro de la parcelle forestière concernée.
 		Croix de la MARTINIÈRE *, chemin de la LITONIÈRE, allée du MÂCHEFER (T.O.)	34
 		Vallée du CHAT PENDU *	33
 		CARREFOUR DU MORTIER DES CLOS (clausum = lieu clos)	33
+	
+{{<figure src="/images/articles/jupilles.jpg" title="Garde de jupilles">}}	
 
 ## Les Forges
 
@@ -209,6 +217,10 @@ T.O. : Toponymie orale - p : numéro de la parcelle forestière concernée.
 		MORTIER DES FORGES * L’ÉTANG NOYÉ	p 17
 		JAMBE À L’ÂNE *	p 18
 
+	
+{{<figure src="/images/articles/pruille.jpg" title="Garde des Pruillé">}}
+	
+	
 ## Le Pau	
 
 		VENTES DU PAU *	p 155
@@ -264,6 +276,10 @@ T.O. : Toponymie orale - p : numéro de la parcelle forestière concernée.
 		Route ANDRÉ HALLAY (1920) « T.O. »	185
 		Allée AMÉRICAINE (1945)	185
 		Fontaine de la Gaie Mariée non loin du Chêne de Jupilles	184
+	
+	
+{{<figure src="/images/articles/lorouer.jpg" title="Garde du Lorouër">}}
+	
 
 ## L’Hermitière
 
@@ -305,6 +321,8 @@ T.O. : Toponymie orale - p : numéro de la parcelle forestière concernée.
 		HUCHE AU LOUP * (hors forêt carrefour de la Croix Gorgeas) )	213
 		PATY DU JEU **	212
 		CHEMIN DE LA BARRÉE (1879)	230
+	
+{{<figure src="/images/articles/fontenelle.jpg" title="Garde de la Fontenelle">}}
 
 ## Volumiers
 
@@ -358,6 +376,9 @@ T.O. : Toponymie orale - p : numéro de la parcelle forestière concernée.
 		CROIX du CHÊNE PATTÉ (empattement)	249
 		MORTIER PAVÉ	250
 
+	
+{{<figure src="/images/articles/berce1924.jpg" title="Les cantons en 1924">}}	
+	
 ## Les Clos	
 
 		CHANT au CERF * (CHAMP au SERF ?)
