@@ -41,7 +41,9 @@ Elle est boisée pour l’essentiel de chênes aux longs fûts plusieurs fois ce
 Les anciennes landes plus pauvres, sont plantées d’essences feuillues et résineuses qui assurent
 la biodiversité du Massif. 
 
-{{<youtube vhkTT1trFLw}}
+
+{{<youtube id="vhkTT1trFLw" autoplay="true">}}
+    
 
 Jadis utilisé pour la construction navale, le chêne de Bercé est aujourd’hui mondialement recherché 
 pour l’ébénisterie, le tranchage et la tonnellerie. 
