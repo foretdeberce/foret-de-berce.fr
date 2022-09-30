@@ -79,6 +79,8 @@ Portus Galteri (Port Gauthier en 1100)
 port de la Guye (près de Vouvray en 1457) et de flottage :
 port de la Pointe (Chahaignes).
 
+{{<figure src="/images/articles/portpointe.jpg" title="Départ des bois à La Pointe">}}
+
 Mais devant la vétusté des portes marinières due 
 principalement à la rudesse des chocs occasionnés 
 par la descente des trains de bois de marine et de charpentes, 
@@ -160,6 +162,8 @@ Tous les cantons boisés en feuillus de Bercé dans lesquels l’on ouvre les pa
 âgées de plus de 100 ans, puis de 200 ans en coupes de régénération, sont régulièrement
 visités par la marine.
 
+ {{<figure src="/images/articles/empreinte.jpg" title="l'empreinte de la marine">}}    
+     
      En cette année 1860 l’on dénombre 35 arbres marqués 
      «Bon pour la marine» sur un lot
      en coupe secondaire de 214 chênes. Sur le massif : 
@@ -194,6 +198,8 @@ leur voilure.
 19 avril 1866 : Paul MASSERON, nous dit avoir accompagné 
 les agents de la marine, « …où ils ont reconnu cinq pièces
 propres au service. »
+     
+ {{<figure src="/images/articles/marteau.jpg" title="le marteau de marine">}}    
 
 3 juin 1867... Au canton de la Lune (Parcelle 109),
 le garde MASSERON «… recommande de faire mettre 
