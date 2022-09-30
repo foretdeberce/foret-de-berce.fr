@@ -162,7 +162,7 @@ Tous les cantons boisés en feuillus de Bercé dans lesquels l’on ouvre les pa
 âgées de plus de 100 ans, puis de 200 ans en coupes de régénération, sont régulièrement
 visités par la marine.
 
- {{<figure src="/images/articles/empreinte.jpg" title="l'empreinte de la marine">}}    
+ {{<figure src="/images/articles/estampillemarine.jpg" title="l'empreinte de la marine">}}    
      
      En cette année 1860 l’on dénombre 35 arbres marqués 
      «Bon pour la marine» sur un lot
