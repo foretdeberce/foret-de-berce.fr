@@ -23,10 +23,10 @@ La liste des années à *chablis* (arbres tombés à terre) et *volis* (arbres d
 longue :  
  
 ## 1857, 1866, 1868 :
- 5 à 10 par canton.
+ 5 à 10 chablis (arbres tombés) par canton.
 
 ## Novembre 1875 :
- plus de 500 chablis sur le triage à HEINTZ.
+ plus de 500 chablis sur le triage à Heintz.
 
 ## 27 janvier 1881 :
  *«La tempête a renversé plusieurs chablis et enlevé plusieurs ardoises sur le poste des Clos»*,
@@ -58,14 +58,17 @@ Décembre 1952 :
 
 ## 11 mars 1963 et en 1965, 
  les cyclones se succèdent emportant  les hangars et les arbres.
-* «Jamais vu pareille chose» * -- Goenvec
+* «Jamais vu pareille chose» notera l'agent technique Goenvec
 
 ## En 1967, c’est la catastrophe annoncée :
  
-du 7 janvier jusqu’au 14 février le sol enneigé emmagasine l’eau.
-En mars c’est sur un sol détrempé que la tempête se lève le dimanche 12 vers 17h 30.
-*« Dégâts à la maison forestière, les arbres tombent à la volée ! D’après les bruits entendus.
-Les vents soufflent à plus de 100 km/h sans arrêt, en pression constante. »*
+Du 7 janvier jusqu’au 14 février le sol enneigé emmagasine l’eau.
+En mars c’est sur un sol détrempé que la tempête 
+se lève le dimanche 12 vers 17h 30.
+ 
+*« Dégâts à la maison forestière, les arbres tombent à la volée !
+ D’après les bruits entendus. Les vents soufflent à plus de 
+ 100 km/h sans arrêt, en pression constante. »*
  
  {{<figure src="/images/articles/67huberdiere.jpg" title="Journée d'horreur à la Huberdière">}}
 
@@ -100,7 +103,7 @@ Des milliers de mètres-cubes de bois sont cassés et arrachés.
  
  {{<figure src="/images/articles/renardieres13-11-82.jpg" title="Au rond des Renardières">}}
  
-Des morceaux d’une caravane stationnée à Laillé atterrissent près de chez lui.
+Les morceaux d’une caravane stationnée à Laillé atterrissent près de chez lui aux Renardières.
 Le ciel s’est subitement obscurci de feuilles et de poussières.
  
  {{<figure src="/images/articles/82sault.jpg" title="Ligne du Sault le 13 novembre 1982">}}
@@ -128,7 +131,7 @@ vents de 90 à 200 km/h. Même les jeunes peuplements de pins, en première lign
 
  {{<figure src="/images/articles/26dec99p63.jpg" title="La parcelle 63 ravagée">}} 
  
- 25 à 30.000 m³, l'équivalent d'une année de coupe, sont récoltés à Bercé qui pourtant
+ 25 à 30.000 m³ (l'équivalent d'une année de coupe) seront récoltés à Bercé qui pourtant
 se trouvait à chaque fois sur les franges de ces deux monstres. 
 
  {{<figure src="/images/articles/199912p189.jpg" title="La parcelle 189 ravagée">}} 
