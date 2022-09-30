@@ -146,7 +146,7 @@ Dès 1919, l’inspecteur Potel a su développer avec efficacité l’image de B
 A la veille  de  la  création  de  l’ Office  National  des  Forêts  en 1965, l’E.N.E.F devient E.N.G.R..E.F. par fusion avec l' École Nationale du Génie Rural
 
 
-{{<figure src="/images/articles/edimbourg.jpg" title="Tournée dans les Clos">}}
+{{<figure src="/images/articles/edimbourg60.jpg" title="Tournée dans les Clos">}}
 
 
 De nos Jours, grâce à une Sylviculture de pointe, et à ses bois de qualité, Bercé reste un des phares de la forêt française, attirant sans relâche quantité de congressistes .
@@ -204,4 +204,9 @@ Depuis lors, bon  nombre d'Officiers Forestiers,
      promotion de l’E.N.E.F.) tué le 23 octobre 1917
      à Laffeux (Oise).
 
-## Sources : (2) Gravure du départ des élèves à Nancy, extraite du livre :" Nos grandes écoles militaires et civiles" de Louis Rousselet - Hachette 1888. Livrets journaliers des préposés des eaux et forêts de l’époque.
+### Sources : 
+ 
+ (2) Gravure du départ des élèves à Nancy, extraite du livre :
+ " Nos grandes écoles militaires et civiles" de Louis Rousselet 
+ - Hachette 1888. 
+ Et livrets journaliers des préposés des eaux et forêts de l’époque.
