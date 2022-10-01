@@ -157,10 +157,9 @@ Cette célèbre définition de la sylviculture moderne, exposée par le forestie
 L’opération : «à l’École de la Forêt» lointaine descendante des anciennes sociétés  scolaires forestières  de  1928  pérennise  cette  action  de propagande ayant  pour  but d' intéresser les jeunes des écoles à la grande oeuvre du reboisement en France et dans le monde.
 
 
-      En forêt domaniale de Bercé Honneur à l’Ecole Forestière «  le massif reconnaissant  »
-      
-            
-               Légende de la carte
+ 
+{{<figure src="/images/articles/carteenef.jpg" title="Un massif reconnaissant">}}
+    
                
 Depuis lors, bon  nombre d'Officiers Forestiers, 
 émaillent  de  Leurs  noms certains ronds, routes ou chênes remarquables.
@@ -171,8 +170,8 @@ Depuis lors, bon  nombre d'Officiers Forestiers,
      Chêne BOPPE du nom du Directeur de    
      l’ENEF Lucien BOPPE (31ème  promotion) 
      Baptisé en 1894, foudroyé le 18-12-1934 
-     (dont il ne reste que la souche) –
-     
+     (dont il ne reste que la souche).
+          
      2 - Chêne ROULLEAU de la ROUSSIÈRE  
      (Louis-René - Inspecteur au Mans – 52ème
      promotion) baptisé le 27 mai 1952 en présence
@@ -181,7 +180,10 @@ Depuis lors, bon  nombre d'Officiers Forestiers,
      - issu de l’ENEF) - Non repéré, il est campé 
      sur son fossé à droite de la souche de l'ancien
      chêne Boppe.  Nouveau chêne Boppe baptisé le 14
-     juillet 1935. Chêne CHAPLAIN : mention de cet
+     juillet 1935. Chêne CHAPLAIN : (inspecteur des
+     Eaux et Forêts, membre de la commission du
+     Touring-Club.) : mention de cet arbre non
+     repéré le 16 avril 1937.mention de cet
      arbre non repéré le 16 Avril 1937. 
      
      3 - Rond d’USSEL (Marie-Jean – 70ème Promotion
@@ -194,16 +196,23 @@ Depuis lors, bon  nombre d'Officiers Forestiers,
      réalisa le Plan de délimitation générale de la
      Forêt Domaniale de Bercé en 1843.
      
-     6 - Route MENDÈS (Officier Forestier issu de l’ENEF) 
-     mort pour la France durant la 	Guerre 14/18.
-     
-     7 - Rond de PEYRELONGUE (Charles Marie-Joseph Auber de
+     6 - Rond de PEYRELONGUE (Charles Marie-Joseph Auber de
      ... 75ème  promotion) tué le 29 juillet 1915 au Baren Kopf.
+ 
      
-     8 – Rond JOUSSET (Raphaël-Marie-André-Adrien 77ème 
+     7 - Rond JOUSSET (Raphaël-Marie-André-Adrien 77ème 
      promotion de l’E.N.E.F.) tué le 23 octobre 1917
      à Laffeux (Oise).
+     
+     8 – Route MENDÈS (Charles François Jules Marie,
+     officier forestier issu de l’ENEF) capitaine du
+     84ème R.I., MPLF le 19 février 1915.
+     
+     9 - Chêne LORNE (Parcelle 132) ancien conservateur.
+      
+     10 - Chêne EMERY (Parcelle 144) ancien aménagiste de Bercé. 
 
+ 
 ### Sources : 
  
  (2) Gravure du départ des élèves à Nancy, extraite du livre :
