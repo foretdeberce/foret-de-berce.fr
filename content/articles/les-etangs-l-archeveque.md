@@ -39,35 +39,52 @@ Pour le moment, l'unique et significative constante d'une telle distribution est
 ## Les Étangs (Xᵉ –XVᵉ)
 Une plaisante demeure de chasse à Saint-Vincent-du-Lorouër . 
 
-Le lieu-dit doit son nom aux étangs artificiels créés en 1038 par Gervais de Château-du-Loir, évêque du Mans, seigneur de Château-du-Loir nommé en 1055 à l’archevêché de Reims puis en 1059 archichancelier du royaume de France. 
-C’est Gervais qui ordonnait à Foucher son «forestier», de laisser aux hommes de l’Abbaye résidant à Courdemanche, l’usage du bois et du panage des porcs dans «la forêt de Berçay». 
-La seigneurie des Étangs daterait de cette époque. 
-La chasse était la préoccupation principale de Gervais, tant et si bien qu’en souvenir du Maine, il fit mouler un cerf de bronze qu’il plaça devant son palais archiépiscopal.
-La cathédrale de Reims était le deuxième lieu sacré dans l’espace de la couronne française et son importance n’en était pas moins grande.
-            ## Levons un des mystères de la cathédrale de Reims : le Sagittaire.
-       Un Sagittaire qui vise de son arc un point qui peut paraître énigmatique,
-      car sa cible a disparu fin du 17ème  siècle. Il s'agissait d'un cerf en bronze.
-      Une statue dont l'arrivée est associée à l'archevêque Gervais dans les 
-      années 1060. Cette statue de bronze était un ornement de la cour du palais. 
-      Ce cerf, qui était une superbe œuvre d'art, avait été retenu par l'officialité, 
-      le tribunal ecclésiastique de l'archevêque, pour figurer sur son sceau.
-      Le sceau de la justice épiscopale faisait apparaître le cerf.   
+Le lieu-dit doit son nom aux étangs artificiels créés en 1038 par Gervais de Château-du-Loir, 
+ évêque du Mans, seigneur de Château-du-Loir nommé en 1055 à l’archevêché de Reims 
+ puis en 1059 archichancelier du royaume de France. 
+ C’est Gervais qui ordonnait à Foucher son «forestier», 
+ de laisser aux hommes de l’Abbaye résidant à Courdemanche,
+ l’usage du bois et du panage des porcs dans «la forêt de Berçay». 
+ La seigneurie des Étangs daterait de cette époque. 
+ 
+La chasse était la préoccupation principale de Gervais, tant et si bien qu’en souvenir du Maine,
+ il fit mouler un cerf de bronze qu’il plaça devant son palais archiépiscopal.
+ 
+La cathédrale de Reims était le deuxième lieu sacré dans l’espace 
+ de la couronne française et son importance n’en était pas moins grande.
+ 
+ 
+{{<figure src="/images/articles/sagittaire.jpg" title="Le cerf de Bercé animal emblématique de Reims">}}
+ 
+        Levons un des mystères de la cathédrale de Reims : le Sagittaire. 
+        Un Sagittaire qui vise de son arc un point qui peut paraître énigmatique,
+        car sa cible a disparu fin du 17ème  siècle. Il s'agissait d'un cerf en bronze.
+        Une statue dont l'arrivée est associée à l'archevêque Gervais dans les 
+        années 1060. Cette statue de bronze était un ornement de la cour du palais. 
+        Ce cerf, qui était une superbe œuvre d'art, avait été retenu par l'officialité, 
+        le tribunal ecclésiastique de l'archevêque, pour figurer sur son sceau.
+        Le sceau de la justice épiscopale faisait apparaître le cerf.   
+        Or, les chanoines qui étaient le clergé de la cathédrale avaient parfois des 
+        rapports un peu tendus avec l'archevêque. Ils tenaient beaucoup à leur 
+        autonomie et on peut voir comme un clin d'œil le fait que leur Sagittaire 
+        vise le cerf qui était le symbole de la justice épiscopale.
+        Vous savez, au Moyen-âge, il y a parfois des représentations un peu facétieuses. 
 
-     {{<figure src="/images/articles/sagittaire.jpg" title="Le cerf de Bercé animal emblématique de Reims">}}
-     Or, les chanoines qui étaient le clergé de la cathédrale avaient parfois des 
-      rapports un peu tendus avec l'archevêque. Ils tenaient beaucoup à leur 
-      autonomie et on peut voir comme un clin d'œil le fait que leur Sagittaire 
-      vise le cerf qui était le symbole de la justice épiscopale.
-      Vous savez, au Moyen-âge, il y a parfois des représentations un peu facétieuses. 
-
-Le cerf a disparu lors du réaménagement du palais sous Charles-Maurice Le Tellier, mais le Sagittaire reste. C'est un petit peu dommage, parce que lors du sacre des Rois, nous en avons le témoignage depuis le 14e siècle, ce cerf était rempli de vin et servait de fontaine à vin. La réjouissance du sacre était ainsi largement optimisée.   Patrick Demouy  
+   
+ Le cerf a disparu lors du réaménagement du palais sous Charles-Maurice Le Tellier,
+ mais le Sagittaire reste. C'est un petit peu dommage, parce que lors du sacre des Rois, 
+ nous en avons le témoignage depuis le 14e siècle, ce cerf était rempli de vin et 
+ servait de fontaine à vin. La réjouissance du sacre était ainsi largement optimisée. 
+ Patrick Demouy  
 
 ## La « meson » des Etangs est citée en 1285. 
 La seigneurie aurait été transmise par alliance des familles Ribole à 
 Courcillon puis au début du XVème siècle à la famille de Fromentières.
  En 1288 (BN Latin 9067 fol. 273) Geoffroy, sire de Courcillon obtient 
 du seigneur de Château-du-Loir (Béatrix de Monfort), 
-** «…l’autorisation de faire un estanc entre sa meson des Estancs et la forest de Berçay, dés la rivière qui vient de l’Ermitière jusqu’à la vielle chaussée qui est sous la Hugerie ...sous réserve de toute justice haute et basse.» **
+** «…l’autorisation de faire un estanc entre sa meson des Estancs et la 
+ forest de Berçay, dés la rivière qui vient de l’Ermitière jusqu’à la
+ vielle chaussée qui est sous la Hugerie ...sous réserve de toute justice haute et basse.» **
 
 {{<figure src="/images/articles/ign.jpg" title="Levées des Étangs">}}
 
