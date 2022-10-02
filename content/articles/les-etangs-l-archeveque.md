@@ -122,11 +122,12 @@ appartient au domaine.
 
 Un document de 1686 mentionne le bordage de la Tuffière. 
 
-{{<figure src="/images/articles/chateau.jpg" title="Le château des Étangs">}}
 
 Cette maison est très liée à la forêt car au XVIIème siècle, Adrien de Fromentières, 
 écuyer, sieur de la Moinerie, acheta l’office de maître particulier des 
-Eaux et forêts de Château-du-Loir. Plus tard, Bercé se rappelle avoir reçu 
+Eaux et forêts de Château-du-Loir.
+ 
+ Plus tard, Bercé se rappelle avoir reçu 
 la visite du grand-maître enquêteur Hurault, qui venait de la part de Colbert. 
 Il était assisté du député Leferon et vint entre le 8 et le 17 octobre 1669.
  Ils visitèrent la forêt en compagnie d’Hilarion de Fromentières, maître 
@@ -154,14 +155,17 @@ La jeune mariée en particulier ne devait pas mettre un pied à l’eau.
 
 En 1718, les Étangs-l'Archevêque sont acquis par Louis-Jacob Des Hayes,
  écuyer, colonel d'infanterie.
-Il est seigneur des Etangs-l'Archevêque, de la Joliverie, de Clairaunay, etc. 
+Il est seigneur des Etangs-l'Archevêque, de la Joliverie, de Clairaunay, etc.
+ 
+{{<figure src="/images/articles/clairaunay.jpg" title="Le moulin à blé de Clairaunay">}} 
+ 
 Les possessions du domaine dans la paroisse s'étendent à la Goussière, 
 Champrond, la Roche, les Fourneaux, la Ratelière, le Petit Vaubouillé,
 le Grand Vaubouillé, le Moulin de Vaubouillé, la Chevalerie, les Chênes,
 la Borde, la Boudeterie, Vaubuffard, la Lamberdière, les Peloisières, 
 les Etangs, la Coutière, le Grand Moulin, le Petit Moulin.
 
- {{<figure src="/images/articles/chateau3.jpg" title="La façade ouest">}}
+{{<figure src="/images/articles/chateau.jpg" title="Le château des Étangs vers 1900">}}
  
 La maison des Étangs est en fort mauvais état pour occuper sa retraite,
 il eut le goût de démolir une partie inachevée de l'ancien château 
@@ -170,8 +174,8 @@ qui abriterait quatre grands appartements par étage afin d’y recevoir
 la noblesse environnante pour des parties de chasse en forêt de Bercé.
  
 
-{{<figure src="/images/articles/chateau.jpg" title="Le château des Étangs vers 1900">}}
-
+ {{<figure src="/images/articles/chateau3.jpg" title="La façade ouest">}}
+ 
 Jusqu’à la fin du 18ème siècle, s'étendaient de vastes étangs depuis 
 asséchés et remplacés par des prairies.
 Mais on distingue toujours la chaussée (levée de terre) 
@@ -214,27 +218,27 @@ Il est depuis restauré par la famille Castel.
  
 ### Bibliographie : 
  
-(1)     Propos de Cécile DARDIGNAC Archéologue de l’ONF
-        lors de la campagne de rapatriement des données
-        en  novembre et décembre 2014.
+    (1)     Propos de Cécile DARDIGNAC Archéologue de l’ONF
+            lors de la campagne de rapatriement des données
+            en  novembre et décembre 2014.
  
-(2)     Les tertres du plateau d’Avort en Maine
-        et Loire Serge CASSEN et Christine BOUJOT
-        (Mémoire 2000)
+    (2)     Les tertres du plateau d’Avort en Maine
+            et Loire Serge CASSEN et Christine BOUJOT
+           (Mémoire 2000)
  
-(3)     Définition du Temps sur des surfaces. 
-        Diagnostic chronologique et fonctionnel de
-        structures tumulaires dans le Bois d'Amnon 
-        (La Chapelle-aux-Choux, Sarthe).
-        In: Revue archéologique de l'ouest, tome 21, 2004. pp. 
-        95-119—CASSEN Serge, VAQUERO LASTRES Jacobo. 
+    (3)     Définition du Temps sur des surfaces. 
+            Diagnostic chronologique et fonctionnel de
+            structures tumulaires dans le Bois d'Amnon 
+            (La Chapelle-aux-Choux, Sarthe).
+            In: Revue archéologique de l'ouest, tome 21, 2004. pp. 
+            95-119—CASSEN Serge, VAQUERO LASTRES Jacobo. 
  
-(4)     usage féodal rapporté par Pesche.
+    (4)     usage féodal rapporté par Pesche.
  
-(5)     Vente publique (biens et production)
+    (5)     Vente publique (biens et production)
  
-D. Castel "Les Étangs l’Archevêque". 
+    D. Castel "Les Étangs l’Archevêque". 
  
-R. POTEL, « historique de la forêt de Bercé » 
+    R. POTEL, « historique de la forêt de Bercé » 
  
-R.VINEY « A propos d’une parcelle Artistique »
+    R.VINEY « A propos d’une parcelle Artistique »
