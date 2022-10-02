@@ -7,33 +7,51 @@ featured_image: "/images/et.chateau.jpg"
 tags: ["Chateau","Eau","Archeologie","Forestiers","Histoire"]
 ---
 
-La vallée de l’Hermitière, un lieu riche en vestiges 
+## La vallée de l’Hermitière, est un lieu riche en vestiges. 
+
 Les vastes parties boisées du département ont conservé 
-nombre de tertres et talus, dont les nécropoles de Bercé 
+nombre de tertres et talus, dont la nécropole de Bercé 
 (un tertre isolé de forme ronde) qui fait le pendant à proximité 
 (1.7km à vol d’oiseau), à une nécropole tumulaire de six tertres
- (groupés de forme allongée),
- tous situés sur la commune de Saint Vincent du Lorouër.
- Les lieux sont chargés d’histoire.
+(groupés de forme allongée), tous situés sur la commune 
+de Saint Vincent du Lorouër. 
+Les lieux sont chargés d’histoire.
+ 
 ## Nécropole Tumulaire Néolithique. 	
 En forêt de Bercé, la nécropole de St-Vincent-du-Lorouër 
 s'étale sur un versant orienté au sud, dominant la petite 
-vallée de l’Hermitière débouchant sur la vallée de la Veuve. 
- Sur chaque tertre, nous retrouvons en touffe du buis, 
+vallée de l’Hermitière et le château des Étangs l'Archevêque qui 
+débouche sur la vallée de la Veuve. 
+
+Sur chaque tertre, nous retrouvons en touffe du buis, 
 inféodé au fil du temps à la présence l’homme.
- L’opération Lidar de mars 2013 s'est montée dans le cadre 
-du projet forêt d'exception. Il s'agit d'un partenariat DRAC
- Pays-de-la-Loire / ONF qui reposait sur l'accord suivant : 
+
+La photo qui vient résulte de l’opération Lidar de mars 2013.
+Cette mission aéroportéees s'est déroulée dans le cadre 
+du projet forêt d'exception.
+
+Il s'agit d'un partenariat DRAC-Pays-de-la-Loire / ONF
+qui reposait sur l'accord suivant : 
+
 la DRAC finançait le vol et traitait les données informations; 
-l'ONF se chargeait de faire la vérification des anomalies archéologiques sur le terrain. (1)
+l'ONF se chargeait de faire la vérification des anomalies
+archéologiques sur le terrain. (1)
 
 {{<figure src="/images/articles/levees.jpg" title="Les données Lidar autour des Étangs">}}
 
-« Une dépression périphérique signale un fossé de délimitation, voire d'extraction de matériaux pour en surcharger l'intérieur de la surface ainsi circonscrite. L'excellent état de conservation des élévations, c'est-à-dire la pente générale du relief ainsi formé, rapidement accentué, et la nature limono-sableuse sont des caractéristiques également communes à la nécropole similaire relevée dans le Bois d'Avort sur la commune de Louerre près de Gênes dans le Maine-et-Loire (2) 
+* Une dépression périphérique signale un fossé de délimitation, voire d'extraction de
+ matériaux pour en surcharger l'intérieur de la surface ainsi circonscrite. 
+ L'excellent état de conservation des élévations, c'est-à-dire la pente générale
+ du relief ainsi formé, rapidement accentué, et la nature limono-sableuse sont 
+ des caractéristiques également communes à la nécropole similaire relevée dans
+ le Bois d'Avort sur la commune de Louerre près de Gênes dans le Maine-et-Loire * (2) 
 
 {{<figure src="/images/articles/tumulus2.jpg" title="Tumulus du taillis des Étangs">}}
 
-Pour le moment, l'unique et significative constante d'une telle distribution est sa relation avec une rivière importante en sa vallée. Dans les trois cas - Amenon, Bercé et Bois d'Avort - l'ensemble des structures se distribue dans un espace au contact immédiat de plaines alluviales. (3)
+* Pour le moment, l'unique et significative constante d'une telle distribution est sa 
+ relation avec une rivière importante en sa vallée. Dans les trois cas - Amenon, 
+ Bercé et Bois d'Avort - l'ensemble des structures se distribue dans un espace au
+ contact immédiat de plaines alluviales. * (3)
 {{<figure src="/images/articles/tumulussvt.jpg" title="Le couvert forestier sauve les structures">}}
 
 ## Les Étangs (Xᵉ –XVᵉ)
@@ -123,7 +141,9 @@ Dernière particularité de cette lignée….
 En 1698, les habitants de Saint-Vincent-du-Lorouër, 
 se présentèrent au château des Étangs, devant Nicolas Hilarion 
 de FROMENTIÈRES, pour lui déclarer 
-*« …Que les nouveaux mariés de la paroisse sont tenus de faire chacun, au jour de la Quasimodo, conformément aux anciens titres et jugements, le droit du Sault   (4)» *
+*« …Que les nouveaux mariés de la paroisse sont tenus de faire chacun,
+ au jour de la Quasimodo, conformément aux anciens titres et jugements, 
+ le droit du Sault »   (4)
 Chaque dimanche après Pâques, la coutume voulait que les jeunes
  mariés soient invités à sauter au dessus du ruisseau des Roches,
  le seigneur distribuait alors aux petits enfants des gâteaux nommés
@@ -182,16 +202,30 @@ En 1945 le Château propriété des familles Mercier et Monnoyer
 {{<figure src="/images/articles/etangs1.jpg" title="Façade 18ème">}}
 
 Il est depuis restauré par la famille Castel.
- Bibliographie : 
-(1)     Propos de Cécile DARDIGNAC Archéologue de l’ONF lors de la campagne de
-        rapatriement des données en  novembre et décembre 2014.
-(2)     Les tertres du plateau d’Avort en Maine et Loire Serge CASSEN et 
-        Christine BOUJOT (Mémoire 2000)
-(3)     Définition du Temps sur des surfaces. Diagnostic chronologique et 
-        fonctionnel de structures tumulaires dans le Bois d'Amnon (La Chapelle-aux-Choux, Sarthe).
-        In: Revue archéologique de l'ouest, tome 21, 2004. pp. 95-119—CASSEN Serge, VAQUERO LASTRES Jacobo. 
-(4) usage féodal rapporté par Pesche.
-(5) Vente publique (biens et production)
+ 
+### Bibliographie : 
+ 
+(1)     Propos de Cécile DARDIGNAC Archéologue de l’ONF
+        lors de la campagne de rapatriement des données
+        en  novembre et décembre 2014.
+ 
+(2)     Les tertres du plateau d’Avort en Maine
+        et Loire Serge CASSEN et Christine BOUJOT
+        (Mémoire 2000)
+ 
+(3)     Définition du Temps sur des surfaces. 
+        Diagnostic chronologique et fonctionnel de
+        structures tumulaires dans le Bois d'Amnon 
+        (La Chapelle-aux-Choux, Sarthe).
+        In: Revue archéologique de l'ouest, tome 21, 2004. pp. 
+        95-119—CASSEN Serge, VAQUERO LASTRES Jacobo. 
+ 
+(4)     usage féodal rapporté par Pesche.
+ 
+(5)     Vente publique (biens et production)
+ 
 D. Castel "Les Étangs l’Archevêque". 
+ 
 R. POTEL, « historique de la forêt de Bercé » 
+ 
 R.VINEY « A propos d’une parcelle Artistique »
