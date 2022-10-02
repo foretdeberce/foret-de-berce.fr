@@ -20,13 +20,13 @@ Les lieux sont chargés d’histoire.
 ## Nécropole Tumulaire Néolithique. 	
 En forêt de Bercé, la nécropole de St-Vincent-du-Lorouër 
 s'étale sur un versant orienté au sud, dominant la petite 
-vallée de l’Hermitière et le château des Étangs l'Archevêque qui 
-débouche sur la vallée de la Veuve. 
+vallée de l’Hermitière qui débouche sur la vallée de la Veuve
+et le château des Étangs l'Archevêque. 
 
-Sur chaque tertre, nous retrouvons en touffe du buis, 
+Sur chaque tertre, nous retrouvons en touffe, du buis, 
 inféodé au fil du temps à la présence l’homme.
 
-La photo qui vient résulte de l’opération Lidar de mars 2013.
+La photo des sites résulte de l’opération Lidar de mars 2013.
 Cette mission aéroportéees s'est déroulée dans le cadre 
 du projet forêt d'exception.
 
