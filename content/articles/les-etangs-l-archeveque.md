@@ -157,7 +157,7 @@ En 1718, les Étangs-l'Archevêque sont acquis par Louis-Jacob Des Hayes,
  écuyer, colonel d'infanterie.
 Il est seigneur des Etangs-l'Archevêque, de la Joliverie, de Clairaunay, etc.
  
-{{<figure src="/images/articles/clairaunay.jpg" title="Le moulin à blé de Clairaunay">}} 
+{{<figure src="/images/articles/clairaunay.jpg" title="Le vieux moulin à blé de Clairaunay">}} 
  
 Les possessions du domaine dans la paroisse s'étendent à la Goussière, 
 Champrond, la Roche, les Fourneaux, la Ratelière, le Petit Vaubouillé,
