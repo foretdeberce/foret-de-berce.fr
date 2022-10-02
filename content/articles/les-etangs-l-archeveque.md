@@ -136,7 +136,8 @@ particulier alternatif, qui «fut condamné à restituer à sa Majesté 925 livr
 9175 livres par lui reçus de la coupe et exploitation de 46 arpents de haute
  futaie à Bercé, plus 1500 livres pour dommages et intérêts envers sa Majesté.»
 
-
+{{<figure src="/images/articles/cadastre-napoleonien.jpg" title="Le cadastre Napoléonien">}}
+ 
 Dernière particularité de cette lignée…. 
 En 1698, les habitants de Saint-Vincent-du-Lorouër, 
 se présentèrent au château des Étangs, devant Nicolas Hilarion 
@@ -153,18 +154,21 @@ La jeune mariée en particulier ne devait pas mettre un pied à l’eau.
 
 En 1718, les Étangs-l'Archevêque sont acquis par Louis-Jacob Des Hayes,
  écuyer, colonel d'infanterie.
- Il est seigneur des Etangs-l'Archevêque, de la Joliverie, de Clairaunay, etc. 
+Il est seigneur des Etangs-l'Archevêque, de la Joliverie, de Clairaunay, etc. 
 Les possessions du domaine dans la paroisse s'étendent à la Goussière, 
 Champrond, la Roche, les Fourneaux, la Ratelière, le Petit Vaubouillé,
- le Grand Vaubouillé, le Moulin de Vaubouillé, la Chevalerie, les Chênes,
- la Borde, la Boudeterie, Vaubuffard, la Lamberdière, les Peloisières, 
+le Grand Vaubouillé, le Moulin de Vaubouillé, la Chevalerie, les Chênes,
+la Borde, la Boudeterie, Vaubuffard, la Lamberdière, les Peloisières, 
 les Etangs, la Coutière, le Grand Moulin, le Petit Moulin.
 
- La maison des Étangs est en fort mauvais état pour occuper sa retraite,
- il eut le goût de démolir une partie inachevée de l'ancien château 
+ {{<figure src="/images/articles/chateau3.jpg" title="La façade ouest">}}
+ 
+La maison des Étangs est en fort mauvais état pour occuper sa retraite,
+il eut le goût de démolir une partie inachevée de l'ancien château 
 pour reconstruire un vaste bâtiment de plus de trente mètres de long 
 qui abriterait quatre grands appartements par étage afin d’y recevoir
- la noblesse environnante pour des parties de chasse en forêt de Bercé.
+la noblesse environnante pour des parties de chasse en forêt de Bercé.
+ 
 
 {{<figure src="/images/articles/chateau.jpg" title="Le château des Étangs vers 1900">}}
 
@@ -174,30 +178,35 @@ Mais on distingue toujours la chaussée (levée de terre)
 qui fermait l'étang le plus important.
 
 En 1800, l'affiche d'une vente à l'encan (5)
- (vente non retrouvée) indique que le domaine compte les métairies des Étangs,
- de la Coutière, de la Lamberdière, la nue propriété de la métairie de la
- Boudeterie et petit lieu nommé la Charterie. 
+(vente non retrouvée) indique que le domaine compte les métairies des Étangs,
+de la Coutière, de la Lamberdière, la nue propriété de la métairie de la
+Boudeterie et petit lieu nommé la Charterie. 
 Affiches du Mans, annonces, etc. du département de la Sarthe. 
 N°53. Du 25e jour de Prairial an VIII:(14 juin 1800); 
 
 Le château est alors acheté par un cultivateur de Pruillé-l'Éguillé.
-
+Deux corps de logis parallèles (18e siècle) se rejoignent par un troisième
+corps plus ancien abritant en particulier l'escalier 
+(du 16e siècle, comme les cheminées monumentales).
+ 
 Parmi les biens à vendre : la maison des Étangs-l'Archevêque, 
 consistant en deux corps de bâtiments, composés de cuisine, 
 office, boulangerie, laiterie, caves, salle à manger, salon de compagnie, 
 chambres de maîtres et de domestiques, cabinets, garde-robes, 
 bibliothèques, chapelle, greniers pavés, écuries, remises, pressoir,
- colombier, cour et issues, parterre, verger, jardin de 75 ares, 
+colombier, cour et issues, parterre, verger, jardin de 75 ares, 
 2 hectares de vigne, un étang de 3 hectares, propre à faire un pré,
- jardin anglais et réservoir.; Les métairies des Etangs, de la Coutière,
- de la Lamberdière, la nue propriété de la métairie de la Boudeterie 
+jardin anglais et réservoir.; Les métairies des Etangs, de la Coutière,
+de la Lamberdière, la nue propriété de la métairie de la Boudeterie 
 et d'un petit lieu nommé la Charterie...;
 
 La famille Lepingleux habitat le rez de chaussée du château jusqu'en 1849. 
 Son héritière abandonna les Etangs L'Archevêque aux fermiers. 
 
+{{<figure src="/images/articles/chateau4.jpg" title="l'harmonie retrouvée">}}
+ 
 En 1945 le Château propriété des familles Mercier et Monnoyer
- fut vendu et devint exploitation agricole.
+fut vendu et devint exploitation agricole.
 
 {{<figure src="/images/articles/etangs1.jpg" title="Façade 18ème">}}
 
