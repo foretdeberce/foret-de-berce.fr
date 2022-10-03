@@ -1,3 +1,14 @@
+---
+title: "Louis Pigault"
+date: 2022-10-02T16:23:44+01:00
+draft: false
+description: "Tragique destinée"
+featured_image: "/images/et.bucherons.jpg"
+tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques","Armement","MF"]
+---
+
+
+
 # Un forestier au destin tragique.
 La famille de Louis est originaire de Baupte (Manche). 
 Louis commence sa carrière en Sarthe en 1911,
