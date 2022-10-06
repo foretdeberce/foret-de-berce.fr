@@ -3,19 +3,27 @@ title: "Série résineuse"
 date: 2022-10-05T17:23:44+01:00
 draft: false
 description: "Sylviculture"
-featured_image: "/images/.jpg"
+featured_image: "/images/et.cassini.jpg"
 tags: ["Tourisme","Routes","Biodiversite","Sylviculture"]
 ---
 
 
 Au plus profond des bois la patrie a son cœur
+
 Un peuple sans forêt est un peuple qui meurt.
+
 C'est pourquoi tous ici, lorsqu'un arbre succombe,
+
 Jurons d'en planter un autre sur sa tombe…
+
 …Et puissent nos enfants voir, aux saisons futures, 
+
 Des chênes et des pins les robustes ramures
+
 Onduler sur la plaine et moutonner dans l'air,
+
 Pareils aux flots mouvants et féconds de la mer.
+
 *André Theuriet  juin 1903 (1833-1907, académicien)*
 
 
