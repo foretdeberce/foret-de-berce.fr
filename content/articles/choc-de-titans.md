@@ -1,8 +1,8 @@
 ---
-title: "Cerf"
+title: "Choc de titans"
 date: 2019-11-16T13:15:08+01:00
 draft: false
-description: "Choc de titans"
+description: "Daniel Girard, Photographe animalier"
 featured_image: '/images/cerf.jpg'
 tags: ["Faune","Biodiversité","chasse"]
 ---
@@ -90,15 +90,6 @@ dont le sol était ciselé par le bois restant (bois qui déséquilibrait l’an
 rival, (un dix cors seulement) *« qui ne l’était finalement qu’au moment du brame, car chaque année au
 sortir de l’hiver, entre 1993 et 1996 je trouvais toujours les bois des deux copains ensemble »*. 
 
- {{<figure src="/images/articles/camisy.jpg" title="Yves l'éleveur de sangliers">}}
- 
-    Le point de vue d’Yves CAMISY 
-    Une fois j’ai tué un "pendule", cela pourrait être dù à
-    un testicule atrophié (dans ce cas-ci : le gauche)
-    par une chevrotine ou un coup d’andouillet adverse lors
-    d’un combat.
-
-> "pendule" :cerf avec un grand et un petit bois, un des deux bois n’étant retenu que par la peau.
 
 ## Au fil du temps  
 
