@@ -54,9 +54,9 @@ Et cela n’est pas près de finir !
  
 Au plus près de la forêt : 
   
-  Disponible à Carnuta "Maison de l'Homme et de la Forêt" à Jupilles 72500.
+  Disponible à Carnuta "Maison de l'Homme et de la Forêt" Jupilles 72500.
   
-  Disponible également à Leclerc Montval-sur-Loir 72500 (à l'Espace Culturel Loir et Bercé)
+  Disponible également à Leclerc Montval-sur-Loir 72500 "Espace Culturel Loir et Bercé"
   
   
 [Librairies Indépendantes](https://www.librairiesindependantes.com/product/9782359920529/)
