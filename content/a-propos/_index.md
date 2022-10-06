@@ -51,6 +51,13 @@ Et cela n’est pas près de finir !
   ONF Pays de la Loire
   
 ## Pour se procurer le livre
+ 
+Au plus près de la forêt : 
+  
+  Disponible à Carnuta "Maison de l'Homme et de la Forêt" à Jupilles 72500.
+  
+  Disponible également à Leclerc Montval-sur-Loir 72500 (à l'Espace Culturel Loir et Bercé)
+  
   
 [Librairies Indépendantes](https://www.librairiesindependantes.com/product/9782359920529/)
   
