@@ -14,7 +14,7 @@ Les gestes  du marteleur se répètent inlassablement depuis l’arrivée des pr
 (Gaubert (Gausbertus) forestier de Cléopas de Nouâtre en 1067 et Foucher, forestier de Gervais II, 
 seigneur de Château du Loir (1071).
 
-{{<figure src="/images/articles/grume.jpg" title="Une grume">}}
+{{<figure src="/images/articles/tampon.jpg" title="Sceau du marteau de l'état">}}
   
 Martelages et griffages sont deux opérations ou le forestier peut librement 
   exprimer son talent, car choisir un arbre pour le porter à la mort,
