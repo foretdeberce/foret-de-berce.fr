@@ -16,7 +16,12 @@ qui n'est possédée par personne mais que se disputent tous les usagers.
 Les traces néolithiques, les minières gallo-romaine et les enclos moyenâgeux
 jalonnent alors cet espace sauvage. 
 
+{{<figure src="/images/articles/drac.jpg" title="Minières de la Coudre - Vue Lidar">}}
+
+
 ## La première richesse de Bercé fut la metallurgie.
+  
+  {{<figure src="/images/articles/minierescoudre.jpg" title="Minières validées sur la carte après vérifications sur le terrain">}}
 
 Elle procura aux hommes les outils necéssaires à l'exploitation forestière.
 Les récentes découvertes paléométallurgiques sur le tracé sud de l'A 28, confortées
@@ -24,6 +29,9 @@ par la carte des sites forestiers en Bercé et du potentiel minier autour du mas
 bouleversent les connaissances acquises jusqu'à présent sur le sujet, 
 où seul le nord de la Sarthe apparaissait dans le paysage Minier. 
 
+ {{<figure src="/images/articles/drac.jpg" title="La vallée de Sermaise et ses éléments archéologiques">}}
+
+   
 ## l'agriculture bouleverse le paysage
 
 Les cultivateurs mirent en place les premiers parcellaires ou enclos.
@@ -64,6 +72,9 @@ le fief de quantité de hobereaux, ou de seigneurs locaux.
 Des maisons seigneuriales et des logis, il y en avait dans chaque villages.
 Les abbayes jouissaient du terrain qui leur était accordé.
 
+{{<figure src="/images/articles/grammont.jpg" title="L'abbaye de Grammont danau nord de Bercé">}}
+
+   
 Nombre de logis et châteaux d'églises et de maisons ont utilisé pour 
 leur charpentes ou leurs boiseries, le bois de la forêt. 
 
@@ -86,6 +97,9 @@ chevalier, seigneur des Étangs, maître particulier ancien et alternatif
 de la maîtrise de Château-du-Loir.
 
 ## La forêt Royale en 1669 
+  
+  {{<figure src="/images/articles/carte1669.jpg" title="Plan de la forêt royale de Bercé en 1669">}}
+
 
 Les forestiers de 1669 n'avaient qu'à être les continuateurs de leurs devanciers
 dans l'exécution des prescriptions de la nouvelle ordonnance de Colbert qui ne
@@ -103,6 +117,9 @@ et à faire les repeuplements prescrits par les réformateurs en améliorant l'�
 Ils arrivèrent aussi à augmenter la forêt d'environ 1200 hectares, fait qui doit être assez
 rare dans l'histoire des forêts domaniales* (Potel). 
 
+ {{<figure src="/images/articles/nouveauxensemences.jpg" title="Acquisition des nouveaux ensemencés de 1723">}}
+
+  
 Ainsi des arrêts du conseil du roi (lettres patentes des 13 et 25 septembre 1723) ordonnèrent,
 la réunion au corps de la forest de Bercé appartenant à sa majesté et le reboisement des landes 
 de Longuebranche, dites de Grammont (300 arpents) et des landes de Haute-Perche (2000 arpents).
@@ -143,6 +160,8 @@ couleur claire, qui le fait rechercher pour l'ébénisterie et le tranchage
 
 Aujourd'hui Bercé est avant tout un cru pour la tonnellerie qui lui redonne 
 ses lettres de noblesse et lui fait renouer avec ses racines Gauloises.
+
+{{<figure src="/images/articles/tonneaux.jpg" title="Tonneaux de provenance "Jupilles" chez Martell à Cognac >}}
 
 
 
