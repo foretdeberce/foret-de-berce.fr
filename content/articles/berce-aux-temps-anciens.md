@@ -7,7 +7,6 @@ featured_image: "/images/cassini.jpg"
 tags: ["Histoire","archeologie","toponymie"]
 ---
 
-
 ## Un peu d’Histoire…
 
 À mi chemin entre Le Mans et Tours, lambeau de l’antique forêt de la gaule chevelue, 
@@ -23,7 +22,7 @@ jalonnent alors cet espace sauvage.
 ## La première richesse de Bercé fut la metallurgie.
   
   
- {{<figure src="/images/articles/minierescoudre.jpg" title="Minières validées sur la carte après vérifications sur le terrain">}}
+{{<figure src="/images/articles/minierescoudre.jpg" title="Minières validées sur la carte après vérifications sur le terrain">}}
   
 
 Elle procura aux hommes les outils necéssaires à l'exploitation forestière.
