@@ -172,7 +172,7 @@ Aujourd'hui Bercé est avant tout un cru pour la tonnellerie qui lui redonne
 ses lettres de noblesse et lui fait renouer avec ses racines Gauloises.
   
 
-{{<figure src="/images/articles/tonneaux.jpg" title="Tonneaux de provenance "Jupilles" chez Martell à Cognac >}}
+{{<figure src="/images/articles/tonneaux.jpg" title="Tonneaux de provenance Jupilles chez Martell à Cognac >}}
 
 
 
