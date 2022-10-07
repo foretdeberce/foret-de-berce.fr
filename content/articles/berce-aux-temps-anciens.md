@@ -16,13 +16,13 @@ qui n'est possédée par personne mais que se disputent tous les usagers.
 Les traces néolithiques, les minières gallo-romaine et les enclos moyenâgeux
 jalonnent alors cet espace sauvage. 
 
-{{<figure src="/images/articles/minierecoudre2.jpg" title="Minières de la Coudre - Vue Lidar">}}
+  {{<figure src="/images/articles/minierecoudre2.jpg" title="Minières de la Coudre - Vue Lidar">}}
 
 
 ## La première richesse de Bercé fut la metallurgie.
   
   
-{{<figure src="/images/articles/minierescoudre.jpg" title="Minières validées sur la carte après vérifications sur le terrain">}}
+  {{<figure src="/images/articles/minierescoudre.jpg" title="Minières validées sur la carte après vérifications sur le terrain">}}
   
 
 Elle procura aux hommes les outils necéssaires à l'exploitation forestière.
@@ -32,7 +32,7 @@ bouleversent les connaissances acquises jusqu'à présent sur le sujet,
 où seul le nord de la Sarthe apparaissait dans le paysage Minier. 
   
 
- {{<figure src="/images/articles/drac.jpg" title="La vallée de Sermaise et ses éléments archéologiques">}}
+   {{<figure src="/images/articles/drac.jpg" title="La vallée de Sermaise et ses éléments archéologiques">}}
 
    
 ## l'agriculture bouleverse le paysage
@@ -76,13 +76,13 @@ Des maisons seigneuriales et des logis, il y en avait dans chaque villages.
 Les abbayes jouissaient du terrain qui leur était accordé.
   
 
-{{<figure src="/images/articles/grammont.jpg" title="L'abbaye de Grammont danau nord de Bercé">}}
+ {{<figure src="/images/articles/grammont.jpg" title="L'abbaye de Grammont au nord de Bercé">}}
 
    
 Nombre de logis et châteaux d'églises et de maisons ont utilisé pour 
 leur charpentes ou leurs boiseries, le bois de la forêt. 
 
-## Le matériau bois prend de l'essor
+## Le matériau bois prend de l'essor.
 
 Le vieux château des Étangs, à Saint Vincent du Lorouër, près des Sources 
 de l’Hermitière, existe depuis le XI° siècle. Il abrita en ses murs de
@@ -103,7 +103,7 @@ de la maîtrise de Château-du-Loir.
 ## La forêt Royale en 1669 
   
   
- {{<figure src="/images/articles/carte1669.jpg" title="Plan de la forêt royale de Bercé en 1669">}}
+  {{<figure src="/images/articles/carte1669.jpg" title="Plan de la forêt royale de Bercé en 1669">}}
 
 
 Les forestiers de 1669 n'avaient qu'à être les continuateurs de leurs devanciers
@@ -123,7 +123,7 @@ Ils arrivèrent aussi à augmenter la forêt d'environ 1200 hectares, fait qui d
 rare dans l'histoire des forêts domaniales* (Potel). 
   
 
- {{<figure src="/images/articles/nouveauxensemences.jpg" title="Acquisition des nouveaux ensemencés de 1723">}}
+  {{<figure src="/images/articles/nouveauxensemences.jpg" title="Acquisition des nouveaux ensemencés de 1723">}}
 
 Ainsi des arrêts du conseil du roi (lettres patentes des 13 et 25 septembre 1723) ordonnèrent,
 la réunion au corps de la forest de Bercé appartenant à sa majesté et le reboisement des landes 
@@ -157,7 +157,7 @@ possible afin de conserver
 l'un des plus beaux fleurons du patrimoine forestier français.
   
 
-{{<figure src="/images/articles/imagepanneau.jpg" title="Les ensemencements de Bercé>}} 
+{{<figure src="/images/articles/imagepanneau.jpg" title="Les ensemencements de Bercé">}} 
   
   
 L'âge d'exploitabilité des chênes qui était il y a peu de 240 ans 
@@ -171,7 +171,7 @@ Aujourd'hui Bercé est avant tout un cru pour la tonnellerie qui lui redonne
 ses lettres de noblesse et lui fait renouer avec ses racines Gauloises.
   
 
-{{<figure src="/images/articles/tonneaux.jpg" title="Tonneaux de provenance Jupilles chez Martell à Cognac >}}
+{{<figure src="/images/articles/tonneaux.jpg" title="Tonneaux de provenance Jupilles chez Martell à Cognac">}}
 
 
 
