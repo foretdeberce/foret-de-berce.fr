@@ -9,9 +9,9 @@ tags: ["Histoire", "archeologie", "toponymie"]
 
 ## Un peu d’Histoire…
 
-À mi chemin entre Le Mans et Tours, lambeau de l’antique forêt de la Gaule chevelue, 
+À mi chemin entre Le Mans et Tours, lambeau de l’antique forêt de la gaule chevelue, 
 Bercé n’a pas, au fil du temps, échappé aux défrichements.
-Res nullius, l'espace forestier ou non est alors une terre sans maître, 
+"Res nullius", l'espace forestier ou non est alors une terre sans maître, 
 qui n'est possédée par personne mais que se disputent tous les usagers.
 Les traces néolithiques, les minières gallo-romaine et les enclos moyenâgeux
 jalonnent alors cet espace sauvage. 
@@ -19,10 +19,10 @@ jalonnent alors cet espace sauvage.
 ## La première richesse de Bercé fut la metallurgie.
 
 Elle procura aux hommes les outils necéssaires à l'exploitation forestière.
-Les récentes découvertes paléométallurgiques sur le tracé sud de l'A28, confortées
+Les récentes découvertes paléométallurgiques sur le tracé sud de l'A 28, confortées
 par la carte des sites forestiers en Bercé et du potentiel minier autour du massif,
 bouleversent les connaissances acquises jusqu'à présent sur le sujet, 
-où seul le Nord de la Sarthe apparaissait dans le paysage Minier. 
+où seul le nord de la Sarthe apparaissait dans le paysage Minier. 
 
 ## l'agriculture bouleverse le paysage
 
@@ -59,20 +59,20 @@ beaucoup d'autres, est en bon état et n'a pas trop souffert d'abus.
 
 ## La féodalité et le clergé garants du patrimoine
 
-Dépendant de la Baronnie de Château du Loir, la forêt de Bercé était aussi 
+Dépendant de la baronnie de Château du Loir, la forêt de Bercé était aussi 
 le fief de quantité de hobereaux, ou de seigneurs locaux.
 Des maisons seigneuriales et des logis, il y en avait dans chaque villages.
 Les abbayes jouissaient du terrain qui leur était accordé.
 
 Nombre de logis et châteaux d'églises et de maisons ont utilisé pour 
-leur charpentes ou leurs boiseries le bois de la forêt. 
+leur charpentes ou leurs boiseries, le bois de la forêt. 
 
 ## Le matériau bois prend de l'essor
 
 Le vieux château des Étangs, à Saint Vincent du Lorouër, près des Sources 
 de l’Hermitière, existe depuis le XI° siècle. Il abrita en ses murs de
 nombreux veneurs dont le plus célèbre fut sans doute le puissant 
-Archevêque de Reims, Gervais de Château du Loir (XIème siècle).
+archevêque de Reims, Gervais de Château du Loir (XIème siècle).
 
 Hilarion de Fromentière, seigneur des Étangs est du fait 
 de sa charge de gestionnaire de la forêt royale de Bercé,
