@@ -16,7 +16,7 @@ qui n'est possédée par personne mais que se disputent tous les usagers.
 Les traces néolithiques, les minières gallo-romaine et les enclos moyenâgeux
 jalonnent alors cet espace sauvage. 
 
-{{<figure src="/images/articles/minierescoudre2.jpg" title="Minières de la Coudre - Vue Lidar">}}
+{{<figure src="/images/articles/minierecoudre2.jpg" title="Minières de la Coudre - Vue Lidar">}}
 
 
 ## La première richesse de Bercé fut la metallurgie.
