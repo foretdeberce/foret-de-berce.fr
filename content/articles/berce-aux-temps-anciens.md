@@ -151,6 +151,8 @@ s'efforce de gérer la forêt de Bercé de la manière la plus naturelle
 possible afin de conserver 
 l'un des plus beaux fleurons du patrimoine forestier français.
 
+{{<figure src="/images/articles/imagepanneau.jpg" title="Les ensemencements de Bercé>}} 
+  
 L'âge d'exploitabilité des chênes qui était il y a peu de 240 ans 
 a été ramené au dernier aménagement à 180 ans.
 Le bois d’œuvre de chêne de Bercé a acquis au fil du temps, 
