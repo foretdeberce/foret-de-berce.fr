@@ -4,19 +4,19 @@ date: 2019-11-16T13:18:08+01:00
 draft: false
 description: "Une forêt vouée à l'élevage"
 featured_image: "/images/cassini.jpg"
-tags: ["Histoire", "archeologie", "toponymie"]
+tags: ["Histoire","archeologie","toponymie"]
 ---
 
 ## Un peu d’Histoire…
 
 À mi chemin entre Le Mans et Tours, lambeau de l’antique forêt de la gaule chevelue, 
 Bercé n’a pas, au fil du temps, échappé aux défrichements.
-"Res nullius", l'espace forestier ou non est alors une terre sans maître, 
+Déclaré "Res nullius", l'espace forestier ou non est alors une terre sans maître, 
 qui n'est possédée par personne mais que se disputent tous les usagers.
 Les traces néolithiques, les minières gallo-romaine et les enclos moyenâgeux
 jalonnent alors cet espace sauvage. 
 
-{{<figure src="/images/articles/drac.jpg" title="Minières de la Coudre - Vue Lidar">}}
+{{<figure src="/images/articles/minierescoudre2.jpg" title="Minières de la Coudre - Vue Lidar">}}
 
 
 ## La première richesse de Bercé fut la metallurgie.
