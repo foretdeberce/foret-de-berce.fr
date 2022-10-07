@@ -21,7 +21,7 @@ jalonnent alors cet espace sauvage.
 
 ## La première richesse de Bercé fut la metallurgie.
   
-  {{<figure src="/images/articles/minierescoudre.jpg" title="Minières validées sur la carte après vérifications sur le terrain">}}
+ {{<figure src="/images/articles/minierescoudre.jpg" title="Minières validées sur la carte après vérifications sur le terrain">}}
 
 Elle procura aux hommes les outils necéssaires à l'exploitation forestière.
 Les récentes découvertes paléométallurgiques sur le tracé sud de l'A 28, confortées
@@ -98,7 +98,7 @@ de la maîtrise de Château-du-Loir.
 
 ## La forêt Royale en 1669 
   
-  {{<figure src="/images/articles/carte1669.jpg" title="Plan de la forêt royale de Bercé en 1669">}}
+ {{<figure src="/images/articles/carte1669.jpg" title="Plan de la forêt royale de Bercé en 1669">}}
 
 
 Les forestiers de 1669 n'avaient qu'à être les continuateurs de leurs devanciers
