@@ -125,7 +125,6 @@ rare dans l'histoire des forêts domaniales* (Potel).
 
  {{<figure src="/images/articles/nouveauxensemences.jpg" title="Acquisition des nouveaux ensemencés de 1723">}}
 
-  
 Ainsi des arrêts du conseil du roi (lettres patentes des 13 et 25 septembre 1723) ordonnèrent,
 la réunion au corps de la forest de Bercé appartenant à sa majesté et le reboisement des landes 
 de Longuebranche, dites de Grammont (300 arpents) et des landes de Haute-Perche (2000 arpents).
