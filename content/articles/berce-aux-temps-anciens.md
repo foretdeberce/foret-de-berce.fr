@@ -7,6 +7,7 @@ featured_image: "/images/cassini.jpg"
 tags: ["Histoire","archeologie","toponymie"]
 ---
 
+
 ## Un peu d’Histoire…
 
 À mi chemin entre Le Mans et Tours, lambeau de l’antique forêt de la gaule chevelue, 
@@ -21,13 +22,16 @@ jalonnent alors cet espace sauvage.
 
 ## La première richesse de Bercé fut la metallurgie.
   
+  
  {{<figure src="/images/articles/minierescoudre.jpg" title="Minières validées sur la carte après vérifications sur le terrain">}}
+  
 
 Elle procura aux hommes les outils necéssaires à l'exploitation forestière.
 Les récentes découvertes paléométallurgiques sur le tracé sud de l'A 28, confortées
 par la carte des sites forestiers en Bercé et du potentiel minier autour du massif,
 bouleversent les connaissances acquises jusqu'à présent sur le sujet, 
 où seul le nord de la Sarthe apparaissait dans le paysage Minier. 
+  
 
  {{<figure src="/images/articles/drac.jpg" title="La vallée de Sermaise et ses éléments archéologiques">}}
 
@@ -71,6 +75,7 @@ Dépendant de la baronnie de Château du Loir, la forêt de Bercé était aussi
 le fief de quantité de hobereaux, ou de seigneurs locaux.
 Des maisons seigneuriales et des logis, il y en avait dans chaque villages.
 Les abbayes jouissaient du terrain qui leur était accordé.
+  
 
 {{<figure src="/images/articles/grammont.jpg" title="L'abbaye de Grammont danau nord de Bercé">}}
 
@@ -98,6 +103,7 @@ de la maîtrise de Château-du-Loir.
 
 ## La forêt Royale en 1669 
   
+  
  {{<figure src="/images/articles/carte1669.jpg" title="Plan de la forêt royale de Bercé en 1669">}}
 
 
@@ -116,6 +122,7 @@ La forêt à l’époque n’était pas divisée en parcelles.
 et à faire les repeuplements prescrits par les réformateurs en améliorant l'état de la forêt. 
 Ils arrivèrent aussi à augmenter la forêt d'environ 1200 hectares, fait qui doit être assez
 rare dans l'histoire des forêts domaniales* (Potel). 
+  
 
  {{<figure src="/images/articles/nouveauxensemences.jpg" title="Acquisition des nouveaux ensemencés de 1723">}}
 
@@ -150,8 +157,10 @@ National des Forêts en 1966,
 s'efforce de gérer la forêt de Bercé de la manière la plus naturelle 
 possible afin de conserver 
 l'un des plus beaux fleurons du patrimoine forestier français.
+  
 
 {{<figure src="/images/articles/imagepanneau.jpg" title="Les ensemencements de Bercé>}} 
+  
   
 L'âge d'exploitabilité des chênes qui était il y a peu de 240 ans 
 a été ramené au dernier aménagement à 180 ans.
@@ -162,6 +171,7 @@ couleur claire, qui le fait rechercher pour l'ébénisterie et le tranchage
 
 Aujourd'hui Bercé est avant tout un cru pour la tonnellerie qui lui redonne 
 ses lettres de noblesse et lui fait renouer avec ses racines Gauloises.
+  
 
 {{<figure src="/images/articles/tonneaux.jpg" title="Tonneaux de provenance "Jupilles" chez Martell à Cognac >}}
 
