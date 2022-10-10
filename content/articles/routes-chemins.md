@@ -113,7 +113,7 @@ Certains ronds se trouveront ainsi décalés par rapport aux carrefours anciens,
   telle la Croix du Charme Béni, situé à un point culminant de Bercé "175 m" 
   dans la Parcelle 167. 
 
-{{<figure src="/images/articles/croixmarconnay.jpg" title="Les deux rond de Croix-Marconnay">}}
+{{<figure src="/images/articles/croixmarconnay.jpg" title="Les deux ronds de Croix-Marconnay">}}
 
 
 ## 1789
@@ -444,14 +444,16 @@ Beaucoup furent mortels sur les routes roses, trop roulantes et droites.
 Bien des convois agricoles ou forestiers empruntent les ronds dans le sens
   inverse de la circulation. 
 
-### Il suffit d’un rien ! 
+
+Chaque année les routes sont entretenues, ci dessous la route Neuve dite route André Hallays (près du Wautot).
+  
+{{<figure src="/images/articles/film.jpg" title="Le film Chroniques de Bercé, dévoile entre autre, l'entretien routier">}}
+
+ ### Il suffit d’un rien ! 
 
 {{<figure src="/images/articles/accident2.jpg" title="Glandée 1994">}}
-
-Pourtant chaque année les routes sont entretenues, ci dessous la route Neuve dite route André Hallays (près du Wautot.
+ 
   
-{{<figure src="/images/articles/film.jpg" title="Le film Chroniques de Bercé, retrace l'entretien routier">}}
-
 Ce spectaculaire carnage fut, quant à lui, sans gravité. Les dégâts ne 
   furent que matériels. Seul, un billet d’humeur paru sur le Ouest-France 
   des 12 et 13 novembre 1994, alimenta la rumeur, car sur place le 17
