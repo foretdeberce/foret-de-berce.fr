@@ -143,10 +143,11 @@ En 1825, chaque voiturier devait verser 2 m3 de pierres
 
 En 1828, le chemin de Pruillé était presque impraticable pour la circulation des
   voitures. 
-*«Et pourtant, ce chemin serait d'une grande utilité, vu qu'il communique par 
+«Et pourtant, ce chemin serait d'une grande utilité, vu qu'il communique par 
   une des allées de la forêt à la grande route du Mans à Tours, 
   et que ce serait par cette route que viendrait la chaux et 
-  la pierre d'Ecommoy, ainsi qu'une grande partie des bois de la forêt de Bercé.»*
+  la pierre d'Ecommoy, ainsi qu'une grande partie des bois de la forêt de Bercé.»
+  
 Déclarée d’utilité publique cette voie (le futur C.D.13) sera créée dès 1839. 
 
      Le 1er mars 1840 à 10 heures du matin, le conseil municipal 
@@ -347,7 +348,6 @@ Et de nos jours encore !
 {{<figure src="/images/articles/accident3.jpg" title="Un grumier en bien mauvaise posture">}}
 
 
-
 Les carrières forestières, faute de carriers et de cantonniers forestiers 
   ne suffisent bientôt plus. Il est fait appel aux entreprises privées. 
 Les entreprises Le Dilly, Hummel, Derré, remplacent progressivement la
@@ -360,7 +360,7 @@ Plus tard, en 1953, Robert Calvel, nouveau brigadier, excédé de voir ses ouvri
   un balai ou une pelle entre les mains, décide avec l'aval de son ingénieur 
   M. Lorne, de goudronner les routes de sa brigade.
 
-## * « Les ouvriers ont mieux à faire ..... en forêt. »*
+###  « Les ouvriers ont mieux à faire ..... en forêt. »
 
 Les routes sont désormais l'affaire des Ponts et Chaussées et 
   les ouvriers redeviennent véritablement des sylviculteurs à part entière. 
@@ -467,7 +467,10 @@ Un geai aurait-il porté l’affaire auprès du journal ?...Mystère...
 
 
 
-Bibliographie : 
-Archives O.N.F. livrets journaliers des préposés des deux brigades de Bercé et témoignage des anciens. 
+### Bibliographie : 
+  
+Archives O.N.F. livrets journaliers des préposés des deux brigades
+          de Bercé et témoignage des anciens. 
+  
 GALLICA : Archives Départementales de la Sarthe.
 
