@@ -450,7 +450,9 @@ Il suffit d’un rien !
 
 {{<figure src="/images/articles/accident2.jpg" title="Glandée 1994">}}
 
-
+Pourtant chaque année les routes sont entretenues, ci dessous la route Neuve dite route André Hallays (près du Wautot.
+  
+{{<figure src="/images/articles/film.jpg" title="Le film Chroniques de Bercé, retrace l'entretien routier">}}
 
 Ce spectaculaire carnage fut, quant à lui, sans gravité. Les dégâts ne 
   furent que matériels. Seul, un billet d’humeur paru sur le Ouest-France 
