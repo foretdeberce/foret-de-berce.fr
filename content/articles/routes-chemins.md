@@ -12,18 +12,20 @@ tags: ["Topographie","Cartographie","Carrières ","Ronds"]
 La gaule celtique incorporait la Cénomanie : la province du Maine.
 Mais discrète, Bercé ne figure même pas, contrairement à la forêt d’Andaînes, 
 sur la première carte de France. Dans les débuts, il y a 2000 ans, 
-la Légion de César, basée non loin d'ici, à Sougé, près du Loir, 
-était saisie d'effroi à l'idée de traverser la grande forêt des Aulerques Cénomans 
-et des Carnutes, forêts noires et impénétrables.
 
 {{<figure src="/images/articles/camp-cesar.jpg" title="Le camp de César, proche de Bercé">}}
 
+la Légion de César, basée non loin d'ici, à Sougé, près du Loir, 
+était saisie d'effroi à l'idée de traverser la grande forêt des Aulerques Cénomans 
+et des Carnutes, forêts noires et impénétrables.  
+  
 {{<figure src="/images/articles/carte-cesar.jpg" title="Situation du camp de César">}}
 
-## Au Moyen-âge 
+## Au moyen-âge 
 
 *«Elle était sans doute un de ces massifs à peu près inexplorés, toujours presque vierge,
   ou Charlemagne allait peut-être chasser.»* 
+  
 A l’image de la description faite par POTEL en 1923 dans son ouvrage sur la forêt de Bercé.
 
 {{<figure src="/images/articles/moyenage.jpg" title="Une forêt hors axes de circulation">}}
@@ -45,9 +47,12 @@ De ce handicap routier, elle sut tirer parti et nous parvient intacte aujourd'hu
   
 Au fil du temps c'est par pur souci de sécurité que l'homme déboise méthodiquement, 
   essarte, implante ses champs en grappes, les entourant de fossés.
+  
   D’après la carte de 1669, 
   au seul examen des cent kilomètres de son périmètre, Bercé apparaît comme un centre de 
-  résistance au défrichement. Dans les angles rentrants du Massif on a de grandes chances
+  résistance au défrichement.
+  
+  Dans les angles rentrants du Massif on a de grandes chances
   de trouver l'entrée d'un sentier, car l'homme soucieux de sa sécurité, pénétrait en 
   sous-bois le plus tardivement possible. 
 
@@ -64,17 +69,20 @@ C'est l'époque où le loup, grand prédateur, hantait les fourrés et que les b
 Le manque d’infrastructure routière est crucial en 1669, date de l’ordonnance de Colbert.
   Utilisés par les charretiers, transporteurs en tous genres et leurs bêtes de somme, 
   ces anciens chemins se font aujourd’hui si discrets que l’on a bien du mal à les repérer. 
+  
 Nous ne sommes pas encore à l’ère industrielle et la sylviculture est encore du type
   tire et aire, (c'est-à-dire qu’on traite les parcelles en régénération de proche en proche, 
   par réensemencement naturel). 
 
     Article 3 du titre 28 de l'Ordonnance de 1669
     règlant les matières forestières.
-    *"Ordonnons que tous bois, épines, et broussailles,
+    "Ordonnons que tous bois, épines, et broussailles,
     qui se trouveront dans l'espace de 60 pieds des grands
     chemins servant au passage des coches et carrosses
     publics, seront essartés et coupés, en sorte que le chemin
-    soit libre et plus sûr"*. Les routes royales de Vaas et 
+    soit libre et plus sûr". 
+  
+    Les routes royales de Vaas et 
     de Tours furent ainsi établies.
     Cette même ordonnance prévoit « la pose de croix,
     poteaux ou pyramides avec des inscriptions ou marques 
@@ -92,14 +100,15 @@ En 1783, date du deuxième aménagement de Bercé, le surintendant Chaillou,
   agissant pour les intérêts de Monsieur, frère du roi, entreprend le 
   percement de Bercé, à la façon des grandes forêts royales à savoir:
 
-{{<figure src="/images/articles/chenedesire.jpg" title="Rond à la mémoire de Louis XVIII">}}
-
+{{<figure src="/images/articles/chenedesire.jpg" title="Rond dédié à Louis XVIII">}}
 
 
 Création d'un réseau dense de routes, convergeant vers les carrefours en étoile, 
   répondant parfaitement à l'archétype du théâtre de la chasse à courre.
+  
   De petits rendez-vous de chasse, contribueront plus tard à leur ornement 
   servant aussi d'abris provisoires aux cantonniers de la forêt. 
+  
   Sommières et layons, régulièrement entretenus, divisent le massif
   conformément aux prescriptions de l’aménagement. 
 
@@ -108,7 +117,9 @@ Création d'un réseau dense de routes, convergeant vers les carrefours en étoi
 
 Certains ronds se trouveront ainsi décalés par rapport aux carrefours anciens,
   tels ceux de la Croix-Marconnay (construction de la loge en 1886 : 10.000 f), 
-  du Clocher, de Croix-Veneur…D'autres ont disparu, effaçant ainsi toutes traces 
+  du Clocher, de Croix-Veneur…
+  
+  D'autres ont disparu, effaçant ainsi toutes traces 
   des anciennes voies de communication et se fondent aujourd'hui dans la végétation,
   telle la Croix du Charme Béni, situé à un point culminant de Bercé "175 m" 
   dans la Parcelle 167. 
@@ -121,9 +132,10 @@ Certains ronds se trouveront ainsi décalés par rapport aux carrefours anciens,
 A la révolution, si les routes sont apparemment ouvertes, elles ressemblent bien souvent 
   à des lignes étroites en terrain naturel, allant par monts et par vaux, ignorant 
   les vallées et obstacles naturels, jusque là infranchissables aux chariots. 
+  
 L’auxiliaire du voiturier est en ces temps éloignés, le plus souvent, le cric. 
 
-## De 1783 à 1843 l’évolution routière est fulgurante : 
+### De 1783 à 1843 l’évolution routière est fulgurante : 
 
 On déboise les emprises, terrasse, et creuse des fossés pour assainir les chemins.
 
@@ -143,16 +155,16 @@ En 1825, chaque voiturier devait verser 2 m3 de pierres
 
 En 1828, le chemin de Pruillé était presque impraticable pour la circulation des
   voitures. 
-«Et pourtant, ce chemin serait d'une grande utilité, vu qu'il communique par 
+*«Et pourtant, ce chemin serait d'une grande utilité, vu qu'il communique par 
   une des allées de la forêt à la grande route du Mans à Tours, 
   et que ce serait par cette route que viendrait la chaux et 
-  la pierre d'Ecommoy, ainsi qu'une grande partie des bois de la forêt de Bercé.»
+  la pierre d'Ecommoy, ainsi qu'une grande partie des bois de la forêt de Bercé.»*
   
 Déclarée d’utilité publique cette voie (le futur C.D.13) sera créée dès 1839. 
 
      Le 1er mars 1840 à 10 heures du matin, le conseil municipal 
      de Saint-Vincent-du -Lorouër, délibère sur le fait que :
-     *«…les chemins vicinaux traversant la forêt domaniale 
+     «…les chemins vicinaux traversant la forêt domaniale 
      doivent être maintenus en état par l'administration forestière
      qui avait alors des cantonniers…Que par suite du non entretien 
       depuis trois ans ces chemins se sont considérable ment dégradés
@@ -165,7 +177,7 @@ Déclarée d’utilité publique cette voie (le futur C.D.13) sera créée dès 
      c’est à dire, que la contribution que paye annuellement l’État 
      à la commune, en vertu de l’article 13 soit mis à la disposition
      de l’administration forestière à la condition que celle-ci se 
-     charge de l’entretien des dits chemins.»*
+     charge de l’entretien des dits chemins.»
 
      Suite à cette lettre qui fut transmise au préfet et au directeur 
      général des forêts, les utilisateurs et voituriers furent
@@ -237,26 +249,31 @@ Dès cette époque, sont entreprises les premières plantations d'arbres
   exotiques d'ornement, (séquoias, cèdres, cyprès ...) autour des différents ronds-points. 
 Ces plantations perdureront. 
 
-La voirie est riche en vocabulaire, relevé ça et là sur les 
-  vieux registres des gardes cantonniers de la forêt :
-  Chaînage de la route, 
-  emploi des matériaux,
-  débourleter les accotements,
-  comblement d'ornières,
-  enlèvement de pierres roulantes,
-  ouverture de saignées,
-  ébouage de la chaussée ou rabotage de la boue,
-  essartement des accotements ou enlèvement des accrues,
-  empierrement du hérisson,
-  ragréage et terrage des pierres,
-  piochage,
-  rechargement, 
-  ébossage, 
-  bombement,
-  cylindrage, 
-  balayage,
-  curage des fossés,
-  entretien des dalots.
+    La voirie est riche en vocabulaire,
+    relevé ça et là sur les 
+    vieux registres des gardes 
+    cantonniers de la forêt :
+  
+    Chaînage de la route, 
+    emploi des matériaux,
+    débourleter les accotements,
+    comblement d'ornières,
+    enlèvement de pierres roulantes,
+    ouverture de saignées,
+    ébouage de la chaussée 
+    ou rabotage de la boue,
+    essartement des accotements
+    ou enlèvement des accrues,
+    empierrement du hérisson,
+    ragréage et terrage des pierres,
+    piochage,
+    rechargement, 
+    ébossage, 
+    bombement,
+    cylindrage, 
+    balayage,
+    curage des fossés,
+    entretien des dalots.
 
 {{<figure src="/images/articles/wautot.jpg" title="La gare à pierres du Wautot">}}
 
@@ -264,23 +281,23 @@ La voirie est riche en vocabulaire, relevé ça et là sur les
 On dispose des gares à pierres (1896) encore visibles de nos jours,
   comme ici (sur la photo) au rond Wautot...derrière la voiture.
   La couleur foncée du poteau est due à la sous-couche anti rouille.
-C’est un créneau dans l'accotement qui accueillait un tas de pierres
+  C’est un créneau dans l'accotement qui accueillait un tas de pierres
   d'environ un mètre cube. Les gares étaient dispersées régulièrement 
   le long des routes. À la livraison du tout-venant, 
   le cantonnier piquait un jalon sur les places nécessiteuses.
 
-     *« Tout garde ou brigadier qui aura employé ou laissé 
+     « Tout garde ou brigadier qui aura employé ou laissé 
      employer un seul tas de pierres, d'une fourniture nouvelle, 
      sans l'ordre écrit du chef de cantonnement sera puni,
      et la valeur du cube de matériaux employés avant l'envoi 
      de cet ordre sera mise à la charge du préposé qui aura donné 
-     l'ordre d'emploi ou laissé faire les ouvriers. »*  
+     l'ordre d'emploi ou laissé faire les ouvriers. »  
      Le Mans 30 novembre 1898. …. 
      Signé : Louis-Roulleau de la Roussière 
 
-L’inspecteur Roulleau fut à l’origine du nom de quelques routes dont la fameuse
-  avenue Roulleau et du rond-point dont mention est faite par 
-  le garde Jouaux dès le 8 mai 1899.
+L’inspecteur Roulleau fut à l’origine du nom de quelques routes 
+  dont la fameuse avenue Roulleau et du rond-point dont mention
+  est faite par le garde Jouaux dès le 8 mai 1899.
   Il est aussi l’auteur d'une carte routière de la 
   forêt de Bercé et de ses environs, datée de 1905. 
 
@@ -297,15 +314,15 @@ Le transit des bois dégrade les routes et en janvier 1906,
   la Croix-Marconnay au rond Wautot qui avait été tracée avant-guerre. 
   C’est la route dite ...Neuve, baptisée plus tard André Hallays. 
 
-Au départ de Croix-Marconnay, la ligne Charles Mendès qui relie le rond Jousset et prolonge la lgne A.Hallay.
-  (Mendès Charles François Jules Marie, officier forestier issu de l'ENEF) capitaine du 84ème R.I., 
-  MPLF le 19 février 1915
+Au départ de Croix-Marconnay, la ligne Charles Mendès qui relie le rond Jousset
+  et prolonge la ligne A.Hallay est ouverte.(Mendès Charles François Jules Marie, 
+  officier forestier issu de l'ENEF) capitaine du 84ème R.I., MPLF le 19 février 1915
 
 {{<figure src="/images/articles/ligne-mendes.jpg" title="La ligne Charles Mendès en travaux">}}
 
 Entre les deux guerres, la France s'amuse, les bals de l'Hermitière font recette. 
   
-Le 21 juin 1923,  le garde Pigault reçoit communication d'une décision autorisant 
+Le 21 juin 1923, le garde Pigault reçoit communication d'une décision autorisant 
   une dépense de 2003 francs pour les deux brigades de la forêt de Bercé. 
   Cette somme correspond aux réparations de l'usure causée aux routes forestières
   par la circulation touristique. Entre les deux guerres et durant la dernière,
@@ -314,7 +331,8 @@ Le 21 juin 1923,  le garde Pigault reçoit communication d'une décision autoris
   mettent celles ci à rude épreuve, d’autant que la forêt est fortement 
   sollicitée en bois de mine et en traverses. 
 
-En mars 1934 on plantera des douglas au Buisson et Croix-Marconnay, des cyprès au Pézeray et à Jousset. 
+En mars 1934 on plantera des douglas au Buisson et Croix-Marconnay, 
+  des cyprès au Pézeray et à Jousset. 
 
 Quelques ponts de bois s’effondrent, à Croix-Chambault en 1939, au Pressoir en 1940.
 
@@ -330,6 +348,7 @@ En 1947, depuis le dernier aménagement de 1911, 6400 m de routes ont été cré
 Après guerre, l’intensification des empierrements est de rigueur. 
   
 Roger Vercel s’extasiait devant les allées forestières de Bercé, allant jusqu’à écrire :
+  
  *« … je puis proclamer qu’il n’existe nulle part de plus majestueuses, 
   de plus nobles avenues sylvestres que les nôtres! »*.
 
@@ -343,7 +362,7 @@ Les charretiers disparaissent progressivement du paysage forestier au profit de 
 
 {{<figure src="/images/articles/maine1946.jpg" title="Les chargements s’allourdissent">}}
 
-Et de nos jours encore !
+Et de nos jours encore les chargements sont monstrueux!
 
 {{<figure src="/images/articles/accident3.jpg" title="Un grumier en bien mauvaise posture">}}
 
@@ -384,15 +403,16 @@ Mais tout n'est pas noir et Goenvec, agent technique à la Doucinière,
   note en 1959 : « travaux et transferts sans perte de temps. 
   Le chauffeur travaille au mieux des intérêts de l’administration ».
   
-Le revêtement choisi est rose ce qui distingue les routes du domaine privé de Bercé. 
+Le revêtement choisi est rose ce qui distingue les routes domaniales de Bercé. 
   
-Calvel, le Chef du secteur Est, le choisi  rose (comme en région parisienne 
+Calvel, le Chef du secteur Est, l'a choisi  rose (comme en région parisienne 
   d’où il arrive et parce que cette couleur se rapproche tout naturellement 
-  des tons automnaux).C’est tout de même moins morose que le gris….
+  des tons automnaux).
+  C’est tout de même moins morose que le gris….
   ...mais bien plus cher!
   
 On constatera plus tard que le liant était moins solide avec 
-  le gravillonnage rose.
+  ce gravillonnage rose.
 
 
 ### 1966, création de l'Office national des forêts. 
