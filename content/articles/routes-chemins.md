@@ -395,7 +395,7 @@ On constatera plus tard que le liant était moins solide avec
   le gravillonnage rose.
 
 
-## 1966, création de l 'Office national des forêts. 
+### 1966, création de l'Office national des forêts. 
 
 Les forêts s'ouvrent, par décret, au public.
   
@@ -412,18 +412,18 @@ Les ramasseurs de champignons l’ont adoptée, mais en trop grand nombre,
     Pied : 1 pied = 0,33 m. => 60 pieds = 19,80 m. 
 
     Monsieur : Frère du roi Louis XVI - futur Louis XVIII le Désiré, comte de Provence, 
-  du Maine et du Perche, duc d'Anjou et d'Alençon, dernier apanagiste de la forêt.
+    du Maine et du Perche, duc d'Anjou et d'Alençon, dernier apanagiste de la forêt.
 
     Apanagiste : Personne jouissant de fiefs dus à son rang de cadet royal (depuis 1031). 
 
     Cantonniers : Les gardes cantonniers seront présents sur Bercé,
-  jusqu'au 27 avril 1910 - Avec leur tache sylvicole, les ouvriers forestiers
-  ou auxiliaires, sont souvent assimilés à des cantonniers. 
-  (Le terme « cantonnier » sera remplacé après guerre par
-  celui d’auxiliaire forestier).
+    jusqu'au 27 avril 1910 - Avec leur tache sylvicole, les ouvriers forestiers
+    ou auxiliaires, sont souvent assimilés à des cantonniers. 
+    (Le terme « cantonnier » sera remplacé après guerre par
+    celui d’auxiliaire forestier).
 
     Chômeurs : Main d’œuvre des industries du Mans travaillant en 1939 pour
-  la guerre et qui a refusé de reprendre le travail en faveur de l’occupant. 
+    la guerre et qui a refusé de reprendre le travail en faveur de l’occupant. 
 
     Dalots : Canalisations dallées traversant les routes et chemins. 
 
@@ -444,7 +444,7 @@ Beaucoup furent mortels sur les routes roses, trop roulantes et droites.
 Bien des convois agricoles ou forestiers empruntent les ronds dans le sens
   inverse de la circulation. 
 
-Il suffit d’un rien ! 
+### Il suffit d’un rien ! 
 
 {{<figure src="/images/articles/accident2.jpg" title="Glandée 1994">}}
 
