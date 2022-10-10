@@ -324,8 +324,6 @@ A la fin de la guerre 39-45, deux bombes lâchées par un avion en perdition
   épargneront de peu la chaussée aux Forges et à la Croix-Marconnay, 
   sans faire de victimes mais beaucoup de bruit. 
 
-{{<figure src="/images/articles/ligne-mendes.jpg" title="La ligne Charles Mendès en travaux">}}
-
 
 En 1947, depuis le dernier aménagement de 1911, 6400 m de routes ont été créés. 
 Après guerre, l’intensification des empierrements est de rigueur. 
