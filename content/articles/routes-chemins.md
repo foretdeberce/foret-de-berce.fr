@@ -146,6 +146,9 @@ On déboise les emprises, terrasse, et creuse des fossés pour assainir les chem
   précise l'aménagiste de 1843, à l’image de la ligne des Trembles
   qui fut élargie en 1881 seulement. 
 
+{{<figure src="/images/articles/trembles.jpg" title="La fameuse ligne des trembles qui mène à la Coudre">}}
+  
+  
 Vers 1800, en forêt, il n’y avait pas de pierres sur ces chemins en terrain naturel et enherbés.
 Ce n’est qu’un demi-siècle plus tard que les forestiers ouvriront leurs carrières.
 
