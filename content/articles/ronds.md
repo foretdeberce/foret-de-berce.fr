@@ -165,7 +165,7 @@ Le Rond de Nacron : le 5 août  1960  Goenvec consignera :
   des travaux  de goudronnage sur la RF Chauvinière et constitué 
   par 2 chênes jetés en travers de la RF des Trembles et à une 
   distance de 30 m du Rond, avait été enlevé. Les 2 chênes jetés,
-  rejetés de chaque côté des fossés bordiers (fait par un grumier, 
+  rejetés de chaque côté des fossés bordiers (fait par un grumier,  
   agissant pour le compte de Louis Bonnichon).
   
 
