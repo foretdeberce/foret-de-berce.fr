@@ -476,21 +476,7 @@ Chaque année les routes sont entretenues, ci dessous la route Neuve dite route 
   
 {{<figure src="/images/articles/film.jpg" title="Le film Chroniques de Bercé, dévoile entre autre, l'entretien routier">}}
 
- ### Il suffit d’un rien ! 
 
-{{<figure src="/images/articles/accident2.jpg" title="Glandée 1994">}}
- 
-  
-Ce spectaculaire carnage fut, quant à lui, sans gravité. Les dégâts ne 
-  furent que matériels. Seul, un billet d’humeur paru sur le Ouest-France 
-  des 12 et 13 novembre 1994, alimenta la rumeur, car sur place le 17
-  octobre 1994, il n’y avait que les oiseaux pour contempler cette scène,
-  digne d’un très mauvais scénario.
-Un geai aurait-il porté l’affaire auprès du journal ?...Mystère... 
-  
-{{<figure src="/images/articles/loir.jpg" title="Le billet d’humeur du jour">}}
-  
-  
 
 {{<figure src="/images/articles/vercel.jpg" title="La morale du jour">}}
 
