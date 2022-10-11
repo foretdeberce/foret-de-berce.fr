@@ -9,6 +9,8 @@ tags: ["Topographie","Cartographie","Carrières ","Ronds"]
 
 ## Au début de notre ère :
 
+{{<figure src="/images/articles/france.jpg" title="Première carte de l'ouest de la France">}}
+
 La gaule celtique incorporait la Cénomanie : la province du Maine.
 Mais discrète, Bercé ne figure même pas, contrairement à la forêt d’Andaînes, 
 sur la première carte de France. Dans les débuts, il y a 2000 ans, 
