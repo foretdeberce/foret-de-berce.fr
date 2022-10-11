@@ -24,7 +24,7 @@ Martelages et griffages sont deux opérations ou le forestier peut librement
   La marque AF du flachis rond désigne à l’époque aussi bien l’administration
   forestière que celle des finances qui étaient un temps les mêmes.
 
-{{<figure src="/images/articles/depart.jpg" title="Rendez-vous avant le départ en opération">}}
+{{<figure src="/images/articles/clocher.jpg" title="Rendez-vous avant le départ en opération">}}
 
   Par le passé 
 Les marteaux utilisés en opération conjointe de martelage (dits marteaux de l’État, 
