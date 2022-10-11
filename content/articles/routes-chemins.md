@@ -409,6 +409,8 @@ Mais tout n'est pas noir et Goenvec, agent technique à la Doucinière,
   Le chauffeur travaille au mieux des intérêts de l’administration ».
   
 Le revêtement choisi est rose ce qui distingue les routes domaniales de Bercé. 
+
+  {{<figure src="/images/articles/rose.jpg" title="Revêtement rose au niveau du rond Wautot">}}
   
 Calvel, le Chef du secteur Est, l'a choisi  rose (comme en région parisienne 
   d’où il arrive et parce que cette couleur se rapproche tout naturellement 
