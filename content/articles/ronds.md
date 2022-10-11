@@ -8,7 +8,7 @@ tags: ["Topographie","Cartographie","Carrières ","Ronds"]
 ---
 
  
-	{{<figure src="/images/articles/rond-wautot.jpg" title="Le rond Wautot">}}
+{{<figure src="/images/articles/rond-wautot.jpg" title="Le rond Wautot">}}
 
 Août 1669, la grande ordonnance de Jean Baptiste Colbert
 réglant les matières forestières prévoit 
@@ -67,14 +67,18 @@ Petit à petit les nouveaux carrefours se substituent aux anciens délaissés.
   sortir quoique ce soit de la forêt sans "fondre" lamentablement par
   temps de pluie dans les ornières.
  
-	Vers 1880, le rond prend toutes ses lettres de noblesse.
+Vers 1880, le rond prend toutes ses lettres de noblesse.
+	
 C’est en effet à cette époque  que l'on met en scène le carrefour,
   en y installant un poteau en fonte (pur style sarthois) au centre de l'étoile.
+	
 On plante tout autour de celui-ci des arbres exotiques, 
   et y construit une loge qui ajoute une touche d'intimité 
   à ce lieu privilégié.
+	
   Le creusement d'une mare pour les chevaux de
   passage parachève le tableau.
+	
 Ces petits « rendez-vous de chasse », servant à l’occasion 
   d'abris provisoires aux "cantonniers" de la forêt ainsi 
   qu’aux réunions et déjeuners des forestiers, contrairement 
