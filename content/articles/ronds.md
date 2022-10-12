@@ -131,6 +131,13 @@ En Mars 1911 : Jouaux (successeur de Heintz) repeint les poteaux des Ronds de so
  
  {{<figure src="/images/articles/guinier1.jpg" title="Rond du Guinier">}}
 	
+{{<youtube id="bPD5DrYe5ck">}}
+
+### Rond du Guinier et chêne à gui: @ le mauriennais - forêt de Bercé
+	
+	        Le chêne à gui est le grand chêne seul
+		dans la parcelle 228 en bordure du CD 63
+	
 Ainsi le Guinier (1906), Bel-air (1923) et plus tard :
 
 Le Rond de la croix : 
