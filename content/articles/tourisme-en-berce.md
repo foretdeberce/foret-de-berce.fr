@@ -125,7 +125,10 @@ Les arbres réservés dans les conditions indiquées, seront
 utilement repérés et reconnus avant le passage  des coupes de
 régénération à Bercé et Perseigne, en vue de leur martelage
 en réserve.
-N.D.L.R.: On sait aujourd’hui qu’en matière de Paysage, ce système est une très mauvaise solution. Il est préférable de briser les bordures, voir de laisser des bouquets Feuillus dans les résineux ou vice et versa .
+N.D.L.R.: On sait aujourd’hui qu’en matière de Paysage, ce système
+  est une très mauvaise solution. Il est préférable de briser les
+  bordures, voir de laisser des bouquets Feuillus dans 
+  les résineux ou vice et versa .
 
 ## 1er août 1928
 
