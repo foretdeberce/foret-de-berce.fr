@@ -8,7 +8,9 @@ tags: ["Remarquables","Tourisme","Hommes","Tramway","Hermitiere","Coudre","Boppe
 ---
 
 ## 3 Avril 1905
-Dès le xxe siècle, le tourisme se développe avec les avancées techniques et le développement de l'automobile. Note de Roulleau : 3 Avril 1905 à Mr le Garde Général.
+Dès le xxe siècle, le tourisme se développe avec les avancées techniques et 
+le développement de l'automobile. Note de Roulleau :
+*3 Avril 1905 à Mr le Garde Général.
 J’ai attiré d’une façon très particulière votre attention dans mes
 lettres du 16/08 et du 27/10/1904 sur la question des mesures à
 prendre pour empêcher les déprédations de toutes sortes qui étaient
@@ -17,52 +19,64 @@ Les affiches que j’avais prescrites ont été posées, il s’agit
 maintenant pour le personnel de tenir la main à ce que les menaces
 qu’elles édictent, ne restent pas vaines.
 
-Je vous recommande donc d’une façon pressante, d’insister à ce sujet
+*Je vous recommande donc d’une façon pressante, d’insister à ce sujet
 près de votre personnel au moment où les visiteurs vont recommencer
 à venir en Forêt.
 Personne n’est plus porté à la tolérance que moi, mais la mesure
 est à son comble nos paysages, nos arbres sont menacés, nous devons
 les protéger efficacement.
 
-Les préposés seront d’autant plus coupables de fermer les yeux sur
+*Les préposés seront d’autant plus coupables de fermer les yeux sur
 les contraventions commises que l’opinion toute entière est avec nous
 dans cette question.
 
-Les affiches posées cet hiver à Bercé ont été connues de la presse
+*Les affiches posées cet hiver à Bercé ont été connues de la presse
 spéciale et de la presse politique, Tous, qu’ils s’agisse du
 Touring-Club, des Débats, ou du Petit Parisien sont avec nous.
-J’espère donc que les gardes de Bercé rempliront leur devoir sans passion comme sans faiblesse.
+J’espère donc que les gardes de Bercé rempliront leur devoir sans 
+passion comme sans faiblesse.
 
 ## 5 Mars 1920
 
 Le Conseiller d’État, Directeur Général des E et F (L.DABAT) s’exprime en ces mots :
-Le Tourisme constituant pour la France, une source d’importants revenus, il importe
-dans les circonstances actuelles, plus encore que par le passé, d’en favoriser le développement et d’en stimuler l’essor. Les Forêts qui forment une des plus belles portions de notre patrimoine national, présentent pour les touristes un attrait tout particulier.
-Il importe d’accroître encore nos efforts pour conserver et mettre en valeur les beautés naturelles des forêts, ainsi que pour y faciliter la circulation des touristes.
+
+*Le Tourisme constituant pour la France, une source d’importants revenus, il importe
+dans les circonstances actuelles, plus encore que par le passé, d’en favoriser le 
+développement et d’en stimuler l’essor. Les Forêts qui forment une des plus belles
+portions de notre patrimoine national, présentent pour les touristes un attrait tout particulier.
+Il importe d’accroître encore nos efforts pour conserver et mettre en valeur les 
+beautés naturelles des forêts, ainsi que pour y faciliter la circulation des touristes.
 Mesures de conservation (n’entraînant aucune dépense) :
 •	Création en France de 44 séries artistiques ( groupe d’arbres remarquables pour leur forme, leurs dimensions, leur situation.
 •	Les routes, sentiers fréquentés, les carrefours et ronds-points doivent être bordés de réserves.
 •	Les emplacements de carrières doivent également être choisis avec soins.
 •	Mettre en valeur les souvenirs historiques.
 Mesures d’amélioration :
-•	Amélioration des routes et sentiers touristiques ( élargissement des routes) . (pour que l’ombre des arbres (Réserves) ne donne pas trop d’humidité à la partie empierrée, on sera parfois amené à créer, de chaque côté de celle-ci, un large accotement gazonné, coupé de saignées pour l’écoulement des eaux.
+•	Amélioration des routes et sentiers touristiques ( élargissement des routes).
+(pour que l’ombre des arbres (Réserves) ne donne pas trop d’humidité à la partie 
+empierrée, on sera parfois amené à créer, de chaque côté de celle-ci, un large 
+accotement gazonné, coupé de saignées pour l’écoulement des eaux.
 •	Les carrefours devront avoir un diamètre suffisant.
-•	Certaines parties de Forêt, pourront être aménagées en Parc , en Jardin.
+•	Certaines parties de Forêt, pourront être aménagées en Parc , en Jardin.*
 
 ## 10 Mai 1920
 
-Note de Potel à porter verbalement à la connaissance des gardes en réunion de brigade.
-Parmi les mesures prescrites, j’appelle  leur attention sur
+Note de Potel à porter verbalement à la connaissance
+des gardes en réunion de brigade.
+
+*Parmi les mesures prescrites, j’appelle  leur attention sur
 l’utilité des sentiers pouvant servir aux touristes, soit pour visiter
 les peuplements, soit pour se rendre de la route à un endroit
-intéressant (arbres remarquables, sources, point de vue, etc.).
+intéressant (arbres remarquables, sources, point de vue, etc.).*
 
-Ces sentiers devront être entretenus avec les concessionnaires et de
+*Ces sentiers devront être entretenus avec les concessionnaires et de
 nouveaux sentiers seront tracés, s’il en est besoin.
 La question des plaques indicatrices, devra être aussi étudiée.	
-Propagande Touristique
+Propagande Touristique*
 27 Déc. 1924
-En vue de la préparation d’une brochure de Propagande destinée au Public Anglais au sujet de la Chasse et de la Pêche en Sarthe, lieux desservis par notre réseau (Château du Loir - Le Mans, Chemin de fer de Paris - Orléans).
+En vue de la préparation d’une brochure de Propagande destinée au Public 
+Anglais au sujet de la Chasse et de la Pêche en Sarthe, lieux desservis
+par notre réseau (Château du Loir - Le Mans, Chemin de fer de Paris - Orléans).
 Réponse du Brigadier Julliard:
 Couac !
 Les renseignements demandés semblent dépasser les attributions des
@@ -76,6 +90,11 @@ Préposés ne sont pas destinées pour servir à des
 intérêts particuliers.
 Point de vue partagé par le Brigadier Albrecht.
 Cordons d’arbres réservés le long des routes
+
+{{<youtube id="hHovPnvJXkw" autoplay="true">}}
+  
+### @ DJi Phantom 3 Standard, survol Foret de Bercé, le 20-11-2019.
+  Survol des grands sites de Bercé
 
 ## 8 Mai 1928
 
