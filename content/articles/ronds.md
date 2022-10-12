@@ -41,14 +41,15 @@ En 1782, le Surintendant Chailloux, peaufine pour Monsieur
 {{<figure src="/images/articles/louis18.jpg" title="Louis XVIII">}}
 
 Des ronds à 6 branches, il y en avait qu’un seul à l’origine, 
-  vers 1820 : le rond du chêne Désiré,
-très prisé des veneurs. Rond et chêne sont ainsi dédiés à l’apanagiste
-  de Bercé: M. Comte de Provence, Louis XVIII le Désiré.
+  vers 1820 : le rond du chêne Désiré,très prisé des veneurs. 
+	Rond et chêne sont ainsi dédiés à l’apanagiste
+	de Bercé: M. Comte de Provence, Louis XVIII dit le Désiré.
 	
 	
 {{<youtube id="HtwpOO8_KMk">}}
 
-
+### @ Sylvain Photouvoir drone DJI phantom 2
+	
 Le rond du Clocher, quant à lui, n’eût droit à sa cinquième
   puis sixième branche qu’à la fin du 19e siècle.
 
@@ -80,10 +81,11 @@ On plante tout autour de celui-ci des arbres exotiques,
   Le creusement d'une mare pour les chevaux de
   passage parachève le tableau.
 	
-Ces petits « rendez-vous de chasse », servant à l’occasion 
+Ces petits « rendez-vous de chasse », servent à l’occasion 
   d'abris provisoires aux "cantonniers" de la forêt ainsi 
-  qu’aux réunions et déjeuners des forestiers, contrairement 
-  aux « balays » ne servent que très rarement aux bûcherons. 	
+  qu’aux réunions et déjeuners des forestiers. 
+  Les « balays » forestiers, principalement installés sur
+  les coupes sont utilisés par les bûcherons. 	
 
 1780-1880 : 100 ans, c’est le temps qu’il aura fallu 
   attendre pour voir nos ronds ainsi pavoisés.
@@ -117,14 +119,18 @@ Les poteaux indicateurs en fonte sont posés, mais Pierre-Marin Leroi
   avons déclaré saisie de sa voiture chargée et rendu compte 
   au Brigadier».*
  
-8 Août 1896 : Heintz (garde aux Boussions) surveille la maçonnerie du Rond du Clocher.
+8 Août 1896 : Heintz (garde aux Boussions) surveille la maçonnerie
+	du Rond du Clocher.
+	
 En Mars 1911 : Jouaux (successeur de Heintz) repeint les poteaux des Ronds de son triage.
   Ces poteaux seront régulièrement repeints en brun, puis au minium et enfin en blanc.
   Au fil du temps, ces ronds, fierté du massif de Bercé, vont, avec la circulation
   et le modernisme payer un lourd tribut.
+	
+### Les accidents sont nombreux
  
  {{<figure src="/images/articles/guinier1.jpg" title="Rond du Guinier">}}
-
+	
 Ainsi le Guinier (1906), Bel-air (1923) et plus tard :
 
 Le Rond de la croix : 
