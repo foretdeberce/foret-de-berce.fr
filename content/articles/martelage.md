@@ -272,3 +272,6 @@ Les journées de martelage étaient fort sympathiques,
   très voisines, mais cependant, pour Viney, 
   des nuances plus conservatrices que pour moi.
 
+{{<youtube id="tFKv-eMuWTI" autoplay="true">}}
+  
+## Archive de l'I.N.A. (1994) sur le martelage en forêt de Bercé.
