@@ -275,3 +275,10 @@ Les journées de martelage étaient fort sympathiques,
 {{<youtube id="tFKv-eMuWTI" autoplay="true">}}
   
 ## Archive de l'I.N.A. (1994) sur le martelage en forêt de Bercé.
+  
+  
+{{<youtube id="rhtsuClFpYE" autoplay="true">}} 
+  
+## En fin d'année 2021 Le Meilleurs des Mags sur France 3 
+c'est en Sarthe, en forêt de Bercé ...
+Martelage d'aujourd'hui...
