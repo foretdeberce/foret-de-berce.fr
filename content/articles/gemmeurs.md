@@ -2,7 +2,7 @@
 title: "Les saigneurs de Bercé"
 date: 2022-10-13T18:22:44+01:00
 draft: false
-description: "La gemme"
+description: "Le gemmage"
 featured_image: "/images/et.resiniers.jpg"
 tags: ["Exploitation","Arbres","Livrets","Forestiers","Graines"]
 ---
