@@ -2,7 +2,7 @@
 title: "Des pignons pour du pognon"
 date: 2022-10-13T18:22:44+01:00
 draft: false
-description: "La collecte des pignons de pins maritimes"
+description: "Collecte des pignons de pins maritimes"
 featured_image: "/images/et.landes.jpg"
 tags: ["Exploitation","Arbres","Livrets","Forestiers","Graines"]
 ---
