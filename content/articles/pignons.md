@@ -1,6 +1,6 @@
  ---
 title: "Les saigneurs de Bercé"
-date: 2022-09-16T15:22:44+01:00
+date: 2022-10-13T18:22:44+01:00
 draft: false
 description: "Des pignons pour du pognon"
 featured_image: "/images/et.landes.jpg"
