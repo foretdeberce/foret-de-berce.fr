@@ -1,15 +1,14 @@
 ---
-title: "Choc de titans"
+title: "Daniel Girard"
 date: 2019-11-16T13:15:08+01:00
 draft: false
-description: "Daniel Girard, Photographe animalier"
+description: "Photographe animalier"
 featured_image: '/images/cerf.jpg'
 tags: ["Faune","Biodiversité","chasse"]
 ---
 
-## Choc de titans chronique d’une mort annoncée
 
-Portrait d’un talentueux et à la fois discret photographe animalier :
+## Portrait d’un talentueux et à la fois discret photographe animalier :
 
 {{<figure src="/images/articles/daniel.jpg" title="Survolant la forêt">}}
 
@@ -70,10 +69,14 @@ ont une distance de sécurité) et savent très bien que je ne leur désire aucu
 à chaque fois ils s’éloignent tranquillement sans presser le pas. Pourtant ils ont peur de l’humain, mais
 nous nous connaissons »*.
  
-## Le brame tourne au drame
-  # Les protagonistes :
+# Choc de titans 
+ ...chronique d’une mort annoncée
  
+## Le brame tourne au drame
+  
  {{<figure src="/images/articles/mathieu2.jpg" title="Le cerf Mathieu">}}
+ 
+### Les protagonistes :
  
  *« J’ai connu Mathieu en 1992, c’était début juillet, il était en train de frayer : il frottait
 ses bois aux branches pour en enlever le velours. C’était un cerf énorme et charpenté avec des bois
@@ -226,3 +229,9 @@ Le danger rôde la nuit et la nature, parfois, semble hostile!
  
 Son oeuvre d’éducation se poursuit auprès des photographes en herbe qui veulent affronter comme lui,
 cette vraie nature pour en découvrir toute la beauté cachée. 
+ 
+ {{<youtube id="lC-tl3hxZhQ" autoplay="true">}}
+ 
+## Dans la peau du cerf de Bercé
+Une vidéo de Daniel Girard, dans laquelle il
+ explique sa passion pour cet animal mythique.
