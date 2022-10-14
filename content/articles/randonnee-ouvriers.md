@@ -7,7 +7,6 @@ featured_image: "/images/et.revolte.jpg"
 tags: ["Histoire","Hommes","Ouvriers","Travaux"]
 ---
 
-
 1792 - Du rififi à Bercé
 
 La première partie du spectacle d’inauguration des jardins du château 
@@ -26,7 +25,6 @@ avec ses éléments chiffrés, éclaire de ses
 statistiques les causes de cette pénurie épisodique.
 
 {{<figure src="/images/articles/titre5.jpg" title="Les lieux de la révolte>}}
-
 
 ## En 1791, à cette époque, il restait encore beaucoup de terres en friches. 
 
@@ -143,7 +141,6 @@ Dès lors, les troubles se déclenchent:
       - que les excès, insultes et voies de fait commis dans le bourg de 
       Saint-Vincent du -Lorouër contre la Garde Nationale du Grand- Lucé étant dans 
       l'exercice de ses fonctions, sont des délits punissables, 
-
 
 
       Arrête 
@@ -299,7 +296,6 @@ Pierre CHAZIER, dit SANS-FAÇON. Le compte-rendu de son jugement reprend
     Jean SIMON, BOUTTIER de Pruillé et CHOUTEAU  
     qui ne sont pas ouvriers de la forêt, 
     et encore VOISIN de la Bonne Marchière.
-  
   
     Que le sujet de cet attroupement étoit de chasser, 
     le même jour, du marché du dit Lucé, tous les marchands
