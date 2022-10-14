@@ -1,6 +1,6 @@
 ---
 title: "La randonnée des ouvriers de Bercé"
-date: 2022-10-14T14:23:44+01:00
+date: 2022-10-13T17:23:44+01:00
 draft: false
 description: "Révolte des sabotiers"
 featured_image: "/images/et-revolte.jpg"
