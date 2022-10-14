@@ -7,6 +7,7 @@ featured_image: "/images/et.revolte.jpg"
 tags: ["Histoire","Hommes","Ouvriers","Travaux"]
 ---
 
+
 1792 - La randonnée des ouvriers de Bercé
 
 La première partie du spectacle d’inauguration des jardins du château 
