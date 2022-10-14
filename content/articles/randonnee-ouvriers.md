@@ -270,9 +270,9 @@ Comment ces taxateurs se sont-ils concertés pour élaborer leur projet et tente
   et qui, d'ailleurs, sera le seul inculpé de cette révolte: 
   
 Pierre CHAZIER, dit SANS-FAÇON. Le compte-rendu de son jugement reprend 
-  les différents témoignages et restitue les péripéties de la marche des 
-  ouvriers de la forêt :
-  *Le directeur du juré déclare qu'il résulte de l'examen des pièces :
+   les différents témoignages et restitue les péripéties de la marche des 
+   ouvriers de la forêt :
+   *Le directeur du juré déclare qu'il résulte de l'examen des pièces :
    Que le 21 mars dernier, sur les 7 à 8 heures du matin, le dit Pierre 
    CHAZIER, dit SANS-FAÇON fit battre la douelle dans la jeune vente 
    de la Chauvinière, dépendante de la forêt de Bercé, paroisse 
