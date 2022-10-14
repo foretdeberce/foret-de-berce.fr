@@ -25,7 +25,7 @@ La matrice cadastrale de Villaines-sous-Lucé (1791)
 avec ses éléments chiffrés, éclaire de ses 
 statistiques les causes de cette pénurie épisodique.
 
-{{<figure src="/images/articles/titre5.jpg" title="Les lieux de la révolte>}}
+{{<figure src="/images/articles/titre5.jpg" title="Les lieux de la révolte">}}
 
 ## En 1791, à cette époque, il restait encore beaucoup de terres en friches. 
 
