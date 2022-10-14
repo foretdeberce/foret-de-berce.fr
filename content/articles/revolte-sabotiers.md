@@ -172,7 +172,7 @@ Dès lors, les troubles se déclenchent:
  Qui sont donc ces brigands armés qui se portèrent au marché le mercredi
  21 mars 1792 ……..pour le piller ? 
 
-{{<figure src="/images/articles/ouvrier4.jpg" title="D’honnêtes travailleurs>}}
+{{<figure src="/images/articles/ouvrier4.jpg" title="D’honnêtes travailleurs">}}
                                                                                                                          
 Voici le signalement des 9 hommes qui ont été arrêtés, conduits au Château-du-Loir, 
   incarcérés et interrogés du 24 au 26 mars et ce,…. sans avocats…
@@ -314,7 +314,7 @@ Que la plupart de ces ouvriers attroupés furent intimidés et contraints
   d'aller avec lui à Lucé, qu'il ficherait le camp dans la 
   nuit après avoir commis ce mauvais traitement"
 
-  {{<figure src="/images/articles/fer-paroir.jpg" title="Grand paroir de sabotier>}}
+  {{<figure src="/images/articles/fer-paroir.jpg" title="Grand paroir de sabotier">}}
 
 et que plusieurs autres furent entraînés et séduits par les
   assurances que les affidés du dit Pierre CHAZIER leur 
@@ -436,7 +436,7 @@ Pierre ROTTIER s'en offensa
 Est-ce là ce que nous devions attendre de nos fédérations pour les fruits des serments 
   que nous avons faits de nous unir pour le soutien de la Constitution ?
 
-{{<figure src="/images/articles/revolution.jpg" title="La devise>}}
+{{<figure src="/images/articles/revolution.jpg" title="La devise">}}
   
 Cette indignité n'était réservée qu’à Saint–Vincent qui y mettait le comble, 
   et se ferait peut être honneur d’enlever au passage toutes les armes
@@ -502,7 +502,7 @@ BOUTTIER maire, LEMARCHAND officier, François BOMMER officier,
 Jean BEAUGE officier, LAROZE procureur de la commune, BRISSET secrétaire.»
 
 
-{{<figure src="/images/articles/bagne.jpg" title="La pose des fers>}}
+{{<figure src="/images/articles/bagne.jpg" title="La pose des fers">}}
 
 
 Le 31 mai 1792, Pierre CHAZIER,
@@ -516,7 +516,7 @@ dit SANS-FACON est condamné à la peine des fers pendant 16 années,
   et le présent jugement imprimé à cent exemplaires 
   pour Lucé, Château-du-Loir, Pruillé-l’Éguillé et là où besoin sera.»*
   
-{{<figure src="/images/articles/chaines.jpg" title="fers et chaîne>}}
+{{<figure src="/images/articles/chaines.jpg" title="fers et chaîne">}}
 
 La population Lucéenne avait montré sa sympathie à l'égard des ouvriers de la forêt. 
   Elle connaissait leurs intentions : 
@@ -539,7 +539,7 @@ Le blocage des prix, soulageant le petit peuple. Les ouvriers de Bercé font
   figure de précurseurs. Pour l'instant matés et résignés,
   ils ont quand même pris conscience des influences qu'ils pouvaient susciter.
 
-{{<figure src="/images/articles/tiersetatmini.jpg" title="Le tiers-état>}}
+{{<figure src="/images/articles/tiersetatmini.jpg" title="Le tiers-état">}}
 
 On a bien vu, à travers cet épisode peu connu de l'histoire locale, que la population
   pauvre avait bien quelques velléités, mais le pouvoir faisait bonne garde :
@@ -554,7 +554,7 @@ Cet historique, nous fait comprendre l’attachement du monde rural à sa forêt
   qui compose encore aujourd’hui la vie locale et associative (sociétés mutuelles d’entraide).
   Les honnêtes travailleurs haïssent tout simplement l’injustice allant jusqu’à se rebeller.
 
-{{<figure src="/images/articles/menottes.jpg" title="Les fers>}}
+{{<figure src="/images/articles/menottes.jpg" title="Les fers">}}
 
 
 ### Bibliographie :
