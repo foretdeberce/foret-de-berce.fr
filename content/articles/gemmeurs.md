@@ -25,7 +25,7 @@ C’est de lui que l’on tire la gemme.…
       de ceux qu'il assassine, dans son tronc douloureux ouvre
       un large sillon ! »   (1)
   
-## Quelques définitions :
+### Quelques définitions:
  
 Le gemmage : consiste à blesser un pin pour en récolter la gemme ou résine. 
   Le gemmage remonte sans doute à l'apparition de la forêt elle-même,
