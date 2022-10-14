@@ -2,7 +2,7 @@
 title: "Révolte des sabotiers"
 date: 2022-10-13T17:23:44+01:00
 draft: false
-description: "de la forêt de Bercé"
+description: "Émeutes à Lucé"
 featured_image: "/images/et.revolte.jpg"
 tags: ["Histoire","Hommes","Ouvriers","Travaux"]
 ---
