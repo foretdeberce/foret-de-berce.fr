@@ -1,13 +1,13 @@
 ---
-title: "La randonnée des ouvriers de Bercé"
+title: "Révolte des sabotiers"
 date: 2022-10-13T17:23:44+01:00
 draft: false
-description: "Révolte des sabotiers"
+description: "de la forêt de Bercé"
 featured_image: "/images/et.revolte.jpg"
 tags: ["Histoire","Hommes","Ouvriers","Travaux"]
 ---
 
-1792 - Du rififi à Bercé
+1792 - La randonnée des ouvriers de Bercé
 
 La première partie du spectacle d’inauguration des jardins du château 
 du Grand-Lucé présentait la «révolte des sabotiers». 
