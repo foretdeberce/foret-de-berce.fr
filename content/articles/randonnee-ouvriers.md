@@ -7,6 +7,8 @@ featured_image: "/images/et-revolte.jpg"
 tags: ["Histoire","Hommes","Ouvriers","Travaux"]
 ---
 
+1792 - Du rififi à Bercé
+
 La première partie du spectacle d’inauguration des jardins du château 
 du Grand-Lucé présentait la *«révolte des sabotiers».* 
 
