@@ -254,7 +254,7 @@ Comment ces taxateurs se sont- ils concertés pour élaborer leur projet et tent
   
 Pierre CHAZIER, dit SANS-FAÇON. Le compte-rendu de son jugement reprend les différents témoignages et
   restitue les péripéties de la marche des ouvriers de la forêt :
-« Le directeur du juré déclare qu'il résulte de l'examen des pièces :
+*Le directeur du juré déclare qu'il résulte de l'examen des pièces :
    Que le 21 mars dernier, sur les 7 à 8 heures du matin, le dit Pierre CHAZIER, dit SANS-FAÇON
 fit battre la douelle dans la jeune vente de la Chauvinière, dépendante de la forêt de Bercé, paroisse 
   de Jupilles et que ce signal fut répété aussitôt dans d'autres ventes voisines,
@@ -293,11 +293,11 @@ Qu'aussitôt, il se fit un rassemblement considérable d'ouvriers de la dite for
 Que la plupart de ces ouvriers attroupés furent intimidés et contraints
   par les menaces du dit Pierre CHAZIER à le suivre 
   
-  {à ceux qui témoignaient de la répugnance, CHAZIER, 
+  "à ceux qui témoignaient de la répugnance, CHAZIER, 
   qui avait son fer paroir sur l'épaule, en colère, criait 
   qu'il se foutait d'abattre un bras à ceux qui refusaient 
   d'aller avec lui à Lucé, qu'il ficherait le camp dans la 
-  nuit après avoir commis ce mauvais traitement}
+  nuit après avoir commis ce mauvais traitement"
   
 et que plusieurs autres furent entraînés et séduits par les
   assurances que les affidés du dit Pierre CHAZIER leur 
@@ -335,7 +335,7 @@ Que le dit Pierre CHAZIER, dit SANS-FAÇON, est convenu d'avoir fait battre la d
   encore convenu que ceux qui composoient cet attroupement s'étoient déterminés 
   moitié de bonne volonté, moitié par force.
   
-[Une partie accepta la proposition et l'autre  fît des résistances :
+(Une partie accepta la proposition et l'autre  fît des résistances :
   P. CHAZIER était alors armé d'un fer paroir et se rendit avec une vingtaine
   d'ouvriers armés aussi du même instrument et même de haches, dans la vente du Pau,
   et tous ensemble ils instruisirent les ouvriers de cette vente, de leur dessein
@@ -346,7 +346,7 @@ Que le dit Pierre CHAZIER, dit SANS-FAÇON, est convenu d'avoir fait battre la d
   le nommé BOUTTIER de Pruillé-l'Eguillé et le nommé CHOUTEAU - qui ne sont pas 
   ouvriers de la forêt ; elle emmena encore le nommé VOISIN qui n'est point non
   plus ouvrier de la forêt, elle le trouva à la Bonne Marchière et le conduisit 
-  jusqu'à la Tuffière.]
+  jusqu'à la Tuffière.)
   
 Finalement Pierre CHAZIER fut reconnu coupable de sédition, d'entrave à la libre
   circulation des grains par le tribunal.
@@ -372,7 +372,7 @@ Ces derniers pensèrent plus à démontrer leur innocence devant une éventuelle
   Sommé de s'expliquer, il déclare :
   
 « J'avais bien entendu parler, il y a plus de quinze jours
-  [on était alors le 15 mai 1792] du projet de l'attroupement. 
+  (on était alors le 15 mai 1792) du projet de l'attroupement. 
   J'étais chez moi lorsqu'il s'est formé. Je n'ai appris qu'il 
   avait été exécuté que par le bruit public qui avait annoncé 
   l’arrestation  des attroupés dans Lucé. »    
@@ -415,8 +415,8 @@ Est-ce là ce que nous devions attendre de nos fédérations pour les fruits des
   
 Cette indignité n'était réservée qu’à Saint–Vincent qui y mettait le comble, 
   et se ferait peut être honneur d’enlever au passage toutes les armes
-  [celles des prisonniers qui devaient être acheminées vers Château du Loir, 
-  après le passage des captifs]. 
+  (celles des prisonniers qui devaient être acheminées vers Château du Loir, 
+  après le passage des captifs). 
   
 Heureux encore s’ils ne les retournaient point contre les porteurs !
 Je crois donc, Monsieur, sauf  votre meilleur avis, qu’il serait expédiant 
