@@ -3,9 +3,10 @@ title: "La randonnée des ouvriers de Bercé"
 date: 2022-10-13T17:23:44+01:00
 draft: false
 description: "Révolte des sabotiers"
-featured_image: "/images/et-revolte.jpg"
+featured_image: "/images/et.revolte.jpg"
 tags: ["Histoire","Hommes","Ouvriers","Travaux"]
 ---
+
 
 1792 - Du rififi à Bercé
 
@@ -27,7 +28,7 @@ statistiques les causes de cette pénurie épisodique.
 {{<figure src="/images/articles/titre5.jpg" title="Les lieux>}}
 
 
-## En 1791, il restait encore beaucoup de terres en friches. 
+## En 1791, à cette époque, il restait encore beaucoup de terres en friches. 
 
 Ainsi, à Villaines, il y avait 266 hectares inexploités, à l'état de landes
   et de bruyères (12% du territoire communal). Pourtant un mouvement de défrichage
