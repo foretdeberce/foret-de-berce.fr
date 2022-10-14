@@ -10,16 +10,18 @@ tags: ["Histoire","Hommes","Ouvriers","Travaux"]
 1792 - Du rififi à Bercé
 
 La première partie du spectacle d’inauguration des jardins du château 
-du Grand-Lucé présentait la *«révolte des sabotiers».* 
+du Grand-Lucé présentait la «révolte des sabotiers». 
 
 La saynète rappelait un événement peu connu des érudits locaux de la lutte
-populaire contre les prix au début de la révolution. Il mérite une place dans 
-la mémoire des Lucéens ; c'est pourquoi « Au Fil du Temps » consacrera   
+populaire contre les prix au début de la révolution. 
+Il mérite une place dans la mémoire des Lucéens ; 
+c'est pourquoi « Au Fil du Temps » consacrera   
 plusieurs numéros à cet épisode, dramatique. (1)
 
 Tout au long de la décennie révolutionnaire, par intermittences, la crise des 
-subsistances guette et préoccupe les administrateurs. La matrice cadastrale 
-de Villaines-sous-Lucé (1791) avec ses éléments chiffrés, éclaire de ses 
+subsistances guette et préoccupe les administrateurs. 
+La matrice cadastrale de Villaines-sous-Lucé (1791) 
+avec ses éléments chiffrés, éclaire de ses 
 statistiques les causes de cette pénurie épisodique.
 
 {{<figure src="/images/articles/titre5.jpg" title="Les lieux>}}
@@ -37,10 +39,10 @@ Cependant on compte plus de 60% du terrain communal exploités en céréales.
   de moitié les rendements qu'on peut en attendre. 
 
 Les causes de ces faiblesses sont surtout d'ordre technique : 
-  instruments agricoles rudimentaires ; méconnaissance et inutilisation des engrais ;
+  Instruments agricoles rudimentaires ; méconnaissance et inutilisation des engrais ;
   semences mal conservées, non sélectionnées et mêlées d'impuretés ; semis trop serré,... . 
 
-D'autres éléments - d'ordre économique, interviennent : la courte durée des baux incite
+D'autres éléments (d'ordre économique), interviennent : la courte durée des baux incite
   le paysan à exploiter les terres au maximum, négligeant la reconstitution du sol qui 
   s'épuise ; comme, en outre, il n'encaisse de l'argent que pour régler ses impôts, 
   le reste de ses dépenses étant effectué par troc, il ne peut et ne veut pas investir 
@@ -49,7 +51,8 @@ D'autres éléments - d'ordre économique, interviennent : la courte durée des 
 De plus, comme le voulait la tradition, il étend la culture des céréales au détriment 
   des prairies (8% des terres à Villaines), donc de l'élevage. 
 
-Il se prive ainsi d'engrais. Le peu de fumier qu'il obtenait du bétail est destiné 
+Il se prive ainsi d'engrais. 
+Le peu de fumier qu'il obtenait du bétail est destiné 
   au chenevral (terre à chanvre) qui couvre 1,2% du sol villainois. 
   
 Le sol, appauvri et non amélioré, doit rester en Jachère, (repos de plusieurs années).
@@ -74,6 +77,9 @@ C'est la dépréciation de l'assignat qui entraîne cette flambée.
   des grains pratiqués au marché de Lucé, pour les trois premiers mois de 1792. 
 
 
+{{<figure src="/images/articles/valeurs.jpg" title="coût de la vie>}}
+
+
 {{<figure src="/images/articles/assignat.jpg" title="Assignat de 15 sols>}}
 
 
@@ -84,7 +90,8 @@ Dès lors, les troubles se déclenchent:
 
       Séance, du 19 avril 1792 du Directoire du Département de la Sarthe
 
-      Vu.  - le procès-verbal de la municipalité du 2 mars 
+      Vu. 
+      - le procès-verbal de la municipalité du 2 mars 
       dernier qui constate les faits d'un rassemblement de 
       brigands armés qui se portait ledit jour sur 
       le marché du Grand - Lucé pour le piller,
@@ -103,60 +110,64 @@ Dès lors, les troubles se déclenchent:
       Nationale du Grand-Lucé ; qu'à Saint-Vincent- du- Lorouër 
       il n'y avait aucun garde national sous les armes pour relever la 
       Garde Nationale du Grand - Lucé escortant la Gendarmerie,
-     - que ladite Garde Nationale a été insultée, assaillie à coups 
-     de pierres dans ce bourg (St -Vincent) par les femmes 
-     PIAT, BODIN, COCHAIN et JOUANNEAU, habitantes du lieu,
-     - et la plainte rendue de ces faits par la Garde Nationale, 
-     devant le maire du Grand-Lucé, à son retour de la conduite des brigands,
-     - l'avis préparatoire du district du Château-du-Loir du 24 dudit mois de mars,
-     - l'extrait de la délibération de la municipalité de Saint-Vincent- du- Lorouër 
-     du 21 mars,
-     - la réponse de la municipalité en conséquence de l'avis du district du 
-     Château-du-Loir, en date du 25 mars,
-     - les trois rapports des sieurs PERDRIGEON, DERRE et CHABANS,
-     capitaines de la Garde Nationale de Saint- Vincent du -Lorouër des 
-     22 et 25 mars qui portent que les 30 hommes de la Garde Nationale 
-     requis ont été commandés par eux, mais ont été empêchés de se
-     rassembler ainsi qu’eux, capitaines, qui se sont retirés par crainte
-     des femmes et d'exciter une émeute dans le bourg,
-     - l'avis motivé du Directoire du district du Château -du- Loir du 28 mars,
-     - lecture faite des articles 41, 42 et 43 (loi du 3 août 1791) relative à l'emploi
-     de la force publique contre les attroupements,
+      - que ladite Garde Nationale a été insultée, assaillie à coups 
+      de pierres dans ce bourg (St -Vincent) par les femmes 
+      PIAT, BODIN, COCHAIN et JOUANNEAU, habitantes du lieu,
+      - et la plainte rendue de ces faits par la Garde Nationale, 
+      devant le maire du Grand-Lucé, à son retour de la conduite des brigands,
+      - l'avis préparatoire du district du Château-du-Loir du 24 dudit mois de mars,
+      - l'extrait de la délibération de la municipalité de Saint-Vincent- du- Lorouër 
+      du 21 mars,
+      - la réponse de la municipalité en conséquence de l'avis du district du 
+      Château-du-Loir, en date du 25 mars,
+      - les trois rapports des sieurs PERDRIGEON, DERRE et CHABANS,
+      capitaines de la Garde Nationale de Saint- Vincent du -Lorouër des 
+      22 et 25 mars qui portent que les 30 hommes de la Garde Nationale 
+      requis ont été commandés par eux, mais ont été empêchés de se
+      rassembler ainsi qu’eux, capitaines, qui se sont retirés par crainte
+      des femmes et d'exciter une émeute dans le bourg,
+      - l'avis motivé du Directoire du district du Château -du- Loir du 28 mars,
+      - lecture faite des articles 41, 42 et 43 (loi du 3 août 1791) relative à l'emploi
+      de la force publique contre les attroupements,
 
-     Ouï - le rapport du Procureur Général Syndic, le Directoire considérant
-     que la loi a été pleinement exécutée par la municipalité et la Garde Nationale
-     de la ville du Grand-Lucé,
-     - que leur conduite ferme et courageuse a maintenu dans cette ville la tranquillité 
-     publique et protégé les propriétés particulières qui y étoient menacées,
-     - que les citoyens de la commune de Saint-Vincent du -Lorouër qui ne se sont pas 
-     rendus à la réquisition  légale qui leur a été faite,  
+      Ouï 
+      - le rapport du Procureur Général Syndic, le Directoire considérant
+      que la loi a été pleinement exécutée par la municipalité et la Garde Nationale
+      de la ville du Grand-Lucé,
+      - que leur conduite ferme et courageuse a maintenu dans cette ville la tranquillité 
+      publique et protégé les propriétés particulières qui y étoient menacées,
+      - que les citoyens de la commune de Saint-Vincent du -Lorouër qui ne se sont pas 
+      rendus à la réquisition  légale qui leur a été faite,  
       sont coupables de désobéissance à la loi,
-     - que les excès, insultes et voies de fait commis dans le bourg de 
-     Saint-Vincent du -Lorouër contre la Garde Nationale du Grand- Lucé étant dans 
+      - que les excès, insultes et voies de fait commis dans le bourg de 
+      Saint-Vincent du -Lorouër contre la Garde Nationale du Grand- Lucé étant dans 
       l'exercice de ses fonctions, sont des délits punissables, 
 
 
 
-      Arrête - que la municipalité de Saint-Vincent-du-Lorouër sera tenue
-       de faire parvenir au Directoire la liste exacte et nominative des 30 citoyens et 
-       des 3 officiers par elle requis au nom de la loi et qui ont refusé d'obéir, pour être
-       pris contre eux les mesures  indiquées par les articles 41 et 42 de la loi du 3 août 1791 ;
-       - Réserves à prononcer sur ladite municipalité de Saint-Vincent du -Lorouër jusqu'après
-       les informations qui seront faites sur les poursuites qui auront lieu contre les citoyens
-       compris en ladite liste ;
+      Arrête 
+      - que la municipalité de Saint-Vincent-du-Lorouër sera tenue
+      de faire parvenir au Directoire la liste exacte et nominative des 30 citoyens et 
+      des 3 officiers par elle requis au nom de la loi et qui ont refusé d'obéir, pour être
+      pris contre eux les mesures  indiquées par les articles 41 et 42 de la loi du 3 août 1791 ;
+      - Réserves à prononcer sur ladite municipalité de Saint-Vincent du -Lorouër jusqu'après
+      les informations qui seront faites sur les poursuites qui auront lieu contre les citoyens
+      compris en ladite liste ;
 
-      Arrête - qu'à la requête du Procureur Syndic du district du Château-du-Loir, 
-       suites et diligences du Procureur de la commune du Grand-Lucé, les insultes,
-       excès et voies de fait commis et exercés contre la Garde Nationale du Grand-Lucé 
-       le 22 mars 1792 dans le bourg de Saint-Vincent -du- Lorouër et notamment
-       les femmes PIAT, BODIN, COCHAIN et JOUANNEAU à qui les excès et
-       voies de fait sont principalement  imputés, ainsi que tout autre auteur ou complice
-       des dits attentats contre ladite Garde Nationale dans l'exercice de ses fonctions, seront
-       dénoncés au Juge de Paix du Canton .
+      Arrête
+      - qu'à la requête du Procureur Syndic du district du Château-du-Loir, 
+      suites et diligences du Procureur de la commune du Grand-Lucé, les insultes,
+      excès et voies de fait commis et exercés contre la Garde Nationale du Grand-Lucé 
+      le 22 mars 1792 dans le bourg de Saint-Vincent -du- Lorouër et notamment
+      les femmes PIAT, BODIN, COCHAIN et JOUANNEAU à qui les excès et
+      voies de fait sont principalement  imputés, ainsi que tout autre auteur ou complice
+      des dits attentats contre ladite Garde Nationale dans l'exercice de ses fonctions, seront
+      dénoncés au Juge de Paix du Canton .
 
-     Adresse - un témoignage de satisfaction à la municipalité et
-       à la Garde Nationale du Grand-Lucé : 
-       « leur zèle et leur patriotisme lui font honneur ».
+      Adresse 
+      - un témoignage de satisfaction à la municipalité et
+      à la Garde Nationale du Grand-Lucé : 
+      « leur zèle et leur patriotisme lui font honneur ».
 
 
  Qui sont donc ces brigands armés qui se portèrent au marché le mercredi
@@ -165,7 +176,7 @@ Dès lors, les troubles se déclenchent:
 {{<figure src="/images/articles/ouvrier4.jpg" title="D’honnêtes travailleurs>}}
                                                                                                                          
 Voici le signalement des 9 hommes qui ont été arrêtés, conduits au Château-du-Loir, 
-  incarcérés  et interrogés du 24 au 26 mars et ce,…. sans avocats…
+  incarcérés et interrogés du 24 au 26 mars et ce,…. sans avocats…
 
 ### François BARDET : Taille 5 pieds ; visage rond, cheveux ronds et sourcils châtains ; 
   barbe claire, yeux bleus ; nez assez bien fait ; bouche moyenne ; menton carré ; 
@@ -208,12 +219,13 @@ Voici le signalement des 9 hommes qui ont été arrêtés, conduits au Château-
   Profession : bûcheron ; âge 28 ans ; domicilié paroisse de Jupilles ;
   ne sait ni lire, ni écrire, ni signer.
 
-### Pierre CHAZIER,  dit SANS-FACON : Taille 5 pieds 2 pouces ; cheveux, en catogan (queue au bas de la nuque)
-  châtains ; sourcils et barbe noirs ; bouche moyenne, menton rond, nez ordinaire et pointu ; 
-  yeux bleus et gros, à fleur de tête ; mince et assez bien fait. Vieille et mauvaise veste de drap blanc,
-  gilet de ra…. z de même couleur, une mauvaise culotte de tricot blanche, guêtres de coton barré bleu. 
-  Profession : sabottier ; âgé de 30 ans, marié, habite à Pruillé au canton de l'Etang ; 
-  ne sait ni lire, ni écrire, ni signer.
+### Pierre CHAZIER, dit SANS-FACON : Taille 5 pieds 2 pouces ; cheveux, en catogan 
+  (queue au bas de la nuque) châtains ; sourcils et barbe noirs ; bouche moyenne, 
+  menton rond, nez ordinaire et pointu ; yeux bleus et gros, à fleur de tête ; 
+  mince et assez bien fait. Vieille et mauvaise veste de drap blanc,
+  gilet de ra…. z de même couleur, une mauvaise culotte de tricot blanche, 
+  guêtres de coton barré bleu. Profession : sabottier ; âgé de 30 ans, marié, 
+  habite à Pruillé au canton de l'Etang ; ne sait ni lire, ni écrire, ni signer.
 
 ### René VERITÉ : Taille 4 pieds 11 pouces ; cheveux, sourcils et barbe châtains ;
   front long et étroit ; yeux bleus enfoncés ; nez menu, bouche moyenne ; menton rond ; 
@@ -228,12 +240,13 @@ Voici le signalement des 9 hommes qui ont été arrêtés, conduits au Château-
   tourneur ; âge 18 ans ; habite à Pruillé au canton de l'Etang ;
   ne sait ni lire, ni écrire, ni signer.
 
-### Voilà les BRIGANDS : Ce sont des ouvriers de la forêt de Bercé …!!!
+### Voilà les BRIGANDS : Ce ne sont pourtant que des ouvriers de la forêt de Bercé …!!!
 
-Leur interrogatoire nous révélera leurs intentions : que venaient-ils faire au marché de Lucé ?  Le piller ?
+Leur interrogatoire nous révélera leurs intentions : 
+que venaient-ils faire au marché de Lucé ?  Le piller ?
 
 A ces questions, chacun des détenus – consulté séparément — affirme qu'il s'agissait
-*«d'aller, le jour même [mercredi 21 mars 1792], à Lucé pour voir si, au marché, 
+*«d'aller, le jour même (mercredi 21 mars 1792), à Lucé pour voir si, au marché, 
   il y aura des blattiers, et si nous en trouvons, les chasser et les empêcher 
   d'enlever les blés.»*
 Certains ajoutent des précisions : «sans leur faire de mal, ni à personne, 
@@ -241,29 +254,33 @@ Certains ajoutent des précisions : «sans leur faire de mal, ni à personne,
 L'achat du blé par des marchands grossistes (les blattiers) 
   était «la cause d'une augmentation considérable sur le prix du pain»... 
       
-Alors, dès l'arrivée des ouvriers de la forêt à Lucé, « six d'entre eux se présenteroient chez Monsieur 
+Alors, dès l'arrivée des ouvriers de la forêt à Lucé, 
+  «six d'entre eux se présenteroient chez Monsieur 
   ROTTIER, juge de paix, pour le prier de fixer le prix des grains qui devoient être vendus au marché ;
   et que, si le sieur ROTTIER ne leur accordoit pas leur demande, toute la bande d'ouvriers qui les
   accompagnoient, taxeroit le blé ainsi qu'elle aviseroit.» 
   
-Les forestiers - qui ne s'adonnent à aucune culture de céréales - sont les premiers atteints par
+Les forestiers (qui ne s'adonnent à aucune culture de céréales) sont les premiers atteints par
   la montée des prix. Ils entendent maintenir la valeur des grains à un niveau abordable en 
   l'imposant au besoin, par une démonstration de leur « force, qu'ils prétendent tranquille ».
   
-Comment ces taxateurs se sont- ils concertés pour élaborer leur projet et tenter de le mener à bien ? 
+Comment ces taxateurs se sont-ils concertés pour élaborer leur projet et tenter de le mener à bien ? 
   Les minutes du procès établissent l'influence d'un sabotier de Pruillé qui fait figure de meneur 
   et qui, d'ailleurs, sera le seul inculpé de cette révolte: 
   
-Pierre CHAZIER, dit SANS-FAÇON. Le compte-rendu de son jugement reprend les différents témoignages et
-  restitue les péripéties de la marche des ouvriers de la forêt :
-*Le directeur du juré déclare qu'il résulte de l'examen des pièces :
-   Que le 21 mars dernier, sur les 7 à 8 heures du matin, le dit Pierre CHAZIER, dit SANS-FAÇON
-fit battre la douelle dans la jeune vente de la Chauvinière, dépendante de la forêt de Bercé, paroisse 
-  de Jupilles et que ce signal fut répété aussitôt dans d'autres ventes voisines,
-Qu'aussitôt, il se fit un rassemblement considérable d'ouvriers de la dite forêt qui se partagea
-  en deux bandes : 
+Pierre CHAZIER, dit SANS-FAÇON. Le compte-rendu de son jugement reprend 
+  les différents témoignages et restitue les péripéties de la marche des 
+  ouvriers de la forêt :
+  *Le directeur du juré déclare qu'il résulte de l'examen des pièces :
+   Que le 21 mars dernier, sur les 7 à 8 heures du matin, le dit Pierre 
+   CHAZIER, dit SANS-FAÇON fit battre la douelle dans la jeune vente 
+   de la Chauvinière, dépendante de la forêt de Bercé, paroisse 
+   de Jupilles et que ce signal fut répété aussitôt dans d'autres
+   ventes voisines. Qu'aussitôt, il se fit un rassemblement considérable
+   d'ouvriers de la dite forêt qui se partagea en deux bandes : 
   
-     la première composée de cinq, savoir,
+     la première composée de cinq,
+     savoir,
     -le nommé BARDET, autre que François BARDET,
     - des nommés julien CHALIGNÉ (de Pruillé) 
      et ROZARD (tourneur à Pruillé) 
@@ -291,16 +308,17 @@ Qu'aussitôt, il se fit un rassemblement considérable d'ouvriers de la dite for
 
 
 
-
 Que la plupart de ces ouvriers attroupés furent intimidés et contraints
-  par les menaces du dit Pierre CHAZIER à le suivre 
+  par les menaces du dit Pierre CHAZIER à le suivre: 
   
   "à ceux qui témoignaient de la répugnance, CHAZIER, 
   qui avait son fer paroir sur l'épaule, en colère, criait 
   qu'il se foutait d'abattre un bras à ceux qui refusaient 
   d'aller avec lui à Lucé, qu'il ficherait le camp dans la 
   nuit après avoir commis ce mauvais traitement"
-  
+
+  {{<figure src="/images/articles/fer-paroir.jpg" title="Grand paroir de sabotier>}}
+
 et que plusieurs autres furent entraînés et séduits par les
   assurances que les affidés du dit Pierre CHAZIER leur 
   donnèrent qu'ils ne s'exposoient point et qu'on ne vouloit
@@ -315,7 +333,7 @@ Que la première bande précéda l'autre et qu’elle fut arrêtée et
   été traduits à la maison d'arrêt de ce tribunal ;  
   
 Que l'autre bande qui étoit la plus nombreuse et armée de bâtons
-  fut peu de temps après   arrêtée par la dite Garde Nationale à laquelle,
+  fut peu de temps après arrêtée par la dite Garde Nationale à laquelle,
   après quelques hésitances, elle rendit les bâtons dont elle étoit armée,
   mais qu'il n'en a été traduit dans la susdite maison d'arrêt que ledit 
   François  BARDET, Michel GAUDRY, Paul PREVOT, Marin GROSBOIS, Pierre BOURREAU, 
@@ -323,7 +341,7 @@ Que l'autre bande qui étoit la plus nombreuse et armée de bâtons
   par le dit sieur juge de paix du dit canton de Lucé.
   
 Que cet attroupement illicite et séditieux avoit été annoncé par deux lettres 
-  anonymes  adressées au sieur maire (Pierre RAYER) de Pruillé-l’Eguillé et 
+  anonymes adressées au sieur maire (Pierre RAYER) de Pruillé-l’Eguillé et 
   que c'est sans doute en conséquence de leur contenu communiqué par cet officier 
   à la municipalité du dit Lucé, que cette municipalité a pris des mesures sages 
   et prudentes pour prévenir les funestes et désastreux effets du dit attroupement;
@@ -337,7 +355,7 @@ Que le dit Pierre CHAZIER, dit SANS-FAÇON, est convenu d'avoir fait battre la d
   encore convenu que ceux qui composoient cet attroupement s'étoient déterminés 
   moitié de bonne volonté, moitié par force.
   
-(Une partie accepta la proposition et l'autre  fît des résistances :
+(Une partie accepta la proposition et l'autre fît des résistances :
   P. CHAZIER était alors armé d'un fer paroir et se rendit avec une vingtaine
   d'ouvriers armés aussi du même instrument et même de haches, dans la vente du Pau,
   et tous ensemble ils instruisirent les ouvriers de cette vente, de leur dessein
@@ -345,11 +363,12 @@ Que le dit Pierre CHAZIER, dit SANS-FAÇON, est convenu d'avoir fait battre la d
   les autres par crainte. Dans cette vente, toute la bande laissa les armes tranchantes
   dont elle était armée et se munit de bâtons pour marcher vers Luçé. Sur la route, 
   elle se grossit parce qu'on emmena de force quelques particuliers, entre autres, 
-  le nommé BOUTTIER de Pruillé-l'Eguillé et le nommé CHOUTEAU - qui ne sont pas 
-  ouvriers de la forêt ; elle emmena encore le nommé VOISIN qui n'est point non
+  le nommé BOUTTIER de Pruillé-l'Eguillé et le nommé CHOUTEAU (qui ne sont pas 
+  ouvriers de la forêt) ; elle emmena encore le nommé VOISIN qui n'est point non
   plus ouvrier de la forêt, elle le trouva à la Bonne Marchière et le conduisit 
   jusqu'à la Tuffière.)
   
+
 Finalement Pierre CHAZIER fut reconnu coupable de sédition, d'entrave à la libre
   circulation des grains par le tribunal.
 
@@ -363,7 +382,7 @@ Pour les événements de Lucé :
   et Joseph MOULINET sabotiers à Jupilles, et Pierre LE PROUST sabotier et
   facteur du sieur COCHIN à Marigné). 
 Ces derniers pensèrent plus à démontrer leur innocence devant une éventuelle
-  accusation de complicité qu'à  apporter des éléments susceptibles de soulager
+  accusation de complicité qu'à apporter des éléments susceptibles de soulager
   la culpabilité de leur chef d'un jour. 
   
  Quand l'avoué-conseil (l’avocat) de CHAZIER demanda un report d'audience 
@@ -385,14 +404,15 @@ Après avoir subi la pression de multiples questions et de leur ton menaçant,
   je ne les avais faites qu'à la sollicitation des ouvriers de la forêt ;
   notamment du nommé ROUILLARD de la paroisse de Jupilles, RIVIERE de Pruillé,
   RIVIERE demeurant au lieu du Bouet à Marigné, JOUSSE de la Gaudinière à Marigné
-  et COTTEREA.U de Pruillé, qui tous m’avaient intimidés par leur menaces » . 
+  et COTTEREAU de Pruillé, qui tous m’avaient intimidés par leur menaces » . 
   
   Aussitôt, LEPROUST est mis en état d’arrestation. Deux semaines plus tard, on le relâchera.
 
-Nous ignorons précisément le contenu de ces lettres. Elles annonçaient la visite chez le sieur
-  Mesnard de Seillac, châtelain de la Chevalerie à Lucé et de là, une descente sur le marché. 
+Nous ignorons précisément le contenu de ces lettres. 
+  Elles annonçaient la visite chez le sieur Mesnard de Seillac, 
+  châtelain de la Chevalerie à Lucé et de là, une descente sur le marché. 
   « C’est le nommé BARBIER, bûcheron travaillant dans la vente du Mortier du Saule et
-  demeurant paroisse de Pruillé proche la Hamelière et la  Fontaine des Trois  Paroisses, 
+  demeurant paroisse de Pruillé proche la Hamelière et la Fontaine des Trois-Paroisses, 
   qui a porté l’une des  missives chez le sieur RAYER, le lundi 19 mars. 
   Les ouvriers de la forêt avaient été chez monsieur de SEILLAC.  
   Monsieur VERITÉ, avec un détachement de la Garde Nationale de Pruillé 
@@ -401,19 +421,25 @@ Nous ignorons précisément le contenu de ces lettres. Elles annonçaient la vis
 Ce sont ces lettres qui ont alerté le service d’ordre de Lucé et 
   empêché la taxation des grains.  
   
-  Bien qu'elles aient du être menaçantes, elles permirent l’arrestation de 9 hommes.
+Bien qu'elles aient du être menaçantes, elles permirent l’arrestation de 9 hommes.
   Le juge de Paix, Pierre ROTTIER les interrogea et voulut les transférer 
-  sous bonne garde au Château du Loir. Mais à Saint-Vincent, alors que l’escorte
-  aurait du être relayée par 30 gardes nationaux locaux, on risqua  l’émeute : 
-  cette commune forestière ne voulait pas être  la complice de Lucé qui menait
-  un des leurs  dans les geôles Castéloriennes. Pierre ROTTIER s'en offensa 
-  auprès du président du tribunal du  district:
+  sous bonne garde au Château du Loir. 
+
+Mais à Saint-Vincent, alors que l’escorte
+  aurait du être relayée par 30 gardes nationaux locaux, on risqua l’émeute : 
+  cette commune forestière ne voulait pas être la complice de Lucé qui menait
+  un des leurs dans les geôles Castéloriennes. 
+
+Pierre ROTTIER s'en offensa 
+  auprès du président du tribunal du district:
  « Peut être n’ignorez vous pas que les habitants de Saint-Vincent, loin de 
   fournir des gardes nationaux comme ils en étaient requis, ont insulté même
   épiéré (jeté des pierres sur) les nôtres Au passage, tant en allant qu’en revenant.
   
 Est-ce là ce que nous devions attendre de nos fédérations pour les fruits des serments 
-  que nous   avons faits de nous unir pour le soutien de la Constitution ?
+  que nous avons faits de nous unir pour le soutien de la Constitution ?
+
+{{<figure src="/images/articles/revolution.jpg" title="La devise>}}
   
 Cette indignité n'était réservée qu’à Saint–Vincent qui y mettait le comble, 
   et se ferait peut être honneur d’enlever au passage toutes les armes
@@ -426,17 +452,20 @@ Je crois donc, Monsieur, sauf  votre meilleur avis, qu’il serait expédiant
   auquel se joindrait un des nôtres et qui sauraient en imposer à Saint-Vincent et le rappeler au bon ordre.»    
   
 Si la population de Saint-Vincent s'insurge contre ces arrestations, il semble aussi 
-  que celle de Jupilles soit en effervescence : sans plus d'indications sur cette fermentation,
-  le Département de la Sarthe demande au juge de paix de Lucé de ne point convoyer 
+  que celle de Jupilles soit en effervescence :
+  sans plus d'indications sur cette fermentation, le Département de la Sarthe
+  demande au juge de paix de Lucé de ne point convoyer 
   les armes confisquées aux prisonniers par ce village qui serait en insurrection.
   
-Pendant 8 semaines, le marché Lucéen sera sous haute surveillance. Le 15 mai, 
+Pendant 8 semaines, le marché Lucéen sera sous haute surveillance. 
+  Le 15 mai, 
   constatant la tranquillité persistante des marchés de Lucé, le district prononce
   le retrait du service extérieur de la Garde Nationale. 
   Au grand soulagement des habitants qui avaient déjà manifesté leur
-  réprobation par des mouvements qui frisaient l'émeute. En effet, 
-  ces gardes venaient de Château-du-Loir, et Lucé devait  
-  assurer le gîte et le couvert. Le 11 avril 1792, le maire en écharpe (BOUTTIER),
+  réprobation par des mouvements qui frisaient l'émeute. 
+  En effet, ces gardes venaient de Château-du-Loir, et Lucé devait  
+  assurer le gîte et le couvert. 
+  Le 11 avril 1792, le maire en écharpe (BOUTTIER),
   ses officiers municipaux et le procureur de la commune circulent entre les tables
   à tréteaux du marché afin de constater le maintien du bon ordre et la tranquillité   
   des tractations. Bientôt, ils sont entourés de Lucéens furieux qui les prennent à 
@@ -446,7 +475,8 @@ Pendant 8 semaines, le marché Lucéen sera sous haute surveillance. Le 15 mai,
   Vous logez des détachements du mercredi chez les pauvres ! 
   Pendant que les gardes sont entrain de manger, eux, les pauvres,
   sont à leur porte ! »*
-Contraints de vérifier ces affirmations, les municipaux entreprennent 
+
+  Contraints de vérifier ces affirmations, les municipaux entreprennent 
   la visite des hôtes (ils leur avaient fourni un billet de logement pour
   recevoir chacun 2 gardes nationaux castéloriens) : chez certains, 
   les gardes dînaient ; chez d'autres, le repas était prêt ; 
@@ -454,16 +484,19 @@ Contraints de vérifier ces affirmations, les municipaux entreprennent
   C'est que, de là, les « invités » avaient été dirigés vers d'autres
   logeurs qui les accueilleraient mieux, car eux, les hôtes réquisitionnés 
   par la municipalité, n'avaient rien à offrir « et ils se sont fort écrié contre   
-  la municipalité, avec vivacité. » Les cris rassemblèrent un grand nombre de mécontents
-  au dehors, qui clamaient leur irritation. Le corps municipal quitte le marché sans broncher,
-  sous les huées. Discrètement convoquée, la Garde Nationale de Château témoigne du bon accueil
-  des Lucéens : « On ne sait pas pourquoi on nous a changé de maison, mais ce matin,
+  la municipalité, avec vivacité. » 
+  Les cris rassemblèrent un grand nombre de mécontents
+  au dehors, qui clamaient leur irritation. Le corps municipal quitte 
+  le marché sans broncher, sous les huées. Discrètement convoquée, 
+  la Garde Nationale de Château témoigne du bon accueil des Lucéens : 
+  « On ne sait pas pourquoi on nous a changé de maison, mais ce matin,
   le déjeuner était très bien. Partout, on a été reçus à bras ouverts. »
   
 Inquiet, le corps municipal se réunit en la chambre commune, rend compte des événements et 
-  « supplie messieurs du district du Château- du- Loir de vouloir bien rendre un arrêté qui
+  « supplie messieurs du district du Château-du-Loir de vouloir bien rendre un arrêté qui
  
-- défende très expressément à toute personne que ce soit d'insulter à l'avenir aucun du corps municipal ;
+- défende très expressément à toute personne que ce soit d'insulter à l'avenir 
+  aucun du corps municipal ;
 - non plus que de s'immiscer dans les délibérations et ordonnances que nous sommes 
   obligés de rendre, pour fait de police, afin de maintenir le bon ordre et à défaut 
   de ce, nous nous trouverions dans l'impossibilité de faire exécuter les lois.
@@ -479,26 +512,29 @@ Le 31 mai 1792, Pierre CHAZIER,
 dit SANS-FACON est condamné à la peine des fers pendant 16 années, 
   après avoir été
   *« attaché à un poteau dressé sur un échafaud pour y demeurer 6 heures,
-  exposé aux  regards du peuple, ayant un écriteau au -dessus de sa tête sur lequel
-  seront écrits en gros caractères : son nom, sa profession, son domicile, 
-  la cause de sa condamnation ; et le présent jugement imprimé à cent exemplaires 
+  exposé aux  regards du peuple, ayant un écriteau au-dessus de sa tête sur lequel
+  seront écrits en gros caractères : 
+  son nom, sa profession, son domicile, 
+  la cause de sa condamnation ; 
+  et le présent jugement imprimé à cent exemplaires 
   pour Lucé, Château-du-Loir, Pruillé-l’Éguillé et là où besoin sera.»*
   
 {{<figure src="/images/articles/chaines.jpg" title="fers et chaîne>}}
 
 La population Lucéenne avait montré sa sympathie à l'égard des ouvriers de la forêt. 
-  Elle connaissait leurs intentions : ils voulaient chasser les gros acheteurs de blé « étrangers »
-  et maintenir le prix des grains dans une fourchette modérée ; les Lucéens adhéraient à ces projets.
-  Mais les corps  constitués, respectueux des lois qui les avaient mis en place,
+  Elle connaissait leurs intentions : 
+  ils voulaient chasser les gros acheteurs de blé « étrangers »
+  et maintenir le prix des grains dans une fourchette modérée ; 
+  les Lucéens adhéraient à ces projets.
+  Mais les corps constitués, respectueux des lois qui les avaient mis en place,
   n'acceptaient aucune intervention populaire et punissaient sévèrement - 
   pour l'exemple - ceux qui osaient se rebeller, avec l'aide de la Garde Nationale 
   (pas toujours très sûre) et de l'arsenal des lois. 
 
-{{<figure src="/images/articles/revolution.jpg" title="La devise>}}
 
-
-Il faudra attendre novembre 1792 pour qu'un mouvement semblable, la randonnée des taxateurs, 
-  connaisse un succès qui s'étendra sur le territoire du département. 
+Il faudra attendre novembre 1792 pour qu'un mouvement semblable, 
+la randonnée des taxateurs, connaisse un succès qui s'étendra 
+sur le territoire du département. 
 
 Un an plus tard, le 29 septembre 1793, la Convention Nationale décrétera 
 Le maximum général des denrées
@@ -516,8 +552,8 @@ On a bien vu, à travers cet épisode peu connu de l'histoire locale, que la pop
   une maison de la Place du Marché, appartenant au citoyen HOUSSEAU, 
   est louée par la municipalité et devient la caserne de gendarmerie.    
                                           
-Cet historique, nous fait comprendre l’attachement du monde rural à  leur forêt,
-  à leurs privilèges, aux droits accordés par la République, aux sociétés diverses
+Cet historique, nous fait comprendre l’attachement du monde rural à sa forêt,
+  à ses privilèges, aux droits accordés par la République, aux sociétés diverses
   qui compose encore aujourd’hui la vie locale et associative (sociétés mutuelles d’entraide).
   Les honnêtes travailleurs haïssent tout simplement l’injustice allant jusqu’à se rebeller.
 
@@ -526,5 +562,6 @@ Cet historique, nous fait comprendre l’attachement du monde rural à  leur for
 
 ### Bibliographie :
 
-(1) : Yves PIRAUX : Les Lucéens et la Révolution -1990 - Tome II p 87 à 100.  (Au fil du temps n°6 à 9)  
+(1) : Yves PIRAUX : Les Lucéens et la Révolution -1990 - Tome II p 87 à 100. 
+     (Au fil du temps n°6 à 9)  
 
