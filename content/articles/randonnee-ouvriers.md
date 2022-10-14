@@ -25,7 +25,7 @@ La matrice cadastrale de Villaines-sous-Lucé (1791)
 avec ses éléments chiffrés, éclaire de ses 
 statistiques les causes de cette pénurie épisodique.
 
-{{<figure src="/images/articles/titre5.jpg" title="Les lieux>}}
+{{<figure src="/images/articles/titre5.jpg" title="Les lieux de la révolte>}}
 
 
 ## En 1791, à cette époque, il restait encore beaucoup de terres en friches. 
@@ -289,8 +289,7 @@ Pierre CHAZIER, dit SANS-FAÇON. Le compte-rendu de son jugement reprend
     - du dit Pierre BOUSSION, armé d’un coutre
     - et du dit Adrien CHAZIER, armé d'un fer paroir.
 
-                     
-    la seconde de 40 au moins (47) 
+    La seconde de 40 au moins (47) 
     Tous armé de bâtons, les uns plus gros, 
     les autres plus petits, du nombre desquels  
     ouvriers étoient : Francois BARDET, Michel GAURRY, 
@@ -407,7 +406,7 @@ Après avoir subi la pression de multiples questions et de leur ton menaçant,
   RIVIERE demeurant au lieu du Bouet à Marigné, JOUSSE de la Gaudinière à Marigné
   et COTTEREAU de Pruillé, qui tous m’avaient intimidés par leur menaces » . 
   
-  Aussitôt, LEPROUST est mis en état d’arrestation. Deux semaines plus tard, on le relâchera.
+ Aussitôt, LEPROUST est mis en état d’arrestation. Deux semaines plus tard, on le relâchera.
 
 Nous ignorons précisément le contenu de ces lettres. 
   Elles annonçaient la visite chez le sieur Mesnard de Seillac, 
