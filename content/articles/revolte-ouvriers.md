@@ -121,7 +121,7 @@ Dès lors, les troubles se déclenchent:
      - lecture faite des articles 41, 42 et 43 (loi du 3 août 1791) relative à l'emploi
      de la force publique contre les attroupements,
 
-     Ouï     le rapport du Procureur Général Syndic, le Directoire considérant
+     Ouï - le rapport du Procureur Général Syndic, le Directoire considérant
      que la loi a été pleinement exécutée par la municipalité et la Garde Nationale
      de la ville du Grand-Lucé,
      - que leur conduite ferme et courageuse a maintenu dans cette ville la tranquillité 
@@ -135,7 +135,7 @@ Dès lors, les troubles se déclenchent:
 
 
 
-      Arrête     que la municipalité de Saint-Vincent-du-Lorouër sera tenue
+      Arrête - que la municipalité de Saint-Vincent-du-Lorouër sera tenue
        de faire parvenir au Directoire la liste exacte et nominative des 30 citoyens et 
        des 3 officiers par elle requis au nom de la loi et qui ont refusé d'obéir, pour être
        pris contre eux les mesures  indiquées par les articles 41 et 42 de la loi du 3 août 1791 ;
@@ -143,7 +143,7 @@ Dès lors, les troubles se déclenchent:
        les informations qui seront faites sur les poursuites qui auront lieu contre les citoyens
        compris en ladite liste ;
 
-      Arrête     qu'à la requête du Procureur Syndic du district du Château-du-Loir, 
+      Arrête - qu'à la requête du Procureur Syndic du district du Château-du-Loir, 
        suites et diligences du Procureur de la commune du Grand-Lucé, les insultes,
        excès et voies de fait commis et exercés contre la Garde Nationale du Grand-Lucé 
        le 22 mars 1792 dans le bourg de Saint-Vincent -du- Lorouër et notamment
@@ -152,13 +152,13 @@ Dès lors, les troubles se déclenchent:
        des dits attentats contre ladite Garde Nationale dans l'exercice de ses fonctions, seront
        dénoncés au Juge de Paix du Canton .
 
-     Adresse   un témoignage de satisfaction à la municipalité et
+     Adresse - un témoignage de satisfaction à la municipalité et
        à la Garde Nationale du Grand-Lucé : 
        « leur zèle et leur patriotisme lui font honneur ».
 
 
  Qui sont donc ces brigands armés qui se portèrent au marché le mercredi
-21 mars 1792 ……..pour le piller ? 
+ 21 mars 1792 ……..pour le piller ? 
 
 {{<figure src="/images/articles/ouvrier4.jpg" title="D’honnêtes travailleurs>}}
                                                                                                                          
