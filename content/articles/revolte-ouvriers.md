@@ -32,7 +32,7 @@ Ainsi, à Villaines, il y avait 266 hectares inexploités, à l'état de landes
 Cependant on compte plus de 60% du terrain communal exploités en céréales. 
   Il s'agit là d'une surface importante ; elle doit être largement suffisante
   pour nourrir la population locale. Mais les méthodes de culture diminuent
-  de moitié les rendements qu'on peut en attendre.
+  de moitié les rendements qu'on peut en attendre. 
 
 Les causes de ces faiblesses sont surtout d'ordre technique : 
   instruments agricoles rudimentaires ; méconnaissance et inutilisation des engrais ;
