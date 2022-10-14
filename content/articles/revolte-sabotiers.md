@@ -559,6 +559,6 @@ Cet historique, nous fait comprendre l’attachement du monde rural à sa forêt
 
 ### Bibliographie :
 
-(1) : Yves PIRAUX : Les Lucéens et la Révolution -1990 - Tome II p 87 à 100. 
+(1) : Yves PIRAUX : Les Lucéens et la Révolution (1990) Tome II p 87 à 100. 
      (Au fil du temps n°6 à 9)  
 
