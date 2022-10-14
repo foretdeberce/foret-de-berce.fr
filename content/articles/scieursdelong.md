@@ -8,6 +8,27 @@ tags: ["Arbres","Bucheron","travaux"]
 ---
 
 ## De 1480 a 1938	
+Annie Arnoult, qui a écrit sur le sujet, nous décrit cette vie hors du commun.
+	*Les scieurs de long faisaient partie de ces nombreux migrants du Massif Central 
+  qui partaient régulièrement, en "brigades" ou en bandes pour des saisons de travail
+  à l’extérieur. De septembre à juin, ils vivaient loin de leur village, au cœur de 
+  forêts lointaines, dormant dans des cabanes où ils affrontaient la froidure de 
+  l’hiver, pour scier les planches et les poutres dans les troncs des plus hauts arbres. 
+
+*Une vie dure et épuisante, souvent aussi dangereuse, car les accidents étaient fréquents, 
+lot de ces modestes paysans, dans la force de l’âge, à la recherche d’un complément 
+financier pour arriver à boucler leur année et à payer le collecteur d’impôt…*
+
+Nos ancêtres les gaulois utilisaient déjà cette technique du sciage à bras qui a 
+perduré chez nous jusqu’à l’arrivée des premières scieries mobiles.
+Aux scieurs de long sédentaires s’ajoutaient sur Bercé des migrants principalement 
+venus du Massif Central, au savoir faire inégalable.
+
+*Nos fameux «balays», ou "balais" en seraient originaires, 
+de même que la Lauvergne : bourrée que l’on dansait peut-être à l’Hermitière. 
+Ils étaient organisés en ateliers qu’ils déplaçaient avec leurs loges au gré des coupes. 
+Les derniers scieurs de long que j’ai vu étaient dans la parcelle 213 au dessus du ruisseau.* 
+(Témoignage de Maurice Vérité, né en 1911).
 
 ### Un rude métier forestier
 
@@ -59,6 +80,7 @@ se chargeait des conditions de travail, des rémunérations.
 Il s'occupait des trajets, de l'hébergement et de la nourriture.
 A la fin de la campagne, il répartissait les gains...le fameux pécule. 
 
+{{<figure src="/images/articles/dessin-sdl.jpg"title="Une équipe à trois">}}
 
 ### La scie et le balluchon
   
@@ -133,6 +155,11 @@ ils regagnaient leur bicoque.
 
 ### Une équipe de scieurs de long comprenait trois personnes :
 
+*Ils travaillaient par équipes de deux ou trois pour manier l’énorme scie,
+qu’ils nommaient volontiers la "criminelle" ou la "belle-mère",
+sur un support nommé le "chevalet", l’un en haut (le "chevrier") 
+et l’autre en bas (le "renard"). 
+
 ### Le doleur,
 
 patron et chef d'équipe, il avait acquis son autorité par son habileté à aiguiser
@@ -153,8 +180,6 @@ renforcée d'une toile de chanvre.
 au sol, lui faisait face, jambes écartées. Il était couvert d'un chapeau à larges 
 bords ou tout simplement d'un vieux sac de toile, pour éviter de recevoir trop 
 de bran de scie (sciure) dans les yeux.
-
-{{<figure src="/images/articles/dessin-sdl.jpg"title="Une équipe à trois">}}
 
 
 Plusieurs équipes constituaient une brigade. Dans ce cas, un doleur suffisait pour 
