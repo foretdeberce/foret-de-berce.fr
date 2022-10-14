@@ -26,7 +26,7 @@ avec leur pioche ou leur scie pour chercher de l’ouvrage, parce que la nature 
 terre et la dureté du climat ne leur laissent rien à faire. Et qu’il leur faut pour
 payer les charges, des numéraires que les productions de leur sol ne leur procurent
 pas entièrement. Pour payer les impôts ils y suppléent par l’émigration annuelle,
-ils vont exploiter une partie des forêts de toute la France ».
+ils vont exploiter une partie des forêts de toute la France ».*
 
 Avec la Révolution, si certaines charges ont diminué, en contrepartie l'instauration 
 du devoir militaire fut créé. Les jeunes gens qui tiraient un mauvais numéro se voyaient 
