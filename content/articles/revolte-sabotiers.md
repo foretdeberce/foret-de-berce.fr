@@ -77,10 +77,10 @@ C'est la dépréciation de l'assignat qui entraîne cette flambée.
   des grains pratiqués au marché de Lucé, pour les trois premiers mois de 1792. 
 
 
-{{<figure src="/images/articles/valeurs.jpg" title="coût de la vie>}}
+{{<figure src="/images/articles/valeurs.jpg" title="coût de la vie">}}
 
 
-{{<figure src="/images/articles/assignat.jpg" title="Assignat de 15 sols>}}
+{{<figure src="/images/articles/assignat.jpg" title="Assignat de 15 sols">}}
 
 
 On s'aperçoit que si les pertes s'équilibrent en janvier avec les augmentations,
