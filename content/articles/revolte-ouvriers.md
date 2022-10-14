@@ -7,7 +7,6 @@ featured_image: "/images/et-revolte.jpg"
 tags: ["Histoire","Hommes","Ouvriers","Travaux"]
 ---
 
-     
 La première partie du spectacle d’inauguration des jardins du château 
 du Grand-Lucé présentait la *«révolte des sabotiers».* 
 
@@ -474,7 +473,6 @@ Jean BEAUGE officier, LAROZE procureur de la commune, BRISSET secrétaire.»
 {{<figure src="/images/articles/bagne.jpg" title="La pose des fers>}}
 
 
-
 Le 31 mai 1792, Pierre CHAZIER,
 dit SANS-FACON est condamné à la peine des fers pendant 16 années, 
   après avoir été
@@ -484,9 +482,7 @@ dit SANS-FACON est condamné à la peine des fers pendant 16 années,
   la cause de sa condamnation ; et le présent jugement imprimé à cent exemplaires 
   pour Lucé, Château-du-Loir, Pruillé-l’Éguillé et là où besoin sera.»*
   
-
 {{<figure src="/images/articles/chaines.jpg" title="fers et chaîne>}}
-
 
 La population Lucéenne avait montré sa sympathie à l'égard des ouvriers de la forêt. 
   Elle connaissait leurs intentions : ils voulaient chasser les gros acheteurs de blé « étrangers »
@@ -499,7 +495,6 @@ La population Lucéenne avait montré sa sympathie à l'égard des ouvriers de l
 {{<figure src="/images/articles/revolution.jpg" title="La devise>}}
 
 
-
 Il faudra attendre novembre 1792 pour qu'un mouvement semblable, la randonnée des taxateurs, 
   connaisse un succès qui s'étendra sur le territoire du département. 
 
@@ -510,7 +505,6 @@ Le blocage des prix, soulageant le petit peuple. Les ouvriers de Bercé font
   ils ont quand même pris conscience des influences qu'ils pouvaient susciter.
 
 {{<figure src="/images/articles/tiersetatmini.jpg" title="Le tiers-état>}}
-
 
 On a bien vu, à travers cet épisode peu connu de l'histoire locale, que la population
   pauvre avait bien quelques velléités, mais le pouvoir faisait bonne garde :
