@@ -3,7 +3,7 @@ title: "Scieurs de long"
 date: 2022-10-14T14:21:25+01:00
 draft: false
 description: " Un métier disparu "
-featured_image: "/images/et.scieurdelong.jpg"
+featured_image: "/images/et.scieursdelong.jpg"
 tags: ["Arbres","Bucheron","travaux"]
 ---
 
