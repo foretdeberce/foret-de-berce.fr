@@ -15,9 +15,9 @@ c'est pourquoi il est parfois appelé, à ce titre, pin pignon.
  {{<figure src="/images/articles/resine6.jpg" title="Le pignon de pin">}}
 
 Après les hivers rigoureux qui ont décimé les peuplements, la graine de 
-  pin maritime est collectée en 1884 : masse de graines désailées ## (1) 
+  pin maritime est collectée en 1884 : masse de graines désailées  (1) 
   utilisées en France (13 222 kg) pour le Sud-ouest et la Corse, Fontainebleau 
-  et la Sarthe qui détruisit cette essence dans ces zones, à l’hiver 1879-80. ## (2)
+  et la Sarthe qui détruisit cette essence dans ces zones, à l’hiver 1879-1880.  (2)
   
 Le ramassage s’organise dès le 14 décembre 1891 pour cesser le 1er mars. 
   Tous les ans, en octobre ou début novembre, à la Tasse, ont lieu ces adjudications,
