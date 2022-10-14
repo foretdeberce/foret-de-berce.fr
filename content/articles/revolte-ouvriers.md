@@ -123,26 +123,26 @@ Dès lors, les troubles se déclenchent:
      de la force publique contre les attroupements,
 
      Ouï     le rapport du Procureur Général Syndic, le Directoire considérant
-      que la loi a été pleinement exécutée par la municipalité et la Garde Nationale
-      de la ville du Grand-Lucé,
-      - que leur conduite ferme et courageuse a maintenu dans cette ville la tranquillité 
-      publique et protégé les propriétés particulières qui y étoient menacées,
-      - que les citoyens de la commune de Saint-Vincent du -Lorouër qui ne se sont pas 
-      rendus à la réquisition  légale qui leur a été faite,  
-       sont coupables de désobéissance à la loi,
-      - que les excès, insultes et voies de fait commis dans le bourg de 
-      Saint-Vincent du -Lorouër contre la Garde Nationale du Grand- Lucé étant dans 
-       l'exercice de ses fonctions, sont des délits punissables, 
+     que la loi a été pleinement exécutée par la municipalité et la Garde Nationale
+     de la ville du Grand-Lucé,
+     - que leur conduite ferme et courageuse a maintenu dans cette ville la tranquillité 
+     publique et protégé les propriétés particulières qui y étoient menacées,
+     - que les citoyens de la commune de Saint-Vincent du -Lorouër qui ne se sont pas 
+     rendus à la réquisition  légale qui leur a été faite,  
+      sont coupables de désobéissance à la loi,
+     - que les excès, insultes et voies de fait commis dans le bourg de 
+     Saint-Vincent du -Lorouër contre la Garde Nationale du Grand- Lucé étant dans 
+      l'exercice de ses fonctions, sont des délits punissables, 
 
 
 
       Arrête     que la municipalité de Saint-Vincent-du-Lorouër sera tenue
-        de faire parvenir au Directoire la liste exacte et nominative des 30 citoyens et 
-        des 3 officiers par elle requis au nom de la loi et qui ont refusé d'obéir, pour être
-        pris contre eux les mesures  indiquées par les articles 41 et 42 de la loi du 3 août 1791 ;
-        - Réserves à prononcer sur ladite municipalité de Saint-Vincent du -Lorouër jusqu'après
-        les informations qui seront faites sur les poursuites qui auront lieu contre les citoyens
-        compris en ladite liste ;
+       de faire parvenir au Directoire la liste exacte et nominative des 30 citoyens et 
+       des 3 officiers par elle requis au nom de la loi et qui ont refusé d'obéir, pour être
+       pris contre eux les mesures  indiquées par les articles 41 et 42 de la loi du 3 août 1791 ;
+       - Réserves à prononcer sur ladite municipalité de Saint-Vincent du -Lorouër jusqu'après
+       les informations qui seront faites sur les poursuites qui auront lieu contre les citoyens
+       compris en ladite liste ;
 
       Arrête     qu'à la requête du Procureur Syndic du district du Château-du-Loir, 
        suites et diligences du Procureur de la commune du Grand-Lucé, les insultes,
