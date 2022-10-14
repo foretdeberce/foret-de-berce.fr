@@ -12,7 +12,7 @@ Six années de gemmage en Bercé
 
 
 
- {{<figure src="/images/articles/resine7.jpg" title="L’arbre aux larmes d'or">}}
+ {{<figure src="/images/articles/resine7.jpg" title="Saga du pin maritime en Sarthe">}}
 
 Le prix du pin maritime valait :
 De 1 franc à 3 francs en 1857, 
