@@ -1,6 +1,6 @@
 ---
 title: "La randonnée des ouvriers de Bercé"
-date: 2022-10-05T17:23:44+01:00
+date: 2022-10-14T15:23:44+01:00
 draft: false
 description: "Sylviculture"
 featured_image: "/images/et-revolte.jpg"
