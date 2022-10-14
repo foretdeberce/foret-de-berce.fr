@@ -8,9 +8,6 @@ tags: ["Exploitation","Arbres","Livrets","Forestiers","Graines"]
 ---
 Six années de gemmage en Bercé 
 
-## L'arbre aux larmes d'or
-
-
 
  {{<figure src="/images/articles/resine7.jpg" title="Saga du pin maritime en Sarthe">}}
 
@@ -30,7 +27,7 @@ C’est de lui que l’on tire la gemme.…
   
 ## Quelques définitions :
  
- Le gemmage : consiste à blesser un pin pour en récolter la gemme ou résine. 
+Le gemmage : consiste à blesser un pin pour en récolter la gemme ou résine. 
   Le gemmage remonte sans doute à l'apparition de la forêt elle-même,
   c'est-à-dire aussi loin que les hommes s'en souviennent ! 
   Dans les Landes, bien avant la loi de Napoléon III en 1857, 
@@ -120,7 +117,7 @@ Le succès des premières expériences exécutées sur mille pins, m'a engagé �
   ont été traités suivant les méthodes employées dans les départements des
   Landes et de la Gironde. 
  
- La rigueur de l'hiver ayant retardé les travaux 
+La rigueur de l'hiver ayant retardé les travaux 
   préparatoires qui ont coûté 250 francs, on n'a commencé à récolter que le 
   premier mai, c'est-à-dire deux mois et demi trop tard.
   
