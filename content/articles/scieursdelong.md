@@ -7,7 +7,7 @@ featured_image: "/images/et.scieursdelong.jpg"
 tags: ["Arbres","Bucheron","travaux"]
 ---
 
-## Présents de 1480 a 1938.	
+## 1480 à 1938.	
 
 Annie Arnoult, a édité un livre sur le sujet et nous décrit cette vie hors du commun.
 *Les scieurs de long faisaient partie de ces nombreux migrants du Massif Central 
