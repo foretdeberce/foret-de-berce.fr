@@ -6,7 +6,10 @@ description: "Le gemmage"
 featured_image: "/images/et.resiniers.jpg"
 tags: ["Exploitation","Arbres","Livrets","Forestiers","Graines"]
 ---
-Six années de gemmage en Bercé 
+
+## 1927 à 1932.
+
+### Six années de gemmage en Bercé. 
 
 
  {{<figure src="/images/articles/resine7.jpg" title="Saga du pin maritime en Sarthe">}}
