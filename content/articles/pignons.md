@@ -8,11 +8,12 @@ tags: ["Exploitation","Arbres","Livrets","Forestiers","Graines"]
 ---
 
 
-## 1891-1959
+## En forêt de Bercé de 1891 à 1959.
+
 Le fruit du pin maritime, le pignon, est largement utilisé en cuisine et
 c'est pourquoi il est parfois appelé, à ce titre, pin pignon.
 
- {{<figure src="/images/articles/resine6.jpg" title="Le pignon de pin">}}
+ {{<figure src="/images/articles/resine6.jpg" title="La pigne de pin">}}
 
 Après les hivers rigoureux qui ont décimé les peuplements, la graine de 
   pin maritime est collectée en 1884 : masse de graines désailées  (1) 
