@@ -68,7 +68,7 @@ La résine ou gemme : Son prix est passé de 68 francs la barrique landaise
   soit 145 litres par hectare. Elle contient 20 % d'essence de térébenthine
   et 70 % de colophane. 
  
-## La distillation permet de séparer ces deux corps.
+### La distillation permet de séparer ces deux corps.
   
 L'essence de térébenthine est conditionnée en fûts de chêne et livrée à Bordeaux.
   
@@ -111,7 +111,7 @@ M. Roquet pense que cette  date est beaucoup trop récente et que le pin maritim
 
 ## 2 « Les pionniers du gemmage industriel en Sarthe »
 
-## Un visionnaire : M. Lefebvre des Allayx …..
+### Un visionnaire : M. Lefebvre des Allayx …..
   
 De l’intérêt de l’extraction de la térébenthine des pins du département de la Sarthe.
   
@@ -376,9 +376,9 @@ Mais c’est seulement 85 ans plus tard que la production de gemme
   est entreprise sur Bercé.
 L’outillage et les techniques sont originaires du Sud-Ouest.
 
-# 3  - La culture du pin maritime à Bercé :
+## 3  - La culture du pin maritime à Bercé :
   
-## Six ans de gemmage à Bercé (1927 à 1932)
+### Six ans de gemmage à Bercé (1927 à 1932)
 
 À Bercé en 1926, Granger (conservateur des Eaux  et forêts) annonce 
   l’adjudication des carres  pour un gemmage en 1927. La carre s'est
@@ -415,7 +415,7 @@ Le gemmage devra être conduit de manière à durer 3 ou 4 années consécutives
   s'il est reconnu que celle-ci provient d'un gemmage abusif et seront tenus
   dans ce cas de s'en rendre acquéreurs. 
   
-## 1926 :
+### 1926 :l'épopée continue.
   
 Avec l'arrivée de gemmeurs venus des Landes, quelques familles ont fait souche en Sarthe.
   
