@@ -7,13 +7,14 @@ featured_image: "/images/et.scieursdelong.jpg"
 tags: ["Arbres","Bucheron","travaux"]
 ---
 
-## De 1480 a 1938	
-Annie Arnoult, qui a écrit sur le sujet, nous décrit cette vie hors du commun.
-	*Les scieurs de long faisaient partie de ces nombreux migrants du Massif Central 
-  qui partaient régulièrement, en "brigades" ou en bandes pour des saisons de travail
-  à l’extérieur. De septembre à juin, ils vivaient loin de leur village, au cœur de 
-  forêts lointaines, dormant dans des cabanes où ils affrontaient la froidure de 
-  l’hiver, pour scier les planches et les poutres dans les troncs des plus hauts arbres. 
+## Présents de 1480 a 1938.	
+
+Annie Arnoult, a édité un livre sur le sujet et nous décrit cette vie hors du commun.
+*Les scieurs de long faisaient partie de ces nombreux migrants du Massif Central 
+qui partaient régulièrement, en "brigades" ou en bandes pour des saisons de travail
+à l’extérieur. De septembre à juin, ils vivaient loin de leur village, au cœur de 
+forêts lointaines, dormant dans des cabanes où ils affrontaient la froidure de 
+l’hiver, pour scier les planches et les poutres dans les troncs des plus hauts arbres. 
 
 *Une vie dure et épuisante, souvent aussi dangereuse, car les accidents étaient fréquents, 
 lot de ces modestes paysans, dans la force de l’âge, à la recherche d’un complément 
