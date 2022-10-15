@@ -1,6 +1,6 @@
 ---
 title: "La Glandée"
-date: 2022-10-05T17:23:44+01:00
+date: 2022-10-14T18:23:44+01:00
 draft: false
 description: "à Bercé"
 featured_image: "/images/et.panage.jpg"
