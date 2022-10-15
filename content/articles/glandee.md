@@ -52,7 +52,7 @@ Aujourd’hui, seuls deux grainetiers sont habilités à ramasser
   
 {{<figure src="/images/articles/105b1-1.jpg" title="Le Gland et la Citrouille – La Fontaine">}}
 
-*« Monsieur le Directeur, l’article paru dans Ouest-France il y a quelques jours 
+" Monsieur le Directeur, l’article paru dans Ouest-France il y a quelques jours 
   sur les glandeurs de la forêt de Bercé, a réveillé en moi une vocation. 
   
 Quand j’étais jeune, on me reprochait parfois de ne rien glander en classe. 
@@ -97,6 +97,6 @@ Je crois en la morale de la fable de la Fontaine,
   dont la morale est que « Dieu fait bien ce qu’il fait ». 
   
 Je me tiens à votre disposition pour un éventuel entretien 
-  et vous prie de croire, Monsieur le Directeur, à l’expression de mon profond respect. »*  
+  et vous prie de croire, Monsieur le Directeur, à l’expression de mon profond respect." 
   
 Signé M. G.
