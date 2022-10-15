@@ -7,7 +7,7 @@ featured_image: "/images/et.chenedesire4.jpg"
 tags: ["Topographie","Cartographie","Carrières ","Ronds"] 
 ---
  
-{{<figure src="/images/articles/rond-wautot.jpg" title="Le rond Wautot">}}
+{{<figure src="/images/articles/rond-wautot.jpg" title="Le rond Wautot.">}}
 
 Août 1669, la grande ordonnance de Jean Baptiste Colbert
 réglant les matières forestières prévoit 
@@ -18,7 +18,7 @@ et ceci, aux frais du Roi Louis XIV.
  Mais à cette époque, nous l'avons vu, 
  les chemins se font rares et hasardeux. 
 
-{{<figure src="/images/articles/amenagement1669.jpg" title="Le rond de Croix Marconnay">}}
+{{<figure src="/images/articles/amenagement1669.jpg" title="Le rond de Croix Marconnay.">}}
 
 Les ronds-points qui émaillaient ce réseau, ont aujourd'hui 
   disparu et avec eux leurs antiques croix ou poteaux en bois. 
