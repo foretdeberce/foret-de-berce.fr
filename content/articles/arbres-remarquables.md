@@ -153,7 +153,7 @@ En 2021 il a perdu malheureusement une de ses branches maitresse.
 Particularité botanique, l’anastomose créé dans la nature des arbres qui sans être remarquables n’en sont pas moins extraordinaires !
  
 
-{{<figure src="/images/articles/ remarquables.jpg" title="Liste des arbres célèbres">}}
+{{<figure src="/images/articles/remarquables.jpg" title="Liste des arbres célèbres">}}
  
 
 {{<figure src="/images/articles/arbres-remarquables2.jpg" title="Carte des arbres remarquable">}}
