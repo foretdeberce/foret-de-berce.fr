@@ -64,3 +64,9 @@ Au plus près de la forêt :
 [Amazon](https://www.amazon.fr/Berc%C3%A9-for%C3%AAt-dexception-Yves-Gouchet/dp/2359920529)
   
 [Éditions de l'Étrave](http://www.editions-etrave.fr/pub-inclass-berce.html)  
+  
+  
+###  La carte touristique de Bercé
+  
+  {{<figure src="/images/articles/carte-touristique.jpg" title="Pour vous repérer en forêt">}}
+  
