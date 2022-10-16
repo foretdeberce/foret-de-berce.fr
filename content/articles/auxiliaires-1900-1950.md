@@ -690,3 +690,4 @@ Des générations de besogneux ont ainsi par tous les temps, œuvré dans l’om
 	VILOTTEAU Eugène	M					
 	VIVET Jules		M					
 	VOISIN Louis		M
+        Et tous les oubliés (liste non exhaustive)
