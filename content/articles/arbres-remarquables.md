@@ -156,5 +156,5 @@ Particularité botanique, l’anastomose créé dans la nature des arbres qui sa
 {{<figure src="/images/articles/remarquables.jpg" title="Liste des arbres célèbres">}}
  
 
-{{<figure src="/images/articles/arbres-remarquables2.jpg" title="Carte des arbres remarquable">}}
+{{<figure src="/images/articles/remarquables2.jpg" title="Carte des arbres remarquable">}}
 
