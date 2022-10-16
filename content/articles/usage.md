@@ -14,7 +14,7 @@ En 877 l’ordonnance  de Charles IX prise à Quiercy sur/Oise eut
   au Moyen-âge, se transmet ainsi de père en fils.
 
 	Après Charlemagne, le Pouvoir Royal s'amenuise et celui des
-  Comtes (Cômes) s’accroît.
+        Comtes (Cômes) s’accroît.
   
 En 925 le Château du Loir est déjà construit, la terre de Château du loir, 
   située dans la Province du Maine est au XI e Siècle partie intégrante de la Comté (1) d 'Anjou.
@@ -72,13 +72,13 @@ Une fois la terre défrichée, ils l'entourent de fossés et peuvent la
 
 
      Usage :   C'est un privilège accordé par le Seigneur qui pouvait regrouper plusieurs droits 
-		           Hors la chasse.
+		Hors la chasse.
 
      Petit Usage : Droit de prendre tout bois, excepté le Chêne " Vif " pour construire et réparer
-		               les maisons, moulins, échelles, tonneaux, cercles, cuves.
+		    les maisons, moulins, échelles, tonneaux, cercles, cuves.
 
      Bois de Travail: Ce droit concerne l’exploitation de bois à merrain (Tonneaux) de mermentage
-		                  (Echalas des vignes), cerclage des Tonneaux  etc......... 
+		      (Echalas des vignes), cerclage des Tonneaux  etc......... 
 
      Hébergement :   Concerne l'usage " au bois vif " hors les cantons en "défait " pour rappareiller et
 		                 maintenir en bon état, abbayes, manoirs, pressoirs.
@@ -94,8 +94,7 @@ Une fois la terre défrichée, ils l'entourent de fossés et peuvent la
 		          " Segon la coustume de cette Forest " (XIII ° siècle).
 
      Pacage : ou " Paissage de bêtes Ausmailles " - Autorisation de mener les bovins et bêtes
-		         à laine (les chèvres sont interdites) , hors défaits sous la surveillance d'un                                                                   
-		         berger - Les chiens doivent être attachés tout le mois de Mai (durant les nais -
+		         à laine (les chèvres sont interdites) , hors défaits sous la surveillance d'un                                                    berger - Les chiens doivent être attachés tout le mois de Mai (durant les nais -
 		         sances du gibier).
 
     Chasse : Le Seigneur se réserve prioritairement la chasse, toutefois certains vassaux,
@@ -103,8 +102,8 @@ Une fois la terre défrichée, ils l'entourent de fossés et peuvent la
 		         pour certains gibiers.
 
     Aurillerie : ou Abeillage: Droit de disposer des ruches en forêt.
-		             Au Moyen Age, la récolte du miel et de la cire, dans les troncs creux
-                 constituait un bon revenu.  On y avait même institué des gardes spécialisés :                                                                                                                                                                                                                                                     «Les Bigres» qui étaient des éleveurs d’essaims d’abeilles sauvages
+		 Au Moyen Age, la récolte du miel et de la cire, dans les troncs creux
+                 constituait un bon revenu.  On y avait même institué des gardes spécialisés :                                                    «Les Bigres» qui étaient des éleveurs d’essaims d’abeilles sauvages
 
 
 {{<figure src="/images/articles/image41.jpg" title="Usages entre les 11ème et 13ème siècle ">}}
