@@ -7,8 +7,6 @@ featured_image: "/images/et.usage.jpg"
 tags: ["Histoire","Hommes","Droit","Agriculture"]
 ---
 
-{{<figure src="/images/articles/75ans.jpg" title="juin 1955 – Série 6 parcelle D1 et D6 – P.S. âgés de 75 ans">}}
-
 
 En 877 l’ordonnance  de Charles IX prise à Quiercy sur/Oise eut
   pour effet de rendre héréditaire la charge provinciale 
