@@ -17,7 +17,7 @@ présence de vide bien souvent laissés par l’agriculture et l’élevage.
 
 Elle devint forêt royale en 1337.
 
-Elle a toujours été traitée, depuis 1669, date du premier aménagement, 
+Elle a toujours été traitée, depuis [1669, date du premier aménagement](/articles/pdf/proces-verbal-de-reconnaissance-de-1669.pdf), 
 en haute futaie de chêne et de hêtre. Lors de la grande réformation des
 forêts par Colbert (Ordonnance de 1669), Bercé, contrairement à beaucoup 
 d’autres, est en bon état et n’a pas trop souffert d’abus. 
