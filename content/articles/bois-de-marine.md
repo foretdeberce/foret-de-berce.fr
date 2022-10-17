@@ -266,8 +266,10 @@ Mais aussi des «Bois de mauvaise figure» comme le disait Buffon (1):
 
 {{<figure src="/images/articles/marine-sermaize.jpg" title="Bois de marine sélectionné dans Sermaize de nos jours">}}
       
+## En 1921
+     
 La dernière année ou il est question de Bois *« Bons pour la Marine »*
-sur Bercé (1921) est aussi la plus chargée en renseignements,
+sur Bercé est aussi la plus chargée en renseignements,
 rendez-vous et anecdotes.
 
 Le Garde Pigault écrit pour les 15 et 16 juin, puis 10 juillet 1921:
@@ -293,9 +295,10 @@ Le Garde Pigault écrit pour les 15 et 16 juin, puis 10 juillet 1921:
       Mardi 6 septembre 1921, avec le collègue JOUAUX, nous avons 
       désigné par la première lettre, à l’encre, les ports de guerre
       qui recevront des bois destinés pour eux. » 
+     
+{{<figure src="/images/articles/marines2.jpg" title="Indemnités de déplacement des gardes">}}        
 
-## En 1921
-Le bois n'est plus flotté, mais son transport est ferroviaire.
+Dès 1921 Le bois n'est plus flotté, mais son transport est ferroviaire.
 Le modernisme et ses bateaux dits "insubmersibles" en fer,
 sont battus en brèche avec la catastrophe du voyage inaugural du « Titanic ».
 Mais la marine est déjà dans l’âge du fer. 
@@ -304,7 +307,9 @@ Mais la marine est déjà dans l’âge du fer.
       Remis au chef de gare 10 feuilles de voiture pour l’expédition des bois
       de marine le 1er août 1921. 
       Une lettre par voiture. Puis avec JOUAUX et BENOIT à faire les initiales 
-      et les numéros sur les billes de marine (dans les Pressenteries)»      
+      et les numéros sur les billes de marine (dans les Pressenteries)»     
+     
+{{<figure src="/images/articles/prix-marines.jpg" title="Évolution du prix des bois de marine">}}     
 
 Après le bateau, nouveau débouché pour les bois de Bercé : l’avion ! 
       « Faire inscription à la gare de Chahaignes de 6 billons, 3 chênes
