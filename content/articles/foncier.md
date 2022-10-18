@@ -13,8 +13,8 @@ qualifiait de « manteau d’Arlequin ».
 
 {{<figure src="/images/articles/vuesatellite.jpg" title="Vue satellite de Bercé">}}
   
-### La propriété forestière est aisée à délimiter avec l’aide du Procès 
-  verbal de délimitation et de bornage dû à l’arpenteur Wautot en 1843 :
+### La propriété forestière est aisée à délimiter avec le grand fossé de ceinture.
+et l’aide du Procès verbal de délimitation et de bornage dû à l’arpenteur Wautot en 1843 :
   
          Terre du fossé rejetée vers la forêt : 
          le fossé appartient alors à la forêt.
