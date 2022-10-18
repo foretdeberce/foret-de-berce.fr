@@ -59,6 +59,7 @@ Un arrêt du Conseil du Roi du 19 août 1689 et un ordre particulier
 {{<figure src="/images/articles/berce1669.jpg" title=" Carte de la forêt royale">}}  
   
 Elle a toujours été traitée, depuis [1669, date du premier aménagement](/articles/pdf/proces-verbal-de-reconnaissance-de-1669.pdf), en haute futaie de chêne et de hêtre. 
+  (Cliquez sur le lien pour accéder au PDF)
   Lors de la grande réformation des forêts par Colbert (Ordonnance de 1669),
   Bercé, contrairement à beaucoup d’autres, est en bon état et n’a pas 
   trop souffert d’abus. Elle ne couvre alors que les 3/4 de la surface actuelle.
