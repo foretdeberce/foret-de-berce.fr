@@ -113,16 +113,16 @@ Néanmoins, durant la  dernière guerre, les gazogènes et autres machines à va
   
 {{<figure src="/images/articles/meuleragee1.jpg" title="bati d’une meule dans la ragée">}}
   
-{{<figure src="/images/articles/ meuleragee2.jpg" title="Famille Vannier dans la ragée">}}
+{{<figure src="/images/articles/meuleragee2.jpg" title="Famille Vannier dans la ragée">}}
   
 Puis la meule refroidissait. A l’aube du cinquième jour, le charbonnier défaisait l’ensemble,
   en commençant de nuit, pour repérer et neutraliser immédiatement d’éventuels foyers mal
   éteints qui ne se voyaient pas de jour. Le charbon « dépoté » était mis en sacs de 50 kg, 
   chargé sur la voiture et livré. Durant 3 semaines, le charbonnier veillait ainsi sur ses meules.
   
-{{<figure src="/images/articles/ ensachagea.jpg" title="l’ensachage en 1940">}}
+{{<figure src="/images/articles/ensachagea.jpg" title="l’ensachage en 1940">}}
   
-{{<figure src="/images/articles/ ensachageb.jpg" title="Famille Vannier à l’ensachage">}}
+{{<figure src="/images/articles/ensachageb.jpg" title="Famille Vannier à l’ensachage">}}
   
 Nos petites meules de l’ouest, contenaient en moyenne 8 à 15 stères. D'après des relevés 
   faits par des agents forestiers sur tous les points du territoire, le procédé des meules 
@@ -131,7 +131,7 @@ Nos petites meules de l’ouest, contenaient en moyenne 8 à 15 stères. D'aprè
   425 kilogrammes comme poids du stère de bois dur on voit que cette production répond
   à un rendement moyen de 17 à 18 %.. 
   
-{{<figure src="/images/articles/ ensachagec.jpg" title="Charbon de bois prêt pour le transport">}}
+{{<figure src="/images/articles/ensachagec.jpg" title="Charbon de bois prêt pour le transport">}}
 
 Le garde MESSAGER constate le 28 novembre 1940, qu’un fourneau pour carboniser avait été déposé en
   bordure de la parcelle  D1 des Hirondelles. Le 9 septembre 1942  il reçoit une demande de place
@@ -150,14 +150,14 @@ Alors l'ère des charbonnières entièrement montées sur place et recouvertes d
 Pour y remédier, les chaudronniers fabriqueront des fours circulaires, 
   réalisés en plusieurs éléments ajustables.
   
-{{<figure src="/images/articles/ carbo1940c.jpg" title="Famille Vannier au pied du four en 1940">}}
+{{<figure src="/images/articles/carbo1940c.jpg" title="Famille Vannier au pied du four en 1940">}}
 
 Ces fours étaient destinés à la production du charbon de bois pour les moteurs à gazogène
   (un gaz combustible ersatz de l'essence devenue rare). Ils ont fonctionné en 1941 et 1942
   et sont composés de 3 éléments principaux : une base cylindrique de 2,20 m de diamètre 
   avec 4 poignées, un cône d'environ 80 cm de hauteur et un couvercle. 
   
-{{<figure src="/images/articles/ carbo1940a.jpg" title="Four Vannier dans la ragée">}}
+{{<figure src="/images/articles/carbo1940a.jpg" title="Four Vannier dans la ragée">}}
 
 Il faut moins de surveillance que pour les charbonnières traditionnelles, 
   qui exigent une présence constante.
@@ -171,7 +171,7 @@ Tout le charbon produit peut être récupéré, alors que dans les fosses et meu
 La durée de vie d'un four métallique n'est que de deux à trois ans à cause
   des goudrons et de l'humidité.
   
-{{<figure src="/images/articles/ carbo1940b.jpg" title="1940">}}
+{{<figure src="/images/articles/carbo1940b.jpg" title="1940">}}
   
 Pour l’Exposition  universelle de 1937 et jusqu’en 1940 dans les bureaux 
   des Eaux et forêts, situés au 1 de la rue du Port, au Mans, figurait
