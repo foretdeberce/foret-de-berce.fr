@@ -55,6 +55,8 @@ D’une surface de 5400ha, Bercé est la plus grande forêt domaniale de l’oue
   
 {{<figure src="/images/articles/surface.jpg" title="Distribution des surfaces communales">}}
 
+{{<figure src="/images/articles/surfaceforestiere.jpg" title="La forêt partagée">}}
+
 
 L’arrivée de l’A 28
   
