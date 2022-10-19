@@ -9,8 +9,8 @@ tags: ["Travaux","Poemes","Sylviculture","Materiel"]
 
 ### De tous temps, on a glandé à Bercé, mais toujours dans le bon sens du terme. 
 
-Dans le temps, menait au (parnage ou pasnage ou panage) les cochons au pâturage 
-ou à la glandée en forêt. La nourriture qui y était glanée n’était pas une 
+Dans le temps, menait au (parnage ou pasnage ou panage) les cochons (ou gorins)
+au pâturage ou à la glandée en forêt. La nourriture qui y était glanée n’était pas une 
 charge pour les usagers… tout au contraire.
 
 {{<figure src="/images/articles/017.jpg" title="Le Panage des porcs">}}
