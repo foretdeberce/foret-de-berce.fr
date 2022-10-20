@@ -49,7 +49,9 @@ Comme beaucoup de forestiers sur Bercé, il fera souche sur place.
 
 Laurent Heintz et Anne Marie Louise Vérité, née en 1849 se sont mariés 
   à Thoiré-sur Dinan le 3 mai 1873.
-
+  
+{{<figure src="/images/articles/laurent-marielouise.jpg" title="Laurent et Anne Mrie Louise Heintz">}}
+  
 De 1874 à 1881, 
 Le couple eut 4 enfants, (3 garçons et une fille).
 L’ainé, Théophile Laurent Pierre est né le 3 avril 1874.
