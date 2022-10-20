@@ -32,8 +32,7 @@ Voici la liste des forestiers ayant occupé cette maison forestière :
  
 C’est un bon exemple d’intégration dans notre contrée.
   
-{{<figure src="/images/articles/douciniere1933.jpg" title="La famille Leclercq en 1933">}}
-  
+
 MESSAGER, dont les voisins diront qu’il aimait bien sa cave, tant et si bien qu’il s’y cachait, 
   avait été, durant la dernière guerre, mobilisé au centre des bois N°15 à Versailles pour une 
   quinzaine avant d’être affecté jusqu’à nouvel ordre à son poste. En août 1951 il rejoindra son poste de SaintRémy (Côte   d’Or). 
@@ -48,6 +47,9 @@ MESSAGER, dont les voisins diront qu’il aimait bien sa cave, tant et si bien q
   devant un bon verre de vin. 
  
 LECLERCQ Albert Né à Neufchâtel-en Saosnois le 12 juin 1902. Brigade 2 – Triage 3. Garde de 3ème classe en poste du 1er mars 1932 jusqu’au 21 mai 1937 à la M.F. de la Doucinière, il fut installé par son brigadier : Pierre FELIOT. Il succède au garde Jules VERSEAU. Originaire de Radon, dans l’Orne, son dernier poste se situait à Conflans-sur-Seine. 
+ 
+ {{<figure src="/images/articles/albertleclercq1960.jpg" title="Albert Leclercq en 1960">}}
+  
   
 L'électricité arrive à la maison forestière en octobre 1954,
   mais pour le défaut de règlement d’une facture le compteur électrique ne peut être posé le 20 octobre. 
