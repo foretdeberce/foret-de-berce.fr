@@ -104,7 +104,7 @@ Le 26 septembre 1955 : Arrivée de l’électricité au poste des Boussions.
   L'ancienne maison sera démolie en 1984 pour être remplacée
   par une maison à ossature bois en 1985. 
   
-  {{<figure src="/images/articles/et.boussions-neuf.jpg" title="La maison bois des Boussions">}}
+  {{<figure src="/images/articles/boussions-neuf.jpg" title="La maison bois des Boussions">}}
   
 ### Références : 
   
