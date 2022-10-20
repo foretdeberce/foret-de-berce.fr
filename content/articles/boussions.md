@@ -3,12 +3,11 @@ title: "Maison forestière des Boussions"
 date: 2022-09-18T18:23:44+01:00
 draft: false
 description: "Thoiré sur Dinan"
-featured_image: "/images/boussions-neuf.jpg"
+featured_image: "/images/et.2017boussions.jpg"
 tags: ["Forestiers","MF"]
 ---
 
-La maison forestière des Boussions, située sur la commune de Thoiré sur Dinan
-est aujourd’hui une construction bois.
+{{<figure src="/images/articles/boussions2.jpg" title="Cartouche de la maison forestière des Boussions">}}
 
 La précédente batie selon les préceptes de l'époque en 1814,
 présentait quelques désordres qui auraient alourdi sa rénovation. 
@@ -52,8 +51,7 @@ Une autre habitation la jouxte en lisière.
   aux Étangs. En novembre 1860 il est nommé brigadier à Saint-Rigomer des-Bois
   à la M.F. du Buisson, en Perseigne. 
 
-  
-  
+   
 28 décembre 1868, note de LEROUX : « Mr. le sous -inspecteur est venu chez moi
   pour mentionner les dégâts ou réparations à faire à la M.F. qui seraient 
   susceptibles d’être imputés à mon compte. » LEROUX profitera le 27 janvier 1870 
@@ -95,78 +93,21 @@ Pierre RIMASSON et Marie ont en 1936, pour berger CHALIGNÉ William (né en 1922
   effectue ces travaux avec l’aide de nos auxiliaires. 
   Tu as eu une bonne idée de faire effectuer cette analyse.»* 
   
+{{<figure src="/images/articles/20171018boussions.jpg" title="Maquette des Boussions">}}
+  
+  Gaston Fivaz, (forestier centenaire) nostalgique des Boussions a réalisé cette maquette.
+  
 Le 26 septembre 1955 : Arrivée de l’électricité au poste des Boussions. 
   L’administration ayant fait place au jeune ONF, la modernisation s’intensifie. 
   14 janvier 1972 : installation d’une pompe au puits.
+  
   L'ancienne maison sera démolie en 1984 pour être remplacée
   par une maison à ossature bois en 1985. 
   
-    Le garde HEINTZ(2)
-    Le chasseur forestier HEINTZ (n° matricule 3129) garde domanial de 2ème classe,
-    est né en 1844, et domicilié à Thoiré-sur-Dinan. Il débuta en forêt de Bercé 
-    le 28 septembre 1872. Affecté au triage n°6, c’est un homme affaibli par une 
-    dure campagne militaire de 1870/1871, qui s’y présente.
-    Sergent au 19ème bataillon de chasseurs à pied, 8ème compagnie, à Toulouse 
-    il aurait du rester dans le midi, mais en bon Alsacien, il obtient de rallier
-    la frontière à Strasbourg, et d’être placé dans la 2ème compagnie de marche.
-    Promu sous-lieutenant, il a contracté au sortir de la guerre, des attaques 
-    régulières de rhumatismes articulaires. Ce 22 avril 1892 : cela ne l’empêche 
-    pas de travailler car le conservateur, l’inspecteur et l’inspecteur adjoint 
-    sont en forêt. 
-    Il est classé comme le meilleur et comme le plus dévoué des préposés de Bercé.
-    1ère classe depuis le 24 juillet 1880 et nommé à la classe exceptionnelle 
-    le 25 février 1888, aujourd’hui abolie. Il reçoit en 1893, la médaille d’honneur
-    forestière à défaut de la médaille militaire qui lui revenait de droit. 
-    En effet, de brillants états de services et plusieurs faits d’armes lui 
-    sont crédités, malheureusement sans que personne ne puisse en témoigner. 
-    Bon nombre de ses camarades sont en effet « Morts pour la France ».
+  {{<figure src="/images/articles/boussions-neuf.jpg" title="Forestiers des Boussions">}}
   
-*« Les gardes HEINTZ et LESIMPLE font partie de cette troupe de gardes d’élite, 
-  fermes, soumis, dévoués, modes tes, qui sont l’honneur d’un corps, qui donnent
-  aux jeunes l’exemple à suivre, et qui forment, dans une forêt, cette tradition 
-  du personnel, nécessaire au bon fonctionnement de la gestion. »* 
-  Note de ROULLEAU-1893 
+### Références : 
   
- 
+     (1)	Inventaire sommaire des archives départementales de la Sarthe 
+  antérieures à 1790 série B.(f° 9-ADS-actes - 7 M 402
     
-{{<figure src="/images/articles/laurent-marielouise.jpg" title="Laurent Heintz et Marie-Louise Vérité">}}
-
-Laurent HEINTZ et Anne Marie Louise VÉRITÉ, née en 1849 (Photo ci-dessus) 
-  se sont mariés à Thoiré-sur Dinan le 3 mai 1873. De 1874 à 1881, 
-  ils eurent 4 enfants (3 garçons et une fille) mais le 20 juillet 1875 
-  «Resté à la maison pour faire enterrer mon enfant nouveau né ». 
-  Les obsèques ont lieu à Thoiré. 
-  Le 8 novembre 1876 « Été à Lucé pour chercher un enfant de 
-  l’Assistance publique de Douai. ». 
-17 Juillet 1881 : « Été à Thoiré faire baptiser mon enfant (Eugène Camille)
-  né de samedi, passé le reste de la journée à vaquer à mes affaires ». 
-Le 23 janvier 1895 « A Château-du-Loir, tiré le billet du sort de mon 
-  fils Théophile né le 3 avril 1874». HEINTZ perçoit comme tous ses collègues,
-  la ration mensuelle de tabac. Cet « avantage » perdurera malheureusement
-  pour notre santé, 100 ans plus tard. 
-13 novembre 1882 « Le soir accompagné le juge de paix sur le canton de
-  Croix-Veneur parcelle A5 pour la reconnaissance d’un cadavre trouvé 
-  dans cette parcelle par le sieur BRANJONNEAU. Rendu compte au brigadier » 
-9 avril 1883 : « Gardé la maison pour cause d’enflure du pied droit,
-  ne pouvant pas mettre de chaussures. » Laurent HEINTZ souffre comme
-  nombre de forestiers des pieds, organes essentiels de la marche
-  en forêt. 
-1890, du 21 mars au 16 avril… malade : 
-  * « vu le docteur Manceau de Château-du-Loir ».* 
-  Du 5 août au 13 septembre 1890 : 
-  *« Parti aux eaux thermales de Bourbon-l’Archambault » (idem en 1891) *
-  
-Du 3 mai au 6 juin 1894 et du 21 août au 21 octobre 1895, Laurent HEINTZ 
-  est souvent arrêté « malade... au poste ». Il se plaint toujours des rhumatismes. 
-Le 24 septembre 1897, il va au Mans chez un médecin assermenté pour un
-  certificat de maladie. Laurent HEINTZ a pris sa retraite le 11 septembre 1897
-  car son état de santé ne lui permettait plus de continuer dans ses fonctions
-  « visite du médecin : 5fr ». Du 1er au 10 novembre 1897 date de sa retraite 
-  effective il est en position de « permission retraite ».
-  
-30 juillet 1917 : enterrement de l’ancien garde HEINTZ décédé à Thoiré-sur-Dinan. 
-  
-     Références : 
-     (1)	Inventaire sommaire des archives départementales de la Sarthe antérieures à 1790 série B.(f° 9-ADS-actes - 7 M 402) 
-     (2)	archives familiales
-
