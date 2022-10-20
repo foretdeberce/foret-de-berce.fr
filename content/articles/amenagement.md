@@ -38,6 +38,7 @@ prirent fin qu’à la réformation de Colbert qui avait annoncé que la France
 périrait faute de bois. 
 Sa célèbre ordonnance des Eaux et Forêts du 13 août 
 1669 parachève le tableau. 
+Michel Devèze nous décrit [La Grande réformation des forêts sous Colbert : (1661-1683)](/articles/pdf/grande-reformation-des-forets-royales.pdf).
 
 {{<figure src="/images/articles/cartecassini.jpg" title="La carte de Cassini concernant Bercé">}}
 
