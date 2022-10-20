@@ -17,16 +17,18 @@ dégradant au passage le paysage et les sols.
 
 En 1922 l’aménagiste dit de Bercé à propos du charbon de bois : ni marchands,
 ni propriétaires exploitants carbonisateurs de charbons de bois depuis longtemps 
-sur Bercé, ni dans les environs. La reprise de l’activité du charbon de bois dans
+sur Bercé, ni dans les environs.
+
+La reprise de l’activité du charbon de bois dans
 la Ragée, durant la dernière guerre, de 1940 à 1942 qu’une connotation stratégique, 
-afin d’alimenter les gazogènes (photo), les moulins, boulangeries et charbonniers du Mans.
+afin d’alimenter les gazogènes, les moulins, boulangeries et charbonniers du Mans.
 
 Le charbon confectionné en meule traditionnelle, était plus ouvrageux que celui du four 
 en tôle, mais en contre-partie beaucoup plus beau. Les charbonniers couchaient sur place 
 afin de contrôler toutes les phases de la carbonisation.
 
 Il y eut donc de la carbonisation et de la mise en sac de charbon de bois dans la vallée 
-de la Ragée (photos) pour son acheminement en carriole vers le rond du Guignier et son
+de la Ragée pour son acheminement en carriole vers le rond du Guignier et son
 transbordement en camion jusqu’au Moulin de Saint-Georges près le Mans.
 
 La famille Vannier, comme beaucoup d’autres, issue du monde rural, n’avait guère le choix
@@ -37,7 +39,7 @@ en effet plus à l’entretien de la famille. Émile, en 1925 travaille dans les
 
 ### C’est à ce titre qu’en 1940, il est réquisitionné par les Bois de Guerre.
 
-Dans une Notice (1), rédigée pour l'Exposition universelle de 1878, monsieur LARZILLIERE,
+Dans une Notice (1), rédigée pour l'Exposition universelle de 1878, monsieur Larzillière,
 sous-inspecteur des forêts, écrivait : 
 
 *Le seul mode de carbonisation dont l'usage soit général en France est le procédé des meules. 
@@ -54,7 +56,7 @@ pour élaborer du charbon de bois destiné entre autre au "gazogène".
 {{<figure src="/images/articles/meule.jpg" title="Le principe de la meule">}}
 
 Démonstration de l’inventivité de l’homme, il dut en être fabriqué, aux temps anciens, 
-  pour réduire le fer dans les bas fourneaux. Mais jusqu’aux récents conflits…plus rien.... 
+  pour réduire le fer dans les bas fourneaux. Mais jusqu’aux récents conflits… plus rien.... 
   
 Seul le fait de la guerre raviva la carbonisation. 
   
@@ -70,7 +72,7 @@ Le 19 août 1929 une note secrète émanant du ministère de la guerre,
   exploitation et de sa carbonisation. 
   
 Quant à la disponibilité des bouleaux de diamètre 20 en forêt de Bercé,
-  le brigadier ALBRECHT avait déjà produit le 24 janvier 1927, un état négatif.
+  le brigadier Albrecht avait déjà produit le 24 janvier 1927, un état négatif.
   
  ..Mais Bercé est peu pressentie pour fournir ce charbon de bois...
   
@@ -80,7 +82,7 @@ De l’avis des inspecteurs, cette forêt est trop prestigieuse
 Le service forestier (M.Viney) désigna alors les forêts de Sillé, 
   Alençon ou Senonches pour assumer cette production. 
   
-{{<figure src="/images/articles/pub.jpg" title="Promotion du carburant forestier">}}
+{{<figure src="/images/articles/pub.jpg" title="Promotion pour les points de vente du carburant forestier">}}
 
 Néanmoins, durant la  dernière guerre, les gazogènes et autres machines à vapeur réclamaient
   énormément de matière première, l’effort de guerre en nécessitait aussi la propagande 
@@ -101,7 +103,7 @@ Néanmoins, durant la  dernière guerre, les gazogènes et autres machines à va
   on tâtait la consistance de la meule à mesure que la cuisson descendait. 
   Quand la couche cédait, c'était cuit.*
   
-{{<figure src="/images/articles/carbo2.jpg" title="montage d’une meule">}}
+{{<figure src="/images/articles/carbo2.jpg" title="Montage d’une meule">}}
 
  
 ### Une technique simple et efficace.
@@ -111,34 +113,42 @@ Néanmoins, durant la  dernière guerre, les gazogènes et autres machines à va
   Les piles étaient constituées de tronçons de 73 cm de long dont le diamètre variait de 4 à 15 cm.
   Le montage de la meule s’étalait ensuite sur 5 heures.
   
-{{<figure src="/images/articles/meuleragee1.jpg" title="bati d’une meule dans la ragée">}}
+{{<figure src="/images/articles/meuleragee1.jpg" title="Montage d’une meule dans la ragée">}}
   
 {{<figure src="/images/articles/meuleragee2.jpg" title="Famille Vannier dans la ragée">}}
   
 Puis la meule refroidissait. A l’aube du cinquième jour, le charbonnier défaisait l’ensemble,
   en commençant de nuit, pour repérer et neutraliser immédiatement d’éventuels foyers mal
-  éteints qui ne se voyaient pas de jour. Le charbon « dépoté » était mis en sacs de 50 kg, 
+  éteints qui ne se voyaient pas de jour. 
+  
+  Le charbon « dépoté » était mis en sacs de 50 kg, 
   chargé sur la voiture et livré. Durant 3 semaines, le charbonnier veillait ainsi sur ses meules.
   
-{{<figure src="/images/articles/ensachagea.jpg" title="l’ensachage en 1940">}}
+{{<figure src="/images/articles/ensachagea.jpg" title="L’ensachage en 1940">}}
   
 {{<figure src="/images/articles/ensachageb.jpg" title="Famille Vannier à l’ensachage">}}
   
-Nos petites meules de l’ouest, contenaient en moyenne 8 à 15 stères. D'après des relevés 
-  faits par des agents forestiers sur tous les points du territoire, le procédé des meules 
-  donnait, en moyenne par stère régulièrement empilé de bois de chêne : 82 kg de charbon
-  et par stère régulièrement empilé de bois de hêtre : 76 kg. En admettant le chiffre de 
-  425 kilogrammes comme poids du stère de bois dur on voit que cette production répond
-  à un rendement moyen de 17 à 18 %.. 
+Nos petites meules de l’ouest, contenaient en moyenne 8 à 15 stères. 
+  
+      D'après des relevés faits par des agents 
+      forestiers sur tous les points du territoire, 
+      le procédé des meules donnait, en moyenne par
+      stère régulièrement empilé de bois de chêne :
+      82 kg de charbon et par stère régulièrement 
+      empilé de bois de hêtre : 76 kg. 
+      En admettant le chiffre de 425 kilogrammes 
+      comme poids du stère de bois dur on voit que
+      cette production répond à
+      un rendement moyen de 17 à 18 %.. 
   
 {{<figure src="/images/articles/ensachagec.jpg" title="Charbon de bois prêt pour le transport">}}
 
-Le garde MESSAGER constate le 28 novembre 1940, qu’un fourneau pour carboniser avait été déposé en
+Le garde Messager constate le 28 novembre 1940, qu’un fourneau pour carboniser avait été déposé en
   bordure de la parcelle  D1 des Hirondelles. Le 9 septembre 1942  il reçoit une demande de place
   pour fourneaux de charbons de bois : 2 places à charbon et 1 place à loge dans la parcelle E6 
   (P. 175 de Sermaize). L’industrialisation est en marche….
   
-### Témoignage d’Édouard GUILLIER
+### Témoignage d’Édouard Guillier (ancien éhouppeur)
   
 *Vers 1950 il y avait dans les Monnées, sur la route forestière de Chahaignes dans 
   la pointe à gauche, une hutte à charbonnier. Ceux-ci vivaient dans leur cahutte, 
@@ -211,7 +221,7 @@ Plus tard, après l’armistice du 22 juin 1940, la pénurie aidant, on ressorti
 (2) Session ordinaire du Sénat de 1956-1957. 
   - Séance du 29 mai 1957.
   
-Documents et archives de l’ONF
+Documents et archives de l’ONF (livrets journaliers)
   
 Témoignages divers de vieux bûcherons	
  
