@@ -31,6 +31,9 @@ Leclercq Auguste Joseph Edmond Brigadier domanial le 27 février 1914.
   forestier en poste à la M.F. de Villaines (Perseigne).
   
 Leclercq Albert Né à Neufchâtel-en Saosnois le 12 juin 1902.
+  
+{{<figure src="/images/articles/albert1.jpg" title="Albert Leclercq">}}
+    
   Brigade 2 – Triage 3.
   Garde de 3ème classe en poste du 1er mars 1932 jusqu’au 
   21 mai 1937 à la M.F. de la Doucinière,
@@ -38,7 +41,7 @@ Leclercq Albert Né à Neufchâtel-en Saosnois le 12 juin 1902.
   Il succède au garde Jules Verseau. Originaire de Radon, 
   dans l’Orne, son dernier poste se situait à Conflans-sur-Seine. 
   
-{{<figure src="/images/articles/les-anciens.jpg" title="famille Leclercq">}}
+{{<figure src="/images/articles/albertetsonepouse.jpg" title="Albert et Marie Leclercq">}}
   
 Marié à Marie, le 12 septembre 1932, naissance d’un garçon. Sa mère, Juliette,
   tombe malade le 14 janvier 1935 et décède le 21. 
