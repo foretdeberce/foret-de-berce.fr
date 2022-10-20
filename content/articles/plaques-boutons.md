@@ -129,7 +129,7 @@ Jean-Claude Chausse, présente dans cette parution :
   notamment l’évolution des plaques de baudrier de garde terrassier 
   employé aux routes forestières (que l'on nomme aussi garde cantonnier)
 
-{{<figure src="/images/articles/brigadierrevolution" title="Plaque de Brigadier avant 1850">}}
+{{<figure src="/images/articles/brigadier.jpg" title="Plaque de Brigadier avant 1850">}}
 
 ## Le bricolage des plaques
 
