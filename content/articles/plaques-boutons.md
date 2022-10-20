@@ -7,17 +7,17 @@ featured_image: "/images/et.rendezvous.jpg"
 tags: ["Forestiers","Gardes", "Service"]
 ---
   
-{{<figure src="/images/articles/leclercq1899.jpg" title="François-Joseph et son épouse">}}
 
-
-## 1 - Eaux et forêts….. « Force à la loi » 
+## 1 - Eaux et forêts…..
+« Force à la loi » 
  
 La seule vue de leur plaque invite à la sagesse d’éventuels saccageurs !
+
 Cette marque distinctive de leur fonction d’autorité fait partie du 
-  costume des gardes du domaine ou des gardes particuliers. Dans les textes
-  anciens, les gardes sont désignés comme assistants des officiers des
-  Maîtrises des eaux et forêts mais on ne parlait guère alors de la 
-  «vêture» des gardes (leur tenue d’aujourd'hui).
+  costume des gardes du domaine ou des gardes particuliers.
+  Dans les textes anciens, les gardes sont désignés comme assistants 
+  des officiers des Maîtrises des eaux et forêts mais on ne 
+  parlait guère alors de la «vêture» des gardes (leur tenue d’aujourd'hui).
 
 ### XI° siècle :
 
@@ -36,7 +36,8 @@ Par décret Royal,
   des décisions de justice, ne doivent exercer leurs fonctions que revêtus 
   de leur manteau bigarré et la verge à la main »*
   
-  … bien entendu, nous ne parlons ici que d’un bâton de bois…! 
+*bien entendu, nous ne parlons ici que d’un bâton de bois…! 
+  
 (Ordonnances sur le fait de la chasse donc des Eaux et forêts 
   de François 1er de mars 1515 et août 1533).
 
@@ -71,7 +72,8 @@ Les "Maistres" et officiers établis pour commander aux gardes d’une
   du toponyme « Segrayer » concernant le canton de Croix Segrier. (cf: Gruerie) 
 
 
-### Fin XVIII° siècle, et spécialement dès le début de l'époque révolutionnaire.
+### Fin XVIII° siècle,
+...et spécialement dès le début de l'époque révolutionnaire.
 
 Il fut admis « … que les plaques ou broderies pourraient être portées sur
   un brassard, et même remplacées par des médailles à une ou deux 
@@ -91,7 +93,9 @@ Elles adoptent toutes les formes, au gré des régimes politiques
   successifs. Fleur de lys, coq gaulois, aigle, palmes et bien sur,
   les légendes s’adaptent aux circonstances :
   
-  « la Loi, le Roi », « Force à la Loi », « Respect à la Loi »…
+  « la Loi, le Roi », 
+  « Force à la Loi », 
+  « Respect à la Loi »…
   
 A partir de la révolution la plaque du garde particulier invoque et 
   c’est la règle, la Loi, (le garde est décoré selon le vœu de la loi). 
@@ -103,10 +107,11 @@ A partir de la révolution la plaque du garde particulier invoque et
   Révolution car ils rappelaient trop l'Ancien Régime. »* 
   
 A la Révolution nous retrouvons le bonnet phrygien surmontant ou
-  non un faisceau de licteur, une pique ou un vieux chêne. 
-« À la Restauration, les fleurs de lys, symbole de l'Ancien Régime,
+  non un faisceau de licteur, une pique ou un vieux chêne.
+  
+*« À la Restauration, les fleurs de lys, symbole de l'Ancien Régime,
   réapparaissent sous Louis XVIII, mais si Charles X les conserve, 
-  -Philippe les abandonne car il veut donner une autre image à son règne. »
+  -Philippe les abandonne car il veut donner une autre image à son règne. »*
   
 C’est la représentation d'une Minerve en pied, puis l'aigle impérial 
   élancé qui firent s'envoler, en 1814, les attributs de la Restauration,
@@ -119,14 +124,14 @@ C’est la représentation d'une Minerve en pied, puis l'aigle impérial
 
 {{<figure src="/images/articles/restauration1814-1830.jpg" title="plaque restauration 1814">}}
 
-Jean-Claude Chausse, présente dans cette parution
+Jean-Claude Chausse, présente dans cette parution :
   [Évolution des plaques forestières](/articles/pdf/evolution-plaques.pdf) 
   notamment l’évolution des plaques de baudrier de garde terrassier 
-  employé aux routes forestières (garde cantonnier)
+  employé aux routes forestières (que l'on nomme aussi garde cantonnier)
 
 {{<figure src="/images/articles/brigadierrevolution" title="Plaque de Brigadier avant 1850">}}
 
-Le bricolage des plaques
+## Le bricolage des plaques
 
 ### De 1792 à 1852 
   
@@ -142,7 +147,10 @@ Ces "bricolages" peuvent provenir suite aux changements
 {{<figure src="/images/articles/bricolage.jpg" title="Le bricolage des plaques">}}
 
 
-Durant les périodes de changement politique, des modifications ont été faites au niveau local (celui du garde et du triage, ou de la conservation) sur les plaques pour coller un peu plus à la réalité, nécessitant le plus souvent peu de matériel.
+Durant les périodes de changement politique, des modifications ont été
+  faites au niveau local (celui du garde et du triage, ou de la conservation)
+  sur les plaques pour coller un peu plus à la réalité,
+  nécessitant le plus souvent peu de matériel.
 
 {{<figure src="/images/articles/avant1850.jpg" title="Bouton et plaque">}}
 
@@ -187,7 +195,7 @@ Code forestier du 28 mai 1827 et ordonnance d'exécution du 1er août:
   chamois avec bandes de drap vert, et au milieu une plaque de métal 
   blanc portant ces mots : " Forêts royales" avec une fleur de lys ».
   
-« Lorsque ces Messieurs les agents reçurent un uniforme au commencement 
+« Lorsque ces Messieurs les agents (officiers) reçurent un uniforme au commencement 
   du 19ème siècle, on se contenta (vers 1835) de pourvoir les préposés
   de l’insigne apparent qui distinguait les dépositaires de l’autorité 
   publique : la plaque. Cette plaque était attachée à une bandoulière 
