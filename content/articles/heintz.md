@@ -15,7 +15,9 @@ Le chasseur forestier Heintz (n° matricule 3129) garde domanial
 de 2ème classe, est né en 1844, et domicilié à Thoiré-sur-Dinan. 
 Il débuta en forêt de Bercé 1872.
 
-Le 28 septembre 1872 il est affecté au triage n°6.
+{{<figure src="/images/articles/medailles.jpg" title="Au retour de la guerre de 1870">}}
+
+Le 28 septembre 1872 il est affecté au triage n°6, à la maison forestière des Boussions.
 
 {{<figure src="/images/articles/laurent001.jpg" title="Laurent Heintz">}}
 
