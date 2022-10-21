@@ -37,7 +37,7 @@ ce samedi 9 mars 2002
 
  ### Intervention de Mme Elisabeth Allaire, Préfet de la Sarthe
 
-{{<figure src="/images/articles/image11.jpg" title=" Discours de madame le Préfet ">}}
+{{<figure src="/images/articles/image11.jpg" title="Intervention de madame le Préfet">}}
 
 
 Général Muriel et Madame,
@@ -48,7 +48,7 @@ Mesdames et Messieurs les Maires,
 Mesdames et Messieurs les Présidents,
 Mesdames, Messieurs
 
-{{<figure src="/images/articles/image5.jpg" title="Michel Muriel à la droite de madame le Préfet">}}
+{{<figure src="/images/articles/image5.jpg" title="Michel Muriel à droite de madame le Préfet">}}
 
 
 En forêt domaniale de Bercé, les chênes ne sont pas des arbres comme les autres.
