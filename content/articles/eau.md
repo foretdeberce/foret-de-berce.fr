@@ -197,6 +197,8 @@ Fontaine des Roches, Gaie Mariée.
 Certains ne se chargent qu'en cas de pluie abondante :
 le Court s’il pleut, le Chabosson,  etc. ...
  
+{{<figure src="/images/articles/geographiephysique.jpg" title="Les abondantes vallées irriguent 3 rivières">}} 
+ 
 Tous n'ont qu'un seul objectif, évacuer le trop plein de l’immense 
 château d'eau naturel de Bercé vers le Loir, la Sarthe ou l’Huisne.
  
