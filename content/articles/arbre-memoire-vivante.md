@@ -25,14 +25,14 @@ Pourtant la veille, avec ses collègues ils avaient ensemble répété un plan p
   disparaître par les toits. Hélas la surprise fût totale.
 
 
-{{<figure src="/images/articles/image2.jpg" title="Cérémonie du baptême du Chêne">}}
+{{<figure src="/images/articles/image2.jpg" title="Baptême du Chêne">}}
 
 Dédié à la mémoire de
-Georges France Muriel 
+Georges France Muriel, 
 ce samedi 9 mars 2002 
 
 {{<youtube id="tuPABUCKjqU" autoplay="true">}}
-{{<figure src="/images/articles/image1.jpg" title="L’emplacement du chêne Muriel">}}
+{{<figure src="/images/articles/image1.jpg" title="Emplacement du chêne Muriel">}}
 
 
  ### Intervention de Mme Elisabeth Allaire, Préfet de la Sarthe
@@ -48,7 +48,7 @@ Mesdames et Messieurs les Maires,
 Mesdames et Messieurs les Présidents,
 Mesdames, Messieurs
 
-{{<figure src="/images/articles/image5.jpg" title="Michel Muriel à droite de madame le Préfet">}}
+{{<figure src="/images/articles/image5.jpg" title="jacques Chaumont, Michel Muriel et madame le Préfet">}}
 
 
 En forêt domaniale de Bercé, les chênes ne sont pas des arbres comme les autres.
@@ -56,7 +56,7 @@ Tels des géants, ils tiennent leur noblesse d'avoir été ensemencés, au cœur
   la forêt royale de Bercé, dans la futaie des Clos, vers 1650, au temps de Colbert 
   et de Molière, mais aussi de la Fronde et de la guerre de Trente Ans.
 
-{{<figure src="/images/articles/chene-muriel5.jpg" title="L’arbre">}}
+{{<figure src="/images/articles/chene-muriel5.jpg" title="L’arbre élu">}}
 
 On dit qu'ils sont capables, pour peu que l'on sache le leur demander, conter l'Histoire 
   de France, depuis Louis XIV jusqu'à nos jours.
@@ -90,8 +90,8 @@ Il est agent de renseignements et de liaison du secteur de Nantes.
 Après la capture de ses initiateurs, c'est Marie-Madeleine Méric dite "Fourcade",
   dite "Hérisson" qui assure la direction générale du réseau pendant toute la guerre. 
 Afin de brouiller leurs traces, les membres du réseau Alliance ne se connaissaient 
-  en effet que sous des noms d'animaux. Pie, Hermine, Rossignol, Eléphant, faisant 
-  que les allemands les appelaient l'Arche de Noé". 
+  en effet que sous des noms d'animaux. 
+  Pie, Hermine, Rossignol, Eléphant, faisant ... que les allemands les appelaient l'Arche de Noé". 
   
 L'Arche, forte de 3000 agents environ, répartis sur l'ensemble du territoire occupé
   dans  des  secteurs géographiques au nom codé, tel "La Ferme" pour notre région, 
@@ -144,7 +144,7 @@ Ces hommes et ces femmes devaient disparaître comme s'ils s'étaient évanouis
 Après l'internement à Fresnes, s'ensuivit pour les prisonniers de l'Alliance, 
   la détention dans les prisons du pays de Bade ou au camp de Schirmeck.
 
- {{<figure src="/images/articles/image13.jpg" title="Dossier Muriel">}}
+ {{<figure src="/images/articles/image13.jpg" title="Photos anthropométrique du dossier Muriel">}}
 
 Georges Muriel s'y trouvait lui-même à la fin du mois d'août 1944 alors que l'avance 
   très rapide des Alliés laissait  augurer aux  détenus  qu'ils  pourraient  bientôt 
@@ -184,7 +184,7 @@ En dévoilant cette plaque, nous avons uni à jamais le destin d'un grand arbre 
   celui d'un grand homme, votre père Général Muriel, votre grand-père Armelle, 
   Anne-Lise, et Alexis, votre arrière grand-père Julie et Axelle.
 
-{{<figure src="/images/articles/image6.jpg" title="En uniforme du 117ème RI">}}
+{{<figure src="/images/articles/image6.jpg" title="Le chêne devenu Homme">}}
 
 Par ce geste, nous avons confié à cet arbre des moments douloureux de la vie de notre pays.
 Oui, ces pages d'histoire, nous te les confions, à toi, noble chêne Muriel, rasséréné 
