@@ -56,7 +56,7 @@ Tels des géants, ils tiennent leur noblesse d'avoir été ensemencés, au cœur
   la forêt royale de Bercé, dans la futaie des Clos, vers 1650, au temps de Colbert 
   et de Molière, mais aussi de la Fronde et de la guerre de Trente Ans.
 
-{{<figure src="/images/articles/chenemuriel5.jpg" title="L’arbre">}}
+{{<figure src="/images/articles/chene-muriel5.jpg" title="L’arbre">}}
 
 On dit qu'ils sont capables, pour peu que l'on sache le leur demander, conter l'Histoire 
   de France, depuis Louis XIV jusqu'à nos jours.
