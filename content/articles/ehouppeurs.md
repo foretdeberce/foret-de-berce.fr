@@ -7,7 +7,6 @@ featured_image: '/images/guillier1973.jpg'
 tags: ["Exploitation","Travaux","Hommes","Bucherons"]
 ---
 
-{{<figure src="/images/articles/75ans.jpg" title="juin 1955 – Série 6 parcelle D1 et D6 – P.S. âgés de 75 ans">}}
                   
  ### L'éhouppeur ou émondeur
   
@@ -61,15 +60,19 @@ Habitant Saint Pierre, il faisait partie de la Maison Berger (1940-1960)
 ### Chevereau
   
 Dans les années 1959/60, il répondait au surnom de BADEL « dit Pas d’Ailes ».
-  « En émondant à la hache  la tête d’un chêne par temps brumeux, il fut trahit,
+  
+ *En émondant à la hache  la tête d’un chêne par temps brumeux, il fut trahit,
   trop sûr de lui, par celle-ci qui  pivota subitement et ça l’a pris en descendant.
-  « Étouffé » par les sangles, un autre émondeur l’a redescendu ».
+  « Étouffé » par les sangles, un autre émondeur l’a redescendu.*
+  
   Déstabilisé par des crampons peut être désaffûtés, il glissa le long du tronc. 
   Il décéda peu après.
 
 ### Cissé Gaston :
 Père à Jean-Pierre (Bucheron et marchand de bois), il travaillait avec le Père 
-  Compain, son décès eut lieu P192 en 1974, dans le milieu de la parcelle : 
+  Compain. 
+  Son décès eut lieu P192 en 1974, dans le milieu de la parcelle : 
+  
   C’était le 02/02 1974, il faisait un vent terrible, c’est le houppier d’un 
   arbre voisin qui était déjà à terre qui d’une branche le blessa à mort..
 
@@ -86,14 +89,17 @@ Avant l’accident du 12 décembre 1923 (article 28/1923) les éhouppeurs ne pre
   
 ### JOUSSE
   
-Habitant Mayet,  il fut aussi secouru par Édouard. « A l’hôpital, les infirmiers
-  se demandaient ce que c’était que ces ferrailles aux pieds».
+Habitant Mayet, fut aussi secouru par Édouard.
+ *A l’hôpital, les infirmiers
+  se demandaient ce que c’était que ces ferrailles aux pieds.*
   
 ### André Chesnier
   
-De Pruillé l’Éguillé, il a eu les deux chevilles cassées. Il fut déséquilibré et 
-  tomba à la renverse. On le retrouva pendu par les pieds, depuis plus de deux heures
+De Pruillé l’Éguillé, André a eu les deux chevilles cassées.
+  Il fut déséquilibré et tomba à la renverse. 
+  On le retrouva pendu par les pieds, depuis plus de deux heures
   durant, dans Croix Veneur.
+  
 C’est Jean Chambon qui venait de perdre son épouse (dont le père avait racheté avant
   guerre les crampons à Émile Vannier) et Édouard Guillier qui l’ont décroché car
   il n’y avait pas d’échelle assez grande pour le descendre de son arbre.
@@ -107,7 +113,9 @@ La cognée est encore du voyage au cas où...
 ### Vannier Émile
   
  C’est Marcel Ramaugé qui a enseigné le métier à Émile Vannier
-   de Chahaignes, né en 1900, c’est lui aussi qui lui a vendu
+   de Chahaignes, né en 1900.
+  
+ C’est lui aussi qui lui a vendu
    ses crampons. André le fils à Émile, était scieur.
   
       Robert CALVEL se souvient qu’Émile VANNIER de Chahaignes,
@@ -145,8 +153,8 @@ Cet arbre fut encore appelé le "chêne Ajam", du nom du député de la Sarthe q
     
 ### Édouard Guillier
   
-Né le 28 août 1931 à la Mercerie (Jupilles) de Saint Vincent du Lorouër, 
-  a commencé à travailler en ferme avant de bûcheronner en Forêt.
+Né le 28 août 1931 à la Mercerie (Jupilles), il habitait Saint Vincent du Lorouër.
+ Il a commencé à travailler en ferme avant de bûcheronner en Forêt.
 Ses débuts, il les fait en 1956, avec Raymond et Camille Lemoine 
   (il possède alors la première tronçonneuse sur Bercé). 
   
@@ -157,8 +165,8 @@ Il a terminé sa carrière en 1986.
 
 ### Éluard Guy
   
-Venant du nord du département, il rayonne sur l’ensemble des forêts.
-Le voici dans ces œuvres, en décembre 1985 sur l’éhouppement 
+Venant du nord du département, Guy rayonne sur l’ensemble des forêts.
+Le voici dans ses œuvres, en décembre 1985 sur l’éhouppement 
   d’un des plus gros chênes de la futaie des Clos.
   
 {{<youtube id="i1fUIymk8Lg" autoplay="true">}}
@@ -182,16 +190,24 @@ Au départ, il n’y avait pas de vêtements de sécurité. Image du film chroni
 
 *Le métier d’éhouppeur  était et est toujours difficile et dangereux. 
   J’ai commencé à bûcher les pieds dans le fond des Monnées, sans tronçonneuse. 
+  
   Au début, les salaires étaient plus avantageux. Nous n’avions pas de casque et 
   un jour, j’ai reçu une trique sèche.  Quand il pleuvait sur les hêtres, 
   la corde ne tenait pas. Les hêtres de Bercé, étaient plus durs, alors 
   qu’en forêt de Lyons, ils étaient plus tendres.
+  
   L’éhouppement se faisait à l'époque avec une petite hache. 
+  
   C’était pénible sans l’être, car les premières tronçonneuses étaient lourdes,
-  mais ça partait plus vite avec la tronçonneuse. C’était tellement épais
-  à c’t’époque-là. Il en sortait du bois. On n’a pas toujours été heureux 
-  à bûcher les souches. J’ai travaillé beaucoup avec Garnier Michel, C.D.S. 
-  (Pontvallain) et Lecobois. Sur le terrain on mangeait dans un balai. 
+  mais ça partait plus vite avec la tronçonneuse. 
+  C’était tellement épais à c’t’époque-là. 
+  Il en sortait du bois.
+  
+  On n’a pas toujours été heureux à bûcher les souches. 
+  J’ai travaillé beaucoup avec Garnier Michel, C.D.S. 
+  (Pontvallain) et Lecobois. 
+  
+  Sur le terrain on mangeait dans un balai. 
   De la viande : entrecôte de cochon, ou du poisson : hareng,  puis du fromage,
   pain, pomme, banane ou pêche. La boisson : c’était du cidre. Il y avait aussi 
   la bouteille de goutte cachée sous le balai pour les grandes occasions.*
