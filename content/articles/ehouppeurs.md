@@ -180,6 +180,9 @@ Le voici dans ses œuvres, en décembre 1985 sur l’éhouppement
   
 {{<youtube id="i1fUIymk8Lg" autoplay="true">}}
   
+* Voici le film muet (sonorisé tant bien que mal) de l'exploitation 
+  d'un des plus gros chêne de la futaie des clos qui venait de dépérir.*
+  
 {{<figure src="/images/articles/1999eluard.jpg" title="Guy Éluard en 1999">}}
   
 {{<figure src="/images/articles/eluard1.jpg" title="Guy Éluard aux clos">}}
