@@ -100,12 +100,16 @@ De Pruillé l’Éguillé, André a eu les deux chevilles cassées.
   On le retrouva pendu par les pieds, depuis plus de deux heures
   durant, dans Croix Veneur.
   
+  {{<figure src="/images/articles/andrechesnier1.jpg" title="André Chesnier">}}
+  
 C’est Jean Chambon qui venait de perdre son épouse (dont le père avait racheté avant
   guerre les crampons à Émile Vannier) et Édouard Guillier qui l’ont décroché car
   il n’y avait pas d’échelle assez grande pour le descendre de son arbre.
   
-{{<figure src="/images/articles/andrechesnier1.jpg" title="André Chesnier">}}
-Sur la photo, on aperçoit l’encrage des pieds d’André dans le tronc.
+
+  
+  {{<figure src="/images/articles/andrechesnier.jpg" title="On aperçoit l’encrage des pieds d’André dans le tronc">}}
+
 La cognée est encore du voyage au cas où...
 
 ## Les incidents
