@@ -113,7 +113,7 @@ C’est Jean Chambon qui venait de perdre son épouse (dont le père avait rache
   
 
   
-  {{<figure src="/images/articles/andrechesnier.jpg" title="On aperçoit l’encrage des pieds d’André dans le tronc">}}
+  {{<figure src="/images/articles/photochesnier.jpg" title="On aperçoit l’encrage des pieds d’André dans le tronc">}}
 
 La cognée est encore du voyage au cas où...
 
