@@ -23,8 +23,9 @@ La valeur de ces arbres est comme le risque à prendre : trop grand.
   
 {{<figure src="/images/articles/serain1285.jpg" title="Guy Éluard sur un gros collet dans les Clos">}}
 
-Lorsque le collet était trop imposant, il était bon d’être au moins deux à bûcher au moment 
-  fatidique de la découpe. À trois dans le même hêtre, c’est souvent pour trinquer à la santé d'un photographe.
+*Lorsque le collet était trop imposant, il était bon d’être au moins deux à bûcher au moment 
+  fatidique de la découpe.*
+  À trois dans le même hêtre, c’est souvent pour trinquer à la santé d'un photographe.
   
 Cette profession, aristocratie du bûcheronnage a humainement, fortement payé sa dîme.
   
@@ -33,8 +34,11 @@ Nombre d’accidents se sont succédés au fil du temps.
 {{<figure src="/images/articles/ehouppageboppe.jpg" title="Éhouppage du chêne Boppe - 1935">}}
 
 Sur la photo ci-contre, Auguste RAMAUGÉ et un autre éhouppeur, ce vendredi 19 juillet 1935, 
-  sont en train d’officier à plus de 25m de hauteur. Le collet de l’arbre était tellement 
-  gros qu’ils ont dû monter à deux pour l’étêter. (Photo Albert Leclercq)
+  sont en train d’officier à plus de 25m de hauteur.
+  
+ *Le collet de l’arbre était tellement 
+  gros qu’ils ont dû monter à deux pour l’étêter.* 
+  (Photo Albert Leclercq)
   
 ## Les accidents
   
@@ -42,20 +46,21 @@ Beaucoup d’entre eux eurent à payer le prix fort de cet éprouvant métier.
 
 ### Thiodet  
   
-En 1912 a eu la main coupée par la hache de son comparse. Après il avait un crochet.  
+En 1912 Thiodet a eu la main coupée par la hache de son comparse. 
+  *Après il avait un crochet.  
   Malheureusement pour lui, il n’avait pas d’assurance. Ces  «Thiodet» étaient sur Jupilles,
   A Jupilles, c’était à l’époque un petit Paris, ils avaient l’eau sous pression, 
   le soir tout le monde se mettait à faire des sabots. (Paulette Berthelon). 
-  Mais la solidarité n’est pas un vain mot sur Jupilles. 
-*Témoignages de Marcel Perroux.* 
+  Mais la solidarité n’est pas un vain mot sur Jupilles.* 
+Témoignages de Marcel Perroux.
 
     
  ### Broutté
   
 Habitant Saint Pierre, il faisait partie de la Maison Berger (1940-1960)
-    « Dans les derniers jours qu’il avait à faire, avant sa retraite, 
+  *Dans les derniers jours qu’il avait à faire, avant sa retraite, 
   sa corde était un peu juste et voulant passer un gros collet, 
-  le nœud de celle-ci  s’est démanché et l’éhouppeur est tombé »
+  le nœud de celle-ci  s’est démanché et l’éhouppeur est tombé*
     
 ### Chevereau
   
