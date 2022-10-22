@@ -13,13 +13,14 @@ tags: ["Exploitation","Travaux","Hommes","Bucherons"]
 C’est la profession la plus exposée. Imaginez-vous grimper à 25 ou 30 m du sol avec votre matériel, 
   et du haut, entreprendre à la hache, l’abatage, tout en prenant soin de votre équilibre. 
   
-{{<figure src="/images/articles/ehoup3.jpg" title="l’équipe de la scierie Berger de Marigné-Laillé">}}
+{{<figure src="/images/articles/ehoup3.jpg" title="Équipe de la scierie Berger de Marigné-Laillé">}}
   
 Les grumes de chênes de Bercé, parées de leur belle couleur rosée, sont tendres à souhait et se fendent facilement.
   
 Ces particularités font que les marchands de bois ne tergiversent pas longtemps sur le nombre d’arbres à éhoupper.
   
-La valeur de ces arbres est comme le risque à prendre : trop grand. 
+La valeur de ces arbres est comme le risque à prendre : 
+  ...trop grand. 
   
 {{<figure src="/images/articles/serain1285.jpg" title="Guy Éluard sur un gros collet dans les Clos">}}
 
@@ -44,7 +45,7 @@ Sur la photo ci-contre, Auguste RAMAUGÉ et un autre éhouppeur, ce vendredi 19 
   
 Beaucoup d’entre eux eurent à payer le prix fort de cet éprouvant métier.
 
-### Thiodet  
+### Thiodet : 
   
 En 1912 Thiodet a eu la main coupée par la hache de son comparse. 
   *Après il avait un crochet.  
@@ -55,16 +56,17 @@ En 1912 Thiodet a eu la main coupée par la hache de son comparse.
 Témoignages de Marcel Perroux.
 
     
- ### Broutté
+ ### Broutté :
   
-Habitant Saint Pierre, il faisait partie de la Maison Berger (1940-1960)
+Habitant à Saint Pierre, il travaillait pour la Maison Berger (1940-1960)
+  
   *Dans les derniers jours qu’il avait à faire, avant sa retraite, 
   sa corde était un peu juste et voulant passer un gros collet, 
   le nœud de celle-ci  s’est démanché et l’éhouppeur est tombé*
     
-### Chevereau
+### Chevereau :
   
-Dans les années 1959/60, il répondait au surnom de BADEL « dit Pas d’Ailes ».
+Dans les années 1959/60, il répondait au surnom de Badel « dit Pas d’Ailes ».
   
  *En émondant à la hache  la tête d’un chêne par temps brumeux, il fut trahit,
   trop sûr de lui, par celle-ci qui  pivota subitement et ça l’a pris en descendant.
@@ -76,23 +78,23 @@ Dans les années 1959/60, il répondait au surnom de BADEL « dit Pas d’Ailes 
 ### Cissé Gaston :
 Père à Jean-Pierre (Bucheron et marchand de bois), il travaillait avec le Père 
   Compain. 
-  Son décès eut lieu P192 en 1974, dans le milieu de la parcelle : 
+  Son décès eut lieu en 1974, dans le milieu de la parcelle 192 : 
   
-  C’était le 02/02 1974, il faisait un vent terrible, c’est le houppier d’un 
-  arbre voisin qui était déjà à terre qui d’une branche le blessa à mort..
+  *C’était le 02/02 1974, il faisait un vent terrible, c’est le houppier d’un 
+  arbre voisin qui était déjà à terre qui d’une branche le blessa à mort.*
 
     
-### Durandeau Eugène 
+### Durandeau Eugène :
   
-Il faisait avec BROUTÉ partie de l’équipe de la scierie BERGER. C’était un gars très
-  fort d’Ecommoy. Bernard MASSEAU l’a souvent vu assis sur le collet de l’arbre à plus
+Il faisait avec Brouté partie de l’équipe de la scierie Berger. C’était un gars très
+  fort d’Ecommoy. Bernard Masseau l’a souvent vu assis sur le collet de l’arbre à plus
   de 18 m de hauteur après l’éhouppement, pour rouler sa cigarette, puis il redescendait.
   
 Avant l’accident du 12 décembre 1923 (article 28/1923) les éhouppeurs ne prenaient pas
   toutes les précautions voulues et étêtaient bien souvent les arbres sans les ébrancher 
   au préalable rendant la chute des houppiers très aléatoire.
   
-### JOUSSE
+### Jousse :
   
 Habitant Mayet, fut aussi secouru par Édouard.
  *A l’hôpital, les infirmiers
@@ -119,7 +121,7 @@ La cognée est encore du voyage au cas où...
 
 ## Les incidents
   
-### Vannier Émile
+### Vannier Émile :
   
  C’est Marcel Ramaugé qui a enseigné le métier à Émile Vannier
    de Chahaignes, né en 1900.
@@ -145,11 +147,12 @@ La cognée est encore du voyage au cas où...
 
 {{<figure src="/images/articles/claudeminier1999.jpg" title="Claude Minier nous montre ses crampons">}}
 
-### L’émondage du chêne de Gaie Mariée
+### L’émondage du chêne de Gaie-Mariée
   
 {{<figure src="/images/articles/emilevannier.jpg" title="Émile Vannier sur le chêne de Gaie-Mariée">}}
 
 Ce chêne était situé dans la parcelle 194 (régénérée durant la dernière guerre).
+  
 Il a été abandonné à l’exploitation le 18 novembre 1946.
 Mesuré en 1942 par le Brigadier Albérola, sa circonférence était de :
   3m45 pour 208 ans d’âge et une hauteur totale de 35m dont 22m sous branche.
@@ -160,7 +163,7 @@ Cet arbre fut encore appelé le "chêne Ajam", du nom du député de la Sarthe q
   interpella l’Assemblée Nationale pour la sauvegarde du clos du chêne Boppe le 18-11-1907.
 
     
-### Édouard Guillier
+### Édouard Guillier :
   
 Né le 28 août 1931 à la Mercerie (Jupilles), il habitait Saint Vincent du Lorouër.
  Il a commencé à travailler en ferme avant de bûcheronner en Forêt.
@@ -180,25 +183,25 @@ Le voici dans ses œuvres, en décembre 1985 sur l’éhouppement
   
 {{<youtube id="i1fUIymk8Lg" autoplay="true">}}
   
-* Voici le film muet (sonorisé tant bien que mal) de l'exploitation 
+*Voici le film muet (sonorisé tant bien que mal) de l'exploitation 
   d'un des plus gros chêne de la futaie des clos qui venait de dépérir.*
   
 {{<figure src="/images/articles/1999eluard.jpg" title="Guy Éluard en 1999">}}
   
-{{<figure src="/images/articles/eluard1.jpg" title="Guy Éluard aux clos">}}
+{{<figure src="/images/articles/eluard1.jpg" title="puis en 2008 aux Clos">}}
   
-{{<figure src="/images/articles/eluard2.jpg" title="Guy Éluard en 2008">}}
+{{<figure src="/images/articles/eluard2.jpg" title="sur un gros chêne sec de l'année">}}
   
-{{<figure src="/images/articles/eluard3.jpg" title="Guy Éluard - instant crucial">}}
+{{<figure src="/images/articles/eluard3.jpg" title="Dans l'instant crucial">}}
   
 
-### Impressions 
+## Impressions 
   
 ### Témoignage d’Édouard Guillier
   
-Au départ, il n’y avait pas de vêtements de sécurité. Image du film chronique de Bercé © Deleule
+Au départ, il n’y avait pas de vêtements de sécurité. (Image du film chronique de Bercé © Deleule)
   
-{{<figure src="/images/articles/guillier4.jpg" title="1973 Édouard Guillier">}}
+{{<figure src="/images/articles/guillier4.jpg" title="1973 Édouard bûchant un peuplier">}}
 
 *Le métier d’éhouppeur  était et est toujours difficile et dangereux. 
   J’ai commencé à bûcher les pieds dans le fond des Monnées, sans tronçonneuse. 
@@ -250,7 +253,7 @@ Pratiquée par l’éhouppeur, la sculpture d’émonde rend hommage
 Tombant avec la grume,  elle pourra être récupérée...ou pas.
 ### Liste non exhaustive des ouvriers du bois jusqu’en 1970
   
-{{<figure src="/images/articles/listebucherons.jpg" title="ouvriers bûcheurs jusqu’en 1970">}}
+{{<figure src="/images/articles/listebucherons.jpg" title="Ouvriers bûcheurs jusqu’en 1970">}}
 
 Aujourd’hui encore, les éhouppeurs restent à nos yeux et pour toujours… les As de Bercé
 
@@ -258,4 +261,4 @@ Une part importante des chênes de qualité et des hêtres au feuillage trop imp
   sont systématiquement éhouppés par ces spécialistes venus bien souvent d’ailleurs
   et plus précisément du nord du département. 
   
-{{<figure src="/images/articles/gaio.jpg" title="élagage de sécurité par l’équipe de Dino Gaïo">}}
+{{<figure src="/images/articles/gaio.jpg" title="Élagage de sécurité opéré par l’équipe de Dino Gaïo">}}
