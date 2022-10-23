@@ -1,6 +1,6 @@
 ---
 title: "Les lavoirs"
-date: 2022-10-20T17:23:44+01:00
+date: 2022-10-23T08:23:44+01:00
 draft: false
 description: " en forêt de Bercé "
 featured_image: "/images/et.lavoir13.jpg"
