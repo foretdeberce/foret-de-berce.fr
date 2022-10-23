@@ -10,8 +10,11 @@ tags: ["Forestiers","MF","Eau","Hommes"]
 
 
 En novembre 2022
+
 Prochaine page à venir
+
 LES LAVOIRS
+
 
 La création des lavoirs fut particulièrement importante entre 1820 et 1880 en forêt de Bercé. La fontaine de la Coudre, sources de l'Hermitière, Sermaize et sur les terrains des maisons forestières.
 
