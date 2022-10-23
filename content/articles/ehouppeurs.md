@@ -11,9 +11,9 @@ tags: ["Exploitation","Travaux","Hommes","Bucherons"]
  ### L'éhouppeur ou émondeur
   
 C’est la profession la plus exposée. Imaginez-vous grimper à 25 ou 30 m du sol avec votre matériel, 
-  et du haut, entreprendre à la hache, l’abatage, tout en prenant soin de votre équilibre. 
+  et du haut, entreprendre à la hache, l’abatage (1), tout en prenant soin de votre équilibre. 
   
-{{<figure src="/images/articles/ehoup3.jpg" title="Équipe de la scierie Berger de Marigné-Laillé">}}
+{{<figure src="/images/articles/ehoup3.jpg" title="Éhouppeurs de la scierie Berger de Marigné-Laillé">}}
   
 Les grumes de chênes de Bercé, parées de leur belle couleur rosée, sont tendres à souhait et se fendent facilement.
   
@@ -34,7 +34,7 @@ Nombre d’accidents se sont succédés au fil du temps.
   
 {{<figure src="/images/articles/ehouppageboppe.jpg" title="Éhouppage du chêne Boppe - 1935">}}
 
-Sur la photo ci-contre, Auguste RAMAUGÉ et un autre éhouppeur, ce vendredi 19 juillet 1935, 
+Sur la photo ci-dessus, Auguste RAMAUGÉ aidé d'un autre éhouppeur, ce vendredi 19 juillet 1935, 
   sont en train d’officier à plus de 25m de hauteur.
   
  *Le collet de l’arbre était tellement 
@@ -51,8 +51,10 @@ En 1912 Thiodet a eu la main coupée par la hache de son comparse.
   *Après il avait un crochet.  
   Malheureusement pour lui, il n’avait pas d’assurance. Ces  «Thiodet» étaient sur Jupilles,
   A Jupilles, c’était à l’époque un petit Paris, ils avaient l’eau sous pression, 
-  le soir tout le monde se mettait à faire des sabots. (Paulette Berthelon). 
-  Mais la solidarité n’est pas un vain mot sur Jupilles.* 
+  le soir tout le monde se mettait à faire des sabots. (Paulette Berthelon).* 
+  
+  *Mais avec le secours mutuel, la solidarité n'a jamais été un vain mot sur Jupilles.* 
+  
 Témoignages de Marcel Perroux.
 
     
@@ -215,6 +217,7 @@ Au départ, il n’y avait pas de vêtements de sécurité. (Image du film chron
   
   C’était pénible sans l’être, car les premières tronçonneuses étaient lourdes,
   mais ça partait plus vite avec la tronçonneuse. 
+  
   C’était tellement épais à c’t’époque-là. 
   Il en sortait du bois.
   
@@ -262,3 +265,9 @@ Une part importante des chênes de qualité et des hêtres au feuillage trop imp
   et plus précisément du nord du département. 
   
 {{<figure src="/images/articles/gaio.jpg" title="Élagage de sécurité opéré par l’équipe de Dino Gaïo">}}
+
+### Référence :
+  
+  (1) l'inspecteur Viney avait lui aussi pris l'habitude d'orthographier
+  le mot "abattage" avec un seul "t" pour se démarquer de la boucherie!
+  
