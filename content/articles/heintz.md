@@ -47,21 +47,21 @@ Comme beaucoup de forestiers sur Bercé, il fera souche sur place.
       et je ne manquerai pas de revenir continuer mes recherches» (1)
 
 
-{{<figure src="/images/articles/boussions528.jpg" title="Les deux familles font souche au plus près">}}
+{{<figure src="/images/articles/boussions528.jpg" title="Sa future épouse vivait au coin des fossés">}}
 
 Laurent Heintz et Anne Marie Louise Vérité, née en 1849 se sont mariés 
   à Thoiré-sur Dinan le 3 mai 1873.
   
-{{<figure src="/images/articles/laurent-marielouise.jpg" title="Laurent et Anne Mrie Louise Heintz">}}
+{{<figure src="/images/articles/laurent-marielouise.jpg" title="Laurent et Anne Marie Louise Heintz">}}
   
 De 1874 à 1881, 
 Le couple eut 4 enfants, (3 garçons et une fille).
-L’ainé, Théophile Laurent Pierre est né le 3 avril 1874.
+L’aîné, Théophile Laurent Pierre est né le 3 avril 1874.
   
 Une seconde naissance arrive le 20 juillet 1875, 
   mais Laurent note sur son livret :
  «Resté à la maison pour faire enterrer mon enfant nouveau né ». 
-  Les obsèques ont lieu à Thoiré.
+  Les obsèques auront lieu à Thoiré.
   
 Le 4 décembre 1875, « au Château du Loir pour payer les frais de timbre
   de mon extrait de naissance et du consentement de mes parents pour mon mariage »
@@ -84,13 +84,16 @@ Janvier 1879, le froid a raison des écritures du livret journalier.
 13 novembre 1882 
 « Le soir accompagné le juge de paix sur le canton de
 Croix-Veneur parcelle A5 pour la reconnaissance d’un cadavre trouvé 
-dans cette parcelle par le sieur BRANJONNEAU. Rendu compte au brigadier » 
+dans cette parcelle par le sieur Branjonneau. Rendu compte au brigadier » 
+  
 9 avril 1883 : « Gardé la maison pour cause d’enflure du pied droit,
-ne pouvant pas mettre de chaussures. » Laurent HEINTZ souffre comme
+ne pouvant pas mettre de chaussures. » Laurent Heintz souffre comme
 nombre de forestiers des pieds, organes essentiels de la marche  en forêt. 
 
 1890, du 21 mars au 16 avril….malade (vu le docteur Manceau de Château du Loir)
-5 aout au 13 septembre 1890 : 
+  
+5 août au 13 septembre 1890 : 
+  
   « parti aux eaux thermales de Bourbon-l’Archambault (idem en 1891)
 
 21 & 22 avril 1892,  ses rhumatismes ne l’empêchent  pas de travailler
@@ -128,7 +131,6 @@ Du 3 mai 1894 au 6 juin puis en 1895, du 21 aout au 21 octobre Laurent Heintz
  Le 23 janvier 1895 « A Château-du-Loir, tiré le billet du sort de mon 
   fils Théophile né le 3 avril 1874».
     
-. 
 Heintz perçoit comme tous ses collègues, la ration mensuelle de tabac.
   Cet « avantage » perdurera malheureusement  pour notre santé, 100 ans plus tard. 
   
@@ -136,12 +138,12 @@ Le 7 juillet 1897 il va à Château du Loir pour tirer un certificat de médecin
 Son état de santé ne lui permettait plus de continuer dans ses fonctions
  « visite du médecin assermenté : 5fr ».
   
-Laurent HEINTZ a pris sa retraite le 11 septembre 1897
+Laurent Heintz a pris sa retraite le 11 septembre 1897
   
 Du 1er au 10 novembre 1897 date de sa retraite effective il est 
   en position de « permission retraite ».
   
-30 juillet 1917 : enterrement de l’ancien garde HEINTZ décédé à Thoiré-sur-Dinan. 
+30 juillet 1917 : enterrement de l’ancien garde Heintz décédé à Thoiré-sur-Dinan. 
   
      Référence : 
 
