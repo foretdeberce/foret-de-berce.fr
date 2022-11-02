@@ -48,7 +48,7 @@ Mesdames et Messieurs les Maires,
 Mesdames et Messieurs les Présidents,
 Mesdames, Messieurs
 
-{{<figure src="/images/articles/image5.jpg" title="jacques Chaumont, Michel Muriel et madame le Préfet">}}
+{{<figure src="/images/articles/image5.jpg" title="Jacques Chaumont, Michel Muriel et madame le Préfet">}}
 
 
 En forêt domaniale de Bercé, les chênes ne sont pas des arbres comme les autres.
