@@ -9,28 +9,39 @@ tags: ["Forestiers","MF"]
   
 {{<figure src="/images/articles/leclercq1899.jpg" title="François-Joseph et son épouse">}}
   
-François Joseph Bernardin (photo ci-dessus  en 1899) 
-  Né en 1835 à Quercamps (Pas-de-Calais), 
+### Leclercq François Joseph Bernardin (photo ci-dessus  en 1899) 
+  
+  est né en 1835 à Quercamps (Pas-de-Calais), 
   il devient garde à la M.F. des Forges jusqu’en 1878 
-  et se marie à une femme BLIN. 
-  « A été surpris par ses supérieurs jouant aux cartes
+  et prend pour épouse une dame Blin. 
+  
+ *« A été surpris par ses supérieurs jouant aux cartes
   avec des civils et été de ce fait 
-  sanctionné par la retenue d’une partie de sa solde. » 
+  sanctionné par la retenue d’une partie de sa solde.»*
+  
   Brigadier à la brigade n°1 (Cantonnement d’Écommoy), 
-  il s’établi à la M.F. des Renardières
-  jusqu’en septembre 1884, est muté en forêt de Fougères et 
-  décèdera en 1906 à Neufchâtel en Saosnois.
+  il rejoint la M.F. des Renardières
+  jusqu’en septembre 1884, puis est muté en forêt de Fougères. 
+  Il décèdera en 1906 à Neufchâtel en Saosnois.
   
-Leclercq Bernard Albert Né en 1878 à Jupilles. Il est forestier en retraite en 2002 à Radon (Orne) 
+### Leclercq Bernard Albert 
   
-Leclercq Auguste Joseph Edmond Brigadier domanial le 27 février 1914. 
+ Est aussi forestier.
+  Il est né en 1878 à Jupilles. 
+  Il prendra sa retraite en 2002 à Radon (Orne) 
+  
+### Leclercq Auguste Joseph Edmond 
+  
+  Brigadier domanial le 27 février 1914. 
   Commission visée au greffe du Tribunal civil de première instance
   de Mortagne le 3 février 1919.
   Commission visée au greffe du Tribunal civil de première instance
   de Mamers le 17 mars 1921, 
   forestier en poste à la M.F. de Villaines (Perseigne).
   
-Leclercq Albert Né à Neufchâtel-en Saosnois le 12 juin 1902.
+### Leclercq Albert
+  
+  Né à Neufchâtel-en Saosnois le 12 juin 1902.
   
 {{<figure src="/images/articles/albert1.jpg" title="Albert Leclercq">}}
     
