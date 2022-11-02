@@ -28,10 +28,6 @@ La valeur de ces arbres est comme le risque à prendre :
   fatidique de la découpe.*
   À trois dans le même hêtre, c’est souvent pour trinquer à la santé d'un photographe.
   
-Cette profession, aristocratie du bûcheronnage a humainement, fortement payé sa dîme.
-  
-Nombre d’accidents se sont succédés au fil du temps.
-  
 {{<figure src="/images/articles/ehouppageboppe.jpg" title="Éhouppage du chêne Boppe - 1935">}}
 
 Sur la photo ci-dessus, Auguste RAMAUGÉ aidé d'un autre éhouppeur, ce vendredi 19 juillet 1935, 
@@ -43,15 +39,22 @@ Sur la photo ci-dessus, Auguste RAMAUGÉ aidé d'un autre éhouppeur, ce vendred
   
 ## Les accidents
   
+Cette profession, aristocratie du bûcheronnage a humainement, fortement payé sa dîme.
+  
+Nombre d’accidents se sont succédés au fil du temps.  
+  
 Beaucoup d’entre eux eurent à payer le prix fort de cet éprouvant métier.
 
 ### Thiodet : 
   
 En 1912 Thiodet a eu la main coupée par la hache de son comparse. 
-  *Après il avait un crochet.  
-  Malheureusement pour lui, il n’avait pas d’assurance. Ces  «Thiodet» étaient sur Jupilles,
-  A Jupilles, c’était à l’époque un petit Paris, ils avaient l’eau sous pression, 
-  le soir tout le monde se mettait à faire des sabots. (Paulette Berthelon).* 
+  
+*Après il avait un crochet.  
+ Malheureusement pour lui, il n’avait pas d’assurance.
+ Ces  «Thiodet» étaient sur Jupilles,
+ A Jupilles, c’était à l’époque un petit Paris, ils avaient l’eau sous pression, 
+ le soir tout le monde se mettait à faire des sabots.* 
+   (Paulette Berthelon)
   
   *Mais avec le secours mutuel, la solidarité n'a jamais été un vain mot sur Jupilles.* 
   
@@ -78,9 +81,9 @@ Dans les années 1959/60, il répondait au surnom de Badel « dit Pas d’Ailes 
   Il décéda peu après.
 
 ### Cissé Gaston :
-Père à Jean-Pierre (Bucheron et marchand de bois), il travaillait avec le Père 
+Père à Jean-Pierre (Bûcheron et marchand de bois), il travaillait avec le Père 
   Compain. 
-  Son décès eut lieu en 1974, dans le milieu de la parcelle 192 : 
+  Son décès eut lieu en 1974, dans le milieu de la parcelle 192 (parcelles aux malheurs): 
   
   *C’était le 02/02 1974, il faisait un vent terrible, c’est le houppier d’un 
   arbre voisin qui était déjà à terre qui d’une branche le blessa à mort.*
@@ -102,12 +105,12 @@ Habitant Mayet, fut aussi secouru par Édouard.
  *A l’hôpital, les infirmiers
   se demandaient ce que c’était que ces ferrailles aux pieds.*
   
-### André Chesnier
+### Chesnier André :
   
-De Pruillé l’Éguillé, André a eu les deux chevilles cassées.
-  Il fut déséquilibré et tomba à la renverse. 
-  On le retrouva pendu par les pieds, depuis plus de deux heures
-  durant, dans Croix Veneur.
+Habitant Pruillé l’Éguillé, André a eu les deux chevilles cassées.
+ *Il fut déséquilibré et tomba à la renverse. 
+ On le retrouva pendu par les pieds, depuis plus de deux heures
+ durant, dans Croix Veneur.*
   
   {{<figure src="/images/articles/andrechesnier1.jpg" title="André Chesnier">}}
   
@@ -156,7 +159,7 @@ La cognée est encore du voyage au cas où...
 Ce chêne était situé dans la parcelle 194 (régénérée durant la dernière guerre).
   
 Il a été abandonné à l’exploitation le 18 novembre 1946.
-Mesuré en 1942 par le Brigadier Albérola, sa circonférence était de :
+Mesuré en 1942 par le brigadier Albérola, sa circonférence était de :
   3m45 pour 208 ans d’âge et une hauteur totale de 35m dont 22m sous branche.
 Ce chêne était régulièrement visité par l’École Nationale Forestière de Nancy.
   
@@ -165,7 +168,7 @@ Cet arbre fut encore appelé le "chêne Ajam", du nom du député de la Sarthe q
   interpella l’Assemblée Nationale pour la sauvegarde du clos du chêne Boppe le 18-11-1907.
 
     
-### Édouard Guillier :
+### Guillier Édouard :
   
 Né le 28 août 1931 à la Mercerie (Jupilles), il habitait Saint Vincent du Lorouër.
  Il a commencé à travailler en ferme avant de bûcheronner en Forêt.
@@ -201,16 +204,19 @@ Le voici dans ses œuvres, en décembre 1985 sur l’éhouppement
   
 ### Témoignage d’Édouard Guillier
   
-Au départ, il n’y avait pas de vêtements de sécurité. (Image du film chronique de Bercé © Deleule)
+Au départ, il n’y avait pas de vêtements de sécurité. (Image tirée du film "chronique de Bercé" © Deleule)
   
 {{<figure src="/images/articles/guillier4.jpg" title="1973 Édouard bûchant un peuplier">}}
 
-*Le métier d’éhouppeur  était et est toujours difficile et dangereux. 
-  J’ai commencé à bûcher les pieds dans le fond des Monnées, sans tronçonneuse. 
+Le métier d’éhouppeur était et reste toujours difficile et dangereux. 
+ *J’ai commencé à bûcher les pieds dans le fond des Monnées, sans tronçonneuse. 
   
   Au début, les salaires étaient plus avantageux. Nous n’avions pas de casque et 
-  un jour, j’ai reçu une trique sèche.  Quand il pleuvait sur les hêtres, 
-  la corde ne tenait pas. Les hêtres de Bercé, étaient plus durs, alors 
+  un jour, j’ai reçu une trique sèche.  
+  Quand il pleuvait sur les hêtres, 
+  la corde ne tenait pas. 
+  
+  Les hêtres de Bercé, étaient plus durs, alors 
   qu’en forêt de Lyons, ils étaient plus tendres.
   
   L’éhouppement se faisait à l'époque avec une petite hache. 
