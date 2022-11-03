@@ -3,7 +3,7 @@ title: "Les lavoirs"
 date: 2022-10-23T08:23:44+01:00
 draft: false
 description: " en forêt de Bercé "
-featured_image: "/images/et.lavoir13.jpg"
+featured_image: "/images/et.lavoir131.jpg"
 tags: ["Forestiers","MF","Eau","Hommes"]
 ---
 
@@ -11,7 +11,9 @@ tags: ["Forestiers","MF","Eau","Hommes"]
 
 En novembre 2022
 
-Prochaine page à venir
+Prochaine page
+
+à venir
 
 LES LAVOIRS
 
