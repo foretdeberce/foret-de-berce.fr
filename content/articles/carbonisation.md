@@ -194,9 +194,10 @@ Pour y remédier, les chaudronniers fabriqueront des fours circulaires,
   
 {{<figure src="/images/articles/carbo1940c.jpg" title="Famille Vannier au pied du four en 1940">}}
 
-Ces fours étaient destinés à la production du charbon de bois pour les moteurs à gazogène
-  (un gaz combustible ersatz de l'essence devenue rare). Ils ont fonctionné en 1941 et 1942
-  et sont composés de 3 éléments principaux : une base cylindrique de 2,20 m de diamètre 
+Ces fours, tout comme la meule traditionnelle étaient destinés à la production du charbon
+  de bois pour les moteurs à gazogène (gaz combustible ersatz de l'essence devenue rare).
+  Ils ont fonctionné en 1941 et 1942 et sont composés de 3 éléments principaux :
+  une base cylindrique de 2,20 m de diamètre 
   avec 4 poignées, un cône d'environ 80 cm de hauteur et un couvercle. 
   
 {{<figure src="/images/articles/carbo1940a.jpg" title="Four Vannier dans la ragée">}}
@@ -215,11 +216,13 @@ La durée de vie d'un four métallique n'est que de deux à trois ans à cause
   
 {{<figure src="/images/articles/carbo1940b.jpg" title="1940">}}
   
-*Les XIXe et XXe siècle voient la révolution industrielle et la généralisation de l'emploi
+Le XXe siècle voient la révolution industrielle et la généralisation de l'emploi
   du charbon fossile (la houille) et du fer. Le coke se substitue au charbon de bois employé 
   dans les premières machines à vapeur, notamment dans la métallurgie ou encore les premières
-  locomotives. Le lien de la forêt et de la forge est rompu, les centres métallurgiques se sont 
-  déplacés vers les gisements miniers.*
+  locomotives.
+  
+  Le lien de la forêt et de la forge est rompu, les centres métallurgiques se sont 
+  déplacés vers les gisements miniers.
   
   
  
