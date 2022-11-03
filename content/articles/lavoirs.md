@@ -125,7 +125,7 @@ L’Office national des forêts, veille lors des exploitations à la sauvegarde
 {{<figure src="/images/articles/cartesdesmf.jpg" title="Carte des lavoirs sur Bercé">}}
 
 
-{{<figure src="/images/articles/boussions.jpg" title="Le lavoir des Boussions">}}
+{{<figure src="/images/articles/boussions-2.jpg" title="Le lavoir des Boussions">}}
 
 
 Les maisons forestières disposaient impérativement d'un point d'eau 
