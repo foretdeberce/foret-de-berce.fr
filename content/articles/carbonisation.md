@@ -2,7 +2,7 @@
 title: "Carbonisation"
 date: 2022-10-18T20:23:44+01:00
 draft: false
-description: "Durant la seconde guerre "
+description: "Mal nécessaire de la seconde guerre "
 featured_image: "/images/et.carbonisation.jpg"
 tags: ["Guerre","Travaux","Bucherons","Materiels"]
 ---
@@ -20,16 +20,16 @@ ni propriétaires exploitants carbonisateurs de charbons de bois depuis longtemp
 sur Bercé, ni dans les environs.
 
 La reprise de l’activité du charbon de bois dans
-la Ragée, durant la dernière guerre, de 1940 à 1942 qu’une connotation stratégique, 
+la Ragée, durant la dernière guerre, de 1940 à 1942, fut sur Bercé un épisode stratégique, 
 afin d’alimenter les gazogènes, les moulins, boulangeries et charbonniers du Mans.
 
-Le charbon confectionné en meule traditionnelle, était plus ouvrageux que celui du four 
+*Le charbon confectionné en meule traditionnelle, était plus ouvrageux que celui du four 
 en tôle, mais en contre-partie beaucoup plus beau. Les charbonniers couchaient sur place 
-afin de contrôler toutes les phases de la carbonisation.
+afin de contrôler toutes les phases de la carbonisation.*
 
 Il y eut donc de la carbonisation et de la mise en sac de charbon de bois dans la vallée 
-de la Ragée pour son acheminement en carriole vers le rond du Guignier et son
-transbordement en camion jusqu’au Moulin de Saint-Georges près le Mans.
+de la Ragée. Celui-ci était acheminé en carriole vers le rond du Guignier puis
+transbordé en camion jusqu’au Moulin de Saint-Georges, près le Mans.
 
 La famille Vannier, comme beaucoup d’autres, issue du monde rural, n’avait guère le choix
 de se tourner autrement que vers la forêt pour subsister. Le petit bordage ne suffisait 
@@ -88,6 +88,8 @@ Néanmoins, durant la  dernière guerre, les gazogènes et autres machines à va
   énormément de matière première, l’effort de guerre en nécessitait aussi la propagande 
   et un effort de tous …..Bercé se plia donc en douceur à la règle. 
   
+{{<figure src="/images/articles/carbo2.jpg" title="Démontage d’une meule">}}
+
 ### Rappel : 
 *la production d'une tonne de charbon de bois nécessite la transformation de deux à 
   sept tonnes de bois. Charbonnier était un dur métier. Vivant à proximité des fumées,
@@ -103,7 +105,6 @@ Néanmoins, durant la  dernière guerre, les gazogènes et autres machines à va
   on tâtait la consistance de la meule à mesure que la cuisson descendait. 
   Quand la couche cédait, c'était cuit.*
   
-{{<figure src="/images/articles/carbo2.jpg" title="Montage d’une meule">}}
 
  
 ### Une technique simple et efficace.
