@@ -2,7 +2,7 @@
 title: "Plaques et boutons"
 date: 2022-10-19T17:23:44+01:00
 draft: false
-description: " La livrée forestière "
+description: " Insignes de la livrée forestière "
 featured_image: "/images/et.rendezvous.jpg"
 tags: ["Forestiers","Gardes", "Service"]
 ---
@@ -11,7 +11,7 @@ tags: ["Forestiers","Gardes", "Service"]
 ## 1 - Eaux et forêts…..
 « Force à la loi » 
  
-La seule vue de leur plaque invite à la sagesse d’éventuels saccageurs !
+ *La seule vue de leur plaque invite à la sagesse d’éventuels saccageurs !*
 
 Cette marque distinctive de leur fonction d’autorité fait partie du 
   costume des gardes du domaine ou des gardes particuliers.
@@ -21,7 +21,7 @@ Cette marque distinctive de leur fonction d’autorité fait partie du
 
 ### XI° siècle :
 
-Mise en place d’un service forestier sur le « forestage Seigneurial de Berçay »
+Mise en place d’un service forestier sur le « forestage seigneurial de Berçay »
 
 ### XII-XVI° siècles :
 
@@ -124,10 +124,10 @@ C’est la représentation d'une Minerve en pied, puis l'aigle impérial
 
 {{<figure src="/images/articles/restauration1814-1830.jpg" title="plaque restauration 1814">}}
 
-Jean-Claude Chausse, présente dans cette parution :
+Jean-Claude Chausse, présente dans la parution suivante :
   [Évolution des plaques forestières](/articles/pdf/evolution-plaques.pdf) 
-  notamment l’évolution des plaques de baudrier de garde terrassier 
-  employé aux routes forestières (que l'on nomme aussi garde cantonnier)
+  l’évolution des plaques de baudrier des gardes terrassiers 
+  employés aux routes forestières (que l'on nomme aussi gardes cantonniers)
 
 {{<figure src="/images/articles/brigadier.jpg" title="Plaque de Brigadier avant 1850">}}
 
@@ -163,17 +163,17 @@ Durant les périodes de changement politique, des modifications ont été
 {{<figure src="/images/articles/1822-1850.jpg" title="Plaque antérieure à 1850">}}
 
 
-L'Administration des forêts n'a pas été en mesure de fournir aux gardes les
+L'administration des forêts n'a pas été en mesure de fournir aux gardes les
   nouvelles plaques correspondant aux sept régimes politiques différents 
   de la première moitié du XIXe siècle…..
   
 {{<figure src="/images/articles/1854empire.jpg" title="Plaque empire 1854">}}
 
-L’Empire a mis en place une Administration très présente avec un symbole fort,
+L’Empire a mis en place une administration très présente avec un symbole fort,
   celui de l’aigle, avec les mots “ Eaux et Forêts ” sur les plaques de
   fonction et sur les boutons. 
   
-Ces mots avaient été chassés par la Révolution car ils rappelaient 
+Ces mots avaient été chassés par la révolution car ils rappelaient 
   trop l’ancien régime.
   
 {{<figure src="/images/articles/1852republique3.jpg" title="Plaque 3ème république 1852-1870">}}
