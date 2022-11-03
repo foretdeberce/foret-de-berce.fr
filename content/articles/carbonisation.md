@@ -14,31 +14,6 @@ car le bois est bien souvent coupé très jeune,
 dégradant au passage le paysage et les sols. 
 
 ### Bercé en fut protégé dans les temps anciens.
-
-En 1922 l’aménagiste dit de Bercé à propos du charbon de bois : ni marchands,
-ni propriétaires exploitants carbonisateurs de charbons de bois depuis longtemps 
-sur Bercé, ni dans les environs.
-
-La reprise de l’activité du charbon de bois dans
-la Ragée, durant la dernière guerre, de 1940 à 1942, fut sur Bercé un épisode stratégique, 
-afin d’alimenter les gazogènes, les moulins, boulangeries et charbonniers du Mans.
-
-*Le charbon confectionné en meule traditionnelle, était plus ouvrageux que celui du four 
-en tôle, mais en contre-partie beaucoup plus beau. Les charbonniers couchaient sur place 
-afin de contrôler toutes les phases de la carbonisation.*
-
-Il y eut donc de la carbonisation et de la mise en sac de charbon de bois dans la vallée 
-de la Ragée. Celui-ci était acheminé en carriole vers le rond du Guignier puis
-transbordé en camion jusqu’au Moulin de Saint-Georges, près le Mans.
-
-La famille Vannier, comme beaucoup d’autres, issue du monde rural, n’avait guère le choix
-de se tourner autrement que vers la forêt pour subsister. Le petit bordage ne suffisait 
-en effet plus à l’entretien de la famille. Émile, en 1925 travaille dans les bois comme
-émondeur et bûcheron jusque vers 1937 puis comme marchand de bois et scieur 
-(scierie de la route du Vaugermain, jusqu’en 1968).
-
-### C’est à ce titre qu’en 1940, il est réquisitionné par les Bois de Guerre.
-
 Dans une Notice (1), rédigée pour l'Exposition universelle de 1878, monsieur Larzillière,
 sous-inspecteur des forêts, écrivait : 
 
@@ -57,8 +32,11 @@ pour élaborer du charbon de bois destiné entre autre au "gazogène".
 
 Démonstration de l’inventivité de l’homme, il dut en être fabriqué, aux temps anciens, 
   pour réduire le fer dans les bas fourneaux. Mais jusqu’aux récents conflits… plus rien.... 
-  
-Seul le fait de la guerre raviva la carbonisation. 
+
+En 1922 l’aménagiste dit de Bercé à propos du charbon de bois : ni marchands,
+ni propriétaires exploitants carbonisateurs de charbons de bois depuis longtemps 
+sur Bercé, ni dans les environs.
+Seul,  le fait de la guerre raviva la carbonisation. 
   
 L'absence de carburant avait contraint à la modification de certains véhicules 
   pour leur permettre d'utiliser le gaz produit par le gazogène. 
@@ -104,9 +82,36 @@ Néanmoins, durant la  dernière guerre, les gazogènes et autres machines à va
   on recouvrait de terre, à mesure que le feu avançait. Tous les jours, 
   on tâtait la consistance de la meule à mesure que la cuisson descendait. 
   Quand la couche cédait, c'était cuit.*
-  
 
- 
+ ### Pour l’Exposition  universelle de 1937
+ et jusqu’en 1940 dans les bureaux 
+ des Eaux et forêts, situés au 1 de la rue du Port, au Mans, figurait
+ en bonne place une affichette portant la mention : 
+  
+{{<figure src="/images/articles/marchands.jpg" title="La propagande bat son plein">}}
+
+### La guerre en 1939 ravive les charbonnières.
+La reprise de l’activité du charbon de bois dans
+la Ragée, durant la dernière guerre, de 1940 à 1942, fut sur Bercé un épisode stratégique, 
+afin d’alimenter les gazogènes, les moulins, boulangeries et charbonniers du Mans.
+
+*Le charbon confectionné en meule traditionnelle, était plus ouvrageux que celui du four 
+en tôle, mais en contre-partie beaucoup plus beau. Les charbonniers couchaient sur place 
+afin de contrôler toutes les phases de la carbonisation.*
+
+Il y eut donc de la carbonisation et de la mise en sac de charbon de bois dans la vallée 
+de la Ragée. Celui-ci était acheminé en carriole vers le rond du Guignier puis
+transbordé en camion jusqu’au Moulin de Saint-Georges, près le Mans.
+
+La famille Vannier, comme beaucoup d’autres, issue du monde rural, n’avait guère le choix
+de se tourner autrement que vers la forêt pour subsister. Le petit bordage ne suffisait 
+en effet plus à l’entretien de la famille. Émile, en 1925 travaille dans les bois comme
+émondeur et bûcheron jusque vers 1937 puis comme marchand de bois et scieur 
+(scierie de la route du Vaugermain, jusqu’en 1968).
+
+C’est à ce titre qu’en 1940, il est réquisitionné par les Bois de Guerre.
+
+  
 ### Une technique simple et efficace.
   
 *Il fallait tout d’abord aménager et piocher la plate forme d’accueil en supprimant toutes racines :
@@ -184,12 +189,6 @@ La durée de vie d'un four métallique n'est que de deux à trois ans à cause
   
 {{<figure src="/images/articles/carbo1940b.jpg" title="1940">}}
   
-Pour l’Exposition  universelle de 1937 et jusqu’en 1940 dans les bureaux 
-  des Eaux et forêts, situés au 1 de la rue du Port, au Mans, figurait
-  en bonne place une affichette portant la mention : 
-  
-{{<figure src="/images/articles/marchands.jpg" title="La propagande bat son plein">}}
-
 « Avec le XIXe siècle survient la révolution industrielle et la généralisation de l'emploi
   du charbon fossile (la houille) et du fer. Le coke se substitue au charbon de bois employé 
   dans les premières machines à vapeur, notamment dans la métallurgie ou encore les premières
