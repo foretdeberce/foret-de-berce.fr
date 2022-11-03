@@ -36,10 +36,11 @@ Le dernier lavoir public en forêt se situait aux sources de l’Hermitière
  par les communes de Saint-Vincent-du-Lorouër et de Jupilles, 
  il a été régulièrement entretenu par les ouvriers forestiers jusqu'en 1944. 
 
-Avant 1923, les ouvriers de la forêt entretenaient le lavoir et le bassin 
+### Avant 1923,
+ les ouvriers de la forêt entretenaient le lavoir et le bassin 
  un jour ou deux par mois.
 
-1924  :
+### 1924  :
  
       « Par arrêté préfectoral du 4 juillet, l’autorisation de l’usage du lavoir 
       dit de l’Hermitière dans la parcelle 203 de la forêt domaniale de Bercé 
@@ -86,7 +87,8 @@ Pour assurer le curage annuel du lavoir et le nettoyage de ses abords
  de l’exercice de la concession. »
 
 
-1928 : Le garde GUIOMARD relate le nettoyage des sources qui dure deux 
+### 1928 : 
+ Le garde GUIOMARD relate le nettoyage des sources qui dure deux 
  semaines par les ouvriers du lavoir public. Manque de chance, 
  le 29 mai un fort orage s’abat sur Bercé, ravageant, par des coulées
  de boues et de pierres, les bassins. Comme faire et défaire…c’est travailler, 
@@ -98,11 +100,13 @@ Au 30 juin 1928, la commune de Jupilles n’est plus concessionnaire du lavoir p
  «Nettoyage ponts et rivière ensablés par les pluies et les pierres, 
  idem le 1er mars 1933».		 
  
-1938 : Le garde VOLARD perçoit au Grand-Lucé un mandat, ordonnancé au nom 
+### 1938 :
+ Le garde VOLARD perçoit au Grand-Lucé un mandat, ordonnancé au nom 
  de GUIMIER Gustave (caissier des concessionnaires) pour l’entretien
  annuel du lavoir de l’Hermitière.
  
-1943 : VOLARD nous dit avoir reçu le 31 mars, la somme de 24 francs de la commune 
+### 1943 :
+ VOLARD nous dit avoir reçu le 31 mars, la somme de 24 francs de la commune 
  de Saint-Vincent-du-Lorouër pour l’entretien du lavoir, et le 22 mai 1946
  avoir acheté des pointes pour le lavoir de l’Hermitière, avec l’emploi des 
  subventions versées par la commune de Saint-Vincent pour l’entretien, 
