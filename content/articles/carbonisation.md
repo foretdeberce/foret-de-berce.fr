@@ -36,7 +36,8 @@ Démonstration de l’inventivité de l’homme, il dut en être fabriqué, aux 
 En 1922 l’aménagiste dit de Bercé à propos du charbon de bois : ni marchands,
 ni propriétaires exploitants carbonisateurs de charbons de bois depuis longtemps 
 sur Bercé, ni dans les environs.
-Seul,  le fait de la guerre raviva la carbonisation. 
+  
+Seul, le fait de la guerre raviva la carbonisation. 
   
 L'absence de carburant avait contraint à la modification de certains véhicules 
   pour leur permettre d'utiliser le gaz produit par le gazogène. 
@@ -64,7 +65,9 @@ Le service forestier (M.Viney) désigna alors les forêts de Sillé,
 
 Néanmoins, durant la  dernière guerre, les gazogènes et autres machines à vapeur réclamaient
   énormément de matière première, l’effort de guerre en nécessitait aussi la propagande 
-  et un effort de tous …..Bercé se plia donc en douceur à la règle. 
+  et un effort de tous …..
+  
+  Bercé se plia donc en douceur à la règle. 
   
 {{<figure src="/images/articles/carbo2.jpg" title="Démontage d’une meule">}}
 
@@ -106,7 +109,7 @@ Après l’armistice du 22 juin 1940, la pénurie aidant, on ressortira
   de nos importations pétrolières* (2) 
   
 
-{{<figure src="/images/articles/ouvriersrenault1940.jpg" title="Avec leur gazogènes en 1940">}}
+{{<figure src="/images/articles/ouvriersrenault1940.jpg" title="Ouvriers Renault avec leur gazogène en 1940">}}
   
 La reprise de l’activité du charbon de bois dans
 la Ragée, de 1940 à 1942, fut sur Bercé un épisode stratégique, 
@@ -212,11 +215,11 @@ La durée de vie d'un four métallique n'est que de deux à trois ans à cause
   
 {{<figure src="/images/articles/carbo1940b.jpg" title="1940">}}
   
-« Au XIXe et XXe siècle c'est la révolution industrielle et la généralisation de l'emploi
+*Les XIXe et XXe siècle voient la révolution industrielle et la généralisation de l'emploi
   du charbon fossile (la houille) et du fer. Le coke se substitue au charbon de bois employé 
   dans les premières machines à vapeur, notamment dans la métallurgie ou encore les premières
   locomotives. Le lien de la forêt et de la forge est rompu, les centres métallurgiques se sont 
-  déplacés vers les gisements miniers. »
+  déplacés vers les gisements miniers.*
   
   
  
