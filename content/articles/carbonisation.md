@@ -217,12 +217,9 @@ La durée de vie d'un four métallique n'est que de deux à trois ans à cause
 {{<figure src="/images/articles/carbo1940b.jpg" title="1940">}}
   
 Le XXe siècle voient la révolution industrielle et la généralisation de l'emploi
-  du charbon fossile (la houille) et du fer. Le coke se substitue au charbon de bois employé 
-  dans les premières machines à vapeur, notamment dans la métallurgie ou encore les premières
-  locomotives.
+  du charbon fossile (la houille). Le coke se substitue au charbon de bois employé 
+  dans les premières machines à vapeur.
   
-  Le lien de la forêt et de la forge est rompu, les centres métallurgiques se sont 
-  déplacés vers les gisements miniers.
   
   
  
