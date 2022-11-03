@@ -91,10 +91,31 @@ Néanmoins, durant la  dernière guerre, les gazogènes et autres machines à va
 {{<figure src="/images/articles/marchands.jpg" title="La propagande bat son plein">}}
 
 ### La guerre en 1939 ravive les charbonnières.
-La reprise de l’activité du charbon de bois dans
-la Ragée, durant la dernière guerre, de 1940 à 1942, fut sur Bercé un épisode stratégique, 
-afin d’alimenter les gazogènes, les moulins, boulangeries et charbonniers du Mans.
+  
+Après l’armistice du 22 juin 1940, la pénurie aidant, on ressortira 
+  des tiroirs…le bon vieux gazogène. 
+  
+ « Le charbon de bois et le bois ont été les carburants de remplacement les plus répandus
+  pendant les années de guerre….
+  
+ *Il y a donc là une possibilité intéressante, pour les
+  régions forestières dont l'alimentation en gaz naturel n'est pas actuellement prévue.
+  C'est dans la gamme des véhicules utilitaires de charge utile moyenne (3.5 à 7 tonnes)
+  à l'activité régionale et pour les tracteurs agricoles de puissance suffisamment grande
+  que l'emploi du gazogène serait susceptible, en cas de nécessité, de pallier l'insuffisance
+  de nos importations pétrolières* (2) 
+  
 
+{{<figure src="/images/articles/ouvriersrenault1940.jpg" title="Avec leur gazogènes en 1940">}}
+  
+La reprise de l’activité du charbon de bois dans
+la Ragée, de 1940 à 1942, fut sur Bercé un épisode stratégique, 
+afin d’alimenter les gazogènes, les moulins, boulangeries et charbonniers du Mans.
+  
+{{<figure src="/images/articles/renault.jpg" title="Publicité Renault">}}
+
+{{<figure src="/images/articles/ouvriersrenault.jpg" title="Ouvriers Renault à Chahaignes ">}}
+    
 *Le charbon confectionné en meule traditionnelle, était plus ouvrageux que celui du four 
 en tôle, mais en contre-partie beaucoup plus beau. Les charbonniers couchaient sur place 
 afin de contrôler toutes les phases de la carbonisation.*
@@ -189,28 +210,14 @@ La durée de vie d'un four métallique n'est que de deux à trois ans à cause
   
 {{<figure src="/images/articles/carbo1940b.jpg" title="1940">}}
   
-« Avec le XIXe siècle survient la révolution industrielle et la généralisation de l'emploi
+« Au XIXe et XXe siècle c'est la révolution industrielle et la généralisation de l'emploi
   du charbon fossile (la houille) et du fer. Le coke se substitue au charbon de bois employé 
   dans les premières machines à vapeur, notamment dans la métallurgie ou encore les premières
-  locomotives. Le lien de la forêt et de la forge est rompu, les centres métallurgiques sont 
+  locomotives. Le lien de la forêt et de la forge est rompu, les centres métallurgiques se sont 
   déplacés vers les gisements miniers. »
   
-Plus tard, après l’armistice du 22 juin 1940, la pénurie aidant, on ressortira 
-  des tiroirs…le bon vieux gazogène. 
   
-{{<figure src="/images/articles/renault.jpg" title="Publicité Renault">}}
 
- « Le charbon de bois et le bois ont été les carburants de remplacement les plus répandus
-  pendant les années de guerre….Il y a donc là une possibilité intéressante, pour les
-  régions forestières dont l'alimentation en gaz naturel n'est pas actuellement prévue.
-  C'est dans la gamme des véhicules utilitaires de charge utile moyenne (3.5 à 7 tonnes)
-  à l'activité régionale et pour les tracteurs agricoles de puissance suffisamment grande
-  que l'emploi du gazogène serait susceptible, en cas de nécessité, de pallier l'insuffisance
-  de nos importations pétrolières » (2) 
-  
-{{<figure src="/images/articles/ouvriersrenault.jpg" title="Ouvriers Renault à Chahaignes ">}}
-  
-{{<figure src="/images/articles/ouvriersrenault1940.jpg" title="Avec leur gazogènes en 1940">}}
 
  
 ### Bibliographie :
