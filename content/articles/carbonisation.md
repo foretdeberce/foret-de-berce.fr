@@ -175,11 +175,13 @@ Le garde Messager constate le 28 novembre 1940, qu’un fourneau pour carboniser
   pour fourneaux de charbons de bois : 2 places à charbon et 1 place à loge dans la parcelle E6 
   (P. 175 de Sermaize). L’industrialisation est en marche….
   
-### Témoignage d’Édouard Guillier (ancien éhouppeur)
+      Témoignage d’Édouard Guillier (ancien éhouppeur)
   
-*Vers 1950 il y avait dans les Monnées, sur la route forestière de Chahaignes dans 
-  la pointe à gauche, une hutte à charbonnier. Ceux-ci vivaient dans leur cahutte, 
-  recouverte de terre.* 
+      Vers 1950 il y avait encore trace dans les Monnées, 
+      sur la route forestière de Chahaignes dans 
+      la pointe à gauche, une hutte à charbonnier. 
+      Ceux-ci vivaient dans leur cahutte, 
+      recouverte de terre. 
   
 Alors l'ère des charbonnières entièrement montées sur place et recouvertes de terre 
   pour les envelopper, et faire ainsi cuire le bois, était en partie révolue. 
@@ -217,8 +219,6 @@ La durée de vie d'un four métallique n'est que de deux à trois ans à cause
   déplacés vers les gisements miniers. »
   
   
-
-
  
 ### Bibliographie :
   
