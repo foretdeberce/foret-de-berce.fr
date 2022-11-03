@@ -3,7 +3,7 @@ title: "Les lavoirs"
 date: 2022-11-02T19:23:44+01:00
 draft: false
 description: "Vie de labeur en forêt de Bercé "
-featured_image: "/images/ et.lavoir13.jpg"
+featured_image: "/images/et.lavoir13.jpg"
 tags: ["Tourisme"," MF ","Biodiversite","Eau","Hommes"]
 ---
 
