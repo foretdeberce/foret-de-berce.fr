@@ -57,29 +57,6 @@ D’une surface de 5400ha, Bercé est la plus grande forêt domaniale de l’oue
 
 {{<figure src="/images/articles/surfaceforestiere.jpg" title="La forêt partagée">}}
 
-
-L’arrivée de l’A 28
-  
-En 1997…Le fuseau de l'autoroute A-28 entre Le Mans et Tours écorche 
-  au grand dam des forestiers et des écologistes des milieux naturels
-  remarquables, aujourd'hui clairement identifiés. 
-  
-L'ouest du massif de Bercé et la vallée du Loir plus au sud sont 
-  des sites inscrits au patrimoine naturel européen. 
-  
-De nature pauvre, ces anciennes landes contiennent
-  une riche biodiversité.
-  
-Un forestier, dira des futurs travaux routiers :
-  « on ne peut impunément écorner la Joconde. » 
-  
-Mais une petite bête aura raison de la grosse….
-  
-Cette bête fut un scarabée : le pique-prune, inscrit dans la Convention
-  internationale de Berne de 1982. Suite à une grosse pression scientifique,
-  associative et politique, la section entre Montabon (Château-du-Loir) et 
-  Écommoy sera ainsi suspendue durant 8 ans, le temps de pouvoir appliquer 
-  strictement la «directive habitats».
   
 # Riverains de la forêt de Bercé  
   
