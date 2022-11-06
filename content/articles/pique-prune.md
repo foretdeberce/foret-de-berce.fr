@@ -25,7 +25,6 @@ le tracé de la future autoroute Rouen-Alençon.
     Or ce scarabée est inscrit dans la Convention 
     internationale de Berne de 1982. 
 
-
 Finalement, après des mesures drastiques de préservation
 de cette espèce  et au vu des conclusions d'un rapport
 élaboré par Patrick Blandin, professeur au Muséum 
@@ -37,32 +36,6 @@ l'autoroute a été, malgré l'opposition des écologistes,
 construite et ouverte à la circulation fin 2005 par 
 Cofiroute, concessionnaire de cette portion de l'A28. 
 Il aura fallu un temps d'étude de 8 ans.
-  
-{{<figure src="/images/articles/carte2007.jpg" title="en pointillés, la zone gelée durant 8 ans">}}
-
-Conclusions de cette enquête: 
-  « l'impact de l'A28 sur l'habitat du pique-prune est marginal ».
-  
-{{<figure src="/images/articles/christian.jpg" title="Christian Damenstein, président des Amis de la forêt de Bercé">}}
-  
-Christian Damenstein fut l’un des résistants au développement
-du grand ruban et de la sauvegarde du Pique-prune.
-
-Mais trop d’enjeux économiques étaient sur la table à cet instant.
-  La petite bête ne pouvait impunément stopper les gros scrapers 
-  et la logique commerciale des autoroutiers.
-  La présence d'Osmoderma Éremita est tout de même le signe
-  de la préservation en Sarthe, au côté des forêts, 
-  d'un milieu rural de qualité.
-L'espèce est un chaînon essentiel dans le fonctionnement 
-écologique des milieux forestiers et représente
-un bio-indicateur fiable de la qualité de ceux-ci.
-  
-    Le maintien de cette biodiversité, malmenée par le morcellement 
-    des territoires, ne peut être garanti que par la protection 
-    des sites scientifiquement reconnus.
-    C'est la notion même de patrimoine naturel
-    qui est aujourd’hui en cause. 
   
 En forêt domaniale, le maintien des vieux peuplements, contribue à sa
 façon à la survie des espèces.
