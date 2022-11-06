@@ -65,15 +65,16 @@ Le procès verbal d’Aménagement de 1843 stipule que les dégâts des
 ### 1876 :
   
 Dès 1876, les forestiers recensent l’importance et la fréquence des
-  brouillards et des gelées quelquefois bien tardives : les gelées 
-  de printemps brûlant régulièrement les fonds frais. 
+  brouillards et des gelées quelquefois bien tardives : 
+  les gelées de printemps brûlant régulièrement les fonds frais. 
+  
   Le temps trop doux pouvant par contre favoriser l’invasion des 
-  chenilles ou de quelques hôtes indésirables (des centaines de kilos
-  de hannetons sont ramassés en mai 1890).
+  chenilles ou de quelques hôtes indésirables :
+  (des centaines de kilos de hannetons sont ramassés en mai 1890).
   
 {{<figure src="/images/articles/hanneton.jpg" title="Cycle du hanneton">}}
   
-Encore des destructions du Hanneton 
+On détruit toujours le hanneton en 1962.
   (capture en mai 1962 à l’aide de caisses pièges)
   l’adulte apparaît entre avril et juin et la larve 
   ou vers blanc vit sous terre pendant 3 ans.
@@ -95,18 +96,18 @@ Recherche de Lasiocampe du pin sylvestre (Il s’agit du bombyx du pin sylvestre
 {{<figure src="/images/articles/bombyxdupin.jpg" title="Lasiocampe du pin sylvestre">}}
   
 ### En 1911 : 
+
+Réapparition en 1939 et 1943 du Dyorictria Splendinella 
+  (ponte de papillons donnant lieu à des déformations 
+  du tronc sur les pins sylvestres).
+  Jusque dans les années 1990 on purgera les pins malades.
   
-  Échenillage des Processionnaires du Pin, brûlage des nids, 
+Échenillage des Processionnaires du Pin, brûlage des nids, 
   et en mars 1951, 1954 et 1962
 Très récemment plusieurs centaines d’hectares avaient été impactés 
   par la présence de Tortrix Viridana, la Tordeuse verte du chêne,
   défoliant les cimes qui venaient juste de se parer de leurs feuilles.
   
-Réapparition en 1939 et 1943 du Dyorictria Splendinella 
-  (ponte de papillons donnant lieu à des déformations 
-  du tronc sur les pins sylvestres).
-  Jusque dans les années 1990 on purgera les pins malades.
-
 ### Champignons
 
 1971
@@ -123,8 +124,11 @@ Suite à l’apparition de la maladie du rond sur certaines parcelles
   
 ### Le froid et la neige
   
-L’hiver 1878-1879, neige et verglas occasionnent de gros dégâts sur les
-  cimes des pins sylvestres. *Durant 1 an, les cessionnaires fabriqueront
+L’hiver 1878-1879 fut rude:
+  
+  Neige et verglas occasionnent de gros dégâts sur les
+  cimes des pins sylvestres.
+  *Durant 1 an, les cessionnaires fabriqueront
   ces têtes dans les parcelles 258 et 260*. (E. Crossonneau).
   
 *Les pins maritimes de cette époque ayant tous été détruits au cours de 
@@ -134,15 +138,18 @@ L’hiver 1878-1879, neige et verglas occasionnent de gros dégâts sur les
   
 {{<figure src="/images/articles/373.jpg" title="Givre dans la partie résineuse © M.Marc">}}
   
-La grêle accompagne aussi parfois le tonnerre, compromettant la venue des fleurs ou fruits. 
+La grêle accompagne aussi parfois le tonnerre, compromettant la venue des fleurs ou des fruits. 
   
 Certains hivers les chutes de neiges sont très importantes ;
   
 {{<figure src="/images/articles/374.jpg" title="Givre en sous bois © Calvel">}}
   
 16 janvier 1926, la neige empêche les auxiliaires de travailler. 
-Le martelage aux Hospices du Mans le 23 mars est aussi perturbé. Toute cette neige accumulée induira des chablis en avril 1926.
-En 1929, début janvier la neige épaisse, (tempêtes d’une rare violence) rendra la circulation sur Bercé extrêmement difficile jusqu’au 14 février. 
+Le martelage aux Hospices du Mans, le 23 mars, est aussi perturbé. 
+  Toute cette neige accumulée induira des chablis en avril 1926.
+En 1929, début janvier la neige épaisse, (tempêtes d’une rare violence)
+  rendra la circulation sur Bercé extrêmement difficile jusqu’au 14 février. 
+  
 {{<figure src="/images/articles/20041214givre.jpg" title="Givre sur toile">}}
 
         Effets du froid sur la végétation Sarthoise pendant l’hiver de 1938-1939
@@ -170,9 +177,11 @@ En 1929, début janvier la neige épaisse, (tempêtes d’une rare violence) ren
         à un arrêt brusque de la vie, avec un écart de température de plus de 20°.
 
 En février 1942, c’est neige et verglas. « Il y a des dégâts dans les pins maritimes
-  et du bois tombé. » Le 24 février le docteur Barot bute avec sa voiture sur un pin
-  tombé sur la route : il est blessé. Neige aussi en 1945 tout le mois de janvier,
-  et verglas par la suite.
+  et du bois tombé. » 
+Le 24 février le docteur Barot bute avec sa voiture sur un pin
+  tombé sur la route : il est blessé.
+  
+  Neige aussi tout le mois de janvier 1945, et verglas par la suite.
   
 Le 1er mars 1946 il y a tellement de neige (tempête) 
   qu’il est impossible de se déplacer. 
@@ -186,39 +195,43 @@ En février 1954 le bois craque et se fend par le gel.
       13 février 1956 : Louis Goenvec devant effectuer une 
       battue aux lapins, doit abandonner son Solex à la Croix-Chambault, 
       étant bloqué par la neige. Retour à pied par Jupilles.
+  
       23 février 1956 : « De retour des Étangs, la roue libre du Solex
       s’est cassée sous l’effet dévastateur du gel. » 
   
 {{<figure src="/images/articles/200702gaelle.jpg" title="Hiver 2007">}}
   
 Avec le goudronnage des routes, le manège des barrières de dégel commence. 
-  Elles sont souvent déplacées, et c’est souvent, en réaction que le service
-  forestier y abat carrément un arbre en travers. 
+  Elles sont souvent déplacées, et c’est souvent, en réaction  de ces incivilités
+  que le service forestier abat carrément un arbre en travers de la route. 
   
-25 février 1963 : sur l’article 39, un éhouppeur a brisé sa hache sur le bois gelé. 
+25 février 1963 : 
+  sur l’article 39, un éhouppeur a brisé sa hache sur le bois gelé. 
   
 {{<figure src="/images/articles/69huberdierecalvel.jpg" title="hiver 1969 © Calvel">}}
   
 12 au 18 février 1978, vingt centimètres de neige marqueront le sol, 
   occasionnant par la suite inondations et chablis.
   
-23 mars 1978 : grêle, neige et à nouveau le 11 avril. 
+23 mars 1978 : grêle et neige qui reviennent à nouveau le 11 avril. 
   « …brouillards de mars… frimes de mai. »
+  
 En janvier et février 1985 la température descend en dessous de -20°
-  les arbres claquent comme des coups de fusil. Plus tard, 
-  ils développeront un bourrelet cicatriciel protégeant une fente indélébile. 
+  les arbres claquent comme des coups de fusil. 
+  Plus tard, ils développeront un bourrelet cicatriciel qui protégera une fente indélébile. 
   
-{{<figure src="/images/articles/19740415.jpg" title="La gélivure affecte les chênes sur 3 à 4m">}}
+{{<figure src="/images/articles/19740415.jpg" title="La gélivure affecte les chênes sur 3 à 4 m">}}
   
- En 1986, le 23 février, 30 cm de neige bloquent toute vie en forêt. Tracteur et voitures s’en vont aux fossés.
+ En 1986, le 23 février, 30 cm de neige bloquent toute vie en forêt. 
+  Tracteurs et voitures s’en vont aux fossés.
   
 {{<figure src="/images/articles/2520.jpg" title="Comme ici, 20 ans plus tard !">}}
 
-Phénomène rare : la pluie verglaçante du 13 janvier 1997...un épisode rare…mais intense !
+Phénomène rare : la pluie verglaçante du 13 janvier 1997...un épisode rare… mais intense !
   
 Les hivers 2010 et 2011 amèneront aussi de la neige à foison.
  
-### La pluie
+### La pluie :
   
 « Si d’Lucé, t’entends Pruillé,… ça va mouiller ! »
   
@@ -258,6 +271,7 @@ Les ponceaux, construits par BIGNON pour l’exploitation de son commerce
   
 C’est en 2000 qu’un effondrement karstique de 4 m s’est produit 
   dans la parcelle 199 dans l’axe de la piste VTT. 
+  
   Nous sommes dans la vallée des Vieux Puits, dans 
   laquelle d’autres anciens trous préexistent.
   
@@ -267,54 +281,57 @@ Les hauteurs maximales seront enregistrées durant l’hiver 2000-2001,
   avec des cotes d’alerte partout.
   À l’Hermitière tous les ponts sauteront,
   l’eau arrivera à détruire l’emplacement des sources dépassant le muret
-  du puits. Les courts-si-il-pleut débordent et des sources jailliront
+  du puits. 
+  Les courts-si-il-pleut débordent et des sources jailliront
   en des endroits ou on ne les avait jamais vues.
   
 Les fontaines froides de Sermaize quant à elles, n’arrivent plus à entonner.
   
-### La sécheresse
+### La sécheresse :
   
 Les sécheresses sont aussi omniprésentes et succèdent aux périodes humides, 
   comme des déferlantes, suivant le cycle solaire. 
   Elles sont avec les orages une des causes principales des incendies.
   
 En septembre 1911, puis en août 1921 et 1928 l’état de sécheresse
-  persistant met à mal l’agriculture. Des autorisations d’extraire 
-  les herbes, fougères, bruyères,  mousses, de mener les bestiaux 
-  au parcours en forêt sont données répondant ainsi à la détresse des éleveurs. 
+  persistant met à mal l’agriculture. 
+  Des autorisations d’extraire les herbes, fougères, bruyères, 
+  mousses, de mener les bestiaux au parcours en forêt sont 
+  données répondant ainsi à la détresse des éleveurs. 
   
-Sécheresse aussi en 1953 telle que le point d’eau de Sermaize est presque tari.
+La sécheresse de 1953 est telle que le point d’eau de Sermaize est presque tari.
   
 En 1959, et de 1973 à 1983 : état de sécheresse relative. 
   
 Faible hygrométrie en 1995 et 1996. 1990, 1994, 1997 et 2013 sont
-  les 4 années les plus chaudes depuis 100 ans. 2011 cumule un déficit
-  annuel des précipitations de 225 mm sur une moyenne espérée de 813 mm. 
+  les 4 années les plus chaudes depuis 100 ans. 
+  2011 cumule un déficit annuel des précipitations de 225 mm sur une moyenne espérée de 813 mm. 
   2014 : courbe des moyennes des températures en hausse.
   
 Le réchauffement climatique actuel met à mal notre forêt.
   
-### LE TONNERRE
+### Le tonnerre :
   
 « Les fourmis sont d’sortie, l’orage aussi. »
   
 {{<figure src="/images/articles/foudre.jpg" title="Le chêne foudroyé situé derrière le chêne Boppe">}}
   
 *La parcelle du chêne Boppe raconte : Le feu céleste a été envoyé le 18 décembre 
-  1934 sous forme d'orage pour tuer le chêne Boppe. Vers 15 heures, un coup de
-  tonnerre formidable déchirait l'air et 18 éclairs descendaient du ciel :
+  1934 sous forme d'orage pour tuer le chêne Boppe. 
+  Vers 15 heures, un coup de tonnerre formidable déchirait l'air et 18 éclairs descendaient du ciel :
   trois frappèrent le chêne Boppe et me secouèrent, quinze autres foudroyèrent
-  ensemble 15 chênes d'une de mes voisines.* (Mémoires recueillies par R. Viney). 
+  ensemble 15 chênes d'une de mes parcelles voisines.* (Mémoires recueillies par R. Viney). 
   
-  *Tous ces débris de bois déchiquetés à terre…. on aurait dit de la neige*, confiera l’agent du triage.
+  *Tous ces débris de bois déchiquetés à terre…. 
+  on aurait dit de la neige*, confiera l’agent du triage.
   
 En 1939 quelques orages éclatent, plusieurs chênes sont frappés par 
-  la foudre dans le canton du Sault Moulin, ainsi que, fait assez rare, 
+  la foudre dans le canton du Sault-Moulin, ainsi que, fait assez rare, 
   un hêtre du canton des Forges. 
   
 La foudre cause un incendie dans la Tasse le 2 juillet 1943 (parcelle 25).
 
-  Dans les années 80, un paratonnerre est monté à la MF de la Huberdière
+  Dans les années 80, un paratonnerre est monté à la M.F. de la Huberdière
   suite au coup de foudre qui traversa de part en part 
   l’imposte de la porte du bureau. 
   
