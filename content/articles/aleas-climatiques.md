@@ -16,7 +16,7 @@ Oui, mais ils se sont toujours vérifiés.
 Les oies qui remontent début février, annoncent toujours à grand coup d’ailes 
 un changement de saison.  
 
-«Quand les oies r’montent, au cul la ponte»
+*Quand les oies r’montent, au cul la ponte*
 
 Fin mars début avril le coucou nous enchante et vers le 15 de ce mois 
 les arbres se parent de leur atouts printaniers.
@@ -25,12 +25,18 @@ les arbres se parent de leur atouts printaniers.
 
 {{<figure src="/images/articles/cecidomyie-du-hetre.jpg" title="La mouche du hêtre : Mikiola fagi">}}
   
-          La cécidomyie ou galle du hêtre, est une espèce d'insectes diptères
-          nématocères dont la larve produit une petite galle pointue en forme 
-          de pépin d'orange (Mikiola-fagi pond sur la feuille du hêtre qui réagit 
-          ainsi à la piqure de l’insecte). À l'approche de l'hiver, les galles 
-          se détachent et les larves continuent leur métamorphose au sol avant 
-          leur sortie et leur envol au printemps suivant.
+          La cécidomyie ou galle du hêtre,
+          est une espèce d'insectes diptères
+          nématocères dont la larve produit 
+          une petite galle pointue en forme 
+          de pépin d'orange (Mikiola-fagi 
+          pond sur la feuille du hêtre qui réagit 
+          ainsi à la piqure de l’insecte). 
+          À l'approche de l'hiver, les galles 
+          se détachent et les larves continuent
+          leur métamorphose au sol avant 
+          leur sortie et leur envol au
+          printemps suivant.
   
 Au début de l’été les orchidées nous ravissent sur les accotements.
   
@@ -42,6 +48,7 @@ En septembre
   
 Les oies qui émigrent fin octobre, la chute des feuilles début novembre
   ne font que confirmer le retour de l’hiver. 
+  
 Le vent, (voir le chapitre dédié) est avec le feu et l’eau
   un des plus grands fléaux.
 Mais la prolifération des insectes ou des champignons peut
@@ -64,21 +71,25 @@ Dès 1876, les forestiers recensent l’importance et la fréquence des
   chenilles ou de quelques hôtes indésirables (des centaines de kilos
   de hannetons sont ramassés en mai 1890).
   
-{{<figure src="/images/articles/hanneton.jpg" title="juin 1955 – Série 6 parcelle D1 et D6 – P.S. âgés de 75 ans">}}
+{{<figure src="/images/articles/hanneton.jpg" title="Cycle du hanneton">}}
   
-Encore des destructions du Hanneton (capture en mai 1962 à l’aide de caisses pièges)
-  l’adulte apparaît entre avril et juin et la larve ou vers blanc vit sous terre pendant 3 ans.
+Encore des destructions du Hanneton 
+  (capture en mai 1962 à l’aide de caisses pièges)
+  l’adulte apparaît entre avril et juin et la larve 
+  ou vers blanc vit sous terre pendant 3 ans.
 
 ### 1894 :
   
-Recherche de Lasiocampe du Pin Sylvestre (Il s’agit du bombyx du pin sylvestre).
+Recherche de Lasiocampe du pin sylvestre (Il s’agit du bombyx du pin sylvestre).
   La chenille crée ces fameux cocons avant de redescendre des arbres
   fin octobre pour hiverner au sol dans la mousse. 
   
-            (Les Lasiocampes sont connus sous la dénomination 
-            de Feuilles mortes, à cause des ailes de plusieurs d'entre eux, 
-            et principalement de celles du type du genre, le Lasiocampe
-            Feuille morte {Lasiocampa quercifolia, Lin.), dont les ailes dentelées, 
+            (Les Lasiocampes sont connus sous
+            la dénomination de Feuilles mortes,
+            à cause des ailes de plusieurs d'entre eux, 
+            et principalement de celles du type du genre,
+            le Lasiocampe Feuille morte {Lasiocampa 
+            quercifolia, Lin.), dont les ailes dentelées, 
             d'un brun ferrugineux, semblent mériter ce nom).  
 
 {{<figure src="/images/articles/bombyxdupin.jpg" title="Lasiocampe du pin sylvestre">}}
@@ -88,27 +99,28 @@ Recherche de Lasiocampe du Pin Sylvestre (Il s’agit du bombyx du pin sylvestre
   Échenillage des Processionnaires du Pin, brûlage des nids, 
   et en mars 1951, 1954 et 1962
 Très récemment plusieurs centaines d’hectares avaient été impactés 
-  par la présence de Tortrix viridana, la Tordeuse verte du chêne,
+  par la présence de Tortrix Viridana, la Tordeuse verte du chêne,
   défoliant les cimes qui venaient juste de se parer de leurs feuilles.
   
-Réapparition en 1939 et en 1943 du Dyorictria Splendinella 
-  (ponte de papillons donnant lieu à des déformations du tronc sur les pins sylvestres).
+Réapparition en 1939 et 1943 du Dyorictria Splendinella 
+  (ponte de papillons donnant lieu à des déformations 
+  du tronc sur les pins sylvestres).
+  Jusque dans les années 1990 on purgera les pins malades.
 
 ### Champignons
 
 1971
+  
 Suite à l’apparition de la maladie du rond sur certaines parcelles 
   l’on ouvre des fossés à la pelleteuse autour des îlots de pins malades. 
   Sournoisement le mycélium infecte le sous sol, puis pénètre les
   racines des arbres empêchant toute circulation de sève.
   
-  Le temps doux et humide est propice aux invasions d’insectes et de champignons
-  lignivores tel le Bostryche qui se développe par le système racinaire
-  du pin maritime. 
+  Le temps doux et humide est propice aux invasions 
+  d’insectes et de champignons lignivores tel le Bostryche 
+  qui se développe par le système racinaire du pin maritime. 
   
   
-{{<figure src="/images/articles/75ans.jpg" title="juin 1955 – Série 6 parcelle D1 et D6 – P.S. âgés de 75 ans">}}
-
 ### Le froid et la neige
   
 L’hiver 1878-1879, neige et verglas occasionnent de gros dégâts sur les
@@ -168,7 +180,7 @@ Le 1er mars 1946 il y a tellement de neige (tempête)
 En février 1954 le bois craque et se fend par le gel.
   Les températures atteignent moins 20°C.
   
-{{<figure src="/images/articles/200702.jpg" title="Neige route de la mare des Étangs">}}
+{{<figure src="/images/articles/200702.jpg" title="Neige sur la route de la mare des Étangs">}}
   
       Les dégâts collatéraux :
       13 février 1956 : Louis Goenvec devant effectuer une 
@@ -186,8 +198,6 @@ Avec le goudronnage des routes, le manège des barrières de dégel commence.
 25 février 1963 : sur l’article 39, un éhouppeur a brisé sa hache sur le bois gelé. 
   
 {{<figure src="/images/articles/69huberdierecalvel.jpg" title="hiver 1969 © Calvel">}}
-  
-{{<figure src="/images/articles/75ans.jpg" title="juin 1955 – Série 6 parcelle D1 et D6 – P.S. âgés de 75 ans">}}
   
 12 au 18 février 1978, vingt centimètres de neige marqueront le sol, 
   occasionnant par la suite inondations et chablis.
@@ -251,7 +261,7 @@ C’est en 2000 qu’un effondrement karstique de 4 m s’est produit
   Nous sommes dans la vallée des Vieux Puits, dans 
   laquelle d’autres anciens trous préexistent.
   
-{{<figure src="/images/articles/20151204trou.jpg" title="effondrement karstique de la parcelle 199">}}
+{{<figure src="/images/articles/20151204trou.jpg" title="effondrement karstique dans la parcelle 199">}}
   
 Les hauteurs maximales seront enregistrées durant l’hiver 2000-2001,
   avec des cotes d’alerte partout. À l’Hermitière tous les ponts sauteront,
@@ -287,7 +297,7 @@ Le réchauffement climatique actuel met à mal notre forêt.
   
 « Les fourmis sont d’sortie, l’orage aussi. »
   
-{{<figure src="/images/articles/201706souvenir.jpg" title="Fourmilière du rond du Souvenir">}}
+{{<figure src="/images/articles/foudre.jpg" title="Le chêne situé derrière le chêne Boppe">}}
   
 *La parcelle du chêne Boppe raconte : Le feu céleste a été envoyé le 18 décembre 
   1934 sous forme d'orage pour tuer le chêne Boppe. Vers 15 heures, un coup de
@@ -305,7 +315,8 @@ La foudre cause un incendie dans la Tasse le 2 juillet 1943 (parcelle 25).
   suite au coup de foudre qui traversa de part en part 
   l’imposte de la porte du bureau. 
   
-
+{{<figure src="/images/articles/201706souvenir.jpg" title="Fourmilière du rond du Souvenir">}}
+  
 La Huberdière est l’endroit de la forêt où l’on rencontre 
   le plus de hautes fourmilières….dont acte ! 
 Serait-ce un endroit propice à l’émergence de nœuds 
