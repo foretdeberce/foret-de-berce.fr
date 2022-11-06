@@ -132,7 +132,7 @@ L’hiver 1878-1879, neige et verglas occasionnent de gros dégâts sur les
   mais il est certain, à la lecture des aménagements, que la plupart 
   des semis de pin maritime avaient réussi.* (R. Viney)
   
-{{<figure src="/images/articles/373.jpg" title="Givre dans la partie résineuse capté par M.Marc">}}
+{{<figure src="/images/articles/373.jpg" title="Givre dans la partie résineuse © M.Marc">}}
   
 La grêle accompagne aussi parfois le tonnerre, compromettant la venue des fleurs ou fruits. 
   
@@ -180,7 +180,7 @@ Le 1er mars 1946 il y a tellement de neige (tempête)
 En février 1954 le bois craque et se fend par le gel.
   Les températures atteignent moins 20°C.
   
-{{<figure src="/images/articles/200702.jpg" title="Neige sur la route de la mare des Étangs">}}
+{{<figure src="/images/articles/200702 .jpg" title="Neige sur la route de la mare des Étangs">}}
   
       Les dégâts collatéraux :
       13 février 1956 : Louis Goenvec devant effectuer une 
@@ -212,7 +212,7 @@ En janvier et février 1985 la température descend en dessous de -20°
   
  En 1986, le 23 février, 30 cm de neige bloquent toute vie en forêt. Tracteur et voitures s’en vont aux fossés.
   
-{{<figure src="/images/articles/2520.jpg" title="Comme ici 20 ans plus tard">}}
+{{<figure src="/images/articles/2520.jpg" title="Comme ici, 20 ans plus tard !">}}
 
 Phénomène rare : la pluie verglaçante du 13 janvier 1997...un épisode rare…mais intense !
   
@@ -264,7 +264,8 @@ C’est en 2000 qu’un effondrement karstique de 4 m s’est produit
 {{<figure src="/images/articles/20151204trou.jpg" title="effondrement karstique dans la parcelle 199">}}
   
 Les hauteurs maximales seront enregistrées durant l’hiver 2000-2001,
-  avec des cotes d’alerte partout. À l’Hermitière tous les ponts sauteront,
+  avec des cotes d’alerte partout.
+  À l’Hermitière tous les ponts sauteront,
   l’eau arrivera à détruire l’emplacement des sources dépassant le muret
   du puits. Les courts-si-il-pleut débordent et des sources jailliront
   en des endroits ou on ne les avait jamais vues.
@@ -297,7 +298,7 @@ Le réchauffement climatique actuel met à mal notre forêt.
   
 « Les fourmis sont d’sortie, l’orage aussi. »
   
-{{<figure src="/images/articles/foudre.jpg" title="Le chêne situé derrière le chêne Boppe">}}
+{{<figure src="/images/articles/foudre.jpg" title="Le chêne foudroyé situé derrière le chêne Boppe">}}
   
 *La parcelle du chêne Boppe raconte : Le feu céleste a été envoyé le 18 décembre 
   1934 sous forme d'orage pour tuer le chêne Boppe. Vers 15 heures, un coup de
@@ -308,7 +309,9 @@ Le réchauffement climatique actuel met à mal notre forêt.
   *Tous ces débris de bois déchiquetés à terre…. on aurait dit de la neige*, confiera l’agent du triage.
   
 En 1939 quelques orages éclatent, plusieurs chênes sont frappés par 
-  la foudre dans le canton du Sault Moulin, ainsi que, fait assez rare, un hêtre du canton des Forges. 
+  la foudre dans le canton du Sault Moulin, ainsi que, fait assez rare, 
+  un hêtre du canton des Forges. 
+  
 La foudre cause un incendie dans la Tasse le 2 juillet 1943 (parcelle 25).
 
   Dans les années 80, un paratonnerre est monté à la MF de la Huberdière
@@ -319,6 +322,7 @@ La foudre cause un incendie dans la Tasse le 2 juillet 1943 (parcelle 25).
   
 La Huberdière est l’endroit de la forêt où l’on rencontre 
   le plus de hautes fourmilières….dont acte ! 
+  
 Serait-ce un endroit propice à l’émergence de nœuds 
   telluriques terrestres tels ceux du fameux réseau de Hartmann ?
   
@@ -326,6 +330,7 @@ Serait-ce un endroit propice à l’émergence de nœuds
   
 Depuis 1992, Bercé possède une station météo grâce au programme « RENECOFOR » :
   (réseau national des écosystèmes forestiers).
+  
   Elle enregistre ces évènements climatiques exceptionnels ou non qui 
   participent activement à la vie ou à la mort de nos forêts. 
   
