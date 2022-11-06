@@ -103,7 +103,8 @@ Réapparition en 1939 et 1943 du Dyorictria Splendinella
   Jusque dans les années 1990 on purgera les pins malades.
   
 Échenillage des Processionnaires du Pin, brûlage des nids, 
-  et en mars 1951, 1954 et 1962
+  et en mars 1951, 1954 et 1962.
+  
 Très récemment plusieurs centaines d’hectares avaient été impactés 
   par la présence de Tortrix Viridana, la Tordeuse verte du chêne,
   défoliant les cimes qui venaient juste de se parer de leurs feuilles.
