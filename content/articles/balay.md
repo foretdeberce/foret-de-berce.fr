@@ -1,9 +1,9 @@
 ---
 title: " balay et habitat rustique"
-date: 2022-09-20T17:23:44+01:00
+date: 2022-11-07T17:23:44+01:00
 draft: false
-description: "Loge de travail"
-featured_image: "/images/et-collision.jpg"
+description: "Loges forestières"
+featured_image: "/images/et-109b21.jpg"
 tags: ["Travaux","Coupes","Hommes",""]
 ---
 
