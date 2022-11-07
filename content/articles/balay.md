@@ -3,7 +3,7 @@ title: " balay et habitat rustique"
 date: 2022-11-07T17:23:44+01:00
 draft: false
 description: "Loges forestières"
-featured_image: "/images/et-109b21.jpg"
+featured_image: "/images/et.109b21.jpg"
 tags: ["Travaux","Coupes","Hommes",""]
 ---
 
