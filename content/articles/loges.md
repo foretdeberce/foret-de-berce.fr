@@ -56,7 +56,7 @@ La loge de Volumiers vers 1900, peut accueillir trois chevaux de chasse
   
 {{<figure src="/images/articles/volumiers2.jpg" title="3 stalles attendent les chevaux à Volumiers">}}
 
-{{<figure src="/images/articles/volumiers21.jpg" title="Loge de Volumiers réhabilitée">}}
+{{<figure src="/images/articles/volumiers3.jpg" title="Loge de Volumiers réhabilitée">}}
 
 {{<figure src="/images/articles/croixveneur.jpg" title="La loge de la Croix Veneur, aujourd’hui disparue">}}
 
