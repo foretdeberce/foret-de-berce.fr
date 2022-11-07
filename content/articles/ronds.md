@@ -124,10 +124,7 @@ Les poteaux indicateurs en fonte sont posés, mais Pierre-Marin Leroi
 	
 En Mars 1911 : Jouaux (successeur de Heintz) repeint les poteaux des Ronds de son triage.
   Ces poteaux seront régulièrement repeints en brun, puis au minium et enfin en blanc.
-  Au fil du temps, ces ronds, fierté du massif de Bercé, vont, avec la circulation
-  et le modernisme payer un lourd tribut.
-	
-### Les accidents sont nombreux
+ 
  
  {{<figure src="/images/articles/guinier1.jpg" title="Rond du Guinier">}}
 	
@@ -140,6 +137,11 @@ En Mars 1911 : Jouaux (successeur de Heintz) repeint les poteaux des Ronds de so
 	
 Ainsi le Guinier (1906), Bel-air (1923) et plus tard :
 
+ Au fil du temps, ces ronds, fierté du massif de Bercé, vont, avec la circulation
+  et le modernisme payer un lourd tribut.
+	
+### Les accidents sont nombreux	
+	
 Le Rond de la croix : 
 Pigault assiste à la pose du poteau indicateur du rond de la croix 
   le 1er août 1924et constate le 21 février 1925 que les ouvriers 
@@ -239,85 +241,15 @@ Le Rond-point forestier, cet îlot et son phare sur lequel le monde
 {{<figure src="/images/articles/sthubert.jpg" title="Le rond de Saint-Hubert">}}
 
 
-		Vingt sept des 70 carrefours de Bercé possèdent ainsi encore aujourd'hui 
+Vingt sept des 70 carrefours de Bercé possèdent ainsi encore aujourd'hui 
   leur poteau, dont 1/3 a été dupliqué en 1998 par la fonderie Renaudin à Masle (Orne).
  
  {{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}
     
-  
-    Les loges forestières qui agrémentent ces Ronds, 
-    ajoutent une touche d'intimité à ce lieu privilégié.
-		Depuis 1995 une Croix forestière haute de quatre mètres
+Depuis 1995 une Croix forestière haute de quatre mètres
     et d'un poids d'une tonne, élevée tel un phare au milieu du 
     giratoire de Saint-Hubert, met en valeur l'une des 
     particularités de la Forêt Domaniale de Bercé.
   
  {{<figure src="/images/articles/wautot7.jpg" title="Rond Wautot vu de haut">}}
-
- ## Les loges des ronds
-
-
-{{<figure src="/images/articles/logesforestieres.jpg" title="Les loges en forêt de Bercé">}}
-
-
-Foyer d’humanité dans cet enfer vert, elles apportent à l’homme, chaleur,
-  couvert et sécurité. N’oublions pas que Bercé ne fut percé qu’en 1783.
-
-Au début du XIXe siècle la Loge commence à orner les ronds-points 
-  nouvellement créés. Elle accueille désormais, tout en prenant 
-  ses lettres de noblesse, ces messieurs de la chasse à courre,
-  leurs chevaux, et les suiveurs.
-
-En briques de Pruillé l’Éguillé, en bois, torchis, paille, terre,
-  tôles, elles répondent aux besoins de halte, repos et convivialité.
-  
-*« Le 4 septembre 1866, les Cantonniers Berger, Dupré, Venot et Le Simple,
-  abattent un chêne pour la réparation de la loge de la croix
-  Marconnay avec l’aide d’un Charretier »*.
-
-Malgré ces continuelles réhabilitations, les Loges sont endommagées
-  par des "dévoyés", le feu les ravage, les tables et bancs disparaissent, 
-  les *« Plisses »* d’herbe qui recouvrent certaines sont régulièrement
-  piétinées par les enfants.
-
-Vers 1900, l’abri du Rond du Nacron, couvert de ses bardeaux possède
-  une immense cheminée qui est le reste d’une première construction.
-  Cette Loge fut incendiée accidentellement le 7 Janvier 1940,
-  par des soldats, qui du 7 février à la fin août en rebâtirent une autre.
-
-La loge de Volumiers vers 1900, peut accueillir trois chevaux de chasse
-  à courre ou éventuellement ceux de Messieurs les officiers forestiers,
-  venus en opération de Martelage. Il s’y déroulait aussi les revues 
-  d’armes ou les inspections forestières.
-
-{{<figure src="/images/articles/volumiers2.jpg" title="Loge de Volumiers réhabilitée">}}
-
-
-Volumiers et Croix Marconnay jouaient à la fois les rôles de :
-Salle de réunions *« Avoir été au rendez-vous des deux brigades
-  à la loge de Volumiers pour le service de surveillance »*
-  (Paul Masseron – 22 Sept 1866).
-
-{{<figure src="/images/articles/marconnay6.jpg" title="La nouvelle loge de Croix-Marconnay">}}
-
-
-Dortoir : le 23 Juin 1902, les élèves Officiers de l’École forestière
-  de Nancy sont logés à Croix Marconnay dans un confort plus que sommaire.
-
-Par la suite les Naturalistes de tous poils, s’y donneront rendez–vous.
-
-{{<figure src="/images/articles/coudre1.jpg" title="La loge de la Coudre, aujourd’hui disparue">}}
-
-La loge de la Coudre, aujourd’hui disparue date de la dernière guerre. 
-
-En octobre 1940 : La route de contournement de la Coudre et la Construction 
-  de la Loge forestière ont été réalisés par un chantier de Chômeurs.
-  Il y avait un dépôt de munitions le long de la R.F. des Forges.
-  En effet Bercé, la discrète hébergea de nombreux résistants, 
-  prisonniers et dépôts de munitions au sein de ses frondaisons.
-
-A la même période la route de contournement du ruisseau de la 
-  Gaie Mariée était aussi surnommée *« route des chômeurs »*.
-
-
 
