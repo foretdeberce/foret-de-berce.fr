@@ -12,9 +12,6 @@ tags: ["Topographie","Cartographie","Routes","Ronds"]
  Les loges forestières qui agrémentent ces Ronds, 
     ajoutent une touche d'intimité à ce lieu privilégié.
 	
-{{<figure src="/images/articles/logesforestieres.jpg" title="Les loges en forêt de Bercé">}}
-
-
 Foyer d’humanité dans cet enfer vert, elles apportent à l’homme,
   chaleur, couvert et sécurité. 
   
@@ -46,12 +43,11 @@ Malgré ces continuelles réhabilitations, les Loges sont endommagées
 
 Vers 1900, l’abri du Rond du Nacron, couvert de ses bardeaux possède
   une immense cheminée qui est le reste d’une première construction.
+	
   Cette Loge fut incendiée accidentellement le 7 Janvier 1940,
   par des soldats, qui du 7 février à la fin août en rebâtirent une autre.
-Tel à Volumiers ou 3 stalles à chevaux sont déjà prévues dans la loge
   
 {{<figure src="/images/articles/nacron2.jpg" title="L’ancienne loge du Nacron">}}
-
 
 La loge de Volumiers vers 1900, peut accueillir trois chevaux de chasse
   à courre ou éventuellement ceux de Messieurs les officiers forestiers,
@@ -60,7 +56,7 @@ La loge de Volumiers vers 1900, peut accueillir trois chevaux de chasse
   
 {{<figure src="/images/articles/volumiers2.jpg" title="3 stalles attendent les chevaux à Volumiers">}}
 
-{{<figure src="/images/articles/volumiers2.jpg" title="Loge de Volumiers réhabilitée">}}
+{{<figure src="/images/articles/volumiers21.jpg" title="Loge de Volumiers réhabilitée">}}
 
 {{<figure src="/images/articles/croixveneur.jpg" title="La loge de la Croix Veneur, aujourd’hui disparue">}}
 
