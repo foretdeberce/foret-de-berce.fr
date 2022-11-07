@@ -157,7 +157,7 @@ Balai des familles Meunier et Ciret de Pruillé dans les Clos en 1964.
 											
 Le balai, "palais" du bûcheron, qui y trouve un peu de quiétude et de chaleur au moment du repas 
 
-{{<figure src="/images/articles/famille pie2002.jpg" title="La famille Pie en 2002">}}
+{{<figure src="/images/articles/famillepie2002.jpg" title="La famille Pie en 2002">}}
 
 
 {{<figure src="/images/articles/10logecigogne1999.jpg" title="Un balai de tôles dans la Cigogne en 1999">}}
