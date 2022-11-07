@@ -92,6 +92,6 @@ En octobre 1940 : La route de contournement de la Coudre et la Construction
 A la même période la route de contournement du ruisseau de la 
   Gaie Mariée était aussi surnommée *« route des chômeurs »*.
 Le public a tellement maltraité ces loges que beaucoup ont été détruites,
-  leur reconstruction coûtant plus cher que leur simple démolition.
+  leur reconstruction coûtant plus cher qu'une simple démolition.
   
 {{<figure src="/images/articles/logesdeberce.jpg" title="Les loges actuelles et celles disparues">}}
