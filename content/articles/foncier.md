@@ -7,9 +7,10 @@ featured_image: "/images/et.fosses.jpg"
 tags: ["Tourisme","Lieux","Paysage","Hommes"]
 ---
 
-Montons à 26 km d’altitude et  prenons un peu de hauteur pour admirer
+Montons à 26 km d’altitude et prenons un peu de hauteur pour admirer
 ce que Jean Marie BALLU, ancien directeur régional de l’ONF 
 qualifiait de « manteau d’Arlequin ».
+
 
 {{<figure src="/images/articles/vuesatellite.jpg" title="Vue satellite de Bercé">}}
   
@@ -37,13 +38,18 @@ Bien qu’aujourd’hui le phénomène ait tendance à s’inverser avec
   
 La forêt de Bercé est perchée sur un plateau d’altitude moyenne : 150 m. 
   
+
+ {{<figure src="/images/articles/1874.jpg" title="Carte géologique de 1874">}}  
+  
 Sa position haute lui a permis de résister avec vaillance
   aux défrichements des siècles passés.
+  
+ {{<figure src="/images/articles/geologieberce.jpg" title="Carte géologique de P.George 1936">}}  
+  
 C’est aussi un vaste château d’eau car, de chacun de ses flancs, 
   coule (bien souvent en sous sol) cette eau bienfaitrice qui 
   alimente la Sarthe, l’Huisne et surtout le Loir.
   
- {{<figure src="/images/articles/1874.jpg" title="Carte géologique de 1874">}}
 
 Mais bientôt il est question que le grand ruban la traverse,
   afin de relier Calais à Bayonne.
