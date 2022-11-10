@@ -38,7 +38,7 @@ En 1782, le Surintendant Chailloux, peaufine pour Monsieur
   en vu de favoriser le change des chiens et la chasse à Courre.
   (Le rond en devient l’Archétype)
 
-{{<figure src="/images/articles/louis18.jpg" title="Louis XVIII">}}
+{{<figure src="/images/articles/louis18.jpg" title="Louis XVIII le Désiré">}}
 
 Des ronds à 6 branches, il y en avait qu’un seul à l’origine, 
   vers 1820 : le rond du chêne Désiré,très prisé des veneurs. 
@@ -48,7 +48,7 @@ Des ronds à 6 branches, il y en avait qu’un seul à l’origine,
 	
 {{<youtube id="HtwpOO8_KMk">}}
 
-### @ Sylvain Photouvoir drone DJI phantom 2
+### @ Sylvain Photouvoir
 	
 Le rond du Clocher, quant à lui, n’eût droit à sa cinquième
   puis sixième branche qu’à la fin du 19e siècle.
@@ -57,10 +57,9 @@ Le rond du Clocher, quant à lui, n’eût droit à sa cinquième
 {{<figure src="/images/articles/clocher13.jpg" title="Le rond du Clocher, lieu de rendez vous">}}
 
 Suite à la réorganisation routière opérée lors de l’aménagement
-  forestier de 1843, certains Ronds se trouveront
+  forestier de 1843, certains ronds se trouveront
   complètement décalés par rapport aux carrefours anciens,
-  tels ceux de la Croix- Marconnay, du Clocher et de Croix Veneur.
-
+  tels ceux de la Croix-Marconnay, du Clocher et de Croix Veneur.
 
 
 Petit à petit les nouveaux carrefours se substituent aux anciens délaissés.
@@ -81,13 +80,14 @@ On plante tout autour de celui-ci des arbres exotiques,
   Le creusement d'une mare pour les chevaux de
   passage parachève le tableau.
 	
-Ces petits « rendez-vous de chasse », servent à l’occasion 
+Ces petits «rendez-vous de chasse», servent à l’occasion 
   d'abris provisoires aux "cantonniers" de la forêt ainsi 
   qu’aux réunions et déjeuners des forestiers. 
-  Les « balays » forestiers, principalement installés sur
-  les coupes sont utilisés par les bûcherons. 	
+	
+  Les «balays» forestiers, principalement installés sur
+  les coupes sont uniquement utilisés par les bûcherons. 	
 
-1780-1880 : 100 ans, c’est le temps qu’il aura fallu 
+1780/1880 : 100 ans, c’est le temps qu’il aura fallu 
   attendre pour voir nos ronds ainsi pavoisés.
 
 
@@ -98,20 +98,21 @@ Fin XIXe : Les routes enherbées sont empierrées peu à peu
   en charge sur chaque grosse coupe de 20 à 100 m 3 de pierres de ragréage. 
 
   
- {{<figure src="/images/articles/dessin.jpg" title="Le poteau fonte Armand Chappée">}}
+ {{<figure src="/images/articles/dessin.jpg" title="Le poteau en fonte de type Armand Chappée">}}
  
   
-Légende photo : La croix de fonte (Armand Chappée Le Mans fin XIXe) remplace 
+La croix de fonte (Armand Chappée Le Mans fin XIXe) remplace 
   les antiques croix de bois. Sa couleur foncée sur certaines cartes
-  postales est due à la peinture anti rouille. 
+  postales est due à la peinture anti-rouille. 
  
 
 {{<figure src="/images/articles/lune.jpg" title="Rond de la Lune">}}
 
-{{<figure src="/images/articles/forges2.jpg" title="Le rond des Forges en 1933">}}
+{{<figure src="/images/articles/forges2.jpg" title="Rond des Forges en 1933">}}
 
 Les poteaux indicateurs en fonte sont posés, mais Pierre-Marin Leroi
   (Garde aux Hutteries) constate le dimanche 23 Avril 1893 :
+	
 *" Reconnu que le poteau indicateur du Rond de la Lune avait été 
   cassé tout "ressemment", nous avons fait les recherches de
   l'auteur du délit. Nous avons reconnu que ce devait être une
@@ -120,60 +121,69 @@ Les poteaux indicateurs en fonte sont posés, mais Pierre-Marin Leroi
   avons déclaré saisie de sa voiture chargée et rendu compte 
   au Brigadier».*
  
-8 Août 1896 : Heintz (garde aux Boussions) surveille la maçonnerie
-	du Rond du Clocher.
+8 août 1896 : Heintz (garde aux Boussions) surveille la maçonnerie
+	du rond du Clocher.
 	
-En Mars 1911 : Jouaux (successeur de Heintz) repeint les poteaux des Ronds de son triage.
+En mars 1911 : Jouaux (successeur de Heintz) repeint les poteaux des ronds de son triage.
   Ces poteaux seront régulièrement repeints en brun, puis au minium et enfin en blanc.
-Ainsi le Guinier (1906), Bel-air (1923).
+Tels le Guinier (1906), Bel-air (1923).
  
  {{<figure src="/images/articles/guinier1.jpg" title="Rond du Guinier">}}
 	
 {{<youtube id="bPD5DrYe5ck">}}
 
-### Rond du Guinier et chêne à gui: @ le mauriennais - forêt de Bercé
+### Rond du Guinier et chêne à gui: @ le mauriennais 
 	
-	        Le chêne à gui est le grand chêne seul
-		dans la parcelle 228 en bordure du CD 63
+	        on peut y voir le chêne à gui 
+	(grand chêne seul dans la parcelle 228 en bordure du CD 63)
 	
 
 
  Au fil du temps, ces ronds, fierté du massif de Bercé, vont, avec la circulation
   et le modernisme payer un lourd tribut.
 	
-### Les accidents sont nombreux	
+## Les accidents sont nombreux	
 	
-Le Rond de la croix : 
+### Le Rond de la croix : 
+	
 Pigault assiste à la pose du poteau indicateur du rond de la croix 
   le 1er août 1924et constate le 21 février 1925 que les ouvriers 
   de Mr Avisse Henri (adjudicataire de la coupe)  "Article 40-1924"
   avaient brisé le poteau indicateur du rond-point de la Croix, 
   en abattant un arbre.
 
-Le Rond des Clos, quant à lui est brisé le 18 mai 1933:
+### Le Rond des Clos :
+	
+quant à lui est brisé le 18 mai 1933:
 « Le poteau indicateur vient d'être cassé près de sa base et
   renversé (traces de grumes de chêne et de fers de chevaux) 
   nous indiquent qu'il s'agit d'un voiturier- Nous avons rejoint
-  le nommé Guibert Gabriel au service de Mr Papin Gaston(marchand 
+  le nommé Guibert Gabriel au service de Mr Papin Gaston (marchand 
   de bois à Villaines-sous-Lucé, qui a reconnu qu'une pièce de bois
-  était mal chargée- Nous lui avons fait signer (et à Mr Papin le 19 mai)
-  un engagement en double exemplaire , sur papier timbré,
-  à remplacer le poteau- (réparé et repeint le 13/07/35). 
+  était mal chargée). Nous lui avons fait signer (et à Mr Papin le 19 mai)
+  un engagement en double exemplaire, sur papier timbré,
+  à remplacer le poteau. (réparé et repeint le 13/07/35). 
 
 {{<figure src="/images/articles/clos5.jpg" title="Le rond des Clos">}}
 
 
-Le Rond de croix Marconnay : est le 3 décembre 1935 fortement ébranlé
+### Le Rond de croix Marconnay : 
+	
+est le 3 décembre 1935 fortement ébranlé
   par une voiture Renault (vieux modèle, genre Torpédo pour l'avant et
   camionnette pour l'arrière) peinte en rouge et dont les ouvriers, 
   (témoins) n'ont pas eu le temps de relever le numéro. 
 
-Le Rond de Verneil : le 16 novembre 1953
+### Le Rond de Verneil :
+
+Retrouvé cassé le 16 novembre 1953
 
 {{<figure src="/images/articles/verneil1.jpg" title="Le rond de Verneil et sa loge">}}
 
 
-Le Rond de Nacron : le 5 août  1960  Goenvec consignera :
+### Le Rond de Nacron :
+	
+le 5 août  1960  Goenvec consignera :
 
   Tombé à terre et fracassé- Cette chute est due à un choc ;
   Nous n’avons  constaté qu'un seul point d'impact à 1,80 m 
@@ -183,7 +193,8 @@ Le Rond de Nacron : le 5 août  1960  Goenvec consignera :
   distance de 30 m du Rond, avait été enlevé. Les 2 chênes jetés,
   rejetés de chaque côté des fossés bordiers (fait par un grumier,  
   agissant pour le compte de Louis Bonnichon).
-  
+	
+  {{<figure src="/images/articles/nacron3.jpg" title="Rond du Nacron en berne">}}
 
   Il semble que l'extrémité d'une grume soit venue frapper le 
   corps du poteau- Le Rond-point est inutilisable -
@@ -194,30 +205,35 @@ Le Rond de Nacron : le 5 août  1960  Goenvec consignera :
   8h30 Il a constaté que le Rond était à terre.
 
 
-{{<figure src="/images/articles/nacron3.jpg" title="Rond du Nacron en berne">}}
+### Le Rond des Forges : 
+	
+retrouvé cassé le 2 novembre 1963
 
-Le Rond des Forges : 
-2 novembre 1963
-
-Le Rond de l’Embranchement :
+### Le Rond de l’Embranchement :
+	
 13 août 1965.
   (Légèrement déplacé vers Jupilles) 
 
-Le Rond de Volumiers : cassé par une 2 CV 
-  et retombé derrière celle-ci sans blesser les 2 passagères.
+### Le Rond de Volumiers :
+	
+a été cassé par une 2 CV. Le rond est retombé derrière 
+celle-ci sans blesser les 2 passagères.
 
-Le Rond du Clocher : 
+### Le Rond du Clocher : 
+	
 en 1977 - fut l’enjeu d’une
   prise de guerre des militaires du camp d'Auvours ! 
 
-Les Rond de Croix-Chambault (1994), du Pezeray et des Clos (1997),
+Puis les Ronds de Croix-Chambault (1994), du Pezeray et des Clos (1997),
   furent le théâtre d’accidents. A la  suite de  tous ces faits, 
-  la prudence voulue que l’on place les poteaux en côtés des Ronds -
+  la prudence voulue que l’on place les poteaux en côtés des ronds -
 Erreur ! Les voitures augmentaient par la même leur vitesse.  
   L’on adopta alors le fait de les remettre au centre, 
   et je pris personnellement l'initiative de tester leur solidité………
   
-  ### Il a suffit d’un rien  … au rond de Croix-Chambault ! 
+  ### Il a suffit d’un rien  
+	
+	… au rond de Croix-Chambault ! 
 
 {{<figure src="/images/articles/accident2.jpg" title="Glandée 1994">}}
  
@@ -228,7 +244,8 @@ d’humeur paru sur le Ouest-France   des 12 et 13
 novembre 1994, alimenta la rumeur, car sur place 
 le 17 octobre 1994, il n’y avait que les oiseaux pour 
 contempler cette scène, digne d’un très mauvais scénario.
-Un geai aurait-il porté l’affaire auprès du journal ?...Mystère... 
+Un geai aurait-il porté l’affaire auprès du journal ?
+...Mystère... 
   
 {{<figure src="/images/articles/loir.jpg" title="Le billet d’humeur du jour">}}
   
@@ -440,3 +457,5 @@ Croisement de la route forestière des Profonds Vaux / Ligne et route de la Mais
 
 {{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}	
   
+	
+{{<figure src="/images/articles/wautot7.jpg" title="au dessus du rond Wautot dédié à l'arpenteur de 1843">}}
