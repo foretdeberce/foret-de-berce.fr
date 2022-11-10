@@ -240,16 +240,189 @@ Le Rond-point forestier, cet îlot et son phare sur lequel le monde
 	
 {{<figure src="/images/articles/sthubert.jpg" title="Le rond de Saint-Hubert">}}
 
-
-Vingt sept des 70 carrefours de Bercé possèdent ainsi encore aujourd'hui 
-  leur poteau, dont 1/3 a été dupliqué en 1998 par la fonderie Renaudin à Masle (Orne).
  
- {{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}
-    
 Depuis 1995 une Croix forestière haute de quatre mètres
     et d'un poids d'une tonne, élevée tel un phare au milieu du 
     giratoire de Saint-Hubert, met en valeur l'une des 
     particularités de la Forêt Domaniale de Bercé.
+	
+Vingt sept des 70 carrefours de Bercé possèdent ainsi encore aujourd'hui 
+  leur poteau, dont 1/3 a été dupliqué en 1998 par la fonderie Renaudin à Masle (Orne).
+ 
+ {{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}
+	
+Vingt sept des 70 carrefours de Bercé possèdent ainsi encore aujourd'hui 
+  leur poteau, dont 1/3 a été dupliqué en 1998 par la fonderie Renaudin à Masle (Orne).
+ 
+ {{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}	
   
- {{<figure src="/images/articles/wautot7.jpg" title="Rond Wautot vu de haut">}}
+ {{<figure src="/images/articles/topo3.jpg" title="Ronds en fonte de la partie feuillue">}}
+
+### 01 – Rond du May ou du Mai 
+	(commune de Marigné-Laillé) : 
+Croisement route forestière de Grammont / D 96.
+ (Anciennement Chemin Vicinal Ordinaire N°56 puis Chemin de Moyenne Communication N°56)
+
+### 02– Rond de la Lune 
+	(commune de Marigné-Laillé) : 
+Croisement route forestière du Ronceray / D 96 / route forestière de la Croix-Ségrier.
+
+### 03– Rond du Buisson 
+	(commune de Marigné-Laillé) : 
+Croisement route forestière de Grammont / route forestière du Ronceray.
+
+### 04 – Rond des Renardières 
+	(commune de Marigné-Laillé) : 
+Croisement route forestière des Renardières au Pressoir / Chemin de Mayet à Lucé / route forestière des Forges.
+
+### 05 – Rond du Clos 
+	(commune de Marigné-Laillé) : 
+Croisement route forestière de la Croix-Ségrier / route forestière des Renardières au Pressoir /Allée du Machefer.
+
+### 06 – Rond du Pézeray 
+	(commune de Jupilles) : 
+Croisement route forestière de Grammont / route forestière des Renardières au Pressoir.
+
+### 07– Rond de la Croix-Marconnay 
+	(commune de Jupilles) : 
+Croisement route forestière des Renardières au Pressoir / route forestière André Hallay / route forestière de la Chauvinière.
+
+### 08 – Rond du Nacron 
+	(commune de Jupilles) : 
+Croisement route forestière des Trembles / route forestière de Grammont.
+
+### 09 – Rond de Peyrelongue 
+	(commune de Jupilles) : 
+Croisement ligne de la Marchandière / route forestière Neuve.
+
+### 10 – Rond de l’Embranchement 
+	(commune de Jupilles) : 
+Croisement route forestière des Renardières au Pressoir / D 13.
+
+### 11 – Rond du Chêne Désiré 
+	(commune de Saint-Vincent du Lorouër) : 
+Croisement route forestière des Renardières au Pressoir / Ligne de la Marchandière / route forestière du Pau à Chahaignes 
+
+### 12 – Rond Wautot 
+	(commune de Saint-Vincent-du-Lorouër) :
+Croisement route Neuve / D 137 / route forestière de la Jument Blanche.
+	
+### 14 – Rond de Volumiers 
+	(commune de Thoiré-sur-Dinan) : 
+Croisement route forestière du Pau à Chahaignes / route forestière de la Croix Gorgeas / route forestière du Roulleau / route forestière de la Jument Blanche.
+
+### 15 – Rond de Croix-Veneur 
+	(commune de Thoiré-sur-Dinan) : 
+Croisement ligne du Clocher / Route de la Vallée Noire / Route forestière de la Croix Veneur.
+
+### 16 – Rond Roulleau 
+	(commune de Thoiré-sur-Dinan) : 
+Croisement route forestière du Roulleau / Ligne de Croix –Veneur.
+
+### 17 – Rond du Guignier 
+	(commune de Saint-Pierre-du Lorouër) : 
+Croisement route forestière de la Croix Veneur / CD 63 / route forestière des Vaux du Puits / Allée de la Ragée / Route forestière du Roulleau.
+
+### 18– Rond du Chesne au Clocher 
+	(commune de Thoiré-sur-Dinan) : 
+Croisement D 63 / D 235 / Route des Sorels / Route forestière du Pau à Chahaignes / Ligne de Croix -Veneur.
+
+### 19– Rond des Forges 
+	(commune de Jupilles) : 
+Croisement D 13 / Route forestière de la Croix-Ségrier / Allée Verte / Chemin de Laillé.
+
+ {{<figure src="/images/articles/topo4.jpg" title="Le rond accidenté 3 fois">}}
+	
+### 13 – Rond de Croix-Chambault ou Croix de Haute Borne 
+	(commune de Saint-Vincent-du-Lorouër) : 
+Croisement route forestière du Pau à Chahaignes / Route forestière des Ventes./ route forestière de la Jument Blanche.
+	
+ {{<figure src="/images/articles/topo2.jpg" title="Ronds en fonte de la partie résineuse">}}
+	
+### 01 – Rond des Défaits 
+	(commune de Marigné-Laillé) : 
+Croisement route forestière de Grammont / Chemin d’Écommoy à Lucé.
+
+### 02 – Rond des Hutteries 
+	(commune de Marigné-Laillé) : 
+Croisement route forestière de Grammont / Chemin de Marigné à Lucé.
+
+### 03 – Rond de Bercé 
+	(commune de Marigné-Laillé) : 
+Croisement route forestière de Grammont / Route de Mayet au Grand Lucé.
+
+### 04– Rond de Saint Hubert 
+	(commune de Mayet) : 
+Croisement D 13 / D 284 / D 338 / D 279.
+
+### 05– Rond de la Forêt de Bercé dit de l’Antenne 
+	(commune de Mayet) :
+Croisement D 13 / Route forestière des Terres Blanches / Chemin Vicinal n° 2.
+	
+### 06 – Rond du Bel Air 
+	(commune de Mayet) : 
+Croisement D 279 Route de Vaas/ Ligne de la Guiltière./Route de Mayet à Château du Loir.
+
+### 07 – Rond de la Guiltière 
+	(commune de Mayet) : 
+Croisement route forestière de la Guiltière / Route forestière des Terres Blanches.
+
+### 08 – Rond de Verneil ou des Vernes 
+	(commune de Lavernat) : 
+Croisement route forestière des Terres Blanches / D 279 / route forestière de Verneil à Beaumont./ Route forestière des Profonds-Vaux.
+
+ {{<figure src="/images/articles/topo1.jpg" title="Ronds ou carrefours sans poteaux">}}
+	
+### 1— Croix Feu Bellemère 
+	(commune de Marigné Laillé) :        
+Croisement route forestière de Grammont / Ligne de Marigné à Lucé.
+	
+### 2— Rond du Sault 
+	(commune de Marigné-Laillé) :   
+Croisement Route de la Chauvinière /Allée Verte.                                                                                                           
+### 3— Carrefour du Pau 
+	(commune de Pruillé l’Éguillé) :   
+Croisement Ligne du Pau /Allée Verte    
+	
+### 4—Patte d’Oie de la Coudre 
+	(commune de Marigné Laillé)  
+Croisement  Route basse de la Coudre /route forestière de Croix Segrier.  
+	
+### 5— Rond du Souvenir 
+	(commune de Pruillé l’Éguillé) :      
+Croisement Route de la Vallée Sermaize / Ligne de la Marchandière 
+	
+### 6— Rond Jousset 
+	(commune de Jupilles) :       
+Croisement CD13 / Ligne du Ronceray                                                                                                         
+### 7— Rond des Trembles 
+	(commune de Jupilles) :                                                                                                        Croisement route forestière des Trembles / Route de la Chauvinière.
+	
+### 8— Carrefour des Vieux Fours ou des Vieux Puits 
+	(commune de Saint Vincent du Lorouër) :                                                                                       
+Croisement route forestière des Renardières au Pressoir / Ligne des Vieux Puits.                                                                                     
+### 9— Croix de la Huberdière 
+	(commune de Jupilles) :    
+Croisement du CD137 / Chemin de l’Enfumeraie                                                                                                            
+### 10— Carrefour de la Jument Blanche 
+	(commune de Saint Vincent du Lorouër) :                                                                                        Croisement de la route basse de l’Hermitière / route forestière de la Jument Blanche.
+	
+### 11— Rond de Croix Gorgeas 
+	(commune de Thoiré sur Dinan) :                                                                                               
+Croisement de la ligne de Croix Veneur / Allée de la Vallée des Pierres.
+	
+### 12— Croix de la Butte  
+	(commune de Saint-Pierre du Lorouër) : 
+Croisement  de la route forestière de la Vallée des Pierres / Route forestière de la Vallée Noire                                                                                                          
+### 13— Carrefour de l’École forestière de Nancy 
+	(commune de Thoiré sur Dinan) :                                                                                               
+Croisement de l’allée Verte / Ligne de Croix Veneur.
+	
+### 14— Carrefour de Croix Segrier  
+	(commune de Beaumont Pied de Bœuf) :   
+Croisement ligne de Croix-Segrier /  D216.                                                                                                             
+### 15— Carrefour des Profonds-Vaux 
+	(commune de Beaumont Pied de Bœuf) :                                                                                           
+Croisement de la route forestière des Profonds Vaux / Ligne et route de la Maison forestière
+
 
