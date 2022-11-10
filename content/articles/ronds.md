@@ -106,8 +106,9 @@ Légende photo : La croix de fonte (Armand Chappée Le Mans fin XIXe) remplace
   postales est due à la peinture anti rouille. 
  
 
- {{<figure src="/images/articles/lune.jpg" title="Rond de la Lune">}}
+{{<figure src="/images/articles/lune.jpg" title="Rond de la Lune">}}
 
+{{<figure src="/images/articles/forges2.jpg" title="Le rond des Forges en 1933">}}
 
 Les poteaux indicateurs en fonte sont posés, mais Pierre-Marin Leroi
   (Garde aux Hutteries) constate le dimanche 23 Avril 1893 :
@@ -124,7 +125,7 @@ Les poteaux indicateurs en fonte sont posés, mais Pierre-Marin Leroi
 	
 En Mars 1911 : Jouaux (successeur de Heintz) repeint les poteaux des Ronds de son triage.
   Ces poteaux seront régulièrement repeints en brun, puis au minium et enfin en blanc.
- 
+Ainsi le Guinier (1906), Bel-air (1923).
  
  {{<figure src="/images/articles/guinier1.jpg" title="Rond du Guinier">}}
 	
@@ -135,7 +136,7 @@ En Mars 1911 : Jouaux (successeur de Heintz) repeint les poteaux des Ronds de so
 	        Le chêne à gui est le grand chêne seul
 		dans la parcelle 228 en bordure du CD 63
 	
-Ainsi le Guinier (1906), Bel-air (1923) et plus tard :
+
 
  Au fil du temps, ces ronds, fierté du massif de Bercé, vont, avec la circulation
   et le modernisme payer un lourd tribut.
@@ -195,17 +196,18 @@ Le Rond de Nacron : le 5 août  1960  Goenvec consignera :
 
 {{<figure src="/images/articles/nacron3.jpg" title="Rond du Nacron en berne">}}
 
-Le Rond des Forges : 2 novembre 1963
+Le Rond des Forges : 
+2 novembre 1963
 
-{{<figure src="/images/articles/forges2.jpg" title="Le rond des Forges en 1933">}}
-
-Le Rond de l’Embranchement : 13 août 1965.
+Le Rond de l’Embranchement :
+13 août 1965.
   (Légèrement déplacé vers Jupilles) 
 
 Le Rond de Volumiers : cassé par une 2 CV 
   et retombé derrière celle-ci sans blesser les 2 passagères.
 
-Le Rond du Clocher : en 1977 - fut l’enjeu d’une
+Le Rond du Clocher : 
+en 1977 - fut l’enjeu d’une
   prise de guerre des militaires du camp d'Auvours ! 
 
 Les Rond de Croix-Chambault (1994), du Pezeray et des Clos (1997),
@@ -254,9 +256,10 @@ Vingt sept des 70 carrefours de Bercé possèdent ainsi encore aujourd'hui
 Vingt sept des 70 carrefours de Bercé possèdent ainsi encore aujourd'hui 
   leur poteau, dont 1/3 a été dupliqué en 1998 par la fonderie Renaudin à Masle (Orne).
  
- {{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}	
-  
+ 
  {{<figure src="/images/articles/topo3.jpg" title="Ronds en fonte de la partie feuillue">}}
+	
+ {{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}		
 
 ### 01 – Rond du May ou du Mai 
 	(commune de Marigné-Laillé) : 
@@ -308,9 +311,8 @@ Croisement route forestière des Renardières au Pressoir / Ligne de la Marchand
 Croisement route Neuve / D 137 / route forestière de la Jument Blanche.
 	
 ### 14 – Rond de Volumiers 
-	(commune de Thoiré-sur-Dinan) : 
-Croisement route forestière du Pau à Chahaignes / route forestière de la Croix Gorgeas / route forestière du Roulleau / route forestière de la Jument Blanche.
-
+	(commune de Thoiré-sur-Dinan) : Croisement route forestière du Pau à Chahaignes / route forestière de la Croix Gorgeas / route forestière du Roulleau / route forestière de la Jument Blanche.
+	
 ### 15 – Rond de Croix-Veneur 
 	(commune de Thoiré-sur-Dinan) : 
 Croisement ligne du Clocher / Route de la Vallée Noire / Route forestière de la Croix Veneur.
@@ -338,6 +340,9 @@ Croisement D 13 / Route forestière de la Croix-Ségrier / Allée Verte / Chemin
 Croisement route forestière du Pau à Chahaignes / Route forestière des Ventes./ route forestière de la Jument Blanche.
 	
  {{<figure src="/images/articles/topo2.jpg" title="Ronds en fonte de la partie résineuse">}}
+	
+{{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}	
+  
 	
 ### 01 – Rond des Défaits 
 	(commune de Marigné-Laillé) : 
@@ -373,13 +378,18 @@ Croisement route forestière des Terres Blanches / D 279 / route forestière de 
 
  {{<figure src="/images/articles/topo1.jpg" title="Ronds ou carrefours sans poteaux">}}
 	
+	
+{{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}	
+  	
+	
 ### 1— Croix Feu Bellemère 
 	(commune de Marigné Laillé) :        
 Croisement route forestière de Grammont / Ligne de Marigné à Lucé.
 	
 ### 2— Rond du Sault 
 	(commune de Marigné-Laillé) :   
-Croisement Route de la Chauvinière /Allée Verte.                                                                                                           
+Croisement Route de la Chauvinière /Allée Verte.  
+	
 ### 3— Carrefour du Pau 
 	(commune de Pruillé l’Éguillé) :   
 Croisement Ligne du Pau /Allée Verte    
@@ -394,18 +404,23 @@ Croisement Route de la Vallée Sermaize / Ligne de la Marchandière
 	
 ### 6— Rond Jousset 
 	(commune de Jupilles) :       
-Croisement CD13 / Ligne du Ronceray                                                                                                         
+Croisement CD13 / Ligne du Ronceray  
+	
 ### 7— Rond des Trembles 
-	(commune de Jupilles) :                                                                                                        Croisement route forestière des Trembles / Route de la Chauvinière.
+	(commune de Jupilles) :     
+Croisement route forestière des Trembles / Route de la Chauvinière.
 	
 ### 8— Carrefour des Vieux Fours ou des Vieux Puits 
 	(commune de Saint Vincent du Lorouër) :                                                                                       
-Croisement route forestière des Renardières au Pressoir / Ligne des Vieux Puits.                                                                                     
+Croisement route forestière des Renardières au Pressoir / Ligne des Vieux Puits. 
+	
 ### 9— Croix de la Huberdière 
 	(commune de Jupilles) :    
-Croisement du CD137 / Chemin de l’Enfumeraie                                                                                                            
+Croisement du CD137 / Chemin de l’Enfumeraie  
+	
 ### 10— Carrefour de la Jument Blanche 
-	(commune de Saint Vincent du Lorouër) :                                                                                        Croisement de la route basse de l’Hermitière / route forestière de la Jument Blanche.
+	(commune de Saint Vincent du Lorouër) : 
+Croisement de la route basse de l’Hermitière / route forestière de la Jument Blanche.
 	
 ### 11— Rond de Croix Gorgeas 
 	(commune de Thoiré sur Dinan) :                                                                                               
@@ -413,16 +428,19 @@ Croisement de la ligne de Croix Veneur / Allée de la Vallée des Pierres.
 	
 ### 12— Croix de la Butte  
 	(commune de Saint-Pierre du Lorouër) : 
-Croisement  de la route forestière de la Vallée des Pierres / Route forestière de la Vallée Noire                                                                                                          
+Croisement  de la route forestière de la Vallée des Pierres / Route forestière de la Vallée Noire 
+	
 ### 13— Carrefour de l’École forestière de Nancy 
 	(commune de Thoiré sur Dinan) :                                                                                               
 Croisement de l’allée Verte / Ligne de Croix Veneur.
 	
 ### 14— Carrefour de Croix Segrier  
 	(commune de Beaumont Pied de Bœuf) :   
-Croisement ligne de Croix-Segrier /  D216.                                                                                                             
+Croisement ligne de Croix-Segrier /  D216.  
+	
 ### 15— Carrefour des Profonds-Vaux 
 	(commune de Beaumont Pied de Bœuf) :                                                                                           
 Croisement de la route forestière des Profonds Vaux / Ligne et route de la Maison forestière
 
-
+{{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}	
+  
