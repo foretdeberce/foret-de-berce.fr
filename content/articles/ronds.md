@@ -248,11 +248,7 @@ Depuis 1995 une Croix forestière haute de quatre mètres
     giratoire de Saint-Hubert, met en valeur l'une des 
     particularités de la Forêt Domaniale de Bercé.
 	
-Vingt sept des 70 carrefours de Bercé possèdent ainsi encore aujourd'hui 
-  leur poteau, dont 1/3 a été dupliqué en 1998 par la fonderie Renaudin à Masle (Orne).
- 
- {{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}
-	
+
 Vingt sept des 70 carrefours de Bercé possèdent ainsi encore aujourd'hui 
   leur poteau, dont 1/3 a été dupliqué en 1998 par la fonderie Renaudin à Masle (Orne).
  
