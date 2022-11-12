@@ -32,7 +32,6 @@ Cet établissement deviendra progressivement cette auberge renommée
   (située au dessus de la propriété de Saint-Hubert) 
   destiné à Pierre Boulay, marchand de bois.
   
-{{<figure src="/images/articles/28juin1934.jpg" title="Assemblée de Saint-Hubert 1934">}}
 
 ### 1900 :
   
@@ -197,4 +196,3 @@ La gérance passe la main, et désormais, avant de partir chasser à courre,
   et qui s’articule autour du  père : Jean Louis Hardouin, 
   président du GIC de Bercé (Groupement d'intérêt cynégétique).
   
-{{<figure src="/images/articles/75ans.jpg" title="juin 1955 – Série 6 parcelle D1 et D6 – P.S. âgés de 75 ans">}}
