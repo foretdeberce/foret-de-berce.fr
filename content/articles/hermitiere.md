@@ -3,7 +3,7 @@ title: "L'Hermitière"
 date: 2022-11-02T19:23:44+01:00
 draft: false
 description: "en forêt de Bercé "
-featured_image: "/images/ et.lavoir13.jpg"
+featured_image: "/images/et.1342.jpg"
 tags: ["Tourisme","Loisirs","Biodiversite","Eau","Hommes"]
 ---
 
