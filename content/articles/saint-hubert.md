@@ -115,8 +115,9 @@ Cet établissement deviendra progressivement cette auberge renommée
 
 ### 1927 :
   
- Le 14 janvier, un bail de 9 ans renouvelable est établi pour le même sujet
-  au nom de Rastoul Jean Eugène, Hôtelier (1877) et Hoesch Lina Augustine, 
+ Le 14 janvier, un bail de 9 ans renouvelable est établi pour l'ancienne concession Rouillard
+ sur la pointe sud de la parcelle 19 (30 ares) pour bancs et tables au nom 
+  de Rastoul Jean Eugène, Hôtelier (1877) et Hoesch Lina Augustine, 
   chef cuisinière (1875) qui viennent d’acheter les murs. Monsieur Rastoul 
   tout comme ses prédécesseurs, recevait souvent les élèves de l’ENEF.
   
