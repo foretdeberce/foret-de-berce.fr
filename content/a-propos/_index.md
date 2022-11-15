@@ -54,6 +54,8 @@ Et cela n’est pas près de finir !
  
 Au plus près de la forêt : 
   
+  Disponible à l'Âme du Cinq 72220 Écommoy
+  
   Disponible à Carnuta "Maison de l'Homme et de la Forêt" Jupilles 72500.
   
   Disponible également à Leclerc Montval-sur-Loir 72500 "Espace Culturel Loir et Bercé"
