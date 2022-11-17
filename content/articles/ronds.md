@@ -137,7 +137,11 @@ Tels le Guinier (1906), Bel-air (1923).
 	        on peut y voir le chêne à gui 
 	(grand chêne seul dans la parcelle 228 en bordure du CD 63)
 	
-
+Dès 1992 on prévoit de remettre les poteaux au milieux des ronds-points et l'on fait appel 
+	au savoir faire de l'entreprise Renaudin à Masle dans l'Orne.
+	Un poteau de Bercé participera à la forme du moule.
+	
+	{{<figure src="/images/articles/fondeurs.jpg" title="Les deux signatures.">}}
 
  Au fil du temps, ces ronds, fierté du massif de Bercé, vont, avec la circulation
   et le modernisme payer un lourd tribut.
@@ -147,7 +151,7 @@ Tels le Guinier (1906), Bel-air (1923).
 ### Le Rond de la croix : 
 	
 Pigault assiste à la pose du poteau indicateur du rond de la croix 
-  le 1er août 1924et constate le 21 février 1925 que les ouvriers 
+  le 1er août 1924 et constate le 21 février 1925 que les ouvriers 
   de Mr Avisse Henri (adjudicataire de la coupe)  "Article 40-1924"
   avaient brisé le poteau indicateur du rond-point de la Croix, 
   en abattant un arbre.
