@@ -141,7 +141,7 @@ Dès 1992 on prévoit de remettre les poteaux au milieux des ronds-points et l'o
 	au savoir faire de l'entreprise Renaudin à Masle dans l'Orne.
 	Un poteau de Bercé participera à la forme du moule.
 	
-	{{<figure src="/images/articles/fondeurs.jpg" title="Les deux signatures.">}}
+{{<figure src="/images/articles/fondeurs.jpg" title="Signatures des deux fondeurs.">}}
 
  Au fil du temps, ces ronds, fierté du massif de Bercé, vont, avec la circulation
   et le modernisme payer un lourd tribut.
