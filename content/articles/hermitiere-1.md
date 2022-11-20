@@ -2,7 +2,7 @@
 title: "Sources de l’Hermitière - 1"
 date: 2022-11-20T06:23:44+01:00
 draft: false
-description: "Le Vallon"
+description: "Historique du Vallon"
 featured_image: "/images/et.514sources.jpg"
 tags: ["Tourisme","Fontaines","Sources","Eau","Hommes"]
 ---
