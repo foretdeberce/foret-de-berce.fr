@@ -121,7 +121,8 @@ Les plans d’eau servaient de lavoirs qui étaient régulièrement utilisés pa
   
 ### 1936 : 
   
-• On chante « A l’Hermitière », chanson écrite par Jean Jousse en 1936
+• On chante « A l’Hermitière », chanson écrite par Jean Jousse en 1936.
+à rechercher par vous-même ... les paroles de cette chanson.
 
  [1936, Chanson de Jean Jousse](/articles/pdf/chanson-a-l-hermitiere.pdf)
   
