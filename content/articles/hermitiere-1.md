@@ -254,7 +254,7 @@ Les acteurs reprendront ce nom de « L'Enfumeraie » pour leur salle de spectacl
   
 {{<figure src="/images/articles/puitshermitiere.jpg" title="Le puits des années 1960">}}
   
-{{<figure src="/images/articles/makyo.jpg" title="Celui des années 1980 croqué par Makyo">}}
+{{<figure src="/images/articles/makyo.jpg" title="Celui des années 1980 croqué par Makyo">}} 
 
 
 
