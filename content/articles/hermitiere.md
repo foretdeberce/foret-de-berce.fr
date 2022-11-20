@@ -14,7 +14,6 @@ intéressante pour l’histoire des  lieux qui nous est narrée par Pesche (1),
 en 1834 la parcelle de 27 ans semble alors baignée de lumière, 
 car le peuplement est du type gaulis : 6 m de haut.
 
-{{<figure src="/images/articles/wehermitiere.jpg" title="Petite vendeuse de drapeaux à l’Hermitière">}}
 
 ### En 1834,
   *une entrevue qui eut lieu, sous le motif d’une partie de chasse,
@@ -40,6 +39,9 @@ car le peuplement est du type gaulis : 6 m de haut.
   (1) Julien Remy Pesche : Dictionnaire topographique, 
   historique et statistique du Département de la Sarthe (1829 – 1842) 
   en  6 volumes, pages 652 – 653
+  
+{{<figure src="/images/articles/134cotehermitiere.jpg" title="La côte de l’Hermitière">}}
+ 
   
 {{<figure src="/images/articles/840001jumentblanche.jpg" title="L’arrivée aux sources">}}
   
@@ -67,8 +69,11 @@ Dès les premières cartes postales :
 ### En 1920
   
 Le Tourisme reste très développé à l’Hermitière et les promeneurs arrivent de partout
- avec leurs  vélos, leurs automobiles et leurs calèches. Sur place, 
-  ces dernières sont dételées de leurs chevaux (en général  1 par véhicule)  
+ avec leurs  vélos, leurs automobiles et leurs calèches.
+	
+{{<figure src="/images/articles/wehermitiere.jpg" title="Petite vendeuse de drapeaux à l’Hermitière">}}
+
+Sur place, ces dernières sont dételées de leurs chevaux (en général  1 par véhicule)  
   et ceux-ci sont attachés à des poteaux en bordure de ruisseau, 
   afin qu’ils puissent s’y désaltérer (Les chevaux ont en effet cette 
   fâcheuse manie de grignoter l’écorce des arbres, après lesquels ils sont attachés). 
