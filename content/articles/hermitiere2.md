@@ -122,7 +122,7 @@ Témoignage en juillet 1997 d’Alice Georgette Tebbiche (née Douay)
   (l’amie d' Alice) et trois cyclistes de passage ...........
 Manque sur la photo, Roger Vaillant (Serveur habitant la Maison Bleue  à St Vincent).*
 
-      Durant deux saisons elle participe activement au développement de l’affaire familiale.
+      Durant deux saisons elle participe activement au développement de l’affaire familiale. 
       Installée à son banc sous l’abri de tôles, elle y vend quantité d’objets, tels que :
       des cartes postales, des turlututus, des Chapeaux en papier ou des tourniquets,
       mais elle a surtout la responsabilité de faire fonctionner le phonographe 
