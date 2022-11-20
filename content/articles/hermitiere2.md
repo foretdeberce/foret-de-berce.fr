@@ -50,7 +50,7 @@ Dimanche 8 h30 du matin, parti de Montreuil ce matin, je suis de ce moment
   Affectueux baisers, votre fils ; c’est splendide !!! 
   Signé : Gaston
   
-{{<figure src="/images/articles/binet1.jpg" title="location du terrain Maris au dessus des sources">}}
+{{<figure src="/images/articles/binet1.jpg" title="Location du terrain Maris au dessus des sources">}}
 
 {{<figure src="/images/articles/binet2.jpg" title="Chez Binet le 28 avril 1915">}}
 
@@ -135,7 +135,7 @@ Manque sur la photo, Roger Vaillant (Serveur habitant la Maison Bleue  à St Vin
       à côté du phono, il y a le stand de tir, tenu par Maurice Douay,  
       l’oncle de la petite Alice.
 
-{{<figure src="/images/articles/chezdouaystvincent.jpg" title="La famille  Douay dans le terrain Maris vu vers St Vincent">}}
+{{<figure src="/images/articles/chezdouaystvincent.jpg" title="La famille Douay dans le terrain Maris direction St Vincent">}}
 
 
 Ces deux années, avec des voitures et des tables partout installées en sous-bois, 
@@ -156,7 +156,7 @@ Hélas toutes bonnes choses ont une fin, et recalée au certificat d’études,
   Si l’ Hermitière marchait dur à la belle saison, il fallait aussi  nourrir
   tout ce petit monde là le reste de l’année, en morte saison.
 
-{{<figure src="/images/articles/hermitierecharlot.jpg" title="L’âne Chatlot et son cavalier venant de St Vincent">}}
+{{<figure src="/images/articles/hermitierecharlot.jpg" title="L’âne Charlot et son cavalier venant de St Vincent">}}
 
 
 Madame Alice Douay (mère) multipliait en  saison et en semaine, 
@@ -292,7 +292,7 @@ La famille Allaire décide d’arrêter le bal en 1970 et ouvre le restaurant,
   Tout l’été, à la place, en bordure de forêt,
   un manège tournait aux accents de « l’Aventura » de « Stone et Charden ».
 
-{{<figure src="/images/articles/exploitantforestiersarthois.jpg" Exploitants forestiers Sarthois à L’Hermitière">}}
+{{<figure src="/images/articles/exploitantforestiersarthois.jpg title="Exploitants forestiers Sarthois à L’Hermitière">}}
 
 Ils regrettent aujourd’hui, cette décision : « C’était l’ bon temps ... » 
 
