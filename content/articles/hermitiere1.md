@@ -198,7 +198,7 @@ Le dimanche 25 juin : 1500 voitures recensées et le 15 août 1962, comptage de 
   emplacements pour les voitures aux Sources.
   
 Quelques ouvriers travaillaient le samedi, tels Leroux et Chevereau
-  qui fermaient les barrières. Émile HERPIN de rajouter en voisin fin connaisseur : 
+  qui fermaient les barrières. Émile Herpin de rajouter en voisin fin connaisseur : 
 	
 *Les petits plaisirs de certains le dimanche : c’était les amoureux en forêt.. 
   On n’était pas plus bêtes que d’autres, on savait ce qu’on avait entre les jambes
