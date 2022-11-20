@@ -24,7 +24,7 @@ car le peuplement est du type gaulis : 6 m de haut.
   Pour recevoir ces deux Magistrats, la Musique de la Garde nationale de 
   Château-du-Loir et un bon nombre de chasseurs et de curieux se rendirent sur ce point.*
   
-	*La beauté du lieu, son site pittoresque, l’agrément que procura cette réunion, 
+*La beauté du lieu, son site pittoresque, l’agrément que procura cette réunion, 
   ont donné l’idée de la renouveler périodiquement : chaque année, l’affluence de 
   personnes de toutes les classes, des deux départements, de la Sarthe et de 
   l’Indre et Loire y accourt  d’une assez grande distance et s’élève jusqu’à
@@ -79,20 +79,27 @@ Sur place, ces dernières sont dételées de leurs chevaux (en général  1 par 
   fâcheuse manie de grignoter l’écorce des arbres, après lesquels ils sont attachés). 
 Le garde Benoît, le 28 mai 1922 (dimanche de Pentecôte) nous relate sa journée :
   
-* Visité les abords des Sources de l’Hermitière, pour prévenir les promeneurs de 
-  (respecter : mot rayé dans le texte) ne pas toucher aux arbres et d’attacher leurs chevaux aux endroits désignés.* 
+*Visité les abords des Sources de l’Hermitière, pour prévenir 
+les promeneurs de (respecter : mot rayé dans le texte) 
+ne pas toucher aux arbres et d’attacher leurs chevaux aux endroits désignés.* 
   
 {{<figure src="/images/articles/paysages157.jpg" title="A cheval jusqu’aux sources">}}
   
 ### Thérèse Common née Bignon de Pruillé se souvient :
   
-*Des tables étaient creusées à même le sol, dont les bancs étaient en fait une 
-  tranchée ovale ou circulaire, permettant la position assise, telle que nous le montre
-  ces deux cartes postales du début du siècle. Celles ci se situaient à proximité des sources, 
-  en hauteur, pour jouir au maximum du spectacle des autres et de la fraîcheur du coin. 
-  Après guerre, cela a décliné – A l’Hermitière on allait à travers la forêt sauf quand 
-  on avait un vélo. 
-  Les gens venaient de très loin en calèche ou à vélo pour s’amuser et se distraire. 
+     Des tables étaient creusées à même le sol,
+     dont les bancs étaient en fait une tranchée
+     ovale ou circulaire, permettant la position 
+     assise. Elles ci se situaient à proximité 
+     des sources, en hauteur, pour jouir au maximum
+     du spectacle des autres et de la fraîcheur du coin. 
+	
+     Après guerre, la fréquentation a décliné – 
+     A l’Hermitière on allait à travers la forêt 
+     sauf quand on avait un vélo. 
+	
+     Les gens venaient de très loin en calèche 
+     ou à vélo pour s’amuser et se distraire. 
   
 {{<figure src="/images/articles/tablehermitiere2.jpg" title="Un tourisme respectueux des lieux">}}
   
@@ -164,13 +171,18 @@ La délimitation de cette partie artistique aux confins de la Boulaie,
 Le 15 août : comptage de 1500 voitures à l’Hermitière.
   
 * Jusque vers 1960 c’est trois parquets que nous pouvions pratiquer :
+	
   Un, au bord de l’Étang, 
+	
   un au milieu des sources,
+	
   un au bord de la route vers Jupilles.* 
   
 {{<figure src="/images/articles/hermitierefoule1.jpg" title="juin 1911">}}
   
-Les cafetiers désaltéraient les couples de danseurs. Ces bals champêtres sont aujourd’hui 
+Les cafetiers désaltéraient les couples de danseurs.
+
+Ces bals champêtres sont aujourd’hui 
   le point de départ et la base de bien des familles du Canton. 
   
 *Pendant la guerre, le bal se fait un peu oublier renaissant avec Thévenot. 
@@ -187,6 +199,7 @@ Le dimanche 25 juin : 1500 voitures recensées et le 15 août 1962, comptage de 
   
 Quelques ouvriers travaillaient le samedi, tels Leroux et Chevereau
   qui fermaient les barrières. Émile HERPIN de rajouter en voisin fin connaisseur : 
+	
 *Les petits plaisirs de certains le dimanche : c’était les amoureux en forêt.. 
   On n’était pas plus bêtes que d’autres, on savait ce qu’on avait entre les jambes
   et à quoi cela servait*. 
@@ -199,7 +212,7 @@ Malgré, la pose de plaquettes d’interdiction de stationner dans les allées
   aux alentours des Sources, et la pose de tracts sur les voitures
   à l’intérieur du Massif, les véhicules squattent la moindre place disponible.
   
-	Les jours d’affluence (15 Août et autres fêtes) le service forestier sollicite 
+Les jours d’affluence (15 Août et autres fêtes) le service forestier sollicite 
   la présence de la Brigade de Gendarmerie du Grand Lucé. Les jours d’affluence 
   des visiteurs, il est fabriqué et posé des pancartes
   «Sens obligatoire et Circulation réglementée». 
@@ -210,20 +223,21 @@ Malgré, la pose de plaquettes d’interdiction de stationner dans les allées
 
 	 
 
-	## Le Théâtre de verdure : 
+## Le Théâtre de verdure : 
+	
 Autre  centre d’intérêt ou d’attraction, situé dans le fin haut de cette vallée de l’Hermitière, 
   sur la commune de Jupilles, au lieu-dit l'Enfumeraie, canton de Croix-Chambault, au confluent 
   de trois ruisseaux  qui gonflent en cet endroit en cas de pluie, dont le ruisseau des Haies : 
   
   «C’est le Théâtre de Verdure».
   
-	Etabli en ce lieu dégagé, profitant d’une ancienne carrière d’extraction de matériaux 
+Etabli en ce lieu dégagé, profitant d’une ancienne carrière d’extraction de matériaux 
   et d’un cirque naturel, le théâtre de verdure est situé à la limite des Parcelles 
   188 et 203 dans la parcelle 203. 
 
 C’est en ce lieu que poussent actuellement les plus hauts chênes connus de France (50m).
   
-	Des représentations y étaient données régulièrement l’après-midi sous l’œil vigilant 
+Des représentations y étaient données régulièrement l’après-midi sous l’œil vigilant 
   des Forestiers, comme en témoigne les surveillances en cet endroit du samedi 27 mai 1923,
   dimanche 24 août 1924, mercredi 19 juillet 1925 (lors de la fête de l’Hermitière) 
   et du dimanche 20 juin 1926.
