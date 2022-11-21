@@ -271,3 +271,44 @@ Célèbre par sa réclame sur carte postale : Visitez les Sources de l’Hermiti
 Le 26 novembre 1935, les forestiers délimitent en Brigade les nouvelles 
   concessions de l’Hermitière – mesurage des emplacements à louer.
 
+     LA CHAUVINIÈRE
+
+     Rendez-vous champêtre en Forêt de Jupilles (Sarthe)
+
+     A M. le docteur Bourdy.
+
+     Le plaisir ici rassemble
+     Des amis et des amants,
+     Qui n'y peuvent être ensemble
+     Assez tôt ni trop longtemps.
+
+     Sans cesse on entend les filles
+     Dire : « Ces lieux sont charmants ;
+     Dans la forêt de Jupilles
+     On n'est jamais trop longtemps. »
+
+     Mille oiseaux sous ses ombrages
+     Redisent par leurs doux chants :
+     « Peut-on être en ces bocages
+     Assez tôt ni trop longtemps ? »
+
+     La propriétaire affable
+     Abonde en vins excellents :
+     On ne peut être à sa table
+     Assez tôt ni trop longtemps.
+
+     La bonne aimable et gentille
+     Sait plaire à tous les clients :
+     Jamais elle ne babille
+     Ni trop tôt ni trop longtemps.
+
+     On ne connaît point de gîte
+     Aussi bon à tout égard :
+     On n'y peut venir trop vite,
+     Ni s'en retourner trop tard. 
+
+     Fernand de Jupilles, 
+     - Échos de ma forêt, chansons, 
+     préface de Jules de Marthold 
+     - 1902 monographies– 
+     http://gallica.bnf.fr
