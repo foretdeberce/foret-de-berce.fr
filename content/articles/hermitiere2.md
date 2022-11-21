@@ -369,6 +369,7 @@ Après avoir ouvert des chambres d’hôtes, l’auberge fermera définitivement
 Le droit de passage est supprimé, désorganisant cette entrée si prisée en forêt.
 
 {{<figure src="/images/articles/hermitiere17.jpg" title="La grande salle et le fameux poirrier">}}
+	
 
 
 
