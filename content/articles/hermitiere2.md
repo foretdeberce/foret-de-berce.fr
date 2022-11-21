@@ -7,7 +7,6 @@ featured_image: "/images/et.etablissementsprives.jpg"
 tags: ["Tourisme","Fontaines","Sources","Eau","Hommes"]
 ---
 
-
 ### Les propriétaires ou locataires cafetiers établis en périmètre:
 
 Impossible de vendre quoique ce soit en forêt domaniale sans passer par la case 
@@ -157,10 +156,10 @@ Hélas toutes bonnes choses ont une fin, et recalée au certificat d’études,
   Si l’ Hermitière marchait dur à la belle saison, il fallait aussi  nourrir
   tout ce petit monde là le reste de l’année, en morte saison.
 
-{{<figure src="/images/articles/hermitierecharlot.jpg" title="L’âne Charlot et son cavalier venant de St Vincent">}}
+{{<figure src="/images/articles/hermitierecharlot.jpg" title="L’âne Charlot et son cavalier arrivant de St Vincent">}}
 
 
-Madame Alice Douay (mère) multipliait en  saison et en semaine, 
+Madame Alice Douay (mère) multipliait en saison et en semaine, 
   les allées et venues à l’Hermitière pour y ouvrir sa guinguette, 
   et ceci en vélo  par un chemin plus que chaotique.
   Le matériel était rentré tous les soirs dans la cave encore
@@ -169,11 +168,11 @@ Madame Alice Douay (mère) multipliait en  saison et en semaine,
   ramassés. Il ne tolérait aucun détritus... ...  
   et les Forestiers ... non plus.
 
-Plus tard, à la suite d’une  faillite due à l’indélicatesse d’un créancier,
+Plus tard, à la suite d’une faillite due à l’indélicatesse d’un créancier,
   la famille Douay s’expatrie de Saint-Vincent après le mariage de Denise, 
   en 1933. Là Charles entreprend un apprentissage de cordonnerie qui le
   mènera successivement à Nantes puis à Angers où il finira comme
-  Directeur de l’atelier de ressemelage  «Trouvé».	
+  Directeur de l’atelier de ressemelage «Trouvé».	
   Faisant  état, à qui voulait bien l’entendre, de ses positions politiques 
   marquées à gauche, il reçut, un jour de l’année 1938, alors qu’il était 
   en visite à Saint–Vincent, un mauvais coup à l’estomac, porté sournoisement
@@ -181,10 +180,10 @@ Plus tard, à la suite d’une  faillite due à l’indélicatesse d’un créan
   jamais le nom.
   
 Ce coup durement asséné, affecta longtemps sa santé et son moral.
-Réquisitionné par les Allemands  pour réparer les bottes 
-  (à semelles cloutées) Charles Douay n’accepta jamais le fait 
-  d’avoir été traité de collaborateur, par certains qui avaient 
-  sûrement tout à  lui  envier  de sa droiture et de son rôle social.
+Réquisitionné par les Allemands  pour réparer les bottes
+(à semelles cloutées) Charles Douay n’accepta jamais le fait 
+d’avoir été traité de collaborateur, par certains qui avaient 
+sûrement tout à  lui  envier  de sa droiture et de son rôle social.
   
 Il décédera après des années de souffrances du coup qu’il avait reçu à Saint-Vincent 
   
