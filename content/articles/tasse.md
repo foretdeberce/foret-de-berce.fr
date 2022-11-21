@@ -73,6 +73,14 @@ Le fils GENDRE épouse le 9 juin 1969 la fille de Georges MORANCAIS, ancien ouvr
   
 Mais la proximité de plus en plus bruyante de la nationale 138
   fera fuir les forestiers vers l’intérieur du bois. 
+     
+       Le dernier à l'avoir habitée débarqua en 1983
+       des hautes Pyrénées avec son voilier !
+       Bien vite il sentit que les fumées de  
+       gas-oil allaient vite prendre l’ascendant 
+       sur l’air marin venu de l’Ouest. 
+       Il déménagera en 1984 au poste des Renardières.
+
   Depuis l’agrandissement du rond point, elle n’a fait 
   que se rapprocher d’une voie de circulation 
   de plus en plus passante et chargée en pollution. 
