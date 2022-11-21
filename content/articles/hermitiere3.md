@@ -6,8 +6,6 @@ description: "Les concessions marchandes"
 featured_image: "/images/et.concessionnaires2.jpg"
 tags: ["Tourisme","Fontaine","Sources","Eau","Hommes"]
 ---
-
-
 De 1900 à 1950, les concessionnaires de "boissons hygiéniques" se bousculent aux sources.
 En 1925, tout n'est pas rose dans la surveillance des concessions en cours; 
 Certains concessionnaires nettoient mal leurs emplacements et le service forestier grimace.
