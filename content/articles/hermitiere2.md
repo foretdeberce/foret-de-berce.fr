@@ -292,7 +292,7 @@ La famille Allaire décide d’arrêter le bal en 1970 et ouvre le restaurant,
   Tout l’été, à la place, en bordure de forêt,
   un manège tournait aux accents de « l’Aventura » de « Stone et Charden ».
 
-{{<figure src="/images/articles/exploitantforestiersarthois.jpg title="Exploitants forestiers Sarthois à L’Hermitière">}}
+{{<figure src="/images/articles/exploitantforestiersarthois.jpg" title="Exploitants forestiers Sarthois à L’Hermitière">}}
 
 Ils regrettent aujourd’hui, cette décision : « C’était l’ bon temps ... » 
 
