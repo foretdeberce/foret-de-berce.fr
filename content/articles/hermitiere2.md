@@ -189,7 +189,7 @@ Il décédera après des années de souffrances du coup qu’il avait reçu à S
   
 (Témoignage reçu en juillet 1997 d’Alice Georgette Tebbiche née Douay)
 
-{{<figure src="/images/articles/alicedouaytebbiche071997.jpg" title="Alice - juillet 1997">}}
+{{<figure src="/images/articles/alicedouay.jpg" title="Alice - juillet 1997">}}
 
 
 Toute histoire, si triste soit–elle, a une fin.........
