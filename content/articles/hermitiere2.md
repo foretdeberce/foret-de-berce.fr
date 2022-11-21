@@ -260,7 +260,7 @@ Le 15 août, il y avait tellement de monde que les forestiers venaient,
   Un sens giratoire (tel qu’il est actuellement) y était mis en place.
 Bref, l’endroit était sympathique, gai et le vin … bon ! 
 
-{{<figure src="/images/articles/hermitiere20.jpg" title="L’entrée de cave et le bar">}}
+{{<figure src="/images/articles/hermitiere250.jpg" title="L’entrée de cave et le bar">}}
 
 {{<figure src="/images/articles/hermitiere21.jpg" title="vue vers les sources">}}
 
