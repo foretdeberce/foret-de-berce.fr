@@ -189,7 +189,7 @@ Il décédera après des années de souffrances du coup qu’il avait reçu à S
   
 (Témoignage reçu en juillet 1997 d’Alice Georgette Tebbiche née Douay)
 
-{{<figure src="/images/articles/alicedouaytebbiche0719997.jpg" title="Alice en juillet 1997">}}
+{{<figure src="/images/articles/alicedouaytebbiche071997.jpg" title="Alice en juillet 1997">}}
 
 
 Toute histoire, si triste soit–elle, a une fin.........
@@ -292,7 +292,7 @@ La famille Allaire décide d’arrêter le bal en 1970 et ouvre le restaurant,
   Tout l’été, à la place, en bordure de forêt,
   un manège tournait aux accents de « l’Aventura » de « Stone et Charden ».
 
-{{<figure src="/images/articles/exploitantforestiersarthois.jpg" title="Exploitants forestiers Sarthois à L’Hermitière">}}
+{{<figure src="/images/articles/exploitantforestiersarthois.jpg title="Exploitants forestiers Sarthois à L’Hermitière">}}
 
 Ils regrettent aujourd’hui, cette décision : « C’était l’ bon temps ... » 
 
@@ -335,7 +335,7 @@ De Neufchâtel-en-Saosnois où il est né à Saint-Vincent-du Lorouër où il s�
 
 1984, la visite de la reine mère n’escamote pas pour autant celles, plus discrètes, 
   de personnages tout aussi hauts en couleurs : Jean-Pierre Marielle, naturel comme à l’écran, 
-  Jean CARMET, sortant du film Eugénie Grandet et la Mancelle Béatrice Dalle.
+  Jean Carmet, sortant du film Eugénie Grandet et la Mancelle Béatrice Dalle.
   
   À l’auberge, fort nombreuses sont les personnalités qui viennent incognito 
   chercher fraîcheur, délices et nature. 
