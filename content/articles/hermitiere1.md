@@ -118,7 +118,7 @@ Les plans d’eau servaient de lavoirs qui étaient régulièrement utilisés pa
  habitants de Jupilles et de Saint-Vincent (voir la page dédiée aux lavoirs)
 	Les enfants fréquentaient avec assiduité les sources.
 	
-{{<figure src="/images/articles/oueste19260921.jpg" title="La garderie du Mans aux sources">}}
+{{<figure src="/images/articles/oueste19260921.jpg" title="1926 - La garderie du Mans aux sources">}}
   	
   
 {{<figure src="/images/articles/dimanchehermitiere.jpg" title="L’attraction des  Sources">}}
