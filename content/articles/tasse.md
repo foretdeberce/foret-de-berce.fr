@@ -79,7 +79,7 @@ Mais la proximité de plus en plus bruyante de la nationale 138
        Bien vite il sentit que les fumées de  
        gas-oil allaient vite prendre l’ascendant 
        sur l’air marin venu de l’Ouest. 
-       Il déménagera en 1984 au poste des Renardières.
+       Il déménagera en 1985 au poste des Renardières.
 
   Depuis l’agrandissement du rond point, elle n’a fait 
   que se rapprocher d’une voie de circulation 
