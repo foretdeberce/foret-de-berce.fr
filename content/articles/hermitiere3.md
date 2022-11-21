@@ -54,7 +54,7 @@ Les jours d’affluence, le service forestier sollicitait
   la présence de la brigade de gendarmerie du Grand Lucé.
 	
 
-### Café Bignon Georges. : 1923
+### Café Bignon Georges : 1923
   
 Georges Bignon tenaient l’Hôtel Saint-Jacques à Jupilles. 
 En 1923, Il obtient une licence à l’Hermitière pour un débit de boissons hygiéniques. 
@@ -99,7 +99,7 @@ L’incendie de la guinguette à Bignon (le 24 août 1926), Alice Douay,
   s’en souvient bien. Charles Douay avait transporté toute sa famille
   dans sa «Ford» à l’Hermitière, pour voir les débris de la cabane et du piano. 
 
-### Les mésaventures de Mr Bignon
+### Les mésaventures de Mr Bignon.
 
 Le Garde Guiomard rend compte de l’incendie à l’Hermitière en date du 24 Août 1926.
 	"Vers 23 h, venant de chez mon collègue Jouaux à qui j’avais porté de la part
@@ -109,7 +109,7 @@ Le Garde Guiomard rend compte de l’incendie à l’Hermitière en date du 24 A
   
   J’avançais rapidement vers elle et arrivais bientôt près des arbres et 
   baraques appartenant à Mr Bignon concessionnaire d’un terrain près des Sources.
-	Un incendie très violent, entourait entièrement un petit réduit monté sur
+Un incendie très violent, entourait entièrement un petit réduit monté sur
   pilotis où Mr Bignon abritait un piano automatique, des bancs, des tréteaux, 
   des verres et différents objets  et ustensiles nécessaires  à l’exploitation 
   de son commerce de vin. Je fouillais minutieusement le fossé du périmètre,
@@ -131,11 +131,11 @@ J’accompagnais à Jupilles le Brigadier Féliot, nous avons averti Mr Bignon q
   et les objets qui s’y trouvaient. Quelques personnes du village voisin  
   étaient accourues sur les lieux.
   
-	Nous avons à l’aide de seaux et de bassines, inondé le foyer de l’incendie qui était éteint
+Nous avons à l’aide de seaux et de bassines, inondé le foyer de l’incendie qui était éteint
   vers 3 heures du matin, le dommage causé à la Forêt est faible.  Deux arbres
   essence chêne  et un hêtre ont été noircis sur 3m50, le long de leurs troncs, 
   on peut craindre  qu’ils dépérissent ou même crèvent.
-	Je crois à la malveillance. J’avais passé vers 20h près des Sources où je n’avais 
+Je crois à la malveillance. J’avais passé vers 20h près des Sources où je n’avais 
   rien remarqué de suspect. Le sol autour de cet abri étant dépouillé de toute 
   végétation et très propre, une allumette ou cigarette allumée et jetée là,
   ne pouvait communiquer le feu à une baraque en planches.
@@ -213,7 +213,7 @@ Une partie de l’avant du châssis et de la carrosserie est fortement endommag�
   sur le terre-plein de l’Hermitière, à 1m50 de l’entrée de sa baraque. 
   Il n’y a aucun dégât causé à la Forêt. La Gendarmerie s’est déplacée le lendemain.
 
-{{<figure src="/images/articles/001restaurantbignon.jpg" title="Derrière Mr Bignon…son auto ">}}
+{{<figure src="/images/articles/001restaurantbignon.jpg" title="Derrière Mr Bignon…sa fameuse auto ">}}
 
 Le Dimanche 15 Avril  1933, Lasnier renouvelle à Mr Bignon l’ordre d’avoir à entretenir sa concession.
 24 février 1936 : Monsieur Bignon est sommé par le service forestier de parfaire son arrachage de souches.
@@ -268,6 +268,6 @@ Célèbre par sa réclame sur carte postale : Visitez les Sources de l’Hermiti
 
 ### En 1935 : Préparation des nouvelles concessions.
   
-	Le 26 novembre 1935, les forestiers délimitent en Brigade les nouvelles 
+Le 26 novembre 1935, les forestiers délimitent en Brigade les nouvelles 
   concessions de l’Hermitière – mesurage des emplacements à louer.
 
