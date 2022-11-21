@@ -36,7 +36,43 @@ idem en 1886.
  
 ## Février 1900 : 
  Après des gelées et une pluie abondante en février, dans la nuit du 13 au 14, survint un ouragan.
+ 
+### CYCLONE EN FORÊT
+A M. d’Estournelles de Constant
+Député de la Sarthe.
 
+Par l’un des souriants dimanches
+Ou l’on respire le printemps,
+Où les gais oiseaux concertants
+Gazouillent, volant par les branches,
+Tout à coup, enflammant les airs,
+Voici la foudre et les éclairs
+Sans arrêt sillonnant l’espace :
+C’est le noir cyclone qui passe !
+
+On croit sentir trembler la terre
+Et le vent souffle en tourbillon,
+Traçant un effrayant sillon.
+Semblant vomis par un cratère,
+Les plus gros chênes, les aînés,
+Volent dans l’air, déracinés ;
+La tempête à rien ne fait grâce :
+C’est le noir cyclone qui passe !
+
+Parmi les hôtes séculaires
+De notre forêt de Bercé,
+Le cataclysme a renversé 
+Des arbres aimés, populaires,
+Et la nature en sa fureur
+A partout jeté la terreur,
+Sur les buissons faisant main basse :
+C’est le noir cyclone qui passe !
+
+Fernand de Jupilles,  - Échos de ma forêt, 
+chansons, préface de Jules de Marthold - 1902 
+monographies– http://gallica.bnf.fr
+
+ 
 ## 1907 :
  *«Remplacé 300 ardoises aux Clos après le coup de chablis du printemps.»*
 
