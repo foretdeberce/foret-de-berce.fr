@@ -61,3 +61,12 @@ Quittant le nord Sarthe, André son fils occupera le poste des Renardières, en 
 Ses fils : Jean (le plus jeune) et Roland seront aussi forestiers. 
 Jean terminera sa carrière comme chef de district sur Bercé ouest à la M.F. des Forges.
 Roland fera quant à lui carrière en forêt d’Orléans. 
+     
+     
+Les Bretons Guillaume Le Reste et Jean Manac'h passèrent aussi dans cette maison
+c'est Jean Manac'h qui assura la rénovation des Renardières.
+     
+       Éric Rocher l'occupera le temps de la rénovation
+       des Boussions avant l'arrivée de Patrice
+       Chagnoleau qui y résidera de 1985 à 2015.
+     
