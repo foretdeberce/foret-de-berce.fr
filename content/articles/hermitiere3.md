@@ -312,3 +312,5 @@ Le 26 novembre 1935, les forestiers délimitent en Brigade les nouvelles
      préface de Jules de Marthold 
      - 1902 monographies– 
      http://gallica.bnf.fr
+	
+{{<figure src="/images/articles/hermitieremmelisson.jpg" title="Vue d'artiste">}}	
