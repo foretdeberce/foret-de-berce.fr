@@ -38,7 +38,13 @@ Roger Blais  - La Forêt (P.U.F. 1947).
      Foyer d’humanité dans cet enfer vert,
      elles apportent à l’homme, chaleur, 
      couvert et sécurité –
-     Rappelons  que Bercé ne fut percé qu’en 1783 -  
+     Rappelons  que Bercé ne fut percé qu’en 1783 -
+     
+*Les fendeurs, les boîtier et les bûcherons de la forêt de Bersay (Sarthe), ont
+l'habitude d'allumer du feu près de leurs ateliers, même en été. 
+Ils prétendent que ce feu leur tient compagnie; peit-être est-ce un souvenir
+des temps où il fallait écarter les fauves avec des brasiers.*
+(Paul Sébillot - Ed. Flammarion)
 
 {{<figure src="/images/articles/1habitatrustique.jpg" title="Habitat rustique sur Bercé">}}
 
