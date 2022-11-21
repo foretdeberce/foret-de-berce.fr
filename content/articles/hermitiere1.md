@@ -16,7 +16,7 @@ car le peuplement est du type gaulis : 6 m de haut.
 
 
 ### En 1834,
-  *une entrevue qui eut lieu, sous le motif d’une partie de chasse,
+ *une entrevue qui eut lieu, sous le motif d’une partie de chasse,
   entre le Préfet de la Sarthe et le Sous-préfet de St.Calais, à l’entrée 
   de la Forêt de Bersay, près le vieux château des Etangs L’Archevêque, 
   ayant donné lieu,  aux ouvriers de la Forêt, de faire quelques dispositions,
@@ -219,12 +219,12 @@ Les jours d’affluence (15 Août et autres fêtes) le service forestier sollici
   «Sens obligatoire et Circulation réglementée». 
   Malgré les panneaux «Interdiction de pénétrer dans le Massif»,
   on n’arrive à peine à canaliser le flux incessant des véhicules.
-	Ainsi en est-on rendu à des situations extrêmes, comme par exemple :
+	
+Ainsi en est-on rendu à des situations extrêmes, comme par exemple :
   un forestier aidé de trois gendarmes pour endiguer cette invasion en 1964, de 10h à 20h.
-
 	 
 
-## Le Théâtre de verdure : 
+### Le Théâtre de verdure : 
 	
 Autre  centre d’intérêt ou d’attraction, situé dans le fin haut de cette vallée de l’Hermitière, 
   sur la commune de Jupilles, au lieu-dit l'Enfumeraie, canton de Croix-Chambault, au confluent 
