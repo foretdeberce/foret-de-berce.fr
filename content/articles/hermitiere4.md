@@ -1,9 +1,9 @@
 ---
 title: "L’Hermitière - 4"
-date: 2022-11-20T20:44:44+01:00
+date: 2022-11-21T09:44:44+01:00
 draft: false
 description: " Légende des souterrains de Bercé"
-featured_image: "/images/ et.trouermite.jpg"
+featured_image: "/images/et.trouermite.jpg"
 tags: ["Tourisme","Loisirs","Biodiversite","Eau","Hommes"]
 ---
 
