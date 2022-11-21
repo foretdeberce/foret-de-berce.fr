@@ -116,24 +116,26 @@ Témoignage en juillet 1997 d’Alice Georgette Tebbiche (née Douay)
   
   {{<figure src="/images/articles/cafedouay5.jpg" title="Les Douay dans le terrain des Maris-Lecomte">}}
 
-*de gauche à droite sur la photo :  Mr. Rouvre (du Grand–Lucé) – Charles Douay - Mr. X xxx 
-(du Grand–Lucé - Maurice Douay (l’Oncle) - Mr. Nourry  (Serveur, Bois-Neuf à St. Vincent)
-- Mme Bellande (Serveuse à  St Vincent) – Mme Alice Douay -  Alice (sa fille) et Thérèse Bignon
-(l’amie d' Alice) et trois cyclistes de passage ...........
-Manque sur la photo, Roger Vaillant (Serveur habitant la Maison Bleue  à St Vincent).*
+       de gauche à droite sur la photo :  Mr. Rouvre (du Grand–Lucé).
+       Charles Douay - Mr. X xxx (du Grand–Lucé). Maurice Douay (l’Oncle) 
+       Mr. Nourry  (Serveur, Bois-Neuf à St. Vincent). Mme Bellande 
+       (Serveuse à  St Vincent) – Mme Alice Douay -  Alice (sa fille) 
+       et Thérèse Bignon (l’amie d' Alice) et trois cyclistes de passage.
+       Manque sur la photo, Roger Vaillant 
+       (Serveur habitant la Maison Bleue  à St Vincent).
 
-       Durant deux saisons elle participe activement au développement de l’affaire familiale. 
-       Installée à son banc sous l’abri de tôles, elle y vend quantité d’objets, tels que :
-       des cartes postales, des turlututus, des Chapeaux en papier ou des tourniquets,
-       mais elle a surtout la responsabilité de faire fonctionner le phonographe 
-       afin que d’éventuels danseurs s’exhibent  sur la piste.
+Durant deux saisons elle participe activement au développement de l’affaire familiale. 
+Installée à son banc sous l’abri de tôles, elle y vend quantité d’objets, tels que :
+des cartes postales, des turlututus, des Chapeaux en papier ou des tourniquets,
+mais elle a surtout la responsabilité de faire fonctionner le phonographe 
+afin que d’éventuels danseurs s’exhibent  sur la piste.
   
-       Les jours de fête, y vient un orchestre et c’est Roger Vaillant 
-       (qui habitait la maison bleue à Saint-Vincent) qui tamponne les 
-       danseurs à l’entrée.
-       Les autres jours la danse est gratuite. En bout de banc, 
-       à côté du phono, il y a le stand de tir, tenu par Maurice Douay,  
-       l’oncle de la petite Alice.
+Les jours de fête, y vient un orchestre et c’est Roger Vaillant 
+(qui habitait la maison bleue à Saint-Vincent) qui tamponne les
+danseurs à l’entrée.
+Les autres jours la danse est gratuite. En bout de banc,
+à côté du phono, il y a le stand de tir, tenu par Maurice Douay,
+l’oncle de la petite Alice.
 
 {{<figure src="/images/articles/chezdouaystvincent.jpg" title="La famille Douay dans le terrain Maris direction St Vincent">}}
 
