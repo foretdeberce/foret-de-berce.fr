@@ -14,7 +14,7 @@ ceci dans le but d’améliorer la sécurité) : en 1992 la chute
 d’une grosse branche écrase une R12 de collection en forêt,
 sur le parking des sources …en 96 le risque s’intensifie. 
 
-{{<figure src="/images/articles/01sylviculture.jpg" title="Coupe sanitaire de 1997">}}
+{{<figure src="/images/articles/01sylvicuture.jpg" title="Coupe sanitaire de 1997">}}
   
 {{<figure src="/images/articles/02sanitaire97.jpg" title="Point de vue vers l’auberge">}}
   
