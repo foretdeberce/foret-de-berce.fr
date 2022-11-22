@@ -121,6 +121,8 @@ C'est ainsi que le 9 mars 1944, vers 11 h 30, dénoncé par un agent à la solde
 M. Viney, alors inspecteur et ses collègues de travail, dont plusieurs sont présents 
   aujourd'hui, tentèrent, en vain, d'empêcher cette arrestation.
   
+  [Lettre de Viney à Madame Muriel](/articles/pdf/lettreviney19440309.pdf)
+  
 Ils le virent partir, encadré par deux membres de la Gestapo.
   
 Mme Letourneur se souvient même qu'il endossa alors un manteau neuf, 
@@ -143,12 +145,15 @@ Ces hommes et ces femmes devaient disparaître comme s'ils s'étaient évanouis
   
 Après l'internement à Fresnes, s'ensuivit pour les prisonniers de l'Alliance, 
   la détention dans les prisons du pays de Bade ou au camp de Schirmeck.
-
+  
+ 
  {{<figure src="/images/articles/image13.jpg" title="Photos anthropométrique du dossier Muriel">}}
 
 Georges Muriel s'y trouvait lui-même à la fin du mois d'août 1944 alors que l'avance 
   très rapide des Alliés laissait  augurer aux  détenus  qu'ils  pourraient  bientôt 
   tourner cette sombre page de l'Histoire. 
+  
+   [Lettre de R.Viney à Madame Muriel](/articles/pdf/lettreviney19451007.pdf)
   
 Mais, dans les nuits du 31 août et du 1er septembre 1944, renonçant à tout faux-semblant
   judiciaire, les nazis transfèrent les  prisonniers du  réseau, vers  le camp d'extermination
