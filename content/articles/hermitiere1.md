@@ -1,5 +1,5 @@
 ---
-title: "Sources de l’Hermitière - 1"
+title: "L’Hermitière - 1"
 date: 2022-11-20T06:23:44+01:00
 draft: false
 description: "Historique du Vallon"
@@ -28,17 +28,18 @@ car le peuplement est du type gaulis : 6 m de haut.
   ont donné l’idée de la renouveler périodiquement : chaque année, l’affluence de 
   personnes de toutes les classes, des deux départements, de la Sarthe et de 
   l’Indre et Loire y accourt  d’une assez grande distance et s’élève jusqu’à
-  8 et 10 mille âmes. On y mange assis sur la pelouse et sous le feuillage de 
+  8 et 10 mille âmes. 
+  On y mange assis sur la pelouse et sous le feuillage de 
   la Forêt, près de la Fontaine de l’Hermitière, aux eaux limpides, qui sert 
   à abreuver les chevaux des nombreux équipages qui s’y rencontrent ; 
   des musiciens des villes environnantes, de Château du Loir, de la Chartre, 
   de Saint-Christophe, de Tours même , y font danser , de sorte que cette 
   réunion est devenue la plus brillante assemblée du Pays, un véritable Longchamp.*
   
-  ### Références : 
-  (1) Julien Remy Pesche : Dictionnaire topographique, 
-  historique et statistique du Département de la Sarthe (1829 – 1842) 
-  en  6 volumes, pages 652 – 653
+       ### Références : 
+       (1) Julien Remy Pesche : Dictionnaire topographique, 
+        historique et statistique du Département de la Sarthe (1829 – 1842) 
+        en  6 volumes, pages 652 – 653
   
 {{<figure src="/images/articles/134cotehermitiere.jpg" title="La côte de l’Hermitière">}}
  
