@@ -84,6 +84,9 @@ Guillaume COUSSEAU - Yves DUCOS (Revue Forestière  Fr. LV - 4-2003)
 
 Les problèmes accumulés par le vallon de l’Hermitière 
   au fil des ans sont multiples.
+  
+{{<figure src="/images/articles/chene50m.jpg" title="Chêne de 50m (point blanc)">}}   
+  
 Un vallon humide, une situation de pente, un court si il pleut
   qui déborde facilement, le déséquilibre des essences,
   la présence des plus hauts arbres du monde (50m) ! 
