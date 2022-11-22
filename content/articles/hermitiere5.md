@@ -1,6 +1,6 @@
 ---
 title: "L’Hermitière - 5"
-date: 2022-11-02T19:23:44+01:00
+date: 2022-11-22T09:23:44+01:00
 draft: false
 description: "devenir paysager "
 featured_image: "/images/et.hermitiere5.jpg"
@@ -16,7 +16,7 @@ sur le parking des sources …en 96 le risque s’intensifie.
 
 {{<figure src="/images/articles/01sylviculture.jpg" title="Coupe sanitaire de 1997">}}
   
-{{<figure src="/images/articles/02sanitaire97.jpg" title="vue vers l’auberge">}}
+{{<figure src="/images/articles/02sanitaire97.jpg" title="Point de vue vers l’auberge">}}
   
 Mise en place de piquets traités, anti-pénétration  et de nouveaux panneaux 
   d’informations : 
@@ -75,6 +75,7 @@ Une autre parcelle, celle des clos au chêne Boppe, plébiscitée aussi
   concurrence entre les sujets, traitée en sylviculture dite
   « prudente », avec un minimum de coupes d’éclaircie afin
   de favoriser la compétition entre les tiges.*(1)
+  
 Tous ces facteurs fragilisent la résistance actuelle de la parcelle aux intempéries.
 (1)	Étude d’une chênaie sessiliflore exceptionnelle : François LEBOURGEOIS 
 Guillaume COUSSEAU - Yves DUCOS (Revue Forestière  Fr. LV - 4-2003)  
@@ -121,7 +122,8 @@ Il ne peut être fait d’autres compromis car cela n’irait pas
 
 [Devenir prochain de l’Hermitière](/articles/pdf/exploitationsforestieres202210.pdf)
 
-### Site de l’Hermitière (compte rendu de l’étude de juin 2014)
+### Site de l’Hermitière
+  (compte rendu de l’étude de juin 2014)
   
 ### Eléments remarquables de biodiversité 
 
