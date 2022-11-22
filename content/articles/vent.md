@@ -179,7 +179,7 @@ se trouvait à chaque fois sur les franges de ces deux monstres.
 27 février 2010, la tempête Xynthia souffle dans la nuit du samedi au dimanche matin.
 Fort heureusement les dégâts restent faibles par rapport à 1999: 1000 m3 environ.
 
-
+ {{<figure src="/images/articles/16juillet2010.jpg" title="Ce balay dans les Clos n'a pas résisté !">}} 
 
 #### Bibliographie : 
 
