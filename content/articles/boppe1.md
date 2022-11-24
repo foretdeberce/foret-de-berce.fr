@@ -51,19 +51,35 @@ et plus particulièrement ceux de Nancy
 (l’École Nationale des Eaux et Forêts)
 remarquent cette entité forestière.
 
-Début juin 1894 :
+Le Chêne Boppe a été baptisé Début juin 1894 :
+
 Le plus gros des chêne sans branches est repéré, 
 puis baptisé en présence et en l’honneur de Lucien "Boppe" :
-l’un des tous premiers directeurs de 
-l'École  Nationale Forestière de Nancy. 
+l’un des tous premiers directeurs (52ème) de 
+l'École Nationale Forestière de Nancy. 
 
 {{<figure src="/images/articles/boppedirecteur.jpg" title="Lucien Boppe, Directeur de l'ENEF">}}
 
+
+Entre les 6 et 9 Juin, le baptême fut célébré lors d’une tournée de
+ Mrs les  Conservateurs d’Alençon (E.Charlemagne), de Nancy 
+ (Mrs. Les Agents de l’ENEF dont Mr.Lucien Boppe : Directeur) 
+
+— ( Pour la petite histoire, Mr Boppe reviendra d’ailleurs l’année suivante 
+du 18 au 22 Juin avec les élèves de l’ENEF et donnera au garde Heintz deux boîtes
+de dragées en remerciements des deux loges construites en vue de la réception 
+de l’École Nationale des Eaux et Forêt, le jour du baptême).
+
+
 En 1895 : la futaie est remarquablement riche : 
 Plus de 1000 m³/ha (alors qu'une futaie normale pèse entre 450 à 650m³/ha à la fin de sa vie).
- La hauteur importante des arbres, (…la plus haute de France dans sa catégorie est relevée non loin d’ici, dans le vallon de l’Hermitière), leur qualité et leur abondance  incitent  les  forestiers  d'alors  à demander le maintien en futaie, alors qu'elle devait être logiquement régénérée (à 240 ans). 
+La hauteur importante des arbres, (…la plus haute de France dans sa catégorie est relevée non loin d’ici, 
+dans le vallon de l’Hermitière), leur qualité et leur abondance incitent les forestiers  
+d'alors  à demander le maintien en futaie, alors qu'elle devait être logiquement régénérée (à 240 ans). 
 Mais y a t il quelconque logique dans une telle décision ?
 
-{{<figure src="/images/articles/1897boppe.jpg" title="1897 - Le baptême du chêne Boppe">}}
+{{<figure src="/images/articles/1897boppe.jpg" title="1897 - Rénovation de la pancarte du chêne Boppe">}}
+
+Les élèves de l'ENEF sont au chevet de la pancarte.
   
 En 1904 : Après une dure bataille interne, la proposition de maintien est retenue par  le  Ministère  de  l'Agriculture d'alors et confirmée le 18 novembre 1907 à l'Assemblée Nationale où les élus locaux (le député Ajam en tête) ont porté l'affaire, ne voulant pas être laissés pour compte, devant une opinion publique Sarthoise plus qu’unie. 
