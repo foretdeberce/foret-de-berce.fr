@@ -51,27 +51,27 @@ et plus particulièrement ceux de Nancy
 (l’École Nationale des Eaux et Forêts)
 remarquent cette entité forestière.
 
-Le Chêne Boppe a été baptisé Début juin 1894 :
+### Début juin 1894, le Chêne Boppe est baptisé :
 
 Le plus gros des chêne sans branches est repéré, 
-puis baptisé en présence et en l’honneur de Lucien "Boppe" :
+puis baptisé en présence et en l’honneur de Lucien Boppe :
 l’un des tous premiers directeurs (52ème) de 
 l'École Nationale Forestière de Nancy. 
 
 {{<figure src="/images/articles/boppedirecteur.jpg" title="Lucien Boppe, Directeur de l'ENEF">}}
 
-
 Entre les 6 et 9 Juin, le baptême fut célébré lors d’une tournée de
- Mrs les  Conservateurs d’Alençon (E.Charlemagne), de Nancy 
- (Mrs. Les Agents de l’ENEF dont Mr.Lucien Boppe : Directeur) 
+Mrs les  Conservateurs d’Alençon (E.Charlemagne), de Nancy 
+(Mrs. Les Agents de l’ENEF dont Mr.Lucien Boppe : Directeur) 
 
-— ( Pour la petite histoire, Mr Boppe reviendra d’ailleurs l’année suivante 
+*Pour la petite histoire, Mr Boppe reviendra d’ailleurs l’année suivante 
 du 18 au 22 Juin avec les élèves de l’ENEF et donnera au garde Heintz deux boîtes
 de dragées en remerciements des deux loges construites en vue de la réception 
-de l’École Nationale des Eaux et Forêt, le jour du baptême).
+de l’École Nationale des Eaux et Forêt, le jour du baptême*.
 
 
-En 1895 : la futaie est remarquablement riche : 
+### En 1895 : la futaie est remarquablement riche : 
+ 
 Plus de 1000 m³/ha (alors qu'une futaie normale pèse entre 450 à 650m³/ha à la fin de sa vie).
 La hauteur importante des arbres, (…la plus haute de France dans sa catégorie est relevée non loin d’ici, 
 dans le vallon de l’Hermitière), leur qualité et leur abondance incitent les forestiers  
