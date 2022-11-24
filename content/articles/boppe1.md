@@ -62,7 +62,7 @@ l'École Nationale Forestière de Nancy.
 
 Entre les 6 et 9 Juin, le baptême fut célébré lors d’une tournée de
 Mrs les  Conservateurs d’Alençon (E.Charlemagne), de Nancy 
-(Mrs. Les Agents de l’ENEF dont Mr.Lucien Boppe : Directeur) 
+(Mrs. Les Agents de l’ENEF dont Mr. Lucien Boppe : Directeur) 
 
 *Pour la petite histoire, Mr Boppe reviendra d’ailleurs l’année suivante 
 du 18 au 22 Juin avec les élèves de l’ENEF et donnera au garde Heintz deux boîtes
