@@ -7,7 +7,8 @@ featured_image: "/images/et.mortcheneboppe.jpg"
 tags: ["Tourisme","Arbres","Chênes","Toponymie","Hommes"]
 ---
 
-Enquête  sur  la  mort du  chêne  Boppe
+Enquête  sur  la  mort du  chêne  Boppe.
+
  
 Aux Clos, l’importance du public dégrade  fortement le  milieu naturel, en piétinant sol au pied des chênes.
 	 Victime de ce succès inattendu, la terre autour du Chêne Boppe devient vite imperméable et les pluies ruissellent sans pouvoir pénétrer le sol. Aussi les forestiers pratiquèrent dès  1901, aux abords directs du Chêne Boppe, à la mi-octobre puis tous les ans, un bêchage méthodique (Albrecht note: deux ouvriers (concessionnaires) ont bêché sur deux jours le tour du Chêne Boppe).
@@ -27,7 +28,7 @@ Pour  faciliter l’accès qui se dégrade régulièrement devant l’afflux des
 
 {{<figure src="/images/articles/clichethiollier.jpg" title="Photo Thiollier 1923">}}
 
-{{<figure src="/images/articles/ancienboppe32.jpg" title="Le cycliste au pied donne l’échelle">}}
+{{<figure src="/images/articles/cheneboppea.jpg" title="Le cycliste au pied donne l’échelle">}}
 
 Un chêne sous perfusion  			
 Le 4 novembre 1929 comptage en brigade des arbres de la parcelle A3 des Clos . 
@@ -86,6 +87,7 @@ Les cérémonies furent magnifiques pour l'abattage du chêne Boppe et le baptê
 {{<figure src="/images/articles/ceremonieabatagevannier.jpg" title="Abatage de la grume au godendard">}}
 
 {{<figure src="/images/articles/abatagephotoleclerq.jpg" title="La dernière bille est abattue (photo Leclerq)">}}
+	
 l’abatage vient d’avoir lieu. Le chêne Boppe gît à terre, sa souche devant être bientôt sanctuarisée. Les bûcherons Guimier, A. Granier, E. Vannier, A. Ramaugé, et Hervé dit "Pape" eurent raison, en un instant, du géant.
 
 {{<figure src="/images/articles/famillepieboppe.jpg" title="La famille Pie au chevet du géant">}}
