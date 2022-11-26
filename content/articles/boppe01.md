@@ -125,23 +125,46 @@ Le 30 novembre 1895 il fait le rapport suivant :
 M. Charlemagne, conservateur des forêts à Alençon, avait tenu à recevoir
   l'École au seuil même de sa conservation, là où elle avait installé 
   son quartier général, dans la petite ville de Château-du-Loir. 
-  Nous avons décrit ici même les splendeurs des massifs de futaie que Bercé offre aux forestiers; nous n'y reviendrons donc pas. Contentons-nous seulement de dire que le chêne Boppe et le peuplement qui l'entoure ont excité l'admiration générale. Le lecteur jugera par les chiffres suivants si cet enthousiasme est immérité. 
-Ce vieux massif de chêne pur a 210 ans, et renferme actuellement à l'hectare un volume grume de 976 mètres cubes. La production moyenne depuis la naissance a été de 6m³76; 
+  Nous avons décrit ici même les splendeurs des massifs de futaie que 
+  Bercé offre aux forestiers; nous n'y reviendrons donc pas.
+  Contentons-nous seulement de dire que le chêne Boppe et le peuplement 
+  qui l'entoure ont excité l'admiration générale. Le lecteur jugera par
+  les chiffres suivants si cet enthousiasme est immérité. 
+Ce vieux massif de chêne pur a 210 ans, et renferme actuellement à 
+  l'hectare un volume grume de 976 mètres cubes.
+  La production moyenne depuis la naissance a été de 6m³76; 
 elle se maintient encore aujourd'hui, pour la dernière période de 20 ans, à 6m³21. 
-L'hectare a été estimé net en 1896 à 43.3oo fr. La valeur vénale de la production à l'hectare est actuellement de 280 fr. 
-Les fûts atteignent 25 et 3o mètres; les cimes sont amples, d'une vigueur de végétation qui ne se dément pas malgré l’âge ;  
-les diamètres oscillent entre o m. 6 et  1 m.2. Un sous-étage de hêtre, épais, élancé, couvre le sol. 
+L'hectare a été estimé net en 1896 à 43.3oo fr. La valeur vénale de la production 
+  à l'hectare est actuellement de 280 fr. 
+Les fûts atteignent 25 et 3o mètres; les cimes sont amples,
+  d'une vigueur de végétation qui ne se dément pas malgré l’âge ;  
+les diamètres oscillent entre o m. 6 et  1 m.2. Un sous-étage de hêtre,
+  épais, élancé, couvre le sol. 
 De tels peuplements semblent défier les siècles. 
-Le spectacle de pareilles futaies est bien fait, on en conviendra, pour frapper l'esprit des jeunes gens et éveiller en eux cette fibre forestière, que l’on a tant raillée, mais sans laquelle l’amour du métier risque fort de s'atrophier. 
-Quatre élèves étrangers, un belge, un danois, un grec et un roumain, s'étaient joints à l'École, que guidaient en ses tournées MM. de Vercly, inspecteur des forêts, et Roulleau, inspecteur adjoint a Mans.*
+Le spectacle de pareilles futaies est bien fait, on en conviendra, 
+  pour frapper l'esprit des jeunes gens et éveiller en eux cette fibre
+  forestière, que l’on a tant raillée, mais sans laquelle l’amour du
+  métier risque fort de s'atrophier. 
+Quatre élèves étrangers, un belge, un danois, un grec et un roumain, 
+  s'étaient joints à l'École, que guidaient en ses tournées MM. de Vercly,
+  inspecteur des forêts, et Roulleau, inspecteur adjoint a Mans.*
 
 {{<figure src="/images/articles/1897boppe.jpg" title="1897 - Rénovation de la pancarte du chêne Boppe">}}
 
 Les élèves de l'ENEF sont au chevet de la réfection de la pancarte.
   
-### En 1904 : Après une dure bataille interne, la proposition de maintien est retenue par  le  Ministère  de  l'Agriculture d'alors et confirmée le 18 novembre 1907 à l'Assemblée Nationale où les élus locaux (le député Ajam en tête) ont porté l'affaire, ne voulant pas être laissés pour compte, devant une opinion publique Sarthoise plus qu’unie. 
+### En 1904 :
+  
+  Après une dure bataille interne, la proposition de
+  maintien est retenue par  le  Ministère de l'Agriculture d'alors 
+  et confirmée le 18 novembre 1907 à l'Assemblée Nationale où les
+  élus locaux (le député Ajam en tête) ont porté l'affaire,
+  ne voulant pas être laissés pour compte, devant une
+  opinion publique Sarthoise plus qu’unie. 
 
 {{<figure src="/images/articles/mauriceajam.jpg" title="Le député Ajam dans son bureau">}}
 
-L'inspecteur Viney nous relate l’histoire de cette parcelle des Clos vue par elle-même [Mémoires d’une parcelle de la forêt de Bercé](/articles/pdf/closparviney.pdf)
+L'inspecteur Viney nous relate l’histoire de cette parcelle des Clos vue 
+  par elle-même
+  [Mémoires d’une parcelle de la forêt de Bercé](/articles/pdf/closparviney.pdf)
   
