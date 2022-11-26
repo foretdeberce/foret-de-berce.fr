@@ -1,5 +1,5 @@
 ---
-title: "Ancien chêne Boppe"
+title: "Ancien chêne Boppe - 1"
 date: 2022-11-24T12:23:44+01:00
 draft: false
 description: "Baptisé en 1894"
@@ -70,10 +70,11 @@ Un magnifique chêne qui présentait un fût absolument
 droit jusqu'à la cime, sans nœud et sans défauts. 
 Le plus gros arbre sans basses branches est repéré, 
 puis baptisé en présence et en l’honneur de Lucien Boppe :
-52ème directeur de l’ENEF (l'École Nationale Forestière de Nancy). 
-Lucien Boppe (1834-1907) était inspecteur des forêts, 
-professeur de sylviculture et dirigea l’École forestière de Nancy 
-à partir de 1893–1898, après en avoir été le sous-directeur pendant 12 ans.
+  
+     52ème directeur de l’ENEF (l'École Nationale Forestière de Nancy). 
+     Lucien Boppe (1834-1907) était inspecteur des forêts, 
+     professeur de sylviculture et dirigea l’École forestière de Nancy 
+     à partir de 1893–1898, après en avoir été le sous-directeur pendant 12 ans.
 
 
 {{<figure src="/images/articles/boppedirecteur.jpg" title="Lucien Boppe, Directeur de l'ENEF">}}
@@ -84,8 +85,9 @@ Entre les 6 et 9 Juin, le baptême fut célébré lors d’une tournée de
 Mrs les  conservateurs d’Alençon (E. Charlemagne), de Nancy 
 (Mrs. les agents de l’ENEF dont Mr. Lucien Boppe : directeur) 
 
-*Pour la petite histoire, Mr Boppe reviendra sur Bercé l’année suivante 
-du 18 au 22 Juin avec les élèves de l’ENEF.
+*Pour la petite histoire, Mr Boppe reviendra sur Bercé l’année 
+suivante du 18 au 22 Juin avec les élèves de l’ENEF.
+  
 Il donnera au garde Heintz deux boîtes de dragées en remerciements 
 des deux loges construites en vue de la réception 
 de l’École Nationale des Eaux et Forêt, le jour du baptême*.
@@ -100,8 +102,9 @@ entre 450 à 650m³/ha à la fin de sa vie).
 La hauteur importante des arbres, 
 (…la plus haute de France dans sa catégorie est relevée non loin d’ici, 
 dans le vallon de l’Hermitière), leur qualité et leur abondance 
-incitent les forestiers  d'alors à demander le maintien en futaie, 
+incitent les forestiers d'alors à demander le maintien en futaie, 
 alors qu'elle devait être logiquement régénérée (à 240 ans). 
+  
 Mais y a t il quelconque logique dans une telle décision ?
 
 L'inspecteur Viney expose ici le point de vue du forestier sur cette parcelle des Clos 
@@ -116,9 +119,13 @@ Le 30 novembre 1895 il fait le rapport suivant :
 
 ### Juin 1896 :
 
-*Les élèves de la 71ème promotion de l'École forestière, sous la direction de deux de leurs professeurs, MM. Gustave Huffel et Antoine Jolyet, ont visité les 16 et 17 juin dernier la forêt domaniale de Bercé (Sarthe). 
-M. Charlemagne, conservateur des forêts à Alençon, avait tenu à recevoir l'École au seuil même de sa conservation, là où elle avait installé son quartier général, dans la petite ville de Château-du-Loir. 
-Nous avons décrit ici même les splendeurs des massifs de futaie que Bercé offre aux forestiers; nous n'y reviendrons donc pas. Contentons-nous seulement de dire que le chêne Boppe et le peuplement qui l'entoure ont excité l'admiration générale. Le lecteur jugera par les chiffres suivants si cet enthousiasme est immérité. 
+*Les élèves de la 71ème promotion de l'École forestière, sous la direction 
+  de deux de leurs professeurs, MM. Gustave Huffel et Antoine Jolyet,
+  ont visité les 16 et 17 juin dernier la forêt domaniale de Bercé (Sarthe). 
+M. Charlemagne, conservateur des forêts à Alençon, avait tenu à recevoir
+  l'École au seuil même de sa conservation, là où elle avait installé 
+  son quartier général, dans la petite ville de Château-du-Loir. 
+  Nous avons décrit ici même les splendeurs des massifs de futaie que Bercé offre aux forestiers; nous n'y reviendrons donc pas. Contentons-nous seulement de dire que le chêne Boppe et le peuplement qui l'entoure ont excité l'admiration générale. Le lecteur jugera par les chiffres suivants si cet enthousiasme est immérité. 
 Ce vieux massif de chêne pur a 210 ans, et renferme actuellement à l'hectare un volume grume de 976 mètres cubes. La production moyenne depuis la naissance a été de 6m³76; 
 elle se maintient encore aujourd'hui, pour la dernière période de 20 ans, à 6m³21. 
 L'hectare a été estimé net en 1896 à 43.3oo fr. La valeur vénale de la production à l'hectare est actuellement de 280 fr. 
