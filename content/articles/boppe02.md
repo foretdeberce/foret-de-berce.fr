@@ -1,5 +1,5 @@
 ---
-title: "Ancien chêne Boppe -2"
+title: "Ancien chêne Boppe - 2"
 date: 2022-11-24T15:23:44+01:00
 draft: false
 description: "Enquête  sur  sa  mort"
@@ -7,15 +7,28 @@ featured_image: "/images/et.mortcheneboppe.jpg"
 tags: ["Tourisme","Arbres","Chênes","Toponymie","Hommes"]
 ---
 
-Enquête  sur  la  mort du  chêne  Boppe.
+### Enquête  sur  la  mort du  chêne  Boppe.
 
  
-Aux Clos, l’importance du public dégrade  fortement le  milieu naturel, en piétinant sol au pied des chênes.
-	 Victime de ce succès inattendu, la terre autour du Chêne Boppe devient vite imperméable et les pluies ruissellent sans pouvoir pénétrer le sol. Aussi les forestiers pratiquèrent dès  1901, aux abords directs du Chêne Boppe, à la mi-octobre puis tous les ans, un bêchage méthodique (Albrecht note: deux ouvriers (concessionnaires) ont bêché sur deux jours le tour du Chêne Boppe).
+Aux Clos, l’importance du public dégrade fortement le  milieu naturel,
+en piétinant sol au pied des chênes.
+Victime de ce succès inattendu, la terre autour du Chêne Boppe devient 
+vite imperméable et les pluies ruissellent sans pouvoir pénétrer le sol. 
+Aussi les forestiers pratiquèrent dès 1901, aux abords directs du Chêne Boppe,
+à la mi-octobre puis tous les ans, un bêchage méthodique 
+(Albrecht note: deux ouvriers (concessionnaires) ont bêché sur deux jours le tour du Chêne Boppe).
 
-{{<figure src="/images/articles/crochetageboppe.jpg" title="Crochetage autours des arbres remarquables">}}
-Ordre de Mr. Roulleau ( inspecteur adjoint )
-         Le travail de bêchage dans un rayon de 5 m à 0,40 m de profondeur autour du chêne Boppe devra toujours être terminé le 20 octobre avant la chute des feuilles . La clôture sera faite non pas avec des hêtres de sous étage pris dans les environs, je le défends absolument, mais avec les mêmes bois que ceux existants; à défaut on en prendra ailleurs. La clôture et le répandage  des feuilles devra toujours être terminé le 10 avril de chaque année .
+{{<figure src="/images/articles/crochetageboppe.jpg" title="Crochetage autour des arbres remarquables">}}
+	
+Ordre de Mr. Roulleau (inspecteur adjoint)
+	
+         Le travail de bêchage dans un rayon de 5 m à 0,40 m de profondeur autour
+	 du chêne Boppe devra toujours être terminé le 20 octobre avant la chute 
+	 des feuilles. La clôture sera faite non pas avec des hêtres de sous étage
+	 pris dans les environs, je le défends absolument, mais avec les mêmes 
+	 bois que ceux existants; à défaut on en prendra ailleurs. 
+	 La clôture et le répandage  des feuilles devra toujours être 
+	 terminé le 10 avril de chaque année .
 
 {{<figure src="/images/articles/2ancienboppe.jpg" title="Un piétinement au plus près des hanches">}}
 
@@ -24,21 +37,40 @@ Ordre de Mr. Roulleau ( inspecteur adjoint )
 {{<figure src="/images/articles/201boppecloture.jpg" title="Autre méthode : la clôture">}}
 
 
-Pour  faciliter l’accès qui se dégrade régulièrement devant l’afflux des visiteurs, on ragrée le chemin dès 1910 et de façon régulière par la suite, et procède à la  pose d’une clôture de bois autour du fameux chêne. 
+Pour faciliter l’accès qui se dégrade régulièrement devant l’afflux des visiteurs, 
+on ragrée le chemin dès 1910 et de façon régulière par la suite,
+et procède à la  pose d’une clôture de bois autour du fameux chêne. 
 
 {{<figure src="/images/articles/clichethiollier.jpg" title="Photo Thiollier 1923">}}
 
 {{<figure src="/images/articles/cheneboppea.jpg" title="Le cycliste au pied donne l’échelle">}}
 
-Un chêne sous perfusion  			
+### Un chêne sous perfusion  	
+	
 Le 4 novembre 1929 comptage en brigade des arbres de la parcelle A3 des Clos . 
-Circonférence trouvée le 26 février 1930 par Mr. Poskin 4,37m – Cette même année, essais de divers engrais - 
-Le chêne Boppe mesure en 1931 : 4,410m ! Soit 4 cm sur la circonférence ou 12,7 mm sur le diamètre.
-Un record compte tenu d’une croissance moyenne en diamètre les dernières années de 4.8mm/an.
-	 Le 16 juillet 1934, Lasnier instruit ainsi son livret: « Vu les quatre auxiliaires au Chêne Boppe -  Apport de terre ».  Le chêne Boppe aurait-il mal digéré cet apport massif d’engrais et de terre nouvelle ? Toujours est-il qu’il donne des signes évidents de fatigue, ses feuilles étant en plus dévorées d’avril à juin par la tordeuse verte du chêne (Tortrix Viridana ) . 
+Circonférence trouvée le 26 février 1930 par Mr. Poskin 4,37m –
+Cette même année, essais de divers engrais - 
+Le chêne Boppe mesure en 1931 : 4,410m ! 
+Soit 4 cm sur la circonférence ou 12,7 mm sur le diamètre.
+Un record compte tenu d’une croissance moyenne en diamètre 
+les dernières années de 4.8mm/an.
+	
+Le 16 juillet 1934, Lasnier instruit ainsi son livret:
+*Vu les quatre auxiliaires au Chêne Boppe - Apport de terre*.  
+Le chêne Boppe aurait-il mal digéré cet apport massif d’engrais et de terre nouvelle ? 
+Toujours est-il qu’il donne des signes évidents de fatigue, 
+ses feuilles étant en plus dévorées d’avril 
+à juin par la tordeuse verte du chêne (Tortrix Viridana ) . 
 
-Deux charretiers de l’époque témoignent :
-            Henri Thénaisie  (23 ans en 1934), se souvenait « d’avoir été avec une tonne d’eau attelée, arroser l’arbre. Peu avant son foudroiement .Ils ont pioché tout autour et ils lui avait mis beaucoup d’engrais, la foudre a fait  que l’erreur a été réparée ».
+### Deux charretiers de l’époque témoignent :
+	
+            Henri Thénaisie  (23 ans en 1934), se souvenait
+	    « d’avoir été avec une tonne d’eau attelée, arroser
+	    l’arbre. Peu avant son foudroiement .
+	    Ils ont pioché tout autour et ils lui avait mis
+	    beaucoup d’engrais, la foudre a fait  
+	    que l’erreur a été réparée ».
+	
 	  Maurice Vérité ( 23 ans en 1934) est plus catégorique: «  Les Auxiliaires avaient mis trop d’engrais et cela l’a fait crever »
 Yves Camisy : Témoin à Charge.
 *Le garde Jouaux (Boussions) avait reçu de son supérieur 200kg de nitrate de chaux, afin de les répandre  autour du chêne Boppe (qui déjà donnait des signes de fatigue).
