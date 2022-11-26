@@ -1,6 +1,6 @@
 ---
 title: "Ancien chêne Boppe -2"
-date: 2022-11-24T12:23:44+01:00
+date: 2022-11-24T15:23:44+01:00
 draft: false
 description: "Enquête  sur  sa  mort"
 featured_image: "/images/et.mortcheneboppe.jpg"
@@ -98,7 +98,9 @@ Son âge : 275 ans ? - 385 ans ? - 485 ans ? Quiproquo…
 
 C’est l’âge du chêne Boppe avancé sur certaines cartes postales (celles ci faisaient état d’un âge approximatif en 1922 de 235 ans + 150 ans= 385 ans : 235 ans étant l’âge supposé du peuplement situé autour du chêne Boppe et 150 ans l’âge auquel celui ci avait été, semble – il, anciennement régénéré.)
  Une publication de l’inspecteur Potel concerne l’âge probable du chêne Boppe : 
-
+	
+{{<figure src="/images/articles/boppeage.jpg" title="Quiproco sur l'âge des Clos">}}
+	
 la revue des Eaux et forêts de février 1924 relate : Les plus gros de ces arbres sont visiblement d’anciennes réserves du « Tire et Aire » dont l’âge doit donc être d’environ 450 ans. 
 
 {{<figure src="/images/articles/oe19350109.jpg" title="Ouest-Éclair du 9 janvier 1935">}}
