@@ -78,7 +78,7 @@ professeur de sylviculture et dirigea l’École forestière de Nancy
 
 {{<figure src="/images/articles/boppedirecteur.jpg" title="Lucien Boppe, Directeur de l'ENEF">}}
 
-{{<figure src="/images/articles/thiollierboppe.jpg" title="Déjeuner aux Clos 1924 (Thiollier)">}}
+{{<figure src="/images/articles/thiollierboppe1924.jpg" title="Déjeuner aux Clos 1924 (Thiollier)">}}
 
 Entre les 6 et 9 Juin, le baptême fut célébré lors d’une tournée de
 Mrs les  conservateurs d’Alençon (E. Charlemagne), de Nancy 
@@ -104,8 +104,6 @@ incitent les forestiers  d'alors à demander le maintien en futaie,
 alors qu'elle devait être logiquement régénérée (à 240 ans). 
 Mais y a t il quelconque logique dans une telle décision ?
 
-{{<figure src="/images/articles/boppedirecteur.jpg" title="Lucien Boppe, Directeur de l'ENEF">}}
-
 L'inspecteur Viney expose ici le point de vue du forestier sur cette parcelle des Clos 
 
 [A propos d’une parcelle artistique](/articles/pdf/aproposduneparcelleartistique.pdf)
@@ -116,9 +114,9 @@ L’inspecteur Roulleau, est un avocat tout désigné pour les Clos.
 Le 30 novembre 1895 il fait le rapport suivant : 
 [Reproduction du rapport Roulleau](/articles/pdf/nov1895roulleau.pdf)
 
-Juin 1896 :
+### Juin 1896 :
 
-« Les élèves de la 71ème promotion de l'École forestière, sous la direction de deux de leurs professeurs, MM. Gustave Huffel et Antoine Jolyet, ont visité les 16 et 17 juin dernier la forêt domaniale de Bercé (Sarthe). 
+*Les élèves de la 71ème promotion de l'École forestière, sous la direction de deux de leurs professeurs, MM. Gustave Huffel et Antoine Jolyet, ont visité les 16 et 17 juin dernier la forêt domaniale de Bercé (Sarthe). 
 M. Charlemagne, conservateur des forêts à Alençon, avait tenu à recevoir l'École au seuil même de sa conservation, là où elle avait installé son quartier général, dans la petite ville de Château-du-Loir. 
 Nous avons décrit ici même les splendeurs des massifs de futaie que Bercé offre aux forestiers; nous n'y reviendrons donc pas. Contentons-nous seulement de dire que le chêne Boppe et le peuplement qui l'entoure ont excité l'admiration générale. Le lecteur jugera par les chiffres suivants si cet enthousiasme est immérité. 
 Ce vieux massif de chêne pur a 210 ans, et renferme actuellement à l'hectare un volume grume de 976 mètres cubes. La production moyenne depuis la naissance a été de 6m³76; 
@@ -128,16 +126,15 @@ Les fûts atteignent 25 et 3o mètres; les cimes sont amples, d'une vigueur de v
 les diamètres oscillent entre o m. 6 et  1 m.2. Un sous-étage de hêtre, épais, élancé, couvre le sol. 
 De tels peuplements semblent défier les siècles. 
 Le spectacle de pareilles futaies est bien fait, on en conviendra, pour frapper l'esprit des jeunes gens et éveiller en eux cette fibre forestière, que l’on a tant raillée, mais sans laquelle l’amour du métier risque fort de s'atrophier. 
-Quatre élèves étrangers, un belge, un danois, un grec et un roumain, s'étaient joints à l'École, que guidaient en ses tournées MM. de Vercly, inspecteur des forêts, et Roulleau, inspecteur adjoint a Mans. »
+Quatre élèves étrangers, un belge, un danois, un grec et un roumain, s'étaient joints à l'École, que guidaient en ses tournées MM. de Vercly, inspecteur des forêts, et Roulleau, inspecteur adjoint a Mans.*
 
 {{<figure src="/images/articles/1897boppe.jpg" title="1897 - Rénovation de la pancarte du chêne Boppe">}}
 
 Les élèves de l'ENEF sont au chevet de la réfection de la pancarte.
   
-En 1904 : Après une dure bataille interne, la proposition de maintien est retenue par  le  Ministère  de  l'Agriculture d'alors et confirmée le 18 novembre 1907 à l'Assemblée Nationale où les élus locaux (le député Ajam en tête) ont porté l'affaire, ne voulant pas être laissés pour compte, devant une opinion publique Sarthoise plus qu’unie. 
+### En 1904 : Après une dure bataille interne, la proposition de maintien est retenue par  le  Ministère  de  l'Agriculture d'alors et confirmée le 18 novembre 1907 à l'Assemblée Nationale où les élus locaux (le député Ajam en tête) ont porté l'affaire, ne voulant pas être laissés pour compte, devant une opinion publique Sarthoise plus qu’unie. 
 
 {{<figure src="/images/articles/mauriceajam.jpg" title="Le député Ajam dans son bureau">}}
-
 
 L'inspecteur Viney nous relate l’histoire de cette parcelle des Clos vue par elle-même [Mémoires d’une parcelle de la forêt de Bercé](/articles/pdf/closparviney.pdf)
   
