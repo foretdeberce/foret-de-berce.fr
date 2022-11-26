@@ -16,7 +16,8 @@ Victime de ce succès inattendu, la terre autour du Chêne Boppe devient
 vite imperméable et les pluies ruissellent sans pouvoir pénétrer le sol. 
 Aussi les forestiers pratiquèrent dès 1901, aux abords directs du Chêne Boppe,
 à la mi-octobre puis tous les ans, un bêchage méthodique 
-(Albrecht note: deux ouvriers (concessionnaires) ont bêché sur deux jours le tour du Chêne Boppe).
+(Albrecht note: deux ouvriers (concessionnaires) 
+ont bêché sur deux jours le tour du Chêne Boppe).
 
 {{<figure src="/images/articles/crochetageboppe.jpg" title="Crochetage autour des arbres remarquables">}}
 	
@@ -175,6 +176,7 @@ Les bûcherons Guimier, A. Granier, E. Vannier, A. Ramaugé,
 et Hervé dit "Pape" eurent raison, en un instant, du géant.
 
 {{<figure src="/images/articles/famillepieboppe.jpg" title="La famille Pie au chevet du géant">}}
+	
 La famille Pie au chevet du géant de Bercé terrassé en ce 22 juillet 1935.
 
 
