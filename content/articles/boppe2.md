@@ -263,7 +263,7 @@ Une rondelle est visible au musée du bois à Jupilles…..
 Bref, à force de découper des rondelles, la première bille 
 avait vite fait de maigrir d’un bon mètre en longueur.
 	
-{{<figure src="/images/articles/cahieraffiche1935.jpg" title="Page 26 du cahier Affiche de la Vente d’octobre 1935">}
+{{<figure src="/images/articles/cahieraffiche1935.jpg" title="Page 26 du cahier Affiche de la Vente d’octobre 1935">}}
 	
 Le garde Lasnier écrit le 22 Octobre 1935 : 
 *Suis parti à St.Vincent à la scierie Adet - 
