@@ -1,6 +1,6 @@
 ---
 title: "L’Hermitière - 2"
-date: 2022-11-20T08:23:44+01:00
+date: 2022-11-22T19:23:44+01:00
 draft: false
 description: "Cafetiers et restaurateurs privés"
 featured_image: "/images/et.etablissementsprives.jpg"
