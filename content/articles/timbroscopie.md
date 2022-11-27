@@ -1,6 +1,6 @@
 ---
 title: "Timbroscopie"
-date: 2022-09-15T10:24:16+01:00
+date: 2022-11-26T22:24:16+01:00
 draft: false
 description: "Démêler le vrai du faux"
 featured_image: "/images/timbroscopie.jpg"
