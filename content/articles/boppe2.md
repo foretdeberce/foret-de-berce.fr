@@ -1,6 +1,6 @@
 ---
 title: "Ancien chêne Boppe - 2"
-date: 2022-11-25T15:23:44+01:00
+date: 2022-11-24T15:23:44+01:00
 draft: false
 description: "Enquête  sur  sa  mort"
 featured_image: "/images/et.mortcheneboppe.jpg"
