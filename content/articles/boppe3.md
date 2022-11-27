@@ -1,6 +1,6 @@
 ---
 title: "Nouveau chêne Boppe"
-date: 2022-11-26T12:23:44+01:00
+date: 2022-11-24T12:23:44+01:00
 draft: false
 description: "Baptisé en 1935"
 featured_image: "/images/et.boppeneuf.jpg"
