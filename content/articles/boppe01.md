@@ -6,7 +6,6 @@ description: "Baptisé en 1894"
 featured_image: "/images/et.cheneboppe36.jpg"
 tags: ["Tourisme","Arbres","Chênes","Toponymie","Hommes"]
 ---
-
 *Une forêt n’est pas un monument.
 Elle est composée d’êtres vivants que rien n’empêchera de
 s’acheminer vers la mort.
@@ -64,7 +63,7 @@ remarquent cette entité forestière.
 
 ### Début juin 1894, un chêne est baptisé :
 
-{{<figure src="/images/articles/vueboppe.jpg" title="Le chêne Boppe - futur élu">}}
+{{<figure src="/images/articles/vueboppe.jpg" title="Le chêne Boppe - le futur élu">}}
 
 Un magnifique chêne qui présentait un fût absolument
 droit jusqu'à la cime, sans nœud et sans défauts. 
