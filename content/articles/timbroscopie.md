@@ -45,7 +45,7 @@ L'Eglise Notre-Dame de Saint-Calais, le plan de la Forêt de Bercé et vue de la
 l'Hermitière, les Château de Sablé, du Lude et de Bonnétable, l'Hôtel de ville de la Flèche et l'entrée du 
 Prytanée, l'Abbaye de Solesmes. 
 
-{{<figure src="/images/articles/bonnetable.jpg" title="Le château de Bonnétable>}}
+{{<figure src="/images/articles/bonnetable.jpg" title="Le château de Bonnétable">}}
   
 {{<figure src="/images/articles/lelude.jpg" title="Papeterie de la Courbe">}} 
 
@@ -69,4 +69,4 @@ faux spécimens de timbres qui auraient pu voir le jour.
   
 Par contre la flamme postale de château du loir vient combler un peu le vide.
   
-{{<figure src="/images/articles/chateauloir.jpg" title="La flamme de Câteau du Loir">}}  
+{{<figure src="/images/articles/chateauloir.jpg" title="La flamme de Château du Loir">}}  
