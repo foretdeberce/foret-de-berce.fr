@@ -12,7 +12,7 @@ Un nouveau roi est appelé à régner et non …. araignée !
 Le service forestier dans le cadre de la montée en
 puissance du tourisme vert, prévoit de baptiser 
 le 14 juillet 1935 un nouveau chêne Boppe, non loin
-de son devancier (maigre …87 cm de diamètre) mais très
+de son devancier (maigre … 87 cm de diamètre) mais très
 droit et très élancé (la plus grande hauteur sous branche).
 Le rapprochement de l’A.C.O. (tourisme) et de
 l’Union syndicale des marchands de bois de la Sarthe
