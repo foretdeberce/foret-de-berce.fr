@@ -1,9 +1,9 @@
 ---
 title: "Les scieries"
-date: 2022-09-14T00:21:25+01:00
+date: 2022-11-27T00:13:25+01:00
 draft: false
 description: "et scieries mobiles "
-featured_image: '/images/scierie-pruille.jpg'
+featured_image: '/images/scierie-pruille1.jpg'
 tags: ["Exploitation","Travaux","Hommes"]
 ---
 
