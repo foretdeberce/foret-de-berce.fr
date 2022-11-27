@@ -9,21 +9,25 @@ tags: ["Tourisme","Arbres","Chênes","Toponymie","Hommes"]
 
 ### Enquête  sur  la  mort du  chêne  Boppe.
 
- 
+ 
 Aux Clos, l’importance du public dégrade fortement le  milieu naturel,
 en piétinant sol au pied des chênes.
 Victime de ce succès inattendu, la terre autour du Chêne Boppe devient 
 vite imperméable et les pluies ruissellent sans pouvoir pénétrer le sol. 
+
 Aussi les forestiers pratiquèrent dès 1901, aux abords directs du Chêne Boppe,
-à la mi-octobre puis tous les ans, un bêchage méthodique 
-(Albrecht note: deux ouvriers (concessionnaires) 
-ont bêché sur deux jours le tour du Chêne Boppe).
+à la mi-octobre puis tous les ans, un bêchage méthodique.
+ 
+Albrecht note:
+*deux ouvriers (concessionnaires) 
+ont bêché sur deux jours le tour du Chêne Boppe)*.
 
 {{<figure src="/images/articles/crochetageboppe.jpg" title="Crochetage autour des arbres remarquables">}}
 	
-#### Ordre de Mr. Roulleau (inspecteur adjoint)
+### Ordre de Mr. Roulleau
+ (inspecteur adjoint)
 	
-         Le travail de bêchage dans un rayon de 5 m à 0,40 m de profondeur autour
+                Le travail de bêchage dans un rayon de 5 m à 0,40 m de profondeur autour
 	 du chêne Boppe devra toujours être terminé le 20 octobre avant la chute 
 	 des feuilles. La clôture sera faite non pas avec des hêtres de sous étage
 	 pris dans les environs, je le défends absolument, mais avec les mêmes 
@@ -35,11 +39,11 @@ ont bêché sur deux jours le tour du Chêne Boppe).
 
 {{<figure src="/images/articles/bignonboppe.jpg" title="Tiens! Encore la famille Bignon de Jupilles">}}
 
-{{<figure src="/images/articles/201boppecloture.jpg" title="Autre méthode : la clôture">}}
+{{<figure src="/images/articles/201boppecloture.jpg" title="Autre méthode anti-piétinement : la clôture">}}
 
 
 Pour faciliter l’accès qui se dégrade régulièrement devant l’afflux des visiteurs, 
-on ragrée le chemin dès 1910 et de façon régulière par la suite,
+le chemin est ragréé dès 1910 et de façon régulière par la suite,
 et procède à la  pose d’une clôture de bois autour du fameux chêne. 
 
 {{<figure src="/images/articles/clichethiollier.jpg" title="Photo Thiollier 1923">}}
@@ -48,16 +52,18 @@ et procède à la  pose d’une clôture de bois autour du fameux chêne.
 
 ### Un chêne sous perfusion  	
 	
-Le 4 novembre 1929 comptage en brigade des arbres de la parcelle A3 des Clos . 
-Circonférence trouvée le 26 février 1930 par Mr. Poskin 4,37m –
-Cette même année, essais de divers engrais - 
+Le 4 novembre 1929 comptage en brigade des arbres de la parcelle A3 des Clos. 
+Circonférence trouvée le 26 février 1930 par Mr. Poskin 4,37m.
+Cette même année, essais de divers engrais.
 Le chêne Boppe mesure en 1931 : 4,410m ! 
 Soit 4 cm sur la circonférence ou 12,7 mm sur le diamètre.
-Un record compte tenu d’une croissance moyenne en diamètre 
+Un record compte-tenu d’une croissance moyenne en diamètre 
 les dernières années de 4.8mm/an.
 	
 Le 16 juillet 1934, Lasnier instruit ainsi son livret:
+
 *Vu les quatre auxiliaires au Chêne Boppe - Apport de terre*.  
+
 Le chêne Boppe aurait-il mal digéré cet apport massif d’engrais et de terre nouvelle ? 
 Toujours est-il qu’il donne des signes évidents de fatigue, 
 ses feuilles étant en plus dévorées d’avril 
@@ -65,33 +71,50 @@ ses feuilles étant en plus dévorées d’avril
 
 ### Deux charretiers de l’époque témoignent :
 	
-            Henri Thénaisie  (23 ans en 1934),
-	    se souvenait « d’avoir été avec une 
+                   Henri Thénaisie  (23 ans en 1934),
+	    se souvenait 
+
+                  « d’avoir été avec une 
 	    tonne d’eau attelée, arroser l’arbre. 
-	    Peu avant son foudroiement .
-	    Ils ont pioché tout autour et ils lui avait mis
-	    beaucoup d’engrais, la foudre a fait  
-	    que l’erreur a été réparée ».
+	    Peu avant son foudroiement .
+	    Ils ont pioché tout autour et ils 
+                  lui avait mis beaucoup d’engrais, 
+                  la foudre a fait  que l’erreur 
+                  a été réparée ».
 	
-	    Maurice Vérité ( 23 ans en 1934) est plus catégorique:
-	    « Les Auxiliaires avaient mis trop d’engrais et cela l’a fait crever »
+	    Maurice Vérité ( 23 ans en 1934) 
+                  est plus catégorique:
+
+	    « Les Auxiliaires avaient mis trop
+                  d’engrais et cela l’a fait crever »
 	
-### Yves Camisy : Témoin à Charge.
-*Le garde Jouaux (Boussions) avait reçu de son supérieur 200kg 
-de nitrate de chaux, afin de les répandre autour du chêne Boppe
+### Yves Camisy : est aussi témoin à Charge.
+
+*Le garde Jouaux (Boussions) avait 
+reçu de son supérieur 200kg 
+de nitrate de chaux, afin de les 
+répandre autour du chêne Boppe
 (qui déjà donnait des signes de fatigue).
-Venu les apporter à mon grand-père Fourmentin, celui-ci dit au garde,
-« donne les moi, mais je n’en mettrais personnellement que 100kg »,
-ce qu’il fit, gardant par devers lui le surplus.
-Ce n’était pas la première bourde que faisait l’administration
-dans le coin. Il avait déjà participé à la plantation de mélèzes 
-en sous-étage des chênes, dans la parcelle 225, contigüe au 
-chêne Boppe… Arbres qui ont été coupés quelques années plus tard …
-À cette époque on tâtonnait et la science progressait doucement*…
+Venu les apporter à mon grand-père 
+Fourmentin, celui-ci dit au garde,
+« donne les moi, mais je n’en mettrais
+ personnellement que 100kg »,
+ce qu’il fit, gardant par devers 
+lui le surplus. Ce n’était pas la première
+bourde que faisait l’administration
+dans le coin. Il avait déjà participé 
+à la plantation de mélèzes 
+en sous-étage des chênes,
+ dans la parcelle 225, contigüe au 
+chêne Boppe… Arbres qui ont été 
+coupés quelques années plus tard …
+À cette époque on tâtonnait et la 
+science progressait doucement*…
  
-### Le 18 décembre 1934  : 
+### Le 18 décembre 1934 : 
 	
-Mort annoncée du Chêne Boppe à l’issue d’un électrochoc .
+Mort annoncée du Chêne Boppe 
+à l’issue d’un électrochoc.
 
 {{<figure src="/images/articles/oe19350101.jpg" title="Ouest-Éclair du 1er janvier 1935">}}
 
@@ -99,7 +122,7 @@ Mort annoncée du Chêne Boppe à l’issue d’un électrochoc .
 
 ### L’avis de l’administration :
 
-Potel « l’inspecteur Forestier ‘Légiste’»
+Potel « l’inspecteur Forestier ‘Légiste’»
 relate dans le journal de la Société d’Agriculture (Fév.1935) 
 
 *Les débris de bois provenant de cette formidable blessure, 
@@ -137,8 +160,10 @@ Le vieux chêne "Boppe" (4m41 de circonférence) est foudroyé.
 
 ### Abatage  du chêne Boppe (*)
 	
-Le Vendredi 19 Juillet 1935 commence l’ébranchage - 
+### Le Vendredi 19 Juillet 1935 commence l’ébranchage. 
+
 Le garde Leclercq note pour ce jour : 
+
 *Au chêne Boppe toute la journée pour prises de vues
 photographiques de son élagage et 
 découpe d’une bille de 10 m de tronc*.
@@ -148,9 +173,9 @@ découpe d’une bille de 10 m de tronc*.
 Auguste Ramaugé et un autre éhouppeur, 
 sont en train d’officier à plus de 25m de hauteur. 
 Le collet de l’arbre était tellement gros 
-qu’ils ont dû monter à deux pour l’étêter.  
+qu’ils ont dû monter à deux pour l’étêter.  
 
-Le Samedi 20 juillet,
+### Le samedi 20 juillet,
 	
 *le matin à la Huberdière pour développement
 des clichés pris la veille au chêne Boppe*. 
@@ -168,7 +193,7 @@ du chêne Boppe et le baptême de son successeur.
 
 {{<figure src="/images/articles/ceremonieabatagevannier.jpg" title="Abatage de la grume au godendard">}}
 
-{{<figure src="/images/articles/abatagephotoleclerq.jpg" title="La dernière bille est abattue (photo Leclerq)">}}
+{{<figure src="/images/articles/abatagephotoleclercq.jpg" title="La dernière bille est abattue (photo Leclercq)">}}
 	
 l’abatage vient d’avoir lieu. Le chêne Boppe gît à terre,
 sa souche devant être bientôt sanctuarisée. 
@@ -177,9 +202,6 @@ et Hervé dit "Pape" eurent raison, en un instant, du géant.
 
 {{<figure src="/images/articles/famillepieboppe.jpg" title="La famille Pie au chevet du géant">}}
 	
-La famille Pie au chevet du géant de Bercé terrassé en ce 22 juillet 1935.
-
-
 {{<figure src="/images/articles/famillepieboppe2.jpg" title="La famille Pie aux Clos">}}
 
 ### Quiproquo sur son âge : 
@@ -188,18 +210,16 @@ La famille Pie au chevet du géant de Bercé terrassé en ce 22 juillet 1935.
 
 C’est l’âge du chêne Boppe avancé sur certaines cartes postales
 (celles ci faisaient état d’un âge approximatif en 1922
-de 235 ans + 150 ans= 385 ans : 235 ans étant l’âge supposé du
+de 235 ans + 150 ans= 385 ans : 235 ans étant l’âge supposé du
 peuplement situé autour du chêne Boppe et 150 ans l’âge auquel 
-celui ci avait été, semble – il, anciennement régénéré.)
+celui ci avait été, semble-il, anciennement régénéré.)
 Une publication de l’inspecteur Potel concerne l’âge probable du chêne Boppe : 
 	
-{{<figure src="/images/articles/boppeage.jpg" title="Quiproco sur l'âge des Clos">}}
+{{<figure src="/images/articles/boppeage.jpg" title="l’âge du Boppe est affiché sur les cartes">}}
 	
-la revue des Eaux et forêts de février 1924 relate : 
+La revue des Eaux et forêts de février 1924 relate : 
 Les plus gros de ces arbres sont visiblement d’anciennes 
-réserves du « Tire et Aire » dont l’âge doit donc être d’environ 450 ans. 
-
-{{<figure src="/images/articles/oe19350109.jpg" title="Ouest-Éclair du 9 janvier 1935">}}
+réserves du « Tire et Aire » dont l’âge doit donc être d’environ 450 ans. 
 
 Pour les forestiers c’est une évidence et personne n’avait auparavant
 pensé à compter les cernes sur les souches des arbres exploités. 
@@ -210,7 +230,7 @@ Roulleau du 30 novembre 1895 qui estimait à 208 ans l’âge des Clos).
 ### Le 22 juillet 1935 
 *en brigade avec Mr l’inspecteur adjoint, 
 assisté à  l’abatage du chêne Boppe. Constaté que cet arbre était
-âgé approximativement de 260 ans ». (il faut savoir que l’âge a été compté
+âgé approximativement de 260 ans ». (il faut savoir que l’âge a été compté
 au niveau des rondelles, c'est-à-dire à une hauteur de 1m30)*.
 
 Ce ne sera donc qu’après l’abatage du chêne Boppe que Potel
@@ -237,18 +257,17 @@ Deux rondelles de sa base, de 1,40 m de diamètre et 0,20 m
 d’épaisseur, soigneusement cerclées, furent adressées,
 l'une à l'école forestière de Nancy et par la suite
 envoyée à l'exposition de 1937, la seconde au musée du Mans. 
-La Fédération Nationale des Syndicats d’Exploitants Forestiers
-à Paris, l’Automobile Club de l’Ouest du Mans,  
-l’exposition de 1937 à Paris, une rondelle est visible 
-au musée du bois à Jupilles….. 
+Puis d’autres iront à la Fédération Nationale des Syndicats d’Exploitants Forestiers
+à Paris, l’Automobile Club de l’Ouest du Mans.
+Une rondelle est visible au musée du bois à Jupilles….. 
 Bref, à force de découper des rondelles, la première bille 
-avait vite fait de maigrir d’un bon mètre de longueur.
+avait vite fait de maigrir d’un bon mètre en longueur.
 	
 {{<figure src="/images/articles/cahieraffiche1935.jpg" title="Page 26 du cahier Affiche de la Vente d’octobre 1935">}
 	
 Le garde Lasnier écrit le 22 Octobre 1935 : 
-µSuis parti à St.Vincent à la scierie Adet - 
-(note au sujet du chêne Boppe)*. 
+*Suis parti à St.Vincent à la scierie Adet - 
+(Note au sujet du chêne Boppe)*. 
 	
 C’est à cet endroit que nous retrouverons notre arbre en 1936.
 
@@ -256,14 +275,16 @@ C’est à cet endroit que nous retrouverons notre arbre en 1936.
 
 C’est finalement le syndicat des Marchands de bois par 
 l’intermédiaire de son Président Mr. Pasquier (de la Chartre s/le Loir) 
-qui se portera acquéreur de ces vestiges qui n'ont par ailleurs pas trouvé preneur. 
+qui se portera acquéreur de ces vestiges qui n'ont par ailleurs pas trouvé autres preneurs. 
 
 
 {{<figure src="/images/articles/085b3.jpg" title="A la scierie Adet de Saint-Vincent">}}
 
 La Scierie Adet de St. Vincent, fut chargée de la découpe des 
-billes en planches - Des meubles (armoires, chambre, bureau,)
-réalisés avec le bois du chêne Boppe, ornent encore 
+billes en planches.
+
+Des meubles (armoires, chambre, bureau), furent
+réalisés avec le bois du chêne Boppe, et ornent encore 
 l’intérieur de certaines maisons de Saint-Vincent, notamment. 	
 
 
@@ -277,7 +298,7 @@ l’intérieur de certaines maisons de Saint-Vincent, notamment.
 
 ### Bibliographie :
 
-Potel : La vie et  la mort  en forêt de Bersay, et Le chêne BOPPE, 
+Potel : La vie et  la mort  en forêt de Bersay, et Le chêne BOPPE, 
 (Bulletin de la Société d'Agriculture,  
 Sciences et Arts de la Sarthe, T. LIV, p. 48 et 301)
 	
@@ -285,20 +306,13 @@ Sciences et Arts de la Sarthe, T. LIV, p. 48 et 301)
 La Sarthe, des 30 décembre 1934.
 	
 
-Henri Roquet, « les beaux vieux arbres de la Sarthe » (1939-1942)
+Henri Roquet, « les beaux vieux arbres de la Sarthe » (1939-1942)
 	
 
 Documents écrits (ou notes internes) par Raymond Viney. 
 A propos d’une parcelle artistique. Revue forestière française,
 AgroParisTech, 1950, 12, pp.734-741. ff10.4267/2042/27738ff. 
 ffhal-03380089 
-
-
-
-
-
-	
-	
 
 
 
