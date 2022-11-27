@@ -26,12 +26,12 @@ entre le capital investi et  les revenus obtenus.
 l’intérêt que peut présenter une réserve exceptionnelle.*
 
 Ces paroles de Mr Viney, jadis inspecteur principal des
-Eaux & Forêts au Mans vous situent l’importance du dilemme
+Eaux & Forêts au Mans vous situent l’importance du dilemne
 auquel tout forestier est un jour ou l’autre confronté. 
   
-Ce merveilleux dilemme nous permet aujourd’hui de pouvoir 
+Ce merveilleux dilemne nous permet aujourd’hui de pouvoir 
 contempler cette  "réserve hors d’âge", 
-qui possède sans doute les plus vieux arbres de futaie 
+possèdant sans doute les plus vieux arbres de futaie 
 pleine en France… 
 
 …ceux de  la futaie des Clos. 
@@ -40,16 +40,16 @@ pleine en France…
 
 Il est bien loin le temps des cueilleurs-chasseurs.
 
-Henri Roquet dans « les beaux vieux arbres de la Sarthe » 
+Henri Roquet dans « les beaux vieux arbres de la Sarthe » 
 (1939-1942) magnifie dans son texte la puissance des lieux.
 
 [Texte d’Henri Roquet](/articles/pdf/boppeparhenriroquet.pdf) 
 
 Projetons-nous aux environs de 1650 dans L'ancien enclos
-(nommé dans la toponymie orale le « champ du serf ou du cerf »). 
+nommé dans la toponymie orale le « champ du serf ou du cerf ». 
+
 La futaie claire présente est régénérée selon les préceptes
-de Colbert (1669). 
-Elle laisse  alors place aux jeunes semis. 
+de Colbert (1669). Elle laisse  alors place aux jeunes semis. 
 
 Sa régénération sera programmée aux alentours de 1890.
 
@@ -64,31 +64,34 @@ remarquent cette entité forestière.
 
 ### Début juin 1894, un chêne est baptisé :
 
-{{<figure src="/images/articles/vueboppe.jpg" title="Le chêne Boppe futur élu">}}
+{{<figure src="/images/articles/vueboppe.jpg" title="Le chêne Boppe - futur élu">}}
 
 Un magnifique chêne qui présentait un fût absolument
 droit jusqu'à la cime, sans nœud et sans défauts. 
 Le plus gros arbre sans basses branches est repéré, 
 puis baptisé en présence et en l’honneur de Lucien Boppe :
-  
-     52ème directeur de l’ENEF (l'École Nationale Forestière de Nancy). 
-     Lucien Boppe (1834-1907) était inspecteur des forêts, 
-     professeur de sylviculture et dirigea l’École forestière de Nancy 
-     à partir de 1893–1898, après en avoir été le sous-directeur pendant 12 ans.
+        52ème directeur de l’ENEF 
+        (l'École Nationale Forestière de Nancy). 
+        Lucien Boppe (1834-1907) 
+       était inspecteur des forêts, 
+       professeur de sylviculture et
+       dirigea l’École forestière de Nancy 
+      à partir de 1893–1898, après en avoir 
+      été le sous-directeur pendant 12 ans.
 
 
-{{<figure src="/images/articles/boppedirecteur.jpg" title="Lucien Boppe, Directeur de l'ENEF">}}
+{{<figure src="/images/articles/boppedirecteur.jpg" title="Lucien Boppe, directeur de l'ENEF">}}
 
-{{<figure src="/images/articles/thiollierboppe1924.jpg" title="Déjeuner aux Clos 1924 (Thiollier)">}}
+{{<figure src="/images/articles/thiollierboppe1924.jpg" title="Déjeuner aux Clos 1924 (photo Thiollier)">}}
 
 Entre les 6 et 9 Juin, le baptême fut célébré lors d’une tournée de
 Mrs les  conservateurs d’Alençon (E. Charlemagne), de Nancy 
 (Mrs. les agents de l’ENEF dont Mr. Lucien Boppe : directeur) 
 
 *Pour la petite histoire, Mr Boppe reviendra sur Bercé l’année 
-suivante du 18 au 22 Juin avec les élèves de l’ENEF.
+suivante du 18 au 22 Juin avec les élèves de l’ENEF.*
   
-Il donnera au garde Heintz deux boîtes de dragées en remerciements 
+*Il donnera au garde Heintz deux boîtes de dragées en remerciements 
 des deux loges construites en vue de la réception 
 de l’École Nationale des Eaux et Forêt, le jour du baptême*.
 
@@ -100,7 +103,7 @@ de l’École Nationale des Eaux et Forêt, le jour du baptême*.
 Plus de 1000 m³/ha (alors qu'une futaie normale pèse 
 entre 450 à 650m³/ha à la fin de sa vie).
 La hauteur importante des arbres, 
-(…la plus haute de France dans sa catégorie est relevée non loin d’ici, 
+(la plus haute de France dans sa catégorie est relevée non loin d’ici, 
 dans le vallon de l’Hermitière), leur qualité et leur abondance 
 incitent les forestiers d'alors à demander le maintien en futaie, 
 alors qu'elle devait être logiquement régénérée (à 240 ans). 
@@ -111,30 +114,32 @@ L'inspecteur Viney expose ici le point de vue du forestier sur cette parcelle de
 
 [A propos d’une parcelle artistique](/articles/pdf/aproposduneparcelleartistique.pdf)
 
-Ou l’intégrale dans ce PDF : [A propos d’une parcelle artistique ](/articles/pdf/viney1950.pdf) 
+Ou l’intégrale dans ce PDF : [A propos d’une parcelle artistique](/articles/pdf/viney1950.pdf) 
 
 L’inspecteur Roulleau, est un avocat tout désigné pour les Clos.  
-Le 30 novembre 1895 il fait le rapport suivant : 
+Tant et si bien que le 30 novembre 1895, il fait le rapport suivant : 
 [Reproduction du rapport Roulleau](/articles/pdf/nov1895roulleau.pdf)
 
 ### Juin 1896 :
 
-*Les élèves de la 71ème promotion de l'École forestière, sous la direction 
-  de deux de leurs professeurs, MM. Gustave Huffel et Antoine Jolyet,
-  ont visité les 16 et 17 juin dernier la forêt domaniale de Bercé (Sarthe). 
+Les élèves de la 71ème promotion de l'École forestière, sous la direction 
+de deux de leurs professeurs, MM. Gustave Huffel et Antoine Jolyet,
+ont visité les 16 et 17 juin dernier la forêt domaniale de Bercé (Sarthe). 
 M. Charlemagne, conservateur des forêts à Alençon, avait tenu à recevoir
-  l'École au seuil même de sa conservation, là où elle avait installé 
-  son quartier général, dans la petite ville de Château-du-Loir. 
-  Nous avons décrit ici même les splendeurs des massifs de futaie que 
+l'École au seuil même de sa conservation, là où elle avait installé 
+son quartier général, dans la petite ville de Château-du-Loir. 
+
+*Nous avons décrit ici même les splendeurs des massifs de futaie que 
   Bercé offre aux forestiers; nous n'y reviendrons donc pas.
-  Contentons-nous seulement de dire que le chêne Boppe et le peuplement 
-  qui l'entoure ont excité l'admiration générale. Le lecteur jugera par
-  les chiffres suivants si cet enthousiasme est immérité. 
+  Contentons-nous seulement de dire que le chêne Boppe et
+  le peuplement qui l'entoure ont excité l'admiration générale. 
+Le lecteur jugera par les chiffres suivants si cet enthousiasme est immérité. 
 Ce vieux massif de chêne pur a 210 ans, et renferme actuellement à 
   l'hectare un volume grume de 976 mètres cubes.
   La production moyenne depuis la naissance a été de 6m³76; 
-elle se maintient encore aujourd'hui, pour la dernière période de 20 ans, à 6m³21. 
-L'hectare a été estimé net en 1896 à 43.3oo fr. La valeur vénale de la production 
+ elle se maintient encore aujourd'hui, pour la dernière période 
+ de 20 ans, à 6m³21. L'hectare a été estimé net en 1896 à 
+ 43.3oo fr. La valeur vénale de la production 
   à l'hectare est actuellement de 280 fr. 
 Les fûts atteignent 25 et 3o mètres; les cimes sont amples,
   d'une vigueur de végétation qui ne se dément pas malgré l’âge ;  
@@ -149,9 +154,10 @@ Quatre élèves étrangers, un belge, un danois, un grec et un roumain,
   s'étaient joints à l'École, que guidaient en ses tournées MM. de Vercly,
   inspecteur des forêts, et Roulleau, inspecteur adjoint a Mans.*
 
-{{<figure src="/images/articles/1897boppe.jpg" title="1897 - Rénovation de la pancarte du chêne Boppe">}}
+{{<figure src="/images/articles/1897boppe.jpg" title="Rénovation de la pancarte du chêne Boppe">}}
 
-Les élèves de l'ENEF sont au chevet de la réfection de la pancarte.
+En 1897 les élèves de l'ENEF sont au chevet de la réfection de la pancarte. 
+La méthode est sportive et efficace.
   
 ### En 1904 :
   
@@ -165,6 +171,6 @@ Les élèves de l'ENEF sont au chevet de la réfection de la pancarte.
 {{<figure src="/images/articles/mauriceajam.jpg" title="Le député Ajam dans son bureau">}}
 
 L'inspecteur Viney nous relate l’histoire de cette parcelle des Clos vue 
-  par elle-même
+  par elle-même :
+
   [Mémoires d’une parcelle de la forêt de Bercé](/articles/pdf/closparviney.pdf)
-  
