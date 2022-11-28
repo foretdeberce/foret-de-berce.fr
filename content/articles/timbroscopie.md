@@ -20,7 +20,15 @@ qui seront couchées sur les planches de la poste française,
 le syndicat d’initiative de la Sarthe tente un premier essai en 1931 
 avec ce titre de l’Ouest Éclair du 5 avril 1931….
 
+{{<figure src="/images/articles/troncais1.jpg" title="Timbre 1er jour 19 juin 1976 chêne de la Résistance">}}
+  
+{{<figure src="/images/articles/troncais2.jpg" title="Document philatélique du timbre Tronçais">}}
+  
+{{<figure src="/images/articles/troncais3.jpg" title="Timbre futaie de Tronçais">}}
+  
+{{<figure src="/images/articles/broceliande2006.jpg" title="Timbre Brocéliande 2006">}}
 
+  
 ### Ouest Éclair du 5 avril 1931
 
 #### 500.000 timbres touristiques viennent d'être édités !
