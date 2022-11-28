@@ -140,8 +140,11 @@ un pont trop loin. Celui ci s’en sortit avec des brûlures aux pieds.
 
 Il reprend la scierie FOREAU devenue plus tard, Cartereau à Pruillé-l’Éguillé,
 implantée en forêt de 1922 jusque vers 1934 (décès de Mr Cartereau en décembre 1938). 
-Face à la Villa Huguette la scierie Ballion, faussement dénommée Cartereau est implantée dans la parcelle 170, le long de l’actuel CD13. Le tramway desservait ce lieu.  
-
+Face à la Villa Huguette la scierie Ballion, faussement dénommée Cartereau est 
+implantée dans la parcelle 170, le long de l’actuel CD13. Le tramway desservait ce lieu. 
+       
+{{<figure src="/images/articles/cartereaupruille1933.jpg" title="La scierie Cartereau en 1933">}}
+       
 Émile Ballion s’est mis à acheter des bois en forêt après guerre, 
 quand ses fils ont voulu moderniser la scierie.
        
