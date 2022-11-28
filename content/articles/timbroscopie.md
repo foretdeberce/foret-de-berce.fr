@@ -7,18 +7,23 @@ featured_image: "/images/timbroscopie.jpg"
 tags: ["Remarquables","Tourisme","Hommes","Tramway","Hermitiere","Coudre","Boppe"]
 ---
 
-### Ouest Éclair du 5 avril 1931
-
-C’est un comble pour une aussi belle forêt, 
+C’est un comble pour une forêt comme Bercé, 
 de ne posséder aucune carte de visite « philatélique »!…..
 
-Si en 1919, paraît le 1er timbre forestier… il est Allemand et célèbre les reboisements. 
+Si en 1919, paraît le 1er timbre forestier… 
+il est Allemand et célèbre les reboisements. 
+
+[Références sur ce sujet](/articles/pdf/timbresforets.pdf)
 
 À l’instar des forêts de Fontainebleau, Rambouillet, Tronçais et Brocéliande, 
-qui seront couchées sur les planches, le syndicat d’initiative de la Sarthe 
-tente un premier essai en 1931 avec ce titre de l’Ouest Éclair du 5 avril 1931….
+qui seront couchées sur les planches de la poste française, 
+le syndicat d’initiative de la Sarthe tente un premier essai en 1931 
+avec ce titre de l’Ouest Éclair du 5 avril 1931….
 
-### 500.000 timbres touristiques viennent d'être édités !
+
+### Ouest Éclair du 5 avril 1931
+
+#### 500.000 timbres touristiques viennent d'être édités !
 
 *Nous avons annoncé, il y a quelque temps, que le Syndicat d'initiative de la Sarthe avait décidé de publier 
 des timbres de propagande sur les points touristiques les plus Intéressants du département.* 
@@ -56,8 +61,9 @@ la Forêt de Bercé, l'Abbaye de Solesmes, le plan de la Forêt de Perseigne, le
 du Mans et une vue de la Tour Madeleine. 
 
 *Les personnes qui désireraient en acquérir peuvent en faire la demanda au Syndicat d'initiative de la Sarthe (bureau du tourisme, 10, rue du Cornet).*
+  
 
-…Bon…ce n’est plus la peine de vous déplacer…
+…Bon… ce n’est plus la peine de vous déplacer…
 depuis 1931…le bureau est déménagé depuis longtemps déjà.
   
 Pour célébrer Bercé, je vous ai concocté les quelques
@@ -67,6 +73,6 @@ faux spécimens de timbres qui auraient pu voir le jour.
   
 {{<figure src="/images/articles/391timbres.jpg" title="Les faux timbres de Bercé">}}
   
-Par contre la flamme postale de château du loir vient combler un peu le vide.
+La flamme postale de château du loir vient un peu combler le vide.
   
 {{<figure src="/images/articles/chateauloir.jpg" title="La flamme de Château du Loir">}}  
