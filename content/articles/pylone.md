@@ -7,7 +7,7 @@ featured_image: "/images/antenne-mayet.jpg"
 tags: ["Remarquables","Curiosités","Monument"]
 ---
 
-## Un monument de Bercé ... Le pylône de Mayet
+### Un monument de Bercé ... Le pylône de Mayet
 
 Bercé, cet océan de verdure, se devait bien de posséder 
 un phare à sa hauteur.
@@ -18,7 +18,8 @@ Le garde Gendre commente les prémices de sa construction.
 
 {{<figure src="/images/articles/tour.jpg" title="Emplacement du Pylone de Mayet">}}
 
-1957 : On commence à en apercevoir le projet : 
+### 1957 :
+ On commence à en apercevoir le projet : 
 « Je suis allé voir le point retenu pour la construction 
 du pylône relais TV, parcelle 104, près du rond de
 Verneil. La navigation aérienne et sportive demande 
@@ -42,22 +43,29 @@ chemin d’accès (RTF) puis montage du pylône.»
     Mayet : la redevance annuelle est de 36,82 NF + 11,34 NF de 
     redevance forfaitaire.
     
-Juillet 1959 : le garde GENDRE a eu la visite en d’un
+### Juillet 1959 :
+ le garde GENDRE a eu la visite en d’un
 contremaître de la RTF pour effectuer une trouée dans
 les peuplements « …devant servir au passage des cordages servant à amarrer le pylône ».
 11 octobre 1959 : inauguration.
+ 
+{{<figure src="/images/articles/relaimayet.jpg" title="La première antenne">}}
+ 
 Mise en service du premier pylône : 300m de haut.
  
  {{<figure src="/images/articles/1959relai.jpg" title="Inauguration de 1959">}}
 
-1963 : démarrage de la FM.
+### 1963 :
+ démarrage de la FM.
 
-1967 : apparition de la couleur, ce qui nécessitera 
+### 1967 : 
+ Apparition de la couleur, ce qui nécessitera 
 le rehaussement du pylône ancien (320m).
  
  {{<figure src="/images/articles/744mayet.jpg" title="Réhaussement du pylône">}}
 
-16 avril 1969 : grève et manifestation des commerçants
+### 16 avril 1969 : 
+ grève et manifestation des commerçants
 du département au relais de l’ORTF. 
 Gendre effectue un service de sécurité avec l’aide des ouvriers.
 
@@ -65,16 +73,20 @@ Gendre effectue un service de sécurité avec l’aide des ouvriers.
     Terres-Blanches après l’attentat de Roc'h Trédudon.
     On craint le pire pour ce grand pylône.
 
-1985 : cryptage de la 4ème chaîne (Canal +)
+### 1985 :
+ Cryptage de la 4ème chaîne (Canal +)
 
-1987 : extension du réseau TV
+### 1987 : 
+ extension du réseau TV
 
-1993 : démolition de l’ancien pylône et mise en service
+### 1993 : 
+ démolition de l’ancien pylône et mise en service
 du nouveau. On passe de 320 mètres à 342 mètres. 
   
  {{<figure src="/images/articles/terresblanches.jpg" title="342 m record battu">}}
 
-1996 : La base de l’ancien pylône s’est métamorphosée 
+### 1996 :
+ La base de l’ancien pylône s’est métamorphosée 
 en une sculpture contemporaine (signée Jean Bernard
 MÉTAIS, de Courdemanche) que l’on peut découvrir 
 sur la place de Mayet, devant l’Office du tourisme.
