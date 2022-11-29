@@ -221,7 +221,9 @@ débuts du débit de l’Aune.
      sérieusement blessé.
        
        Un nom parmi tant d'autres
-       Lequerlin Guillaume de Marigné - contre maître      
+       Lequerlin Guillaume de Marigné - contre maître     
+       
+{{<figure src="/images/articles/tracteurs1930.jpg" title="Matériels de transport">}}
        
 ## À Mayet 
        
