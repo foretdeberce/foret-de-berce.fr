@@ -193,9 +193,13 @@ mais on connu ces bâtiments et sur le hangar il y avait comme enseigne un
 ### La scierie Berger Roger
        
 La scierie Berger de Marigné est alors réputée pour sa grande
-et belle production de parquet.En lieu et place des Armatures
+et belle production de parquet.
+       
+{{<figure src="/images/articles/marigne12.jpg" title="Vue d'ensemble de la scierie">}}       
+       
+En lieu et place des Armatures
 Mancelles sur Marigné au début du 20e siècle, 
-Elle employait en forêt nombre de bûcherons et d’éhouppeurs.
+elle employait en forêt nombre de bûcherons et d’éhouppeurs.
 Deux camions alimentaient la scierie. Les arbres étaient hissés au treuil.
        
 {{<figure src="/images/articles/scierieberger3.jpg" title="Tarif au 1er septembre 1933">}}
