@@ -4,10 +4,10 @@ date: 2019-11-09T10:58:08+01:00
 draft: false
 description: "Initiée par Colbert en forêt de Bercé"
 featured_image: "/images/futaie.jpg"
-tags: ["Exploitation"]
+tags: ["Exploitation","Aménagement"]
 ---
 
-## Une sylviculture respectueuse de l'environnement et du rythme séculaire de la forêt.
+### Une sylviculture respectueuse de l'environnement et du rythme séculaire de la forêt.
 
 En forêt de Bercé, les règles de culture font l’objet de soins
 constants de la part de l'ensemble du personnel de
@@ -15,7 +15,7 @@ l'Office national des forêts.
 Les forestiers interviennent tout au long de la vie des
 peuplements pour façonner une forêt apte à vous accueillir.
 
-## Réflexions et avis de Rémond Lorne.
+### Réflexions et avis de Rémond Lorne.
 (initiateur de la méthode actuelle dite des arbres objectifs) 
 
 *« ….Quel devrait être le rôle du forestier tout au long de la 
@@ -27,7 +27,7 @@ allaient jusqu'au terme du peuplement.
 Je terminais en disant que cela devrait faire l'objet d'une 
 étude chiffrée qui me paraissait indispensable. 
 Ainsi,  j'étais amené à constater que tout n’était pas parfait 
-dans nos forêts domaniales, comme cherchait à m'en convaincre VINEY,
+dans nos forêts domaniales, comme cherchait à m'en convaincre Viney,
 et ceci même dans nos magnifiques futaies de chêne de l'ouest. 
 Ainsi les régénérations  (remplacement des vieilles futaies par 
 semis naturel) étaient trop souvent médiocres, ronces ou fougères
@@ -53,12 +53,13 @@ pieds à tranchage,  les gros,  était jusqu'a dix fois supérieure
 Tout  cela mijotait dans ma tête et m'amena finalement à rédiger
 un article destine à la Revue Forestière Française. 
 C'était au printemps 1956, à la fin de mon règne seul à
-l’inspection du Mans … ».* 
+l’inspection du Mans…».* 
 
-## Un visionnaire au Danemark 
+### Un visionnaire au Danemark 
 
 Au printemps 1958, lors d’une mission à l’étranger,
 Rémond Lorne note :
+
 *« Les Danois ne barguignent pas avec le travail.
 Ce que je voyais là, la nature assistée d'un intense
 travail humain, dépassait encore mes conceptions et 
@@ -69,7 +70,7 @@ qu'ils  étaient  gros relativement jeunes.
 
 {{<figure src="/images/articles/rougis.jpg" title="Le rouge basque est remplacé aujourd'hui par le beige">}}
 
-En gros, les chênes à l'époque, avaient un "accroissement
+*En gros, les chênes à l'époque, avaient un "accroissement
 annuel moyen" (le «cerne" que l'on voit sur
 une souche ou une bûche) de 1,6 mm et je proposais de 
 le porter, à 2 mm ce qui correspond encore à
@@ -82,8 +83,8 @@ que les éclaircies soient toujours effectuées
 énergiquement à leur profit….. »*
 
 
-    A l’Inspection du Mans avec M. de MOUSTIER (1956-1960).
-    C’est l’époque où Rémond LORNE fait paraître des articles 
+    A l’inspection du Mans avec M. de Moustier(1956-1960).
+    C’est l’époque où Rémond Lorne fait paraître des articles 
     sur la sylviculture des futaies de chênes :
     >«A  la recherche de la qualité et des gros diamètres
     dans les futaies de chênes» (Revue Forestière Française 1956).
@@ -126,7 +127,7 @@ quantité de Congressistes .
     de ces enjeux. Cette définition de la Sylviculture
     moderne, garde encore aujourd’hui tout son sens.
 
-## La partie cultivée en chêne est assez bien équilibrée en classes d'âge.
+### La partie cultivée en chêne est assez bien équilibrée en classes d'âge.
 
   On recense à Bercé 3000 ha de chêne rouvre, dans la partie 
   historique de la forêt, dont l'âge d'exploitabilité est 
@@ -139,6 +140,7 @@ Les vieux arbres arrivés à maturité ensemencent le terrain
 avant de disparaître progressivement,pour laisser place 
 aux jeunes semis. Les régénérations courent sur environ 10 ans,
 mettant à nu 166 ha de peuplement.
+    
 Le hêtre est bien présent en sous étage, mais jusqu’à quand
 avec le réchauffement climatique qui s’intensifie.
 Bercé, était il n’y a pas si longtemps, une magnifique hêtraie !
@@ -146,7 +148,7 @@ Bercé, était il n’y a pas si longtemps, une magnifique hêtraie !
 {{<figure src="/images/articles/pouce-hetre.jpg" title="Une jeune pousse de hêtre">}}
 
 
-## La partie cultivée en résineux est moins équilibrée.
+### La partie cultivée en résineux est moins équilibrée.
 
 2400 ha de résineux, surtout des pins : pin maritime, 
 pin sylvestre, pin Laricio de Corse, exploités à 60 ou 100 ans
@@ -159,11 +161,13 @@ Les forestiers entreprennent  avec audace, la restructuration de
 ces peuplements fragilisés, dans le respect total de la biodiversité.
 
 
-## Bercé: une gestion raisonnée et un sentiment écologique plus fort qu'auparavant.
+### Bercé: une gestion raisonnée
+    
+et un sentiment écologique plus fort qu'auparavant.
 
 {{<figure src="/images/articles/bas-perchis-50 ans.jpg" title="Bas perchis cinquantenaire">}}
 
-## Travaux forestiers.
+### Travaux forestiers.
 
 Les travaux mécaniques sur les sols limoneux sont aujourd’hui, 
 réduits au minimum, afin d'éviter toute évaporation et exportation
@@ -198,7 +202,7 @@ N’oublions pas que nous n’hériterons jamais d'une
 forêt comme Bercé, nous l’empruntons
 humblement à nos enfants et petits enfants.                        
 
-## Feu.
+### Feu.
 
 Les rémanents ne sont plus incinérés depuis 1997 : 
 la matière organique revient enfin à l'humus du sol.
@@ -216,7 +220,7 @@ l'humus  du sol  et donc  son appauvrissement.
   
 Bref, l’exemple à ne pas suivre !
 
-## Extractions.
+### Extractions.
 
 Il n'y a plus d'extraction d'aucune sorte :
   pierres, mousses et houx. Le houx (particularité de Bercé)
@@ -231,7 +235,7 @@ Des arbres secs sont conservés sur pied ou à terre
   en Natura 2000 est de nature à inciter les 
   forestiers à une très grande vigilance.
 
-## Durée de révolution.
+### Durée de révolution.
 
 Seul bémol, mais de taille, la durée de révolution a baissé… 
 Le climat se modifie et devient plus chaud, 
