@@ -70,7 +70,8 @@ les derniers scieurs itinérants se sédentariseront.
        
 {{<figure src="/images/articles/tableauscieries.jpg" title="Tableau des scieries locales">}}
 
-     Les scieries de Vaas, Jamet à Thoiré, 
+     Les scieries de Vaas, Jamet à Thoiré,
+     Dupuis à Chahaignes,
      Legeay et Gager à Pruillé l’Éguillé, 
      Papin et Pichot à Villaines sous Lucé,
      Garnier à Laillé,  Barillet et les 
@@ -119,7 +120,10 @@ A Bercé, ils scient d’abord pour Cartereau (Boisselier)
      pour les établissements Renault et Carel & Foucher (trains).
      Elle fut autrefois volante « le 10 janvier 1930 dans la 
      parcelle 17 Xème série, et à la Guiltière le 12 juillet 1955). 
-     Émile avait à l’époque une moto pour se déplacer. 
+     Émile avait à l’époque une moto pour se déplacer.
+       
+{{<figure src="/images/articles/scierie-ballion.jpg" title="La loge Ballion en 1931">}}    
+       
      Deux des fils, naîtront en forêt l’un en 1930 au rond de Verneil,
      l’autre le 26 septembre 1931 au dessus de l’Embranchement, 
      à la villa Huguette (P.161), située à l’intersection de 
@@ -147,8 +151,6 @@ implantée dans la parcelle 170, le long de l’actuel CD13. Le tramway desserva
        
 Émile Ballion s’est mis à acheter des bois en forêt après guerre, 
 quand ses fils ont voulu moderniser la scierie.
-       
-{{<figure src="/images/articles/scierie-ballion.jpg" title="La loge Ballion en 1931">}} 
        
 Au fil du temps l’entreprise se sédentarisera sur Pruillé. 
 Elle a été depuis le décès d’Émile en décembre 1987, 
@@ -244,7 +246,7 @@ Décès de M. Pasquier en mars 1941.
 
 ## À Laigné-en-Belin 
        
-### Scierie Bailleul frères 
+### La scierie Bailleul frères 
        
      Ouest-Éclair du 1er mars 1932
      Le 19 février 1932 M. Raux Narcisse,
@@ -284,17 +286,19 @@ En 1934 elle possède un moteur vapeur de 80 cv
 pouvant entraîner 3 rubans + 1 circulaire. 
 Située à 2 km d’Écommoy et 10 km de la forêt,
 employant 15 personnes, elle pouvait scier jusqu’à 18 m³/j.
-« C’était le premier employeur industriel de la ville.
+       
+*"C’était le premier employeur industriel de la ville.
 Le plus ancien également. Créée en 1912 par la famille Luce, 
 la vieille scierie d’Écommoy a beau s’être appelée Belinoise
 puis Belipa, ces changements de noms, malgré de fréquents 
 soubresauts, n’avaient jamais trop affecté son fonctionnement, 
 la cheminée et sa fumée crachant fidèlement leurs poumons
-devant cette orée de Bercé. » (Maine Libre du 7 novembre 2012)
+devant cette orée de Bercé."*  
+(Maine Libre du 7 novembre 2012)
        
 ## À Chahaignes 
        
-### Les scieries Vannier et Dupuis 
+### La scierie Vannier
        
 Mobile en un premier temps, elle a tout comme les autres,
 bénéficié de la proximité de la forêt pour y établir son activité.
