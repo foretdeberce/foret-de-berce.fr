@@ -346,6 +346,9 @@ apportera la modernisation. Émile Allard décèdera en 1976 à 73 ans.
 ### La scierie Adet. 
        
 Adet s’associe avec Vaillant Auguste en 1924. 
+       
+{{<figure src="/images/articles/scierievaillant.jpg" title="lettre du 1er mars 1925">}}
+       
 La première scierie de Saint-Vincent utilisait l’énergie
 hydraulique au moulin de Vaubouillé. La scierie du Héron
 ou Gare Chêne, utilisait la force motrice à vapeur avec des
