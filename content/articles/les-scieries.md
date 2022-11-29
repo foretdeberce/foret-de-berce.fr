@@ -192,6 +192,7 @@ mais on connu ces bâtiments et sur le hangar il y avait comme enseigne un
        
 ### La scierie Berger Roger
        
+Berger Roger de Marigné - Marchand de bois       
 La scierie Berger de Marigné est alors réputée pour sa grande
 et belle production de parquet.
        
@@ -219,16 +220,23 @@ débuts du débit de l’Aune.
      prendre la main gauche et a été
      sérieusement blessé.
        
+       Un nom parmi tant d'autres
+       Lequerlin Guillaume de Marigné - contre maître      
+       
 ## À Mayet 
        
 ### La scierie Cavé 
-       
+
+Cavé Albert de Mayet - exploitant
 Fait partie des scieries importantes en Sarthe. 
 La plus grande était au Mans : Carel & Fouché,
 et se trouvait à coté de la fabrique de wagons. 
 La scierie de Mayet produit avant guerre 7 à 8 m³ 
 de sciage de pin et de peuplier. 
 Obsèques de M. Cavé le 9 mars 1949.
+Quelques noms :
+Dubois Victor de Mayet - contre maître
+Cougne Georges de Mayet - contre maître       
        
 ## À La Chartre-sur-le-Loir
        
@@ -300,6 +308,10 @@ la cheminée et sa fumée crachant fidèlement leurs poumons
 devant cette orée de Bercé."*  
 (Maine Libre du 7 novembre 2012)
        
+       Quelques noms : 
+       Hautreux Marcel d'Ecommoy - commis
+       Lampin Lucien d'Ecommoy - exploitant
+       
 ## À Chahaignes 
        
 ### La scierie Vannier
@@ -326,7 +338,19 @@ A Jupilles comptait en 1906, 1256 habitants, 162 Sabotiers,
 19 Sculpteurs, 7 Menuisiers,  3 Tonneliers,  5 Brossières….
 A la scierie Bignon le moteur à vapeur a pris feu au ras du
 moulin dans la vallée du Dinan (moulin ayant appartenu au 
-prince Charles de Beauveau, situé en dessous du Tertre Fouquet). 
+prince Charles de Beauveau, situé en dessous du Tertre Fouquet).
+       
+     Quelques noms de professionnels habitants Jupilles mais 
+     travaillant souvent dans les scieries avoisinantes:   
+       
+     Peigné Georges de Jupilles - scieur chez Ballion
+     Perroux Gaston de Jupilles - scieur chez Ollivier Gaston
+     Roullier Daniel de Jupilles - scieur chez Foreau A
+     Joly Jean Marie de Jupilles - scieur chez Morançais A.
+     Bignon Georges de Jupilles - scieur chez Ollivier Gaston
+     Rocher Georges de Jupilles - scieur chez Ballion
+     Morançais Marcel de Jupilles - scieur chez Gager
+     Villemare Joseph de Jupilles - scieur affuteur     
        
 ## À Beaumont-Pied-de-Bœuf
        
