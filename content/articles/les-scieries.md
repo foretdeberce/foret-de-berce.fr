@@ -412,7 +412,11 @@ Fait divers : « En 1935, le patron et sa femme en
 admirant les arbres dans le canton de Sermaize ont buté 
 avec la voiture, dans un arbre » (témoignage de Thérèse Breton).
        
-{{<figure src="/images/articles/accidentbreton.jpg" title="l'accident du camion à Breton- photo Calvel">}}    
+{{<figure src="/images/articles/accidentbreton.jpg" title="l'accident du camion à Breton- photo Calvel">}}  
+
+Ce 11 septembre 1959, c'est le camion de l'entreprise Breton
+de Bourgueuil (37) qui bascule dans le fossé au niveau de 
+la parcelle 174, sur la route de la Marchandière.
        
 La mère de Mme Cissé (mère d’André), Suzanne Trouillebout
 (née Boizard) cubait aussi le bois en Forêt.
