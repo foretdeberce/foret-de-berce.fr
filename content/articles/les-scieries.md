@@ -108,6 +108,9 @@ A Bercé, ils scient d’abord pour Cartereau (Boisselier)
        
 {{<figure src="/images/articles/peyrelongue.jpg" title="Dépôt au rond de Peyrelongue">}}
        
+{{<figure src="/images/articles/126ballion.jpg" title="Émile Ballion et ses fils en bordure de CD13">}}
+
+      
      Avant guerre, il y avait tellement de lapins, que les 
      Ballion essayaient chaque samedi de les chasser au 
      collet, sans y parvenir.
@@ -152,6 +155,11 @@ implantée dans la parcelle 170, le long de l’actuel CD13. Le tramway desserva
 Émile Ballion s’est mis à acheter des bois en forêt après guerre, 
 quand ses fils ont voulu moderniser la scierie.
        
+{{<figure src="/images/articles/marchurlimann.jpg" title="Marc et son Hürlimann">}}
+
+ La scierie Ballion dispose d’un excellent tracteur le Hürlimann 
+ conduit pour l’occasion le jour de la Photo par Marc.
+           
 Au fil du temps l’entreprise se sédentarisera sur Pruillé. 
 Elle a été depuis le décès d’Émile en décembre 1987, 
 reprise par ses fils puis par les Scieries du Maine. 
@@ -219,9 +227,22 @@ débuts du débit de l’Aune.
      de bois à la scie à ruban, s’est fait 
      prendre la main gauche et a été
      sérieusement blessé.
+La scierie Berger Roger à Marigné-Laillé possédait en 1934 
+pour le transport du bois un tracteur à chenilles 
+Caterpillar de 20 cv. Elle possédait aussi un camion
+Lathil type B5 avec semi-remorque, année 1930 de 12 tonnes, 
+un camion Lathil type H2-B8 avec triqueballe, année 1934 
+de 15 tonnes (Ouest Eclair 26 juillet 1934). En 1937,
+la maison Berger, de Marigné n’a toujours pas 
+l’autorisation de se servir de son tracteur à 
+chenilles pour la vidange des coupes, mais 
+uniquement pour tirer fardiers ou chariots. 
+En 1947 cela se déride un peu….
+mais il faut surtout ...éviter les semis. 
        
        Un nom parmi tant d'autres
-       Lequerlin Guillaume de Marigné - contre maître     
+       Lequerlin Guillaume de Marigné 
+       - contre maître     
        
 {{<figure src="/images/articles/tracteurs1930.jpg" title="Matériels de transport">}}
        
@@ -236,6 +257,8 @@ et se trouvait à coté de la fabrique de wagons.
 La scierie de Mayet produit avant guerre 7 à 8 m³ 
 de sciage de pin et de peuplier. 
 Obsèques de M. Cavé le 9 mars 1949.
+Pour le transport de ses bois en 1934 la scierie 
+Cavé possédait trois fardiers
 Quelques noms :
 Dubois Victor de Mayet - contre maître
 Cougne Georges de Mayet - contre maître       
@@ -330,6 +353,8 @@ la part de son successeur. Il a donc fallu démonter en toute hâte!*
 (A.Vannier)
        
 {{<figure src="/images/articles/vannierguiltiere.jpg" title="Le tas de dosses">}}
+       
+{{<figure src="/images/articles/camionvannier1940.jpg" title="Halte du gazo Renault à Chahaignes 1940">}}
 
 ## À Jupilles
        
@@ -396,9 +421,13 @@ M. Lemaire était le gendre de Pasquier. Il y avait aussi
 Louis Breton (homme de confiance et affûteur) issu d’une famille
 de sabotiers de Jupilles  et Michel Breton né en 1932 qui 
 a travaillé avec Louis jusqu’à l’âge de 22 ans à l’affûtage 
-et en salle des machines. Il fut ensuite transporteur.
-Louis a arrêté en même temps que la scierie Adet, Les fils
-entre 1956 et 1962. Marcel Adet, le fils était bronchiteux...
+et en salle des machines. 
+Il fut ensuite transporteur en 1950 (roulier), il menait un 
+tracteur Lathil quatre roues motrices et une remorque à deux roues.
+Louis a arrêté en même temps que la scierie Adet et Les fils
+entre 1956 et 1962. 
+       
+Marcel Adet, le fils était bronchiteux...
 à moins que cet état ne soit du tout simplement à la poussière 
 de bois dont on sous-estimait à l’époque l’importance des dégâts sanitaires.
        
@@ -440,6 +469,8 @@ par le fils : Marcel. Elle sera d’abord apprentie
 (aide comptable) puis déclarée à la Sécurité Sociale 
 le 1er janvier 1939. Elle effectuait le cubage et les 
 estimations en forêt avec son patron. 
+
+{{<figure src="/images/articles/depotscierieadet.jpg" title="Stock de bois du Héron">}}       
        
 Son premier rendez-vous en forêt fut avec Mr. Hurteau 
 de Saint-Fraimbault, qui recherchait du hêtre au rond 
