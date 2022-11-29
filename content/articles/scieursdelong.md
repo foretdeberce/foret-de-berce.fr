@@ -249,6 +249,8 @@ Les nouvelles sources d'énergie, les progrès vertigineux de l'industrialisatio
   s'en suivit ont bouleversé bien des données. Certains même ont abandonné  leurs
   terres, quittant le monde rural,  attirés  par la ville. 
   
+{{<figure src="/images/articles/scieursdelong.jpg"title="Les sayeurs au long">}}  
+  
 {{<figure src="/images/articles/sdl1.jpg"title="liste non exhaustive">}}
   
   
