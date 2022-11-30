@@ -29,7 +29,7 @@ Voituriers, charretiers, fardiers, attelages, tous utilisent la plus
   on pouvait compter sur le massif de Bercé : 
   68 chevaux, 42 fardiers, 29 diables…. 
   
- {{<figure src="/images/articles/debardageboeuf.jpg" title="exemple de bœufs en débardage dans une autre forêt">}}
+ {{<figure src="/images/articles/debardageboeuf.jpg" title="Exemple de bœufs en débardage dans une autre forêt">}}
   
   Au tout début, seule la traction animale était capable de sortir les bois de la forêt. 
   Chevaux et charretiers formaient couples. 
@@ -66,10 +66,9 @@ Frère de Roger (15 ans plus jeune), Henri a toujours vouvoyé son père.
 Il quitte l’école à 12 ans pour rejoindre son père au travail. 
 Afin de protéger ses reins, il portera toujours bien ligotée une ceinture de flanelle.
 Clément son père, est charretier propriétaire. 
-En 1920 il avait un train de 4 chevaux et 2 limons, tout comme Raymond Legeay
-  
-* …qui  savait moins bien y faire avec les chevaux *. 
-  
+En 1920 il avait un train de 4 chevaux et 2 limons, 
+  tout comme Raymond Legeay
+*qui  savait moins bien y faire avec les chevaux *. 
 Durant l’hiver après les ventes de bois (ventes qui avaient lieu à la Salle 
   des Concerts du Mans, jusqu’en 1979 puis à l'Abbaye de l’Épau par la suite),
   il aide son père à débarder puis transporter les arbres de la forêt 
@@ -143,14 +142,14 @@ Tel est l’objet de la réponse suivante à une demande d’emploi d’un tract
   de la part des établissements Paulin, adjudicataire de la coupe (article 71 de 1921).
   A cette époque, le trainage des bois n’est autorisé que dans les coupes d’éclaircie 
   et encore...sous conditions :
-* Le tracteur camion ne devant pas rentrer sur le parterre de la coupe, l’indemnité 
+*Le tracteur camion ne devant pas rentrer sur le parterre de la coupe, l’indemnité 
   correspondant au parcours sur la route forestière est donc seule à compter. 
   En conséquence nous pensons qu’il y a lieu d’accorder l’autorisation demandée 
   en adoptant le chiffre de 72 francs pour l’indemnité règlementaire à faire payer 
   à l’adjudicataire comme les sommes mises en charge sur les coupes et comme 
-  supplément aux charges déjà imposées à l’affiche » *   (Potel) 
+  supplément aux charges déjà imposées à l’affiche*   (Potel) 
   
-* Vu les deux charretiers et le camion automobile de Mr Paulin. 
+*Vu les deux charretiers et le camion automobile de Mr Paulin. 
   Le 31 juillet 1922, vu 5 m³ de pierres transportées route de la
   Guiltière du rond de Bel Air au rond de la Guiltière, 
   pour la vidange des coupes au camion automobile.*
@@ -250,9 +249,9 @@ Lorsqu'un cheval tombe malade, on fait appel à un remplaçant en dépôt chez u
 {{<figure src="/images/articles/chevaux1942.jpg" title="Réquisition préfectorale des chevaux en 1942">}}
 
 (1)	Mélarde :
-  de l’Anjou au Vendômois, méteil de froment de mars et d’orge ou 
+*de l’Anjou au Vendômois, méteil de froment de mars et d’orge ou 
   d’avoine que l’on consommait les années de disette, 
-  mais que l’on donnait surtout aux bestiaux 
+  mais que l’on donnait surtout aux bestiaux* 
   (M. Lachiver, Dict. du monde rural, 1997)
 
 Ainsi au gré des saisons et du travail, les chevaux passent de main en main.
@@ -279,7 +278,7 @@ L’administration des forêts ne fera l’acquisition
   
 ## 1943
 
-{{<figure src="/images/articles/muletiers.jpg" title="Les muletiers échappent au STO">}}
+{{<figure src="/images/articles/muletier.jpg" title="Les muletiers échappent au STO">}}
 
 
 {{<figure src="/images/articles/etatchevaux1943.jpg" title="Chevaux placés chez des particuliers">}}
@@ -290,7 +289,7 @@ Le garde Pie se rend à 14 h chez M. Allard à Luceau,
   pour l'inviter à conduire son cheval chez M. Lempereur à Écommoy.
 Parfois les mouvements de placement des chevaux sont fugitifs, erratiques et désinvoltes.
   
-{{<figure src="/images/articles/veuveguilbert1943.jpg" title="Réponse de la Vve Guilbert 5 mai 1943">}}
+{{<figure src="/images/articles/veuveguilbert1943.jpg" title="Réponse de la Veuve Guilbert 5 mai 1943">}}
 
 Mais l'administration est tatillonne …  
   elle veille, et retrouve bientôt les siens…
@@ -331,6 +330,7 @@ Mais l'administration est tatillonne …
   que les vieux chevaux menés par Weber et Bellanger qui ont tiré 
   du bois en dernier sur Jupilles. Les débardeurs achetaient les 
   chevaux intraitables, ils arrivaient à les mater pour le travail.* 
+  
     Témoignage de Claudette et Adrien Borderon (Jupilles)
   
 ## 1946
