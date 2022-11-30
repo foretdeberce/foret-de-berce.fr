@@ -371,7 +371,7 @@ A Jupilles comptait en 1906, 1256 habitants, 162 Sabotiers,
 A la scierie Bignon le moteur à vapeur a pris feu au ras du
 moulin dans la vallée du Dinan (moulin ayant appartenu au 
 prince Charles de Beauveau, situé en dessous du Tertre Fouquet).
-       
+              
      Quelques noms de professionnels habitants Jupilles mais 
      travaillant souvent dans les scieries avoisinantes:   
        
