@@ -356,6 +356,11 @@ la part de son successeur. Il a donc fallu démonter en toute hâte!*
        
 {{<figure src="/images/articles/camionvannier1940.jpg" title="Halte du gazo Renault à Chahaignes 1940">}}
 
+Camion gazogènes des ouvriers Renault stationnés sur la place
+de Chahaignes en 1940 (Photo Vannier). Au début, il n’y en avait pas beaucoup :
+1 à la scierie Adet, 2 à la scierie Berger. 
+Les arbres étaient hissés au treuil sur le côté des camions.       
+       
 ## À Jupilles
        
 ### La scierie Bignon
