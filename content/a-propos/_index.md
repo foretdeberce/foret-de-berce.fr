@@ -49,7 +49,7 @@ Et cela n’est pas près de finir !*
   Source: Romain PERROT, chargé de communication, animateur "Bercé Forêt d’Exception"
   ONF Pays de la Loire
   
-{{<figure src="/images/articles/03122.jpg"Pensez à indexer ce site sur vos écrans d'accueil">}} 
+{{<figure src="/images/articles/03122.jpg" title="Pensez à indexer ce site sur vos écrans d'accueil">}} 
   
 ### Pour ne rien perdre de vos ballades en forêt, 
 
