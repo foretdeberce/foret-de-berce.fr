@@ -67,8 +67,7 @@ Il quitte l’école à 12 ans pour rejoindre son père au travail.
 Afin de protéger ses reins, il portera toujours bien ligotée une ceinture de flanelle.
 Clément son père, est charretier propriétaire. 
 En 1920 il avait un train de 4 chevaux et 2 limons, 
-  tout comme Raymond Legeay
-*qui  savait moins bien y faire avec les chevaux *. 
+tout comme Raymond Legeay *qui  savait moins bien y faire avec les chevaux *. 
 Durant l’hiver après les ventes de bois (ventes qui avaient lieu à la Salle 
   des Concerts du Mans, jusqu’en 1979 puis à l'Abbaye de l’Épau par la suite),
   il aide son père à débarder puis transporter les arbres de la forêt 
@@ -76,7 +75,7 @@ Durant l’hiver après les ventes de bois (ventes qui avaient lieu à la Salle
   
 L’été les Thénaisie travaillent à la Ferme pour faire les foins et récolter l’avoine.
   
-Le plus gros chêne qu’Henri ai ramené de forêt avec son père, c’était dans le Sault Moulin, 
+Le plus gros chêne qu’Henri ait ramené de forêt avec son père, c’était dans le Sault Moulin, 
   avec le gros diable de chez Pasquier : 1,45 m de diamètre par 10 mètres de long.
   
 *On a eu du mal à passer les fossés, on emmenait ces arbres chez Vannier à Chahaignes,
@@ -94,7 +93,7 @@ Henri Thénaisie se souvient aussi avoir déménagé avec son père la scierie
   mobile à Ballion depuis le Lude jusqu’à Bercé (52 km) d'où elle ne repartira jamais.
 
      Les transports en ces temps n’étaient pas aussi sûrs qu’aujourd’hui : 
-     Maurice Vérité se souvient que son père  allait au Mans avec un cheval,
+     Maurice Vérité se souvient que son père allait au Mans avec un cheval,
      il menait du merrain et ramenait des barriques. Sur Parigné-l’Évêque,
      dans les sapins, un homme était monté pour l’attaquer.
      …Il lui a tapé sur le bras avec une « tavelle » 
@@ -114,7 +113,7 @@ Les bois de charpente et bois d’œuvre étaient chargés par les débardeurs
 les premiers tracteurs font leur apparition sur le parterre des coupes. 
 Après la première guerre mondiale, le cheval fiscal arrive sur le massif. 
 Des démonstrations de tracteurs eurent lieu dans le canton du 
-Sault Moulin(en régénération), devant les inspecteurs et préposés.
+Sault Moulin (en régénération), devant les inspecteurs et préposés.
 Rappelons que le tracteur à moteur à pétrole est une invention française 
 de 1849, que le tracteur à chenilles date de 1904 et que la formule diesel 
 n’est apparue qu’en 1929.
@@ -126,9 +125,9 @@ Le 17 avril 1931 : les tracteurs Renault et Lathil
 
 {{<figure src="/images/articles/19310417.jpg" title="17 avril 1931 essais du H1 Renault">}}
 
-Le 30 avril 1931 : le tracteur Citroën 
+Le 30 avril 1931 : essai du tracteur Citroën 
 Suite à ces essais concluants, les marchands de bois virent
-  tout de suite le profit qu’ils pourraient tirer du modernisme. 
+tout de suite le profit qu’ils pourraient tirer du modernisme. 
 Des charges plus lourdes tirées en un minimum de temps. 
 C’est à court terme le glas de nos valeureuses bêtes de somme et de leurs charretiers.
 
@@ -239,10 +238,12 @@ Le garde Pie s’en va prévenir M. Fertin à Écommoy que le cheval prêté
   
 {{<figure src="/images/articles/nourriture.jpg" title="Savoir entretenir son cheval de prêt">}}
 
- Liste des chevaux déclarés en mairie pour être ferrés et appartenant à l'administration.
-Forêt de Bercé 1ère et 2ème brigade : un par brigade.
+Liste des chevaux déclarés en mairie pour être ferrés et appartenant à l'administration.
+Forêt de Bercé 1ère et 2ème brigade : un par brigade
+  
 Allard Émile (Beaumont-Pied-de-bœuf) : 1
 Carême Louis (à Jupilles) : 1
+  
 Lorsqu'un cheval tombe malade, on fait appel à un remplaçant en dépôt chez un particulier.
 1942
 
@@ -292,7 +293,7 @@ Parfois les mouvements de placement des chevaux sont fugitifs, erratiques et dé
 {{<figure src="/images/articles/veuveguilbert1943.jpg" title="Réponse de la Veuve Guilbert 5 mai 1943">}}
 
 Mais l'administration est tatillonne …  
-  elle veille, et retrouve bientôt les siens…
+elle veille, et retrouve bientôt les siens…
   
       7 mai 1943 (Ordre de réquisition 
       signé de la main de Viney) : 
@@ -309,33 +310,35 @@ Mais l'administration est tatillonne …
       Henri à Luceau, dans le plus bref délai*  
   
 ### Jupilles le 10 mars 1945 : 
-* Jules Guillem: Maréchal ferrant & forgeron de l'administration,
-  habitant à Marigné-Laillé Sarthe, reconnaît avoir reçu de 
-  Monsieur Poumerol René, brigadier des Forêts à Jupilles (Sarthe)
-  cent kilogrammes de fer à cheval et quatre kilos de clous 
-  pour assurer le ferrage du cheval de l’administration. 
-  * Signé : Guillem
+  
+*Jules Guillem: Maréchal ferrant & forgeron de l'administration,
+habitant à Marigné-Laillé Sarthe, reconnaît avoir reçu de 
+Monsieur Poumerol René, brigadier des Forêts à Jupilles (Sarthe)
+cent kilogrammes de fer à cheval et quatre kilos de clous 
+pour assurer le ferrage du cheval de l’administration.* 
+  Signé : Guillem
   
 *À la fin de la  guerre les Allemands fuyaient comme ils pouvaient, 
-  les pauvres. Ils allaient à bicyclette, à cheval. 
-  On  avait intérêt à cacher les vélos. Avant qu'ils arrivent, 
-  on a mené nos chevaux dans la vallée et les y avons cachés :
-  ils n'ont pas été pris. Les Allemands avaient pris un cheval 
-  sur le bord de la route. C’était un cheval entier appartenant
-  au père Roullin de Jupilles. Il a été retrouvé à Courdemanche 
-  dans une ferme, chez des cousins. Ils n'ont jamais pu l'enlever, 
-  car il y avait des juments dans la ferme et il était entier. 
-  Alors ils l’avaient attaché à un arbre. En forêt, les chevaux 
-  ont travaillé bien après la guerre, il ne restait plus d'ailleurs 
-  que les vieux chevaux menés par Weber et Bellanger qui ont tiré 
-  du bois en dernier sur Jupilles. Les débardeurs achetaient les 
-  chevaux intraitables, ils arrivaient à les mater pour le travail.* 
+les pauvres. Ils allaient à bicyclette, à cheval. 
+On  avait intérêt à cacher les vélos. Avant qu'ils arrivent, 
+on a mené nos chevaux dans la vallée et les y avons cachés :
+ils n'ont pas été pris. Les Allemands avaient pris un cheval 
+sur le bord de la route. C’était un cheval entier appartenant
+au père Roullin de Jupilles. Il a été retrouvé à Courdemanche 
+dans une ferme, chez des cousins. Ils n'ont jamais pu l'enlever, 
+car il y avait des juments dans la ferme et il était entier. 
+Alors ils l’avaient attaché à un arbre. En forêt, les chevaux 
+ont travaillé bien après la guerre, il ne restait plus d'ailleurs 
+que les vieux chevaux menés par Weber et Bellanger qui ont tiré 
+du bois en dernier sur Jupilles. Les débardeurs achetaient les 
+chevaux intraitables, ils arrivaient à les mater pour le travail.* 
   
     Témoignage de Claudette et Adrien Borderon (Jupilles)
   
 ## 1946
   
 ### Le 25 mars 1946,
+  
   le charretier Bouzeau cessera son travail, le jour où le
   service de l'enregistrement aura déclaré un nouvel 
   acquéreur et la prise de possession du cheval.
@@ -373,9 +376,14 @@ Bellanger, charretier, emmenait ses billes avec son diable et ses chevaux jusqu�
   ...voituriers - transporteurs
 
 
-Au sortir de la première guerre mondiale, on pouvait voir cette petite annonce du 11 octobre  1923 :
-En 1938, le débardage des "grumes et étais" était payé : 20f/m3 réel en ensemencement -  10f/m3  réel en éclaircie.
-En 1929, les grumiers remplaçant progressivement les charretiers, les voies de vidange sortant de la forêt, et plus particulièrement les chemins ruraux sont soumis à rude épreuve.
+Au sortir de la première guerre mondiale, on pouvait voir cette 
+  petite annonce du 11 octobre  1923 :
+  
+En 1938, le débardage des "grumes et étais" était payé : 
+  20f/m3 réel en ensemencement -  10f/m3  réel en éclaircie.
+En 1929, les grumiers remplaçant progressivement les charretiers,
+  les voies de vidange sortant de la forêt, et plus particulièrement 
+  les chemins ruraux sont soumis à rude épreuve.
 
 {{<figure src="/images/articles/grumierdepins.jpg" title="Un grumier de chez Brulon">}}
 
