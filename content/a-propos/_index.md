@@ -51,7 +51,7 @@ Et cela n’est pas près de finir !*
   
 {{<figure src="/images/articles/03122.jpg" title="Pensez à indexer ce site sur vos écrans d'accueil">}} 
   
-### Pour ne rien perdre de vos ballades en forêt, 
+### Pour ne rien perdre de vos ballades en forêt de Bercé. 
 
   
 ## Pour se procurer le livre
