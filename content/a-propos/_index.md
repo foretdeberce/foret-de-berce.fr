@@ -33,22 +33,26 @@ l’envie d’en apprendre toujours plus sur Bercé …
   
 ## Bercé, un trésor à partager 
   
-Yves Gouchet a fait toute sa carrière à l’Office National des Forêts en forêt domaniale de Bercé…
+*Yves Gouchet a fait toute sa carrière à l’Office National des Forêts en forêt domaniale de Bercé…
 Il y connaît les moindres recoins. 
 Il nous livre, à travers cet ouvrage, le travail d’années de recherches en ces
-lieux empreints d’Histoire, de beauté et de mystère… 
+lieux empreints d’Histoire, de beauté et de mystère…* 
   
-Durant des décennies, la forêt de Bercé lui a confié de nombreux secrets
+*Durant des décennies, la forêt de Bercé lui a confié de nombreux secrets
 qu’il veut aujourd’hui partager avec le plus grand nombre… 
-Et cela n’est pas près de finir ! 
+Et cela n’est pas près de finir !* 
 
-> Pour aller encore plus loin, suite à la publication de son ouvrage,
+> *Pour aller encore plus loin, suite à la publication de son ouvrage,
 > Yves a décidé d’ouvrir un site internet pour continuer à alimenter ses sujets favoris et
-> surtout les partager, encore et toujours… 
+> surtout les partager, encore et toujours…* 
 > 
-
   Source: Romain PERROT, chargé de communication, animateur "Bercé Forêt d’Exception"
   ONF Pays de la Loire
+  
+{{<figure src="/images/articles/03122.jpg"Pensez à indexer ce site sur vos écrans d'accueil">}} 
+  
+### Pour ne rien perdre de vos ballades en forêt, 
+
   
 ## Pour se procurer le livre
  
