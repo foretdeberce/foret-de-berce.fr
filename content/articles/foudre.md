@@ -7,7 +7,9 @@ featured_image: "/images/et.finthuir4.jpg"
 tags: ["Tourisme","Exploitations","Arbres","Curiosités"]
 ---
 
-## Tonnerre de Brest….un foudre de  Bercé ! 
+## Tonnerre de Brest….
+
+un foudre issu de Bercé ! 
 
 Utilisé par les Celtes, apprivoisé par les Gaulois, 
 il héberge le vin depuis plus de deux mille ans 
@@ -32,12 +34,6 @@ il était réservé à la dîme seigneuriale, il fut rempli pour la dernière fo
 
 Cette réalisation exigea l’emploi de trente chênes, cinq hêtres et un poirier.
 
-En Hongrie on envoya à l’exposition universelle de 1878, dans trois wagons, 
-l’énorme foudre de Nagykanizsa qui fut l’attraction de son stand.
-Ce «petit » chef d’œuvre d’une longueur de 5,50 m, avait nécessité des
-douelles de 20 cm d’épaisseur et pouvait contenir 1.000 hectolitres. 
-160 personnes purent se tenir à l’aise à l’intérieur !
-
 ### En 1871, 
 en France, Eugène Mercier lance la construction d'un foudre 
 de 1.600 hectolitres et pour faire connaître son champagne,
@@ -45,11 +41,17 @@ il va le déplacer jusqu'à Paris pour l'Exposition Universelle de 1889.
 Pour celle de 1900 un grand foudre est exposé par Adolphe Fruhinsholz. 
 Il est mis en chantier dès 1890, car il a fallu huit ans pour sécher 
 les bois et dix-huit mois pour le fabriquer.
-
 Ce foudre contient 4.330 hectolitres environ, soit à peu de choses près,
 le double de celui du château de Heidelberg pour un poids de 150.000 kilos. 
 
 {{<figure src="/images/articles/entreetonnel.jpg" title="Entrée de la tonnellerie mécanique">}}
+
+### En 1878,
+En Hongrie on envoya à l’exposition universelle de 1878, dans trois wagons, 
+l’énorme foudre de Nagykanizsa qui fut l’attraction de son stand.
+Ce «petit » chef d’œuvre d’une longueur de 5,50 m, avait nécessité des
+douelles de 20 cm d’épaisseur et pouvait contenir 1.000 hectolitres. 
+160 personnes purent se tenir à l’aise à l’intérieur !  
 
 ### En 1934,
   à Thuir (au Sud-est de Perpignan), le succès du Byrrh atteint 
