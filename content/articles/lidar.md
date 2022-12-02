@@ -39,9 +39,9 @@ collecté tout un tas d’informations sur la présence de ces vestiges du pass�
 La forêt est en effet un milieu fermé et opaque, qui ne permet pas
 aux archéologues la même aisance dans les prospections. 
 
-{{<figure src="/images/articles/traces2015.jpg" title="Ma carte des traces">}}
+{{<figure src="/images/articles/traces2015.jpg" title="La carte des traces">}}
 
-Mais, les méthodes que j’avais employées étaient guères scientifiques
+Mais, les méthodes que j’avais employées étaient guères scientifiques,
   réalisées sans instruments et trop rudimentaires. 
   
 Sans rigueur scientifique….les plans et positionnements des éléments 
@@ -144,7 +144,7 @@ Ce scanner aéroporté pixellise sous forme de modèle mathématique
   informations raz du sol alors que les forestiers s’intéresseront
   à la couche supérieure…. la résolution pouvant atteindre 20cm.
 
-{{<figure src="/images/articles/closberce.jpg" title="Calcul lidar pour les forestiers">}}
+{{<figure src="/images/articles/closberce.jpg" title="Calculs lidar au service des forestiers">}}
   
 {{<figure src="/images/articles/closlidar4.jpg" title="La parcelle des clos au scanner">}}
   
