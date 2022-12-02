@@ -28,17 +28,26 @@ a toujours recherché à fabriquer des récipients de plus en plus importants.
 ### En 1591,
 En Allemagne, au château d'Heidelberg on construit le premier grand tonneau,
 puis en 1751 deux autres foudres, un de 30 hectolitres et le plus
-gros de 2.280 hectolitres. Au vieux château de Ludwigsburg en 1719 un 
+gros de 2.280 hectolitres.
+
+{{<figure src="/images/articles/Ludwigsburg.jpg" title="Foudre de Ludwigsburg 1719">}}
+
+Au vieux château de Ludwigsburg en 1719 un 
 gigantesque foudre repose dans les caves. D’une capacité de 5.430 hectolitres,
 il était réservé à la dîme seigneuriale, il fut rempli pour la dernière fois en 1847. 
 
+{{<figure src="/images/articles/heidelberg1591.jpg" title="Foudre de Heidelberg 1591">}}
+  
 Cette réalisation exigea l’emploi de trente chênes, cinq hêtres et un poirier.
 
 ### En 1871, 
 en France, Eugène Mercier lance la construction d'un foudre 
 de 1.600 hectolitres et pour faire connaître son champagne,
-il va le déplacer jusqu'à Paris pour l'Exposition Universelle de 1889.
+il va le déplacer jusqu'à Paris pour l'Exposition Universelle des produits alimentaires de 1889.
 Pour celle de 1900 un grand foudre est exposé par Adolphe Fruhinsholz. 
+  
+{{<figure src="/images/articles/mercier1889.jpg" title="Foudre des Champagnes Mercier en 1889">}}
+  
 Il est mis en chantier dès 1890, car il a fallu huit ans pour sécher 
 les bois et dix-huit mois pour le fabriquer.
 Ce foudre contient 4.330 hectolitres environ, soit à peu de choses près,
