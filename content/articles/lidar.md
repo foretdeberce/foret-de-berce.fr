@@ -3,7 +3,7 @@ title: "Lidar"
 date: 2022-12-02T08:23:44+01:00
 draft: false
 description: "Le passé retrouvé"
-featured_image: "/images/et-lidar.jpg"
+featured_image: "/images/et.lidar.jpg"
 tags: ["Tourisme","Archéologie","Aménagement","Sylviculture",]
 ---
 
