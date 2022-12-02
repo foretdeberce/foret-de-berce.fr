@@ -234,6 +234,7 @@ Un monument des plus singuliers et le plus grand dédié au « vin allemand »
   fut construit au printemps 1934 par le tonnelier vigneron Fritz Keller 
   sur la place du marché aux saucisses de sa ville natale Bad Durkheim: 
   "le Tonneau Géant" mondialement connu. 
+  
   Pour construire celui-ci d'un diamètre de 13,5 mètres et d'un volume de
   1,7 millions de litres, Fritz Keller et ses aides ont consommé
   plus de 200 mètres cube de pin….. Mais ce tonneau n’est autre qu’un
@@ -286,9 +287,18 @@ Publicité prémonitoire en 1927 à Jupilles.
 
 * N’oubliez jamais, qu’une boisson alcoolisée se boit toujours avec modération …!
   
-Bibliographie : Archives ONF, Cusenier, Wikipédia,
-Iconographie : Photos Cusenier (Maison Byrrh, pour le reportage Photographique)
-Yves Gouchet : Revue  « au Fil du Temps » n° 53 page 16 à 18 (oct.2011) 
+### Bibliographie : 
+  
+  Archives ONF, Cusenier, Wikipédia.
+  
+  Yves Gouchet : 
+  Revue  « au Fil du Temps » n° 53 page 16 à 18 (oct.2011) 
   et n°54 pages 15 à 17 (janv.2012)
+  
+### Iconographie :
+  
+  Photos Cusenier (Maison Byrrh, pour le reportage Photographique)
+  
+
 
  
