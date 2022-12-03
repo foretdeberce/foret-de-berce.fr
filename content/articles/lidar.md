@@ -13,10 +13,11 @@ La forêt est riche en éléments archéologiques et
 les sites présents sont très bien conservés. 
 Si nous retrouvons des vestiges archéologiques en forêt, 
 c'est parce que la forêt est un milieu qui préserve et 
-conserve très bien ce patrimoine. L'érosion des sols y 
-est moins importante qu'en milieu ouvert et les actions 
-de l'homme liées à la gestion forestière sont bien moins
-perturbatrices que dans les champs ou en milieu urbain. 
+conserve très bien ce patrimoine. 
+L'érosion des sols y est moins importante qu'en milieu 
+ouvert et les actions de l'homme liées à la gestion
+forestière sont bien moins perturbatrices que dans 
+les champs ou en milieu urbain. 
 
 
 Les sites sont donc conservés sous forme de reliefs 
@@ -40,7 +41,7 @@ collecté tout un tas d’informations sur la présence de ces vestiges du pass�
 La forêt est en effet un milieu fermé et opaque, qui ne permet pas
 aux archéologues la même aisance dans les prospections. 
 
-{{<figure src="/images/articles/traces2015.jpg" title="La carte des traces">}}
+{{<figure src="/images/articles/traces2015.jpg" title="La carte des traces en 1999">}}
 
 Mais, les méthodes que j’avais employées étaient guères scientifiques,
   réalisées sans instruments et trop rudimentaires. 
@@ -51,7 +52,7 @@ Sans rigueur scientifique….les plans et positionnements des éléments
 
 ### En 2007,
   
-  la forêt domaniale de Bercé a été retenue comme site pilote 
+La forêt domaniale de Bercé a été retenue comme site pilote 
   dans la démarche “Forêt patrimoine"
   désormais appelée “Forêt d’exception”. 
   
@@ -147,7 +148,7 @@ Cette étude aurait pu permettre d'étudier plus précisément
 
 ### En mars 2013 : 
   
-mission L.I.D.A.R. au dessus de la forêt de Bercé initiée par la D.R.A.C.
+Mission L.I.D.A.R. au dessus de la forêt de Bercé initiée par la D.R.A.C.
   
   
 Seul l’emploi du L.I.D.A.R. peut aider au décryptage de l’histoire des terres.
@@ -181,8 +182,7 @@ En outre, les données L.I.D.A.R. sont très utiles dans la rectification
 
 ### Novembre et décembre 2014 :
   
-restitution des données et vérifications sur le terrain des 
-  cartes produites, par les forestiers de l’ONF,  
+Restitution des cartes produites, par les forestiers de l’ONF,  
   la DRAC, et quelques archéologues bénévoles.
   
 Vérification d’après mes cartes concernant les ferriers, 
@@ -193,6 +193,7 @@ P.D.F. à votre disposition pour étayer l’argumentation L.I.D.A.R. :
 [L’apport des données L.I.D.A.R. sur la foret domaniale de Bercé](/articles/pdf/dardignac-lejeune2016.pdf)
   
 [prospections L.I.D.A.R. sur la forêt de Bercé](/articles/pdf/lejeune-hd.pdf)
+  
 
 ### Qu'est-ce que le L.I.D.A.R. ?
   
