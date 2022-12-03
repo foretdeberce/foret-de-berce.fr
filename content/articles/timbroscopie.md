@@ -15,6 +15,17 @@ il est Allemand et célèbre les reboisements.
 
 [Références sur ce sujet](/articles/pdf/timbresforets.pdf)
 
+[Forêt et Philatélie 1994](/articles/pdf/timbresforets02.pdf)
+
+[Nouveautés à sujet forestier 1997](/articles/pdf/timbresforets03.pdf)
+
+[Les essences de la forêt Française](/articles/pdf/timbresforets2020.pdf)
+
+[Timbres et forêt](/articles/pdf/timbresforets06.pdf)
+
+[Flammes postales forestières](/articles/pdf/flammespostales.pdf)
+
+
 À l’instar des forêts de Fontainebleau, Rambouillet, Tronçais et Brocéliande, 
 qui seront couchées sur les planches de la poste française, 
 le syndicat d’initiative de la Sarthe tente un premier essai en 1931 
