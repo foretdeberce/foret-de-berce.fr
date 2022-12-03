@@ -3,7 +3,7 @@ title: "Le fer"
 date: 2022-12-02T20:23:44+01:00
 draft: false
 description: " Bercé, royaume de vulcain"
-featured_image: "/images/et-ferrier1999.jpg"
+featured_image: "/images/et.ferrier1999.jpg"
 tags: ["Tourisme","Archéologie","Aménagement","Sylviculture",]
 ---
 Dans les profondeurs du massif forestier, des excavations,
