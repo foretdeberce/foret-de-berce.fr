@@ -49,9 +49,10 @@ plus propre dans la tenue de ce livret et à se conformer à l’article 17 de l
 pour le Service des Préposés des Eaux et Forêts. 
 			Signé : l’inspecteur des Eaux et Forêts : ROULLEAU*
 
-  {{<figure src="/images/articles/cesari2.jpg" title="Les protagonistes de cette époque">}}  
+{{<figure src="/images/articles/cesari2.jpg" title="Les protagonistes de cette époque">}}  
 
-
+{{<figure src="/images/articles/19040402.jpg" title="Lettre du député au ministre le 1er avril 1904">}}  
+	
 C’est en toute innocence et surtout sans convocation qu’il se présente le :
 2 juin 1904 à Jupilles pour voir mes camarades de l’École des Barres ; 
   rencontré M. l’inspecteur et M. le garde général se rendant au martelage. 
@@ -197,7 +198,8 @@ Dans ses tournées le garde doit toujours avoir son livret,
  
 
 {{<figure src="/images/articles/roulleau.jpg" title="L’inspecteur René Roulleau de la Roussière">}}
-
+	
+{{<figure src="/images/articles/19050220.jpg" title="20 février 1905 lettre du ministre au préfet">}}  
 
 Ces procès-verbaux d’enquêtes minent la santé du fier CESARI, allant jusqu’à lui déclencher
   quelques aigreurs d’estomac. De violentes douleurs rhumatismales le paralysent. 
