@@ -22,22 +22,27 @@ Combien d’arbres vénérables se retrouvent ainsi couchés à terre, comme ter
 La liste des années à *chablis* (arbres tombés à terre) et *volis* (arbres dont les houppiers sont cassés) est
 longue :  
  
-## 1857, 1866, 1868 :
+### 1857, 1866, 1868 :
+
  5 à 10 chablis (arbres tombés) par canton.
 
-## Novembre 1875 :
+### Novembre 1875 :
+
  plus de 500 chablis sur le triage à Heintz.
 
-## 27 janvier 1881 :
+### 27 janvier 1881 :
+
  *«La tempête a renversé plusieurs chablis et enlevé plusieurs ardoises sur le poste des Clos»*,
 idem en 1886.
 
  {{<figure src="/images/articles/ouragan1900.jpg" title="L'ouragan de 1900">}}
  
-## Février 1900 : 
+### Février 1900 : 
+ 
  Après des gelées et une pluie abondante en février, dans la nuit du 13 au 14, survint un ouragan.
  
-### CYCLONE EN FORÊT
+### Cyclone en forêt
+ 
 A M. d’Estournelles de Constant
 Député de la Sarthe.
 
@@ -68,35 +73,41 @@ A partout jeté la terreur,
 Sur les buissons faisant main basse :
 C’est le noir cyclone qui passe !
 
-Fernand de Jupilles,  - Échos de ma forêt, 
-chansons, préface de Jules de Marthold - 1902 
-monographies– http://gallica.bnf.fr
+[Fernand de Jupilles-Échos de ma forêt, gallica-Bnf](/articles/pdf/echosdemaforet.pdf) 
 
  
-## 1907 :
- *«Remplacé 300 ardoises aux Clos après le coup de chablis du printemps.»*
+### 1907 :
+ 
+*«Remplacé 300 ardoises aux Clos après le coup de chablis du printemps.»*
 
-## 1911, 1930 :
+### 1911, 1930 :
+ 
  ...et le 24 septembre 1932 des chablis encore par centaines : *«Suite à l’ouragan fais débarrasser un 
 chablis obstruant la ligne du tramway.»* 
 
-## 1938 :
+### 1938 :
+ 
  le sol est saturé d’eau et la forte tempête du nord-ouest des 29 et 30 janvier occasionnera de nombreux
 dégâts dans les régénérations.  
 
-De 1949 à 1951 : routes obstruées lors de la ventouse du 4 février et  de l’ouragan du 14 mars 1951. 
+### De 1949 à 1951 : 
+ 
+ routes obstruées lors de la ventouse du 4 février et  de l’ouragan du 14 mars 1951. 
 
-Décembre 1952 : 
+### Décembre 1952 : 
+ 
  après le dégel les arbres tombent jusqu’en début 1953.
 
-## 1955 et printemps 1958, 
+### 1955 et printemps 1958, 
  de février à mai, des chablis tombent en nombre. 
 
-## 11 mars 1963 et en 1965, 
+### 11 mars 1963 et en 1965, 
  les cyclones se succèdent emportant  les hangars et les arbres.
 * «Jamais vu pareille chose» notera l'agent technique Goenvec
 
-## En 1967, c’est la catastrophe annoncée :
+### En 1967, 
+ 
+ c’est la catastrophe annoncée :
  
 Du 7 janvier jusqu’au 14 février le sol enneigé emmagasine l’eau.
 En mars c’est sur un sol détrempé que la tempête 
@@ -129,7 +140,9 @@ Au chêne Boppe c’est une véritable catastrophe.
  
  {{<figure src="/images/articles/03-67p159.jpg" title="Désolation parcelle 159">}}
 
-13 octobre 1982, dans l’après-midi vers 17h40, un ouragan d’une rare violence (tornade), ravage la forêt entre
+### 13 octobre 1982, 
+ 
+ dans l’après-midi vers 17h40, un ouragan d’une rare violence (tornade), ravage la forêt entre
 Laillé et Pruillé sur une bande de 100 à 200 m de large sur 5 km de long. 
 
  {{<figure src="/images/articles/13nov82p118.jpg" title="Le cyclône passe parcelle 118">}}
@@ -144,30 +157,38 @@ Le ciel s’est subitement obscurci de feuilles et de poussières.
  
  {{<figure src="/images/articles/82sault.jpg" title="Ligne du Sault le 13 novembre 1982">}}
  
-Du 15 au 16 octobre 1987 : un ouragan ravage tout l’ouest dans la nuit avec ses vents hurleurs.
+### Du 15 au 16 octobre 1987 : 
+ 
+ un ouragan ravage tout l’ouest dans la nuit avec ses vents hurleurs.
  
 {{<figure src="/images/articles/fev1990ouvriers.jpg" title="Ouragan dans l'Hermitière le 3 février 1990">}} 
  
-3 février 1990 : vers 11h un autre ouragan fait de gros dégâts en forêt. Au niveau de l’Hermitière,
+### 3 février 1990 : 
+ 
+vers 11h un autre ouragan fait de gros dégâts en forêt. Au niveau de l’Hermitière,
 la route est arrachée par endroits.
  
  {{<figure src="/images/articles/fev1990pichon.jpg" title="L'entreprise Pichon à la rescousse">}}
  
 Plus de 1500 chablis sont recensés sur un seul triage (quand on pense qu’il y en a cinq).
 
-3 juin 1999 : une mini tornade balaie l’ancienne trouée de 1982 et ravage les régénérations de la Chauvinière,
+### 3 juin 1999 : 
+ 
+une mini tornade balaie l’ancienne trouée de 1982 et ravage les régénérations de la Chauvinière,
 du Souvenir et de Gaie-Mariée. Les arbres sont défibrés sur pied, la presse relate les faits. 	
  
  {{<figure src="/images/articles/juin99p165.jpg" title="Mini ouragan de juin 1999">}}
  
  {{<figure src="/images/articles/p165juin99.jpg" title="Bois défibré parcelle 165">}}
 
-26 et 27 décembre 1999 : 80% de l’espace forestier Français est gravement atteint dans son intégrité par des
+### 26 et 27 décembre 1999 :
+ 
+80% de l’espace forestier Français est gravement atteint dans son intégrité par des
 vents de 90 à 200 km/h. Même les jeunes peuplements de pins, en première ligne des coups de boutoirs sont impactés.
 
  {{<figure src="/images/articles/26dec99p63.jpg" title="La parcelle 63 ravagée">}} 
  
- 25 à 30.000 m³ (l'équivalent d'une année de coupe) seront récoltés à Bercé qui pourtant
+25 à 30.000 m³ (l'équivalent d'une année de coupe) seront récoltés à Bercé qui pourtant
 se trouvait à chaque fois sur les franges de ces deux monstres. 
 
  {{<figure src="/images/articles/199912p189.jpg" title="La parcelle 189 ravagée">}} 
@@ -175,8 +196,11 @@ se trouvait à chaque fois sur les franges de ces deux monstres.
  
  {{<figure src="/images/articles/stopp211.jpg" title="Le stop de la parcelle 211 a eu très chaud !">}} 
  
- Mais les tempêtes continueront ... et le ...
-27 février 2010, la tempête Xynthia souffle dans la nuit du samedi au dimanche matin.
+### Mais les tempêtes continueront ... et le ...
+ 
+### 27 février 2010, 
+ 
+la tempête Xynthia souffle dans la nuit du samedi au dimanche matin.
 Fort heureusement les dégâts restent faibles par rapport à 1999: 1000 m3 environ.
 
  {{<figure src="/images/articles/16juillet2010.jpg" title="Ce balay dans les Clos n'a pas résisté !">}} 
