@@ -133,7 +133,7 @@ Les maisons forestières disposaient impérativement d'un point d'eau
  être autonomes du fait de leur isolement. La mare pour laver 
  le linge complétait le tableau d’une maison tout confort. 
 
-{{<figure src="/images/articles/renardieresalbrecht.jpg" title="Madame Albrecht à la M.F. des Renardières">}}
+{{<figure src="/images/articles/renardieresalbrecht.jpg" title="Madame Esse à la M.F. des Renardières">}}
 
 
 Comme la plupart des lavoirs de France, les lavoirs des maisons forestières
