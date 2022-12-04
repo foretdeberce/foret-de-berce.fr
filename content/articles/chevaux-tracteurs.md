@@ -141,6 +141,7 @@ Tel est l’objet de la réponse suivante à une demande d’emploi d’un tract
   de la part des établissements Paulin, adjudicataire de la coupe (article 71 de 1921).
   A cette époque, le trainage des bois n’est autorisé que dans les coupes d’éclaircie 
   et encore...sous conditions :
+  
 *Le tracteur camion ne devant pas rentrer sur le parterre de la coupe, l’indemnité 
   correspondant au parcours sur la route forestière est donc seule à compter. 
   En conséquence nous pensons qu’il y a lieu d’accorder l’autorisation demandée 
@@ -154,7 +155,12 @@ Tel est l’objet de la réponse suivante à une demande d’emploi d’un tract
   pour la vidange des coupes au camion automobile.*
 
 ### La guerre de 1939-1945 arrive...
-                                                    
+  
+Les deux dernières guerres de 1870 et de 1914, ont enrôlé des milliers 
+  de chevaux héroïques, comme ici à la bataille du Mans. 
+  
+{{<figure src="/images/articles/batailledumans.jpg" title="La bataille du Mans avec le général Chanzy">}}
+  
 Les chevaux et les hommes sont réquisitionnés
  
 Les chevaux du 3ème groupement forestier 
@@ -177,7 +183,6 @@ Le "gazo" de la maison Valentin, sur la place de Chahaignes en 1940
   remet-il à St Vincent une affiche réclame pour l’exposition de bois et l’utilisation de gazogènes.
   
 *Le gazogène, c’était bien, mais ça n’avait pas la pêche de l’essence ou du diesel*.
-
 
 Cinquante chevaux provenant du groupement des travailleurs forestiers, 
   avaient été répartis avant octobre, dans des exploitations agricoles 
