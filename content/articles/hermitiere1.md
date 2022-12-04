@@ -124,6 +124,14 @@ Les plans d’eau servaient de lavoirs qui étaient régulièrement utilisés pa
   
 {{<figure src="/images/articles/dimanchehermitiere.jpg" title="L’attraction des  Sources">}}
   
+### 1934
+	
+L'union cyclotouriste de Touraine dans son bulletin officiel 
+nous relate le 1er octobre 1934, sa journée cycliste en forêt de Bercé.
+(Archives Gallica)
+
+{{<figure src="/images/articles/19340916h.jpg" title="Les cyclistes à l'Hermitière">}}
+	
 ### 1936 : 
   
 • On chante « A l’Hermitière », chanson écrite par Jean Jousse en 1936.
