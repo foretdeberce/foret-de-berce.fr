@@ -7,15 +7,20 @@ featured_image: '/images/et-filet.jpg'
 tags: ["Faune","Peche","Chasse","Garderie"]
 ---
 
-## La pêche fut une mission des eaux et forêts de 1897 à 1938.
+### La pêche fut une mission des eaux et forêts de 1897 à 1938.
 
 
 40 ans de surveillance et de gestion des cours d'eau domaniaux 
 par les Préposés des Eaux et Forêts de Bercé.
 
-* En 1890 : les parties de rivières navigables sont surveillées 
+### En 1890 :
+
+les parties de rivières navigables sont surveillées 
 par les Ponts et Chaussées.
-* En 1897 : "Les eaux" des Eaux et Forêts. Les rivières deviennent
+
+### En 1897 :
+
+"Les eaux" des Eaux et Forêts. Les rivières deviennent
 domaine de surveillance des Eaux et Forêts.
 
 
@@ -29,6 +34,9 @@ Dans leur tournée, les gardes s'arrangeront pour faire certifier
 leurs passages sur les cours d'eau , par telle autorité qui leur conviendra.
 Ces certificats seront préparés d'avance, par les soins du Garde de façon à 
 ce que l'Agent qui certifie n'ait qu' à dater, signer et mettre le nom de la localité. *
+
+
+### En 1898 :
 
 Lors des tournées, les Gardes font part de leurs observations.
 15 sept. 1898 ( Jouaux et le Garde Jacques) sur le Dinan. 
@@ -46,7 +54,10 @@ En avril / mai avec l'aide de Mr Ledain, le rituel se renouvelle sur
 l'ensemble des rivières et ruisseaux, l'Anille, la Braye,
 le Tusson, la Tortue, la Veuve  etc…
 
-Note de Mr. l' inspecteur adjoint des Eaux et Forêts  Roulleau ( 11 juillet 1899)	
+### En 1899 :
+
+Note de Mr. l' inspecteur adjoint des Eaux et Forêts Roulleau ( 11 juillet 1899)
+
 *Mr. le Conservateur, dans une lettre du 5 juillet dernier 
 recommande aux Gardes – Pêche, d'éviter de passer, 
 pour se rendre sur les rivières, dans des terres chargées
@@ -111,7 +122,10 @@ signé : de Verely , (inspecteur des E & F  au Mans)
 	du calme si nécessaire dans la répression des délits.*
 
 PROCÈS VERBAUX & MISE EN GARDE
-Juin 1902 Prévenu les sieurs Dubray Jules à Courdemanche, 
+
+### Juin 1902 
+
+Prévenu les sieurs Dubray Jules à Courdemanche, 
 Dou François au moulin de Croalin et Guitton Constant 
 au moulin de Bénéhard, de ne tendre aucun engin de pêche,
 à leurs barrages et vannages à moins d'une distance de 30 m,
@@ -120,7 +134,9 @@ ou faute de quoi, il leur serait dressé Procès-verbal à la
 
 {{<figure src="/images/articles/barrage.jpg" title="Surveillance d'un barrage">}}
  
-Juillet 1902 : il n’y a plus d'écrevisses dans le ruisseau de Vaux
+Juillet 1902 : 
+	
+	il n’y a plus d'écrevisses dans le ruisseau de Vaux
 	depuis plusieurs années. (garde  Albrecht)
 	A cause de l'acidité des eaux,
 	l'écrevisse à pattes blanches n'arrive
@@ -129,8 +145,10 @@ Juillet 1902 : il n’y a plus d'écrevisses dans le ruisseau de Vaux
  {{<figure src="/images/articles/2ecrevisse.jpg" title="l'écrevisse à pattes blanches">}}
 
 
-En 1903, il est déjà question de pollution industrielle (29 Sept 1903).
-Instruction pour le prélèvement d'eau polluée par une usine, 
+### En 1903 : 
+	
+	il est déjà question de pollution industrielle (29 Sept 1903).
+	Instruction pour le prélèvement d'eau polluée par une usine, 
 	en cas d'empoisonnements ou d'épidémies sur les poissons : 
 	" Envoyer les échantillons en port payé par grande vitesse
 	à Mr. le Dr. Calmette – Laboratoire de Microbie Agricole-
@@ -139,26 +157,36 @@ Instruction pour le prélèvement d'eau polluée par une usine,
 Les tournées se succèdent : En 1906, le 23 mai le garde Heintz note sur son livret journalier :
 
 {{<figure src="/images/articles/peche.jpg" title="livret journalier du garde Heintz">}}
- 
-4 Sept 1910 : Pêche avec carrelet non réglementaire sur la Veuve ( 18 mm de mailles),
-	Cosset louis Victor,  casseur de pierres, habitant Lhomme 
-	(pêchait sur la veuve de St. Pierre au Moulin St. Blaise).
 	
-11 Sept. 1910 : Sur la Veuve de Brives à la Pointe, 
-	PV au Sieur Boulay Louis Victor, vigneron à Lhomme,
-	pris avec un engin prohibé (saisie du carrelet).
+### Le 1er Octobre 1908:
 	
-	Le 1er Octobre 1908 (garde Bordeaux) sur la rivière La Fare, 
+	(garde Bordeaux) sur la rivière La Fare, 
 	parti en bicyclette jusqu'à Chenu, visité la rivière,
 	depuis la limite du département jusqu'à St. Germain d'Arcé, 
 	rentré par la même voie, depuis Chenu aux Forges.
 	
-	3 Octobre 1908 : Sur la rivière Fontaine des Vallées,
+3 Octobre 1908 : 
+	
+	Sur la rivière Fontaine des Vallées,
 	depuis son embouchure, jusqu'à la limite du Département.. 
 	Parti en bicyclette jusqu'à Nogent sur loir, 
 	rentré par le même moyen.
+ 
+### 4 Sept 1910 :
+	
+	Pêche avec carrelet non réglementaire sur la Veuve ( 18 mm de mailles),
+	Cosset louis Victor,  casseur de pierres, habitant Lhomme 
+	(pêchait sur la veuve de St. Pierre au Moulin St. Blaise).
+	
+11 Sept. 1910 : 
+	
+	Sur la Veuve de Brives à la Pointe, 
+	PV au Sieur Boulay Louis Victor, vigneron à Lhomme,
+	pris avec un engin prohibé (saisie du carrelet).
+	
+	
 
-## Le forestier participe également à l’ALEVINAGE
+### Le forestier participe également à l’ALEVINAGE
 
         Frais occasionnés par la mise à l'eau d'alevins : (Albrecht 13 Fév. 1906)
 	A Bessé sur Braye, pour la mise à l'eau d'alevins de truites.
@@ -184,6 +212,7 @@ Attendu de 2 h à 9 h du soir. Rien vu à la Gare.
 Frais occasionnés : 1 voiture et 1 repas : 12 F*
 
 	PV DE PÊCHE AUX ÉCREVISSES (seule espèce pêchée en forêt)
+	
         En forêt à cause de l'acidité des eaux, l'écrevisse à pattes
 	blanches n'arrive pas à grossir et à fabriquer de la carapace . 
         Le 18 août  1907 écrit : En tournée sur le ruisseau de Vaux, non navigable 
@@ -207,12 +236,12 @@ Frais occasionnés : 1 voiture et 1 repas : 12 F*
 	que nous présenterons au Greffe du Tribunal à  Saint-Calais.
 	Fait et clos à St. Pierre du Lorouer le 26 Août 1907 ; Signé Albrecht
 	
+	Idem le 28 Août 1907 avec le Sieur Chennel Henri, cultivateur 
+	au Moulin de Vaux à Courdemanche.
+	
 	
 {{<figure src="/images/articles/balances.jpg" title="Balances">}}	
 	
-
-Idem le 28 Août 1907 avec le Sieur Chennel Henri, cultivateur 
-	au Moulin de Vaux à Courdemanche.
 	
 4 Sept 1910 : PV pour Pêche avec carrelet non réglementaire sur la Veuve 
 	( 18 mm de mailles), à l’encontre de Cosset louis Victor, 
@@ -223,13 +252,17 @@ Idem le 28 Août 1907 avec le Sieur Chennel Henri, cultivateur
 	Boulay Louis Victor, vigneron à Lhomme, pris avec 
 	un engin prohibé (saisie du carrelet)
 	
-En 1915 A l'étang de Gruau, une vente de poissons est organisée 
+### En 1915 :
+	
+	A l'étang de Gruau, une vente de poissons est organisée 
 	par  Melle Maubert Propriétaire : environ 100 livres de vendues.
 	Prix : Gros poissons : 1  la pièce, Alevins 6 F le cent.
 
 ## ENQUETES
 	
-16 Oct. 1920 Enquête relative à la saison de la Fraye de la truite commune:
+### 16 Oct. 1920 :
+	
+	Enquête relative à la saison de la Fraye de la truite commune:
 	
         Note de Dabat Conseiller d'État ( Dr. Gal des E et F)
         ...J'ai décidé, en conséquence, que durant la période de 5 mois et demi,
@@ -248,7 +281,7 @@ En 1915 A l'étang de Gruau, une vente de poissons est organisée
 	
 {{<figure src="/images/articles/taconettruitelle.jpg" title="Dessin à emporter en tournée">}}		
 
-## Sècheresse de 1921
+### Sècheresse de 1921
 	
 Influence de la sécheresse sur le peuplement des cours d'eau. 
 	
@@ -296,7 +329,7 @@ Note de Potel : ( 11 oct. 1924)  Les Préposés, particulièrement ceux du
 	leurs circonscriptions. 
 	Signé : Potel : inspecteur principal des Eaux et Forêts
 
-## MODES DE PÊCHE ET ENGINS
+### MODES DE PÊCHE ET ENGINS
 	
 1°/ Autorisés :
 	- La ligne flottante, les balances ( Ecrevisses)
@@ -318,7 +351,9 @@ Note de Potel : ( 11 oct. 1924)  Les Préposés, particulièrement ceux du
 	petit matin  que les braconniers venaient relever leurs engins prohibés.
 	En compensation, des mandats de gratification pour PV de pêche leur étaient versés
 
-## Dernier PROCES –VERBAL de Pêche aux écrevisses (Sermaise) 13 Août 1933
+### En 1933 :
+	
+	Dernier PROCES –VERBAL de Pêche aux écrevisses (Sermaise) le 13 août.
 	
         Nous soussignés Leclerc Albert Garde des Eaux et Forêts à la 
 	Résidence de Pruillé l'Eguillé  ( Sarthe) 
@@ -370,12 +405,13 @@ Note de Potel : ( 11 oct. 1924)  Les Préposés, particulièrement ceux du
 	procès -verbal  pour pêche sur autrui sans autorisation et pêche 
 	avec engins prohibés . Signé Leclerc
 	*Leclerc constatera que des pêcheurs d'écrevisses sont 
-	repassés le 19 Août 1933.
+	repassés le 19 août 1933.
 	
 {{<figure src="/images/articles/ecrevisse.jpg" title="Écrevisse à patte blanche">}}		
 	
-## Epilogue  de ce PV  du 13 Août 1933
-A propos des délinquants du 13 Août 1933, Mr. Bouttier Georges cultivateur 
+## Epilogue de ce PV  du 13 Août 1933
+	
+*A propos des délinquants du 13 Août 1933, Mr. Bouttier Georges cultivateur 
 à la Maugerie, né le 9 juillet 1900 commune de Pruillé – fils de Marcel 
 et de Marceline Tessier, Marié 5 enfants – jamais condamné déclare le 20 Août :
 " Je me souviens avoir été à l'eau au ruisseau de Sermaize le Dimanche 13 Août
@@ -385,9 +421,10 @@ arrivée, ces gens m'ont demandé s'ils devaient déranger l'auto pour faciliter
 mon travail. Je leur répondis que ce serait en effet plus facile pour moi et 
 ils la rangèrent sur le côté du chemin. Je ne fais pas d'avantage attention 
 à ces gens et je ne les ai rien vu retirer de l'eau et je n'ai pas vu de
-balances à écrevisses." Lecture faite . A signé "G.Bouttier". 
+balances à écrevisses." Lecture faite* . 
+	A signé "G.Bouttier". 
 	
-Ce PV sera abandonné le 27 Octobre 1933  faute de preuves suffisantes par Mr l’Inspecteur.
+Ce PV sera abandonné le 27 Octobre 1933  faute de preuves suffisantes par Mr l’inspecteur.
 
 ## Concession
 1er. Sept 1936 : *Reçu sur Bercé en communication, la copie de la concession 
