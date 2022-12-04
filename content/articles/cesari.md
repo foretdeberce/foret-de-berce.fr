@@ -1,4 +1,4 @@
- ---
+---
 title: "Un Corse à Bercé"
 date: 2022-09-16T15:22:44+01:00
 draft: false
