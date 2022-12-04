@@ -47,15 +47,23 @@ Au début du 18e siècle, le loup était partout.
 CE QUE RACONTENT LES REGISTRES PAROISSIAUX ET COMMUNAUX
  
 ## Marigné : Bête dévorante
-Le 23e jour de mai 1690 est décédée et a été  dévorée par 
-cette maudite bête qui fait tant de ravages Jeanne PELOYS, 
-fille de défunt Jean PELOYS, âgée d’environ 15 ans et le 
-lendemain 24e du dit mois, son corps a été enterré par moi
-curé, au petit cimetière, présents Marie PELOYS sa sœur et 
-Marie BOULLAY sa belle mère et Marin DRUGEON son cousin et 
-ont les présents signé : 
-			DORISSE curé de céans			 R. GROISIL, 
-				     R. LEVILLAIN				 R.  PAVY
+	
+     Le 23e jour de mai 1690 est 
+     décédée et a été  dévorée par 
+     cette maudite bête qui fait 
+     tant de ravages Jeanne PELOYS, 
+     fille de défunt Jean PELOYS,
+     âgée d’environ 15 ans et le 
+     lendemain 24e du dit mois, 
+     son corps a été enterré par moi curé,
+     au petit cimetière, présents Marie PELOYS 
+     sa sœur et Marie BOULLAY sa belle
+     mère et Marin DRUGEON son cousin et 
+     ont les présents signé : 
+	DORISSE curé de céans
+	R. GROISIL,
+	R. LEVILLAIN
+	R.  PAVY
 	
 {{<figure src="/images/articles/loupmarigne.jpg" title="Registre de Marigné">}} 	
     
@@ -92,7 +100,7 @@ l'éliminent comme prédateur.
  
    
     Notons pour la petite histoire que 130 loups
-    et 200     louveteaux seront abattus en 
+    et 200 louveteaux seront abattus en 
     Sarthe entre 1750 et 1757.
     - 1er janvier 1761 – 31 décembre 1764 : 
     356 loups, louves et louveteaux détruits 
@@ -108,23 +116,29 @@ l'éliminent comme prédateur.
     6 livres ; aucun changement pour les autres.
  
 4 mars 1789, cahier de doléances de Marigné.
- **Art. 2**, que la proximité de la forêt de Bercé l'exposant aux
-ravages des grosses bêtes, on recommence à les y laisser trop multiplier.
- **Art. 3**, *« Qu'il paraîtrait dans l'ordre que Messieurs les
+	
+ **Art. 2**, 
+*que la proximité de la forêt de Bercé l'exposant aux
+ravages des grosses bêtes, on recommence à les y laisser trop multiplier.*
+	
+ **Art. 3**, 
+*« Qu'il paraîtrait dans l'ordre que Messieurs les
 Conservateurs qui ressentent seuls le commode de la chasse de ce gibier,
 s'occupassent plus souvent de celle des loups qui, depuis deux ou trois ans,
 font des torts considérables »*.  
  
  ## Nuit du 4 août 1789, assemblée constituante : 
  abolition des privilèges dont celui de la chasse. 
- **Art. 3**. Le droit exclusif de la chasse ou des
+	
+ **Art. 3**. 
+*Le droit exclusif de la chasse ou des
  garennes ouvertes est pareillement aboli, et tout 
  propriétaire a le droit de détruire ou faire 
  détruire, seulement sur ses possessions, 
  toute espèce de gibier, sauf à se conformeraux 
  lois de police qui pourront être faites relativement
- à la sûreté publique.
- Toutes les capitaineries même royales, et toutes
+ à la sûreté publique.*
+*Toutes les capitaineries même royales, et toutes
  réserves de chasse, sous quelque dénomination que
  ce soit,sont pareillement abolies et il sera pourvu,
  par des moyens compatibles avec le respect dû aux
@@ -134,14 +148,17 @@ font des torts considérables »*.
  et des bannis pour simple fait de chasse, 
  l'élargissement des prisonniers actuellement
  détenus, et l'abolition des procédures existantes
- à cet égard.
+ à cet égard.*
 
 ## 15 septembre 1790,
+	
  Saint-Pierre du Lorouër : 
- **Art. 3** : Le voisinage de la forêt et des bêtes 
+	
+ **Art. 3** :
+*Le voisinage de la forêt et des bêtes 
  fauves qui l'habitent, nuit beaucoup aux paroisses voisines :
  ce qui les met dans l'état de réclamer des diminutions sur
- les impositions à proportion des pertes.
+ les impositions à proportion des pertes.*
 
 25 septembre 1790, Marigné : Jean Jouffroy de Marigné 
 reçoit 25 livres (33 jours 1/3 de travail) pour la
@@ -238,18 +255,39 @@ des périodes de chasse autorisées.
 
 {{<figure src="/images/articles/louveterie1814.jpg" title="Lieutenant de louveterie en 1814">}} 
 	
-Sur Bercé se succèderont ainsi : Mr. Dutrochet (1869) puis Mr. Derre (1882) Mr. Dinaux des Arsis,
-Mr le Comte d’Argence (1894), Mr le Marquis de Vance (1897), Mr Pierre Guillais (propriétaire 15 rue de
-Bouère à Sablé sur Sarthe - 1903), Mr de la Blanchere (1910), Mr Jean de Champchevrier, Indre et Loire,
-propriétaire à Charentilly. Mr le Baron de Layre, Eure et Loir, lieutenant dans l’Orne, propriétaire à
-Beaumont les Autels (1910-1914), Mr Louis Marion propriétaire, 99 boulevard Négrier au Mans et
-à Pontvallain (1916-1925), Mr Georges Willekens, industriel à la Flèche, membre fondateur de l’association
-des Lieutenants de Louveterie de France (1925-1932). Mr Foneau André (Parigné 1938) et dans le même temps :
-Jean Huger (exploitant à Chahaignes), Mr d’Andigné (château de Maigné), Mr Gustave Marchand (exploitant à
-St Germain de la coudre). Mr Foucher (1959-1963), Mr Jean Louis Coupe, Mr Claude Cureau (1982),
-Mr Roland Dupui (1998), Mr Marcel Tessé (1990-1998, qui se blessera mortellement avec son fusil prés de
-la forêt).  
-Fin 19e, il reste trois grands îlots de présence :  Est, Massif Central et Poitou.
+Sur Bercé se succèderont ainsi : 
+	Mr. Dutrochet (1869) 
+	puis Mr. Derre (1882) 
+	Mr. Dinaux des Arsis
+        Mr le Comte d’Argence (1894)
+	Mr le Marquis de Vancé (1897)
+	Mr Pierre Guillais,(propriétaire 15 rue de
+        Bouère à Sablé sur Sarthe-1903)
+	Mr de la Blanchere (1910) 
+	Mr Jean de Champchevrier, Indre et Loire,
+        propriétaire à Charentilly.
+	Mr le Baron de Layre, Eure et Loir, lieutenant dans l’Orne,
+	propriétaire à Beaumont les Autels (1910-1914) 
+	Mr Louis Marion propriétaire, 99 boulevard Négrier au Mans 
+	et à Pontvallain (1916-1925) 
+	Mr Georges Willekens, industriel à la Flèche,
+	membre fondateur de l’association
+        des Lieutenants de Louveterie de France (1925-1932). 
+	Mr Foneau André (Parigné 1938) 
+        Jean Huger (exploitant à Chahaignes) 
+	Mr d’Andigné (château de Maigné)
+	Mr Gustave Marchand (exploitant à
+        St Germain de la coudre). 
+	Mr Foucher (1959-1963) 
+	Mr Jean Louis Coupe 
+	Mr Claude Cureau (1982)
+        Mr Roland Dupui (1998)
+	Mr Marcel Tessé (1990-1998, 
+	qui se blessera mortellement 
+	avec son fusil prés de la forêt).  
+	
+	
+Fin 19e, il reste trois grands îlots de présence du loup :  Est, Massif Central et Poitou.
 
 ### Bibliographie
 
