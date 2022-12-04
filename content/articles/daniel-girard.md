@@ -10,9 +10,8 @@ tags: ["Faune","Biodiversité","chasse"]
 
 ## Portrait d’un talentueux et à la fois discret photographe animalier :
 
-{{<figure src="/images/articles/daniel.jpg" title="Survolant la forêt">}}
+{{<figure src="/images/articles/20160609.jpg" title="Daniel survolant la forêt en juin 2016">}}
 
-## Daniel GIRARD 
  
 Originaire de Beaumont pied de Bœuf, son père, bûcheron, l’emmenait tout gamin sur les coupes, 
 en forêt de Bercé et de leur balai (cabane de bois), ils pouvaient ensemble admirer les animaux 
@@ -235,3 +234,5 @@ cette vraie nature pour en découvrir toute la beauté cachée.
 ## Dans la peau du cerf de Bercé
 Une vidéo de Daniel Girard, dans laquelle il
  explique sa passion pour cet animal mythique.
+ 
+ {{<figure src="/images/articles/daniel.jpg" title="Ce n'est qu'un au revoir, Daniel">}}
