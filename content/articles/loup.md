@@ -255,7 +255,7 @@ des périodes de chasse autorisées.
 
 {{<figure src="/images/articles/louveterie1814.jpg" title="Lieutenant de louveterie en 1814">}} 
 	
-Sur Bercé se succèderont ainsi : 
+        Sur Bercé se succèderont ainsi : 
 	Mr. Dutrochet (1869) 
 	puis Mr. Derre (1882) 
 	Mr. Dinaux des Arsis
