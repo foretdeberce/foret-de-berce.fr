@@ -174,10 +174,51 @@ Né le 28 août 1931 à la Mercerie (Jupilles), il habitait Saint Vincent du Lor
  Il a commencé à travailler en ferme avant de bûcheronner en Forêt.
 Ses débuts, il les fait en 1956, avec Raymond et Camille Lemoine 
   (il possède alors la première tronçonneuse sur Bercé). 
+  Il a terminé sa carrière en 1986.
   
 {{<figure src="/images/articles/guillier3.jpg" title="Édouard Guillier éhouppe un peuplier ">}}
 
-Il a terminé sa carrière en 1986.
+Le film Chronique de Bercé relate ce dur métier. Édouard et sa famille en sont les vedettes.
+  
+      Une année en forêt
+  
+      Le travail de coupe des arbres par les bûcherons 
+      est montré à l’écran avec une grande précision 
+      technique dans Chronique de Bercé (1976, 45 min) :
+   
+      Un prologue silencieux donne à voir la préparation
+      technique de l’ouvrier émondeur sur le point 
+      d’escalader un arbre.
+  
+      La voix off relate les écrits du registre journalier
+      de Robert Calvel (alors chef de secteur). 
+  
+      Cette chronique commencée un 15 octobre nous fait 
+      vivre une année du travail forestier, essentiellement 
+      en automne et en hiver. 
+      En effet, toute exploitation est interdite à l'époque
+      dans la forêt de Bercé (Sarthe) entre 
+      le 15 avril et le 15 juillet. 
+      Le printemps est une période dangereuse pour les 
+      émondeurs car la frondaison peut provoquer de nombreux 
+      accidents souvent mortels. 
+      Le printemps c'est aussi la renaissance des jeunes tiges 
+      et des sols fragiles. Aussi le film est-il un témoignage
+      précieux de ce métier “qui disparaît parce que dangereux”.
+
+      Le montage de Bernard Dartigues (assistant réalisateur de
+      Jacques Demy et de Philippe de Broca, et lui-même réalisateur)
+      fait alterner cette “tranche de vie professionnelle” avec des
+      images de chasse à courre, de scènes domestiques mais aussi de
+      nombreux plans de la nature : cime des arbres, passage
+      d’un cerf, mouvement des feuilles, noisettes qui tombent au sol. 
+      C’est sans doute l’un des films les plus contemplatifs 
+      d’Armand Chartier, ancien ingénieur des eaux et forêts.
+  
+      (Propos Gallica {BnF)réactualisés
+
+### Référence :
+  https://gallica.bnf.fr/blog/26102022/exploitations-forestieres-des-forets-dompter?mode=mobile
 
 
 ### Éluard Guy
