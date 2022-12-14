@@ -180,6 +180,8 @@ Ses débuts, il les fait en 1956, avec Raymond et Camille Lemoine
 
 Le film Chronique de Bercé relate ce dur métier. Édouard et sa famille en sont les vedettes.
   
+ {{<youtube id="x2xzQTDO5i4" autoplay="true">}}
+  
       Une année en forêt
   
       Le travail de coupe des arbres par les bûcherons 
@@ -190,7 +192,7 @@ Le film Chronique de Bercé relate ce dur métier. Édouard et sa famille en son
       technique de l’ouvrier émondeur sur le point 
       d’escalader un arbre.
   
-      La voix off relate les écrits du registre journalier
+      La voix "off" relate les écrits du registre journalier
       de Robert Calvel (alors chef de secteur). 
   
       Cette chronique commencée un 15 octobre nous fait 
@@ -216,10 +218,23 @@ Le film Chronique de Bercé relate ce dur métier. Édouard et sa famille en son
       d’Armand Chartier, ancien ingénieur des eaux et forêts.
   
       (Propos Gallica {BnF)réactualisés
-
+  
 ### Référence :
+  
   https://gallica.bnf.fr/blog/26102022/exploitations-forestieres-des-forets-dompter?mode=mobile
 
+    
+### Quelques photos du Making of:
+  
+  {{<figure src="/images/articles/deleule1.jpg" title="1973, photos jean Pierre-Verney">}}
+  
+  {{<figure src="/images/articles/deleule2.jpg" title="1973, construction d'une loge">}}
+  
+  {{<figure src="/images/articles/deleule3.jpg" title="1973, à la maison forestière de la Huberdière">}}
+  
+  {{<figure src="/images/articles/deleule4.jpg" title="1973, prise de son en forêt de Bercé">}}
+  
+  {{<figure src="/images/articles/deleule5.jpg" title="1973, prise de son à la Huberdière">}}
 
 ### Éluard Guy
   
