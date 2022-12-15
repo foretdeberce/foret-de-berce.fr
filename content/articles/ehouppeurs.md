@@ -217,7 +217,7 @@ Le film Chronique de Bercé relate ce dur métier. Édouard et sa famille en son
       C’est sans doute l’un des films les plus contemplatifs 
       d’Armand Chartier, ancien ingénieur des eaux et forêts.
   
-      (Propos Gallica {BnF)réactualisés
+      (Propos Gallica {BnF)...réactualisés.
   
 ### Référence :
   
