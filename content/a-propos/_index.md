@@ -15,6 +15,8 @@ Au fil des siècles, l’homme en a façonné patiemment les contours pour en fa
 
 Réputée pour son chêne tendre car poussant lentement dans un environnement de qualité, 
 Bercé, la discrète et la prestigieuse, vient de recevoir le label “Forêt d’Exception”.
+  
+{{<youtube id="Ye9yVmQM3AQ" autoplay="true">}}
 
 ## Bercé livre ses secrets à travers les écrits passionnés d'Yves Gouchet !
   
