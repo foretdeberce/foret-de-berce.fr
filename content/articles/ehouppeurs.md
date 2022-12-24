@@ -180,7 +180,7 @@ Ses débuts, il les fait en 1956, avec Raymond et Camille Lemoine
 
 Le film Chronique de Bercé relate ce dur métier. Édouard et sa famille en sont les vedettes.
   
- {{<youtube id="x2xzQTDO5i4" autoplay="true">}}
+ {{<youtube id="x2xzQTDO5i4">}}
   
       Une année en forêt
   
