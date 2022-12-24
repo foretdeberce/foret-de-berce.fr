@@ -17,8 +17,11 @@ Réputée pour son chêne tendre car poussant lentement dans un environnement de
 Bercé, la discrète et la prestigieuse, vient de recevoir le label “Forêt d’Exception”.
   
 {{<youtube id="Ye9yVmQM3AQ">}}
+  
 
-## Bercé livre ses secrets à travers les écrits passionnés d'Yves Gouchet !
+## Bercé livre ses secrets 
+  
+  à travers les écrits passionnés d'Yves Gouchet !
   
 L’ONF et l’ensemble des acteurs de la démarche territoriale Bercé Forêt d’Exception 
 ont soutenu dès 2016 la démarche d'Yves, passionné d’archéologie et de forêt en général,
