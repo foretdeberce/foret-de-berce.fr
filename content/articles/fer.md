@@ -246,9 +246,6 @@ A peine un siècle auparavant, l'aménagiste de Bercé, notait en résumé :
 
  ### Datation des ateliers : 
 
-[Mémoire de thèse 2008 de Florian Sarreste](/articles/pdf/siderurgieancienne.pdf)
-
-
 Les fouilles effectuées durant les années 1996 à 1998, dans la partie Sarthoise
   du tracé de l'A28 ont permis d'effectuer des sondages et de dater les différents 
   fours rencontrés et la complexité de leur établissement. 
