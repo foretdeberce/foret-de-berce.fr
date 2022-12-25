@@ -44,9 +44,10 @@ Des ronds à 6 branches, il y en avait qu’un seul à l’origine.
 	
 {{<figure src="/images/articles/chenedesire4.jpg" title="Le rond du Chêne Désiré.">}}
 	
-  vers 1820 : le rond du chêne Désiré,très prisé des veneurs. 
-	Rond et chêne sont ainsi dédiés à l’apanagiste
-	de Bercé: M. Comte de Provence, Louis XVIII dit le Désiré.
+Vers 1820 : 
+le rond du chêne Désiré,très prisé des veneurs. 
+Rond et chêne sont ainsi dédiés à l’apanagiste
+de Bercé: M. Comte de Provence, Louis XVIII dit le Désiré.
 	
 	
 {{<youtube id="HtwpOO8_KMk">}}
@@ -75,6 +76,26 @@ Vers 1880, le rond prend toutes ses lettres de noblesse.
 	
 C’est en effet à cette époque  que l'on met en scène le carrefour,
   en y installant un poteau en fonte (pur style sarthois) au centre de l'étoile.
+	
+### De la fonte pour les ronds de Bercé !
+	
+     Les nouveaux territoires des forges 
+	(Seigneurs, usines et domaines) 
+     caractérisent l’activité sidérurgique 
+	des XVI-XVIIIe siècles. 
+     Fort heureusement, toutes les forêts n’auront 
+	pas été affectées par ce fléau écologique : 
+     la surexploitation pour l’alimentation des hauts fourneaux.
+     Les mutations contemporaines (Transitions et ruptures) 
+     aboutissent en Sarthe au choix de la fonte moulée 
+	(milieu XIXe-XXe siècles).
+     Les poteaux en fonte d'Armand Chappée 
+	(1890) dont nous conservons encore
+     quelques éléments originaux, 
+	au niveau des carrefours forestiers 
+     font partie de ce  précieux témoignage 
+     d’une activité locale aujourd'hui si marginale.
+
 	
 On plante tout autour de celui-ci des arbres exotiques, 
   et y construit une loge qui ajoute une touche d'intimité 
