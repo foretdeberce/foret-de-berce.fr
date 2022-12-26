@@ -27,7 +27,7 @@ ont bêché sur deux jours le tour du Chêne Boppe)*.
 ### Ordre de Mr. Roulleau
  (inspecteur adjoint)
 	
-                Le travail de bêchage dans un rayon de 5 m à 0,40 m de profondeur autour
+         Le travail de bêchage dans un rayon de 5 m à 0,40 m de profondeur autour
 	 du chêne Boppe devra toujours être terminé le 20 octobre avant la chute 
 	 des feuilles. La clôture sera faite non pas avec des hêtres de sous étage
 	 pris dans les environs, je le défends absolument, mais avec les mêmes 
@@ -49,6 +49,9 @@ et procède à la  pose d’une clôture de bois autour du fameux chêne.
 {{<figure src="/images/articles/clichethiollier.jpg" title="Photo Thiollier 1923">}}
 
 {{<figure src="/images/articles/cheneboppea.jpg" title="Le cycliste au pied donne l’échelle">}}
+	
+[Supplications d'André Hallays](/articles/pdf/andrehallays.pdf)
+	
 
 ### Un chêne sous perfusion  	
 	
