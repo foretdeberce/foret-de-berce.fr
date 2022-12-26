@@ -31,25 +31,7 @@ l’hectare participent au maintien de cette biodiversité
 au même titre que les cavités naturelles dans
 le tuffeau.
 
-{{<figure src="/images/articles/chauve-souris.jpg" title="Une chauve souris">}}
-  
-### Expertise chiroptères – Forêt domaniale de Bercé (72) – Année 2011
-  
-### *Recensement effectué par Guy Lereste*
-  
-Présence d’une richesse en chauves-souris
-  hors du commun dans la vallée de l’Hermitière.
 
-      Les espèces suivantes ont été contactées :
-      - Pipistrelle commune 
-      – Pipistrelle de Kuhl 
-      – Sérotine commune 
-      – Oreillard roux 
-      - Murin d’Alcathoé 
-      – Barbastelle 
-      – Noctule commune.
-
-  
 ### le pic noir
 
 Inféodé à la haute futaie sur Bercé depuis peu : 
@@ -61,7 +43,7 @@ cet oiseau discret, en laissant quelques îlots de
 bois sec, dans  chacune de ses aires. La présence 
 des vieux bois est pour lui gage de stabilité de son aire.
 
-{{<figure src="/images/articles/pic-noir-photo-de-michel-marc.jpg" title="Le pic noir photographié par Michel Marc">}}
+{{<figure src="/images/articles/-noir-photo-de-michel-marc.jpg" title="Le pic noir photographié par Michel Marc">}}
 
 Michel Marc a été parmi les tous premiers, 
 dans les années 1970 à diagnostiquer sa présence à Bercé.
