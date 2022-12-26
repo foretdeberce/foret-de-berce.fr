@@ -174,6 +174,8 @@ Concrètement … là encore le profane n’y voit que du feu !
   la présence d'un dépôt de mâchefer et de ses fourneaux, 
   vieux peut-être de 2400 ans, 
   *(c’est la Protohistoire…, l'âge des métaux)*. 
+	
+[Forges Sarthoises, par Jeanne Dufour](/articles/pdf/jeanne-dufour.pdf)
  
 ### La "mémoire" nous joue des tours. 
   
@@ -242,7 +244,7 @@ A peine un siècle auparavant, l'aménagiste de Bercé, notait en résumé :
   les Forges (Jupilles, Marigné), La Butte (Jupilles, Marigné),
   La Ferrière (Jupilles), le Champ Rouge (Villaines-sous-Lucé).
 
-
+[Circulation du fer sous toutes ses formes](/articles/pdf/circulationdufer.pdf)
 
  ### Datation des ateliers : 
 
