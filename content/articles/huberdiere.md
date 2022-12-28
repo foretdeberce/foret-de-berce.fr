@@ -90,10 +90,12 @@ Un climat de tension s’installa autour et dans cette maison qui ne faiblira pa
      Seul avantage pour certains … les étiquettes des millésimes étant parties, 
      nous étions plus souvent à même chez CALVEL de tester les breuvages engloutis. 
   
-  {{<figure src="/images/articles/calvel.jpg" title="Calvel en martelage">}}
+  {{<figure src="/images/articles/2022huberdiere0638.jpg" title="La maison forestière">}}
   
 Du 20 novembre 1975 jusqu’à la fin 1978 : rénovation et mise aux normes de la Huberdière. 
-  
+     
+ {{<figure src="/images/articles/calvel.jpg" title="Calvel en martelage">}}  
+     
 2002, Catherine CHATON, première forestière dans l’histoire de Bercé,
   prend les commandes du massif. Depuis l’abandon définitif du poste de la Huberdière, 
   les responsables territoriaux suivants se sont succédés aux commandes du massif sans y loger :
