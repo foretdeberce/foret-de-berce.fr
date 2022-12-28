@@ -55,6 +55,8 @@ un article destine à la Revue Forestière Française.
 C'était au printemps 1956, à la fin de mon règne seul à
 l’inspection du Mans…».* 
 
+[Étude quantitative sur les éclaircies dans les peuplements de chêne de qualité](/articles/pdf/195911chenelorne.pdf)
+
 ### Un visionnaire au Danemark 
 
 Au printemps 1958, lors d’une mission à l’étranger,
