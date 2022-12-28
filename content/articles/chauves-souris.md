@@ -47,7 +47,8 @@ d’arbres creux et de cavités naturelles dans le tuffeau. Ils s’en portent �
       Par exemple, le Petit Rhinolophe peut manger
       en une nuit l'équivalent de 3 000 moustiques.
   
-      Elles dispersent les graines et pollinisent les fleurs.
+      Elles dispersent les graines 
+      et pollinisent les fleurs.
   
       En France, toutes les chauves-souris sont protégées 
       suite à la loi de protection de la nature de 1976 : 
@@ -59,7 +60,8 @@ d’arbres creux et de cavités naturelles dans le tuffeau. Ils s’en portent �
       très longue pour un animal si petit 
       (15 ans pour une pipistrelle commune). 
   
-      Elles peuvent voler jusqu'à 50 km/h (20 km/h en moyenne).
+      Elles peuvent voler jusqu'à 50 km/h 
+      (20 km/h en moyenne).
   
       Les bébés, sont nommés "jeunes" ou "juvéniles" 
       pour les distinguer des adultes.
@@ -74,8 +76,10 @@ d’arbres creux et de cavités naturelles dans le tuffeau. Ils s’en portent �
       l'écholocation pour leurs déplacements et 
       pour trouver leur nourriture. 
   
-      Le guano de chauves-souris (constituées de restes d’insectes) 
-      est un engrais puissant qui revient enrichir le sol.
+      Le guano de chauves-souris, 
+      constitué de restes d’insectes, 
+      est un engrais puissant qui revient 
+      enrichir le sol.
 
 Quelques documents pour mieux connaître les espèces et leur mode de vie :
   
