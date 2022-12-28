@@ -20,6 +20,63 @@ d’arbres creux et de cavités naturelles dans le tuffeau. Ils s’en portent �
 
 {{<figure src="/images/articles/chaqueanfractuosite.jpg"  title="Les anfractuosités de la roche, abritent l’espèce">}}
 
+  
+      Les chauves-souris contrôlent les populations 
+      d'insectes nuisibles sans pour autant nuire à
+      l'environnement.
+  
+      Les chauves-souris éliminent les moustiques, 
+      qui peuvent être porteurs de maladies. 
+  
+      Les 31 espèces françaises de chauves-souris 
+      sont essentiellement insectivores. 
+   
+      Chacune d'elles chasse des proies particulières, 
+      en fonction de sa taille, de son vol et de 
+      la puissance de ses mâchoires. 
+  
+      Chaque régime alimentaire suppose des 
+      techniques de chasse particulières.
+  
+      La nuit, elles prennent le relais des oiseaux 
+      insectivores diurnes tels que les hirondelles
+      pour ingérer de nombreux insectes et araignées.
+  
+      Chaque chauve-souris ingère un tiers de son
+      poids en insecte par nuit.
+      Par exemple, le Petit Rhinolophe peut manger
+      en une nuit l'équivalent de 3 000 moustiques.
+  
+      Elles dispersent les graines et pollinisent les fleurs.
+  
+      En France, toutes les chauves-souris sont protégées 
+      suite à la loi de protection de la nature de 1976 : 
+      il est strictement interdit de les détruire, 
+      de les transporter ou de les commercialiser,
+      ainsi que de détruire ou détériorer leurs habitats.
+  
+      Enfin, les chauves-souris ont une espérance de vie
+      très longue pour un animal si petit 
+      (15 ans pour une pipistrelle commune). 
+  
+      Elles peuvent voler jusqu'à 50 km/h (20 km/h en moyenne).
+  
+      Les bébés, sont nommés "jeunes" ou "juvéniles" 
+      pour les distinguer des adultes.
+  
+      Les ennemis des chauves-souris sont les parasites 
+      comme le Nathusius, les chats et l'Homme...
+      A l'état sauvage, la chouette, la fouine ou encore
+      le chat sauvage peuvent les importuner.
+  
+      Contrairement à certaines croyances, elles possèdent
+      une bonne vision et ce, même si elles utilisent
+      l'écholocation pour leurs déplacements et 
+      pour trouver leur nourriture. 
+  
+      Le guano de chauves-souris (constituées de restes d’insectes) 
+      est un engrais puissant qui revient enrichir le sol.
+
 Quelques documents pour mieux connaître les espèces et leur mode de vie :
   
 [2007 – Plan chiroptères](/articles/pdf/2007-planchiropteres.pdf)
