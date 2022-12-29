@@ -137,23 +137,23 @@ Battue aux sangliers sur Saint-Pierre-du-Lorouër,
      Fait et clos à la Maison Forestière des Clos
 
 24 Janvier 1885:
-une autre battue aux sangliers est organisée sur la commune de Chahaignes
-Nous avons trouvé les nommés ci-dessous:
+  une autre battue aux sangliers est organisée sur la commune de Chahaignes
+  Nous avons trouvé les nommés ci-dessous:
 	
-     Passin, Adjoint, Bobet Garde Champêtre, Chevalier François, 
-     Renard Boursier , Legeais Louis, Chevalier julien, Cochard Valentin,
-     Laudreau Auguste, Chartrain Alexis, Ménard Emile, Ménard Père,
-     Gautier Eugène, Pie Victor, Chevalier Joseph, Chevalier François,
-     Peigné Alexis, Laudreau Julien, Comon, Posson Alexandre, Boussion, 
-     Benard père, Benard fils, Benard Louis, lesquels étaient occupés à
-     faire une battue aux Sangliers sous la Direction de l'Adjoint 
-     et du garde-Champêtre de St. Pierre du Lorouër.
-     Résultat: Un Homme de blessé. 
-     Fait et clos à la maison forestière des Clos le 24 janvier 1885. 
-     (Prévenu pour la battue à midi pour midi et demie, 
-     Les adjudicataires étaient prévenus …
-     d'après ce que le maire m'a dit) 
-     signé : Guyomarch
+      Passin, Adjoint, Bobet Garde Champêtre, Chevalier François, 
+      Renard Boursier , Legeais Louis, Chevalier julien, Cochard Valentin,
+      Laudreau Auguste, Chartrain Alexis, Ménard Emile, Ménard Père,
+      Gautier Eugène, Pie Victor, Chevalier Joseph, Chevalier François,
+      Peigné Alexis, Laudreau Julien, Comon, Posson Alexandre, Boussion, 
+      Benard père, Benard fils, Benard Louis, lesquels étaient occupés à
+      faire une battue aux Sangliers sous la Direction de l'Adjoint 
+      et du garde-Champêtre de St. Pierre du Lorouër.
+      Résultat: Un Homme de blessé. 
+      Fait et clos à la maison forestière des Clos le 24 janvier 1885. 
+      (Prévenu pour la battue à midi pour midi et demie, 
+      Les adjudicataires étaient prévenus …
+      d'après ce que le maire m'a dit) 
+      signé : Guyomarch
   
   
 Ce même jour Heintz relate : 
