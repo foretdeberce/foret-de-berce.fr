@@ -511,7 +511,7 @@ Les renards sont indemnisés à la queue. De nos jours, tous les personnels sont
   
 Les blaireaux font l’objet d’une chasse sous terre dite de petite vennerie.
   
-{{<figure src="/images/articles/battuestvincent005.jpg"  title="A Saint Vincent, blaireau et renard manque de chance">}}
+{{<figure src="/images/articles/battuestvincent005.jpg"  title="A Saint Vincent, blaireau et renard manquent de chance">}}
 
 ### Cas des corbeaux, rapaces et autres passereaux.
  
