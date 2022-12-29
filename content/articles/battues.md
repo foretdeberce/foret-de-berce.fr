@@ -139,6 +139,7 @@ Battue aux sangliers sur Saint-Pierre-du-Lorouër,
 24 Janvier 1885:
 une autre battue aux sangliers est organisée sur la commune de Chahaignes
 Nous avons trouvé les nommés ci-dessous:
+	
      Passin, Adjoint, Bobet Garde Champêtre, Chevalier François, 
      Renard Boursier , Legeais Louis, Chevalier julien, Cochard Valentin,
      Laudreau Auguste, Chartrain Alexis, Ménard Emile, Ménard Père,
