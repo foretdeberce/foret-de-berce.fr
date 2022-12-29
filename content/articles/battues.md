@@ -481,7 +481,8 @@ L’invasion des lapins est en soi un véritable fléau pour les cultures.
   les fermiers de la chasse sont mis en demeure de détruire 
   avant le 31 décembre 1893 le plus grand nombre de lapins »*. 
 
-{{<figure src="/images/articles/deparbattue.jpg"  title="Préparatifs du départ">}}
+{{<figure src="/images/articles/departbattue.jpg"  title="Préparatifs du départ">}}
+
 
 Cette note ne concernait pas pour l’heure Bercé, mais une forêt du nord de la France.
   *La destruction du lapin par les forestiers sur Bercé, s'échelonnera de 1940 à 1965. 
