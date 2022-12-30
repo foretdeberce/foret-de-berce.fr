@@ -4,7 +4,7 @@ date: 2022-12-28T13:15:08+01:00
 draft: false
 description: "permet un brassage des populations"
 featured_image: '/images/et.099b1008.jpg'
-tags: ["Faune","Biodiversité"]
+tags: ["Faune","Biodiversité","Chasse","Lois"]
 ---
 
 En Bercé depuis l’origine des temps, les battues et la chasse en elles même, 
