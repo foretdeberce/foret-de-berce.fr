@@ -1,8 +1,8 @@
 ---
-title: "La chasse en battue"
+title: "Le Braconnage"
 date: 2022-12-29T13:15:08+01:00
 draft: false
-description: "permet un brassage des populations"
+description: "Pour les équipes de nuit"
 featured_image: '/images/et.130585bj01.jpg'
 tags: ["Faune","Biodiversité","Chasse","Lois"]
 ---
