@@ -78,10 +78,13 @@ En mars 1792 :
   
 Les ouvriers bûcherons et sabotiers de la forêt de Bercé, se révoltent et pillent les blés enfermés dans les greniers du domaine seigneurial. 
 À cette époque le Maine est devenu l’apanage du frère de Louis XVI : Monsieur le comte de Provence (futur Louis XVIII, dit le Désiré). Celui-ci ne se rend jamais au Mans ; c’est son intendant et tout un corps de fonctionnaires particuliers, qui se chargent de percevoir les importants revenus qu’il tire de la Province. 
+	
 {{<figure src="/images/articles/ad7759ad.jpg" title="L’appréhension au collet">}}
 
 *«Les malheureux exaspérés par la misère et les injustices de toutes sortes, sont devenus absolument ingouvernables».*
+	
 Notre seigneur suzerain, Monsieur Frère du Roi, Comte de Provence et du Maine, prit pour sa part 25 millions sur les 100 millions d’emprunts du ministre de Calonne. 
+	
 *« Quand je vis que chacun tendait la main, pour recevoir disait-il en riant, moi je tendis mon chapeau »* **(2)**
   
 **Bibliographie : (2)**  Alfred Rambaud -1883- histoire de la Révolution. 
@@ -489,11 +492,11 @@ Pour appréhender **(3)** un braconnier, le garde doit le saisir physiquement.
  
 5 janvier 1902 : 
 
-*« PV contre le sieur Peigne Henri  cultivateur à Chahaignes,
+*«PV contre le sieur Peigne Henri  cultivateur à Chahaignes,
   né le 9 octobre 1879, fils d’Alexis et de Laudereau  
   Marie à Chahaignes, pour chasse en forêt domaniale 
   sans autorisation avec les sieurs Guédé et Boulay – 
-  (Fusil double système Lefaucheux). »*
+  (Fusil double système Lefaucheux).»*
 	
 28 septembre 1902 : 
 
@@ -752,7 +755,7 @@ C’était toujours cela que les gros ** (4) ** n’auraient pas…
   adjudicataires de chasse.
  
 
-{{<figure src="/images/articles/092b117.jpg" title="Arrestation de braconniers">}}
+{{<figure src="/images/articles/093b117.jpg" title="Arrestation de braconniers">}}
 
 Des anciens amis "braconniers" d’Yves Camisy, un seul est 
   resté correct à ses yeux, Valentin Mecchia habitant 
@@ -798,7 +801,7 @@ Goenvec rencontre M. le conservateur au rond de Croix-Marconnay.
 
  ### Parti pris de l’information :
 
-{{<figure src="/images/articles/096b654.jpg" title="libre réponse de Robert Calvel">}}
+{{<figure src="/images/articles/096b001.jpg" title="libre réponse de Robert Calvel">}}
 
 Pour endiguer l’hémorragie, on lâche des faisans (1958),
   des hases et des bouquins, des chevreuils (1968-1984),
