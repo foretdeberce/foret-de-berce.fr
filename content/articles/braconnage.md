@@ -51,7 +51,7 @@ Plus tard…couper une main était encore un châtiment courant.
 ### Au 16ème siècle …
 
 Tuer un cerf était passible de mort. 
-Sous Henri III (1551-1589), le seigneur abaisse une branche du haut de son cheval ; ses valets en font une « hart » on y enserre le cou du délinquant, et la branche se relève avec un fruit d’une toute nouvelle espèce. **(1) **
+Sous Henri III (1551-1589), le seigneur abaisse une branche du haut de son cheval ; ses valets en font une « hart » on y enserre le cou du délinquant, et la branche se relève avec un fruit d’une toute nouvelle espèce. **(1)**
 
 **Bibliographie : (1)** Louis Saillant : Au pays du Maine - des gaulois à nos jours  (1 janvier 1934)
 
@@ -290,11 +290,11 @@ Note circulaire de l’inspecteur adjoint des forêts René Roulleau (de la Rous
   
  Note de B.O. de Linière :
   
-* « Le garde général soussigné en exécution des ordres 
+*Le garde général soussigné en exécution des ordres 
   de M. l’inspecteur en date du 3 juillet 1863, 
   recommande au brigadier Hayot de tenir strictement 
   la main, à ce que les préposés dans ses ordres, 
-  ne chassent pas et n'aient pas de chiens de chasse »* 
+  ne chassent pas et n'aient pas de chiens de chasse* 
   (9 juillet 1863). 
 
 {{<figure src="/images/articles/103324361gb.jpg" title="La rencontre avec un braconnier">}}
@@ -363,7 +363,7 @@ Le Mans le 19 juin 1903 :
   
 {{<figure src="/images/articles/braconnier354.jpg" title="Arrestation d’un jeune garçon">}}
   
-Si ce concours est donné, dans les conditions de zèle que j'indique, 
+*Si ce concours est donné, dans les conditions de zèle que j'indique, 
   les gardes auront vite fait d'être au courant de  la chasse et s’y 
   intéresseront. Vous aurez à me signaler au moment de la rédaction 
   des notes, c'est à dire au 1er octobre de chaque année, les gardes 
@@ -376,7 +376,7 @@ Si ce concours est donné, dans les conditions de zèle que j'indique,
   respectives des uns et des autres. Je compte sur le tact des 
   gardes-chasse et sur la bonne volonté des gardes domaniaux. 
   Cet ordre sera copié sur  tous les livrets des gardes de la 
-  forêt de Bercé. 
+  forêt de Bercé.* 
   L’inspecteur des Eaux et forêts, 
   signé : Roulleau
 		
@@ -463,9 +463,19 @@ Septembre 1924 :
   teniez personnellement la main au redressement d’une
   mentalité aussi regrettable en soi que par les conséquences
   fâcheuses qui peuvent en résulter indirectement pour le Trésor »*
+	
   Signé : le conservateur Granger.
-Après la dernière guerre, les agriculteurs se sont vu reconnaître un droit d'affût pour protéger leurs cultures en luttant contre les prédateurs. Cette pratique ayant tendance à dégénérer en braconnage, la loi sur le plan de chasse (loi 63-754 du 30 juillet 1963) a instauré un plan de chasse du grand gibier qui n'a pas produit les effets escomptés. 
-De plus, eu égard aux conséquences financières des divagations du grand gibier, un système d'indemnisation des dégâts a été instauré en 1968, parallèlement à la suppression du droit d'affût.
+	
+Après la dernière guerre, les agriculteurs se sont vu reconnaître 
+un droit d'affût pour protéger leurs cultures en luttant contre 
+les prédateurs. Cette pratique ayant tendance à dégénérer en braconnage, 
+la loi sur le plan de chasse (loi 63-754 du 30 juillet 1963) 
+a instauré un plan de chasse du grand gibier qui n'a pas produit 
+les effets escomptés. 
+	
+De plus, eu égard aux conséquences financières des divagations du grand gibier, 
+un système d'indemnisation des dégâts a été instauré en 1968,
+parallèlement à la suppression du droit d'affût.
   
 ### Quelques exemples de braconnage sur Bercé
  
@@ -518,7 +528,7 @@ M. le conservateur recommande au gardes verbalisateurs de prendre sans retard,
 
 5 janvier 1911 :
 
-* « PV chasse à Guimier Edmond (Vigneron) à Chahaignes
+*« PV chasse à Guimier Edmond (Vigneron) à Chahaignes
   pour chasse à 600 m à l’intérieur de la forêt. »* 
 
 28 janvier 1918 :
@@ -593,13 +603,13 @@ Braconnage durant la Guerre 1939/1945 :
 
 Les bons mots et proverbes d’Yves Camisy
 	
-**« Bien sûr c’était interdit de braconner…mais pas défendu ! »** 
+**Bien sûr c’était interdit de braconner…mais pas défendu !** 
 	
-**« Lorsqu’il neige, la forêt devient un grand livre pour les ânes. »** 
+**Lorsqu’il neige, la forêt devient un grand livre pour les ânes.** 
 
 {{<figure src="/images/articles/parcsangliers.jpg" title="Le parc du Bout du Clos">}}
 
-Seule l’administration française et l’armée d’occupation chassent en forêt.
+### Seule l’administration française et l’armée d’occupation chassent en forêt.
 	
 Quelques battues contre les sangliers sont organisées par le lieutenant 
   de louveterie. 
@@ -761,26 +771,26 @@ Des anciens amis "braconniers" d’Yves Camisy, un seul est
   resté correct à ses yeux, Valentin Mecchia habitant 
   l’Épau à Lavernat. 
   
-*«Menteur comme un arracheur de dent…il disait pouvoir
+*Menteur comme un arracheur de dent…il disait pouvoir
   tenir la cadence de 44 km/h pendant 3h en vélo…Il n’a
   pourtant  jamais trahi. C’est un bon tireur…il 
   certifiait pouvoir enfoncer des pointes à 176 m 
   avec sa 280 (il a quand même tapé dans le rond 
-  rouge d’une poivrière).
+  rouge d’une poivrière).*
   
 *Un jour on a tué une "bique"…sur Beaumont-Pied-de-Bœuf,
   aux Landes, elle avait la longe au cou (une longe en 
   coton de bonne qualité "pour cavalier supérieur") 
   je lui dis qu’elle avait dû, ces derniers jours, 
-  lui échapper…à cela il ne m’a pas répondu. 
+  lui échapper…à cela il ne m’a pas répondu.* 
   
-Bercé a vu chuter ses populations de gibier jusque dans
+*Bercé a vu chuter ses populations de gibier jusque dans
   les années 80. Quoiqu’on en dise, le mal n’était point
   le fait des braconniers, mais celui des nantis ou des
   bourgeoisiaux, comme disait Bernard Chevalier. C’est
-  vrai qu’aucun contrôle ne venait clôturer leur acte de chasse. 
+  vrai qu’aucun contrôle ne venait clôturer leur acte de chasse.* 
   
-En 1955, Bercé était garni en gibier, la chasse au gros 
+*En 1955, Bercé était garni en gibier, la chasse au gros 
   (cerfs, biches et chevreuils) ouvrait le dernier 
   dimanche d’octobre et le cerf ne restait ouvert que 8 jours. 
   Un de ces lascars-là oublie la date de fermeture et 
@@ -789,7 +799,7 @@ En 1955, Bercé était garni en gibier, la chasse au gros
   en train de le châtrer. Quand (J.L.H...) le lascar voit çà,
   il s’empare de l’appareil photo et le piétine. 
   Le photographe écrira son mécontentement dans 
-  le Maine-Libre, (signant M.M.) pour Michel Marc.
+  le Maine-Libre, (signant M.M.) pour Michel Marc.*
  
 23 mars 1953 :
 
@@ -834,5 +844,5 @@ Ce n’est donc pas catastrophique pour l’avenir,
 **Références :** 
 Archives registres des Eaux et forêts - notes et témoignage de Robert Calvel.
   
-Un jeune braconnier surpris par un garde-chasse. 
+Un jeune braconnier surpris par un garde-chasse (gravure). 
   D’après Maurice Engelhard, La chasse et la pêche, souvenirs d’Alsace, Paris, Berger-Levrault, 1888, p. 227. © BnF, Gallica.
