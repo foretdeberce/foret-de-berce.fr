@@ -589,40 +589,51 @@ Le garde Julien logeait à la «Maison Rose». Gobert à la Tasse,
 Braconnage durant la Guerre 1939/1945 : 
 
 Les bons mots et proverbes d’Yves Camisy
+	
 **« Bien sûr c’était interdit de braconner…mais pas défendu ! »** 
+	
 **« Lorsqu’il neige, la forêt devient un grand livre pour les ânes. »** 
 
 {{<figure src="/images/articles/parcsangliers.jpg" title="Le parc du Bout du Clos">}}
 
-Seule l’administration française et l’armée d’occupation chassent en forêt. 
+Seule l’administration française et l’armée d’occupation chassent en forêt.
+	
 Quelques battues contre les sangliers sont organisées par le lieutenant 
   de louveterie. 
+	
 Les Camps de jeunesse installés en forêt profitent comme certains
   riverains ou chômeurs, du gibier abondant,  mais rien que pour
   se nourrir ! 
+	
 Les Allemands, eux chassent à partir des miradors ; 
 Quelques barreaux seront sciés et les miradors piégés, 
   durant l’occupation en forêt. 
+	
 En effet, dans le coin, beaucoup de gens voyaient
   d’un mauvais œil ce gibier leur passer si facilement
   sous le nez. 
+	
 Aussi le braconnage prospère-t-il, un braconnage silencieux
   qui consiste en la pose discrète de collets à lièvres, 
   chevreuils et cerfs.
-*« Même les chiens des chasseurs à la fin de la guerre,
+	
+*«Même les chiens des chasseurs à la fin de la guerre,
   se faisaient prendre dans les collets, cela devenait 
   invivable. Seuls les sangliers en réchappaient ….
   sauf dans les fosses qui étaient creusées autour de 
-  la forêt ».*
+  la forêt».*
+	
 Pour mettre en défaut les chiens, les anciens répandent du 
   poivre sur la voie du gibier, empêchant ces messieurs les
   officiers et "occupants" de pratiquer la chasse dans
   " leur " forêt à "eux". 
+	
 Les vieux grognards des guerres précédentes ne voyaient 
   pas plus d’un bon œil le fait que les gradés de 
   l’infanterie qui les avaient souvent humilié et 
   chassaient aujourd’hui avec l’occupant, 
   s’en prennent ainsi à leur gibier...
+	
 Il y avait là quelques relents d’amertume 
   biens compréhensibles. 
  
