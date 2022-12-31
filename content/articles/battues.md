@@ -90,6 +90,7 @@ Les battues typiquement forestières sont dirigées par l’inspecteur ou
   s'organisent ainsi de temps à autre, quelques chasses aux nuisibles 
   (octobre 1919 prime de destruction  de 16 marcassins : 60 f).
   
+{{<figure src="/images/articles/boris002.jpg"  title="Aquarelle de Boris Riabouchinski qui vécut à St Vincent">}}
 
 ### Les dégâts du sanglier :
   
