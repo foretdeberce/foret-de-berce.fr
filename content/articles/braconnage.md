@@ -45,7 +45,7 @@ De tous temps, afin de punir les délinquants qui pillent leurs
   
 Plus tard…couper une main était encore un châtiment courant.
 
-{{<figure src="/images/articles/089b1265.jpg" title="La castration de l’animal">}}
+{{<figure src="/images/articles/089b1265.jpg" title="Castration du gibier">}}
 
  
 ### Au 16ème siècle …
@@ -139,6 +139,9 @@ Avec le temps la chasse se popularise. Tout à la joie de pouvoir enfin
   prédateurs comme les loups et les ours…qu’ils disparurent. 
   Les autres bêtes sauvages pullulèrent alors et devinrent trop
   nombreuses, au grand bonheur des braconniers. 
+	
+[Le droit de chasse en France de 1789 à 1914](/articles/pdf/chasseenfrancede1789a1914.pdf)
+
   
 1793 : c’est aussi l’époque de la chouannerie où les chouans 
   sont partout et qu’on n’en voit nulle part. 
@@ -236,7 +239,6 @@ Une histoire qui aurait pu mal finir, celle du garde Passerat à la maison
   filaient à toutes jambes. »* ...
 
 {{<figure src="/images/articles/095b114.jpg" title="Même mésaventure en forêt de Chinon">}}
-
 
 
 28 novembre 1887 
