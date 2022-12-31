@@ -521,9 +521,11 @@ Silvestre écrit
 
  ### 1998
 	
-renouera avec la tradition car l'ONF organisera en janvier…une battue de biches.
+Renouer avec la tradition. L'ONF organisa en janvier…une battue de biches.
   En effet certains agriculteurs excédés des lenteurs administratives et du laxisme 
   des chasseurs, en seraient facilement venus à faire justice eux-mêmes. 
+	
+{{<figure src="/images/articles/199801ecoute.jpg" title="Les consignes avant le départ">}}
 	
   Yves CAMISY de dire à son voisin du jour, Jacques BIZARD : 
   *« Il n’y a pas de différence entre nous, sauf peut-être la maison d’habitation et le compte en banque »*.
