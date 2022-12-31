@@ -348,6 +348,8 @@ En 1927
 
 {{<figure src="/images/articles/097b006.jpg"  title="Théophile Romastin, maire de Beaumont">}}
 
+{{<figure src="/images/articles/451vert.jpg"  title="Conseil général du 29 septembre 1932">}}
+
  
 ###  Chasse entre 1939 et 1945
 	
