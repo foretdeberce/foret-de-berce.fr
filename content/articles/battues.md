@@ -67,6 +67,8 @@ une chair succulente, mais en plus …il est de bon poids
 (environ 125 kg dans Croix-Gorgeas le 25 février 1877)
 je vous dis pas…!
 
+[Chanson de Fernand de Jupilles sur le sanglier](/articles/pdf/echosdemaforet.pdf)
+
 Ordonnée par les conservateurs ou les fermiers de la chasse, 
 la destruction du sanglier est un temps effectuée par les préposés 
 ou les officiers forestiers. Les louvetiers, eux,
