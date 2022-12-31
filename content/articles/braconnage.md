@@ -606,6 +606,8 @@ Les bons mots et proverbes d’Yves Camisy
 **Bien sûr c’était interdit de braconner…mais pas défendu !** 
 	
 **Lorsqu’il neige, la forêt devient un grand livre pour les ânes.** 
+	
+ [Yves Camisy se confie à Louis Paul Ache](/articles/pdf/camisylouispaulache.pdf)
 
 {{<figure src="/images/articles/parcsangliers.jpg" title="Le parc du Bout du Clos">}}
 
