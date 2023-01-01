@@ -522,7 +522,6 @@ Silvestre écrit
   – Résultats : deux biches tuées et distribuées sur le terrain. 
   Rendu compte à Mr. l’inspecteur."*
 
-{{<figure src="/images/articles/103b1128.jpg"  title="Journée d’invitation des riverains à la battue">}}
 
  ### 1998
 	
@@ -539,7 +538,9 @@ Renouer avec la tradition. L'ONF organisa en janvier…une battue de biches.
   *« Ça me fait plaisir d’accepter ce gâteau car j’ai l’impression de récupérer mes impôts »*
   
   … C’est cela aussi le plaisir de la communication…
-
+	
+{{<figure src="/images/articles/103b1128.jpg"  title="Journée d’invitation des riverains à la battue">}}
+	
 
 ### Les lapins, renards et blaireaux	
 
