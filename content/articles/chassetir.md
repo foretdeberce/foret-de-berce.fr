@@ -51,7 +51,9 @@ dont le premier piqueur se nommait Marchand.
 1er lot   : Mr le Comte de la Porte aux loups (enterré au château de la
 Couëtterie à Beaumont Pied de Bœuf: des loups sculptés ornent les chiens assis) 
 avait une autorisation permanente de chasser la perdrix en bordure de ses propriétés.
-                    
+          
+{{<figure src="/images/articles/gardechahaignes.jpg" title="Garde particulier sur Chahaignes">}}
+                             
 2ème lot   : Mr Henri Martin (grand père de Marcel Huger et maire de Chahaignes 
 (Mme Martin a tiré sa première biche en 1907 au rond du Guignier) et ses invités :
 Mr Péan  et Mr Séchet (20 fusils) dont le garde chasse particulier est Vignas 
