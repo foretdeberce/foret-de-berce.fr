@@ -28,13 +28,13 @@ forestières désaffectées (ex : la Tasse, les Profonds Vaux, les Étangs, cec
 Ils participaient selon leurs moyens à la lutte anti-braconnage aux côtés des forestiers de l’État.
 
 Aujourd'hui les chasseurs sont regrouppés en fédérations déclinées par département: 
-(Chaque fédération est une Association loi 1901 investie de missions de service public).
+(Chaque fédération est une association loi 1901 investie de missions de service public).
 Celle-ci apporte son concours à la prévention du braconnage et 
 assure deux missions d'intérêt général et à caractère public : 
 
-l'indemnisation des dégâts de grands gibiers 
+### l'indemnisation des dégâts de grands gibiers 
 
-et la formation au permis de chasser.
+### et la formation au permis de chasser.
 
 ### 1875 
 
@@ -75,4 +75,4 @@ Ils ne peuvent pas les attaquer sur le 2ème lot.
 
 {{<figure src="/images/articles/cartechasse1901.jpg" title="Invitation à la chasse à tir du lot 4">}}
   
-à suivre prochainement
+La suite... très prochainement
