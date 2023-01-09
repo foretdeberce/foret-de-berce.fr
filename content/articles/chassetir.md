@@ -10,21 +10,29 @@ tags: ["Faune","Biodiversité","Chasse","Lois"]
 Depuis la révolution, la chasse n'appartient plus à un seul homme ... le roi.
 
 Elle est louée par adjudication à des fermiers et Co-fermiers.
-La location d'un tel bail de chasse (qui leur est personnel) rendent ces personnes
-responsables de tous incidents aux yeux de la loi.
+La location d'un tel bail de chasse (qui leur est personnel)
+rendent ces personnes responsables de tous incidents aux yeux de la loi.
 
 Les riverains les nomment « ces Messieurs » ou « les gros ».
-Leurs ayants-droit sont sont accrédités pour un ou plusieurs modes de chasse, 
-sur le même lot de chasse. 
+Leurs ayants-droit sont sont accrédités pour un ou plusieurs 
+modes de chasse, sur le même lot de chasse. 
 
-L'adjudicataire s’entoure de chasseurs, (les actionnaires). 
+L'adjudicataire s’entoure de chasseurs,(les actionnaires). 
 Il  y a actuellement six locataires du droit de chasse : 
 quatre pour le tir (lots de 1000 à 1300ha) et 2 pour le courre.
 
 Les adjudicataires du tir par le passé, s’entouraient bien souvent, de gardes particuliers. 
+
 Autrefois, ceux ci résidaient aux alentours de la forêt, voire dans les maisons 
-forestières désaffectées (ex : la Tasse, les Profonds Vaux, les Étangs, ceci avant guerre). 
+forestières désaffectées (ex : la Tasse, les Profonds Vaux, les Étangs, ceci avant guerre).
+
 Ils participaient selon leurs moyens à la lutte anti-braconnage aux côtés des forestiers de l’État.
+
+Aujourd'hui les chasseurs sont regrouppés en une fédération déclinée par département: 
+(Association loi 1901 investie de missions de service public).
+Celle-ci apporte son concours à la prévention du braconnage et assure deux missions d'intérêt général et à caractère public : 
+l'indemnisation des dégâts de grands gibiers 
+et la formation au permis de chasser.
 
 ### 1875 
 
