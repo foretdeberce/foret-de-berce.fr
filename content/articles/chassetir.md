@@ -17,7 +17,7 @@ Les riverains les nomment « ces Messieurs » ou « les gros ».
 Leurs ayants-droit sont accrédités pour un ou plusieurs 
 modes de chasse, sur un seul et même lot de chasse. 
 
-L'adjudicataire choisit ses chasseurs,(les actionnaires). 
+L'adjudicataire choisit ses chasseurs, (les actionnaires). 
 Il  y a actuellement six locataires du droit de chasse : 
 quatre pour le tir (lots de 1000 à 1300ha) et 2 pour le courre.
 
@@ -28,13 +28,13 @@ forestières désaffectées (ex : la Tasse, les Profonds Vaux, les Étangs, cec
 Ils participaient selon leurs moyens à la lutte anti-braconnage aux côtés des forestiers de l’État.
 
 Aujourd'hui les chasseurs sont regrouppés en fédérations déclinées par département: 
-(Chaque fédération est une association loi 1901 investie de missions de service public).
+Chaque fédération est une association loi 1901 investie de missions de service public.
 Celle-ci apporte son concours à la prévention du braconnage et 
 assure deux missions d'intérêt général et à caractère public : 
 
-### l'indemnisation des dégâts de grands gibiers 
+### 1) l'indemnisation des dégâts de grands gibiers 
 
-### et la formation au permis de chasser.
+### 2) et la formation au permis de chasser.
 
 ### 1875 
 
