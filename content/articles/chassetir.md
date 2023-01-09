@@ -7,10 +7,11 @@ featured_image: '/images/et.chasse003832.jpg'
 tags: ["Faune","Biodiversité","Chasse","Lois"]
 ---
 
+Depuis la révolution, la chasse n'appartient plus à un seul homme ... le roi 
+mais est louée par . à des fermiers et Co-fermiers.
+Les locataires d'un tel bail de chasse (qui leur est personnel) rendent ces personnes
+responsables de tous incidents aux yeux de la loi.
 
-Les adjudicataires du tir sont en forêt Domaniale de Bercé depuis la révolution,
-et suite à une adjudication publique, les propriétaires d'un bail de chasse qui leur est personnel.
-Avant on les nommait Co-fermiers ou locataires de chasse. 
 Les riverains les nomment « ces Messieurs » ou « les gros ».
 Leurs ayants-droit sont sont accrédités pour un ou plusieurs modes de chasse, 
 sur le même lot de chasse. 
