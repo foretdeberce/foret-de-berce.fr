@@ -50,7 +50,7 @@ sur le sujet, où seul le nord de la Sarthe apparaissait dans le paysage minier.
  permettra de favoriser l'essor économique de notre région jusqu'à l'aube du XX° Siècle 
  (un moulin à fer est relaté vers 1583 dans le « Vau du Puy »). **(1)
  
-  Un lieu-dit les forges existe entre Marigné et Laillé.
+ Un lieu-dit les forges existe entre Marigné et Laillé.
 
 
 ### Extraction du minerai
@@ -212,7 +212,8 @@ Payées 2f50 la tonne expédiée, elles étaient acheminées par les voituriers
   qui le dimanche faisaient des fêtes. »* (C. & A. Borderon). 
   
 Ainsi en Bercé, les forestiers se succédaient-ils peut-être trop rapidement,
-  conservant par-devers eux leurs observations sans prendre le temps de les transmettre aux suivants. 
+conservant par-devers eux leurs observations sans prendre
+le temps de les transmettre aux suivants. 
  
 ### Et pourtant en 1843 . . . 
   
@@ -370,13 +371,14 @@ Les prospections au sol entreprises en fin d’année 2014 conjointement par l�
 
 *« Trois sites de réduction peuvent déjà être rattachés à la période antique, 
   il s'agit du ferrier de la parcelle 189 à Saint-Vincent-du-Lorouër ainsi
-  que du ferrier de la parcelle forestière 38 à Marigné-Laillé.  
+  que du ferrier de la parcelle forestière 38 à Marigné-Laillé.*  
   
-  L'un des deux ferriers des Forges à Marigné pourrait également correspondre
+ *L'un des deux ferriers des Forges à Marigné pourrait également correspondre
   à cette période. Mais s'agissant d'un site en champ labouré 
   le mobilier découvert peut tout aussi bien provenir d'une occupation 
-  antérieure ou postérieure sans lien directe avec l'activité sidérurgique. 
-  A cela, s'ajoutent de nombreux sites pour lesquels nous ne pouvons émettre
+  antérieure ou postérieure sans lien directe avec l'activité sidérurgique.* 
+	
+ *A cela, s'ajoutent de nombreux sites pour lesquels nous ne pouvons émettre
   que des hypothèses basées sur les typologies. Nous avons également pu dater 
   l'un des ferriers de la parcelle 132 qui comporte cinq ferriers et un épandage
   de laitiers, grâce à une datation par carbone 14 réalisée à l'Université de 
