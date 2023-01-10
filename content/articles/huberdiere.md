@@ -112,4 +112,4 @@ Catherine Chaton, première forestière dans l’histoire des forestiers de Berc
   prend les commandes du massif. Depuis l’abandon définitif du poste de la Huberdière, 
   les responsables territoriaux suivants se sont succédés aux commandes du massif sans y loger :
   intérim de Sylvain Haye (2009-2013), de Joël Guitton (15 octobre 2013 au 31 janvier 2015)
-  puis Joël Linte (1er fevrier 2016-2020 ) et enfin d'Hervé Daviau.
+  puis Joël Linte (1er fevrier 2015-2020 ) et enfin d'Hervé Daviau.
