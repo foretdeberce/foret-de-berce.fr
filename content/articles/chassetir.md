@@ -85,7 +85,7 @@ de Mr de Champigny (Chahaignes) dont le premier piqueur se nommait Marchand.
 des loups sculptés ornent les chiens assis) avait une autorisation
 permanente de chasser la perdrix en bordure de ses propriétés.  
 
-[Le Château de la Couëtterie](/articles/pdf/château-de-la-couetterie.pdf)    
+[Le Château de la Couëtterie](/articles/pdf/chateau-de-la-couetterie.pdf)    
         
 {{<figure src="/images/articles/002chasseatir.jpg"  title="Invitation battue aux sangliers">}} 
 
