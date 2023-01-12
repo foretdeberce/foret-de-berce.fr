@@ -36,7 +36,7 @@ Les adjudicataires du tir par le passé, s’entouraient bien souvent, de gardes
 Autrefois, ceux ci résidaient aux alentours de la forêt, voire dans les maisons 
 forestières désaffectées (ex : la Tasse, les Profonds-Vaux, les Étangs, ceci avant guerre). 
 
-Les “ Garde-Chasse ” Bruon, Quentin, Forest, Simier, Gobert, Vignas (de Chahaignes),
+Les “ garde-chasse ” Bruon, Quentin, Forest, Simier, Gobert, Vignas (de Chahaignes),
 Rousselet, Passerat et bien d’autres, sont de ceux là, chargés de faire appliquer
 la loi tout en veillant aux intérêts de leur maître. Ils participaient selon 
 leurs moyens à la lutte anti-braconnage aux côtés des forestiers de l’État.
@@ -55,8 +55,8 @@ Rallye Sapinette de Chemiré le Gaudin).
 
 ### 1875 
 
-Mr le Comte d'Andigné est l'Adjudicataire de chasse à Bercé
-Ses Co-fermier du tir sont Poussin, Maillard (sanglier) et Boutevin en 1880
+Mr le Comte d'Andigné est l'adjudicataire de chasse à Bercé.
+Ses Co-fermiers du tir sont Poussin, Maillard (sanglier) et Boutevin en 1880
  
 ### 1886  
 
@@ -194,20 +194,23 @@ Le Louvetier est quant à lui Mr Louis Marion.
  
 ### 1929 Des adjudications qui font plouf!
           
-Co Fermier   Tir : Ernest Penard – Richomme
+Co-Fermier du Tir : Ernest Penard – Richomme
 Louvetier : Georges Willekens
           
 ### 24 novembre 1932
           
 Agrément des gardes particuliers Rousselet et Julien.
           
-### 1939 à 1947 de nouveau la guerre
+### 1939 à 1947 de nouveau la guerre.
 
 Durant la période trouble, la chasse est diligentée par le gouvernement
  Allemand en France et par les Officiers des Eaux & forêts;
  la Résistance s'emploiera à détruire les miradors de chasse. 
+ 
  Aucune chasse à courre n’eut lieu pendant la période de la
- dernière guerre. Les louvetiers sont :
+ dernière guerre.
+ 
+ Les louvetiers sont :
  André Foneau - Jean Huger - d'Andigné.
           
 Le général Madamet (Le Ronceray) est autorisé à détruire
@@ -219,8 +222,8 @@ Les chasses ordinaires reprennent après 1947- ……
  
 ### 1950-1960 
           
-Emile Ballion qui chasse depuis l’âge de 18 ans était 
-actionnaire du lot allant de la Croix Gorgeas à Grammont 
+Émile Ballion qui chasse depuis l’âge de 18 ans était 
+actionnaire du lot allant de la Croix-Gorgeas à Grammont 
 (avant 1950) avec Chantoiseau, Pénard, Montebran.
           
 Le président de la « Société de Chasse à Tir de Bercé »,
