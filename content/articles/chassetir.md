@@ -1,6 +1,6 @@
 ---
 title: "La chasse à tir"
-date: 2022-01-07T13:15:08+01:00
+date: 2023-01-11T13:15:08+01:00
 draft: false
 description: "Le mal nécessaire"
 featured_image: '/images/et.chasse00583.jpg'
