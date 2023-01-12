@@ -60,7 +60,7 @@ Ses Co-fermiers du tir sont Poussin, Maillard (sanglier) et Boutevin en 1880
  
 ### 1886  
 
-Rallye Bersay (Maine-Anjou) Maître d'équipage : duc de Gramont, château de Mangé (Sarthe) 
+Rallye Bersay (origine Maine-Anjou) Maître d'équipage : duc de Gramont, château de Mangé (Sarthe) 
 
 {{<figure src="/images/articles/chateaumange-chenil.jpg"  title="Le chenil de Saint-François">}} 
 
@@ -101,16 +101,16 @@ le 4ème lot. Ils ne peuvent pas les attaquer sur le 2ème lot.
 
 ### 1902 :
           
-Co-fermier du tir : Mr du Luart - Mr de la Blanchère
+Co-fermier du tir : [Mr du Luart](/articles/pdf/1842-1939equipageduluart.pdf) - Mr de la Blanchère
  Lieutenant de Louveterie : Pierre Guillais
-          
+           
 ### 1906 :
           
 Il est fait mention du garde chasse Quentin
  
 ### 1911 
           
-Co-fermier  du tir : Mr Housseau, Victor Garnier(Lavernat) 
+Co-fermier  du tir : Mr Housseau, Victor Garnier (Lavernat) 
 qui peut détruire les sangliers, cerfs, biches, renard et 
 René Huger de Chahaignes (père de Marcel qui habite Chahaignes)
 Louvetier : Mr de la Blanchère
@@ -124,14 +124,14 @@ Entre 1916 et 1918, l’on voit de nouveau les battues et les chasses
 et la moitié du sanglier a été envoyé à l’ambulance, 
 le reste distribué aux tireurs et riverains).
           
-### Après guerre
+### Après guerre :
           
 Bail de chasse de 1920 à 1929
           
 L’adjudicataire principal du bail en forêt est Mr Albert Bordeaux (21 rue de Flore- le Mans).
           
-Les Co-Fermiers pour le tir sont : 
-Léon Loisel : tir des lots n°1 et 2 à (Notaire à Château du Loir
+Les Co-fermiers pour le tir sont : 
+Léon Loisel : tir des lots n°1 et 2 (Notaire à Château du Loir
           dont le garde particulier est Robert puis Gobert). 
           
 Mr  Dineau des Arcis lot 3 (tir des lièvres et bécasses seulement). 
@@ -139,7 +139,7 @@ Mr  Dineau des Arcis lot 3 (tir des lièvres et bécasses seulement).
           
        Le garde Gobert de 1923 à 1929 est au service de Mr Léon Loisel 
        (adjudicataire des lots 1 et 2) et habite la MF de la Tasse. 
-       Après 1929 jusqu’en 1956, il habite à Laillé et sera 
+       Après 1929 jusqu’en 1956, il loge à Laillé et sera 
        successivement au service de Mr Darblay et Mr Huger. 
        Il sera nommé garde auxiliaire de la fédération des 
        chasseurs en mars 1952.
