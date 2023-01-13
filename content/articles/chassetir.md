@@ -161,7 +161,7 @@ Le Louvetier est quant à lui Mr Louis Marion.
       puis de nouveau St Vincent de 1957 à 1972.
       Frère de Roger (bûcheron plus jeune que lui de 15 ans)
       Henri a toujours vouvoyé son père qui était très
-      autoritaire. Il n’y avait que le bouleau qui comptait,
+      autoritaire. Il n’y avait que le boulot qui comptait,
       et la chasse qu’il pratiquait avec de bons chiens,
       ce qui faisait qu’il était appelé souvent pour les 
       battues avec le "père Rousselet" (garde chasse 
@@ -207,13 +207,13 @@ Durant la période trouble, la chasse est diligentée par le gouvernement
  Allemand en France et par les Officiers des Eaux & forêts;
  la Résistance s'emploiera à détruire les miradors de chasse. 
  
- Aucune chasse à courre n’eut lieu pendant la période de la
+Aucune chasse à courre n’eut lieu pendant la période de la
  dernière guerre.
  
  Les louvetiers sont :
  André Foneau - Jean Huger - d'Andigné.
           
-Le général Madamet (Le Ronceray) est autorisé à détruire
+Le général Madamet (Château du Ronceray) est autorisé à détruire
 du 1er avril au 30 juin 1946 huit sangliers et dix renards.
           
 La guerre bousculera toutes les habitudes….
@@ -273,6 +273,7 @@ Tir : ouest lot 1 Jean Louis Coupet–
  
  
 ### 1992 :
+ 
 Tir : mêmes adjudicataires sauf Mr Grimaud (Tours) qui remplace JL Coupet sur le lot 1.
           
 ### En 1995 : 
