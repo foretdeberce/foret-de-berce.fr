@@ -323,8 +323,6 @@ Informations sur le Rallye Touraine :
   
 [1974 Vènerie N°35](/articles/pdf/1974venerierallyetouraine35.pdf)
   
-[1986 Vènerie N°82](/articles/pdf/1986rallietourainevenerie82.pdf)
-  
 [2002 Vènerie N°146](/articles/pdf/2002venerie146ettouraine.pdf)
 
 ### En 1968 :
