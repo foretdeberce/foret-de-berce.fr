@@ -154,8 +154,11 @@ Co Fermier du courre [Mr le Baron de Layre](/articles/pdf/1894-1936layre.pdf) :
      (Chasse au Sanglier) Rallye invité : [Rallye Chistré (1928-1933)](/articles/pdf/1863-1932rallyechistre.pdf)
 
 Invité : L’équipage du Luart
+ 
 [Le Luart](/articles/pdf/le-luart.pdf)
-[1901- sport universel illustré](/articles/pdf/1901sportuniverselillstre.pdf)
+ 
+[1901- sport universel illustré](/articles/pdf/1901sportuniverselillustre.pdf)
+ 
 [1992-Vènerie N°106](/articles/pdf/1842-1939venerie106.pdf)
  
 ### 1911 :
@@ -210,13 +213,13 @@ Co-Fermier du tir : [Darblay](/articles/pdf/1927darblay.pdf) (château de la Mot
 
 {{<figure src="/images/articles/000151.jpg"  title=" Rallye Chistré ">}}
 
-{{<figure src="/images/articles/000155.jpg"  title=" Les deux équipages">}}
+{{<figure src="/images/articles/00155.jpg"  title=" Les deux équipages">}}
 
 
 ### 1929 : 
   
 Co-Fermier du courre : Rallye Chistré - Champchevrier
-[M. François Darblay (château de la motte Sonzay 37)](/articles/pdf/1924-1928vautraitdarblay) 
+[M. François Darblay (château de la Motte-Sonzay 37)](/articles/pdf/1924-1928vautraitdarblay.pdf) 
   et Pierre Vernes ((banquier, dont le frère Edouard s’est marié avec Melle Darblay )
 Le louvetier est: [Georges Willekens](/articles/pdf/1927-1935equipagewillekens.pdf) 
 
