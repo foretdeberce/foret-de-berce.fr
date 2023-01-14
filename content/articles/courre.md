@@ -149,9 +149,9 @@ Co Fermier du courre [Mr le Baron de Layre](/articles/pdf/1894-1936layre.pdf) :
   (Rallye Bercé) dont les gardes chasse assermentés étaient Gérard (1903-1904)
   Quentin (1906) Valentin Forest (1910-1914) et Bruon. 
 
-     (Chasse au Cerf)  Mr le Comte Pierre de Felcourt 
+(Chasse au Cerf)  Mr le Comte Pierre de Felcourt 
 
-     (Chasse au Sanglier) Rallye invité : [Rallye Chistré (1928-1933)](/articles/pdf/1863-1932rallyechistre.pdf)
+(Chasse au Sanglier) Rallye invité : [Rallye Chistré (1928-1933)](/articles/pdf/1863-1932rallyechistre.pdf)
 
 Invité : L’équipage du Luart
  
