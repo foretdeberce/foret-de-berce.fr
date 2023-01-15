@@ -38,6 +38,8 @@ et le garde général stagiaire HERMIER consigneront sur son livret cette phrase
      le garde général stagiaire avec 30 minutes de retard. 
      Le préposé a été informé qu’il serait puni d’une retenue sur son
      traitement au premier accroc dans son service."	
+     
+{{<figure src="/images/articles/train1903.jpg" title="Voyage à Paris de février 1903">}}  
 
 ### Le 18 Mars 1904, 
 
