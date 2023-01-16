@@ -9,7 +9,7 @@ tags: ["Faune","Biodiversité","Chasse","Lois"]
 
 
 Déjà en service depuis le 1er mai 1884 sur l’extérieur du massif,
-la ligne Le Grand Lucé – La Chartre sur le Loir 17.7km desservira 
+la ligne Le Grand Lucé/La Chartre sur le Loir 17.7km desservira 
 celui-ci sur son flan Est, au niveau des gares de Saint-Vincent 
 et Saint Pierre du Lorouër.
 
@@ -18,7 +18,7 @@ est une volonté des élus.
 
 [La ligne de Château du Loir](/articles/pdf/tramplaquette.pdf)
 
-### Très cher chemin de bois !
+### 13 années de service : très cher chemin de bois !
 
 Le tacot, ce tortillard, nous pourrions très justement le nommer
 "chemin de bois" du fait de la présence d’une traverse en chêne créosoté par mètre de voie. 
@@ -43,7 +43,7 @@ merrains, bois de chauffage, pins ou autres etc.…*
 
 ### En 1904 : [Les projets](/articles/pdf/projetstram.pdf)
 
-Plusieurs itinéraires sont proposés **(1)** qui ne desservent pas les
+Plusieurs itinéraires sont proposés **(2)** qui ne desservent pas les
   communes de Brette et Pruillé-l'Éguillé. 
   
 Pour le tronçon Château-du-Loir/Marigné, il est envisagé de passer par
@@ -73,7 +73,7 @@ Mais c’est finalement celui qui prévaudra, afin de desservir le bourg
 	
 ### 21 mars 1904 : 
 
-Réponse de François Louis Marsac :
+Réponse de François Louis Marsac:
   
 *En réponse à la demande du 13 mars courant, demandant mon avis sur l'utilité 
   ou la non utilité de la présence d'un tramway en Bercé, j'ai l'honneur de 
@@ -81,33 +81,33 @@ Réponse de François Louis Marsac :
   tramway au rond de la Lune même, serait d'une réelle utilité pour le
   transport des produits de la forêt.*
 
-**1°)**  Parce que je crois qu'il aurait pour conséquence, de déplacer la vente 
+**1°)**  *Parce que je crois qu'il aurait pour conséquence, de déplacer la vente 
   locale et d'attirer en plus grand nombre la concurrence des marchands étrangers 
   qui recherchent les beaux bois de Bercé.*
 
-**2°)**  Parce que cette concurrence empêcherait les marchands locaux de
+**2°)**  *Parce que cette concurrence empêcherait les marchands locaux de
   chercher à vouloir profiter seuls de l'économie, pouvant résulter de 
   la différence entre le prix des transports par voiture et par tramway, 
   ce qui les conduirait, tablant sur cette économie, à acheter plus cher 
   les produits forestiers pour évincer la dite concurrence.  
-  (C’est d'ailleurs en partie, déjà elle qui fait vendre si bien les bois de Bercé).*
+  (C’est d'ailleurs en partie, déjà elle qui fait vendre si bien les bois de Bercé)*.
 
-**3°)**  Parce que la brigade n°1(Ouest) qui a de si vastes surfaces repeuplées 
+**3°)**  *Parce que la brigade n°1(Ouest) qui a de si vastes surfaces repeuplées 
   en "pin sylvestre" est certainement destinée à faire plus tard, de tous côtés 
   des envois considérables de perches de mine etc.… et qu'à ce moment la présence 
   du tramway aura certainement encore une grande influence sur les prix de vente. 
   (Une fabrique de balais se monte actuellement à Laillé)*
 
-**4°)**  Parce que les bois de chauffage, qui maintenant se débitent dans le 
+**4°)**  *Parce que les bois de chauffage, qui maintenant se débitent dans le 
   pays à des prix inférieurs à ceux du Mans, pourraient être achetés dorénavant
   par tous les marchands de cette localité à des prix supérieurs
   à ceux réalisés aujourd'hui.*
 
-**5°)**  Et enfin (**mais cette phrase est rayée par Marsac**), ceci est peut-être
+**5°)**  *Et enfin (**mais cette phrase est rayée par Marsac**), ceci est peut-être
   mi-personnel, mi-forestier, parce qu'en passant par Marigné, il va paraît-il 
   avoir pour conséquence d'y faire établir un bureau de poste.*
 
-**6°)**  Quant à établir par des chiffres, le bénéfice à espérer, j'avance malgré
+**6°)**  *Quant à établir par des chiffres, le bénéfice à espérer, j'avance malgré
   cela, qu'il m'est impossible de le faire, car on ignore la longueur kilométrique 
   des tronçons, l'emplacement de la gare, la valeur de l'emprise du terrain à faire
   sur sol forestier, et de plus, il est impossible de prévoir dans quelle proportion 
@@ -125,10 +125,10 @@ Le brigadier prend copie d'une note de monsieur l’inspecteur
 Exploitation de l'emprise :
 
 *Communiqué pour son information au garde Silvestre, la décision
-  de monsieur le conservateur, portant : *" qu'il sera statué ultérieurement 
-  sur la destination à donner aux bois qui seront ainsi exploités" *
+de monsieur le conservateur, portant : *" qu'il sera statué ultérieurement 
+sur la destination à donner aux bois qui seront ainsi exploités" *
   Et le brigadier MARSAC de rajouter : 
-  *" Il y aura lieu de les marquer de votre marteau et d'en empêcher tout enlèvement».*
+*" Il y aura lieu de les marquer de votre marteau et d'en empêcher tout enlèvement».*
 
 ### 13 juillet 1908 : 
 
@@ -167,8 +167,10 @@ Début des travaux, les ouvriers du tramway s’activent
 ### 6 avril 1910 :
 
 En réunion de brigade, griffage des arbres sur le passage du tramway.
-  L'emprise se dessine progressivement en forêt, matérialisée par des
-  traits de peinture rouge. A la Lune, le vieux rougi 
+	
+L'emprise se dessine progressivement en forêt, matérialisée par des
+  traits de peinture rouge. 
+A la Lune, le vieux rougi 
   (peinture du cloisonnement) est enlevé et rectifié en novembre.
 
 ### 18 août 1911 : 
@@ -195,7 +197,9 @@ Les travaux ayant commencé sur le tronçon Le Mans/Marigné, celui-ci
 
 {{<figure src="/images/articles/travauxforet.jpg"  title="Les travaux sur Pruillé-l’Éguillé">}}
 
-### Archives de la revue "Au Fil du temps" (Le Grand-Lucé)
+### Archives de la revue 
+"Au Fil du temps" 
+(Le Grand-Lucé)
 
 [Tramway N° 41 - 2008](/articles/pdf/tramway41-2008afdt.pdf)
 
@@ -222,6 +226,7 @@ Il faut attendre cette date pour voir la portion Marigne /Jupilles
 ### 11 mai 1920 : 
 
 Note du brigadier Albrecht. 
+	
 *J'ai l'honneur de faire connaître à monsieur l’inspecteur (Potel), 
   qu'il n'y a pas lieu de demander de nouveaux passages à niveau sur
   le parcours du tramway en forêt de Bercé. En ce qui concerne 
@@ -261,6 +266,7 @@ Note du garde général Heurteau.
 ### 19 juillet 1924 :
 
 Note de l’inspecteur principal des Eaux et forêts au Mans, 
+	
 *à monsieur le directeur de la compagnie des tramways de la Sarthe, au Mans
  Monsieur le directeur,
 *J'ai l'honneur de vous signaler l'opportunité qu'il y aurait, selon un assez
@@ -272,14 +278,14 @@ Note de l’inspecteur principal des Eaux et forêts au Mans,
 		A) -  au rond-point du Mai :
   
 		B) -  en face le hameau du Pau et de la route forestière 
-  du même nom, près de la limite de la forêt.
+                      du même nom, près de la limite de la forêt.
   
 **2°** Entre les stations de Pruillé-l'Eguillé et de Jupilles :
   
 		C)  – au rond-point de l'Embranchement.
   
 		D) – près du Hameau de la Chauvinière, à la jonction des
-  routes allant de Jupilles à St. Vincent.
+                     routes allant de Jupilles à St. Vincent.
 
 *Ces arrêts facultatifs seraient, je crois, souvent utilisés par les gens 
   occupés en forêt et par les touristes ou promeneurs  qui sont de plus 
@@ -310,8 +316,11 @@ Réponse du brigadier Albrecht  à cette demande :
   en lui faisant connaître que  monsieur le maire de Marigné appuiera la 
   demande dans la mesure du possible, en ce qui concerne l'arrêt facultatif 
   du tramway au rond-point du Mai, le seul se trouvant dans la 2ème brigade
-  (Ouest) de Bercé* (la 1° brigade ayant entre temps changé de n°).
-	*Mais il pense  que cet arrêt ne pourra pas être autorisé par la 
+  (Ouest) de Bercé* 
+	
+(la 1° brigade ayant entre temps changé de n°).
+	
+*Mais il pense  que cet arrêt ne pourra pas être autorisé par la 
   compagnie des tramways, car il se trouverait au pied d'une rampe
   assez dure à monter, sur la ligne de ce tramway dans la direction 
   de Marigné, ce qui occasionnerait une gêne pour l'arrêt et pour le 
@@ -380,14 +389,13 @@ Leclercq : *fait remarquer aux employés de la voie du tramway,
 ### Le Journal de Château-du-Loir annonçait :
   
 *Mesures d'économies : Dans sa séance du lundi 4 juillet 1932, 
-  le Conseil Général de la Sarthe décide de fermer six lignes 
-  de tramways à vapeur : Foulletourte/La Flèche, Mansigné/Mayet, 
-  Jupilles/Château-du-Loir, La Ferté/Montmirail,
-  Fresnay/Alençon et Montbizot/Ballon.
+le Conseil Général de la Sarthe décide de fermer six lignes 
+de tramways à vapeur : Foulletourte/La Flèche, Mansigné/Mayet, 
+Jupilles/Château-du-Loir, La Ferté/Montmirail,
+Fresnay/Alençon et Montbizot/Ballon.*
   
 La section Le Mans/Jupilles sera définitivement fermée le 1er janvier 1933, 
   le train s’arrêtant à Marigné. 
-La fermeture aura lieu le 1er janvier 1933.  
   
 ### 14 Mars 1933 : Dernière mention sur le Tramway.
 
@@ -397,8 +405,10 @@ Les forestiers reçoivent encore les cartes ½ tarif pour
   le service sur les réseaux : État et Orléans. 
  
 La section Marigné/Brette les Pins sera définitivement fermée le 1er juillet 1935.
-La section Brette les Pins/Le Mans sera définitivement fermée le 6 août 1944 **(1)** 
-  et Le Mans/La Chartre le 1er mars 1947.
+	
+La section Brette les Pins/Le Mans sera définitivement fermée le 6 août 1944 **(1)**. 
+	
+Et la section Le Mans/La Chartre le 1er mars 1947.
 
 *Les cartes de circulation ½ tarif seront supprimées le 17 mai 1946.*
 
@@ -421,8 +431,8 @@ Une des lignes du chemin de fer d'intérêt local sarthois.
  (Club d'histoire locale de Château-du-Loir)
 mars 2003)
 	
-Revue au fil du temps N° 42 pages 16 à 18 du 31 janvier 2009	
+**(2)** Archives O.N.F et tradition orale.
 	
-Archives O.N.F et tradition orale.
+Revue au fil du temps N° 42 pages 16 à 18 du 31 janvier 2009
 	
 L’Ouest-Éclair du 25 juin 1926
