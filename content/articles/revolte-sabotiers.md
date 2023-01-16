@@ -140,7 +140,7 @@ Dès lors, les troubles se déclenchent:
       rendus à la réquisition  légale qui leur a été faite,  
       sont coupables de désobéissance à la loi,
       - que les excès, insultes et voies de fait commis dans le bourg de 
-      Saint-Vincent du -Lorouër contre la Garde Nationale du Grand- Lucé étant dans 
+      Saint-Vincent du -Lorouër contre la Garde Nationale du Grand-Lucé étant dans 
       l'exercice de ses fonctions, sont des délits punissables, 
 
 
@@ -304,7 +304,6 @@ Pierre CHAZIER, dit SANS-FAÇON. Le compte-rendu de son jugement reprend
     des enlèvements de grains et même de taxer les subsistances ;
 
 
-
 Que la plupart de ces ouvriers attroupés furent intimidés et contraints
   par les menaces du dit Pierre CHAZIER à le suivre: 
   
@@ -330,7 +329,7 @@ Que la première bande précéda l'autre et qu’elle fut arrêtée et
   été traduits à la maison d'arrêt de ce tribunal ;  
   
 Que l'autre bande qui étoit la plus nombreuse et armée de bâtons
-  fut peu de temps après arrêtée par la dite Garde Nationale à laquelle,
+  fut peu de temps après arrêtée par la dite Garde Nationale [Garde Nationale](/articles/pdf/volontairesetgardenat.pdf)à laquelle,
   après quelques hésitances, elle rendit les bâtons dont elle étoit armée,
   mais qu'il n'en a été traduit dans la susdite maison d'arrêt que ledit 
   François  BARDET, Michel GAUDRY, Paul PREVOT, Marin GROSBOIS, Pierre BOURREAU, 
