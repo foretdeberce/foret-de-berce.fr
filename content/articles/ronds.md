@@ -324,106 +324,163 @@ Croisement route forestière de Grammont / route forestière du Ronceray.
 ### 04 – Rond des Renardières 
 	(commune de Marigné-Laillé) : 
 Croisement route forestière des Renardières au Pressoir / Chemin de Mayet à Lucé / route forestière des Forges.
+	
+{{<figure src="/images/articles/001renardieres.jpg"  title="Rond des Renardières">}}
 
 ### 05 – Rond du Clos 
 	(commune de Marigné-Laillé) : 
 Croisement route forestière de la Croix-Ségrier / route forestière des Renardières au Pressoir /Allée du Machefer.
+	
+{{<figure src="/images/articles/001clos.jpg"  title="Rond du Clos">}}
+	
+{{<figure src="/images/articles/002clos.jpg"  title="Le poteau">}}
 
 ### 06 – Rond du Pézeray 
 	(commune de Jupilles) : 
 Croisement route forestière de Grammont / route forestière des Renardières au Pressoir.
+	
+{{<figure src="/images/articles/001pezeray.jpg"  title="Rond du Pezeray">}}
 
 ### 07– Rond de la Croix-Marconnay 
 	(commune de Jupilles) : 
 Croisement route forestière des Renardières au Pressoir / route forestière André Hallay / route forestière de la Chauvinière.
+	
+{{<figure src="/images/articles/001croixmarconnay.jpg"  title="Rond de Croix-Marconnay">}}
 
 ### 08 – Rond du Nacron 
 	(commune de Jupilles) : 
 Croisement route forestière des Trembles / route forestière de Grammont.
+	
+{{<figure src="/images/articles/001nacron.jpg"  title="Rond du Nacron">}}
 
 ### 09 – Rond de Peyrelongue 
 	(commune de Jupilles) : 
 Croisement ligne de la Marchandière / route forestière Neuve.
+	
+{{<figure src="/images/articles/001peyrelongue.jpg"  title="Rond de Peyrelongue">}}
 
 ### 10 – Rond de l’Embranchement 
 	(commune de Jupilles) : 
 Croisement route forestière des Renardières au Pressoir / D 13.
+	
+{{<figure src="/images/articles/001embranchement.jpg"  title="Rond de l'embranchement">}}
 
 ### 11 – Rond du Chêne Désiré 
 	(commune de Saint-Vincent du Lorouër) : 
 Croisement route forestière des Renardières au Pressoir / Ligne de la Marchandière / route forestière du Pau à Chahaignes 
+	
+{{<figure src="/images/articles/001chenedesire.jpg"  title="Rond du Chêne Désiré">}}
 
 ### 12 – Rond Wautot 
 	(commune de Saint-Vincent-du-Lorouër) :
 Croisement route Neuve / D 137 / route forestière de la Jument Blanche.
 	
+{{<figure src="/images/articles/002wautot.jpg"  title="Rond Wautot">}}
+	
+{{<figure src="/images/articles/003wautot.jpg"  title="Rond Wautot plus tard">}}
+	
 ### 14 – Rond de Volumiers 
 	(commune de Thoiré-sur-Dinan) : Croisement route forestière du Pau à Chahaignes / route forestière de la Croix Gorgeas / route forestière du Roulleau / route forestière de la Jument Blanche.
+	
+{{<figure src="/images/articles/001volumiers.jpg"  title="Rond de Volumiers">}}
+	
+{{<figure src="/images/articles/002volumiers.jpg"  title="La nouvelle loge">}}
 	
 ### 15 – Rond de Croix-Veneur 
 	(commune de Thoiré-sur-Dinan) : 
 Croisement ligne du Clocher / Route de la Vallée Noire / Route forestière de la Croix Veneur.
+	
+{{<figure src="/images/articles/001croixveneur.jpg"  title="Rond de Croix-Veneur">}}
 
 ### 16 – Rond Roulleau 
 	(commune de Thoiré-sur-Dinan) : 
 Croisement route forestière du Roulleau / Ligne de Croix –Veneur.
+	
+{{<figure src="/images/articles/001roulleau.jpg"  title="Rond Roulleau">}}
 
 ### 17 – Rond du Guignier 
 	(commune de Saint-Pierre-du Lorouër) : 
 Croisement route forestière de la Croix Veneur / CD 63 / route forestière des Vaux du Puits / Allée de la Ragée / Route forestière du Roulleau.
+	
+{{<figure src="/images/articles/001guignier.jpg"  title="Rond du Guignier">}}
 
 ### 18– Rond du Chesne au Clocher 
 	(commune de Thoiré-sur-Dinan) : 
 Croisement D 63 / D 235 / Route des Sorels / Route forestière du Pau à Chahaignes / Ligne de Croix -Veneur.
+	
+{{<figure src="/images/articles/001clocher.jpg"  title="Rond du Clocher">}}
 
 ### 19– Rond des Forges 
 	(commune de Jupilles) : 
 Croisement D 13 / Route forestière de la Croix-Ségrier / Allée Verte / Chemin de Laillé.
 
- {{<figure src="/images/articles/topo4.jpg" title="Le rond accidenté 3 fois">}}
+{{<figure src="/images/articles/001forges.jpg" title="Le rond des Forges">}}
 	
 ### 13 – Rond de Croix-Chambault ou Croix de Haute Borne 
 	(commune de Saint-Vincent-du-Lorouër) : 
 Croisement route forestière du Pau à Chahaignes / Route forestière des Ventes./ route forestière de la Jument Blanche.
 	
- {{<figure src="/images/articles/topo2.jpg" title="Ronds en fonte de la partie résineuse">}}
+{{<figure src="/images/articles/001croixchambault.jpg" title="Rond de Croix-Chambault">}}
+	
+{{<figure src="/images/articles/topo4.jpg" title="Le rond accidenté 3 fois">}}
+	
+{{<figure src="/images/articles/topo2.jpg" title="Ronds en fonte de la partie résineuse">}}
 	
 {{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}	
   
 	
-### 01 – Rond des Défaits 
+### 01 – Rond des Défays 
 	(commune de Marigné-Laillé) : 
 Croisement route forestière de Grammont / Chemin d’Écommoy à Lucé.
+	
+{{<figure src="/images/articles/001defaits.jpg" title="Rond des Défaits">}}
 
 ### 02 – Rond des Hutteries 
 	(commune de Marigné-Laillé) : 
 Croisement route forestière de Grammont / Chemin de Marigné à Lucé.
+	
+{{<figure src="/images/articles/001hutteries.jpg" title="Rond des Hutteries">}}
 
 ### 03 – Rond de Bercé 
 	(commune de Marigné-Laillé) : 
 Croisement route forestière de Grammont / Route de Mayet au Grand Lucé.
+	
+{<figure src="/images/articles/001berce.jpg" title="Rond de Bercé">}}
+	
 
 ### 04– Rond de Saint Hubert 
 	(commune de Mayet) : 
 Croisement D 13 / D 284 / D 338 / D 279.
+	
+{{<figure src="/images/articles/001sainthubert.jpg" title="Rond de Saint-Hubert">}}
+	
 
 ### 05– Rond de la Forêt de Bercé dit de l’Antenne 
 	(commune de Mayet) :
 Croisement D 13 / Route forestière des Terres Blanches / Chemin Vicinal n° 2.
 	
-### 06 – Rond du Bel Air 
+ {{<figure src="/images/articles/001antenne.jpg" title="Le rond de l'Antenne">}}
+	
+### 06 – Rond du Bel-Air 
 	(commune de Mayet) : 
 Croisement D 279 Route de Vaas/ Ligne de la Guiltière./Route de Mayet à Château du Loir.
+	
+{{<figure src="/images/articles/001belair.jpg" title="Rond de Bel-Air">}}
+
 
 ### 07 – Rond de la Guiltière 
 	(commune de Mayet) : 
 Croisement route forestière de la Guiltière / Route forestière des Terres Blanches.
+	
+{{<figure src="/images/articles/001guiltiere.jpg" title="Rond de la Guiltière">}}
 
 ### 08 – Rond de Verneil ou des Vernes 
 	(commune de Lavernat) : 
 Croisement route forestière des Terres Blanches / D 279 / route forestière de Verneil à Beaumont./ Route forestière des Profonds-Vaux.
+	
+{{<figure src="/images/articles/001verneil.jpg" title="Rond de Verneil">}}
 
- {{<figure src="/images/articles/topo1.jpg" title="Ronds ou carrefours sans poteaux">}}
+{{<figure src="/images/articles/topo1.jpg" title="Ronds ou carrefours sans poteaux">}}
 	
 	
 {{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}	
@@ -449,9 +506,13 @@ Croisement  Route basse de la Coudre /route forestière de Croix Segrier.
 	(commune de Pruillé l’Éguillé) :      
 Croisement Route de la Vallée Sermaize / Ligne de la Marchandière 
 	
+{{<figure src="/images/articles/001souvenir.jpg" title="Rond du Souvenir">}}
+	
 ### 6— Rond Jousset 
 	(commune de Jupilles) :       
 Croisement CD13 / Ligne du Ronceray  
+	
+{{<figure src="/images/articles/001jousset.jpg" title="Rond Jousset">}}
 	
 ### 7— Rond des Trembles 
 	(commune de Jupilles) :     
