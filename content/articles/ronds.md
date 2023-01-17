@@ -416,13 +416,13 @@ Croisement D 13 / Route forestière de la Croix-Ségrier / Allée Verte / Chemin
 
 {{<figure src="/images/articles/001forges.jpg" title="Le rond des Forges">}}
 	
+{{<figure src="/images/articles/topo4.jpg" title="Le rond accidenté 3 fois">}}
+
 ### 13 – Rond de Croix-Chambault ou Croix de Haute Borne 
 	(commune de Saint-Vincent-du-Lorouër) : 
 Croisement route forestière du Pau à Chahaignes / Route forestière des Ventes./ route forestière de la Jument Blanche.
 	
 {{<figure src="/images/articles/001croixchambault.jpg" title="Rond de Croix-Chambault">}}
-	
-{{<figure src="/images/articles/topo4.jpg" title="Le rond accidenté 3 fois">}}
 	
 {{<figure src="/images/articles/topo2.jpg" title="Ronds en fonte de la partie résineuse">}}
 	
