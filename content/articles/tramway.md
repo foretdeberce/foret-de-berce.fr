@@ -65,7 +65,7 @@ Diffère à partir de la Croix-Marconnay en empruntant la ligne forestière
   la route qui regagne Marigné en venant de St Hubert, ce tracé à 
   l’avantage de desservir le hameau de Laillé.
 
-### Le Projet 3 (tracé marron) :
+### Le projet 3 (tracé en marron) :
 
 Mais c’est finalement celui qui prévaudra, afin de desservir le bourg
   de Pruillé….encore faut il que les Pruilléens montent avec leurs
@@ -242,7 +242,7 @@ Par sécurité, les services des tramways de la Sarthe effectueront
 
 ### 20 juillet 1921 : 
 
-Note du garde général Heurteau.
+Note du garde général Hurteau.
   
 *Avec la sécheresse actuelle, seules les locomotives de tramway,
   pourront faire exception à toutes les interdictions de feu, 
@@ -341,7 +341,7 @@ Réponse du brigadier Albrecht  à cette demande :
 ### 4 janvier 1931 :
 
 Le Collègue Verseau reconnaît et marque de son marteau particulier
-  un hêtre chablis qui a été abattu comme dangereux pour le tramway.
+un hêtre chablis qui a été abattu comme dangereux pour le tramway.
 
      La lenteur des trains était désespérante avec une moyenne commerciale
      inférieure à 20 km par heure, cette lenteur étant aggravée par 
@@ -370,23 +370,23 @@ Leclercq : *fait remarquer aux employés de la voie du tramway,
   
 ### Tarifs
 
-1901 :Le Grand-Lucé, la Châtre sur Loir (Saint Pierre, Brives, La Chartre)
+1901 :Le Grand-Lucé, la Chartre-sur-Loir (Saint Pierre, Brives, La Chartre)
       prix 25 centimes. (Tarif spécial pour les gardes en tenue sur 
-      le réseau de l'Ouest (Orléans et Etat) – Albrecht-  
+      le réseau de l'Ouest (Orléans et État) – Albrecht-  
 
-1902 : le 18 Décembre le Billet de Tramway  est à 20 centimes (pour les forestiers).
+1902 : le 18 décembre le billet de Tramway  est à 20 centimes (pour les forestiers).
 
-1910 : Chemin de fer et tramway pour Bessé sur Braye et St. Calais  1 F 40
+1910 : Chemin de fer et tramway pour Bessé-sur-Braye et Saint-Calais  : 1 F 40
 
-15/07/1921 : Pigault reçoit une carte pour voyager à ½ tarif sur les 
-       Tramways de la Sarthe, entre les Gares de Jupilles et la Chartre – Le Mans.
+15/07/1921 : Le garde Pigault reçoit une carte pour voyager à ½ tarif sur les 
+       Tramways de la Sarthe, entre les Gares de Jupilles et la Chartre/Le Mans.
 
-19/03/24 : Trajet train Ecommoy – Le Mans, aller et retour 2 F 70  (Pigault)
+19/03/24 : Trajet train Écommoy/Le Mans, aller et retour : 2 F 70  (Pigault)
 
-### 8 juillet 1932 : Terminus Le Mans Château ! ...
+### 8 juillet 1932 : Terminus Le Mans/Château ! ...
 
 
-### Le Journal de Château-du-Loir annonçait :
+### Le journal de Château-du-Loir annonçait :
   
 *Mesures d'économies : Dans sa séance du lundi 4 juillet 1932, 
 le Conseil Général de la Sarthe décide de fermer six lignes 
@@ -433,6 +433,6 @@ mars 2003)
 	
 **(2)** Archives O.N.F et tradition orale.
 	
-Revue au fil du temps N° 42 pages 16 à 18 du 31 janvier 2009
+Revue Au Fil du Temps N° 42 pages 16 à 18 du 31 janvier 2009
 	
 L’Ouest-Éclair du 25 juin 1926
