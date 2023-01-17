@@ -306,14 +306,20 @@ Vingt sept des 70 carrefours de Bercé possèdent ainsi encore aujourd'hui
 	(commune de Marigné-Laillé) : 
 Croisement route forestière de Grammont / D 96.
  (Anciennement Chemin Vicinal Ordinaire N°56 puis Chemin de Moyenne Communication N°56)
+	
+{{<figure src="/images/articles/001mai.jpg"  title="Rond du Mai">}}
 
 ### 02– Rond de la Lune 
 	(commune de Marigné-Laillé) : 
 Croisement route forestière du Ronceray / D 96 / route forestière de la Croix-Ségrier.
+	
+{{<figure src="/images/articles/001lune.jpg"  title="Rond de la Lune">}}
 
 ### 03– Rond du Buisson 
 	(commune de Marigné-Laillé) : 
 Croisement route forestière de Grammont / route forestière du Ronceray.
+	
+{{<figure src="/images/articles/001buisson.jpg"  title="Rond du Buisson">}}
 
 ### 04 – Rond des Renardières 
 	(commune de Marigné-Laillé) : 
