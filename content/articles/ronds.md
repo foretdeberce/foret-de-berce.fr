@@ -377,7 +377,7 @@ Croisement route Neuve / D 137 / route forestière de la Jument Blanche.
 	
 {{<figure src="/images/articles/002wautot.jpg"  title="Rond Wautot">}}
 	
-{{<figure src="/images/articles/003wautot.jpg"  title="Rond Wautot plus tard">}}
+{{<figure src="/images/articles/003rondwautot.jpg"  title="Rond Wautot plus tard">}}
 	
 ### 14 – Rond de Volumiers 
 	(commune de Thoiré-sur-Dinan) : Croisement route forestière du Pau à Chahaignes / route forestière de la Croix Gorgeas / route forestière du Roulleau / route forestière de la Jument Blanche.
