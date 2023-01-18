@@ -228,6 +228,8 @@ En savoir plus sur cet équipage :
 [1981 Vènerie N°62](/articles/pdf/1981venerie62willekens.pdf)
   
 [1981 Vènerie N°63](/articles/pdf/1981venerie63willekens.pdf)
+ 
+{{<figure src="/images/articles/002hutteries.jpg"  title="On se presse aux rond des Hutteries">}} 
 
 ### Des histoires de chasse. 
   
