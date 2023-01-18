@@ -11,9 +11,9 @@ tags: ["Faune","Biodiversité","Chasse","Lois"]
 Déjà en service depuis le 1er mai 1884 sur l’extérieur du massif,
 la ligne Le Grand Lucé/La Chartre sur le Loir 17.7km desservira 
 celui-ci sur son flan Est, au niveau des gares de Saint-Vincent 
-et Saint Pierre du Lorouër.
+et Saint-Pierre du Lorouër.
 
-Le chemin de fer  d’intérêt local entre le Mans et Château du loir
+Le chemin de fer  d’intérêt local entre le Mans/Château du loir
 est une volonté des élus.
 
 [La ligne de Château du Loir](/articles/pdf/tramplaquette.pdf)
@@ -55,7 +55,7 @@ Plusieurs variantes au trajet Jupilles-Marigné sont envisagées :
 ### Le projet 1 :
 
 Permet de rejoindre les deux bourgs sans passer par Pruillé-l'Éguillé,
-  mais en traversant la forêt de Bercé par les ronds de la Croix Marconnay, 
+  mais en traversant la forêt de Bercé par les ronds de la Croix-Marconnay, 
   du Buisson et de la Lune, itinéraire qui doit suivre la route la plus directe.
 
 ### Le projet 2 :
@@ -127,7 +127,7 @@ Exploitation de l'emprise :
 *Communiqué pour son information au garde Silvestre, la décision
 de monsieur le conservateur, portant : *" qu'il sera statué ultérieurement 
 sur la destination à donner aux bois qui seront ainsi exploités" *
-  Et le brigadier MARSAC de rajouter : 
+  Et le brigadier Marsac de rajouter : 
 *" Il y aura lieu de les marquer de votre marteau et d'en empêcher tout enlèvement».*
 
 ### 13 juillet 1908 : 
@@ -136,7 +136,7 @@ Les 11, 300 km de la ligne Marigné-Jupilles sont déclarés d’utilité publiq
 
 ### 21 avril 1909 :
 
-Note du Brigadier  MARSAC.
+Note du Brigadier  Marsac.
 
 *J'ai l'honneur de faire savoir à monsieur le garde général que les pièces
   du projet de tramway sont déposées  à la mairie de Marigné et que des 
@@ -267,7 +267,7 @@ Note du garde général Hurteau.
 
 Note de l’inspecteur principal des Eaux et forêts au Mans, 
 	
-*à monsieur le directeur de la compagnie des tramways de la Sarthe, au Mans
+*A monsieur le directeur de la compagnie des tramways de la Sarthe, au Mans
  Monsieur le directeur,
 *J'ai l'honneur de vous signaler l'opportunité qu'il y aurait, selon un assez
   grand nombre d'intéressés, à établir des arrêts facultatifs 
@@ -301,7 +301,7 @@ Signé : Potel
 *Communiquée à messieurs les brigadiers n° 1 et 2 pour avis à tous  
   intéressés qui pourraient peut être appuyer ou faire appuyer ma 
   demande au directeur de la compagnie des tramways. 
-(Voir notamment messieurs. Bignon, Lempereur etc.), 
+(Voir notamment messieurs Bignon, Lempereur etc.), 
   ainsi que les  maires de Jupilles, Pruillé et Marigné.*
 
 Signé : Potel
@@ -326,7 +326,7 @@ Réponse du brigadier Albrecht  à cette demande :
   de Marigné, ce qui occasionnerait une gêne pour l'arrêt et pour le 
   départ des trains. Pareille autorisation n'a pu être accordée pour
   un arrêt facultatif qui aurait desservi un hameau entre Marigné et 
-  Saint Mars d'Outillé, pour les mêmes raisons.*
+  Saint-Mars d'Outillé, pour les mêmes raisons.*
 
 ### 09 décembre 1925 :
 
@@ -433,6 +433,6 @@ mars 2003)
 	
 **(2)** Archives O.N.F et tradition orale.
 	
-Revue Au Fil du Temps N° 42 pages 16 à 18 du 31 janvier 2009
+Revue "Au Fil du Temps" N° 42 pages 16 à 18 du 31 janvier 2009
 	
 L’Ouest-Éclair du 25 juin 1926
