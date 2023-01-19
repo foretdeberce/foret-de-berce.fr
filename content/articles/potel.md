@@ -94,7 +94,7 @@ Services civils : 36ans 3 mois 17 jours
 Total des Services : 40 ans 3 mois 4 jours
   
   
-Il décèdera le 22 avril 1937 au Mans, à l'âge de 74 ans 
+Il décèdera le 22 avril 1937 au Mans, à l'âge de 74 ans. 
 
 [Nécrologie du conservateur Potel](/articles/pdf/necrologiepotel.pdf)
 
