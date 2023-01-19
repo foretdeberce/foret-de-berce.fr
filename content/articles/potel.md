@@ -17,25 +17,26 @@ et d’Endoxie Marie Sophie Pigalle.
 
 ### Services militaires :
 
-Chef de bataillon d’Infanterie (Service spéciaux du territoire)
-Sous lieutenant de réserve le 19 septembre 1887
-Lieutenant de réserve 19 septembre 1889
+Chef de bataillon d’infanterie (Service spéciaux du territoire)
+Sous lieutenant de réserve le 19 septembre 1887.
+Lieutenant de réserve 19 septembre 1889.
 
 Il se marie avec Madeleine Caroline Dumas en 1888. 
 Ils auront ensemble 3 enfants.
 Au décès de son épouse en 1891, il se remarie en 1894 avec Mathilde
 Marguerite Jeanne Bigot avec laquelle il aura 4 enfants.
 
-Capitaine en 1895
+Capitaine en 1895.
 Chef de bataillon le 9 février 1905
-Services  dans l’active 3ans 11mois 17 jours
-Services  dans la réserve  36 ans 3mois 17 jours
+Services  dans l’active : 3ans 11mois 17 jours
+Services  dans la réserve : 36 ans 3mois 17 jours
 
 ### Inspecteur principal des Eaux et forêts
 
-Il habitera successivement  au 41 puis au 123 de l’avenue Bollée 72000 Le Mans
-Il a été promu chevalier de la légion d’Honneur en novembre 1924 
-Et chevalier du mérite Agricole. 
+Il habitera successivement au 41 puis au 123 de l’avenue Bollée au Mans.
+
+Il a été promu chevalier de la légion d’Honneur en novembre 1924. 
+Il sera nommé chevalier du mérite Agricole. 
 
 Cessation de fonction : 1929 (Retraite)
 
@@ -84,8 +85,8 @@ Fidèle aux traditions forestières, préférant l'observation à l'expérimenta
                                                      Signé : Potel
 
 
-Dans le même temps, Monsieur Ducellier, Inspecteur Principal des 
-  Eaux et Forêts au Mans préviens le personnel qu’il a pris son service aujourd’hui.
+Dans le même temps, Monsieur Ducellier, inspecteur principal des 
+  Eaux et forêts au Mans préviens le personnel qu’il a pris son service aujourd’hui.
 
 
 
@@ -93,7 +94,7 @@ Services civils : 36ans 3 mois 17 jours
 Total des Services : 40 ans 3 mois 4 jours
   
   
-Il décède le 22 avril 1937 au Mans, à l'âge de 74 ans 
+Il décèdera le 22 avril 1937 au Mans, à l'âge de 74 ans 
 
 [Nécrologie du conservateur Potel](/articles/pdf/necrologiepotel.pdf)
 
@@ -113,10 +114,9 @@ Déjà en 1960 les forestiers écossais d’Édimbourg étaient venus s’extasi
 {{<figure src="/images/articles/chenepotel001.jpg"  title="Les écossais d’Édimbourg">}}
 
 
-Baptisé, par les forestiers du nom de l’inspecteur des forêts 
-  en poste au Mans entre 1919 et 1929.
- (auteur du premier historique de Bercé), 
-  il trône fièrement au dessus du fossé de l’enclos médiéval qui l’accueille.
+Baptisé, par les forestiers en l'honneur de leur inspecteur des forêts 
+(auteur du premier historique de Bercé), 
+il trône fièrement au dessus du fossé de l’enclos médiéval qui l’accueille.
 
 {{<figure src="/images/articles/1953calvel.jpg"  title="Photo Calvel 1953">}}
 
