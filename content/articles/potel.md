@@ -2,14 +2,14 @@
 title: "Potel"
 date: 2023-01-19T12:33:44+01:00
 draft: false
-description: "Louis Amédée Raoul"
+description: "A la fois homme et chêne"
 featured_image: "/images/et.chenepotel.jpg"
 tags: ["Tourisme","Arbres","Chênes","Toponymie","Hommes"]
 ---
 
 
 
-Né le 16 décembre 1862 à La Rochelle (Charentes Maritimes) 
+Louis Amédée Raoul Potel est né le 16 décembre 1862 à La Rochelle (Charentes Maritimes) 
 
 Garde général stagiaire à 24 ans, il est le fils 
 de Pierre Antoine Ernest, inspecteur général des Ponts et Chaussées 
