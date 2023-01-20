@@ -22,7 +22,9 @@ et de  Mr.  l’inspecteur des  Finances  ».
  
  
 {{<figure src="/images/articles/depart.jpg" title="Départ en tournée (1)">}}
-
+ 
+ 
+[Étudiants ENEF de 1861-1863](/articles/pdf/elevesenef.pdf)
 
 ## E.D.B. : (ouverte en 1884)
 L’École Secondaire d’Enseignement Professionnel
