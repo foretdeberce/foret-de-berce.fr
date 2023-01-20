@@ -32,6 +32,9 @@ Services  dans l’active : 3ans 11mois 17 jours
 Services  dans la réserve : 36 ans 3mois 17 jours
 
 ### Inspecteur principal des Eaux et forêts
+M. Potel (Louis-Amédée-Raoul), inspecteur des eaux et forets de 1ère classe à Neutchâteau-Sud (Vosges), 
+est appelé; en la même qualité, au Mans (Sarthe), en remplacement de M. Allaire, 
+qui a été admis à faire valoir ses droits à la retraite.
 
 Il habitera successivement au 41 puis au 123 de l’avenue Bollée au Mans.
 
