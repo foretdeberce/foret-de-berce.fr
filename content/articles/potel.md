@@ -125,8 +125,11 @@ Ses dimensions sont imposantes et possède une belle écorce.
 Hauteur sous houppier : 28m – hauteur totale : 45m
   
 Circonférence en :  
+  
  - 1957 : 2,69 m
+  
  - 2001 : 3,15 m 
+  
  - 2006 : 3,19 m
 
 {{<figure src="/images/articles/cochardpotel.jpg"  title="fève de la boulangerie Cochard 2022">}}
@@ -135,11 +138,23 @@ Circonférence en :
 {{<figure src="/images/articles/potel20140317.jpg"  title="Le chêne Potel">}}
 
 
-{{<figure src="/images/articles/boppe1924potel.jpg"  title="Chêne Boppe par Potel">}}
+Souvenez-vous dans l'onglet consacré à l’ancien chêne Boppe (2) Le médecin 
+  légiste qui s’était penché au chevet de l’arbre déjà très intoxiqué… c’était … Potel.
+La photo ci-dessous prise par l’inspecteur montre d’ailleurs un crochetage 
+  sensé détasser le sol au pied de l’ancien chêne Boppe.
+De même après une autre de ses publications en 1924 dans la **Revue des Eaux et Forêts** 
+  sur l’âge probable des Clos  qu’il estimait à 450 ans, 
+  il fera à l’issue de l’exploitation de l’arbre, un sincère mea-culpa de ces faits
+  dans le **journal de la Société d’agriculture** en février 1935. 
+  Le comptage des cernes en présence de l’inspecteur Viney se 
+  révéla être de 260 à 1m30 de hauteur.
+
+
+{{<figure src="/images/articles/boppe1924potel.jpg"  title="Chêne Boppe - photo: Potel">}}
 
 ### Bibliographie : 
 
-La vie et  la mort  en forêt de Bersay, et Le chêne BOPPE, 
+La vie et  la mort  en forêt de Bersay, et Le chêne Boppe, 
 (Bulletin de la Société d'Agriculture, Sciences et Arts de la Sarthe, T. LIV, p. 48 et 301)
 Revue des Eaux et Forêts  1937 page 562 à 565.  
 
