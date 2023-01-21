@@ -49,7 +49,7 @@ Il décèdera le 2 mars 1929 à Paris, à l'âge de 71 ans
 ### Le Chêne Louis René Roulleau de la Roussière
   
 {{<figure src="/images/articles/cheneroulleau1946hamelin.jpg"  title="Le chêne photographié par Hamelin">}}
-{{<figure src="/images/articles/cheneroul1952.jpg"  title="Le chêne Roulleau">}}
+  
 
 Ce chêne a été baptisé le 27 mai 1952, lors de la tournée du Comité des Forêts, 
   du nom de l’inspecteur qui a contribué à la sauvegarde 
@@ -112,7 +112,7 @@ Le corps des officiers forestiers de Nancy venant régulièrement
 
 Aujourd’hui nombre de ronds, routes ou chênes portent le souvenir de leur mémoire.
   
-{{<figure src="/images/articles/roulleahaut1.jpg"  title="Le rond Roulleau">}}
+{{<figure src="/images/articles/roulleauhaut1.jpg"  title="Le rond Roulleau">}}
 
 Une route, que Roulleau mettra en chantier, 
   
