@@ -46,6 +46,8 @@ En 1907, L.R. Roulleau de la Roussière, encore jeune, prenait sa retraite
 
 Il décèdera le 2 mars 1929 à Paris, à l'âge de 71 ans
   
+{{<figure src="/images/articles/feveroulleau.jpg"  title="fève Cochard, Marigné">}}  
+  
 ### Le Chêne Louis René Roulleau de la Roussière
   
 {{<figure src="/images/articles/cheneroulleau1946hamelin.jpg"  title="Le chêne photographié par Hamelin">}}
