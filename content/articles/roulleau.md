@@ -79,8 +79,9 @@ M.Roulleau, conscient de la grande valeur patrimoniale de la futaie des Clos,
   son exploitation pourtant prévue dans le plan d’aménagement de 1875.
   
 Le directeur des forêts refusa d'en faire une section hors cadre. 
-  Mais Roulleau ne s'avoua pas vaincu et, sans n’en informer personne, 
-  il fit battre le pavé. Toutes les écoles forestières d'Europe ainsi 
+  Mais Roulleau ne s'avoua pas vaincu et, sans informer quiconque,
+  il recruta sa possibilité ailleurs, dans d'autres parcelles.
+  il fit battre le pavé...Toutes les écoles forestières d'Europe ainsi 
   que diverses personnalités furent invitées pour faire 
   reconnaitre l’aura de son joyau. 
   
