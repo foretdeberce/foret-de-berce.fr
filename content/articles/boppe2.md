@@ -203,9 +203,9 @@ sa souche devant être bientôt sanctuarisée.
 Les bûcherons Guimier, A. Granier, E. Vannier, A. Ramaugé,
 et Hervé dit "Pape" eurent raison, en un instant, du géant.
 
-{{<figure src="/images/articles/famillepieboppe.jpg" title="La famille Pie au chevet du géant">}}
+{{<figure src="/images/articles/famillepieboppe.jpg" title="Les familles Pie et Ledru au chevet du géant">}}
 	
-{{<figure src="/images/articles/famillepieboppe2.jpg" title="La famille Pie aux Clos">}}
+{{<figure src="/images/articles/famillepieboppe2.jpg" title="Les familles Pie et Ledru aux Clos">}}
 
 ### Quiproquo sur son âge : 
 	
