@@ -11,7 +11,7 @@ tags: ["Topographie","Cartographie","Carrières ","Hommes","Ronds"]
 Jean Baptiste Isidore Wautot (1805-1884)
 est né le 5 mai 1805 (le 15 floréal an XIII) à Revin, dans les Ardennes.
 
-Passé les concours, il devient géomètre de 1ère classe du cadastre.
+Passé les concours, il devient géomètre de 1ère classe au cadastre.
 
 Il est issu d'une longue famille de forestiers:
 
@@ -36,7 +36,7 @@ et Marie Virginie Aline Wautot.
 Malheureusement, Anne décèdera le 24 mars 1840 à Paris-VIIème, 
 à l'âge de 31 ans. 
 
-En 1842, il est nommé en qualité d’arpenteur pour procéder à la 
+En 1842, il est envoyé en Sarthe et nommé en qualité d’arpenteur pour procéder à la 
 délimitation générale de la forêt domaniale de Bercé. 
 
 {{<figure src="/images/articles/rondwautot008.jpg"  title="Poteau du Wautot">}}
