@@ -9,21 +9,23 @@ tags: ["Topographie","Cartographie","Carrières ","Hommes","Ronds"]
 
 
 Jean Baptiste Isidore Wautot (1805-1884)
-Né le 5 mai 1805 (le 15 floréal an XIII) à Revin, (Ardennes).
+né le 5 mai 1805 (le 15 floréal an XIII) à Revin, dans les Ardennes.
 
-Il deviendra géomètre de 1ère classe du cadastre.
-Son frère Charles (1807-1867) était dans le même 
-temps brigadier forestier à Revin(Ardennes).
-Nicolas Joseph Wautot 1775-1849 son père était garde forestier
+Il devient géomètre de 1ère classe du cadastre.
+
+Il est issu d'une longue famille de forestiers:
+Son grand-père était marchand de bois.
+Son père Nicolas Joseph Wautot (1775-1849) était garde forestier
 des bois communaux de Revin.
-(le grand-père de Jean-Baptiste était quant à lui marchand de bois).
-et Catherine Joseph Dromzee (ou de Romsée) sa mère était ménagère, 1780-1857.
+Son frère Charles (1807-1867) était brigadier forestier à Revin (Ardennes).
+Sa mère Catherine Joseph Dromzee (ou de Romsée) était ménagère, (1780-1857).
 
 Jean-Baptiste se marie le 17 décembre 1834 à l'âge de 29 ans
-avec Anne Josèphe Virginie BAUDET à Revin.
-Anne est née le 25 octobre 1808 - à Revin, (Ardennes).
+avec Anne Josèphe Virginie Baudet à Revin.
+Anne est née le 25 octobre 1808 à Revin.
 
-Ils auront deux enfants : Nicolas Hector Wautot 1835-1891
+Ils auront deux enfants :
+Nicolas Hector Wautot 1835-1891
 et Marie Virginie Aline Wautot.
 
 Malheureusement, Anne décèdera le 24 mars 1840 à Paris-VIIème, 
@@ -44,10 +46,13 @@ Il est attaché à la commission d’aménagement de la Sarthe
 En 1846, le 23 avril, il se remarie à Jupilles avec 
   demoiselle Marie Florentine Tandron, (1823-1896) 
   née à Orléans et domiciliée à Jupilles.
+  
 (Ah ! la forêt de Bercé… Une terre de rencontres).
   
 Ils auront ensemble : 
-  "Emile" Isidore Wautot 1847-1893 et Marie Eudoxie Wautot 1851. 
+  
+"Emile" Isidore Wautot 1847-1893 
+et Marie Eudoxie Wautot 1851. 
   
 {{<figure src="/images/articles/cartewautot1842.jpg"  title="Assemblage des cartes Wautot">}}
 
@@ -59,10 +64,10 @@ adjoint des Forêts au Mans. Tous les chemins figurés hors
 forêt sont empierrés et carrossables.* 
   
 La route Neuve qui rejoint le rond de Croix-Marconnay 
-  en empruntant la route André Hallays,si chère à
+  en empruntant la route André Hallays, si chère à
   Roulleau de la Roussière n’est pas encore tracée.
   
-{{<figure src="/images/articles/boussions528.jpg"  title="détail d’un canton">}}
+{{<figure src="/images/articles/boussions528.jpg"  title="Détail d’un canton">}}
   
 ### En 1848 :
   
@@ -96,3 +101,8 @@ Jean-Baptiste Isidore Wautot Décèdera le 3 septembre 1884 -
 
 {{<figure src="/images/articles/rondwautot1997.jpg"  title="Le Rond Wautot">}}
 
+{{<figure src="/images/articles/calendrierrepublicain.jpg"  title="Correspondance des calendriers">}}
+  
+  Deux ans après son décès il fait encore partie des abonnés à la revue des géomètres.
+  
+  [Revue des géomètres de 1886](/articles/pdf/n11novembre1886.pdf)
