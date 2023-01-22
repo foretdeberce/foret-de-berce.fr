@@ -4,7 +4,7 @@ date: 2022-10-11T13:21:44+01:00
 draft: false
 description: "Ilot de civilisation au milieu d'un océan de verdure"
 featured_image: "/images/et.croixmarconnay.jpg"
-tags: ["Topographie","Cartographie","Carrières ","Ronds"] 
+tags: ["Topographie","Cartographie","Carrières ","Hommes","Ronds"] 
 ---
  
 {{<figure src="/images/articles/rond-wautot.jpg" title="Le rond Wautot.">}}
