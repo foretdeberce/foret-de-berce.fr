@@ -105,8 +105,8 @@ Jean-Baptiste Isidore Wautot Décèdera le 3 septembre 1884 -
 
 {{<figure src="/images/articles/rondwautot1997.jpg"  title="Le Rond Wautot">}}
 
-{{<figure src="/images/articles/calendrierrepublicain.jpg"  title="Correspondance des calendriers">}}
+[Concordance des calendriers](/articles/pdf/calendrierrepublicain.pdf)
   
-  Deux ans après son décès il fait encore partie des abonnés à la revue des géomètres.
+Deux ans après son décès il fait encore partie des abonnés à la revue des géomètres.
   
-  [Revue des géomètres de 1886](/articles/pdf/n11novembre1886.pdf)
+[Revue des géomètres de 1886](/articles/pdf/n11novembre1886.pdf)
