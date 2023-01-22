@@ -9,15 +9,19 @@ tags: ["Topographie","Cartographie","Carrières ","Hommes","Ronds"]
 
 
 Jean Baptiste Isidore Wautot (1805-1884)
-né le 5 mai 1805 (le 15 floréal an XIII) à Revin, dans les Ardennes.
+est né le 5 mai 1805 (le 15 floréal an XIII) à Revin, dans les Ardennes.
 
-Il devient géomètre de 1ère classe du cadastre.
+Passé les concours, il devient géomètre de 1ère classe du cadastre.
 
 Il est issu d'une longue famille de forestiers:
+
 Son grand-père était marchand de bois.
+
 Son père Nicolas Joseph Wautot (1775-1849) était garde forestier
 des bois communaux de Revin.
+
 Son frère Charles (1807-1867) était brigadier forestier à Revin (Ardennes).
+
 Sa mère Catherine Joseph Dromzee (ou de Romsée) était ménagère, (1780-1857).
 
 Jean-Baptiste se marie le 17 décembre 1834 à l'âge de 29 ans
@@ -25,29 +29,29 @@ avec Anne Josèphe Virginie Baudet à Revin.
 Anne est née le 25 octobre 1808 à Revin.
 
 Ils auront deux enfants :
+
 Nicolas Hector Wautot 1835-1891
 et Marie Virginie Aline Wautot.
 
 Malheureusement, Anne décèdera le 24 mars 1840 à Paris-VIIème, 
 à l'âge de 31 ans. 
 
-
 En 1842, il est nommé en qualité d’arpenteur pour procéder à la 
 délimitation générale de la forêt domaniale de Bercé. 
 
 {{<figure src="/images/articles/rondwautot008.jpg"  title="Poteau du Wautot">}}
 
-Il est attaché à la commission d’aménagement de la Sarthe
-  et les opérations pour Bercé commenceront le 20 janvier 1843
+Il est attaché à la commission d’aménagement de la Sarthe.
+Les opérations pour Bercé commenceront le 20 janvier 1843
   au lieu des Essarts, commune de Saint Mars d’Outillé.
   
 ### Une rencontre déterminante à Jupilles.
   
-En 1846, le 23 avril, il se remarie à Jupilles avec 
+En 1846, le 23 avril, il se marie à Jupilles avec 
   demoiselle Marie Florentine Tandron, (1823-1896) 
   née à Orléans et domiciliée à Jupilles.
   
-(Ah ! la forêt de Bercé… Une terre de rencontres).
+Ah ! la forêt de Bercé… Une terre de rencontres.
   
 Ils auront ensemble : 
   
