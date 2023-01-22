@@ -84,13 +84,13 @@ Concernant la hauteur, celle ci semble faire le buzz !
   
 D'autres chasseurs de beaux arbres, se sont essayés à prendre la hauteur de l'arbre :
   
-2012-04-28	47,40 m	: intervenant : Jeroen Philippona	
+28 avril 2012 : 47,40 m	avec l'intervenant : Jeroen Philippona	
   Laser avec la méthode Sine (par exemple Nikon Forestry 550 laser Ranger)
   
-2012-12-04	48,10 m	intervenante : Sisley	
+4 décembre 2012 : 48,10 m avec l'intervenante : Sisley	
   Laser avec la méthode Sine (par exemple Nikon Forestry 550 laser Ranger)
   
-2022-06-30	~49,20 m	intervenant : Treeriders	
+30 juin 2022 : ~ 49,20 m	 avec l'intervenant : Treeriders	
   Autre méthode de mesure 
     
 L’élu deviendra le fameux chêne Émery du nom d’Auguste Joseph. 
@@ -98,30 +98,30 @@ L’élu deviendra le fameux chêne Émery du nom d’Auguste Joseph.
 
 Tournée de M. Emery, conservateur, sous directeur général de l’administration, admis à la retraite.
 
-* Le 2 juin 1930, monsieur le conservateur et moi l’accompagnerons. 
-  Rendez-vous pour le brigadier Albrecht à Saint-Hubert à 14h45. 
-  Le garde Peltier se trouvera à l’entrée du chemin de la Coudre à 14h50. 
-  Visite de la fontaine et baptême du chêne Émery ; à ce sujet, 
-  j’ai commandé au brigadier Lebouleux un écriteau portant cette 
-  inscription qui devra parvenir avant la date fixée au brigadier 
-  Albrecht qui la fera fixer à 5 mètres du sol sur l’arbre en question 
-  au moyen d’un lien de fer. Ensuite départ en auto pour les Pressenteries, 
-  le brigadier Albrecht et le garde Peltier pourront disposer.
-  Pour le brigadier Féliot et le garde Jouaux, rendez-vous route des 
-  Pressenteries entre A² et C² à 16h45. Visite de ces deux parcelles 
-  et ensuite au chêne Boppe par un sentier à travers C³ des Clos. 
-  Départ sur la route des Clos à 17h30.* 
+*Le 2 juin 1930, monsieur le conservateur et moi l’accompagnerons. 
+Rendez-vous pour le brigadier Albrecht à Saint-Hubert à 14h45. 
+Le garde Peltier se trouvera à l’entrée du chemin de la Coudre à 14h50. 
+Visite de la fontaine et baptême du chêne Émery ; à ce sujet, 
+j’ai commandé au brigadier Lebouleux un écriteau portant cette 
+inscription qui devra parvenir avant la date fixée au brigadier 
+Albrecht qui la fera fixer à 5 mètres du sol sur l’arbre en question 
+au moyen d’un lien de fer. Ensuite départ en auto pour les Pressenteries, 
+le brigadier Albrecht et le garde Peltier pourront disposer.
+Pour le brigadier Féliot et le garde Jouaux, rendez-vous route des 
+Pressenteries entre A² et C² à 16h45. Visite de ces deux parcelles 
+et ensuite au chêne Boppe par un sentier à travers C³ des Clos. 
+Départ sur la route des Clos à 17h30.* 
 
 Le Mans 14 mai 1930
   
 L’inspecteur principal des Eaux et forêts- Signé : *Ducellier*     
   
 *J’ai l’honneur de faire connaître à M. l’inspecteur principal que
-  la plaque pour le chêne Émery de Bercé sera faite pour la fin de 
-  la semaine prochaine. C’est M. Moire, peintre à Bellême qui se 
-  charge de ce travail et de l’expédition à Marigné. Pour attacher 
-  cette plaque, il n’y a pas besoin de brides, un simple fil de fer
-  est suffisant.*  Hermousset le 14 mai 1930.
+la plaque pour le chêne Émery de Bercé sera faite pour la fin de 
+la semaine prochaine. C’est M. Moire, peintre à Bellême qui se 
+charge de ce travail et de l’expédition à Marigné. Pour attacher 
+cette plaque, il n’y a pas besoin de brides, un simple fil de fer
+est suffisant.*  Hermousset le 14 mai 1930.
   
 Le brigadier des Eaux et forêts - Signé : *Lebouleux*
 
