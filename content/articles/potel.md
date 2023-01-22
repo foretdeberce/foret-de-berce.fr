@@ -1,5 +1,5 @@
 ---
-title: "Potel"
+title: "Chêne Potel"
 date: 2023-01-19T12:33:44+01:00
 draft: false
 description: "A la fois homme et chêne"
