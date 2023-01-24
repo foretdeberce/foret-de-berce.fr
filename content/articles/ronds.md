@@ -445,7 +445,7 @@ Croisement route forestière de Grammont / Chemin de Marigné à Lucé.
 	(commune de Marigné-Laillé) : 
 Croisement route forestière de Grammont / Route de Mayet au Grand Lucé.
 	
-{<figure src="/images/articles/001berce.jpg" title="Rond de Bercé">}}
+{{<figure src="/images/articles/001berce.jpg" title="Rond de Bercé">}}
 	
 
 ### 04 – Rond de Saint Hubert 
