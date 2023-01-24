@@ -538,9 +538,9 @@ Croisement de la ligne de Croix Veneur / Allée de la Vallée des Pierres.
 	(commune de Saint-Pierre du Lorouër) : 
 Croisement  de la route forestière de la Vallée des Pierres / Route forestière de la Vallée Noire 
 	
-### 13— Carrefour de l’École forestière de Nancy 
+### 13— Rond d'Ussel et 16-Carrefour de l’École forestière de Nancy 
 	(commune de Thoiré sur Dinan) :                                                                                               
-Croisement de l’allée Verte / Ligne de Croix Veneur.
+Croisement de l’allée Verte (Pressenteries) / Ligne de Croix Veneur.
 	
 ### 14— Carrefour de Croix Segrier  
 	(commune de Beaumont Pied de Bœuf) :   
