@@ -170,10 +170,16 @@ chef de l’inspection du Mans.*
 jamais effectué de service dans la région du Mans. 
 En 1961, l’ingénieur, chef de service au Mans, fit restaurer 
 le panneau du Rond d’Ussel et rétablir les panneaux disparus 
-des Ronds de Peyrelongue et Jousset. 
-Ceci lui donna l’idée de dédier un ou deux Ronds à la mémoire des
+des Ronds de Peyrelongue et Jousset.* 
+         
+
+[Quatre officiers tués à l’ennemi](/articles/pdf/mortspourlafrance.pdf)         
+         
+*Ceci lui donna l’idée de dédier un ou deux Ronds à la mémoire des
 forestiers tombés pour la France en Algérie en choisissant 
 symboliquement les noms de MM. de Lussy et Emonot.*
+         
+D'ou l'idée de ce rond !
          
 Il n’est bien sûr pas question dans ce compte rendu de la Route Mendès
 (car il ne s’agissait pas d’un rond). 
@@ -182,6 +188,5 @@ Ni du chêne au commis Muriel bien postérieur à cette note,
 mais qui rajoute à une liste déjà longue deux autre martyrs.
  
 
-[Tués à l’ennemi](/articles/pdf/mortspourlafrance.pdf)
 
 
