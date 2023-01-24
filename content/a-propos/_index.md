@@ -11,12 +11,15 @@ featured_image: '/images/chene-muriel.jpg'
 
 De tout temps, les hommes et les femmes ont trouvé refuge,
   source d’énergie et nourriture en forêt de Bercé.
+  
 Mais la forêt d’antan ne ressemblait en rien à celle que nous fréquentons.
+  
 Au fil des siècles, l’homme en a façonné patiemment les contours
   pour en faire ce qu’elle est devenue aujourd’hui.
 
 Réputée pour son chêne tendre car poussant lentement dans un environnement de qualité, 
-Bercé, la discrète et la prestigieuse, vient de recevoir le label “Forêt d’Exception”.
+Bercé, la discrète et la prestigieuse,
+  vient de recevoir le label **Forêt d’Exception**.
   
 {{<youtube id="Ye9yVmQM3AQ">}}
   
@@ -24,21 +27,25 @@ Bercé, la discrète et la prestigieuse, vient de recevoir le label “Forêt d�
 ## Bercé livre ses secrets 
   
  L’ONF et l’ensemble des acteurs de la démarche territoriale 
-  Bercé Forêt d’Exception ont soutenu dès 2016 la sortie de l'ouvrage dédié à celle-ci.
+  **Bercé Forêt d’Exception** ont soutenu dès 2016 la sortie de cet ouvrage dédié.
 
-L'action était inscrite au sein du livret *Bercé Forêt d’Exception : 14 actions pour la forêt et le territoire*
+L'action était inscrite au sein du livret
+  
+*Bercé Forêt d’Exception : 14 actions pour la forêt et le territoire*
+  
 Le livre **Bercé, une forêt d’exception** est maintenant disponible !
  
-## Bercé, ce trésor est à partager !
+### Bercé, ce trésor est à partager !
   
-*Pour aller encore plus loin, suite à la publication de cet ouvrage, 
-  un site internet alimente les divers sujets pour les partager, encore et toujours…* 
+Pour aller encore plus loin, suite à la publication du livre :
+  
+Ce site internet alimente les divers sujets pour les partager, encore et toujours… 
   
 Vous possédez des anecdotes, des textes, des photos que vous désirez vous aussi partagez !
   
 Vous souhaitez rectifier des erreurs ou incohérences !
   
-Contactez-moi à cette adresse :
+Contactez-moi :
   
 foretdeberce@gmail.com 
 
@@ -48,7 +55,7 @@ foretdeberce@gmail.com
 ### Pour ne rien perdre de vos ballades en forêt de Bercé. 
 
   
-## Pour se procurer le livre
+### Pour se procurer le livre
  
 Au plus près de la forêt : 
   
