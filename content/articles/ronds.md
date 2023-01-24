@@ -542,6 +542,8 @@ Croisement  de la route forestière de la Vallée des Pierres / Route forestièr
 	(commune de Thoiré sur Dinan) :  
 Croisement de la ligne de Croix-Veneur et de la ligne des pressenteries ou allée verte.
 	
+{{<figure src="/images/articles/ussel1924.jpg" title="Carte de situation">}}		
+	
 ### 14 — Carrefour de Croix Segrier  
 	(commune de Beaumont Pied de Bœuf) :   
 Croisement ligne de Croix-Segrier /  D216.  
