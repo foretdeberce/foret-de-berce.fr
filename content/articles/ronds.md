@@ -309,13 +309,13 @@ Croisement route forestière de Grammont / D 96.
 	
 {{<figure src="/images/articles/001mai.jpg"  title="Rond du Mai">}}
 
-### 02– Rond de la Lune 
+### 02 – Rond de la Lune 
 	(commune de Marigné-Laillé) : 
 Croisement route forestière du Ronceray / D 96 / route forestière de la Croix-Ségrier.
 	
 {{<figure src="/images/articles/001lune.jpg"  title="Rond de la Lune">}}
 
-### 03– Rond du Buisson 
+### 03 – Rond du Buisson 
 	(commune de Marigné-Laillé) : 
 Croisement route forestière de Grammont / route forestière du Ronceray.
 	
@@ -341,7 +341,7 @@ Croisement route forestière de Grammont / route forestière des Renardières au
 	
 {{<figure src="/images/articles/001pezeray.jpg"  title="Rond du Pezeray">}}
 
-### 07– Rond de la Croix-Marconnay 
+### 07 – Rond de la Croix-Marconnay 
 	(commune de Jupilles) : 
 Croisement route forestière des Renardières au Pressoir / route forestière André Hallay / route forestière de la Chauvinière.
 	
@@ -404,13 +404,13 @@ Croisement route forestière de la Croix Veneur / CD 63 / route forestière des 
 	
 {{<figure src="/images/articles/001guignier.jpg"  title="Rond du Guignier">}}
 
-### 18– Rond du Chesne au Clocher 
+### 18 – Rond du Chesne au Clocher 
 	(commune de Thoiré-sur-Dinan) : 
 Croisement D 63 / D 235 / Route des Sorels / Route forestière du Pau à Chahaignes / Ligne de Croix -Veneur.
 	
 {{<figure src="/images/articles/001clocher.jpg"  title="Rond du Clocher">}}
 
-### 19– Rond des Forges 
+### 19 – Rond des Forges 
 	(commune de Jupilles) : 
 Croisement D 13 / Route forestière de la Croix-Ségrier / Allée Verte / Chemin de Laillé.
 
@@ -448,14 +448,14 @@ Croisement route forestière de Grammont / Route de Mayet au Grand Lucé.
 {<figure src="/images/articles/001berce.jpg" title="Rond de Bercé">}}
 	
 
-### 04– Rond de Saint Hubert 
+### 04 – Rond de Saint Hubert 
 	(commune de Mayet) : 
 Croisement D 13 / D 284 / D 338 / D 279.
 	
 {{<figure src="/images/articles/001sainthubert.jpg" title="Rond de Saint-Hubert">}}
 	
 
-### 05– Rond de la Forêt de Bercé dit de l’Antenne 
+### 05 – Rond de la Forêt de Bercé dit de l’Antenne 
 	(commune de Mayet) :
 Croisement D 13 / Route forestière des Terres Blanches / Chemin Vicinal n° 2.
 	
@@ -486,70 +486,75 @@ Croisement route forestière des Terres Blanches / D 279 / route forestière de 
 {{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}	
   	
 	
-### 1— Croix Feu Bellemère 
+### 1 — Croix Feu Bellemère 
 	(commune de Marigné Laillé) :        
 Croisement route forestière de Grammont / Ligne de Marigné à Lucé.
 	
-### 2— Rond du Sault 
+### 2 — Rond du Sault 
 	(commune de Marigné-Laillé) :   
 Croisement Route de la Chauvinière /Allée Verte.  
 	
-### 3— Carrefour du Pau 
+### 3 — Carrefour du Pau 
 	(commune de Pruillé l’Éguillé) :   
 Croisement Ligne du Pau /Allée Verte    
 	
-### 4—Patte d’Oie de la Coudre 
+### 4 — Patte d’Oie de la Coudre 
 	(commune de Marigné Laillé)  
 Croisement  Route basse de la Coudre /route forestière de Croix Segrier.  
 	
-### 5— Rond du Souvenir 
+### 5 — Rond du Souvenir 
 	(commune de Pruillé l’Éguillé) :      
 Croisement Route de la Vallée Sermaize / Ligne de la Marchandière 
 	
 {{<figure src="/images/articles/001souvenir.jpg" title="Rond du Souvenir">}}
 	
-### 6— Rond Jousset 
+### 6 — Rond Jousset 
 	(commune de Jupilles) :       
 Croisement CD13 / Ligne du Ronceray  
 	
 {{<figure src="/images/articles/001jousset.jpg" title="Rond Jousset">}}
 	
-### 7— Rond des Trembles 
+### 7 — Rond des Trembles 
 	(commune de Jupilles) :     
 Croisement route forestière des Trembles / Route de la Chauvinière.
 	
-### 8— Carrefour des Vieux Fours ou des Vieux Puits 
+### 8 — Carrefour des Vieux Fours ou des Vieux Puits 
 	(commune de Saint Vincent du Lorouër) :                                                                                       
 Croisement route forestière des Renardières au Pressoir / Ligne des Vieux Puits. 
 	
-### 9— Croix de la Huberdière 
+### 9 — Croix de la Huberdière 
 	(commune de Jupilles) :    
 Croisement du CD137 / Chemin de l’Enfumeraie  
 	
-### 10— Carrefour de la Jument Blanche 
+### 10 — Carrefour de la Jument Blanche 
 	(commune de Saint Vincent du Lorouër) : 
 Croisement de la route basse de l’Hermitière / route forestière de la Jument Blanche.
 	
-### 11— Rond de Croix Gorgeas 
+### 11 — Rond de Croix Gorgeas 
 	(commune de Thoiré sur Dinan) :                                                                                               
 Croisement de la ligne de Croix Veneur / Allée de la Vallée des Pierres.
 	
-### 12— Croix de la Butte  
+### 12 — Croix de la Butte  
 	(commune de Saint-Pierre du Lorouër) : 
 Croisement  de la route forestière de la Vallée des Pierres / Route forestière de la Vallée Noire 
 	
-### 13— Rond d'Ussel et 16-Carrefour de l’École forestière de Nancy 
-	(commune de Thoiré sur Dinan) :                                                                                               
-Croisement de l’allée Verte (Pressenteries) / Ligne de Croix Veneur.
+### 13 — Rond d'Ussel
+	(commune de Thoiré sur Dinan) :  
+Croisement de la ligne de Croix-Veneur et de la ligne des pressenteries ou allée verte.
 	
-### 14— Carrefour de Croix Segrier  
+### 14 — Carrefour de Croix Segrier  
 	(commune de Beaumont Pied de Bœuf) :   
 Croisement ligne de Croix-Segrier /  D216.  
 	
-### 15— Carrefour des Profonds-Vaux 
-	(commune de Beaumont Pied de Bœuf) :                                                                                           
-Croisement de la route forestière des Profonds Vaux / Ligne et route de la Maison forestière
+### 15 — Carrefour des Profonds-Vaux 
+	(commune de Beaumont Pied de Bœuf) :    
+	
+### 16 - Carrefour de l’École forestière de Nancy 
+Croisement de la route forestière de l'École forestière (accès aux Clos) et CD 63. 
+	(commune de Saint Pierre du Lorouër)
 
+{{<figure src="/images/articles/ronddelecoleforestiere.jpg" title="Carrefour de l'École forestière">}}		
+	
 {{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}	
   
 	
