@@ -259,7 +259,8 @@ Aujourd’hui, l’emploi de nouveaux matériaux, permet toutes les audaces
 Bref, il n’est pas de grands vins, sans beaux  raisins... 
   pas de bons fûts sans grands chênes à grain fin…..
   ceux de Bercé en l’occurrence !
-  
+
+{{<youtube id="kdbL9LPEl3k">}}  
   
 Si de 1934 à 1950 le foudre de Thuir a été le plus grand du monde, 
   il ne démérite en rien de sa réputation et n’en reste pas moins 
@@ -285,7 +286,7 @@ La Maison Byrrh détient donc à ce jour le record et dispose
   
 Publicité prémonitoire en 1927 à Jupilles.
 
-* N’oubliez jamais, qu’une boisson alcoolisée se boit toujours avec modération …!
+**N’oubliez jamais, qu’une boisson alcoolisée se boit toujours avec modération …!**
   
 ### Bibliographie : 
   
