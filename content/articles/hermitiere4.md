@@ -4,7 +4,7 @@ date: 2022-11-21T20:23:44+01:00
 draft: false
 description: "Légende des souterrains de Bercé"
 featured_image: "/images/et.trouermite.jpg"
-tags: ["Tourisme","Loisirs","Biodiversite","Eau","Hommes"]
+tags: ["Tourisme","Loisirs","Biodiversite","Eau","Légende","Hommes"]
 ---
 
 {{<figure src="/images/articles/entreenov1975.jpg" title="Le gouffre vu de la route">}}
