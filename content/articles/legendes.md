@@ -10,19 +10,21 @@ tags: ["Tourisme","Loisirs","Biodiversite","Eau","Légende","Hommes"]
 ### Histoires d’eau à Bercé 
 
 ### Légende du Mortier Plat de la parcelle 140 :  *(C. et A. Borderon)*
- En 1923 René BORDERON avait essayé d’y mettre les pieds
+ En 1923 René Borderon avait essayé d’y mettre les pieds
  et de traverser le Mortier Plat, avec un bâton, mais 
  il n'y est pas arrivé. 
  
  *« À l'époque il y avait de l'eau dedans. 
  Paraît-il d'après son Grand Père, qu'il y en a qui se seraient
- enfoncés dedans, paraît-il ». Ce mortier est de nouveau en eau.*
+ enfoncés dedans, paraît-il ».*
+ 
+ Ce mortier est de nouveau en eau.
  
 {{<figure src="/images/articles/mortierplat140.jpg"  title="Le Mortier Plat">}}
 
 ### Légende du Mortier Clairon de la parcelle 154 : *(C. et A. Borderon)*
   
- ...Ça, ça serait plus officiel 
+ ...Ça, ça serait plus officiel !
   
 *Un gars s'en venait de jouer de la musique au clairon avec d'autres. 
 Puis il aurait traversé la forêt et serait tombé dans le mortier.
