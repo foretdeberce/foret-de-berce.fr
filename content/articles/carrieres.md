@@ -1,36 +1,33 @@
  ---
-title: "La pierre"
+title: "carrières forestières"
 date: 2023-01-25T20:13:44+01:00
 draft: false
-description: "Les carrières forestières"
+description: "L'exploitation de la pierre"
 featured_image: "/images/et.carrieres2023.jpg"
 tags: ["Tourisme","Loisirs","Biodiversite","Eau","Légende","Hommes"]
 ---
  
-L’ouverture de ces carrières est subordonnée aux arrêtés préfectoraux.
+**L’ouverture des carrières est subordonnée aux arrêtés préfectoraux.**
 
 
-Les routes sont un chantier d’envergure imaginé en 1783 
-et qui commencera peu après 1850, pensez donc : plus de 
-100 km de route à créer ! Des routes droites, défiant 
+L'ouverture des routes est un chantier d’envergure imaginé en 1783 
+et qui commencera peu après 1850, pensez donc : 
+plus de 100 km de route à créer ! Des routes droites, défiant 
 tous les obstacles naturels (telle la côte de l’Hermitière)
 
 Vers 1840, du temps de Wautot, ingénieur arpenteur, 
-de nombreuses routes forestières ont été créées autour
-de carrefour en étoile. 
+de nombreuses routes forestières ont été améliorées par l'ajout pierre.
+Avec le mauvais temps, il n'était plus possible de sortir les gros bois.
 
-Les carrières se situent toujours en zones relativement 
+Les carrières sont toujours implantées en zones relativement 
 peu boisées, ces zones dites pauvres, où la pierre affleure. 
 Elles ne sont jamais très loin des routes, car le transport
-à cette époque n’est pas chose aisée. Mécanisée sur le tard,
-l'exploitation des pierres a réclamé des carriers beaucoup
-d’énergie et de sueur. 
+à cette époque n’est pas chose aisée. 
+Mécanisée sur le tard, l'exploitation des pierres a réclamé 
+des carriers beaucoup d’énergie et de sueur. 
 
-Les travaux routiers forestiers, sont surveillés par les 
-gardes cantonniers préposés aux stations (une sur chaque brigade).
-
-Entre 1850 et 1963 les carrières de Bercé fournissent la pierre
-nécessaire à l'entretien du réseau routier domanial et vicinal.  
+Entre 1850 et 1963 les carrières de Bercé fourniront tout aussi
+bien la pierre nécessaire à l'entretien du réseau routier domanial que vicinal.  
 
 Les extractions, qui emploient bon nombre de carriers se déroulent à la belle saison. 
 Des milliers de mètres cubes de pierre seront ainsi déposés
@@ -43,31 +40,37 @@ des maires, des concessions renouvelables et trouvent ainsi sur
 place, la pierre et le tout-venant nécessaires aux réfections 
 des routes et chemins vicinaux. 
 
+
+Les travaux routiers forestiers, sont surveillés par les 
+gardes cantonniers préposés aux stations (une sur chaque brigade).
+
 Les ouvriers sous leurs ordres sont chargés de l'entretien 
 des voies de communication, des ponceaux, du fauchage des bermes,
 du tracé des nouvelles routes, telle celle
-de la Vallée Noire, en juin 1881. 
-
-
-Ils seront rémunérés 50 journées à 2 francs par jour pour cette tâche.
+de la Vallée Noire, en juin 1881. Ils seront rémunérés 50 journées 
+à 2 francs par jour pour cette tâche.
 Ils sont aussi employés en carrière et doivent avoir pour le moins, 
 une constitution robuste. 
 
 Quand le banc de pierre se faisait insistant, on n’hésitait
-pas à faire parler la poudre ! Les montures et leurs 
-charrettes distribuaient ainsi ces précieux cailloux, 
-mètre par mètre, à la plus grande satisfaction des futurs
-utilisateurs de la forêt. 
+pas à faire parler la poudre ! 
+Les montures et leurs charrettes distribuaient ainsi ces 
+précieux cailloux, mètre par mètre, à la plus grande 
+satisfaction des futurs utilisateurs de la forêt. 
 
 {{<figure src="/images/articles/carrieresforestieres001.jpg"  title="Carrières forestières">}}
   
 ### Extraits des vieux registres
 
+### Pour une meilleure situation des lieux, voici une autre carte :
+ 
+ {{<figure src="/images/articles/cartedescarrieres002.jpg"  title="Carte de situation des carrières">}}
+ 
 ### 1881
   
 Le 15 juillet, le garde Eugène Crossoneau rapporte :
   « J’ai fait ma tournée dans les cantons des Clos,
-  Monnées et** VAU DU PUITS (5)**, visité les 
+  Monnées et **VAU DU PUITS (5)**, visité les 
   carrières de ce dernier, j’ai recommandé aux ouvriers 
   de les tenir en bon état et de ne pas faire de trous
   ailleurs que dans l’excavation déjà faite. » 
@@ -91,13 +94,14 @@ Le 12 mai : le garde Eugène Crossoneau et le brigadier Houbant
   la route du Clocher. » 
   
   Le 31 mai 1884 les carrières sont ouvertes. 
+ 
   Le 18 juin 1884: « recommandé aux ouvriers de mieux
   purger de terre les matériaux sur carrière. »
   
 ### 1885
   
-Le 9 juillet, Sylvain Perriot rapporte : « Visite les carrières des **MONNÉES (1)**. 
-  » Le 7 août 1885 : «Visité les carrières des **FOLLETS (4)**. » 
+Le 9 juillet, Sylvain Perriot rapporte : « Visite les carrières des **MONNÉES (1)**» 
+ Le 7 août 1885 : «Visité les carrières des **FOLLETS (4)**.» 
   
 ### 1893
   
@@ -129,12 +133,13 @@ Procès–verbal du 22 juin 1893 contre Moncelet Alexandre
        sieur Moncelet a été construite, à distance prohibée par une
        autorisation de monsieur le Préfet, voilà 9 ans. Fait et clos à 
        la maison forestière des Hutteries, les jours mois et ans que dessus.
-       Leroi P.M. »
+       Leroi Pierre Marin »
   
   ### 1894 
   
 « Sur la brigade ouest (ouest de la ligne de Grammont) :
-  ouverture de **JORIETTE (6)**. » P. 48-49. Le 1er novembre  1894 :
+  ouverture de **JORIETTE (6)**. » P. 48-49. 
+ Le 1er novembre  1894 :
   « Extrait 54m3 et au 2 décembre : 42m3. » En 1896, Joriette produira 110m3. 
   
 [Règlement des carrières en 1894](/articles/pdf/reglementcarrieres1894.pdf)
@@ -142,40 +147,43 @@ Procès–verbal du 22 juin 1893 contre Moncelet Alexandre
 ### 1895
   
 « Les carrières de la **GUILTIERE (15)** fonctionnent » P. 86 et P. 69.
-  En 1905 : « Ouverture des carrières de **HAUTE PERCHE (11)**  » P. 39. 
+ 
+En 1905 : « Ouverture des carrières de **HAUTE PERCHE (11)** » P. 39. 
   
-{{<figure src="/images/articles/cartedescarrieres002.jpg"  title="Carte avec les n°">}}
+{{<figure src="/images/articles/cartedescarrieres002.jpg"  title="Carte de situation des carrières">}}
   
 ### 1907
   
 {{<figure src="/images/articles/pierres002.jpg"  title="La pierre en attente">}}
   
 Une partie des carrières de la Guiltière est exploitée 
-  par Mr. Avisse, **BEL AIR (8)** (fermée en 1950) et **HUTTERIES (10)**.
+  par Mr. Avisse, à **BEL AIR (8)** (fermée en 1950) et aux **HUTTERIES (10)**.
+ 
   Celle de Mr Hureau est située au **GRAND HÊTRE (9)** P. 64. 
   À cette époque l’on parle alors de l’ouverture et du comblement 
   des tombes (fosses pédologiques ou de sondage) nécessaires pour 
   tester l’emplacement des futures carrières.  
   
-{{<figure src="/images/articles/pierreslaille.jpg"  title="Pierres sur la Nationale">}}
+{{<figure src="/images/articles/pierresalaille.jpg"  title="Pierres sur la Nationale">}}
   
 ### Durant la 1ère guerre mondiale :
   
 Le 7 avril 1916 : comblement d’une fondrière sur la route
-  du Clocher. S'agissait-il de celle de l'Hermitière ? 
+  du Clocher.
+S'agissait-il de celle de l'Hermitière ? 
   
 26 novembre 1917 : « Extraction de pierres par les prisonniers 
   de guerre au **TERTRE AUX BŒUFS (3)** P. 265 et
   carrière de la **BOULAIE (17)**. »
   
-Décembre 1918 : **CROIX VENEUR  (2)** P. 235, d’août 
+Décembre 1918 : **CROIX VENEUR (2)** P. 235, d’août 
   jusqu'en novembre : cassage des pierres. 
   
 ### 1919
   
 20 février: au Canton de Bel Air et en réunion de brigade, 
-  les gardes SILVESTRE, BOUGREAU et ROBERT, se rendent au
-  piquetage et à la délimitation de la **CARRIERE AFFECTEE A L’ARMEE AMERICAINE (14)** 
+  les gardes Silvestre, Bougreau et Robert, se rendent au
+  piquetage et à la délimitation de la **Carrière affectée à l'armée Américaine (14)** 
   sur la route de Mayet. 
   
 ### 1922 
@@ -192,13 +200,16 @@ Chemin de l’École forestière (qui mène au chêne Boppe)
   
 28 Juillet : le garde Louis Pigault rapporte :
   « Suis allé le soir avec le brigadier et
-  M. l’agent voyer cantonal d’Écommoy 
-  (l’agent voyer est un agent des Ponts et Chaussées) 
-  à la carrière des **HUTTERIES (10)**, pour la délimitation 
+  M. l’Agent-voyer* cantonal d’Écommoy à la carrière
+  des **HUTTERIES (10)**, pour la délimitation 
   d’une carrière destinée à  la Commune de Saint-Mars-d’Outillé,
   parcelle 12. Pruillé-l’Éguillé, Marigné-Laillé, Téloché,
   Écommoy, tireront aussi de la pierre en Bercé aux Hutteries,
   pour l’entretien de leurs chemins ruraux et vicinaux ». 
+  
+*(l’Agent-voyer est un fonctionnaire des Ponts et Chaussées,
+ chargé de veiller à l'entretien des routes et chemins vicinaux)*
+ 
   
 ### 1927 
   
@@ -206,7 +217,7 @@ Ouverture des carrières de **LA CROIX GUINET (16)** P. 87.
   
 {{<figure src="/images/articles/transportdelapierre.jpg"  title="Moyens de transport">}}
   
-###  Témoignage d’Alphonse FOUGERAY 
+###  Témoignage d’Alphonse Fougeray. 
   
 
        « En 1927, j’avais 17 ans. J’étais roulier, c'est-à-dire
@@ -236,7 +247,7 @@ Ouverture des carrières de **LA CROIX GUINET (16)** P. 87.
        il m’a permis de faire le Roulier encore longtemps. »
  
 
-### La carrière des  Hutteries (10) 1895 - 1951
+### La carrière des Hutteries (10) 1895 - 1951
   
 En contemplant les plaies béantes laissées par leur exploitation, 
   on peut facilement réaliser que les carrières des Hutteries 
@@ -248,8 +259,9 @@ Suite au feu du 29 mars 1929, on décide de délimiter une
   
 Sur la brigade est, dans la carrière  des Follets, le 15 mai, 
   les carriers en creusant pour extraire la pierre ont 
-  occasionné la chute de deux **chablis** "chêne". 
-  (**Chablis** : arbre renversé par le vent)
+  occasionné la chute de deux **chablis** "chêne".
+ 
+(**Chablis** : arbre renversé par le vent)
   
 Le 30 juin 1929,  il y eut de la part de M. le maire de 
   la commune de Marigné (M. Niqueux) une demande d’extraction 
@@ -257,11 +269,11 @@ Le 30 juin 1929,  il y eut de la part de M. le maire de
   à l’ancienne carrière des Hutteries. 
   Cette demande a pour but de procurer des pierres aux
   prestataires ayant opté pour la prestation en nature. 
- En effet les réparations faites à tous chemins pouvaient
+  En effet les réparations faites à tous chemins pouvaient
   être réglées soit en nature (fourniture de pierres) 
   soit en paiement argent. 
   
-Note d’Aubert, inspecteur principal :
+Note de P. Aubert, inspecteur principal :
   
        « De 1911 à 1915 Marigné avait obtenu la concession 
        d’une carrière dans la P. 11 des Hutteries - 
@@ -280,21 +292,21 @@ Note d’Aubert, inspecteur principal :
   M. l’inspecteur Principal datée du 19 courant
   autorisant le transport par camion automobile des pierres. » 
   
-Note de l’inspecteur : 
+### Note de l’inspecteur : 
   
      «L’entrepreneur fournira 5 m3 de pierres sur les routes
      de Marigné à Lucé et de Grammont aux endroits désignés
      par le garde du triage. » 
   
-Le 31 décembre 1931 : « Autorisation de faire extraire par
-  M. Mayor entrepreneur dans la FD de Bercé à la carrière des Hutteries. 
-  1F/m3 sera perçu par le receveur des Domaines. 
+Le 31 décembre 1931 : *Autorisation de faire extraire par
+  M. Mayor entrepreneur dans la F.D. de Bercé à la carrière des Hutteries. 
+  1F/m3 sera perçu par le receveur des Domaines.* 
   
-Le garde  Pigault note : « Vu des ouvriers  au comblement des trous,
+Le garde  Pigault note : *Vu des ouvriers  au comblement des trous,
   chemin des carrières des Hutteries, Proust et Chantoiseau au ragréage
-  des ornières près de la carrière.»
+  des ornières près de la carrière.*
   
-{{<figure src="/images/articles/productionhutteries2-vert.jpg"  title="La production des Hutteries">}}
+{{<figure src="/images/articles/productionhutteries2-vert.jpg"  title="La production des Hutteries de 27 à 50">}}
 
 ### Le matériel :
   
@@ -303,42 +315,51 @@ A cette époque, le tourisme émerge et il y a nécessité d’opérer
   circulation sur les routes forestières dû à la fréquentation 
   des voitures automobiles citadines.
   
-« Monsieur Grégoire Arsène demeurant à Beaumont-Pied-de-Bœuf,
+*Monsieur Grégoire Arsène demeurant à Beaumont-Pied-de-Bœuf,
   peut nous faire des brouettes de terrassiers au prix de 200fs 
   l’une, livrée à la Coudre.
-  Le prix du tombereau dit de « cantonniers » serait de 1000fs.
-  Chez Monsieur Godin charron à Jupilles : Prix des brouettes 220fs,
-  tombereau de 800 à 900fs.
+  Le prix du tombereau dit de « cantonniers » serait de 1000fs.*
+ 
+*Chez Monsieur Godin charron à Jupilles : Prix des brouettes 220fs,
+  tombereau de 800 à 900fs.*
   
 {{<figure src="/images/articles/aiguillecarriere.jpg"  title="Aguille ou pince de carrier">}}
   
-Pour les barres de mineurs qui seraient nécessaires, 
+*Pour les barres de mineurs qui seraient nécessaires, 
   il faudrait les dimensions et les formes suivantes: 
   longueur 1 m 50, pointe carrée d’un bout et pointe plate 
   de l’autre (fer rond 28 mm). Dans le lot de barres de fer
-  récupéré, il se trouve une barre qui peut faire 4 pinces. »
+  récupéré, il se trouve une barre qui peut faire 4 pinces.*
  
-Dans la carrière des **TREMBLES (18)** parcelle 137- l’ouvrier
-  carrier est Simon. Le permis d’extraction du 21 juin 1932 
+### 1930
+ 
+### Ouverture des dernières carrières.
+
+Dans la carrière des **TREMBLES (18)** parcelle 137-
+ l’ouvrier carrier est Simon.
+ 
+Le permis d’extraction du 21 juin 1932 
   n’empêche pas la carrière d’ouvrir en octobre 1930 avec 
   celle de **SERMAIZE (19)** (P.173/176 –carrière de pierre cassée). 
   
-« Visite de ces carrières le 3 février 1933  avec Monsieur Rebut 
-  (entrepreneur) et M. l’ingénieur du service vicinal d’Écommoy. »
-  Le garde Leclercq constate à ce sujet le 10 mai 1933: 
-  « vu les ouvriers de la carrière de Sermaize et leur ai 
+*Visite de ces carrières le 3 février 1933  avec Monsieur Rebut 
+  (entrepreneur) et M. l’ingénieur du service vicinal d’Écommoy.*
+ 
+Le garde Leclercq constate à ce sujet le 10 mai 1933: 
+*vu les ouvriers de la carrière de Sermaize et leur ai 
   indiqué les limites jusqu’où peut avoir lieu l’extraction
   des 250m3 de matériaux d’empierrement désignés au permis
-  n° 2 pour M. Paul Hummel de Marigné. »
+  n° 2 pour M. Paul Hummel de Marigné.*
   
- « Cubé à Sermaize, du mois d’avril au 11 juillet 1933: 307m3. »
-  « Constaté le 12 juin que les ouvriers avaient extrait de la pierre 
+*Cubé à Sermaize, du mois d’avril au 11 juillet 1933: 307m3. 
+  Constaté le 12 juin que les ouvriers avaient extrait de la pierre 
   jusque sous quelques arbres de limite; leur ai interdit formellement 
-  de continuer à extraire ainsi jusqu’au pied des arbres. »
+  de continuer à extraire ainsi jusqu’au pied des arbres.*
   
 Production carrière des Trembles en 1933 : d’avril à novembre : 316m3.
 
-### Conseil municipal d’Écommoy (Ouest-Éclair du 25 novembre 1934)
+### Conseil municipal d’Écommoy 
+ *(Ouest-Éclair du 25 novembre 1934)*
   
       Matériaux pour chemins vicinaux et ruraux.
   
@@ -367,7 +388,7 @@ Production carrière des Trembles en 1933 : d’avril à novembre : 316m3.
   
 ### 1936
   
-7 mars : « Visite des carrières des TREMBLES au sujet de 
+7 mars : « Visite des carrières des Trembles au sujet de 
   l’agrandissement de celle de la commune de Jupilles, 
   dont est demandé l’agrandissement. Constaté que cette
   carrière peut encore largement suffire aux besoins de
@@ -385,8 +406,9 @@ Production carrière des Trembles en 1933 : d’avril à novembre : 316m3.
 1939
   
 Les carrières de la Boulaie et de **GAIE-MARIÉE (20)** 
-  dite aussi des Vieux-Puits (qui, elle, fermera en 1963) 
-  sont en activité. Cheval et tombereau de l’administration
+  dite aussi des Vieux-Puits (la dernière à fermer en 1963) 
+  sont en activité. 
+ Cheval et tombereau de l’administration
   s’acquittent du transport des moellons et du tout-venant. 
   Les déchets de carrière sont revendus aux particuliers. 
  
@@ -401,19 +423,21 @@ Surveillance par le garde Volard des chômeurs de février
   
 ###1946
   
-Les ouvriers sont occupés en au découvert, c’est à dire
+Les ouvriers sont occupés au découvert, c’est à dire
   à enlever le terreau, le charger avant l’ouverture de
-  nouveaux trous. La carrière de
-  Gaie-Mariée offre pierres et tout venant. 
+  nouveaux trous.
+La carrière de Gaie-Mariée offre pierres et tout venant. 
   
 ### 1950
   
 26 août : arrêt de la confection de la petite pierre 
   d’entretien dans cette carrière, fabrication 
-  d’une remorque à pierres pour le tracteur. 
-  7 mars 1950 : construction d’une baraque de 
-  carrière à Gaie-Mariée. Une avancée et non des moindres :
-  l’arrivée du tracteur permettant le chargement
+  d’une remorque à pierres pour le tracteur.
+ 
+7 mars 1950 : construction d’une baraque de 
+  carrière à Gaie-Mariée. 
+Une avancée et non des moindres :
+  l’arrivée du tracteur permet le chargement aisé
   de la pierre, le 1er octobre 1953. 
   
 ### 1956
@@ -427,7 +451,7 @@ Septembre : 2 ouvriers y travaillent à l’année et y extraient
 C’est la fin de cette activité peu forestière mais au 
   combien importante dans la gestion forestière à venir. 
   
-{{<figure src="/images/articles/19720321gaiemariee3.jpg"  title="Martelage au dessus de la carrière">}}
+{{<figure src="/images/articles/19720321gaiemariee3.jpg"  title="Martelage à Gaie-Mariée">}}
   
 {{<figure src="/images/articles/19720321gaiemariee1.jpg"  title="Arrivée des marteleurs">}}
   
@@ -445,7 +469,7 @@ Voici quelques noms de carriers relevés au fil des vieux registres:
   en 1903 les carriers sont : Rouault, Busson, Leroux  Gustave (transport),
   Delcourt Achille de Beaumont en1954, Fefeu Roland 1956/1957 de Jupilles.
   
-1973
+### 1973
   
 {{<figure src="/images/articles/ete1973.jpg"  title="Étalement de la pierre">}}
   
@@ -468,7 +492,7 @@ Pichon Jules de la Souchetière à Pruillé-l’Eguillé
   Chaligné à la Pérotière sur Pruillé-l’Eguillé, 
   Trameau  à Pruillé-l’Eguillé, Le Marchand Alexandre 
   de Marigné-Laillé né en 1885 à Mayet, Bignon Jean-Baptiste 
-  né en 1885 à Marigné. Busson Eugène  de Marigné 
+  né en 1885 à Marigné. Busson Eugène de Marigné 
   né en 1902 à Mayet. Gonet Auguste de Marigné né en
   1895 à Laigné-en-Belin (en 1940 carrière des Hutteries),
   Fouassier William né en 1906 à Marigné 
@@ -480,16 +504,16 @@ Du 1er janvier 1946 au 31 décembre 1948 le carrier est : M. Odiou payé 6 fr. l
   
 ### Hutteries  P.12 
   
-Du 1er janvier 1947 au 31 décembre 1948, le carrier est 
-  M. Péan (redevance 5 m³ /an : prix du m³ 8 fr.), 
-  Gonet Marcel Marigné 1950 (son salaire d’avril 1956 s’élève à 23.842 fr).  
+Du 1er janvier 1947 au 31 décembre 1948, les carriers sont 
+  M. Péan (redevance 5 m³ /an : prix du m³ 8 fr.), et 
+ Gonet Marcel Marigné 1950 (son salaire d’avril 1956 s’élève à 23.842 fr).  
   
 ### Quelques cantonniers des villages aux alentours :
   
 Rivière	 Auguste, St Vincent du Lorouer, Cantonnier vicinal en 1891.
 Ferré	René, Thoiré/Dinan, Cantonnier vicinal en 1936.
 Escandre René, Chahaignes, Cantonnier/cultivateur en 1851.
-Leclerc Louis, Chahaignes, Cantonnier	1861.
+Leclerc Louis, Chahaignes, Cantonnier	en 1861.
 Ronciere René, Chahaignes, Cantonnier en 1861.
   
      Arthur Pasquier (fils) né le 6 juillet 1915, 
@@ -522,5 +546,8 @@ Le Bureau des Recherches Géologiques et Minières a prospecté par
 
 ### Bibliographie :
  
-Archives et livrets d’ordres du massif forestier de Bercé – photos Calvel
+Archives et livrets d’ordres du massif forestier de Bercé 
+ 
+photos Robert Calvel
+ 
 Revue au fil du temps n° 18 du 31 décembre 2002 et n°19 du 31 mars 2003.
