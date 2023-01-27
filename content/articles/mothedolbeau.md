@@ -95,15 +95,15 @@ Theodore Charles de Longueval, né en 1797, à la Mothe d’Olbeau,
   
 **Tout est démembré.** au propre comme au figuré.
 
-{{<figure src="/images/articles/lachevalerie.jpg"  title="Le château avant démolition">}}
-
 Marquis, il fut par le passé, maire de Brette-les-Pins.
   Il devient Conseiller général du Canton d'Écommoy de 1833 à 1842.
   Chevalier de la Légion d'honneur (maire du Grand Lucé). 
   Théodore Charles décède en 1885.
 
  {{<figure src="/images/articles/haraucourtdeces.jpg"  title="Faire-part de décès">}}
-
+  
+  
+{{<figure src="/images/articles/lachevalerie.jpg"  title="La Chevalerie avant démolition">}}
 
 La famille qui avait acheté en 1865 le [château de la Chevalerie](/articles/pdf/afdt13.pdf)
   du Grand-Lucé le revendra en pièces détachées en 1911.
