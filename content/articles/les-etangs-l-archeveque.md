@@ -157,7 +157,7 @@ futaie à Bercé, plus 1500 livres pour dommages et intérêts envers sa Majest�
 ## Dernière particularité de cette lignée…. 
  
 En 1698, les habitants de Saint-Vincent-du-Lorouër, 
-se présentèrent au château des Étangs, devant Nicolas Hilarion 
+se présentèrent au [Château des Étangs](/articles/pdf/chateau-archeveque.pdf), devant Nicolas Hilarion 
 de FROMENTIÈRES, pour lui déclarer 
  
 *« …Que les nouveaux mariés de la paroisse sont tenus de faire chacun,
