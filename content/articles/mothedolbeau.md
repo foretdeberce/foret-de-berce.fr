@@ -40,16 +40,16 @@ La succession de François de Longueval, vicomte d'Haraucourt seigneur
   parmi lesquels Joseph Alexandre de Longueval, seigneur d'Haraucourt 
   et du Haut Bois, lieutenant au régiment de la Marine, capitaine,
   maître des Eaux et forêts **(1)**  demeurant à la Mothe d'Olbeau à Château du Loir.
-  Convoqué à l'arrière-ban du Maine en 1689. Il Mariera avec Françoise Huet
-  (demoiselle d’Artigné) (fille de Charles, seigneur de Vaux, 
-  et de Marguerite Bougars et décèdera en 1727.
+  Convoqué à l'arrière-ban du Maine en 1689. Il se mariera avec Françoise Huet
+  (demoiselle d’Artigné, fille de Charles, seigneur de Vaux, 
+  et de Marguerite Bougars et décèdera en 1727).
 
  **(1)** *Une maîtrise des eaux et forêts est une juridiction française
   d'exception chargée de surveiller et de contrôler les 
   forêts royales à l'origine, puis toutes les forêts.
   A la révolution les Maîtres sont remplacés par
   les corps des conservateurs et inspecteurs.
-  Le Maine,Anjou,Touraine, possède 9 maîtrises :
+  Le Maine, l'Anjou et la Touraine, possèdent 9 maîtrises :
   Tours, Amboise, Loches, Chinon, Baugé, Angers,
   Le Mans, Château-du-Loir, Mamers.*
   
