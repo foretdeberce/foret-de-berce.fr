@@ -1,6 +1,6 @@
 ---
 title: " Bois chantant "
-date: 2023-01-26T14:21:25+01:00
+date: 2023-01-27T10:21:25+01:00
 draft: false
 description: " Un marchand à Quincampoix "
 featured_image: "/images/et.diderot.jpg"
@@ -9,23 +9,24 @@ tags: ["Arbres","Bucheron","travaux","Marchands"]
 
 Sur la piste du bois chantant
 
-Cette Énigme " du bois qui parle", 
+Cette Énigme "du bois qui parle", 
 est partie des Deux Sèvres!
 
-Procédant au dépouillement des Registres Paroissiaux d'Azay-sur-Thouet,
+Procédant au dépouillement des registres paroissiaux d'Azay-sur-Thouet,
 un adhérent de GENEA 79, (n° 35 page 9) a eu la surprise de trouver
 plusieurs actes mentionnant un commerce pratiqué au XVIIème siècle 
-dans cette paroisse de Gâtine, celui du « bois chantant ». 
+dans cette paroisse de Gâtine, celui du «bois chantant». 
 On trouve ainsi trace de marchands de bois chantant.
 
- Un acheteur de bois chantant est venu du diocèse du Mans
+*Un acheteur de bois chantant est venu du diocèse du Mans
  pour en acheter, preuve que ce bois était peut-être d'une 
  espèce endémique. Nous avons consulté les dictionnaires et 
  autres ouvrages traitant des vieux métiers et des termes 
- de vocabulaire du passé. Malheureusement, les investigations
- menées pour savoir ce qu'était ce bois chantant n'ont pour 
- l'instant rien donné. Nous lançons donc un appel, espérant
- pouvoir publier la solution dans notre prochain numéro.
+ de vocabulaire du passé. 
+ Malheureusement, les investigations menées pour savoir 
+ ce qu'était ce bois chantant n'ont pour l'instant rien donné. 
+ Nous lançons donc un appel, espérant pouvoir publier
+ la solution dans notre prochain numéro.*
 
 {{<figure src="/images/articles/luthier.jpg"  title="Un Luthier au travail">}}
 
@@ -57,7 +58,7 @@ mariage d'un marchand de bois chantant
 
 {{<figure src="/images/articles/boischantant.jpg"  title="Mariage d’un marchand de bois chantant">}}
 
-Le vingt deuxi(eme) Jour de Juin 1664 a esté espouze
+*Le vingt deuxi(eme) Jour de Juin 1664 a esté espouze
 en face de N(otre) M(ere) S(ainte) Esglise Jacques
 Rousseau marchand de bois Chantant avecq Mathurine 
 Perrotin ve(uve) de Mathurin vequault tous deux de 
@@ -66,7 +67,7 @@ de leurs proches parens et amis, de Mathurin Rousseau
 frère dud Jacques de Magdelaine Rousseau sa sœur, 
 de pierre perrotin oncle de lad mathurine et d hilaire
 perrotin sa sœur et au(tr)es qui ont dit le ne Scavoir
-par moy pbre cure d azay
+par moy pbre cure d azay*
 Caffoireau
 
 Jeanne Sérafin du Cercle Généalogique du Sud Saintonge de Montendre (Charentes)
@@ -78,20 +79,21 @@ Jeanne Sérafin du Cercle Généalogique du Sud Saintonge de Montendre (Charente
 
 René Geay, afin de faire avancer le dossier, a joint un de ses amis, 
   originaire d'une commune située près de Flée, dont dépendait 
-  l'ancienne paroisse de Quinquenpoix.
+  l'ancienne paroisse de Quincampoix.
 
 {{<figure src="/images/articles/robertrousselle.jpg"  title="Robert Rousselle">}}
 
 
 Cet ami c’est Robert Rousselle, Technicien supérieur aux Ponts et Chaussées,
-  ayant œuvré durant 22ans à l’usine atomique de Marcoule (Gard).
-  En 1982 il rejoint avec Thérèse le  Grand-Lucé pour une retraite bien méritée. 
-  Hélas cet amoureux d’histoire et de jardin quitta prématurément 
+  ayant œuvré durant 22 ans à l’usine atomique de Marcoule (Gard).
+  En 1982 il rejoint avec Thérèse le Grand-Lucé pour une retraite bien méritée. 
+ 
+Hélas cet amoureux d’histoire et de jardin quitta prématurément 
   sa famille en juin 2002. 
   
 Peu de temps avant, le 9 août 2001, il m’envoyait cette énigme…..
 
-Connaissez-vous le bois chantant ?
+### Connaissez-vous le bois chantant ?
 
 Je lui répondis par retour de courrier, en soulignant que cette
   énigme permet à l'histoire locale de progresser dans sa quête du savoir : 
@@ -111,10 +113,11 @@ Urbain Leroy, marchand de « bois chantant » est de ceux qui recherchaient
   lente et régulière, donc un grain très fin, à l'image de nos chênes de Bercé
   (1,2 mm sur le rayon, mais pourtant les plus hauts de France). 
   
-  Il y avait donc du côté de Parthenay une production forestière intéressante,
+Il y avait donc du côté de Parthenay une production forestière intéressante,
   car particulière. Il s'agissait de bois serrés, ayant au taper une résonance
   importante, qui étaient choisis pour cette qualité unique et recherchée par 
-  tous les  facteurs  d'instruments.  Ces  bois  poussent  sur  des  stations 
+  tous les  facteurs  d'instruments.  
+Ces  bois  poussent  sur  des  stations 
   géologiques  bien particulières. Cette production de bois qui doivent être 
   parfaitement secs concerne le merisier (pour les tables d'harmonie et les 
   caisses d'instruments), l'érable ondé (pour les violons), le hêtre 
