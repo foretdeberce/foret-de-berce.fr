@@ -8,7 +8,7 @@ tags: ["Faune","Biodiversité","Chasse","Lois"]
 ---
 
 
-Déjà en service depuis le 1er mai 1884 sur l’extérieur du massif,
+Déjà en service depuis le 1er mai 1884 sur l’[extérieur du massif](/articles/pdf/afdt09.pdf),
 la ligne Le Grand Lucé/La Chartre sur le Loir 17.7km desservira 
 celui-ci sur son flan Est, au niveau des gares de Saint-Vincent 
 et Saint-Pierre du Lorouër.
