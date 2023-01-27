@@ -139,14 +139,14 @@ Un document de 1686 mentionne le bordage de la Tuffière.
 
 
 Cette maison est très liée à la forêt car au XVIIème siècle, Adrien de Fromentières, 
-écuyer, sieur de la Moinerie, acheta l’office de maître particulier des 
+écuyer, sieur de la Moinerie, acheta vers 1630 l’office de maître particulier des 
 Eaux et forêts de Château-du-Loir.
  
 Plus tard, Bercé se rappelle avoir reçu 
 la visite du grand-maître enquêteur Hurault, qui venait de la part de Colbert. 
 Il était assisté du député Leferon et vint entre le 8 et le 17 octobre 1669.
-Ils visitèrent la forêt en compagnie d’Hilarion de Fromentières, maître 
-particulier alternatif, qui «fut condamné à restituer à sa Majesté 925 livres
+Ils visitèrent la forêt en compagnie d’Hilarion de Fromentières,
+maître particulier alternatif, qui «fut condamné à restituer à sa Majesté 925 livres
 pour la valeur de 225 cordes de bois de chauffage à Maison, plus 500 livres,
 pour ses vacations aux assiettes et journées des ventes de la même période, 
 9175 livres par lui reçus de la coupe et exploitation de 46 arpents de haute
