@@ -79,7 +79,9 @@ Jeanne Sérafin du Cercle Généalogique du Sud Saintonge de Montendre (Charente
 
 René Geay, afin de faire avancer le dossier, a joint un de ses amis, 
   originaire d'une commune située près de Flée, dont dépendait 
-  l'ancienne paroisse de Quincampoix.
+  l'ancienne paroisse de Quinquempoix.
+ 
+ {{<figure src="/images/articles/orthographequinquempoix.jpg"  title="Quinquempoix ou Quincampoix ?">}}
 
 {{<figure src="/images/articles/robertrousselle.jpg"  title="Robert Rousselle">}}
 
