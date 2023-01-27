@@ -48,7 +48,10 @@ La succession de François de Longueval, vicomte d'Haraucourt seigneur
   d'exception chargée de surveiller et de contrôler les 
   forêts royales à l'origine, puis toutes les forêts.
   A la révolution les Maîtres sont remplacés par
-  les corps des conservateurs et inspecteurs*. 
+  les corps des conservateurs et inspecteurs.
+  Le Maine,Anjou,Touraine, possède 9 maîtrises :
+  Tours, Amboise, Loches, Chinon, Baugé, Angers,
+  Le Mans, Château-du-Loir, Mamers.*
   
 Dans l'une des cheminée du domaine est toujours en place une plaque à ses 
   armoiries et c’est peut être lui également
