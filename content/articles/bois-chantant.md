@@ -101,7 +101,7 @@ Quincampoix, village autrefois important, situé au coeur du croissant
   presque sans vie. 
 
 
-{{<figure src="/images/articles/ plancassini18.jpg"  title="Le hameau de Quincampoix ">}}
+{{<figure src="/images/articles/plancassini18.jpg"  title="Le hameau de Quincampoix ">}}
 
 
 Urbain Leroy, marchand de « bois chantant » est de ceux qui recherchaient
