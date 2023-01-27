@@ -39,10 +39,15 @@ La succession de François de Longueval, vicomte d'Haraucourt seigneur
   de Bouviers habitant Brette fut partagée en 1675 entre leurs enfants
   parmi lesquels Joseph Alexandre de Longueval, seigneur d'Haraucourt 
   et du Haut Bois, lieutenant au régiment de la Marine, capitaine,
-  maître des Eaux et forêts  demeurant à la Mothe d'Olbeau à Château du Loir.
+  maître des Eaux et forêts **(1)**  demeurant à la Mothe d'Olbeau à Château du Loir.
   Convoqué à l'arrière-ban du Maine en 1689. Il Mariera avec Françoise Huet
   (demoiselle d’Artigné) (fille de Charles, seigneur de Vaux, 
   et de Marguerite Bougars et décèdera en 1727.
+
+ **(1)** Une maîtrise des eaux et forêts est une juridiction française
+  d'exception chargée de surveiller et de contrôler les 
+  forêts royales à l'origine, puis toutes les forêts.
+  A la révolution ils sont remplacés par les corps des conservateurs et inspecteurs. 
   
 Dans l'une des cheminée du domaine est toujours en place une plaque à ses 
   armoiries et c’est peut être lui également
@@ -52,7 +57,7 @@ Dans l'une des cheminée du domaine est toujours en place une plaque à ses
 
 son fils, Charles Mathieu de Longueval d'haraucourt, 
   né en 1680 à la Mothe d'Olbeau, est aussi vers 1729
-  Maitre particulier des Eaux et Forêt de la Maitrise
+  Maître particulier des Eaux et Forêt de la Maitrise
   de Château du Loir, vicomte d'Haraucourt (alias Daraucourt Longueval),
   seigneur de Brette, commissaire provincial de l'artillerie royale. 
   Il épousa Marie Anne Chesneau des Portes (fille de Mathurin et de Marie Désirée Aubert du Boisguiet).
@@ -96,7 +101,7 @@ Marquis, il fut par le passé, maire de Brette-les-Pins.
  {{<figure src="/images/articles/haraucourtdeces.jpg"  title="Faire-part de décès">}}
 
 
-La famille qui avait acheté en 1865 le [château de la Chevalerie articles/pdf/afdt13.pdf) 
+La famille qui avait acheté en 1865 le [château de la Chevalerie](/articles/pdf/afdt13.pdf)
   du Grand-Lucé le revendra en pièces détachées en 1911.
 
 {{<figure src="/images/articles/chevalerie.jpg"  title="Emplacement de La Chevalerie disparue">}}
@@ -166,4 +171,7 @@ Après plusieurs essais infructueux il fut finalement planté en 1977,
 
 ### Bibliographie :
   
-  Archives famille Eve-Vinçonneau.
+Archives famille Eve-Vinçonneau.
+  
+Au Fil Du Temps n° 13 du 30 septembre 2001 (pages 23 & 24) 
+  et n° 14 du 31 décembre 2001 (page 25)
