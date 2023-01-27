@@ -47,7 +47,8 @@ La succession de François de Longueval, vicomte d'Haraucourt seigneur
  **(1)** *Une maîtrise des eaux et forêts est une juridiction française
   d'exception chargée de surveiller et de contrôler les 
   forêts royales à l'origine, puis toutes les forêts.
-  A la révolution ils sont remplacés par les corps des conservateurs et inspecteurs*. 
+  A la révolution les Maîtres sont remplacés par
+  les corps des conservateurs et inspecteurs*. 
   
 Dans l'une des cheminée du domaine est toujours en place une plaque à ses 
   armoiries et c’est peut être lui également
