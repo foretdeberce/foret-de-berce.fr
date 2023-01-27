@@ -9,11 +9,11 @@ tags: ["Arbres","Bucheron","travaux","Marchands"]
 
 Sur la piste du bois chantant
 
-Cette Énigme "du bois qui parle", 
-est partie des Deux Sèvres!
+Cette énigme "du bois qui parle", 
+est partie des Deux-Sèvres!
 
 Procédant au dépouillement des registres paroissiaux d'Azay-sur-Thouet,
-un adhérent de GENEA 79, (n° 35 page 9) a eu la surprise de trouver
+un adhérent de GENEA 79, (n°35 page 9) a eu la surprise de trouver
 plusieurs actes mentionnant un commerce pratiqué au XVIIème siècle 
 dans cette paroisse de Gâtine, celui du «bois chantant». 
 On trouve ainsi trace de marchands de bois chantant.
@@ -74,8 +74,8 @@ Jeanne Sérafin du Cercle Généalogique du Sud Saintonge de Montendre (Charente
   indique dans GENEA 79 (n° 38 pages 3 et 4) que Pierre HELIS et son frère Jean,
   avaient été tourneurs de bois chantant dans la paroisse de Pommiers, près 
   de Montendre, au 18e siècle. Nous apprenions ainsi que le mystérieux métier 
-  s'était pratiqué en Sud - Saintonge, alors qu'on l'avait initialement découvert
-  à Azay – sur - Thouet au 17e siècle.
+  s'était pratiqué en Sud-Saintonge, alors qu'on l'avait initialement découvert
+  à Azay–sur-Thouet au 17e siècle.
 
 René Geay, afin de faire avancer le dossier, a joint un de ses amis, 
   originaire d'une commune située près de Flée, dont dépendait 
