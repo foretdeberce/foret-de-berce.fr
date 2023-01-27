@@ -44,10 +44,10 @@ La succession de François de Longueval, vicomte d'Haraucourt seigneur
   (demoiselle d’Artigné) (fille de Charles, seigneur de Vaux, 
   et de Marguerite Bougars et décèdera en 1727.
 
- **(1)** Une maîtrise des eaux et forêts est une juridiction française
+ **(1)** *Une maîtrise des eaux et forêts est une juridiction française
   d'exception chargée de surveiller et de contrôler les 
   forêts royales à l'origine, puis toutes les forêts.
-  A la révolution ils sont remplacés par les corps des conservateurs et inspecteurs. 
+  A la révolution ils sont remplacés par les corps des conservateurs et inspecteurs*. 
   
 Dans l'une des cheminée du domaine est toujours en place une plaque à ses 
   armoiries et c’est peut être lui également
@@ -55,7 +55,7 @@ Dans l'une des cheminée du domaine est toujours en place une plaque à ses
 
 ### 1680
 
-son fils, Charles Mathieu de Longueval d'haraucourt, 
+Son fils, Charles Mathieu de Longueval d'haraucourt, 
   né en 1680 à la Mothe d'Olbeau, est aussi vers 1729
   Maître particulier des Eaux et Forêt de la Maitrise
   de Château du Loir, vicomte d'Haraucourt (alias Daraucourt Longueval),
@@ -164,8 +164,9 @@ Situé en contre bas des bâtiments, ce terrain bas et marécageux est inondable
 Le clos des religieuses Autrefois vignes, situé au sommet de la colline,
   sur un terrain sec et venté.
 Après plusieurs essais infructueux il fut finalement planté en 1977,
-  600 Laricios de Calabre bordés de Chênes. Le flanc de la colline est 
-  devenu naturellement une véritable pépinière de Cèdres.
+  600 Laricios de Calabre bordés de Chênes.
+  
+Le flanc de la colline est devenu naturellement une véritable pépinière de Cèdres.
   Le tout formant un parc s'étageant sur la colline et 
   mettant en valeur l'ancienne seigneurie de la Mothe d'Olbeau.
 
