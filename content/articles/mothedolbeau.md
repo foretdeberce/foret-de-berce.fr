@@ -27,7 +27,7 @@ fut utilisé pour défendre l'entrée de la vallée de l’Ire.
 L'importance de l'épaisseur des murs des plus vieux bâtiments 
 de La Mothe d’Olbeau en témoigne. 
 
-Une importante vie existait et l'on dénombre 3 fours à pain.
+Une importante vie existait car l'on dénombre 3 fours à pain.
 
 {{<figure src="/images/articles/37231.jpg"  title="La Mothe d’Olbeau">}}
 
@@ -40,7 +40,7 @@ La succession de François de Longueval, vicomte d'Haraucourt seigneur
   parmi lesquels Joseph Alexandre de Longueval, seigneur d'Haraucourt 
   et du Haut Bois, lieutenant au régiment de la Marine, capitaine,
   maître des Eaux et forêts **(1)**  demeurant à la Mothe d'Olbeau à Château du Loir.
-  Convoqué à l'arrière-ban du Maine en 1689. Il se mariera avec Françoise Huet
+Convoqué à l'arrière-ban du Maine en 1689. Il se mariera avec Françoise Huet
   (demoiselle d’Artigné, fille de Charles, seigneur de Vaux, 
   et de Marguerite Bougars et décèdera en 1727).
 
@@ -49,12 +49,14 @@ La succession de François de Longueval, vicomte d'Haraucourt seigneur
   forêts royales à l'origine, puis toutes les forêts.
   A la révolution les Maîtres sont remplacés par
   les corps des conservateurs et inspecteurs.
-  Le Maine, l'Anjou et la Touraine, possèdent 9 maîtrises :
-  Tours, Amboise, Loches, Chinon, Baugé, Angers,
+  A l'époque le Maine, l'Anjou et la Touraine, 
+  possèdent 9 maîtrises :*
+  
+  *Tours, Amboise, Loches, Chinon, Baugé, Angers,
   Le Mans, Château-du-Loir, Mamers.*
   
-Dans l'une des cheminée du domaine est toujours en place une plaque à ses 
-  armoiries et c’est peut être lui également
+Dans l'une des cheminée du domaine est toujours en 
+  place une plaque à ses armoiries et c’est peut être lui également
   qui à fait planter les tilleuls de la terrasse.
 
 ### 1680
@@ -64,20 +66,22 @@ Son fils, Charles Mathieu de Longueval d'haraucourt,
   Maître particulier des Eaux et Forêt de la Maitrise
   de Château du Loir, vicomte d'Haraucourt (alias Daraucourt Longueval),
   seigneur de Brette, commissaire provincial de l'artillerie royale. 
-  Il épousa Marie Anne Chesneau des Portes (fille de Mathurin et de Marie Désirée Aubert du Boisguiet).
-  Il est inhumé au Château du Haut-Bois (devenu depuis un Lycée agricole) à Brette le 23 Avril 1747.
+  Il épousa Marie Anne Chesneau des Portes 
+  (fille de Mathurin et de Marie Désirée Aubert du Boisguiet).
+Il est inhumé au Château du Haut-Bois (devenu depuis un Lycée agricole) 
+  à Brette le 23 Avril 1747.
 
 {{<figure src="/images/articles/hautbois.jpg"  title="Château du Haut-Bois">}}
 
 
 ### 1730
 
-Son fils Charles Mathieu Etienne de Longeval, né en 1730, Maître particulier 
+Son petit fils Charles Mathieu Etienne de Longeval, né en 1730, Maître particulier 
   des Eaux et forêts au Mans, inspecteur des haras du Maine fût admis aux
   honneurs de la cour en 1783 sous le titre de marquis d’Haraucourt, 
   comparant à l'assemblée de la Noblesse du Maine en 1789. 
   
-  En 1747 c’est le décès à la Mothe d'Olbeau de Demoiselle 
+En 1747 c’est le décès à la Mothe d'Olbeau de Demoiselle 
   Catherine de Longueval d'Haraucourt qui sera inhumée dans 
   la chapelle St François des Récollets à Château du Loir.
   
@@ -111,6 +115,8 @@ La famille qui avait acheté en 1865 le [château de la Chevalerie](/articles/pd
 {{<figure src="/images/articles/chevalerie.jpg"  title="Emplacement de La Chevalerie disparue">}}
 
 ### 1886
+  
+Mais revenons à Château du Loir au domaine de la Mothe d'Olbeau.
 
 En 1886, Jean Baptiste Eve, industriel, est séduit par le charme de 
   cette vieille demeure et achète le 12 janvier 1887 la grande maison.
@@ -121,7 +127,7 @@ En 1886, Jean Baptiste Eve, industriel, est séduit par le charme de
 
 ### Au 20ᵉ siècle. 
 
-Depuis la famille Eve - Vinçonneau n'a cessé de veiller au
+Depuis la famille Eve-Vinçonneau n'a cessé de veiller au
   bon entretien des bâtiments et du parc.
 Valère R. Vinçonneau (Conservateur des Eaux & forêts), 
   et son fils Jean Claude (ingénieur en chef du génie rural)
@@ -153,14 +159,14 @@ Depuis,  le cèdre de la Mothe a fait beaucoup de petits, déjà grands,
 Les de Longueval  étaient forestiers de père en fils, de même le sont 
   les descendants de Jean Baptiste  EVE : sa petite fille, l'actuelle 
   propriétaire épousa V.R. Vinçonneau, conservateur des Eaux & forêts. 
-  V.R. Vinçonneau, puis son fils Jean Claude ingénieur en chef du Génie Rural 
+V.R. Vinçonneau, puis son fils Jean Claude ingénieur en chef du Génie Rural 
   et des Eaux & forêts veillèrent à l'entretien des arbres séculaires ainsi que de leur.
 
 ### Le parc du Courtil 
   
 Situé en contre bas des bâtiments, ce terrain bas et marécageux est inondable en 
   quelques heures par les crues violentes de l’ire. 
-  Pour mettre en valeur cette vaste étendue servant de perspective à la demeure,
+Pour mettre en valeur cette vaste étendue servant de perspective à la demeure,
   on y planta 40 Cyprès Chauves, résineux peu communs passant du vert au pourpre
   selon la saison, et dotés de" pneumatophores" (curieuses racines résurgentes en 
   forme de stalagmites), cette plantation est unique en France.
