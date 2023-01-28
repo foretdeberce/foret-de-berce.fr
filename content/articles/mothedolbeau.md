@@ -105,7 +105,8 @@ Marquis, il fut par le passé, maire de Brette-les-Pins.
   Théodore Charles décède en 1885.
 
  {{<figure src="/images/articles/haraucourtdeces.jpg"  title="Faire-part de décès">}}
-  
+ 
+### Évaporation d'un château au Grand-Lucé !
   
 {{<figure src="/images/articles/lachevalerie.jpg"  title="La Chevalerie avant démolition">}}
 
