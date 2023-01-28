@@ -76,7 +76,7 @@ Il est inhumé au Château du Haut-Bois (devenu depuis un Lycée agricole)
 
 ### 1730
 
-Son petit fils Charles Mathieu Etienne de Longeval, né en 1730, Maître particulier 
+Son petit fils Charles Mathieu Etienne de Longueval, né en 1730, Maître particulier 
   des Eaux et forêts au Mans, inspecteur des haras du Maine fût admis aux
   honneurs de la cour en 1783 sous le titre de marquis d’Haraucourt, 
   comparant à l'assemblée de la Noblesse du Maine en 1789. 
