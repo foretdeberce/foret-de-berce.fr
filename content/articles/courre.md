@@ -177,7 +177,11 @@ Louvetier : Mr de la Blanchère
   
 La chasse est interdite pour toutes les espèces de gibier (sauf le lapin). 
   La chasse au sanglier est placée sous le contrôle du lieutenant de louveterie 
-  en 1915 (Louis Marion). Entre 1916 et 1918, l’on voit de nouveau les battues et
+  en 1915 (Louis Marion). 
+ 
+ {{<figure src="/images/articles/carnetchassesimier.jpg"  title="Le carnet du garde Simier">}}
+ 
+ Entre 1916 et 1918, l’on voit de nouveau les battues et
   les chasses à courre réapparaître par pure nécessité alimentaire (le chevreuil 
   et la moitié du sanglier a été envoyé à l’ambulance, le reste distribué aux tireurs
   et riverains). [Le Garde particulier de Mr d’Andigné est Albert Simier](/articles/pdf/1919carnetsimier.pdf)
