@@ -48,7 +48,7 @@ sur le sujet, où seul le nord de la Sarthe apparaissait dans le paysage minier.
  avise ces petits nodules résistants et commence à les extraire. 
  Ce matériau de surface que l’on rencontre jusqu'à 7 m de profondeur, 
  permettra de favoriser l'essor économique de notre région jusqu'à l'aube du XX° Siècle 
- (un moulin à fer est relaté vers 1583 dans le « Vau du Puy »). **(1)
+ (un moulin à fer est relaté vers 1583 dans le « Vau du Puy »). **(1)**
  
  Un lieu-dit les forges existe entre Marigné et Laillé.
 
@@ -75,7 +75,7 @@ Ne perdez pas votre temps à rechercher du minerai en ces lieux,
   sauf peut-être dans une culée d'arbre arrachée, vous n'en trouverez pas, 
   tout a été méticuleusement nettoyé par nos ancêtres les Gaulois. 
   Un premier tri était généralement effectué dans les galeries 
-  situées en fond de puits. **(2) Le minerai était ensuite acheminé
+  situées en fond de puits. **(2)** Le minerai était ensuite acheminé
   à dos d'homme ou de monture jusqu'à l'atelier de réduction le plus proche.
   
 Et celui-ci vous le trouverez facilement en scrutant les déchets métalliques
@@ -131,7 +131,7 @@ Au Moyen-âge se dessinent les contours que nous
 ### Une sidérurgie ancienne : Les ferriers
 
 La réduction du minerai et sa transformation en métal se faisaient
-  donc dans des bas-fourneaux à évents, dits fours à scories coulées **(2) 
+  donc dans des bas-fourneaux à évents, dits fours à scories coulées **(2)** 
   ou "forges à bras" car les soufflets en peau nécessitaient la force musculaire.
   
 Ces fours étaient chargés en lits successifs de minerai préalablement 
@@ -140,7 +140,7 @@ Ces fours étaient chargés en lits successifs de minerai préalablement
 Les déchets  ou scories étaient éparpillés régulièrement 
   autour des fours, on les nomme : ferriers.
   
-La loupe de fer obtenue était ensuite épurée sur place **(2) 
+La loupe de fer obtenue était ensuite épurée sur place **(2)** 
   avant d'être travaillée en forge
   
 Aucune forge digne de ce nom n'est présente dans
@@ -154,7 +154,7 @@ Les fiefs en prennent possession. De gros centres de transformation,
   si l'on en croit l'aveu rapporté par l'érudit Sarthois Henri Roquet. 
   Celui-ci parle de « forge grossière » fonctionnant dans la forêt de Bercé 
   en 1408, ce qui en ferait à cette date (et de très loin !), 
-  nous dit François Dornic **(3), la toute première grosse forge de l'ouest.
+  nous dit François Dornic **(3)**, la toute première grosse forge de l'ouest.
 
 {{<figure src="/images/articles/berce45.jpg" title="Carte des prospections à pied 2003, avant Lidar">}}
 
@@ -183,7 +183,7 @@ Quand bien même il s'agit de la mémoire collective,
   nos générations futures en perdront le fil du temps,
   si nous ne consignons pas nos découvertes. 
   
-Le 4 décembre 1926 **(4), une demande parvient au Mans,
+Le 4 décembre 1926 **(4)**, une demande parvient au Mans,
   à l'inspection des Eaux et forêts, d'un industriel qui désire 
   être autorisé à faire des sondages dans la forêt de Bercé, 
   en vue de récupérer des scories de minerai de fer provenant
@@ -224,7 +224,7 @@ A peine un siècle auparavant, l'aménagiste de Bercé, notait en résumé :
   si on juge par les excavations nombreuses que l'on remarque à la surface du sol 
   de plusieurs cantons et notamment de celui des Forges. 
   On voit également des amas considérables de scories de fer 
-  sur plusieurs points et notamment au canton de "Croix-Marconnay".»* **(4)  
+  sur plusieurs points et notamment au canton de "Croix-Marconnay".»* **(4)**  
 
 ### Des maisons se sont construites sur des buttes de mâchefer :
   La Butte Fouquereau (Marigné) et la Butte (Jupilles).
@@ -268,17 +268,17 @@ Hors les territoires traversés par l'A28 ou couverts par la forêt de Bercé,
 
 ### Avant 2013,
   Aucune étude n'avait été entreprise sur Bercé. 
-Mais à la vue des échantillons prélevés par l’AFAN **(2) 
-  et le SRA (5)  fin 1999 sur le site, nous pouvions allègrement
+Mais à la vue des échantillons prélevés par l’AFAN **(2)** 
+  et le SRA **(5)**  fin 1999 sur le site, nous pouvions allègrement
   emboîter le pas des archéologues et faire le rapprochement 
   avec les sites étudiés dans le sud de la Sarthe, entre Changé 
-  et Ecommoy, sur l'emprise de l’A28 **(2). 
+  et Ecommoy, sur l'emprise de l’A28 **(2)**. 
 
 La datation carbone 14, évaluait pour ces exploitations minières souterraines, 
   une période allant de 400 ans  avant JC (La Tène: 2ème âge du fer) 
   jusqu'à l'époque médiévale grâce au traceur radioactif 14C sur charbon de bois.
   
-### En 2013 **(6)
+### En 2013 (6)
   Morgan Choplin encadré par Cécile Le Carlier de Veslud (ingénieure d'étude CNRS) 
   étudie quelques ferriers en forêt de Bercé, ceci afin d’en dater la période d’exploitation. 
   
@@ -303,7 +303,7 @@ La sidérurgie en Sarthe est attestée au moins jusqu'à la fin du Moyen-âge
   du minerai de fer, fait état de mentions dès le temps des érudits y compris
   aux abords de Bercé. Dès le début du XXe siècle, Ambroise Ledru mentionne
   des amas de scories en précisant de façon très exacte que 
-  « les uns sont du Moyen-âge et certains remontent à l'époque gallo-romaine » (Ledru 1911). »
+  « les uns sont du Moyen-âge et certains remontent à l'époque gallo-romaine » **(Ledru 1911)**. »
 « Le travail d'Antoine Guicheteau (2007) a consisté en l'étude des archives médiévales
   à partir du cartulaire de Château-du-Loir. Cette étude apporte de précieuses 
   informations sur le contrôle et la gestion des activités forestières, 
@@ -319,7 +319,8 @@ La sidérurgie en Sarthe est attestée au moins jusqu'à la fin du Moyen-âge
 « Il y a de cela un an, seuls deux ateliers étaient datés dont un seul avec certitude.
   Il s'agit de la Ferrière à Jupilles daté du XIe siècle. 
   La datation de ce site est due à une récupération de scories entre 1926-1927
-  par une société de Lorraine. A cette occasion quatre deniers d’Herbert Eveillechien,
+  par une société de Lorraine. 
+A cette occasion quatre deniers d’Herbert Eveillechien,
   comte du Maine de 1015 à 1035/1038, ont été découverts. 
   Ces monnaies bien que disparues maintenant attestent d’une sidérurgie médiévale
   aux abords immédiat de Bercé. Le bourg de la ferrière est d'ailleurs mentionné
@@ -434,21 +435,21 @@ D’autant plus qu’il n’y avait en forêt que de mauvais sentiers,
 
 ### Bibliographie :
   
-(1) Archives du Cogner […] Série E -  1-144, p. 153.
+**(1)** Archives du Cogner […] Série E -  1-144, p. 153.
   
-(2) AFAN : Association des Fouilles Archéologiques Nationales (Coordinatrice C.Thooris) 
+**(2)** AFAN : Association des Fouilles Archéologiques Nationales (Coordinatrice C.Thooris) 
   travail de l'équipe 09/97 " La Paléo métallurgie sur l'A28 - 
   L'Archéologue n° 35 Avril-Mai 1998 (carnet de fouilles)    
   
-(3) Le Fer contre la Forêt – (1984) aux Editions Ouest-France
+**(3)** Le Fer contre la Forêt – (1984) aux Editions Ouest-France
   
-(4) Archives de l'Office national des forêts :
+**(4)** Archives de l'Office national des forêts :
   Procès-verbal d'aménagement de la forêt de bercé de 1843
   
-(5) S.R.A : - Service Régional de l'Archéologie, 
+**(5)** S.R.A : - Service Régional de l'Archéologie, 
   (Direction Régionale des Affaires culturelles).
   
-(6) Rapport d'opération programmée du S.R.A. Prospection thématique - 
+**(6)** Rapport d'opération programmée du S.R.A. Prospection thématique - 
   Année 2013 -La sidérurgie en forêt de Bercé (Sarthe). 
   Morgan Choplin encadré par Cécile Le Carlier de Veslud (C.N.R.S.)
 
