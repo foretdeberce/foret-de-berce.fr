@@ -16,7 +16,7 @@ Elle est construite en lisière ouest au sein d’un hameau de quelques maisons.
 
 {{<figure src="/images/articles/hutteries.jpg" title="Forestiers des Hutteries">}}
 
- ## Anecdotes liées au poste :
+ ### Anecdotes liées au poste :
   
 13 mars 1791 : Jacques COURCITTÉ y est en poste.
   
@@ -42,7 +42,7 @@ Avant la dernière guerre une pépinière est entretenue dans le terrain de la m
 En 1935, la maison est louée à un auxiliaire forestier, par bail de 9 ans au prix de 350 f/an.
 Des travaux sont programmés en août 1978. 
 
-Le garde Louis PIGAULT
+### Le garde Louis PIGAULT
      
      En 100 ans, de 1850 à 1950, plus de 130 Préposés 
      forestiers se sont côtoyés ou succédés et encore 
@@ -56,4 +56,7 @@ Le garde Louis PIGAULT
      
 {{<figure src="/images/articles/louispigault.jpg" title="Louis Pigault aux Hutteries">}}
 
+ ### Bibliographie :
+     
+ Revue Au Fil du Temps N° 22  - Pages 5 à 7 (Y. Gouchet - 12 -2003)    
 
