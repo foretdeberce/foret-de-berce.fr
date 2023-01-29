@@ -23,7 +23,7 @@ il est le seul sur Bercé à exposer sa défense au travers du livret journalier
 au grand dam de ses supérieurs. Ainsi puis-je en toute quiétude d’esprit, 
 exposer ces faits qui nous renvoient un siècle auparavant.
  
-De santé fragile 
+### De santé fragile 
  
 Tombant  malade à la chambre le 17 février 1902, il se remet petit à petit de cette
 infortune écrivant à qui veut le lire en septembre de cette même année : 
@@ -68,7 +68,7 @@ La semonce ne se fait pas attendre :
   
 * Le garde CESARI a quitté son poste dans la journée du 2, sans autorisation
   – Vu par les agents en tournée – Bercé, le 3 Juin 1904.    
-				Signé : le garde général HERMIER et l’inspecteur ROULLEAU
+Signé : le garde général HERMIER et l’inspecteur ROULLEAU
 
 
 Mais il en faut plus pour  démonter Jean Toussaint CESARI, et celui-ci de
@@ -87,33 +87,34 @@ A cette nouvelle déconvenue, CESARI réitère sans aucun complexe :
 * Nous sommes toujours indisposé par un prurigo, la marche nous gêne et nous sommes arrivé en retard au rendez-vous qui se trouve à une dizaine de kilomètres de notre domicile et à 7 h 30 du matin ; en outre notre montre nous a trompé  de 10 minutes*.
 (En marge, est noté au crayon de papier ces quelques mots : les réflexions ne doivent pas être portées sur le livret.)
   
-  {{<figure src="/images/articles/cesari3.jpg" title="Un de ces rendez-vous">}}  
+{{<figure src="/images/articles/cesari3.jpg" title="Un de ces rendez-vous">}}  
 
 Trop c’est trop, la coupe est pleine, la punition tombe telle un couperet sous la forme d’un : 
-      Procès verbal d’enquête établis les 6 et 10 juin 1904
+        Procès verbal d’enquête établis les 6 et 10 juin 1904
     	- Considérant qu’en 1903 le garde CESARI avait reçu des observations
-      de son chef de cantonnement pour avoir quitté sans autorisation sa
-      brigade afin de rejoindre les élèves de l’Ecole des Barres  en tournée
-      sur Bercé.
+        de son chef de cantonnement pour avoir quitté sans autorisation sa
+        brigade afin de rejoindre les élèves de l’Ecole des Barres  en tournée
+        sur Bercé.
     	- Considérant qu’en 1904, alors qu’il se dit malade et que par suite
-      ses chefs n’exigent de lui qu’un service singulièrement réduit,
-      - Considérant disons-nous qu’il a de nouveau, pour la même cause et
-      sans apparence d’autorisation, quitté son poste et sa brigade.
-      - Considérant que certaines de ses allégations consignées au procès
-      verbal d’enquête ont été trouvées mensongères.
+        ses chefs n’exigent de lui qu’un service singulièrement réduit,
+        - Considérant disons-nous qu’il a de nouveau, pour la même cause et
+        sans apparence d’autorisation, quitté son poste et sa brigade.
+        - Considérant que certaines de ses allégations consignées au procès
+        verbal d’enquête ont été trouvées mensongères.
     	- Considérant que son service laisse toujours à désirer et que 
-      l’indulgence dont ont fait preuve les soussignés à propos de
-      l’enquête du 7 mars dernier est restée inefficace. 
-	    - Décide : La peine de blâme avec publicité dans les 2 brigades, 
-      est infligée au garde domanial CESARI J.T. au triage n°7 du 
-      cantonnement d’Ecommoy.
-	    Le procès verbal d’enquête a été porté avec les propositions du
-      soussigné à la connaissance de l’administration supérieure.
-			Le Mans le 27 juin 1904, signé ROULLEAU.
+        l’indulgence dont ont fait preuve les soussignés à propos de
+        l’enquête du 7 mars dernier est restée inefficace. 
+	- Décide : La peine de blâme avec publicité dans les 2 brigades, 
+        est infligée au garde domanial CESARI J.T. au triage n°7 du 
+        cantonnement d’Ecommoy.
+	Le procès verbal d’enquête a été porté avec les propositions du
+        soussigné à la connaissance de l’administration supérieure.
+	
+	Le Mans le 27 juin 1904, signé ROULLEAU.
  
 Rien ne va plus pour Jean-Toussaint, son service se relâche, de même le
   respect dû au brigadier, qui n’est plus mentionné comme à l’accoutumée 
-  avec un « B » majuscule.
+  avec un **B** majuscule.
   
         Les phrases jalonnant le livret, durant l’été 1904 :
 	« remarqué qu’on avait encore coupé de l’herbe ou fait le guet
@@ -182,9 +183,9 @@ Dans ses tournées le garde doit toujours avoir son livret,
   
 	CESARI note peu de temps après sur son livret ce qui suit :
   
-## Procès verbal d’enquête en date des 12 et 21 décembre 1904 :
+### Procès verbal d’enquête en date des 12 et 21 décembre 1904 :
  
-    	- Considérant que ce préposé, qui avait été le 8 décembre à Château-du-Loir
+    - Considérant que ce préposé, qui avait été le 8 décembre à Château-du-Loir
       à 9 Km de sa résidence avec la permission de ses chefs, n’avait que faire 
       d’y retourner le 10 ; 
     • qu’il y est cependant retourné abandonnant ainsi son service qu’il venait
@@ -209,7 +210,8 @@ Dans ses tournées le garde doit toujours avoir son livret,
       n’a porté aucun fruit et que les observations dressées sont restées
       sans effet.
       - Décide d’une retenue de 5 Jours infligée au garde CESARI.
-			                 Le 26 décembre 1904 – ROULLEAU
+	
+	                 Le 26 décembre 1904 – ROULLEAU
  
 
 {{<figure src="/images/articles/roulleau.jpg" title="L’inspecteur René Roulleau de la Roussière">}}
@@ -219,7 +221,8 @@ Dans ses tournées le garde doit toujours avoir son livret,
 Ces procès-verbaux d’enquêtes minent la santé du fier CESARI, allant jusqu’à lui déclencher
   quelques aigreurs d’estomac. De violentes douleurs rhumatismales le paralysent. 
   
-Le 4 mars 1905, le médecin constate que CESARI est atteint de neurasthénie et de troubles
+Le 4 mars 1905, 
+le médecin constate que CESARI est atteint de neurasthénie et de troubles
   gastriques et propose de l’hospitaliser dans une station balnéaire.
  « Dans ce cas nous avons dit à monsieur l’inspecteur que nous retirions
   notre demande de mise en disponibilité. 
@@ -234,7 +237,7 @@ Retourné le lendemain pour voir le médecin qui nous a promis d’envoyer
   aux eaux minérales au mois de juin*.
   
 
-     *18 mars 1905 : Le soir, été chez le brigadier demander si notre permission de 
+     "18 mars 1905 : Le soir, été chez le brigadier demander si notre permission de 
      24 heures était arrivée, puis comme elle ne l’était pas, nous nous sommes rendus
      à Ecommoy pour la demander à monsieur le garde général, 
      et comme il en était de même, tout en lui témoignant notre surprise et 
@@ -243,7 +246,7 @@ Retourné le lendemain pour voir le médecin qui nous a promis d’envoyer
      monsieur le conservateur et que nous étions disposé à nous rendre 
      à Alençon, si monsieur le garde général nous le permettait. 
      Mais il ne nous l’a pas permis.Nous avons exprimé ce désir maintes fois,
-     même avec monsieur l’inspecteur*.  
+     même avec monsieur l’inspecteur".  
   
    
 Face à ce paragraphe figurent trois points d’exclamation au crayon de bois, 
@@ -256,7 +259,7 @@ N’en pouvant plus de lutter contre une administration à ce point sourcilleuse
 
 {{<figure src="/images/articles/forcioli.jpg" title="Le député Corse Dominique  FORCIOLI">}}
 
-Et oh … miracle ! :  
+### Et oh … miracle ! :  
 
 Le 26 mars 1905 : 
 	
@@ -375,8 +378,13 @@ Il sera remplacé le 15 juillet 1905 par le garde Jules Henri BOUFET.
 	
 *Vu au départ du garde CESARI*.
 Signé : le garde général HERMIER
+	
+	
+### Bibliographie : 
+	
+Revue Au Fil du Temps N° 24 & 25 - Pages  diverses     (Y. Gouchet - 06 & 10 – 2004)
  
-*Propos extraits des livrets journaliers du poste des Profonds-Vaux (Archives O.N.F.)
+Propos extraits des livrets journaliers du poste des Profonds-Vaux (Archives O.N.F.)
  
  
  
