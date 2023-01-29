@@ -62,7 +62,7 @@ satisfaction des futurs utilisateurs de la forêt.
   
 ### Extraits des vieux registres
 
-### Pour une meilleure situation des lieux, voici une autre carte :
+***Pour une meilleure situation des lieux, voici une autre carte :***
  
  {{<figure src="/images/articles/cartedescarrieres002.jpg"  title="Carte de situation des carrières">}}
  
@@ -550,4 +550,4 @@ Archives et livrets d’ordres du massif forestier de Bercé
  
 photos Robert Calvel
  
-Revue au fil du temps n° 18 du 31 décembre 2002 et n°19 du 31 mars 2003.
+Revue au fil du temps n° 18 du 31 décembre 2002 et n°19 du 31 mars 2003 (Y. Gouchet).
