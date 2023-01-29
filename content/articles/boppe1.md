@@ -169,7 +169,12 @@ La méthode est sportive et efficace.
 
 {{<figure src="/images/articles/mauriceajam.jpg" title="Le député Ajam dans son bureau">}}
 
-L'inspecteur Viney nous relate l’histoire de cette parcelle des Clos vue 
+
+ ### Bibliographie :
+  
+  L'inspecteur Viney nous relate l’histoire de cette parcelle des Clos vue 
   par elle-même :
 
   [Mémoires d’une parcelle de la forêt de Bercé](/articles/pdf/closparviney.pdf)
+  
+  Bercé une Forêt d’exception  (Y. Gouchet - 2018)
