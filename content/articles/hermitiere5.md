@@ -126,9 +126,10 @@ Il ne peut être fait d’autres compromis car cela n’irait pas
 [Devenir prochain de l’Hermitière](/articles/pdf/exploitationsforestieres202210.pdf)
 
 ### Site de l’Hermitière
-  (compte rendu de l’étude de juin 2014)
   
-### Eléments remarquables de biodiversité 
+**(compte rendu de l’étude de juin 2014)**
+  
+Eléments remarquables de biodiversité 
 
 -	Futaie de chêne de 190 ans.
 -	Vallon fermé avec humidité importante. 
@@ -189,3 +190,9 @@ Cette espèce relativement rare n’a été trouvée qu’en très
   -Etude entomo en cours sur les coléoptères saproxyliques
 (2 polytraps) Sont ciblés les coléoptères circulants en vol (40 à 75% des échantillons). 
 Le principe en est un piège-vitre, ou piège-fenêtre pour intercepter les insectes en vol.
+  
+### Bibliographie : 
+  
+Archives O.N.F et diverses associations.
+  
+Revue Au Fil du Temps N° 32 du  06 – 2006 - Page 18 (Y. Gouchet)
