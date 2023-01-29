@@ -23,7 +23,7 @@ et des Carnutes, forêts noires et impénétrables.
   
 {{<figure src="/images/articles/carte-cesar.jpg" title="Situation du camp de César">}}
 
-## Au moyen-âge 
+### Au moyen-âge 
 
 *«Elle était sans doute un de ces massifs à peu près inexplorés, toujours presque vierge,
   ou Charlemagne allait peut-être chasser.»* 
@@ -33,7 +33,7 @@ A l’image de la description faite par POTEL en 1923 dans son ouvrage sur la fo
 {{<figure src="/images/articles/moyenage.jpg" title="Une forêt hors axes de circulation">}}
 
 
-## 1669
+### 1669
 
 {{<figure src="/images/articles/plan-de-berce-en-1669.jpg" title="Plan de Bercé en 1669">}}
 
@@ -93,7 +93,7 @@ Nous ne sommes pas encore à l’ère industrielle et la sylviculture est encore
 
 
 
-## 1783
+### 1783
 
 Mais ce n'est que 114 ans plus tard que l’on se souciera de construire à Bercé 
   un réseau routier cohérent et digne de ce nom. 
@@ -129,7 +129,7 @@ Certains ronds se trouveront ainsi décalés par rapport aux carrefours anciens,
 {{<figure src="/images/articles/croixmarconnay.jpg" title="Les deux ronds de Croix-Marconnay">}}
 
 
-## 1789
+### 1789
 
 A la révolution, si les routes sont apparemment ouvertes, elles ressemblent bien souvent 
   à des lignes étroites en terrain naturel, allant par monts et par vaux, ignorant 
@@ -188,7 +188,7 @@ Déclarée d’utilité publique cette voie (le futur C.D.13) sera créée dès 
      général des forêts, les utilisateurs et voituriers furent
      soumis à une prestation d'entretien de trois jours sur ces routes.
 
-## 1843
+### 1843
   
 Sous Napoléon III, le chantre de la modernité l'arpentage 
   du troisième aménagement est confié à Wautot.
@@ -244,7 +244,7 @@ Les routes forestières ne sont en effet plus adaptées à cette ère moderne :
 
 C’est en 1850 que la France atteindra son plus faible taux de boisement. 
 
-## 1878
+### 1878
 
 Heintz, garde aux Boussions, signale 
  *« … l'entretien et le rechargement des routes déjà en place
@@ -348,13 +348,13 @@ A la fin de la guerre 39-45, deux bombes lâchées par un avion en perdition
   épargneront de peu la chaussée aux Forges et à la Croix-Marconnay, 
   sans faire de victimes mais beaucoup de bruit. 
 
-
 En 1947, depuis le dernier aménagement de 1911, 6400 m de routes ont été créés. 
 Après guerre, l’intensification des empierrements est de rigueur. 
   
-Roger Vercel s’extasiait devant les allées forestières de Bercé, allant jusqu’à écrire :
+**Roger Vercel**
   
- *« … je puis proclamer qu’il n’existe nulle part de plus majestueuses, 
+s’extasiait devant les allées forestières de Bercé, allant jusqu’à écrire :
+  *« … je puis proclamer qu’il n’existe nulle part de plus majestueuses, 
   de plus nobles avenues sylvestres que les nôtres! »*.
 
 {{<figure src="/images/articles/alcide.jpg" title="Ballade dominicale de la famille Dupré">}}
@@ -457,7 +457,7 @@ Les ramasseurs de champignons l’ont adoptée, mais en trop grand nombre,
     Berme : Partie enherbée du bord de la route. 
 
 
-## Les accidents 
+### Les accidents 
 
 Mais avec la vitesse, les accidents se multiplient.
 
@@ -489,3 +489,4 @@ Archives O.N.F. livrets journaliers des préposés des deux brigades
   
 GALLICA : Archives Départementales de la Sarthe.
 
+Revue Au Fil du temps N°10 à 13 - Pages diverses (Y. Gouchet - 2000/2001)
