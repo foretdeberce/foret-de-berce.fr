@@ -16,7 +16,7 @@ Voici la liste des forestiers ayant occupé cette maison forestière :
 
 {{<figure src="/images/articles/etangs.jpg" title="Forestiers des Étangs">}}
 
-Anecdotes lièes au poste :
+### Anecdotes lièes au poste :
   
 BENOIT (Laurent Eugène) né le 1er août 1874 à Pruillé-l’Éguillé, est décédé au poste en juin 1922. 
 Le garde GUIOMARD fait partie du corps des chasseurs forestiers qui a servi durant la grande guerre.
@@ -53,8 +53,8 @@ Afin de retenir les jeunes forestiers, une programmation de rénovation des mais
   
 {{<figure src="/images/articles/etangs1977.jpg" title="Création de l’agrandissement">}}
   
-            Photo ci-dessus prise à l’hiver 1975/1976 :
-            Père et fils ORLANDINI de Jupilles, en couverture sur le toit de l’extension. 
+Photo ci-dessus prise à l’hiver 1975/1976 : Père et fils ORLANDINI de Jupilles, 
+  en couverture sur le toit de l’extension. 
 
 « Durant la rénovation, j’émigre là où je trouve de la place à savoir :
   d’avril à décembre 1976 sur Thoiré au « Vau-Thierry », 
@@ -62,8 +62,10 @@ Afin de retenir les jeunes forestiers, une programmation de rénovation des mais
   enfin du 20 mai au 15 août 1977 au « Pavillon de Bercé », 
   tout en participant aux travaux de gros œuvre. » 
   
-  13 septembre 1977 : Arrivée du téléphone. 
+13 septembre 1977 : Arrivée du téléphone. 
   
 {{<figure src="/images/articles/etangs3.jpg" title="Les Étangs en 1991">}}
   
-
+### Bibliographie : 
+  
+Revue Au Fil du Temps N°  22 - Pages 5 à  7 (Y. Gouchet - 12 -2003)
