@@ -305,5 +305,10 @@ La remise aux Domaines pour vente sera réalisée en mai 1998.
   
 
 {{<figure src="/images/articles/pavillon2.jpg" title="Le pavillon aujourd'hui">}}
+	
+### Bibliographie :
+	
+Revue Au Fil du Temps N° 23 - Pages  4 à 6 (Y. Gouchet - 03-2004)
+
 
 
