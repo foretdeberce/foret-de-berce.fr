@@ -5,9 +5,9 @@ draft: false
 description: "Ce site est dédié au livre “Bercé, une forêt d'exception“, écrit par Yves Gouchet, paru le 6 Juin 2018 aux éditions de l'Étrave"
 featured_image: '/images/chene-muriel.jpg'
 ---
-{{<figure src="/images/articles/livre-berce-une-foret-d-exception.jpg" title="Bercé, une forêt d'exception écrit par Yves Gouchet, paru le 06/06/2018 aux éditions Étrave">}}
 
-## Un livre
+
+### non pas un livre mais deux !
 
 De tout temps, les hommes et les femmes ont trouvé refuge,
   source d’énergie et nourriture en forêt de Bercé.
@@ -26,8 +26,25 @@ Bercé, la discrète et la prestigieuse,
 
 ## Bercé livre ses secrets 
   
+Un premier ouvrage avait vu le jour en 2002, coopté par le club 
+  d’Histoire Locale de Lucé-Bercé et sa revue 
+  trimestrielle « Au Fil Du Temps ».
+  
+{{<figure src="/images/articles/lemassifforestierdeberce.jpg" title="Le premier ouvrage sorti en 2002">}} 
+
+Cet ouvrage paru aux éditions Alan Sutton dans la collection
+  mémoire en images, détaillait le côté visuel de l’histoire 
+  de la forêt de Bercé, présentant nombre de photographies et
+  cartes postales anciennes, accompagnées d’un court texte. 
+  
+ *Cet ouvrage est aujourd’hui épuisé.*
+  
+  
  L’ONF et l’ensemble des acteurs de la démarche territoriale 
-  **Bercé Forêt d’Exception** ont soutenu dès 2016 la sortie de cet ouvrage dédié.
+  **Bercé Forêt d’Exception** ont soutenu dès 2016 
+  la sortie d'un deuxième ouvrage dédié au Massif de Berce.
+  
+{{<figure src="/images/articles/livre-berce-une-foret-d-exception.jpg" title="Bercé, une forêt d'exception écrit par Yves Gouchet, paru le 06/06/2018 aux éditions Étrave">}}
 
 L'action était inscrite au sein du livret
   
