@@ -244,7 +244,7 @@ Aux trois repas, chacun coupait du pain comme il l'entendait dans son écuelle,
 1794-1795
   
 Jean TERMEAU, meunier du Moulin-Neuf à Marigné, poursuivi pour avoir établi un 
-  atelier de scieurs de long qu'il alimentait avec les bois de la forêt (f° 7). (1)
+  atelier de scieurs de long qu'il alimentait avec les bois de la forêt (f° 7).**(1)**
   
  {{<figure src="/images/articles/sdl5.jpg"title="Ils ne sont pas tous revenus">}}
 
