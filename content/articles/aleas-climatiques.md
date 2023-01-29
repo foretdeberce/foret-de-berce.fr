@@ -356,4 +356,8 @@ Là…. Nous ne sommes plus dans l’ère de « l’a peu près…».
 
  
 ### Bibliographie :
-Archives et vieux registres journaliers de l’administration des Eaux et forêts, annotés par les préposés.
+  
+Archives et vieux registres journaliers de l’administration 
+  des Eaux et forêts, annotés par les préposés.
+  
+Revue Au Fil du Temps N°  56 & 57 Pages  diverses (Y. Gouchet - 07 & 10 -2012)
