@@ -295,7 +295,11 @@ Plusieurs personnes se plaignent des trop  grands prélèvements de cervidés.
 ### Bibliographie :
           
 Sports à Paris  par Albert de Saint-Albin (1889) 
+ 
 Gallica.bnf.fr 
+ 
 Archives parues dans la revue d’histoire locale « Au Fil du Temps »
+ N°  62 - Pages  32 à  34   (Y. Gouchet - 01 – 2014)
+ 
 Livrets journaliers des divers préposés de Bercé.
  
