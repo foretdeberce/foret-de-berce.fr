@@ -148,7 +148,7 @@ Une réhabilitation du site a été réalisée conjointement avec l’O.N.F. et 
 
 {{<figure src="/images/articles/souvenir2011.jpg"  title="Le pied de la croix vient de lâcher !">}} 
 
-## Autres Martyrs : 
+### Autres Martyrs : 
       
 lors des guerres 14/18 et 39/45 
          
@@ -187,6 +187,8 @@ Il n’est bien sûr pas question dans ce compte rendu de la Route Mendès
 Ni du chêne au commis Muriel bien postérieur à cette note, 
 mais qui rajoute à une liste déjà longue deux autre martyrs.
  
-
+### Bibliographie :
+         
+Revue Au Fil du Temps N° 33 - Pages 35 à  37 (Y. Gouchet - 09–2006)
 
 
