@@ -11,7 +11,7 @@ tags: ["Exploitation","Travaux","Hommes","Bucherons"]
  ### L'éhouppeur ou émondeur
   
 C’est la profession la plus exposée. Imaginez-vous grimper à 25 ou 30 m du sol avec votre matériel, 
-  et du haut, entreprendre à la hache, l’abatage (1), tout en prenant soin de votre équilibre. 
+  et du haut, entreprendre à la hache, l’abatage **(1)**, tout en prenant soin de votre équilibre. 
   
 {{<figure src="/images/articles/ehoup3.jpg" title="Éhouppeurs de la scierie Berger de Marigné-Laillé">}}
   
@@ -37,7 +37,7 @@ Sur la photo ci-dessus, Auguste RAMAUGÉ aidé d'un autre éhouppeur, ce vendred
   gros qu’ils ont dû monter à deux pour l’étêter.* 
   (Photo Albert Leclercq)
   
-## Les accidents
+### Les accidents
   
 Cette profession, aristocratie du bûcheronnage a humainement, fortement payé sa dîme.
   
@@ -56,8 +56,7 @@ En 1912 Thiodet a eu la main coupée par la hache de son comparse.
  le soir tout le monde se mettait à faire des sabots.* 
    (Paulette Berthelon)
   
-  *Mais avec le secours mutuel, la solidarité n'a jamais été un vain mot sur Jupilles.* 
-  
+*Mais avec le secours mutuel, la solidarité n'a jamais été un vain mot sur Jupilles.* 
 Témoignages de Marcel Perroux.
 
     
@@ -65,7 +64,7 @@ Témoignages de Marcel Perroux.
   
 Habitant à Saint Pierre, il travaillait pour la Maison Berger (1940-1960)
   
-  *Dans les derniers jours qu’il avait à faire, avant sa retraite, 
+*Dans les derniers jours qu’il avait à faire, avant sa retraite, 
   sa corde était un peu juste et voulant passer un gros collet, 
   le nœud de celle-ci  s’est démanché et l’éhouppeur est tombé*
     
@@ -73,7 +72,7 @@ Habitant à Saint Pierre, il travaillait pour la Maison Berger (1940-1960)
   
 Dans les années 1959/60, il répondait au surnom de Badel « dit Pas d’Ailes ».
   
- *En émondant à la hache  la tête d’un chêne par temps brumeux, il fut trahit,
+*En émondant à la hache  la tête d’un chêne par temps brumeux, il fut trahit,
   trop sûr de lui, par celle-ci qui  pivota subitement et ça l’a pris en descendant.
   « Étouffé » par les sangles, un autre émondeur l’a redescendu.*
   
@@ -85,7 +84,7 @@ Père à Jean-Pierre (Bûcheron et marchand de bois), il travaillait avec le Pè
   Compain. 
   Son décès eut lieu en 1974, dans le milieu de la parcelle 192 (parcelles aux malheurs): 
   
-  *C’était le 02/02 1974, il faisait un vent terrible, c’est le houppier d’un 
+*C’était le 02/02 1974, il faisait un vent terrible, c’est le houppier d’un 
   arbre voisin qui était déjà à terre qui d’une branche le blessa à mort.*
 
     
@@ -118,13 +117,12 @@ C’est Jean Chambon qui venait de perdre son épouse (dont le père avait rache
   guerre les crampons à Émile Vannier) et Édouard Guillier qui l’ont décroché car
   il n’y avait pas d’échelle assez grande pour le descendre de son arbre.
   
-
   
-  {{<figure src="/images/articles/photochesnier.jpg" title="On aperçoit l’encrage des pieds d’André dans le tronc">}}
+{{<figure src="/images/articles/photochesnier.jpg" title="On aperçoit l’encrage des pieds d’André dans le tronc">}}
 
 La cognée est encore du voyage au cas où...
 
-## Les incidents
+### Les incidents
   
 ### Vannier Émile :
   
@@ -256,7 +254,7 @@ Le voici dans ses œuvres, en décembre 1985 sur l’éhouppement
 {{<figure src="/images/articles/eluard3.jpg" title="Dans l'instant crucial">}}
   
 
-## Impressions 
+### Impressions 
   
 ### Témoignage d’Édouard Guillier
   
@@ -316,6 +314,7 @@ Pratiquée par l’éhouppeur, la sculpture d’émonde rend hommage
   au chantier ou arbre terminé. 
   
 Tombant avec la grume,  elle pourra être récupérée...ou pas.
+  
 ### Liste non exhaustive des ouvriers du bois jusqu’en 1970
   
 {{<figure src="/images/articles/listebucherons.jpg" title="Ouvriers bûcheurs jusqu’en 1970">}}
@@ -330,6 +329,8 @@ Une part importante des chênes de qualité et des hêtres au feuillage trop imp
 
 ### Référence :
   
-  (1) l'inspecteur Viney avait lui aussi pris l'habitude d'orthographier
+**(1)** l'inspecteur Viney avait lui aussi pris l'habitude d'orthographier
   le mot "abattage" avec un seul "t" pour se démarquer de la boucherie!
+  
+Bercé une Forêt d’exception  (Y. Gouchet - 2018)
   
