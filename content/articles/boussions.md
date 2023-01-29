@@ -12,7 +12,7 @@ tags: ["Forestiers","MF"]
 La précédente batie selon les préceptes de l'époque en 1814,
 présentait quelques désordres qui auraient alourdi sa rénovation. 
 
-## Voici la liste des forestiers ayant occupé cette maison forestière :
+### Voici la liste des forestiers ayant occupé cette maison forestière :
 
 {{<figure src="/images/articles/boussions.jpg" title="Forestiers des Boussions">}}
   
@@ -21,10 +21,11 @@ elle jouit de part sa situation d’un environnement ensoleillé.
 
 Une autre habitation la jouxte en lisière.
 
-## Anecdotes liées au poste 
+### Anecdotes liées au poste 
   
 17 février 1770 :
-  « Étienne HOUSSEAU, laboureur, se plaint que 
+  
+  *« Étienne HOUSSEAU, laboureur, se plaint que 
   “… passant le 30 janvier dernier sur les cinq heures du soir en la forêt de Bercé
   pour se rendre en sa maison au lieu des Boussions, paroisse de Thoiré, il eut le
   malheur d'y rencontrer dans le canton dudit lieu des Boussions le dit VARLIN 
@@ -34,10 +35,10 @@ Une autre habitation la jouxte en lisière.
   et l'eût peut-être dévoré, sans que le dit VARLIN, ému des cris que le dit 
   HOUSSEAU fit, rappela son dit chien“... Le garde répond que les blessures 
   étaient insignifiantes, que la plainte a été déposée uniquement en vengeance
-  d'un procès-verbal dressé par lui. Le tribunal ordonne une enquête. » (1)
+  d'un procès-verbal dressé par lui. Le tribunal ordonne une enquête. »* **(1)**
    
  Le garde CARPENTIER, est né à Cormeilles (Oise). Le 13 décembre 1844 il subit,
-  sur le territoire forestier de Thoiré, une tentative d’« afsafsinat » par un
+  sur le territoire forestier de Thoiré, une tentative d’*afsafsinat* par un
   délinquant surpris en flagrant délit. Jean Baptiste CARPENTIER a reçu à la 
   figure un violent coup de serpe qui lui a coupé la joue droite, fendu le nez
   et attaqué l’œil gauche. Dans cette regrettable affaire, M. le maire de 
@@ -52,9 +53,10 @@ Une autre habitation la jouxte en lisière.
   à la M.F. du Buisson, en Perseigne. 
 
    
-28 décembre 1868, note de LEROUX : « Mr. le sous -inspecteur est venu chez moi
+28 décembre 1868, note de LEROUX : *« Mr. le sous -inspecteur est venu chez moi
   pour mentionner les dégâts ou réparations à faire à la M.F. qui seraient 
-  susceptibles d’être imputés à mon compte. » LEROUX profitera le 27 janvier 1870 
+  susceptibles d’être imputés à mon compte. »*
+  LEROUX profitera le 27 janvier 1870 
   d’une permission de 8 jours pour se marier, deviendra brigadier fin 1872 et
   sera enterré à Pruillé-l’Éguillé le 18 mai 1874.
   
@@ -70,6 +72,7 @@ Réparations effectuées en septembre 1876,
 {{<figure src="/images/articles/anciens-boussions.jpg" title="Ancienne maison forestière des Boussions">}}
   
 Alfred JOUAUX appartient au corps des chasseurs forestiers,
+  
   il se rend le 7 août 1914 au camp de Sainte-Maure, mais il est renvoyé à son 
   poste le 20 juin 1915, car il est âgé de plus de 45 ans. 
   7 octobre 1915, incendie à la maison forestière : « le soir entre 6h et 6h30,
@@ -82,7 +85,8 @@ Alfred JOUAUX appartient au corps des chasseurs forestiers,
   y travailleront. 
   « À Saint Calais le 12 novembre pour toucher ma prime d’assuré pour incendie. »
   
-Pierre RIMASSON et Marie ont en 1936, pour berger CHALIGNÉ William (né en 1922) 
+Pierre RIMASSON et Marie.
+  Ils ont en 1936, pour berger CHALIGNÉ William (né en 1922) 
   et pour fille Aline dont la passion est l’élevage des "p’tits chiens". 
   Elle se maria avec Jean LACHIVER forestier à la Fresnaye-sur-Chédouet dont le père André,
   lui-même forestier occupait le poste de Saint-Rigomer-des Bois. 
@@ -95,7 +99,7 @@ Pierre RIMASSON et Marie ont en 1936, pour berger CHALIGNÉ William (né en 1922
   
 {{<figure src="/images/articles/20171018boussions.jpg" title="Maquette des Boussions">}}
   
-  Gaston Fivaz, (forestier centenaire) nostalgique des Boussions a réalisé cette maquette.
+Gaston Fivaz, (forestier centenaire) nostalgique des Boussions a réalisé cette maquette.
   
 Le 26 septembre 1955 : Arrivée de l’électricité au poste des Boussions. 
   L’administration ayant fait place au jeune ONF, la modernisation s’intensifie. 
@@ -108,6 +112,7 @@ Le 26 septembre 1955 : Arrivée de l’électricité au poste des Boussions.
   
 ### Références : 
   
-     (1)	Inventaire sommaire des archives départementales de la Sarthe 
+**(1)**	Inventaire sommaire des archives départementales de la Sarthe 
   antérieures à 1790 série B.(f° 9-ADS-actes - 7 M 402
     
+Revue Au Fil du Temps N° 22  de décembre 2003 - Pages  5 à 7 (Y. Gouchet)
