@@ -11,7 +11,8 @@ tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques","Armement","M
 LES ÉCOLES FORESTIÈRES ET BERCÉ
 ….Une grande complicité ……….
 
-## E.N.E.F: (créé en 1823)
+### E.N.E.F: (créé en 1823)
+
 L’École Nationale des Eaux et Forêts (située à Nancy) 
 fut La première à étudier Bercé Le 26 mai 1875 :
 «  Visite ce jour de Mr. Le directeur de L’E.N.E.F., 
@@ -26,7 +27,8 @@ et de  Mr.  l’inspecteur des  Finances  ».
  
 [Étudiants ENEF de 1861-1863](/articles/pdf/elevesenef.pdf)
 
-## E.D.B. : (ouverte en 1884)
+### E.D.B. : (ouverte en 1884)
+ 
 L’École Secondaire d’Enseignement Professionnel
 des Barres (située à Nogent Sur Vernisson - Loiret) 
 forme des Officiers non brevetés, issus du rang des préposés. 
@@ -59,24 +61,34 @@ de la part du parrain du chêne : Mr Boppe.
 
  
 Le protocole des visites est immuable.
-Les Officiers  et  Professeurs  logent  au Pavillon   de   Bercé   et   accessoirement   dans les  Hôtel Grimault (Château du Loir) St Hubert (Marigné)  Hôtel  de  France  (Ecommoy) – 
-on règle en 1925 :10fr la chambre d'Officier,  8fr celle des élèves) - Les élèves logent en Forêt : Loge de Croix  Marconnay ( 23-06-1902 ), puis à l’Hôtel St. Jacques (Jupilles) ou de nouveau à  St. Hubert.
+Les Officiers  et  Professeurs  logent  au Pavillon   de   Bercé   et   
+ accessoirement   dans les  Hôtel Grimault (Château du Loir)
+ St Hubert (Marigné)  Hôtel  de  France  (Ecommoy) – 
+on règle en 1925 :10fr la chambre d'Officier,  8fr celle des élèves) - 
+ Les élèves logent en Forêt : Loge de Croix  Marconnay ( 23-06-1902 ), 
+ puis à l’Hôtel St. Jacques (Jupilles) ou de nouveau à  St. Hubert.
 Le réveil de tout ce monde est assuré par les préposés. ...
 Les préposés sont en grande tenue.
 
 
 {{<figure src="/images/articles/honneur.jpg" title="Accueil de l'école forestière">}}
 
-1903 : Établissement par les Ouvriers d'abris en feuillage - Quelques familles forestières posent ici devant une Loge et sa pancarte indiquant « Honneur à l' École Nationale Forestière »
-(Photo Henri NÎQUEUX - MARIGNÉ)
+1903 : Établissement par les Ouvriers d'abris en feuillage - 
+ Quelques familles forestières posent ici devant une Loge et sa
+ pancarte indiquant « Honneur à l' École Nationale Forestière »
+ *Photo Henri NÎQUEUX - MARIGNÉ*
 
 
-Les jours de visite des élèves de Nancy, Le drapeau tricolore flotte au pavillon de la Huberdière et à la Tasse.
-En 1910, les « tapissières » tirées par des chevaux, le tramway (1924) puis les automobiles emmènent élèves et professeurs en forêt , formant une caravane précédée par le garde du triage en bicyclette.(2)
+Les jours de visite des élèves de Nancy, Le drapeau tricolore 
+ flotte au pavillon de la Huberdière et à la Tasse.
+En 1910, les « tapissières » tirées par des chevaux, 
+ le tramway (1924) puis les automobiles emmènent élèves
+ et professeurs en forêt , formant une caravane précédée 
+ par le garde du triage en bicyclette.
 
 {{<figure src="/images/articles/camusfelix.jpg" title="Félix Camus en 1925">}}
   
-     (2) BICYCLETTE 
+   
      Seul moyen de locomotion rapide, il 
      économise judicieusement les pieds du 
      garde qui doit se rendre au petit matin 
@@ -166,7 +178,7 @@ L’opération : «à l’École de la Forêt» lointaine descendante des ancien
 Depuis lors, bon  nombre d'Officiers Forestiers, 
 émaillent  de  Leurs  noms certains ronds, routes ou chênes remarquables.
 
-     Toponymie du XX° Siècle
+### Toponymie du XX° Siècle
 
      l - Rond et chemin de l' École Forestière de Nancy -
      Chêne BOPPE du nom du Directeur de    
@@ -217,7 +229,10 @@ Depuis lors, bon  nombre d'Officiers Forestiers,
  
 ### Sources : 
  
- (2) Gravure du départ des élèves à Nancy, extraite du livre :
+ **(1)** Gravure du départ des élèves à Nancy, extraite du livre :
  " Nos grandes écoles militaires et civiles" de Louis Rousselet 
  - Hachette 1888. 
- Et livrets journaliers des préposés des eaux et forêts de l’époque.
+ 
+Livrets journaliers des préposés des eaux et forêts de l’époque.
+ 
+Bercé une Forêt d’exception  (Y. Gouchet - 2018)
