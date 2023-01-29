@@ -17,7 +17,7 @@ Sa rénovation datait des années 1950. Vendue, elle a pris un tout autre visage
 
 {{<figure src="/images/articles/forges.jpg" title="Forestiers des Forges">}}
 
- ## Anecdotes liées au poste :
+ ### Anecdotes liées au poste :
 
 Pierre Jean VENOT 47 ans est né le 5 février 1822 à Le Froust - Saint-Nicolas-desBois,
 Orne et décéde le 24 juillet 1875 à Jupilles. Garde cantonnier sur Jupilles,
@@ -69,3 +69,6 @@ Les chefs VISAGE et PIE profiteront de la proximité de la forêt de Bercé à l
 L’installation de WC intérieur date du 9 octobre 1963, quand au chauffage central il sera installé le 27 juillet 1971. Le téléphone est monté en 1961. Une voiture est affectée au poste en 1967 (2cv). Des travaux auront lieu aux Forges en 1979. 
 En 2004 la maison est vendue à un lieutenant de Louveterie comme maison particulière.
 
+### Bibliographie : 
+     
+Revue Au Fil du Temps N°  22  de 12 -2003 - Pages 5 à  7   (Y. Gouchet)
