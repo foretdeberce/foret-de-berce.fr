@@ -6,6 +6,7 @@ description: "pour les maisons forestières"
 featured_image: "/images/tasse-chasse.jpg"
 tags: ["Forestiers","MF"]
 ---
+
 *« L'Administration des Forêts a toujours considéré la construction 
 de maisons forestières comme indispensable pour assurer, en même temps
 que la répression des délits, la surveillance incessante 
@@ -43,7 +44,7 @@ Et c’est donc sous la Restauration que la plus part de nos maisons
   
 Mais il fallait également les protéger des vents du nord.
   
-## Règles générales d’implantation 
+### Règles générales d’implantation 
   
 L'habitation pour la quelle était fourni un plan type, disposait impérativement
   d'un point d'eau : source, citerne, mare ou puits.
@@ -84,7 +85,7 @@ Des aménagements complémentaires étaient possibles,
   L’achat du Pavillon des officiers, en 1891 règlera définitivement 
   cet aspect d’une cohabitation pas forcement désirée.
   
-## Une administration paternaliste.
+### Une administration paternaliste.
   
 La maison forestière, administrativement, est un abri permettant 
   «…l'épanouissement de la vie familiale et l'accomplissement 
@@ -118,7 +119,7 @@ Dans cet ordre d'idées tout à fait paternaliste,
     vraiment pour y produire de quoi nourrir leur maisonnée, mais ces 
     prairies sont au tant de zones tampons servant de gagnage au grand gibier.
   
-## Des familles bien implantées :
+### Des familles bien implantées :
   
 {{<figure src="/images/articles/mf-carte.jpg" title="Maillage du territoire">}}
 
@@ -137,3 +138,7 @@ Dans cet ordre d'idées tout à fait paternaliste,
   nom qui s'inscrit en grosses lettres sur le front de celles-ci.
   Ces plaques de baptême en fonte, vissées au dessus de la porte d’entrée, 
   agissent sûrement beaucoup dans le charme que ces maisons des bois exercent sur tous ...  
+	
+### Bibliographie : 
+	
+Revue Au Fil du temps N° 22 - Pages 5 à  7 (Y. Gouchet - 12 -2003)
