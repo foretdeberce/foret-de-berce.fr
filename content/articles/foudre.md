@@ -293,9 +293,8 @@ Publicité prémonitoire en 1927 à Jupilles.
   Archives ONF, Cusenier, Wikipédia.
   
   Yves Gouchet : 
-  Revue  « au Fil du Temps » n° 53 page 16 à 18 (oct.2011) 
-  et n°54 pages 15 à 17 (janv.2012)
-  
+  Revue  « au Fil du Temps » n° 53 et 54 page diverses (oct.2011 - janv.2012) 
+   
 ### Iconographie :
   
   Photos Cusenier (Maison Byrrh, pour le reportage Photographique)
