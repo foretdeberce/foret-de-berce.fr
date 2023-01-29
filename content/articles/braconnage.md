@@ -53,7 +53,7 @@ Plus tard…couper une main était encore un châtiment courant.
 Tuer un cerf était passible de mort. 
 Sous Henri III (1551-1589), le seigneur abaisse une branche du haut de son cheval ; ses valets en font une « hart » on y enserre le cou du délinquant, et la branche se relève avec un fruit d’une toute nouvelle espèce. **(1)**
 
-**Bibliographie : (1)** Louis Saillant : Au pays du Maine - des gaulois à nos jours  (1 janvier 1934)
+
 
  {{<figure src="/images/articles/90jb1.jpg" title="Le braconnier">}}
 
@@ -745,7 +745,14 @@ Dans les années 1950 il y a surpopulation de lapins,
 
 {{<figure src="/images/articles/094b510.jpg" title="Pose des collets">}}
 
+23 mars 1953 :
 
+Goenvec rencontre M. le conservateur au rond de Croix-Marconnay.
+*« Il m’a demandé des renseignements sur les braconniers.
+  M. le Conservateur m’a conseillé de la prudence dans 
+  les patrouilles de nuit, autorisé d’apporter un chien,
+  et n'utiliser mon arme qu'au cas de légitime défense ».*
+	
 En 1959, l’on retrouve lors d’une perquisition chez certains 
   braconniers, de la viande dans une lessiveuse cachée sous 
   quelques fagots au fond du jardin. La peau de l’animal, 
@@ -807,13 +814,6 @@ Des anciens amis "braconniers" d’Yves Camisy, un seul est
   Le photographe écrira son mécontentement dans 
   le Maine-Libre, (signant M.M.) pour Michel Marc.*
  
-23 mars 1953 :
-
-Goenvec rencontre M. le conservateur au rond de Croix-Marconnay.
-*« Il m’a demandé des renseignements sur les braconniers.
-  M. le Conservateur m’a conseillé de la prudence dans 
-  les patrouilles de nuit, autorisé d’apporter un chien,
-  et n'utiliser mon arme qu'au cas de légitime défense ».*
 
  ### Parti pris de l’information :
 
@@ -847,8 +847,12 @@ Ce n’est donc pas catastrophique pour l’avenir,
   et plus proches de leur tablette.
 
 
-**Références :** 
+### Bibliographie : 
+	
+**(1)** Louis Saillant : Au pays du Maine - des gaulois à nos jours  (1 janvier 1934)
 Archives registres des Eaux et forêts - notes et témoignage de Robert Calvel.
   
-Un jeune braconnier surpris par un garde-chasse (gravure). 
-  D’après Maurice Engelhard, La chasse et la pêche, souvenirs d’Alsace, Paris, Berger-Levrault, 1888, p. 227. © BnF, Gallica.
+Un jeune braconnier surpris par un garde-chasse (gravure). D’après Maurice Engelhard, 
+La chasse et la pêche, souvenirs d’Alsace, Paris, Berger-Levrault, 1888, p. 227. © BnF, Gallica.
+	
+Revue Au Fil du Temps N°  47 & 48 - Pages diverses  (Y. Gouchet - 04 & 07-2010)
