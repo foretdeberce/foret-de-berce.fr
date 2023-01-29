@@ -120,6 +120,9 @@ signé : de Verely , (inspecteur des E & F au Mans)
 	constater que jusqu'à ce jour aucun d'eux ne s'est départi
 	du calme si nécessaire dans la répression des délits.*
 
+
+{{<figure src="/images/articles/repressionbraconnage1901.jpg" title="Type de récompense attribuée aux gardes valeureux">}}
+	
 PROCÈS VERBAUX & MISE EN GARDE
 
 ### Juin 1902 
