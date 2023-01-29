@@ -7,7 +7,6 @@ featured_image: "/images/et.reine-mere.jpg"
 tags: ["Sources","Fontaines","Hommes"]
 ---
 
-
 "Queen Mum" Élizabeth au pays de Lucé
 
 Le 14 juin 1984, lors de sa venue au Haras du Pin et au Lude,
@@ -45,3 +44,9 @@ C'était en quelque sorte, en ce jour, pour la couronne Anglaise,
          sa fille cadette,la princesse Margaret.
   
 {{<figure src="/images/articles/queenmum.jpg" title="Signature du livre d’or">}}
+
+### Bibliographie :
+  
+Revue Au Fil du temps N° 16 - Page 23  (Y. Gouchet - 06 – 2002) 
+
+ 
