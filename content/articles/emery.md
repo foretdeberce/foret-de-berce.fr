@@ -69,7 +69,7 @@ Il  décède à Dijon…
 
 {{<figure src="/images/articles/cochardemery.jpg"  title="Fève de la Boulangerie Cochard">}}
 
-## Le Chêne Émery 
+### Le Chêne Émery 
 
 En décembre 1929 les forestiers recherchent activement 
   parmi les arbres ayant une circonférence supérieure à 3,30 m.
@@ -132,3 +132,7 @@ Le brigadier des Eaux et forêts - Signé : *Lebouleux*
 {{<figure src="/images/articles/emerygouchet.jpg"  title="En toute majesté">}}
   
 {{<figure src="/images/articles/emeryjeroen.jpg"  title="Au fil des saisons">}}
+
+### Bibliographie :
+     
+Bercé une Forêt d’exception  (Y. Gouchet - 2018)     
