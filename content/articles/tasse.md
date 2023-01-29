@@ -17,7 +17,8 @@ Ses rénovations datent des années 1950 et 1980.
 
 {{<figure src="/images/articles/tasse.jpg" title="Forestiers de La Tasse">}}
 
- ## Anecdotes liées au poste :
+### Anecdotes liées au poste :
+     
 Dernière maison construite à Bercé (sous Napoléon III).
 Initialement prévue dans la pointe de la parcelle 91 (qui possédait une mare)
   elle fut construite à la limite des parcelles 54 et 55 situées en face, 
@@ -85,3 +86,4 @@ Mais la proximité de plus en plus bruyante de la nationale 138
   que se rapprocher d’une voie de circulation 
   de plus en plus passante et chargée en pollution. 
 
+Revue Au Fil du temps N° 22 - Pages 5 à 7 (Y. Gouchet - 12-2003)
