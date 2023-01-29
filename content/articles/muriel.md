@@ -51,114 +51,114 @@ Mesdames, Messieurs
 {{<figure src="/images/articles/image5.jpg" title="Jacques Chaumont, Michel Muriel et madame le Préfet">}}
 
 
-En forêt domaniale de Bercé, les chênes ne sont pas des arbres comme les autres.
+*En forêt domaniale de Bercé, les chênes ne sont pas des arbres comme les autres.
 Tels des géants, ils tiennent leur noblesse d'avoir été ensemencés, au cœur de 
   la forêt royale de Bercé, dans la futaie des Clos, vers 1650, au temps de Colbert 
-  et de Molière, mais aussi de la Fronde et de la guerre de Trente Ans.
+  et de Molière, mais aussi de la Fronde et de la guerre de Trente Ans*.
 
 {{<figure src="/images/articles/chene-muriel5.jpg" title="L’arbre élu">}}
 
-On dit qu'ils sont capables, pour peu que l'on sache le leur demander, conter l'Histoire 
-  de France, depuis Louis XIV jusqu'à nos jours.
+*On dit qu'ils sont capables, pour peu que l'on sache le leur demander, conter l'Histoire 
+  de France, depuis Louis XIV jusqu'à nos jours*.
   
-L'un d'entre eux se trouvait fort marri, à 350 ans, de ne pas avoir reçu de nom de baptême, 
-  à l'instar de ses illustres voisins, Boppe ou Roulleau de la Roussière.
+*L'un d'entre eux se trouvait fort marri, à 350 ans, de ne pas avoir reçu de nom de baptême, 
+  à l'instar de ses illustres voisins, Boppe ou Roulleau de la Roussière*.
   
-Il se confia aux agents de l'Office National des Forêts, qui décidèrent de lui donner 
+*Il se confia aux agents de l'Office National des Forêts, qui décidèrent de lui donner 
   le nom du commis forestier Georges France Muriel, exécuté au camp du Struthof dans
-  le Bas-Rhin le 1er septembre 1944. 
+  le Bas-Rhin le 1er septembre 1944*. 
   
-Né à Montsûrs dans la Mayenne le 30 septembre 1914, Georges France Muriel est le
+*Né à Montsûrs dans la Mayenne le 30 septembre 1914, Georges France Muriel est le
   fils de Léontine-Marie et de Louis, mort au combat dans les Flandres en mai 1915.
   Il fait ses études à Mamers, habite Le Mans où il épouse Arlette en juillet 1938.
-  Ils ont un fils Michel le 14 octobre 1942. 
+  Ils ont un fils Michel le 14 octobre 1942*. 
 
 {{<figure src="/images/articles/image3.jpg" title="Georges France en 1932 au jardin des plantes">}}
 
-Engagé volontaire au titre du  117ème régiment d'infanterie en garnison au Mans, 
+*Engagé volontaire au titre du  117ème régiment d'infanterie en garnison au Mans, 
   nommé sergent-chef le 10 février 1940, il est démobilisé le 9 août 1940 à Pierre 
   Buffière en Haute-Vienne. De retour dans ses foyers, il présente et réussit le 
-  concours de commis des eaux et forêts, et est affecté à l'inspection du Mans. 
+  concours de commis des eaux et forêts, et est affecté à l'inspection du Mans*. 
   
-Dans la France Occupée, les organisations de la Résistance se mobilisent. 
+*Dans la France Occupée, les organisations de la Résistance se mobilisent*. 
   
-Georges Muriel entre en septembre 1943 dans le service de renseignement "Alliance" 
-  qui fonctionne depuis l'automne 1940. 
+*Georges Muriel entre en septembre 1943 dans le service de renseignement "Alliance" 
+  qui fonctionne depuis l'automne 1940*. 
   
-Il est agent de renseignements et de liaison du secteur de Nantes.
+*Il est agent de renseignements et de liaison du secteur de Nantes*.
   
-Après la capture de ses initiateurs, c'est Marie-Madeleine Méric dite "Fourcade",
+*Après la capture de ses initiateurs, c'est Marie-Madeleine Méric dite "Fourcade",
   dite "Hérisson" qui assure la direction générale du réseau pendant toute la guerre. 
 Afin de brouiller leurs traces, les membres du réseau Alliance ne se connaissaient 
   en effet que sous des noms d'animaux. 
-  Pie, Hermine, Rossignol, Eléphant, faisant ... que les allemands les appelaient l'Arche de Noé". 
+  Pie, Hermine, Rossignol, Eléphant, faisant ... que les allemands les appelaient l'Arche de Noé"*. 
   
-L'Arche, forte de 3000 agents environ, répartis sur l'ensemble du territoire occupé
+*L'Arche, forte de 3000 agents environ, répartis sur l'ensemble du territoire occupé
   dans  des  secteurs géographiques au nom codé, tel "La Ferme" pour notre région, 
   a fourni aux Alliés des renseignements aussi précieux   que   l'existence   des   
   armes   secrètes, l'emplacement  de  leurs  rampes  de  lancement,  le mouvement 
   des escadrilles fascistes et des ravitailleurs allemands pendant la bataille du 
   désert, celui des U-Boot dans l'Atlantique, la carte complète des installations 
-  allemandes sur les plages de Normandie. 
+  allemandes sur les plages de Normandie*. 
   
-Le Général de Gaulle qualifia d'ailleurs ce réseau de " l'un  des  premiers  et 
-  plus  importants  services  de renseignement sous l'Occupation ".
+*Le Général de Gaulle qualifia d'ailleurs ce réseau de " l'un  des  premiers  et 
+  plus  importants  services  de renseignement sous l'Occupation "*.
   
-Les informations étaient collectées par des patrouilles de 2 à 3 hommes et 
-  transmises par diverses voies. 
+*Les informations étaient collectées par des patrouilles de 2 à 3 hommes et 
+  transmises par diverses voies*. 
   
-Si vous le souhaitez, A 711, alias Stean, M. Deldicque, ici  présent,  
-  membre  de  ce  réseau,  pourra  vous  donner toutes informations tout à l'heure. 
+*Si vous le souhaitez, A 711, alias Stean, M. Deldicque, ici  présent,  
+  membre  de  ce  réseau,  pourra  vous  donner toutes informations tout à l'heure*. 
 
 {{<figure src="/images/articles/image12.jpg" title="Le commandant Deldique">}}
 
-Ces hommes, ces femmes, prenaient des risques considérables. 
+*Ces hommes, ces femmes, prenaient des risques considérables. 
 Ils le savaient.
 Ils avaient fait le choix de résister. 
 C'est ainsi que le 9 mars 1944, vers 11 h 30, dénoncé par un agent à la solde 
   de l'ennemi, Georges France Muriel, fut interpellé dans les locaux de l'inspection, 
   rue du Port, au Mans. 
 M. Viney, alors inspecteur et ses collègues de travail, dont plusieurs sont présents 
-  aujourd'hui, tentèrent, en vain, d'empêcher cette arrestation.
+  aujourd'hui, tentèrent, en vain, d'empêcher cette arrestation.*
   
   [Lettre de Viney à Madame Muriel](/articles/pdf/lettreviney19440309.pdf)
   
-Ils le virent partir, encadré par deux membres de la Gestapo.
+*Ils le virent partir, encadré par deux membres de la Gestapo*.
   
-Mme Letourneur se souvient même qu'il endossa alors un manteau neuf, 
-  et avoir pensé qu'ainsi, il aurait moins froid. 
+*Mme Letourneur se souvient même qu'il endossa alors un manteau neuf, 
+  et avoir pensé qu'ainsi, il aurait moins froid.* 
   
-Georges Muriel n'eut pas le temps de mettre en œuvre le plan de 
-  fuite par les toits, qu'il avait élaboré et testé. 
+*Georges Muriel n'eut pas le temps de mettre en œuvre le plan de 
+  fuite par les toits, qu'il avait élaboré et testé*. 
   
-Aucun de ses collègues ne le reverra,
+*Aucun de ses collègues ne le reverra,
 Aucun de ses proches ne l'étreindra plus,
 Son fils Michel ne le connaîtra pas,
-Ni ses petits-enfants : Armelle, Anne-Lise et Alexis.
+Ni ses petits-enfants : Armelle, Anne-Lise et Alexis*.
   
-En effet, en application d'une ordonnance personnelle d'Hitler,  
+*En effet, en application d'une ordonnance personnelle d'Hitler,  
   les  agents  de  certaines  organisations  de  la Résistance faits
-  prisonniers, dont le réseau Alliance, furent classés "Nacht und Nebel".
+  prisonniers, dont le réseau Alliance, furent classés "Nacht und Nebel"*.
   
-Ces hommes et ces femmes devaient disparaître comme s'ils s'étaient évanouis
-  dans la nuit et le brouillard. 
+*Ces hommes et ces femmes devaient disparaître comme s'ils s'étaient évanouis
+  dans la nuit et le brouillard*. 
   
-Après l'internement à Fresnes, s'ensuivit pour les prisonniers de l'Alliance, 
-  la détention dans les prisons du pays de Bade ou au camp de Schirmeck.
+*Après l'internement à Fresnes, s'ensuivit pour les prisonniers de l'Alliance, 
+  la détention dans les prisons du pays de Bade ou au camp de Schirmeck*.
   
  
  {{<figure src="/images/articles/image13.jpg" title="Photos anthropométrique du dossier Muriel">}}
 
-Georges Muriel s'y trouvait lui-même à la fin du mois d'août 1944 alors que l'avance 
+*Georges Muriel s'y trouvait lui-même à la fin du mois d'août 1944 alors que l'avance 
   très rapide des Alliés laissait  augurer aux  détenus  qu'ils  pourraient  bientôt 
-  tourner cette sombre page de l'Histoire. 
+  tourner cette sombre page de l'Histoire*. 
   
    [Lettre de R.Viney à Madame Muriel](/articles/pdf/lettreviney19451007.pdf)
   
-Mais, dans les nuits du 31 août et du 1er septembre 1944, renonçant à tout faux-semblant
+*Mais, dans les nuits du 31 août et du 1er septembre 1944, renonçant à tout faux-semblant
   judiciaire, les nazis transfèrent les  prisonniers du  réseau, vers  le camp d'extermination
   tout proche du Struthof, les exécutèrent, vraisemblablement d'une balle dans la tête,
-  puis brûlèrent leurs corps. 
+  puis brûlèrent leurs corps*. 
 
 {{<figure src="/images/articles/image14.jpg" title="Le camp Alsacien du Struthof">}}
 
@@ -179,25 +179,25 @@ Le chêne, que nous avons dédié il y a quelques instants à Georges Muriel, et
   
 Avant  de  conclure,  je  voudrais  m'adresser  en particulier à Georges Muriel en ces termes :
   
-"Georges,
+*Georges,
 Vous avez fait le choix de résister vous avez fait le choix de faire couler les 
   larmes de votre mère, de votre femme et de votre fils,
-  pour que notre patrie recouvre sa liberté. 
+  pour que notre patrie recouvre sa liberté.* 
   
-Soyez  en  remercié  et  recevez  notre  éternelle reconnaissance !"
+*Soyez  en  remercié  et  recevez  notre  éternelle reconnaissance !"
 En dévoilant cette plaque, nous avons uni à jamais le destin d'un grand arbre à
   celui d'un grand homme, votre père Général Muriel, votre grand-père Armelle, 
-  Anne-Lise, et Alexis, votre arrière grand-père Julie et Axelle.
+  Anne-Lise, et Alexis, votre arrière grand-père Julie et Axelle.*
 
 {{<figure src="/images/articles/image6.jpg" title="Le chêne devenu Homme">}}
 
-Par ce geste, nous avons confié à cet arbre des moments douloureux de la vie de notre pays.
+*Par ce geste, nous avons confié à cet arbre des moments douloureux de la vie de notre pays.
 Oui, ces pages d'histoire, nous te les confions, à toi, noble chêne Muriel, rasséréné 
   aujourd'hui, à toi, qui t'es promis, tant que Dame Nature te prêtera vie, 
   de susurrer aux oreilles du Monde, des messages de Paix et d'Espoir. 
-Longue vie au chêne Muriel !
+Longue vie au chêne Muriel !*
   
-Vive la France !
+**Vive la France !**
 
 Par son sacrifice et par les services qu’il a rendus, Georges France Muriel
 a bien mérité de la Résistance et compte parmi les glorieux artisans de la victoire. 
@@ -249,7 +249,7 @@ Je voudrais tous Mesdames et Messieurs vous remercier de vous être déplacés p
   
 Dans cette fin d'hiver il est bon de jeter un œil en arrière pour mieux apprécier 
   ensuite la renaissance de la nature et de la vie.
-« Ceux qui ne tiennent pas compte de l'histoire sont condamnés à la répéter » (3).
+« Ceux qui ne tiennent pas compte de l'histoire sont condamnés à la répéter » **(3)**.
   
 Naturellement les forestiers s'intéressent à l'histoire. 
 Les Directeurs Régionaux de l'ONF se sont appelés longtemps Conservateurs des Eaux et forêts 
@@ -297,3 +297,5 @@ Références :
 (3)  Santayana (Philosophe américain d'origine ibérique)
  
 Dossier réalisé avec le concours du Général (cr) Muriel (son fils), de l’Amicale des anciens combattants et prisonniers de guerre de Pruillé-l’Éguillé, l’ONF et le secrétariat de la Préfecture : Arlette Chaligné.  
+  
+Revue Au Fil du Temps N° 15 & 17 - Pages diverses (Y. Gouchet - 2002)
