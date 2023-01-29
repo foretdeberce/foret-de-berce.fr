@@ -24,9 +24,9 @@ Voituriers, charretiers, fardiers, attelages, tous utilisent la plus
   belle conquête de l'homme, qui sera malheureusement, après-guerre,
   trop vite détrônée par le cheval-vapeur.
   
-## En 1905 
+### En 1905 
   
-  on pouvait compter sur le massif de Bercé : 
+  On pouvait compter sur le massif de Bercé : 
   68 chevaux, 42 fardiers, 29 diables…. 
   
  {{<figure src="/images/articles/debardageboeuf.jpg" title="Exemple de bœufs en débardage dans une autre forêt">}}
@@ -43,11 +43,14 @@ Voituriers, charretiers, fardiers, attelages, tous utilisent la plus
 Mis en tas en bordure de chemin, les tas de bois, de fagots ou les grumes attendent
   ainsi d’être chargés par les rouliers qui les transportaient en ville
   ou sur les lieux  de vente. 
+  
 Nombreux au début du XXème siècle, les ateliers forestiers disparaissent 
   complètement après-guerre, avec la conjonction de plusieurs facteurs. 
   Vers les années 1850 le service forestier avait mis sur pied un vaste
   programme de construction de routes forestières qui ne fut que très
-  partiellement réalisé. Quelques années plus tard, le projet de 
+  partiellement réalisé. 
+  
+  Quelques années plus tard, le projet de 
   construction d'une voie entre brette-les-pins et Château-du-Loir 
   est à l'étude. Dès 1882 les premiers tramways à vapeur sillonnent 
   le département, mais certains, dont celui qui passe en forêt fut 
@@ -61,13 +64,16 @@ Nombreux au début du XXème siècle, les ateliers forestiers disparaissent
 Henri Thénaisie est né le 7 mai 1911 à Savigny- sur-Braye (Loir-et-Cher). 
 La famille habite Le Ronceray (1923) puis La Roche, sur la commune de Saint-Vincent-du-Lorouër. 
 Henri  mène la vie rude et austère du paysan l'été et du débardeur l'hiver.
+  
 De 1933 à 1957, la famille demeure à Jupilles  puis de 1957 à 1972 à Saint-Vincent. 
 Frère de Roger (15 ans plus jeune), Henri a toujours vouvoyé son père. 
 Il quitte l’école à 12 ans pour rejoindre son père au travail. 
 Afin de protéger ses reins, il portera toujours bien ligotée une ceinture de flanelle.
 Clément son père, est charretier propriétaire. 
+  
 En 1920 il avait un train de 4 chevaux et 2 limons, 
 tout comme Raymond Legeay *qui  savait moins bien y faire avec les chevaux *. 
+  
 Durant l’hiver après les ventes de bois (ventes qui avaient lieu à la Salle 
   des Concerts du Mans, jusqu’en 1979 puis à l'Abbaye de l’Épau par la suite),
   il aide son père à débarder puis transporter les arbres de la forêt 
@@ -166,13 +172,13 @@ Les chevaux et les hommes sont réquisitionnés
 Les chevaux du 3ème groupement forestier 
 pallieront l’absence des engins à moteur.
   
-## 1939
+### 1939
   
 La 15ème conservation devient le centre mobilisateur des bois de guerre n°15. 
 Toute l’énergie de l’administration consiste alors  dans la gestion du personnel,
   de la main d’œuvre, des scieries, mobilisables et réquisitionnables.
   
-## 1940
+### 1940
 
 {{<figure src="/images/articles/134.jpg" title="Le gazo de la maison Valentin  en 1940">}}
 
@@ -254,7 +260,7 @@ Lorsqu'un cheval tombe malade, on fait appel à un remplaçant en dépôt chez u
 
 {{<figure src="/images/articles/chevaux1942.jpg" title="Réquisition préfectorale des chevaux en 1942">}}
 
-(1)	Mélarde :
+**(1)**	Mélarde :
 *de l’Anjou au Vendômois, méteil de froment de mars et d’orge ou 
   d’avoine que l’on consommait les années de disette, 
   mais que l’on donnait surtout aux bestiaux* 
@@ -269,7 +275,7 @@ Le garde Thomas est en tournée dans les Profonds-Vaux et s’inquiète :
 *les bûcherons Ladurée et Le Hidou possèdent un abri couvert de tôles   
   ondulées qui semblent provenir du chantier de chômage.*
 
-## En 1942 
+### En 1942 
   
   l'administration des forêts fait l’acquisition d'un 
   tracteur et d’une  débroussailleuse.
@@ -282,7 +288,7 @@ L’administration des forêts ne fera l’acquisition
   
 ### La mécanisation est en marche…
   
-## 1943
+### 1943
 
 {{<figure src="/images/articles/muletier.jpg" title="Les muletiers échappent au STO">}}
 
@@ -340,7 +346,7 @@ chevaux intraitables, ils arrivaient à les mater pour le travail.*
   
     Témoignage de Claudette et Adrien Borderon (Jupilles)
   
-## 1946
+### 1946
   
 ### Le 25 mars 1946,
   
@@ -376,7 +382,7 @@ Bellanger, charretier, emmenait ses billes avec son diable et ses chevaux jusqu�
 
 {{<figure src="/images/articles/semis1956.jpg" title="Travaux forestiers en 1956">}}
 
-## Rouliers & débardeurs
+### Rouliers & débardeurs
   
   ...voituriers - transporteurs
 
@@ -467,7 +473,7 @@ Par suite, le goudronnage, proposé par Calvel, arrivé dés 1953
   de la Région parisienne, avec une couleur rose caractéristique 
   des forêts d'Ile de France. Cela deviendra chose courante. 
   
-## La route c’est aussi les accidents :
+### La route c’est aussi les accidents :
 
  Un cultivateur est broyé par un camion …..
   
@@ -513,7 +519,9 @@ Par suite, le goudronnage, proposé par Calvel, arrivé dés 1953
 {{<figure src="/images/articles/23022011513.jpg" title="Il n’y a pas d’âge pour être en mauvaise posture">}}
 
 
-
 {{<figure src="/images/articles/chevauxfin.jpg" title="La fin du cheval et la fin d’une époque">}}
 
 
+### Bibliographie : 
+  
+Revue Au Fil du Temps N° 26 & 27 - Pages  diverses (Y. Gouchet - 12 -2004 & 03 -2005)
