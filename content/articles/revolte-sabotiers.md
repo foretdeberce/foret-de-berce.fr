@@ -7,8 +7,7 @@ featured_image: "/images/et.revolte.jpg"
 tags: ["Histoire","Hommes","Ouvriers","Travaux"]
 ---
 
-
-1792 - La randonnée des ouvriers de Bercé
+### La randonnée des ouvriers de Bercé
 
 La première partie du spectacle d’inauguration des jardins du château 
 du Grand-Lucé présentait la «révolte des sabotiers». 
@@ -17,7 +16,7 @@ La saynète rappelait un événement peu connu des érudits locaux de la lutte
 populaire contre les prix au début de la révolution. 
 Il mérite une place dans la mémoire des Lucéens ; 
 c'est pourquoi « Au Fil du Temps » consacrera   
-plusieurs numéros à cet épisode, dramatique. (1)
+plusieurs numéros à cet épisode, dramatique. **(1)**
 
 Tout au long de la décennie révolutionnaire, par intermittences, la crise des 
 subsistances guette et préoccupe les administrateurs. 
@@ -27,7 +26,7 @@ statistiques les causes de cette pénurie épisodique.
 
 {{<figure src="/images/articles/titre5.jpg" title="Les lieux de la révolte">}}
 
-## En 1791, à cette époque, il restait encore beaucoup de terres en friches. 
+### En 1791, à cette époque, il restait encore beaucoup de terres en friches. 
 
 Ainsi, à Villaines, il y avait 266 hectares inexploités, à l'état de landes
   et de bruyères (12% du territoire communal). Pourtant un mouvement de défrichage
@@ -504,7 +503,8 @@ Jean BEAUGE officier, LAROZE procureur de la commune, BRISSET secrétaire.»
 {{<figure src="/images/articles/bagne.jpg" title="La pose des fers">}}
 
 
-Le 31 mai 1792, Pierre CHAZIER,
+### Le 31 mai 1792, Pierre CHAZIER,
+  
 dit SANS-FACON est condamné à la peine des fers pendant 16 années, 
   après avoir été
   *« attaché à un poteau dressé sur un échafaud pour y demeurer 6 heures,
@@ -558,6 +558,6 @@ Cet historique, nous fait comprendre l’attachement du monde rural à sa forêt
 
 ### Bibliographie :
 
-(1) : Yves PIRAUX : Les Lucéens et la Révolution (1990) Tome II p 87 à 100. 
-     (Au fil du temps n°6 à 9)  
-
+**(1)** : Yves PIRAUX : Les Lucéens et la Révolution (1990) Tome II p 87 à 100. 
+  
+Revue Au Fil du Temps N° 6 à 9 -  Pages diverses (Y. Piraux - 1999/2000)
