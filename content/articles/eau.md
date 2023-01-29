@@ -112,7 +112,7 @@ flore et faune remarquables, parfois rarissimes.
 {{<figure src="/images/articles/riche-biodiversite.jpg" title="Le même dans l’eau ">}}
 
 
-## Le Mortier
+### Le Mortier
  
 Il n'est pas par définition forcément une mare.
 Certains ont procuré le fer ou la pierre et sont
@@ -234,3 +234,5 @@ L’Office national des forêts, veille à la sauvegarde des fontaines, lavoirs,
 et mares dans un souci de conservation du patrimoine historique de Bercé.
 
 {{<figure src="/images/articles/panneau.jpg" title=" Les conseils toujours bienvenus">}}
+
+Bibliographie : Revue Au Fil du Temps N° 16 - Pages  24 à 25 (Y. Gouchet - 06 -2002) 
