@@ -28,7 +28,7 @@ Les mâts provenaient des Pyrénées ou de Riga (baltique)
 
 *Avec les bois de guerre  … ainsi vogue la forêt.*
 
-## Le procès-verbal d’aménagement de 1783/1785 relate *(ADS,B3858)
+### Le procès-verbal d’aménagement de 1783/1785 relate *(ADS,B3858)
 
 *« Les plus beaux bois de cette forêt s’exploitent en bois 
 carrés et se tirent pour la marine,
@@ -52,7 +52,7 @@ n’est traversée par aucun cours d’eau flottable, mais vers le sud, dans la 
 coule la rivière du Loir qui se jette dans la Sarthe, au dessus d’Angers,
 et cette dernière rivière entre dans la Loire à cinq lieues plus bas.  
 
-## Le flottage des bois …… 1664 – 1843
+### Le flottage des bois …… 1664 – 1843
 
 Si l’ordonnance fixant les objectifs est bien prise,
 l’exportation des bois de marine 
@@ -65,7 +65,7 @@ les Roches, sur Chahaignes)
 sont peut-être à l’époque les seuls à voir 
 passer quelques « Marines » équarries. 
 
-     Jean TRIQUET (3), dans son ouvrage intitulé
+     Jean TRIQUET **(3)**, dans son ouvrage intitulé
      « Au fil du Loir », nous éclaire quant
      à l’activité fluviale de cette rivière. 
      « Le Loir a toujours été considéré comme 
@@ -91,23 +91,23 @@ mètres de longueur, ils ne pourront descendre la porte que
 séparément les uns après les autres. »* 
 
       L’aménagiste de 1843 précise :
-      *« Le Loir devient flottable au port de la Pointe, 
+      « Le Loir devient flottable au port de la Pointe, 
       situé entre La Chartre et Château-du-Loir, 
       à 3 kilomètres de l’extrémité sud de la forêt,
       c’est de ce port et de celui de Coëmont, 
       existant un peu plus en aval (partie navigable),
       que partent, pour être descendus à Nantes, 
-      les bois de marine provenant de la forêt de Bercé ».*
+      les bois de marine provenant de la forêt de Bercé ».
       
 *On ne flotte que les bois de cette espèce. 
 Enfin la Loire qui coule à 12 lieues vers le sud sert 
 souvent à transporter sur des points plus éloignés, 
 les autres produits de cette forêt »*
 
-Les bois de Bercé, principalement des "bois de mine" 
+*Les bois de Bercé, principalement des "bois de mine" 
 étaient descendus par flottage sur le Loir puis la Loire.
 Dans une lettre du 13 septembre 1797, Braud, 
-le Sous-Ingénieur provisoire de la Marine précise :
+le Sous-Ingénieur provisoire de la Marine précise :*
 
 *«qu'il y a encore tant dans la forêt de Bercé que dans
 les ports de la Pointe et de Cour d'Hamont sur le Loir,
@@ -121,7 +121,7 @@ D'après la perception des droits de navigation sur
 les coupons de trains de bois, 11 trains en 1833, 
 3 trains de bois pour 102 m3 en 1852 acheminés par six hommes.
 
-> Ce fut probablement la fin du flottage sur le Loir.
+### Ce fut probablement la fin du flottage sur le Loir.
 
 Les marchandises transportées à la descente se composaient 
 au ¾ du tonnage total, de bois et de planches
@@ -129,7 +129,7 @@ au ¾ du tonnage total, de bois et de planches
 Cette date de 1852, correspond avec l’amélioration 
 du réseau routier, à Bercé comme en Sarthe.
 
-## En 1825  Choix des pièces de marine 
+### En 1825  Choix des pièces de marine 
 
 *(extrait d'un procès verbal de martelage des bois de marine) 
 « ...Lesquels arbres, essence de chêne, ne pourront, sous quelque prétexte
@@ -145,8 +145,9 @@ tant du corps des arbres que des branches susceptibles de procurer des courbes :
 faute de me donner cet avis de suite, les retards de la vidange demeureront sous
 la responsabilité particulière des acquéreurs desdits arbres ».* 
 
-## 1852 : Évacuation terrestre des bois de marine. 
-Les recherches de Jean TRIQUET (3), nous apprennent aussi qu’à cette époque,
+### 1852 : Évacuation terrestre des bois de marine. 
+     
+Les recherches de Jean TRIQUET **(3)**, nous apprennent aussi qu’à cette époque,
 l’évacuation des bois usités par la Marine, l’est de manière tout à fait
 terrestre depuis 1852. La fin des voituriers par eau, annonce à cette date,
 une reprise du trafic terrestre dont les cause sont doubles : tout d'abord
@@ -173,9 +174,9 @@ visités par la marine.
      Les arbres sont numérotés. Les longueurs 
      présumées en décimètres (entre 76 et 160 dm),
      des pièces à réserver dans ces arbres sont 
-     aussi notées…Exemples : n°1 (102 dm), 
-     n° 2 (116 dm) et les pièces rebutées par la 
-     marine sont cédées de droit à 
+     aussi notées…Exemples : 
+     n°1 (102 dm), n° 2 (116 dm) et les pièces 
+     rebutées par la marine sont cédées de droit à 
      l’adjudicataire qui s’engage à les prendre 
      sans garantie de qualité au prix principal
      de 36 f par m³ en grume, et de 54 f par m³ 
@@ -196,17 +197,22 @@ assemblages compliqués qui permettent de leur donner une hauteur proportionnée
 leur voilure. 
 
 19 avril 1866 : Paul MASSERON, nous dit avoir accompagné 
-les agents de la marine, « …où ils ont reconnu cinq pièces
-propres au service. »
+les agents de la marine, *« …où ils ont reconnu cinq pièces
+propres au service. »*
      
  {{<figure src="/images/articles/marteau.jpg" title="le marteau de marine">}}    
 
-3 juin 1867... Au canton de la Lune (Parcelle 109),
-le garde MASSERON «… recommande de faire mettre 
+### 3 juin 1867...
+     
+Au canton de la Lune (Parcelle 109),
+le garde MASSERON *«… recommande de faire mettre 
 les copeaux d’écarifsage et les souches des pièces 
-de marine, au fur et à mesure du déculage des arbres.» 
+de marine, au fur et à mesure du déculage des arbres.»* 
 
-     # 1860 : À Cherbourg, on arme *"La Sarthe"*, 
+### 1860 : 
+     
+À Cherbourg, on arme **"La Sarthe"** :
+     
      un bâtiment de servitude
      (coque en bois, gréé en trois-mâts)
      de type Annamite. (photo du haut de page)
@@ -219,8 +225,10 @@ de marine, au fur et à mesure du déculage des arbres.»
      choléra en France. Au terme de sa mission,
      en 1911, il sera démembré.
 
-## En 1870 
-« Canton des Vieux-Puits » le 1er Mars 1870 : le Garde Forestier Leroux écrit le rapport 
+### En 1870 
+     
+« Canton des Vieux-Puits » le 1er Mars 1870 : 
+le Garde Forestier Leroux écrit le rapport 
 ci-après suite à la visite du canton de Volumiers :
 
     *Monsieur le Brigadier,
@@ -232,17 +240,27 @@ ci-après suite à la visite du canton de Volumiers :
     J’ai cru urgent de porter ces faits à votre connaissance.
     J’ai bien l’honneur de vous saluer très respectueusement.*
     
-## En 1875
+### En 1875
+     
 Le 27 août et plus tard... le garde HEINTZ, rend compte au brigadier que
 l’équarrisseur des pièces de marine, avait enlevé des copeaux.
 Le sieur PASQUIER (marchand de bois) a rencontré le conservateur 
-pour lui demander des ordres au sujet desdits copeaux. 21 juin 1882 :
+pour lui demander des ordres au sujet desdits copeaux. 
+     
+### 21 juin 1882 :
+     
 Eugène CROSSONEAU a remarqué qu’un charretier a enlevé par mégarde quatre
 stères de copeaux de marine (n° 72 et 75). 
-Le 9 avril 1884 : « Attendu l’employé de la marine au rond du Clocher » 
-...qui n’est pas venu ... Malheureusement HEINTZ…y a perdu une grande partie de sa journée!  
+     
+### Le 9 avril 1884 : 
+     
+« Attendu l’employé de la marine au rond du Clocher » 
+...qui n’est pas venu ... Malheureusement HEINTZ…
+     y a perdu une grande partie de sa journée!  
 
-Les cantons des Follets, Sermaize, Croix-Veneur, des Sorels, de Gaie Mariée, Pressenteries et Tertre-aux-Bœufs seront ainsi visités pour la production des bois de marine. 
+Les cantons des Follets, Sermaize, Croix-Veneur, des Sorels,
+     de Gaie Mariée, Pressenteries et Tertre-aux-Bœufs seront 
+     ainsi visités pour la production des bois de marine. 
 
 {{<figure src="/images/articles/calendrier.jpg" title="Une année d'exploitation des marines">}}
      
@@ -253,6 +271,7 @@ Les cantons des Follets, Sermaize, Croix-Veneur, des Sorels, de Gaie Mariée, Pr
 
 La marine ne recherchait pas seulement sur Bercé
 des billes droites pour les membrures.
+     
 *A l’âge de 100 ans* (dit l’aménagiste de la forêt de Bercé en 1843)
 *les bois commencent seulement à prendre de la valeur et ne 
 donnent que de la menue charpente, produits très accessoires
@@ -260,13 +279,14 @@ pour une forêt comme celle de Bercé, destinée à fournir aux
 constructions navales et civiles, les bois des plus 
 grandes dimensions...*
 
-Mais aussi des «Bois de mauvaise figure» comme le disait Buffon (1):
-*«En reconnaissance des arbres bifurqués dans les coupes du Canton de la Gaie-Mariée»* 
+Mais aussi des «Bois de mauvaise figure» comme le disait Buffon **(1)**:
+*«En reconnaissance des arbres bifurqués dans les coupes 
+     du Canton de la Gaie-Mariée»* 
 (Brigadier Albrecht-avril 1906).
 
 {{<figure src="/images/articles/marine-sermaize.jpg" title="Bois de marine sélectionné dans Sermaize de nos jours">}}
       
-## En 1921
+### En 1921
      
 La dernière année ou il est question de Bois *« Bons pour la Marine »*
 sur Bercé est aussi la plus chargée en renseignements,
@@ -298,10 +318,13 @@ Le Garde Pigault écrit pour les 15 et 16 juin, puis 10 juillet 1921:
      
 {{<figure src="/images/articles/marines2.jpg" title="Indemnités de déplacement des gardes">}}        
 
-Dès 1921 Le bois n'est plus flotté, mais son transport est ferroviaire.
+### Dès 1921
+     
+Le bois n'est plus flotté, mais son transport est ferroviaire.
 Le modernisme et ses bateaux dits "insubmersibles" en fer,
 sont battus en brèche avec la catastrophe du voyage inaugural du « Titanic ».
 Mais la marine est déjà dans l’âge du fer. 
+     
       Le 17 juillet 1921, le garde PIGAULT (M.F. des Clos) écrit : « à la gare de Chahaignes,
       chercher les feuilles de voiture pour l’expédition des bois de marine. 
       Remis au chef de gare 10 feuilles de voiture pour l’expédition des bois
@@ -318,7 +341,9 @@ Après le bateau, nouveau débouché pour les bois de Bercé : l’avion !
       la Société technique aéronautique de Chalais-Meudon (Seine-et-Oise) 
       et enlevés par les voituriers de mademoiselle OGET. » 
       
-## En 1927- Albert CAQUOT expose un programme magistral et réaliste 
+### En 1927-
+     
+Albert CAQUOT expose un programme magistral et réaliste 
 des progrès possibles et désirables, et des moyens pour les accomplir :
 " Le premier peuple d'hier était celui qui avait, par la marine, 
 la plus grande force d'expansion ; 
@@ -327,7 +352,7 @@ les plus grandes possibilités de développement de l'aviation. "
 [cf. journal Les Ailes du 25 octobre 1928 rappelant le contenu de ce discours de 1927].
 Mais bientôt les avions en bois et en toile se sentiront de plus en plus démodés…   
       
-## Conclusions
+### Conclusions
       
 Tout compte fait, si Colbert s’est avéré un très bon stratège, 
 force est de reconnaître qu’il ne pouvait pas en son temps, 
@@ -352,12 +377,14 @@ un concept très particulier de sylviculture.
       Mais l’Histoire comme chacun le sait est un éternel recommencement et
       récemment, la Recouvrance puis l’Hermione ont renoué avec la tradition.
       
-Bibliographie :
+### Bibliographie :
       
-(1) BUFFON (Georges Louis LECLERC, comte de Buffon) 
+**(1)** BUFFON (Georges Louis LECLERC, comte de Buffon) 
     1707-1788 écrivain, savant et naturaliste français. 
       
-(2) "abatage" avec un seul "t" pour se démarquer ici du terme de boucherie.
+**(2)** "abatage" avec un seul "t" pour se démarquer ici du terme de boucherie.
       
-(3) Édité en 1995 par le club d’histoire locale J.Benoît de Château du Loir
+**(3)** Édité en 1995 par le club d’histoire locale J.Benoît de Château du Loir
+     
+Revue Au Fil du Temps N°  36 & 37 - Pages diverses (Y. Gouchet - 07 & 10 -2007)
 
