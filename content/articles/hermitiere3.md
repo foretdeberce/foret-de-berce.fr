@@ -9,7 +9,9 @@ tags: ["Tourisme","Fontaine","Sources","Eau","Hommes"]
 
 {{<figure src="/images/articles/vuecafebignon.jpg" title="établissement Bignon aux sources">}}
 
-De 1900 à 1950, les concessionnaires de "boissons hygiéniques" 
+### De 1900 à 1950, 
+	
+les concessionnaires de "boissons hygiéniques" 
   se bousculent aux sources.
   
 En 1925, tout n'est pas rose dans la surveillance des concessions en cours; 
@@ -314,3 +316,8 @@ Le 26 novembre 1935, les forestiers délimitent en Brigade les nouvelles
      http://gallica.bnf.fr
 	
 {{<figure src="/images/articles/hermitieremmelisson.jpg" title="Vue d'artiste">}}	
+	
+### Bibliographie : 
+	
+Revue Au Fil du Temps N°  30 -  Pages 4 à 5    (Y. Gouchet - 12 – 2005)
+
