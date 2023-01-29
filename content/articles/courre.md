@@ -149,6 +149,8 @@ Co-fermier du courre : Mr le Comte François de la Rochefoucauld (sanglier).
 Co Fermier du courre [Mr le Baron de Layre](/articles/pdf/1894-1936layre.pdf) :
   (Rallye Bercé) dont les gardes chasse assermentés étaient Gérard (1903-1904)
   Quentin (1906) Valentin Forest (1910-1914) et Bruon. 
+ 
+{{<figure src="/images/articles/scarequipages.jpg" title="Bercé, le courre vers 1906">}}
 
 (Chasse au Cerf)  Mr le Comte Pierre de Felcourt 
 
