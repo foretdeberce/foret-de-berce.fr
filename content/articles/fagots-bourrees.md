@@ -30,7 +30,7 @@ Les rameaux et brindilles étaient coupés à longueur
 déterminée. Les fagots et les bourrées issus de 
 ces branchages étaient liés en faisceaux avec des harts.
 
-## Les harts (nom féminin, vient du latin : artus)
+### Les harts (nom féminin, vient du latin : artus)
 
 Ce sont des liens formés à partir d'un brin de
 bois vert, d'essence flexible, que l’on torsade 
@@ -78,7 +78,7 @@ En 1921 les délivrances vont de 600 à 8000 harts par article.
    où la neige blanchit les toits. 
    (Achille MILLIEN) »
 
-## Les fagots 
+### Les fagots 
 sont formés de petits rondins et de 
 menues branches. Il est très rare qu’on y comprenne
 des brins ayant plus de 0 m 20 de tour. 
@@ -112,7 +112,7 @@ coupée à la serpe et mise en bourrées.
 {{<figure src="/images/articles/bmarigne.jpg" title="Dans le bourg de Marigné">}}
 
 
-## Le règlement ……
+### Le règlement ……
 18/05/1910 : prévenu les ouvriers de la coupe 
 d’avoir soin de mettre leurs fagots et bourrées 
 par tas de 10.
@@ -129,14 +129,14 @@ J’ai donné ordre à ces derniers de mettre ces
 brins en stère et prévenu l’adjudicataire présent 
 sur la coupe.
 
-## Le chevalet
+### Le chevalet
 Avant de lier le fagot, on le comprimait avec 
 une chaîne ou une grosse hart passée autour 
 et tendue avec un levier ou une sorte de treuil. 
 Les produits ainsi confectionnés étaient solides 
 et avaient bonne apparence.
 
-## Aujourd’hui
+### Aujourd’hui
 L’exploitation des fagots et bourrées a cessé et le 
 petit bois pourrit sur place engraissant un sol 
 devenu au fil du temps de moins en moins fertile.
@@ -154,3 +154,7 @@ ces bois dits « sans valeur » pourraient bien être
 à nouveau déchiquetés pour le chauffage ; 
 en cela l’histoire est un éternel recommencement.
  
+ 
+### Bibliographie : 
+ 
+Bercé une Forêt d’exception  (Y. Gouchet - 2018)
