@@ -38,7 +38,8 @@ Après avoir été accueillis par Pascal Jarret (responsable forêt),
 {{<figure src="/images/articles/fabienlorneouestfrance.jpg"  title="Intervention de Fabien Lorne">}}
 
 ### Cet officier des Eaux et forêts,
-  précurseur d’une sylviculture moderne, se présente :
+  
+  fut précurseur d’une sylviculture moderne, et se présente :
   
 *J'étais entré à l'École forestière en octobre 1938 et
 j'ai pris ma retraite de l’administration sitôt que 
@@ -276,3 +277,5 @@ Archives familiales Lorne et ouvrages de Rémond Lorne.
 « Étude quantitative sur les éclaircies dans les futaies de chênes », publiée en 1959.
   
 « La sylviculture de l’avenir » parue en avril 1961.
+  
+Revue Au Fil du Temps N°  43 & 44 - Pages diverses (Y. Gouchet - 04 & 07- 2009)
