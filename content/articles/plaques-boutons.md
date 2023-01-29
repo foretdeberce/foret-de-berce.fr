@@ -8,10 +8,11 @@ tags: ["Forestiers","Gardes", "Service"]
 ---
   
 
-## 1 - Eaux et forêts…..
-« Force à la loi » 
+### 1 - Eaux et forêts…..
+
+**« Force à la loi »** 
  
- *La seule vue de leur plaque invite à la sagesse d’éventuels saccageurs !*
+*La seule vue de leur plaque invite à la sagesse d’éventuels saccageurs !*
 
 Cette marque distinctive de leur fonction d’autorité fait partie du 
   costume des gardes du domaine ou des gardes particuliers.
@@ -131,9 +132,9 @@ Jean-Claude Chausse, présente dans la parution suivante :
 
 {{<figure src="/images/articles/brigadier.jpg" title="Plaque de Brigadier avant 1850">}}
 
-## Le bricolage des plaques
+### Le bricolage des plaques
 
-### De 1792 à 1852 
+**De 1792 à 1852** 
   
   Des modifications ont été faites au niveau local, 
   celui du garde et du triage, ou de la conservation. 
@@ -188,7 +189,7 @@ Le mot “ Conservation ” mot nouveau qui remplace l’ancienne maîtrise.
 {{<figure src="/images/articles/boutonsofficiers.jpg" title="L’évolution des boutons accompagne celle des plaques">}}
 
 
-### XIX° siècle :
+**XIX° siècle :**
 
 Code forestier du 28 mai 1827 et ordonnance d'exécution du 1er août: 
 « Les gardes à cheval et les gardes à pied porteront une bandoulière 
@@ -302,7 +303,7 @@ Les gardes particuliers ne possèdent pas d'uniforme particulier.
   Revue forestière française, AgroParisTech, 2013, 65 (3), pp.271-278.
   ff10.4267/2042/51856ff. ffhal-03447401f
  
-
+Revue Au Fil du Temps N° 45 & 46 - Pages diverses (Y. Gouchet - 2009/2010)
 
  
 
