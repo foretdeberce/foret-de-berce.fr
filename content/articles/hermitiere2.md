@@ -373,7 +373,9 @@ Le droit de passage est supprimé, désorganisant cette entrée si prisée en fo
 {{<figure src="/images/articles/hermitiere17.jpg" title="La grande salle et le fameux poirrier">}}
 	
 
-
+### Bibliographie : 
+	
+Revue Au Fil du Temps N° 29 de 09 – 2005 - Pages  7 à 9 (Y. Gouchet)
 
 		
 
