@@ -7,7 +7,7 @@ featured_image: '/images/chene-muriel.jpg'
 ---
 
 
-### non pas un livre mais deux !
+### Non pas un livre mais deux !
 
 De tout temps, les hommes et les femmes ont trouvé refuge,
   source d’énergie et nourriture en forêt de Bercé.
@@ -34,7 +34,7 @@ Un premier ouvrage avait vu le jour en 2002, coopté par le club
 
 Cet ouvrage paru aux éditions Alan Sutton dans la collection
   mémoire en images, détaillait le côté visuel de l’histoire 
-  de la forêt de Bercé, présentant nombre de photographies et
+  de la forêt de Bercé, présentant un bon nombre de photographies et
   cartes postales anciennes, accompagnées d’un court texte. 
   
  *Cet ouvrage est aujourd’hui épuisé.*
