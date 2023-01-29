@@ -13,101 +13,149 @@ tags: ["Faune","Biodiversité","chasse"]
 {{<figure src="/images/articles/20160609.jpg" title="Daniel survolant la forêt en juin 2016">}}
 
  
-Originaire de Beaumont pied de Bœuf, son père, bûcheron, l’emmenait tout gamin sur les coupes, 
-en forêt de Bercé et de leur balai (cabane de bois), ils pouvaient ensemble admirer les animaux 
+Originaire de Beaumont pied de Bœuf, son père, bûcheron, 
+ l’emmenait tout gamin sur les coupes, 
+en forêt de Bercé et de leur balai (cabane de bois), 
+ ils pouvaient ensemble admirer les animaux 
 qui eux-mêmes les observaient discrètement *« c’était majestueux »*.
-Initié très tôt à la chasse, il délaissera sur le tard son fusil, préférant tout naturellement
-la chasse photographique.
+Initié très tôt à la chasse, il délaissera sur le tard son fusil, 
+ préférant tout naturellement la chasse photographique.
  
-Sa mère travaillait au Château de la Couetterie, alors demeure de Mme de Boisanger, qui chassait à courre
+Sa mère travaillait au Château de la Couetterie, alors
+ demeure de Mme de Boisanger, qui chassait à courre
 en Bercé. 
-*«Un jour, Jacques Bizard, maître d’équipage de Champchevrier, m’avait fait l’honneur lors de
-la curée, d’enlever moi-même la tête du cerf devant la meute, alors que je devais avoir seulement 8 ou 9 ans.
-J’en ai été très touché et très fier de rendre ainsi hommage à cet animal tellement majestueux.
+ 
+*«Un jour, Jacques Bizard, maître d’équipage de Champchevrier,
+ m’avait fait l’honneur lors de
+la curée, d’enlever moi-même la tête du cerf devant la meute, 
+ alors que je devais avoir seulement 8 ou 9 ans.
+J’en ai été très touché et très fier de rendre ainsi hommage 
+ à cet animal tellement majestueux.
 J’en devins par la suite un grand passionné »*. 
 
-Michel Marc, son modèle, son père spirituel, comme il aime le rappeler. Célèbre photographe animalier de
+Michel Marc, son modèle, son père spirituel, comme il aime le rappeler.
+ Célèbre photographe animalier de
 Château du Loir, disparu en 1992 et enterré à Chambord.
-*« Je l’ai connu un petit peu, mais trop peu. Tout gamin, lorsque ma mère m’emmenait à Château, sur le porte
-bagage du vélo, j’en profitais pour admirer, dans sa vitrine de l’avenue de la Gare, ses photos, en me
-disant : un jour je ferai cela. À la Castélorienne, il avait présenté un diaporama et montré une photo qui
-représentait deux bois de cerf dans une souille. En touchant de mes doigts ces bois je ressentis un immense
+*« Je l’ai connu un petit peu, mais trop peu. Tout gamin, 
+ lorsque ma mère m’emmenait à Château, sur le porte
+bagage du vélo, j’en profitais pour admirer, dans sa vitrine 
+ de l’avenue de la Gare, ses photos, en me
+disant : un jour je ferai cela. À la Castélorienne, il avait
+ présenté un diaporama et montré une photo qui
+représentait deux bois de cerf dans une souille. En touchant 
+ de mes doigts ces bois je ressentis un immense
 plaisir et pris secrètement la décision d’entreprendre ce même loisir.
 Je retrouvais plus tard l’endroit exact de la photo »*.  
 
-Michel Marc était un artiste reconnu de ses pairs et ses photos étaient très souvent primées.
-*« Et en plus il était conteur, poète, aquarelliste, etc. je me souviens de délicieuses soirées passées en sa
-compagnie auprès d’un bon feu de cheminée. Il allait beaucoup sur Chambord, car il n’y avait plus guère à
+Michel Marc était un artiste reconnu de ses pairs et ses 
+ photos étaient très souvent primées.
+ 
+*« Et en plus il était conteur, poète, aquarelliste,
+ etc. je me souviens de délicieuses soirées passées en sa
+compagnie auprès d’un bon feu de cheminée. 
+ Il allait beaucoup sur Chambord, car il n’y avait plus guère à
 l’époque d’animaux sur Bercé »*.  
 
 
 ### Ses débuts
 
-*« J’ai acheté mon premier "réflex" en 1993, chez Michel Marc et à mon grand regret ce n’est pas lui qui me
-l’a vendu. J’aurais voulu qu’il m’explique comment m’en servir, qu’il me conseille (à cette époque je n’y
-connaissais rien). C’était un gros investissement. Les premières photos n’étaient pas parfaites,
-mais petit à petit, j’en ai appris la technique. Je ne me permettais pas d’aller en affût, dans les endroits
-que fréquentait Michel, de peur de déranger. Mais je me suis aperçu par la suite en interrogeant Geneviève,
-son épouse, qu’il trouvait les bois ou par la suite, quatre ans durant, je les trouvais moi-même »*.
+*« J’ai acheté mon premier "réflex" en 1993, chez Michel Marc et
+ à mon grand regret ce n’est pas lui qui me
+l’a vendu. J’aurais voulu qu’il m’explique comment m’en servir,
+ qu’il me conseille (à cette époque je n’y
+connaissais rien). C’était un gros investissement. 
+ Les premières photos n’étaient pas parfaites,
+mais petit à petit, j’en ai appris la technique. 
+ Je ne me permettais pas d’aller en affût, dans les endroits
+que fréquentait Michel, de peur de déranger. Mais je me suis aperçu
+ par la suite en interrogeant Geneviève,
+son épouse, qu’il trouvait les bois ou par la suite, quatre
+ ans durant, je les trouvais moi-même »*.
 
-Michel lui enseigna l’art de ne pas déranger les animaux et le respect du sujet photographié.
-Petit à petit ses affûts deviennent impeccables et Daniel, perpétue aujourd’hui la tradition et transmet sans
-compter ces valeurs en initiant quelques jeunes du Photo-Club Georges Méliès, de Mayet.
+Michel lui enseigna l’art de ne pas déranger les animaux et
+ le respect du sujet photographié.
+Petit à petit ses affûts deviennent impeccables et Daniel,
+ perpétue aujourd’hui la tradition et transmet sans
+compter ces valeurs en initiant quelques jeunes du
+ Photo-Club Georges Méliès, de Mayet.
 
   
 ### Ses trucs
  
-*« La chasse photo est une histoire de chance, de feeling. J’ai parfois l’impression de communiquer avec le
-gibier. Les bois de cerf, je les trouve à l’intuition : je rêve de l’endroit la nuit et je les découvre à
-l’endroit dit, le jour. Il faut faire le vide dans sa tête, se concentrer….c’est presque du Yoga et en tout
-cas pas de la sorcellerie, mais peut être un don. Je les collectionne pour mon plaisir et pour les études en
-cours du CERFS (Cercle d’Études et de Recherche sur la Faune Sauvage de Bercé) dont je fais partie »*.
+*« La chasse photo est une histoire de chance, de feeling. 
+ J’ai parfois l’impression de communiquer avec le
+gibier. Les bois de cerf, je les trouve à l’intuition :
+ je rêve de l’endroit la nuit et je les découvre à
+l’endroit dit, le jour. Il faut faire le vide dans sa tête, 
+ se concentrer….c’est presque du Yoga et en tout
+cas pas de la sorcellerie, mais peut être un don. 
+ Je les collectionne pour mon plaisir et pour les études en
+cours du CERFS (Cercle d’Études et de Recherche sur 
+ la Faune Sauvage de Bercé) dont je fais partie »*.
    
-Les cerfs : *« Je les connais autant qu’ils me reconnaissent. Lorsque je les rencontre, ils me regardent (ils
-ont une distance de sécurité) et savent très bien que je ne leur désire aucun mal. D’ailleurs pour preuve,
-à chaque fois ils s’éloignent tranquillement sans presser le pas. Pourtant ils ont peur de l’humain, mais
+Les cerfs : *« Je les connais autant qu’ils me reconnaissent. 
+ Lorsque je les rencontre, ils me regardent (ils
+ont une distance de sécurité) et savent très bien que je ne 
+ leur désire aucun mal. D’ailleurs pour preuve,
+à chaque fois ils s’éloignent tranquillement sans presser le pas. 
+ Pourtant ils ont peur de l’humain, mais
 nous nous connaissons »*.
  
-# Choc de titans 
+### Choc de titans 
  ...chronique d’une mort annoncée
  
-## Le brame tourne au drame
+### Le brame tourne au drame
   
- {{<figure src="/images/articles/mathieu2.jpg" title="Le cerf Mathieu">}}
+{{<figure src="/images/articles/mathieu2.jpg" title="Le cerf Mathieu">}}
  
 ### Les protagonistes :
  
- *« J’ai connu Mathieu en 1992, c’était début juillet, il était en train de frayer : il frottait
-ses bois aux branches pour en enlever le velours. C’était un cerf énorme et charpenté avec des bois
-magnifiques (18 cors) et pendant 3 ans j’ai retrouvé ses mues. Je l’ai photographié de 1993 à 1996 sur la place
-de brame de la parcelle 156 du Pau, entre l’étang et le château d’eau. Ce roi de la forêt avait déjà été repéré
-et photographié par Alain JORIAT de Fontaine Naveau à Pruillé l’Eguillé. Son fils s’appelait Mathieu et tout
-naturellement il l’avait surnommé ainsi. Mathieu avait pour territoire, l’est de cette place de brame.
-Son rival, tenait l’ouest. En 1993 je l’ai vu perdre devant moi une de ses mues (bois), l’on s’est observé bien
-tranquillement puis je suis parti. Plus tard j’ai trouvé l’autre mue à 2 kilomètres de la première, sur un talus
+ *« J’ai connu Mathieu en 1992, c’était début juillet, il était 
+ en train de frayer : il frottait ses bois aux branches pour 
+ en enlever le velours. C’était un cerf énorme et charpenté avec des bois
+magnifiques (18 cors) et pendant 3 ans j’ai retrouvé ses mues. 
+ Je l’ai photographié de 1993 à 1996 sur la place
+ de brame de la parcelle 156 du Pau, entre l’étang et 
+ le château d’eau. Ce roi de la forêt avait déjà été repéré 
+ et photographié par Alain JORIAT de Fontaine Naveau à Pruillé-l’Eguillé. 
+ Son fils s’appelait Mathieu et tout naturellement il l’avait surnommé 
+ ainsi. Mathieu avait pour territoire, l’est de cette place de brame.
+Son rival, tenait l’ouest. En 1993 je l’ai vu perdre devant moi une 
+ de ses mues (bois), l’on s’est observé bien
+tranquillement puis je suis parti. Plus tard j’ai trouvé 
+ l’autre mue à 2 kilomètres de la première, sur un talus
 dont le sol était ciselé par le bois restant (bois qui déséquilibrait l’animal) »*
  
 **Terminator** :
- Tel est le nom que Daniel a donné, (vu son andouiller de massacre proéminent) à ce fameux
-rival, (un dix cors seulement) *« qui ne l’était finalement qu’au moment du brame, car chaque année au
-sortir de l’hiver, entre 1993 et 1996 je trouvais toujours les bois des deux copains ensemble »*. 
+ Tel est le nom que Daniel a donné, (vu son andouiller de massacre proéminent)
+ à ce fameux rival, (un dix cors seulement)
+ *« qui ne l’était finalement qu’au moment du brame, car chaque année au
+sortir de l’hiver, entre 1993 et 1996 je trouvais toujours les bois 
+ des deux copains ensemble »*. 
 
 
-## Au fil du temps  
+### Au fil du temps  
 
 Le mercredi 18 septembre 1996, j’avais emmené un vétérinaire assister au brame.  
-On était arrivé par l’allée du Pau, la végétation n’était pas bien haute à l’époque et de là ou nous nous
-trouvions, nous pouvions assister au spectacle sans en perdre une miette.  
-Les deux cerfs étaient chacun de chaque côté du point d’eau et nous, légèrement au-dessus.  
+On était arrivé par l’allée du Pau, la végétation n’était pas bien haute à 
+ l’époque et de là ou nous nous trouvions, nous pouvions assister au 
+ spectacle sans en perdre une miette. 
+ 
+Les deux cerfs étaient chacun de chaque côté du point d’eau 
+ et nous, légèrement au-dessus.  
 
 A un moment, on ne sait pourquoi, ils sont montés en pression.
-Mon compagnon, sous l’effet de cette violente altercation, a eu peur, il est allé se barricader dans l’agrenoir
-tout proche.
+Mon compagnon, sous l’effet de cette violente altercation, a eu peur, 
+ il est allé se barricader dans l’agrenoir tout proche.
 
-Puis les cerfs se sont calmés et se sont séparés, retrouvant chacun leur territoire.
-On ne les avait pas du tout dérangés. Moi j’étais tout retourné et l’on s’est félicité d’avoir vécu des moments
-inoubliables, mais j’ai confié à mon comparse que d’ici à la fin de la semaine, il se passerait sûrement
-quelque chose. Cela risquait de "péter" d’un moment à l’autre, tant la tension était grande. 
+Puis les cerfs se sont calmés et se sont séparés,
+ retrouvant chacun leur territoire.
+On ne les avait pas du tout dérangés. 
+ Moi j’étais tout retourné et l’on s’est félicité d’avoir 
+ vécu des moments inoubliables, mais j’ai confié à mon
+ comparse que d’ici à la fin de la semaine, il se passerait sûrement
+quelque chose. Cela risquait de "péter" d’un moment à l’autre,
+ tant la tension était grande. 
 
 Le jeudi 19 : j’y suis retourné, même cirque. 
 
@@ -123,48 +171,56 @@ Aussitôt, je fais une planque. Sans le savoir, je l’ai installée à la limit
 Les cerfs arrivent, se mettent en pression. À ce moment là, moi je commence à pétocher.
 Ça me fait toujours flipper un peu et pourtant j’en ai l’habitude.
 
-Il faut dire que traverser par une nuit noire tout le canton des hirondelles, c’est déjà pas évident…
-Alors ces bestiaux-là qui veulent en découdre…. 
+Il faut dire que traverser par une nuit noire tout le canton des hirondelles, 
+ c’est déjà pas évident… Alors ces bestiaux-là qui veulent en découdre…. 
 
-Bref, le jour commence à se pointer. Après les présentations d’usage, tout d’un coup : les deux bêtes
-s’empoignent : un grand "CLAC" retentit.
+Bref, le jour commence à se pointer. Après les présentations d’usage, 
+ tout d’un coup : les deux bêtes s’empoignent : un grand "CLAC" retentit.
  
 Ils se prennent bois contre bois, là, juste devant moi, à la limite de leur territoire.
 Cette fois, ils ne se quittent pas... 
 Ils reculent...
-Ils se reprennent et se disent à ce moment que pour vaincre l’adversaire, ce n’est déjà plus qu’une question
-de force.  
-Il faisait encore brun lorsque le vieux Mathieu recule dans la pente, poussé par son rival en pleine force
-de l’âge. 
-Je les entends souffler comme des taureaux. Ça dure un quart d’heure, une demi-heure peut-être....
-mais ça paraît une éternité. Parfois le Mathieu reprend du terrain et inverse le processus.
+Ils se reprennent et se disent à ce moment que pour vaincre l’adversaire,
+ ce n’est déjà plus qu’une question de force.  
+ 
+Il faisait encore brun lorsque le vieux Mathieu recule dans la pente,
+ poussé par son rival en pleine force de l’âge. 
+ 
+Je les entends souffler comme des taureaux. Ça dure un quart d’heure,
+ une demi-heure peut-être.... mais ça paraît une éternité. Parfois 
+ le Mathieu reprend du terrain et inverse le processus.
 Les sabots des deux mâles labourent littéralement le sol.
 
-Soudain, le vieux cerf est poussé en travers de la maudite pente. Il se cabre sur le côté. Et là, l’irréparable
-est commis. J’entends un hurlement, tel un "déchirement de la forêt" un cri qui saisit d’effroi, le cri de
-la mort.
+Soudain, le vieux cerf est poussé en travers de la maudite pente. 
+ Il se cabre sur le côté. Et là, l’irréparable
+est commis. J’entends un hurlement, tel un "déchirement de la forêt"
+ un cri qui saisit d’effroi, le cri de la mort.
   
-Je vois la croupe du vainqueur, qui attaque toujours, alors que Mathieu laisse entendre des gémissements de
-plainte, de douleur immense. Immédiatement je pense que Mathieu s’est cassé la colonne vertébrale.
-Alors je sors de ma cachette, inconscient du danger, mon filet de camouflage sur la tête et les bras levés au
-ciel en hurlant « Oh! Oh! Oh! » comme si je m’adressais à du bétail, voulant faire fuir ce nouveau champion,
-celui qu’on appellera plus tard Terminator.
+Je vois la croupe du vainqueur, qui attaque toujours, alors que Mathieu
+ laisse entendre des gémissements de plainte, de douleur immense. 
+ Immédiatement je pense que Mathieu s’est cassé la colonne vertébrale.
+Alors je sors de ma cachette, inconscient du danger, mon filet de camouflage
+ sur la tête et les bras levés au
+ciel en hurlant « Oh! Oh! Oh! » comme si je m’adressais à du bétail, 
+ voulant faire fuir ce nouveau champion, celui qu’on appellera plus tard Terminator.
   
-Surpris il se retourne. Il vient droit sur moi. Là je fonce derrière mon appareil photo et je prends 7 clichés :
-ils seront loupés et ne peuvent plus être considérés que comme des documents.
+Surpris il se retourne. Il vient droit sur moi. Là je fonce derrière 
+ mon appareil photo et je prends 7 clichés : ils seront loupés et ne 
+ peuvent plus être considérés que comme des documents.
 J’enlève mon filet de la tête et lui crie : *« Fait pas le con ! »*.
   
-Ça l’arrête net. Il reste tout bête, ne sachant que faire, ni devant quoi il se trouve.
-Il considère cette présence anormale ; cette silhouette ne le renseigne pas davantage.
+Ça l’arrête net. Il reste tout bête, ne sachant que faire, 
+ ni devant quoi il se trouve. Il considère cette présence anormale ; 
+ cette silhouette ne le renseigne pas davantage.
 Terminator prend le vent par derrière moi pour mieux flairer l’intrus…
  
-Ce dont je me rappelle  de ce moment crucial, c’est qu’il y avait un talus avec un grand fossé.
-J’y étais allongé et l’entendais souffler de plus belle.  
-À ce moment là, ne m’ayant toujours pas reniflé, Terminator s’impatiente : il chahute avec nervosité
-les jeunes pousses de chêne aux alentours.
+Ce dont je me rappelle  de ce moment crucial, c’est qu’il y avait un talus
+ avec un grand fossé. J’y étais allongé et l’entendais souffler de plus belle.  
+À ce moment là, ne m’ayant toujours pas reniflé, Terminator s’impatiente : 
+ il chahute avec nervosité les jeunes pousses de chêne aux alentours.
  
  
-## Sauvé par le gong ! 
+### Sauvé par le gong ! 
 
 Tout d’un coup, un autre cerf, un jeune portant 12, attiré par toute cette agitation, arrive vers moi
 descendant depuis la direction du château d’eau Il avance comme s’il voulait achever le Mathieu.
@@ -193,7 +249,7 @@ Nous constatâmes alors que l’andouiller de massacre du bien nommé Terminator
 le cerf sur le flan au niveau de la colonne vertébrale lui assénant ainsi le coup fatal.  
 
 
-## Epilogue
+### Epilogue
  
 Quelle curieuse coïncidence que ce pauvre Mathieu soit venu, en ce 21 septembre, périr au pied de Daniel Girard,
 le jour même de la Saint Mathieu.
@@ -205,7 +261,7 @@ Autant vous dire que la soirée qui devait être festive, fut morose et chargée
 chamboulé par sa vision du petit matin.  
 
  
-## Et Terminator dans tout ça ?
+### Et Terminator dans tout ça ?
  
 {{<figure src="/images/articles/terminator.jpg" title="Le cerf Terminator">}}
  
@@ -231,8 +287,12 @@ cette vraie nature pour en découvrir toute la beauté cachée.
  
  {{<youtube id="lC-tl3hxZhQ" autoplay="true">}}
  
-## Dans la peau du cerf de Bercé
+### Dans la peau du cerf de Bercé
 Une vidéo de Daniel Girard, dans laquelle il
  explique sa passion pour cet animal mythique.
  
  {{<figure src="/images/articles/daniel.jpg" title="Ce n'est qu'un au revoir, Daniel">}}
+ 
+### Bibliographie : 
+
+Revue Au Fil du Temps N° 20 et 21 - Pages  diverses (Y. Gouchet - 06 & 09 – 2003)
