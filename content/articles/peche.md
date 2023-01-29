@@ -92,16 +92,15 @@ Signé : J Carrier, (Directeur Général des Eaux et Forêts)
 que leur tournées,le détail des frais occasionnés par 
 ces déplacements afin de se
 les faire rembourser* 
-signé : de Verely , (inspecteur des E & F  au Mans)
+signé : de Verely , (inspecteur des E & F au Mans)
 
-	     Les tournées sont parfois longues.
+      Les tournées sont parfois longues.
       Déplacements :
       Chemin de fer : 0 F 20
          + Déjeuner : 1 F 30   
       soit un Total : 1 F 50
       
-
-                Ordre du 6 novembre 1900
+**Ordre du 6 novembre 1900
 	*Je tiens à ce que les Préposés de l'Inspection, aient la 
 	connaissance des faits qui ont motivé, l' avancement et 
 	les récompenses attribuées au Garde Albrecht.	
@@ -186,7 +185,7 @@ Les tournées se succèdent : En 1906, le 23 mai le garde Heintz note sur son li
 	
 	
 
-### Le forestier participe également à l’ALEVINAGE
+### Le forestier participe également à l’alevinage
 
         Frais occasionnés par la mise à l'eau d'alevins : (Albrecht 13 Fév. 1906)
 	A Bessé sur Braye, pour la mise à l'eau d'alevins de truites.
@@ -243,12 +242,16 @@ Frais occasionnés : 1 voiture et 1 repas : 12 F*
 {{<figure src="/images/articles/balances.jpg" title="Balances">}}	
 	
 	
-4 Sept 1910 : PV pour Pêche avec carrelet non réglementaire sur la Veuve 
+4 Sept 1910 :
+	
+	PV pour Pêche avec carrelet non réglementaire sur la Veuve 
 	( 18 mm de mailles), à l’encontre de Cosset louis Victor, 
 	casseur de pierres, habitant Lhomme qui pêchait sur la veuve 
 	de St. Pierre au Moulin St. Blaise.
 	
-11 Sept. 1910 : Sur la Veuve de Brives à la Pointe, PV au Sieur 
+11 Sept. 1910 :
+	
+	Sur la Veuve de Brives à la Pointe, PV au Sieur 
 	Boulay Louis Victor, vigneron à Lhomme, pris avec 
 	un engin prohibé (saisie du carrelet)
 	
@@ -258,7 +261,7 @@ Frais occasionnés : 1 voiture et 1 repas : 12 F*
 	par  Melle Maubert Propriétaire : environ 100 livres de vendues.
 	Prix : Gros poissons : 1  la pièce, Alevins 6 F le cent.
 
-## ENQUETES
+### ENQUETES
 	
 ### 16 Oct. 1920 :
 	
@@ -286,6 +289,7 @@ Frais occasionnés : 1 voiture et 1 repas : 12 F*
 Influence de la sécheresse sur le peuplement des cours d'eau. 
 	
 	Lettre de l'Administration du 23 Mars .
+	
 	A la suite d'un automne et d'un hiver exceptionnellement secs,
 	on peut s'attendre à ce qu'au cours du printemps et surtout de l'été, 
 	le débit d'un certain nombre de petits cours d'eau,
@@ -322,7 +326,7 @@ Suite à cette sècheresse, un inventaire de toutes les mares et étangs pouvant
 	contenir du poisson est lancé le 23 Mai 1922 
 	par l'Office International de documentation technique
 	
-Note de Potel : ( 11 oct. 1924)  Les Préposés, particulièrement ceux du 
+Note de Potel :( 11 oct. 1924)  Les Préposés, particulièrement ceux du 
 	service Spécial de la Pêche, n'ont pas à se laisser arrêter, 
 	par les dépenses que peuvent entraîner les tournées relatives 
 	à la surveillance et à la répression des délits de pêche dans 
@@ -409,7 +413,7 @@ Note de Potel : ( 11 oct. 1924)  Les Préposés, particulièrement ceux du
 	
 {{<figure src="/images/articles/ecrevisse.jpg" title="Écrevisse à patte blanche">}}		
 	
-## Epilogue de ce PV  du 13 Août 1933
+### Epilogue de ce PV  du 13 Août 1933
 	
 *A propos des délinquants du 13 Août 1933, Mr. Bouttier Georges cultivateur 
 à la Maugerie, né le 9 juillet 1900 commune de Pruillé – fils de Marcel 
@@ -426,7 +430,8 @@ balances à écrevisses." Lecture faite* .
 	
 Ce PV sera abandonné le 27 Octobre 1933  faute de preuves suffisantes par Mr l’inspecteur.
 
-## Concession
+### Concession
+	
 1er. Sept 1936 : *Reçu sur Bercé en communication, la copie de la concession 
 de la pêche aux écrevisses, dans le ruisseau de Sermaize à Mr. Huger.*
 
@@ -434,9 +439,12 @@ La dernière année de surveillance de la pêche André Pie, garde aux Renardiè
 *part  avec le brigadier, départ 7h30 à Laigné en Belin pour enquêter au sujet de
 déversement des produits de la fromagerie Desmarest, dans un cours d’eau.
 Retour 12h.*
-	Cela augure bien des difficultés à venir dues aux polluants en 
+	
+Cela augure bien des difficultés à venir dues aux polluants en 
 tous genres. Par la suite, le service de la pêche sera progressivement
 abandonné par les préposés des Eaux et Forêts,
 à la naissance de la deuxième guerre mondiale.
 
- 
+### Bibliographie : 
+	
+Revue Au Fil du Temps N° 34 & 35 - Pages  diverses (Y. Gouchet - 2006/2007) 
