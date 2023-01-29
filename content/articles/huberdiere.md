@@ -39,21 +39,25 @@ De 1940 à 1942, le brigadier Poumerol souhaite sa mutation des Forges vers la H
       je sollicite la brigade N°1 (est) dans le but d’avoir à assurer le service plus important de ce poste,
       ayant maintenant assez d’ancienneté en forêt de Bercé » le déménagement sera effectif au 27 janvier 1943.
   
-Le Brigadier Féliot, (chasseur forestier) fut affecté le 20 mars 1918 au centre des bois du mans pour être employé
-  à la surveillance des exploitations entreprises par l’armée Anglaise en forêt d’Écouves.
-  Il reprend du service durant la guerre en mai 1941.
-      «Le brigadier Féliot fut appelé "Renard blanc", car quelqu’un de connu à Chahaignes aurait 
-      intentionnellement donné un coup de fusil à Pierre Féliot dans Volumiers» (selon Yvette Herpin).
-      Le père Bordeaux, qui tenait l’hôtel "le Saint Vincent" a marié son fils avec la fille Féliot.
+Le Brigadier Féliot, (chasseur forestier) fut affecté le 20 mars 1918 au centre des bois du mans pour être employé à la surveillance des exploitations entreprises par l’armée Anglaise en forêt d’Écouves.
+ 
+      Il reprend du service durant la guerre en mai 1941.
+      «Le brigadier Féliot fut appelé "Renard blanc", car
+      quelqu’un de connu à Chahaignes aurait intentionnellement
+      donné un coup de fusil à Pierre Féliot dans Volumiers» 
+      (selon Yvette Herpin).
+      Le père Bordeaux, qui tenait l’hôtel "le Saint Vincent"
+      a marié son fils avec la fille Féliot.
   
-     bGermaine Pasquier, fille d’Arthur (Jupilles) a épousé,
-     Roger Féliot, fils du brigadier. 
-     Roger fut employé comme auxiliaire en forêt de 1925 à 1931. 
-     Ils se retirèrent en ferme à Beaumont-Pied-de-Bœuf, au Plessis. 
+      Germaine Pasquier, fille d’Arthur (Jupilles) a épousé,
+      Roger Féliot, fils du brigadier. 
+      Roger fut employé comme auxiliaire en forêt de 1925 à 1931. 
+      Ils se retirèrent en ferme à Beaumont-Pied-de-Bœuf, au Plessis. 
 
 {{<figure src="/images/articles/1968alberola.jpg" title="Albérola à la Huberdière">}}
 
 Albérola, (photo ci-dessus, en compagnie des chefs Sarthois) 
+ 
      Il arriva avec une rumeur fortement encrée 
      au plus profonds des esprits chagrins du coin ...
      c’était un communiste !!!
@@ -64,6 +68,7 @@ Albérola, (photo ci-dessus, en compagnie des chefs Sarthois)
   Bref il y eut enquête sur une note calomniatrice concernant le brigadier Albérola. 
   Son nom sera tout aussi écorné par l’inspecteur du Mans dans une note de 1947 : 
 « Le brigadier Albert Rola recherchera un emplacement dans la parcelle 107 pour les besoins du désobusage. » 
+ 
   C’est grâce à lui que Calvel sollicitera cette affectation. À sa retraite à Alençon 
   (après avoir travaillé au fond forestier, à Cahors), Albérola remercia tous les collègues de la montre reçue, 
   car en service, il n’en avait jamais eue.
@@ -106,10 +111,15 @@ Du 20 novembre 1975 jusqu’à la fin 1978 : rénovation et mise aux normes de l
      
  {{<figure src="/images/articles/calvel.jpg" title="Calvel en martelage">}}  
      
-2002, 
+### 2002.
      
 Catherine Chaton, première forestière dans l’histoire des forestiers de Bercé,
   prend les commandes du massif. Depuis l’abandon définitif du poste de la Huberdière, 
   les responsables territoriaux suivants se sont succédés aux commandes du massif sans y loger :
   intérim de Sylvain Haye (2009-2013), de Joël Guitton (15 octobre 2013 au 31 janvier 2015)
   puis Joël Linte (1er fevrier 2015-2020 ) et enfin d'Hervé Daviau.
+ 
+### Bibliographie :
+ 
+Revue Au Fil du Temps N° 22  de 12 -2003 - Pages 5 à 7 (Y. Gouchet)
+ 
