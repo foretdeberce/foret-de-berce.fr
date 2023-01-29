@@ -126,6 +126,7 @@ Invitée [Mme la Duchesse d’Uzès](/articles/pdf/duchesse-uzes.pdf).
 Co-fermier du courre : M. le duc Agénor de Gramont (Château de Mangé - rallye Vallière). 
 Le Rallie Vallière est l'ancien Rallye Bersay fondé en 1886 dans la Sarthe et qui fut installé à Vallière en 1895.  
 Courre du sanglier : Mr le Comte François de la Rochefoucauld 
+ 
 {{<figure src="/images/articles/003equipages.jpg"  title="Les trois équipages">}}
 
 Un vitrail est commandé par les chasseurs de Bercé, en l’honneur de St Hubert, pour l’église de Marigné.  
@@ -282,6 +283,7 @@ Agrément des gardes Rousselet et Julien le 24 novembre.
 ### 1936 :
   
 Courre : [Équipage du Talhouet](/articles/pdf/1845-1914ludetalhouet.pdf) et de Champchevrier
+ 
 ### 1938 à 1947 : 
   
 Courre : Verne, Champchevrier
@@ -437,4 +439,4 @@ Le Trésor de la Vènerie de Hardouin de Fontaines-Guérin (1394)
   
 livrets journaliers des personnels forestiers. 
 
-
+Revue Au Fil du Temps N° 61 -  Pages  29 à  32  (Y. Gouchet - 10 – 2013)
