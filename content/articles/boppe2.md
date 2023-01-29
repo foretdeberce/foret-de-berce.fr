@@ -74,22 +74,22 @@ ses feuilles étant en plus dévorées d’avril
 
 ### Deux charretiers de l’époque témoignent :
 	
-                   Henri Thénaisie  (23 ans en 1934),
+            Henri Thénaisie  (23 ans en 1934),
 	    se souvenait 
 
-                  « d’avoir été avec une 
+            « d’avoir été avec une 
 	    tonne d’eau attelée, arroser l’arbre. 
 	    Peu avant son foudroiement .
 	    Ils ont pioché tout autour et ils 
-                  lui avait mis beaucoup d’engrais, 
-                  la foudre a fait  que l’erreur 
-                  a été réparée ».
+            lui avait mis beaucoup d’engrais, 
+            la foudre a fait  que l’erreur 
+            a été réparée ».
 	
 	    Maurice Vérité ( 23 ans en 1934) 
-                  est plus catégorique:
+            est plus catégorique:
 
 	    « Les Auxiliaires avaient mis trop
-                  d’engrais et cela l’a fait crever »
+            d’engrais et cela l’a fait crever »
 	
 ### Yves Camisy : est aussi témoin à Charge.
 
@@ -231,6 +231,7 @@ Roulleau du 30 novembre 1895 qui estimait à 208 ans l’âge des Clos).
 	
 	
 ### Le 22 juillet 1935 
+	
 *en brigade avec Mr l’inspecteur adjoint, 
 assisté à  l’abatage du chêne Boppe. Constaté que cet arbre était
 âgé approximativement de 260 ans ». (il faut savoir que l’âge a été compté
@@ -317,7 +318,7 @@ A propos d’une parcelle artistique. Revue forestière française,
 AgroParisTech, 1950, 12, pp.734-741. ff10.4267/2042/27738ff. 
 ffhal-03380089 
 
-
+Bercé une Forêt d’exception  (Y. Gouchet - 2018)
 
 
 
