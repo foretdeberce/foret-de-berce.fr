@@ -147,11 +147,17 @@ succédaient les tristes jours d'hiver où la pluie tombait incessamment et tran
 leurs vêtements, au point que l'on disait "qu'aucun scieur de long n'allait en enfer…
 car il l'avait connu sur terre".
  
-Le travail des scieurs de long
-Levés alors qu'il faisait encore nuit, ils étaient prêts à empoigner la scie jusqu'au soir.
-Aux dernières lueurs du crépuscule, ils la troquaient contre le passe-partout et tronçonnaient 
-les billes devant être sciées le lendemain, puis les membres rompus de fatigue, 
-ils regagnaient leur bicoque.
+**Le travail des scieurs de long**
+  
+Levés alors qu'il faisait encore nuit, ils étaient prêts
+  à empoigner la scie jusqu'au soir.
+  
+Aux dernières lueurs du crépuscule, ils la troquaient
+  contre le passe-partout et tronçonnaient 
+  
+les billes devant être sciées le lendemain, 
+  puis les membres rompus de fatigue, 
+  ils regagnaient leur bicoque.
 
 
 ### Une équipe de scieurs de long comprenait trois personnes :
@@ -255,21 +261,19 @@ Les nouvelles sources d'énergie, les progrès vertigineux de l'industrialisatio
   
   
 {{<figure src="/images/articles/sdl2.jpg"title="liste non exhaustive">}}
+  
 
-### Pour en savoir plus -
-  
-La Grande Histoire des Scieurs de Long (tomes 1 & 2) par Annie Arnoult - 2001 Édition Au Bon Laboureur.
-  Remerciement pour les photos.
-  
 ### Bibliographie : 
   
- (1) Registre des jugements d’avant la révolution.
+**(1)** Registre des jugements d’avant la révolution.
   Inventaire sommaire des Archives départementales de la Sarthe Série B antérieures à 1790
   Recensement  de la population des communes riveraines de Bercé. 
   (Archives Départementales de la Sarthe)
  
-
- 
+Pour en savoir plus : La Grande Histoire des Scieurs de Long (tomes 1 & 2) par Annie Arnoult 
+  - 2001 Édition Au Bon Laboureur. Remerciement pour les photos.
+  
+Revue Au Fil du Temps N° 60 - 61 & 62 - Pages  diverses  (Y. Gouchet - 2013/2014) 
 
  
 
