@@ -9,7 +9,8 @@ tags: ["Tourisme","Loisirs","Biodiversite","Eau","Légende","Hommes"]
 
 {{<figure src="/images/articles/entreenov1975.jpg" title="Le gouffre vu de la route">}}
 
-Le trou de l’ermite 
+### Le trou de l’ermite 
+	
 Situé sur la ligne de la Jument Blanche, au milieu du vallon,
   il pose encore question. 
 Il existerait en forêt, selon les dires des anciens, une profonde cavité
@@ -56,7 +57,7 @@ N’empêche, c’est en cet endroit que la forêt de Bercé est la moins épais
 
 ### La légende vécue
 
-Et puis enfin il y a cette légende (1), recueillie auprès de Monsieur Bouthier : 
+Et puis enfin il y a cette légende **(1)**, recueillie auprès de Monsieur Bouthier : 
 Dans les années 50, ce dernier était occupé avec un homme et une femme à mettre 
   du vin en bouteilles à la cave du Château de la Pilletière sur Jupilles. 
   Dans le fond de cette cave un long couloir les intrigua. Pour se changer les idées,
@@ -87,9 +88,10 @@ En forêt rien ne transpire de la présence de ce souterrain.
 
 	
 ### Bibliographie : 
-(1) Archives famille Huyghues-Despointes
+	
+**(1)** Archives famille Huyghues-Despointes
 
-
+Revue Au Fil du Temps N°  31 -  Pages  30 à   32 (Y. Gouchet - 06 – 2005)
 
 
 
