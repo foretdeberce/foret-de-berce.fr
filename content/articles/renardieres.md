@@ -17,7 +17,7 @@ Sa rénovation a été entamée juste après celle des Étangs, sur le même mod
 
 {{<figure src="/images/articles/renardieres.jpg" title="Forestiers des Renardières">}}
 
- ## Anecdotes liées au poste :
+### Anecdotes liées au poste :
 
 Le garde RICHELET fut nommé commis à l’inspection du Mans. 
   
@@ -51,7 +51,8 @@ Spécialiste des chiroptères, il revient assez souvent sur Bercé organiser des
   
 En 1977, la rénovation des Renardières suit celle des Étangs. 
 
-LA FAMILLE PIE 
+**La famille Pie**
+     
 Auguste Alexis Pierre PIE est né le 27 Avril 1867 à Saint-Pierre-du-Lorouër.
 Il est nommé brigadier en forêt domaniale de Perseigne et cessera ses fonctions en 1924.
 Quittant le nord Sarthe, André son fils occupera le poste des Renardières, en forêt de Bercé.
@@ -70,3 +71,6 @@ c'est Jean Manac'h qui assura la rénovation des Renardières.
        des Boussions avant l'arrivée de Patrice
        Chagnoleau qui y résidera de 1985 à 2015.
      
+### Bibliographie :
+     
+Revue Au Fil du Temps N° 22 - Pages 5 à 7 (Y. Gouchet - 12-2003)
