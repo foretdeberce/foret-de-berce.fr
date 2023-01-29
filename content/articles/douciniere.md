@@ -19,15 +19,17 @@ Voici la liste des forestiers ayant occupé cette maison forestière :
 
 {{<figure src="/images/articles/douciniere.jpg" title="Forestiers de la Doucinière">}}
 
- ## Anecdotes liées au poste :
+ ### Anecdotes liées au poste :
   
       « …Le garde PASSERAT, était le beau frère de la grand-mère maternelle de mon épouse, 
-      il venait de la forêt d’Orléans et épousa une demoiselle HUGER de la Haute Claie sur Saint-Vincent-du-Lorouër. 
-      Ils eurent trois filles, toutes célibataires, dont la cousine Marie BIGNON (1890-1986) de Montreuil-le-Henri,
-      épouse de Léon BROSSARD qui fut ma belle mère. Le 1er aout 1880 à Pruillé, HEINTZ, sera parrain de l’une de ses
-      filles.
+      il venait de la forêt d’Orléans et épousa une demoiselle HUGER de la Haute Claie 
+      sur Saint-Vincent-du- Lorouër. 
+      Ils eurent trois filles, toutes célibataires, dont la cousine Marie BIGNON
+      (1890-1986) de Montreuil-le-Henri, épouse de Léon BROSSARD qui fut ma belle mère. 
+      Le 1er aout 1880 à Pruillé, HEINTZ, sera parrain de l’une de ses filles.
       Le garde PASSERAT succédera à ses beaux parents à la Haute Claie. 
       Ses deux filles ainées travaillaient à la fabrique de brosse à Saint-Vincent. » 
+ 
       (Témoignage de Gaston GAUTRONNEAU - Montreuil-le-Henri) 
  
 C’est un bon exemple d’intégration dans notre contrée.
@@ -36,7 +38,9 @@ C’est un bon exemple d’intégration dans notre contrée.
 MESSAGER, dont les voisins diront qu’il aimait bien sa cave, tant et si bien qu’il s’y cachait, 
   avait été, durant la dernière guerre, mobilisé au centre des bois N°15 à Versailles pour une 
   quinzaine avant d’être affecté jusqu’à nouvel ordre à son poste. En août 1951 il rejoindra son poste de SaintRémy (Côte   d’Or). 
-  Sur le livret d’ordres du garde MESSAGER, figure en bonne place à la journée du 7 mai 1941 et pour toute la durée de       celle-ci :
+ 
+Sur le livret d’ordres du garde MESSAGER, figure en bonne place à la journée 
+  du 7 mai 1941 et pour toute la durée de celle-ci :
   « à Lucé, porté un pneu de vélo à Monsieur FÉLIOT, brigadier des Eaux et forêts en retraite.» 
   
   Jules VERSEAU a pris sa retraite à Jupilles, il est décédé à plus de 80 ans. 
@@ -56,7 +60,9 @@ L'électricité arrive à la maison forestière en octobre 1954,
   Pour arranger le coup et éviter le surcoût, GOENVEC ira lui-même avec une autre personne dans le même
   cas régler les 4949 f demandés à Arnage.
   
-22 avril 1952 : Le puits, essentiel à la vie est pollué.
+### 22 avril 1952 : 
+ 
+ Le puits, essentiel à la vie est pollué.
   On procède à sa désinfection avec 5 kg de chaux vive car les analyses,
   même 4 mois plus tard révèleront encore la présence de matières organiques. 
   On mesure alors les distances entre le puits et les fosses à purin et septique. 
@@ -76,3 +82,6 @@ Il décèdera dans sa Bretagne natale le 30 juillet 2002.
   
   La rénovation complète de la M. F. s’étalera de 1977 à 1979.
 
+### Bibliographie : 
+
+Revue Au Fil du Temps N° 22 - Pages 5 à  7 (Y. Gouchet - 12 -2003)
