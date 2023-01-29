@@ -247,7 +247,7 @@ A peine un siècle auparavant, l'aménagiste de Bercé, notait en résumé :
 
 [Circulation du fer sous toutes ses formes](/articles/pdf/circulationdufer.pdf)
 
- ### Datation des ateliers : 
+### Datation des ateliers : 
 
 Les fouilles effectuées durant les années 1996 à 1998, dans la partie Sarthoise
   du tracé de l'A28 ont permis d'effectuer des sondages et de dater les différents 
@@ -266,7 +266,8 @@ Hors les territoires traversés par l'A28 ou couverts par la forêt de Bercé,
   Même pour nous... les découvreurs occasionnels !
 
 
-### Avant 2013,
+### Avant 2013.
+	
   Aucune étude n'avait été entreprise sur Bercé. 
 Mais à la vue des échantillons prélevés par l’AFAN **(2)** 
   et le SRA **(5)**  fin 1999 sur le site, nous pouvions allègrement
@@ -278,8 +279,9 @@ La datation carbone 14, évaluait pour ces exploitations minières souterraines,
   une période allant de 400 ans  avant JC (La Tène: 2ème âge du fer) 
   jusqu'à l'époque médiévale grâce au traceur radioactif 14C sur charbon de bois.
   
-### En 2013 (6)
-  Morgan Choplin encadré par Cécile Le Carlier de Veslud (ingénieure d'étude CNRS) 
+### En 2013 
+	
+  Morgan Choplin **(6)** encadré par Cécile Le Carlier de Veslud (ingénieure d'étude CNRS) 
   étudie quelques ferriers en forêt de Bercé, ceci afin d’en dater la période d’exploitation. 
   
 Laissons à Morgan Choplin le soin d’étayer son étude : 
@@ -465,7 +467,7 @@ La Métallurgie du Maine : Belhoste J-F, Robineau E (dir.), Baptiste G,
 *la forêt de Bercé…ou c’te Forêt* Joël Picard (1994)
   Club d’Histoire Locale Jean Benoit.
   
- Revue  *au fil du temps*  n°6 du 30 juin 2000	
+Revue  *au fil du temps*  n° 6 & 8  du 30 juin 2000 - Pages diverses (Y. Gouchet)
 
 
 
