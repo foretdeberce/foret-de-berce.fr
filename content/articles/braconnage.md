@@ -550,6 +550,8 @@ M. le conservateur recommande au gardes verbalisateurs de prendre sans retard,
   du Mans- Armé d’un mousqueton de guerre avec cartouches modèle 
   1886 qu’il nous a déclaré avoir pris à la caserne sans permis –
   (a déclaré ne pas avoir de permis). »*
+	
+{{<figure src="/images/articles/flagrantdelit.jpg" title="Le flagrant délit">}}	
 
 25 septembre 1932 : 
   
