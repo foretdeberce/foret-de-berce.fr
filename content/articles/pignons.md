@@ -1,4 +1,4 @@
- ---
+---
 title: "Des pignons pour du pognon"
 date: 2022-10-13T18:22:44+01:00
 draft: false
@@ -7,18 +7,17 @@ featured_image: "/images/et.landes.jpg"
 tags: ["Exploitation","Arbres","Livrets","Forestiers","Graines"]
 ---
 
-
 ## En forêt de Bercé de 1891 à 1959.
 
 Le fruit du pin maritime, le pignon, est largement utilisé en cuisine et
 c'est pourquoi il est parfois appelé, à ce titre, pin pignon.
 
- {{<figure src="/images/articles/resine6.jpg" title="La pigne de pin">}}
+{{<figure src="/images/articles/resine6.jpg" title="La pigne de pin">}}
 
 Après les hivers rigoureux qui ont décimé les peuplements, la graine de 
-  pin maritime est collectée en 1884 : masse de graines désailées  (1) 
+  pin maritime est collectée en 1884 : masse de graines désailées **(1)** 
   utilisées en France (13 222 kg) pour le Sud-ouest et la Corse, Fontainebleau 
-  et la Sarthe qui détruisit cette essence dans ces zones, à l’hiver 1879-1880.  (2)
+  et la Sarthe qui détruisit cette essence dans ces zones, à l’hiver 1879-1880. **(2)**
   
 Le ramassage s’organise dès le 14 décembre 1891 pour cesser le 1er mars. 
   Tous les ans, en octobre ou début novembre, à la Tasse, ont lieu ces adjudications,
@@ -27,7 +26,9 @@ Le ramassage s’organise dès le 14 décembre 1891 pour cesser le 1er mars.
 Octobre 1909 : les adjudicataires sont Trouvé (Saint-Mars) et Chardin (Écommoy)
 16 octobre 1910 15h à la Tasse : Trouvé et Proulières (Saint-Mars)
   
-En 1912 les pignons sont récoltés à la main, ou au moyen de serpes, mailles, 
+En 1912
+ 
+Les pignons sont récoltés à la main, ou au moyen de serpes, mailles, 
   crochets, ou fourchettes à long manche, sans couper les branches ou les rompre.
   On ne peut récolter que les cônes arrivant à maturité dans le courant de l’année,
   c'est-à-dire ceux de deux ans. L’enlèvement doit être fait à dos d’homme ou de
@@ -37,9 +38,11 @@ En 1912 les pignons sont récoltés à la main, ou au moyen de serpes, mailles,
   « craquer » ce sont en fait les pommes de pins qui éclatent sous l’effet 
   de la chaleur.
   
- {{<figure src="/images/articles/resine16.jpg" title="La récolte et le séchage des pignons">}}
+{{<figure src="/images/articles/resine16.jpg" title="La récolte et le séchage des pignons">}}
 
-Le 3 octobre 1912, l’adjudicataire est Leroy Alphonse de Marigné.
+### Le 3 octobre 1912 : 
+ 
+L’adjudicataire est Leroy Alphonse de Marigné.
   
 En 1920 la graine de pin maritime est protégée. Il n’y aura donc aucune adjudication,
   car elle est déclarée utile pour les semis naturels.
@@ -60,11 +63,14 @@ En 1945, on parle des derniers ramassages des cônes par les ouvriers en novembr
   et décembre (parcelles 51 & 53) lors de "l’abatage" des arbres...puis en 1950 
   et le 5 janvier 1959 (dernière mention).
   
-## Bibliographie :
-### (1)  Car la graine possède une aile qui facilite sa répartition.
-### (2) L’utilisation de graines résineuses en France durant une partie
+### Bibliographie :
+ 
+**(1)**  Car la graine possède une aile qui facilite sa répartition.
+ 
+**(2)** L’utilisation de graines résineuses en France durant une partie
   du XIXe siècle (sources des chiffres : Thil, 1884) - 
   Plus d’un siècle d’intervention humaine dans les flux des gènes
   des Pins à crochets et Sapins français 
   Michel Bartoli - Brigitte Demesure-Musch.
-
+ 
+Revue Au Fil du Temps N° 49 – 52 & 55 -  Pages  diverses     (Y. Gouchet - 2010/2012)
