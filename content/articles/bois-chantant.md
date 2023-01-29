@@ -140,3 +140,6 @@ Quand le bois chante c’est la phase délicate où le "maître " accorde son in
   bûches l’une contre l’autre et écouter si leur choc émet un son « chantant ». 
 
 
+### Bibliographie :
+ 
+Revue Au Fil du Temps N° 38 Pages 36 à 37 (Y. Gouchet – 01/2008)
