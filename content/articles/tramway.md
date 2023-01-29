@@ -52,20 +52,20 @@ Pour le tronçon Château-du-Loir/Marigné, il est envisagé de passer par
   
 Plusieurs variantes au trajet Jupilles-Marigné sont envisagées :
 
-### Le projet 1 :
+***Le projet 1 :***
 
 Permet de rejoindre les deux bourgs sans passer par Pruillé-l'Éguillé,
   mais en traversant la forêt de Bercé par les ronds de la Croix-Marconnay, 
   du Buisson et de la Lune, itinéraire qui doit suivre la route la plus directe.
 
-### Le projet 2 :
+***Le projet 2 :***
 Diffère à partir de la Croix-Marconnay en empruntant la ligne forestière 
   des Renardières au Pressoir,  en passant par les ronds du Pézeray, 
   du Mortier des Clos et des Renardières, la fin du trajet prend enfin 
   la route qui regagne Marigné en venant de St Hubert, ce tracé à 
   l’avantage de desservir le hameau de Laillé.
 
-### Le projet 3 (tracé en marron) :
+***Le projet 3 *** (tracé en marron) :
 
 Mais c’est finalement celui qui prévaudra, afin de desservir le bourg
   de Pruillé….encore faut il que les Pruilléens montent avec leurs
@@ -197,9 +197,7 @@ Les travaux ayant commencé sur le tronçon Le Mans/Marigné, celui-ci
 
 {{<figure src="/images/articles/travauxforet.jpg"  title="Les travaux sur Pruillé-l’Éguillé">}}
 
-### Archives de la revue 
-"Au Fil du temps" 
-(Le Grand-Lucé)
+### Archives de la revue "Au Fil du temps" (Le Grand-Lucé)
 
 [Tramway N° 41 - 2008](/articles/pdf/tramway41-2008afdt.pdf)
 
@@ -433,6 +431,6 @@ mars 2003)
 	
 **(2)** Archives O.N.F et tradition orale.
 	
-Revue "Au Fil du Temps" N° 42 pages 16 à 18 du 31 janvier 2009
+Revue "Au Fil du Temps" N° 42 pages 16 à 18 du 31 janvier 2009 (Y. Gouchet)
 	
 L’Ouest-Éclair du 25 juin 1926
