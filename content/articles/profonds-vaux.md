@@ -18,7 +18,7 @@ Aujourd’hui il ne reste plus que la dépendance et son four à pain.
 
 {{<figure src="/images/articles/profonds-vaux.jpg" title="Forestiers des Profonds-Vaux">}}
 
- ## Anecdotes liées au poste :
+### Anecdotes liées au poste :
 
 Le garde Benoni ERNULT dont le prénom signifie en hébreux: 
   “fils de douleur“ est un chasseur forestier qui prend part
@@ -52,7 +52,7 @@ Suite au décès du garde THIBAULT en mai 1910,
   C’est en 1929 que la maison est désaffectée et
   louée 350 f/an à des particuliers : ALLARD puis à PENARD. 
   
-L’électricité arrive à ce poste en novembre 1964.
+**L’électricité arrive à ce poste en novembre 1964.**
   
 Louée régulièrement aux chasseurs du lot de Mayet,
   elle finira péniblement ses vieux jours, détruite en 1985,
@@ -69,3 +69,7 @@ Seul sera conservé la boulangerie et son four,
 
 La photo ci-dessus, met en évidence l’absence de la maison forestière des Profonds-Vaux
   grâce à l’IGN et sa machine à remonter le temps, entre 1950 et 2022.
+     
+### Bibliographie : 
+     
+Revue Au Fil du Temps N° 22 - Pages 5 à  7 (Y. Gouchet - 12 -2003)
