@@ -7,9 +7,9 @@ featured_image: '/images/toile-d-araignee.jpg'
 tags: ["Faune","Biodiversité"]
 ---
 
-## L’atout biodiversité des vieux peuplements
+### L’atout biodiversité des vieux peuplements
 
-## Entre tiques et pics...
+### Entre tiques et pics...
 
 > « Parler de biodiversité en forêt ne peut s’envisager 
 > sans faire référence aux coléoptères saproxyliques.
@@ -50,3 +50,9 @@ dans les années 1970 à diagnostiquer sa présence à Bercé.
 
 Cortège impressionnant dans cette grande futaie avec 
   l’un des plus petits oiseaux : Le troglodyte.
+  
+
+### Bibliographie : 
+  
+Bercé, une forêt d’exception (Y. Gouchet  - 2018)
+  
