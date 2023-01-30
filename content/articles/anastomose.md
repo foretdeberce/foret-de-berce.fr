@@ -7,8 +7,11 @@ featured_image: "/images/a186.jpg"
 tags: ["Arbres","Curiosité"]
 ---
 L'anastomose est un terme d'anatomie biologique signifiant : 
-Greffe par contact : « communication entre deux  vaisseaux 
-ou deux conduits de même nature »
+Greffe par contact : 
+
+*« communication entre deux  vaisseaux 
+ou deux conduits de même nature »*
+
 Cette facétie de la nature provoque chez nos chênes des 
 formes bien curieuses.
 Châtaigniers, hêtres et autres ligneux peuvent aussi la
@@ -32,3 +35,7 @@ Les deux photos de celui-ci datent de 1981.
 {{<figure src="/images/articles/251.jpg" title="Le chêne girafe de la parcelle 251">}}
 
 {{<figure src="/images/articles/1981-251.jpg" title="Ce même chêne admiré par un couple d’Australiens">}}
+  
+### Bibliographie : 
+  
+Le massif forestier de Bercé (Y. Gouchet - 2002)
