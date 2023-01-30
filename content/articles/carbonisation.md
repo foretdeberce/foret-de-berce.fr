@@ -14,8 +14,9 @@ car le bois est bien souvent coupé très jeune,
 dégradant au passage le paysage et les sols. 
 
 ### Bercé en fut protégé dans les temps anciens.
-Dans une Notice (1), rédigée pour l'Exposition universelle de 1878, monsieur Larzillière,
-sous-inspecteur des forêts, écrivait : 
+
+Dans une Notice **(1)**, rédigée pour l'Exposition universelle de 1878, 
+monsieur Larzillière, sous-inspecteur des forêts, écrivait : 
 
 *Le seul mode de carbonisation dont l'usage soit général en France est le procédé des meules. 
 Les bois sont empilés, par lits superposés, sur une aire dressée avec soin et appelée 
@@ -72,6 +73,7 @@ Néanmoins, durant la  dernière guerre, les gazogènes et autres machines à va
 {{<figure src="/images/articles/carbo2.jpg" title="Démontage d’une meule">}}
 
 ### Rappel : 
+  
 *la production d'une tonne de charbon de bois nécessite la transformation de deux à 
   sept tonnes de bois. Charbonnier était un dur métier. Vivant à proximité des fumées,
   tout était imprégné de cette odeur âcre. De mai à octobre, ils séjournaient dans
@@ -86,7 +88,8 @@ Néanmoins, durant la  dernière guerre, les gazogènes et autres machines à va
   on tâtait la consistance de la meule à mesure que la cuisson descendait. 
   Quand la couche cédait, c'était cuit.*
 
- ### Pour l’Exposition  universelle de 1937
+### Pour l’Exposition  universelle de 1937
+  
  et jusqu’en 1940 dans les bureaux 
  des Eaux et forêts, situés au 1 de la rue du Port, au Mans, figurait
  en bonne place une affichette portant la mention : 
@@ -106,7 +109,7 @@ Après l’armistice du 22 juin 1940, la pénurie aidant, on ressortira
   C'est dans la gamme des véhicules utilitaires de charge utile moyenne (3.5 à 7 tonnes)
   à l'activité régionale et pour les tracteurs agricoles de puissance suffisamment grande
   que l'emploi du gazogène serait susceptible, en cas de nécessité, de pallier l'insuffisance
-  de nos importations pétrolières* (2) 
+  de nos importations pétrolières* **(2)** 
   
 
 {{<figure src="/images/articles/ouvriersrenault1940.jpg" title="Ouvriers Renault avec leur gazogène en 1940">}}
@@ -225,17 +228,17 @@ Le XXe siècle voient la révolution industrielle et la généralisation de l'em
  
 ### Bibliographie :
   
-(1) Notice sur le débit des bois de feu, leur mode de vente
+**(1)** Notice sur le débit des bois de feu, leur mode de vente
   et les procédés de carbonisation usités en France
   
-(2) Session ordinaire du Sénat de 1956-1957. 
+**(2)** Session ordinaire du Sénat de 1956-1957. 
   - Séance du 29 mai 1957.
   
 Documents et archives de l’ONF (livrets journaliers)
   
 Témoignages divers de vieux bûcherons	
  
-
+Bercé, une forêt d’exception (Y. Gouchet - 2018)
 
 
 
