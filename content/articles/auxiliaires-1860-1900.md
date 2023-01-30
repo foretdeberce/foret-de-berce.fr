@@ -4,9 +4,11 @@ date: 2022-09-13T13:24:33+01:00
 draft: false
 description: " Liste des auxiliaires de 1860 à 1900"
 featured_image: "/images/ofouest.jpg"
-tags: ["Hommes","Auxiliaires","Journaliers","Saisonniers","Scieurs-de-long","Artisans-du-bois","Carriers",Cantonniers","Tacherons"]
+tags: ["Hommes","Auxiliaires","Journaliers","Saisonniers","Carriers",Cantonniers","Tacherons"]
 ---
-##  Fin 19ème la liste des tâches faites par les ouvriers est longue et se décompose comme suit :
+###  Fin 19ème 
+
+la liste des tâches faites par les ouvriers est longue et se décompose comme suit :
 
 Ouvriers, auxiliaires, cantonniers, carriers et tacherons sont détachés 
 principalement fin 19ème à l’établissement du réseau routier.
@@ -36,14 +38,15 @@ malgré la défense qui leur en a été faite par moi.»* Ou bien encore,
 le 21 octobre 1879 Crossonneau 
 *« … remarque que les ouvriers avaient fait des bourrées 
 trop longues et mis des pins trop gros pour les fabriquer. »* 
-Les travaux touristiques : confection de loges*
+Les travaux touristiques : confection de loges* **(1)**
 ...le tourisme n'est à l'époque pas très développé. 
 
-    * La loge est l’abri construit en forêt
+**(1)** Le terme loge est l’abri construit en forêt
     pour un usage principalement touristique. 
 
 
-## Liste des auxiliaires, cantonniers, tacherons, carriers, bûcherons de l'administration entre 1860 et 1900
+**Liste des auxiliaires, cantonniers, tacherons, carriers,
+bûcherons de l'administration entre 1860 et 1900**
 
 > SVL: Saint Vincent du Lorouër
 > 
@@ -307,4 +310,8 @@ Les travaux touristiques : confection de loges*
 	VILLOTEAU Baptiste  PE				
 	VILLOTEAU Louis	PE				
 	WALTEAU Louise	SPL				
-	YONG Victor			
+	YONG Victor	
+	
+### Bibliographie : 
+
+Bercé, une forêt d’exception (Y. Gouchet  - 2018)
