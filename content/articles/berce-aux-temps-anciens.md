@@ -7,7 +7,7 @@ featured_image: "/images/cassini.jpg"
 tags: ["Histoire","archeologie","toponymie"]
 ---
 
-## Un peu d’Histoire…
+### Un peu d’Histoire…
 
 À mi chemin entre Le Mans et Tours, lambeau de l’antique forêt de la gaule chevelue, 
 Bercé n’a pas, au fil du temps, échappé aux défrichements.
@@ -19,7 +19,7 @@ jalonnent alors cet espace sauvage.
   {{<figure src="/images/articles/minierecoudre2.jpg" title="Minières de la Coudre - Vue Lidar">}}
 
 
-## La première richesse de Bercé fut la metallurgie.
+### La première richesse de Bercé fut la metallurgie.
   
   
   {{<figure src="/images/articles/minierescoudre.jpg" title="Minières validées sur la carte après vérifications sur le terrain">}}
@@ -35,7 +35,7 @@ où seul le nord de la Sarthe apparaissait dans le paysage Minier.
    {{<figure src="/images/articles/drac.jpg" title="La vallée de Sermaise et ses éléments archéologiques">}}
 
    
-## l'agriculture bouleverse le paysage
+### l'agriculture bouleverse le paysage
 
 Les cultivateurs mirent en place les premiers parcellaires ou enclos.
 
@@ -59,7 +59,7 @@ bêtes a creusé et raviné des chemins, laissant çà et là des traces indél�
 le *"Coin des fossés"* (ancien canton de 1783 situé Parcelles 241 et 242), 
 véritable passage obligé de toute une époque en fond de vallon.
 
-## Au 12e siècle, la forêt est ratachée aux possessions de la couronne d’Angleterre.
+### Au 12e siècle, la forêt est ratachée aux possessions de la couronne d’Angleterre.
 
 Elle redevint forêt royale en 1337. Réserve royale de chasse et grevée de droits divers, 
 elle est traitée depuis 1669 (date de la grande réformation des forêts par Colbert) 
@@ -68,7 +68,7 @@ en futaie régulière de chênes et de hêtres.
 Bercé, à cette date et contrairement à 
 beaucoup d'autres, est en bon état et n'a pas trop souffert d'abus. 
 
-## La féodalité et le clergé garants du patrimoine
+### La féodalité et le clergé garants du patrimoine
 
 Dépendant de la baronnie de Château du Loir, la forêt de Bercé était aussi 
 le fief de quantité de hobereaux, ou de seigneurs locaux.
@@ -82,7 +82,7 @@ Les abbayes jouissaient du terrain qui leur était accordé.
 Nombre de logis et châteaux d'églises et de maisons ont utilisé pour 
 leur charpentes ou leurs boiseries, le bois de la forêt. 
 
-## Le matériau bois prend de l'essor.
+### Le matériau bois prend de l'essor.
 
 Le vieux château des Étangs, à Saint Vincent du Lorouër, près des Sources 
 de l’Hermitière, existe depuis le XI° siècle. Il abrita en ses murs de
@@ -100,19 +100,19 @@ inclusivement, elle était assistée entre autre de Hilarion de Fromentières,
 chevalier, seigneur des Étangs, maître particulier ancien et alternatif
 de la maîtrise de Château-du-Loir.
 
-## La forêt Royale en 1669 
+### La forêt Royale en 1669 
   
   
-  {{<figure src="/images/articles/carte1669.jpg" title="Plan de la forêt royale de Bercé en 1669">}}
+{{<figure src="/images/articles/carte1669.jpg" title="Plan de la forêt royale de Bercé en 1669">}}
 
 
 Les forestiers de 1669 n'avaient qu'à être les continuateurs de leurs devanciers
 dans l'exécution des prescriptions de la nouvelle ordonnance de Colbert qui ne
-faisait elle-même que confirmer le régime à tire et aire (1) et les modes de
+faisait elle-même que confirmer le régime à tire et aire **(1)** et les modes de
 repeuplement recommandés pour les futaies par les ordonnances antérieures,
 notamment par celle de Charles IX, de 1573.
 
-•	 (1) Tire et aire : méthode ancestrale d’exploitation pratiquée en réalisant
+•	 **(1)** Tire et aire : méthode ancestrale d’exploitation pratiquée en réalisant
 des coupes de proche en proche (« à tire ») et des coupes rases d’égale surface
 (« et aire »), avec ou sans réserve de semenciers à cette époque.
 La forêt à l’époque n’était pas divisée en parcelles.
@@ -134,7 +134,7 @@ C'est le début d'une ébauche de la sylviculture et d'une forêt organisée.
 Elle ne couvre alors que les 3/4 de la surface actuelle. 
 Le reste est acquis en 1723 (Landes de Grammont et de Haute Perche).
 
-## A la révolution, Bercé fait partie de l'apanage de Monsieur : 
+### A la révolution, Bercé fait partie de l'apanage de Monsieur : 
 
 Louis XVIII le Désiré .
 En 1791, elle passe dans le domaine de l'État.
@@ -143,7 +143,7 @@ est heureusement ramené à 150, puis 180 ans avant la fin du 18e siècle.
 
 La forêt a bien eu à souffrir de quelques abus pendant la période révolutionnaire.
 
-## Tout est à peu près rentré dans l'ordre en 1827
+### Tout est à peu près rentré dans l'ordre en 1827
 
 ...au moment de la promulgation du Code Forestier en 1827.
 
@@ -174,7 +174,9 @@ ses lettres de noblesse et lui fait renouer avec ses racines Gauloises.
 {{<figure src="/images/articles/tonneaux.jpg" title="Tonneaux de provenance Jupilles chez Martell à Cognac">}}
 
 
-
+### Bibliographie : 
+  
+Bercé, une forêt d’exception (Y. Gouchet  - 2018)
 
 
 
