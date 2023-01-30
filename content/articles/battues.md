@@ -14,6 +14,7 @@ des semailles et élevages agricoles, en dépendent. Les battues sont
 ordonnées au 19ème siècle par les conservateurs des forêts.
 
 ### En 1844,
+
 la loi du 3 mai institue le permis de chasser. Durant la saison de chasse, 
 les battues sont le fait  des chasseurs (fermiers et Co-fermiers de la forêt)
 sous la surveillance du service forestier :
@@ -33,6 +34,7 @@ Bref, toutes bêtes s'approchant trop près des cultures et animaux
 de la ferme en général. 
 
 ### En 1889,
+
 cerfs, daims, sangliers et loups sont chassés à courre.
 
      Le terme « battue » souvent associé à la destruction
@@ -52,6 +54,7 @@ cerfs, daims, sangliers et loups sont chassés à courre.
 
 
 ### Les loups
+
 N’oublions pas qu’il n'y a pas si longtemps encore le loup rodait
 dans les parages faisant lui aussi son ménage. 
 Le dernier a été tué sur Bercé vers 1870. 
@@ -483,8 +486,8 @@ de bon voisinage qui furent pour un temps des plus tendues.
  
 56 ans plus tard, en avril 2016,
 	
-un mouvement de contestation du plan de 
-  chasse émerge par voie de presse, opposant forestiers et naturalistes.
+un mouvement de contestation du plan de chasse émerge par voie de presse, 
+opposant forestiers et naturalistes.
 Las des dégâts constatés depuis quelques années en et hors forêt, 
   forestiers et agriculteurs recherchent le bon compromis et sollicitent 
   que les attributions de bracelets soient revues à la hausse.
@@ -590,6 +593,7 @@ délivrés par l'administration des Eaux et forêts.
 Les renards sont indemnisés à la queue. 
 De nos jours, tous les personnels sont 
   sensibilisés par des stages à la chasse et possèdent le permis de chasser
+	
 – Coût du permis de chasser avec assurance :
 1958 : 2345f
 1962 : 41,90 Nf
@@ -652,7 +656,7 @@ L’article 4 de l’arrêté de clôture générale de la chasse en 1927 stipul
   vivant ou artificiel, les oiseaux désignés comme nuisibles par l'arrêté réglementaire permanent. »* 
   
 Les pies et corbeaux sont empoisonnés au « Pica corvicide » du 1er décembre au 31 mars. 
-  *« Il est certain que les préposés ne doivent pas s’attendre à être remboursés de leurs dépenses pour 1928 »*
+ *« Il est certain que les préposés ne doivent pas s’attendre à être remboursés de leurs dépenses pour 1928 »*
   
 En 1928
 
@@ -682,4 +686,8 @@ La sylviculture moderne préfère de loin la stricte application du plan de
  
 
 [Ouverture et clôture de la saison 2022-2023 : (1661-1683)](/articles/pdf/chasse2022-2023.pdf)
+	
+### Bibliographie : 
+	
+Bercé, une forêt d’exception (Y. Gouchet  - 2018)
 
