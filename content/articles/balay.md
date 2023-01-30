@@ -52,7 +52,7 @@ L’habitation rustique à Bercé,  faite de planches et de branchages (au débu
 Cabanes de Berger, baraque de fortune, hutte de sabotier, balai de bûcheron, refuge du promeneur,
   la loge se décline ici sous toutes ses formes, de la plus rudimentaire à la plus sophistiquée.
 	
-  Elle est lieu de vie de toute la famille et lieu privilégié du travail.
+Elle est lieu de vie de toute la famille et lieu privilégié du travail.
 
 {{<figure src="/images/articles/2villahuguette1931170.jpg" title="La villa Huguette en 1931 dans la parcelle 170">}}
 
@@ -102,26 +102,26 @@ Atelier de confection de cerclages de tonneaux avec des perches de châtaigniers
 
 
     28 Janvier 1905 : Note de l’inspecteur Roulleau.
-   "Suite aux plaintes sérieuses adressées par les Chasseurs, 
+   *"Suite aux plaintes sérieuses adressées par les Chasseurs, 
     et fondées  car  je l’ai moi-même constaté, suite aux instructions
     adressées au personnel des gardes, relativement à la divagation 
-    des chiens qui ne se comptent plus". 
+    des chiens qui ne se comptent plus"*. 
 
     Note à Monsieur le Garde Général
-    "Vous voudriez bien rappeler aux préposés sous vos ordres,
+    *"Vous voudriez bien rappeler aux préposés sous vos ordres,
     l’instruction inscrite à l’art.67 du cahier des charges ainsi conçue":
     "Les adjudicataires, ainsi que leurs facteurs, employés, bûcherons, 
     ouvriers et voituriers, ne pourront laisser errer leurs chiens 
     dans les Forêts – Les chiens servant à la garde des loges ateliers 
-    et chantiers devront être constamment attachés ou enfermés"………
+    et chantiers devront être constamment attachés ou enfermés"*………
 
-    "Et si au cours de mes tournées, j’avais à constater moi-même
+    *"Et si au cours de mes tournées, j’avais à constater moi-même
     que les tolérances prescrites ont été continuées sans que 
     vous y missiez obstacle, je vous en  rendrais personnellement
     responsable.*
   					Signé Roulleau
   
-    "Communiqué au personnel du Cantonnement, lui rappelant que je
+    *Communiqué au personnel du Cantonnement, lui rappelant que je
     demanderai une punition sévère contre le garde qui ne se 
     conformera pas à ces instructions.*
   
@@ -169,7 +169,9 @@ Le balai, "palais" du bûcheron, qui y trouve un peu de quiétude et de chaleur 
 {{<figure src="/images/articles/10logecigogne1999.jpg" title="Un balai de tôles dans la Cigogne en 1999">}}
 
 
-
+### Bibliographie : 
+	
+Bercé, une forêt d’exception (Y. Gouchet - 2018)
 
 
 
