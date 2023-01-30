@@ -2,7 +2,7 @@
 title: "A propos"
 date: 2019-11-16T13:15:51+01:00
 draft: false
-description: "Cet espace de mémoire est dédié à Bercé, Massif forestier du Sud Sarthe."
+description: "Cet espace de mémoire est dédié à Bercé, massif forestier du sud Sarthe."
 featured_image: '/images/chene-muriel.jpg'
 ---
 
