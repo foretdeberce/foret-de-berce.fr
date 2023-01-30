@@ -8,11 +8,11 @@ tags: ["Exploitation","Travaux","Hommes"]
 ---
 ### Les ateliers
 
-> «Les petits métiers se sont développés dans les massifs malaisés à exploiter et écartés des voies d’eau ou
+*Les petits métiers se sont développés dans les massifs malaisés à exploiter et écartés des voies d’eau ou
 de terre; La confection d’objets représentait un moyen de valoriser sur place les matières ligneuses et de
-leur ouvrir malgré les obstacles, une certaine zone d’exportation».
-> 
-> -- P. Deffontaines.
+leur ouvrir malgré les obstacles, une certaine zone d’exportation»*.
+ 
+-- P. Deffontaines.
 
 Une particularité méconnue de Bercé, c’est d’avoir produit un temps de la résine.
 
@@ -99,3 +99,6 @@ L’hiver il faisait ses merrains avec son gars : Roger.*
   
   Liste non exhaustive !
 
+### Bibliographie :
+
+Bercé, une forêt d’exception (Y. Gouchet - 2018)
