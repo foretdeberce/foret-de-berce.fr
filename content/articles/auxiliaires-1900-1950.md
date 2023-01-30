@@ -15,9 +15,9 @@ Ce métier physique réclame aussi un bon esprit d’équipe, de la constance et
 
 Des générations de besogneux ont ainsi par tous les temps, œuvré dans l’ombre des sous-bois et je leur tire mon chapeau. 
 
-# De 1900 à 1950
+### De 1900 à 1950
 
-## Liste des auxiliaires, cantonniers, carriers, bûcherons de l'administration	
+**Liste des auxiliaires, cantonniers, carriers, bûcherons de l'administration**	
  
 ### NOM,   Prénom,    sexe 
 
@@ -692,9 +692,9 @@ Des générations de besogneux ont ainsi par tous les temps, œuvré dans l’om
 	VOISIN Louis		M
         Et tous les oubliés (liste non exhaustive)
 
-# De 1950 à 2000
+### De 1950 à 2000
 
-## Liste des ouvriers forestiers :
+**Liste des ouvriers forestiers :**
 
      ARNAUDIES Claude
      AVISSE Hubert
@@ -952,3 +952,8 @@ Des générations de besogneux ont ainsi par tous les temps, œuvré dans l’om
      WEBER Auguste
       
      Liste non exhaustive
+     
+     ### Bibliographie : 
+     
+     Bercé, une forêt d’exception (Y. Gouchet - 2018)
+     
