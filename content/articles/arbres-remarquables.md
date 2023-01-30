@@ -2,7 +2,7 @@
 title: "Arbres remarquables"
 date: 2019-11-16T13:24:05+01:00
 draft: false
-description: "Des modèles pour les générations futures"
+description: "Modèles pour les générations futures"
 featured_image: '/images/et.1981p251.jpg'
 tags: ["Remarquables","Arbre"]
 ---
@@ -35,7 +35,7 @@ Par circulaire du 29 juin 1899, le directeur général des Eaux et Forêts deman
 En forêt de Bercé existent des arbres commémoratifs, devenus remarquables
 par une décision humaine. 
  
-*Ces arbres monumentaux le sont au sens de *«ce qui rappelle le souvenir d'un homme ou d'un événement»*.
+Ces arbres monumentaux le sont au sens de *«ce qui rappelle le souvenir d'un homme ou d'un événement»*.
  
 {{<figure src="/images/articles/arbres-remarquables.jpg" title="Un arbre remarquable">}}
  
@@ -46,7 +46,7 @@ après guerre.
 Les chênes des Clos et de la Coudre et de Croix-Marconnay feront l’objet d’autres pages.
 Intéressons nous à tous les autres qui émaillent le paysage.
 
-## Nos chers Disparus
+### Nos chers Disparus
  
 Des gros chênes, de mémoire d’homme, il y en avait à foison dans le Sault-Moulin dont certains 
 ont été réservés avant guerre pour le plus gros foudre du monde à Thuir.
@@ -55,6 +55,7 @@ ont été réservés avant guerre pour le plus gros foudre du monde à Thuir.
 
 Le chêne de Gaie-Mariée : ce chêne était situé dans la parcelle 194.
 Il a été abandonné à l’exploitation le 18 novembre 1946.
+ 
 Mesurée en 1942 par le brigadier ALBÉROLA, sa circonférence était de : 
 3 m 45 pour 208 ans d’âge pour une hauteur totale de 35 m dont 22 m sous branches. 
  
@@ -97,9 +98,9 @@ Il était donc normal de mettre le Hêtre en exergue.
 Celui-ci fournira pour l’époque quantité de sabots, divers ustensiles et du travail pour tous. 
 
 
-## Les Bien vivants
+### Les Bien vivants
  
-Le chêne le plus haut du monde (jusqu’à démenti) situé dans la vallée de l’Hermitière,
+Le chêne le plus haut du monde (jusqu’au démenti) est situé dans la vallée de l’Hermitière,
  près du ruisseau en bas de pente (50m)
  
 {{<figure src="/images/articles/ch50m.jpg" title="Abel au pied du chêne le plus haut du monde !">}}
@@ -108,7 +109,8 @@ Le chêne le plus haut du monde (jusqu’à démenti) situé dans la vallée de 
 
 *« Tout gui venant du Rouvre est regardé comme un envoyé du ciel. »* écrivait
 Pline l’Ancien Missive de l’Inspecteur Potel du 1er décembre 1928.
-Sur le peu de chênes à gui recensés en France, Bercé en possèdait trois dont un non retrouvé parcelle 207,
+Sur le peu de chênes à gui recensés en France,
+ Bercé en possèdait trois dont un non retrouvé parcelle 207,
 un autre parcelle 260
 {{<figure src="/images/articles/p228-1999.jpg" title="Le chêne à gui en 1999">}}
 
@@ -160,3 +162,6 @@ Particularité botanique, l’anastomose créé dans la nature des arbres qui sa
 
 {{<figure src="/images/articles/remarquables2.jpg" title="Carte des arbres remarquable">}}
 
+### Bibliographie : 
+ 
+Bercé, une forêt d’exception (Y. Gouchet - 2018)
