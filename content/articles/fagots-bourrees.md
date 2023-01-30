@@ -162,6 +162,7 @@ brins en stère et prévenu l’adjudicataire présent
 sur la coupe.*
  
 **Yves Camisy témoigne :** 
+ 
  « Avec la mère Michaud, ils allaient 
  au bois mort en jetant un grappin dans les basses branches 
  des chênes pour les casser. Ces branches étaient dures 
