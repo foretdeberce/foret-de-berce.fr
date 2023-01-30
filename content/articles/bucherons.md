@@ -6,14 +6,17 @@ description: "L’indispensable auxiliaire forestier "
 featured_image: '/images/bucherons.jpg'
 tags: ["Exploitation","Travaux","Hommes"]
 ---
-## L’exploitation des bois est le fait du marchand qui emploie ses bûcherons.
+### L’exploitation des bois est le fait du marchand qui emploie ses bûcherons.
 
 Sur la photo, une équipe de trois bûcherons pose avec le facteur de coupe ou garde vente, en compagnie du Préposé des Eaux et Forêts Louis Pigault, lorsque celui ci occupait le poste de la Maison Forestière des Clos, vers 1920.
+
 Mr. Massicot travaillait comme facteur pour la maison CAREL du Mans qui faisait du  Merrain.
 Il avait une roulotte avec un cheval. *(Maurice Vérité)*. 
 Dupré, de Beaumont était celui de la Maison Ferrant. 
+
 En 1928, les adjudicataires ne sont plus tenus d’avoir des gardes ventes, ils en conservent la possibilité
 (article 31 du nouveau code forestier).
+
 *Les bûcherons venaient travailler en vélo ou à pied.
 Certains laissaient leurs outils en Forêt, cachés sous branches et feuillages.
 Ils craignaient nullement l’acte de malveillance.
@@ -35,7 +38,9 @@ Maurice Vérité dont le père était Charretier".
 Gaston Masseau est né en 1914 de parents Agriculteurs sur Pruillé.
 
 Les 3 frères : Gaston, Jules (né en 1915) et Bernard (né en 1926) deviennent par la force des choses bûcherons.
+	
 Il fallait bien vivre et ce n’était pas le petit bordage qui procurerait du travail à ces trois solides gaillards.
+	
 Gaston l’aîné, arrêta son activité vers 1978. Il était connu de tous, pour le port immodéré des sabots qu’il 
 n’avait jamais quittés, lui déformant à vie les pieds tout en leur donnant de la corne.
 La terre venait sournoisement s’immiscer à l’intérieur des sabots s’accumulant dans les pointes! 
@@ -72,11 +77,11 @@ Le métier de bûcheron, Gaston l’exerçait au début avec Maxime Claudot né 
     
 Bernard, quant à lui, se souvient de cet accident arrivé dans les années 60/61, dans le Sault Moulin.
 Le Père Trouvé, originaire de Pruillé mais résidant à Marigné, bûchait dans de l’efforage.
-Bernard et ses frères qui travaillaient à proximité se dirent soudainement : *« il y a une sente pas ordinaire,
-on dirait des vêtements qui brûlent »*
+Bernard et ses frères qui travaillaient à proximité se dirent soudainement : *« il y a une sente pas ordinaire, on dirait des vêtements qui brûlent »*
 
 Ils se dirigèrent vers le balay d’où sortait la fumée et y trouvèrent le père Trouvé carbonisé jusqu’à la
-ceinture (dans le feu de bois qu’il avait allumé). Fut-il pris d’un malaise ? Nul ne le saura jamais.
+ceinture (dans le feu de bois qu’il avait allumé).
+Fut-il pris d’un malaise ? Nul ne le saura jamais.
 
 L'imagerie d'Épinal des bûcherons Chignard et Vérité, abattant les arbres séculaires de la parcelle 194
 (parcelle du célèbre chêne de Gaie Mariée) à grands coups de cognée: c’est fini.
@@ -103,9 +108,9 @@ gros chêne des Clos (1 m 40 de diamètre), qui a été vendu la bagatelle somme
 
 {{<figure src="/images/articles/bucherons.jpg" title="Les frères Pichon et Denis Legeay">}}
     
-Liste des bucherons de 1850 à 1914 :
+**Liste des bucherons de 1850 à 1914 :**
     
-    ## NOM	Prénom	Village
+###  NOM  Prénom	 Village
 	
 ADET	René	St Vincent du L
 ADET	Théodore	St Vincent du L
@@ -226,3 +231,7 @@ VENOT	X	Jupilles
 VERITÉ	Louis	St Vincent du L
 VIVET	Jules	Jupilles
 *Liste non exhaustive*
+	
+### Bibliographie : 
+	
+Bercé, une forêt d’exception (Y. Gouchet  - 2018)
