@@ -18,7 +18,7 @@ de la Couronne d’Angleterre.
 Mais jusqu’en 1843 l’on constata la 
 présence de vide bien souvent laissés par l’agriculture et l’élevage.
 
-Elle devint forêt royale en 1337.
+**Elle devint forêt royale en 1337.**
 Malgré  la  possession  du  Roi  et  l'ordonnance  de  1346  qui
 avait interdit de créer de nouveaux droits d'usage dans les forêts 
 du domaine royal, il en fut encore concédé d'assez nombreux jusqu’à
@@ -38,16 +38,17 @@ prirent fin qu’à la réformation de Colbert qui avait annoncé que la France
 périrait faute de bois. 
 Sa célèbre ordonnance des Eaux et Forêts du 13 août 
 1669 parachève le tableau. 
+
 Michel Devèze nous décrit [La Grande réformation des forêts sous Colbert : (1661-1683)](/articles/pdf/grande-reformation-des-forets-royales.pdf).
 
 {{<figure src="/images/articles/cartecassini.jpg" title="La carte de Cassini concernant Bercé">}}
 
 ### 1669 - 1er aménagement de  Bercé.
   
-La forêt est principalement peuplée de hêtres. (1)
+La forêt est principalement peuplée de hêtres. **(1)**
   
 Un arrêt du Conseil du Roi du 19 août 1689 et un ordre particulier  
-  de Louis XIV, des 28 août et 4 septembre de la même année,  chargèrent :
+  de Louis XIV, des 28 août et 4 septembre de la même année, chargèrent :
   
       « … les  sieurs  Florîmont Hurault, chevalier seigneur de Saint -Denis, 
       conseiller du roi en ses conseils, grand maître enquêteur et général 
@@ -63,19 +64,17 @@ Un arrêt du Conseil du Roi du 19 août 1689 et un ordre particulier
 
 {{<figure src="/images/articles/berce1669.jpg" title=" Carte de la forêt royale">}}  
   
-Elle a toujours été traitée, depuis [1669, date du premier aménagement](/articles/pdf/proces-verbal-de-reconnaissance-de-1669.pdf), 
-  en haute futaie de chêne et de hêtre. 
-  (Cliquez sur le lien pour accéder au PDF)
+Elle a toujours été traitée, depuis [1669, date du premier aménagement](/articles/pdf/proces-verbal-de-reconnaissance-de-1669.pdf), en haute futaie de chêne et de hêtre. 
   
   Lors de la grande réformation des forêts par Colbert (Ordonnance de 1669),
   Bercé, contrairement à beaucoup d’autres, est en bon état et n’a pas 
   trop souffert d’abus. Elle ne couvre alors que les 3/4 de la surface actuelle.
   
-Au nombre des importantes forêts ainsi visitées, se trouvait la forêt 
-  de Bercé (Maine). 
+Au nombre des importantes forêts ainsi visitées, 
+  se trouvait la forêt de Bercé (Maine). 
   La mission s'y transporta le mardi 8 octobre 1669 et
   y resta jusqu'au 17 inclusivement ; 
-  elle était assistée de   Hilarion de Fromentieres, chevalier,
+  elle était assistée de Hilarion de Fromentieres, chevalier,
   seigneur des Étangs, et de Me Léger Bougars, maîtres particuliers ancien et 
   alternatif de la Maîtrise de Château-du-Loir, de Me François Massue,
   procureur du Roi, Me Léger Seret, commis garde-marteau, Pommereul,
@@ -87,8 +86,8 @@ Au nombre des importantes forêts ainsi visitées, se trouvait la forêt
   Les  procès-verbaux  de mesurage déjà faits donnaient 8309 arpents
   pour la contenance de ladite forêt de Bercé. 
   
-« … située dans un fonds très bon pour porter des bois de haute futaie où 
-  ils peuvent profiter jusqu'à l'âge de 200 ans », disent les réformateurs
+*… située dans un fonds très bon pour porter des bois de haute futaie où 
+  ils peuvent profiter jusqu'à l'âge de 200 ans*, disent les réformateurs
   qui, le 18 octobre, visitèrent les anciennes forêts de Bois-Corbon et de
   Douvres, puis arrêtèrent leur procès-verbal en date du samedi 19 octobre 1669. 
   
@@ -106,9 +105,9 @@ Ce règlement fut approuvé par arrêt du conseil du  Roi du 3 décembre 1672.
   malgré les abroutissements  qui en résultaient, malgré les désordres
   administratifs auxquels l'ordonnance de Colbert avait pour but de remédier:
   
- « les régénérations de la forêt de Bercé s'étaient, sous le régime de culture
+ *les régénérations de la forêt de Bercé s'étaient, sous le régime de culture
   antérieur à 1669, opérées de la manière la plus complète, puisque sur 8309 
-  arpents on n'en comptait, en 1669, que 76 à repeupler. »
+  arpents on n'en comptait, en 1669, que 76 à repeupler.*
   
  Les forestiers de 1669 n'avaient qu'à être les continuateurs de leurs 
   devanciers dans l'exécution des prescriptions de la nouvelle ordonnance 
@@ -118,7 +117,7 @@ Ce règlement fut approuvé par arrêt du conseil du  Roi du 3 décembre 1672.
 
 {{<figure src="/images/articles/1723.jpg" title="1723 - agrandissement de la forêt ">}}
   
-1200 hectares supplémentaires, fait rarissime dans l'histoire des forêts domaniales, (1)
+1200 hectares supplémentaires, fait rarissime dans l'histoire des forêts domaniales, **(1)**
   sont acquis en 1723 (Landes de Grammont et de Haute Perche).
   
 
@@ -148,7 +147,7 @@ Jean Picot, marchand, demeurant à Parigné-l'Évêque, fut l'adjudicataire de c
 Une partie des terrains ainsi reboisés dut néanmoins faire l'objet de nouveaux  ensemencements  qui  ne 
   se  terminèrent qu'en 1777; 
   
-  Dans un procès-verbal des 27-28 octobre 1781,
+Dans un procès-verbal des 27-28 octobre 1781,
   le grand maître constate déjà  que  ces  reboisements ont donné de très médiocres 
   résultats, des bois mal venants ; il propose leur mise en coupes de taillis à 25 ans, 
   pour le chauffage des usagers et les forges ou fourneaux.
@@ -186,9 +185,9 @@ Le grand maître Eynard de Ravanne avait visité plusieurs fois, de 1727 à 1740
 
 {{<figure src="/images/articles/evolutionessences.jpg" title="Évolution entre1669 et 1985 ">}}
 
-### 1783 - Deuxième aménagement  (1)
+### 1783 - Deuxième aménagement 
 
-     (Extrait du procès-verbal d'aménagement de 1783-1785 (A.D.S/ B 3858)
+**(1)**(Extrait du procès-verbal d'aménagement de 1783-1785 (A.D.S/ B 3858)
      « La forêt de Bercé est située dans la province du Maine et dans l'étendue de 
      la Baronnie de Château-du-Loir, elle est à 56 lieues de Paris, à deux lieues 
      de la ville du Château-du-Loir où est le siège de sa maîtrise à 10 heures
@@ -198,24 +197,24 @@ Le grand maître Eynard de Ravanne avait visité plusieurs fois, de 1727 à 1740
      Après avoir visité le contour de la dite forêt, nous sommes entrés dans
      son intérieur et nous avons reconnu :
 
-     1°) Que sa situation est en général assez plane à la réserve de quelques
+     **1°)** Que sa situation est en général assez plane à la réserve de quelques
      vallées ou ravins qui presque tous se dirigent vers le midy.
 
-     2°) Le sol en est très varié, il est en général de la meilleure qualité,
+     **2°)** Le sol en est très varié, il est en général de la meilleure qualité,
      vers le milieu, médiocre dans la partie méridionale et très mauvais
      dans les parties septentrionales.
 
-    3°) L'essence dominante dans toute la forêt est en chêne, 
-    il y a un tiers de hêtres.
+     **3°)** L'essence dominante dans toute la forêt est en chêne, 
+     il y a un tiers de hêtres.
 
-    4°) Une remarque que nous avons fait c'est que contre l'ordinaire des autres forêts ;
-    celle-ci après les coupes de futaie se repeuple en même nature de bois dur. 
-    II y vient quelques bois blancs mais qui se trouvent détruits dès l'âge de 30 ans
-    et alors le fond se trouve peuplé en quantité suffisante de bonne espèce de bois,
-    pour la plus grande partie en chêne ; 
-    C'est pourquoi nous ne sommes point d'avis 
-    qu'il faille faire dans cette forêt comme nous l'avons fait dans les autres, 
-    recéper les taillis à l'âge de 30 ans. »
+     **4°)** Une remarque que nous avons fait c'est que contre l'ordinaire des autres forêts ;
+     celle-ci après les coupes de futaie se repeuple en même nature de bois dur. 
+     II y vient quelques bois blancs mais qui se trouvent détruits dès l'âge de 30 ans
+     et alors le fond se trouve peuplé en quantité suffisante de bonne espèce de bois,
+     pour la plus grande partie en chêne ; 
+     C'est pourquoi nous ne sommes point d'avis 
+     qu'il faille faire dans cette forêt comme nous l'avons fait dans les autres, 
+     recéper les taillis à l'âge de 30 ans. »
 
 Les officiers de la Maîtrise ne se bornèrent pas à pratiquer le nouvel aménagement 
   et à faire les repeuplements prescrits par les réformateurs en améliorant l'état
@@ -228,21 +227,20 @@ Les officiers de la Maîtrise ne se bornèrent pas à pratiquer le nouvel aména
 Sur la carte gauche ci-dessus, il était prévu un parcellaire abondant et régulier qui accompagnait 
   fidèlement la percée récente des voies forestières. 
   
-  L'aménagement de 1784 ne fut heureusement guère appliqué.
+L'aménagement de 1784 ne fut heureusement guère appliqué.
   Non seulement il ne fut pas assis sur le terrain, mais il cessa, dès 1792, 
   d'être appliqué dans la section de futaie, en ce qui concerne la durée de la révolution dont 
   l'injustifiable réduction à 100 ans résultait évidemment d'une fâcheuse complaisance
   pour les intérêts privés du puissant apanagiste de la forêt.
   
-  On revint à l'usage d'asseoir les coupes là où le bois était le plus âgé, c'est à dire dans les futaies ayant au moins 
-  150 à 180 ans, et leur traitement par le « mode du tire et aire » fut continué jusqu'en 1830,
+On revint à l'usage d'asseoir les coupes là où le bois était le plus âgé, c'est à dire dans les futaies ayant au moins 150 à 180 ans, et leur traitement par le « mode du tire et aire » fut continué jusqu'en 1830,
   époque où on commença à pratiquer la méthode du réensemencement naturel et des éclaircies.
   Les seuls ennuis phytosanitaires de l’époque sont aux dires de l’aménagiste les « limasses »
   et les grillons...
-  (5 novembre 1795 : rapport sur les dilapidations commises dans la forêt de Bercé) (2)
+  (5 novembre 1795 : rapport sur les dilapidations commises dans la forêt de Bercé) **(2)**
 
 A la révolution, Bercé fait partie de l’apanage de Monsieur, 
-( Louis XVIII le Désiré ), Frère du Roi . 
+(Louis XVIII le Désiré), Frère du Roi . 
 En 1791, elle passe dans le domaine de l’État.
   
 La forêt a bien eu à souffrir de quelques abus pendant la période révolutionnaire,
@@ -256,33 +254,33 @@ heureusement ramené à 150, puis 180 ans avant la fin du 18ème siècle.
   
 
   
-### 1843 - Troisième aménagement (1)
+### 1843 - Troisième aménagement 
   
 En 1841, un nouvel arpentage réalisé par Wautot, arpenteur  forestier, évalue pour 
-  la forêt 5.455 hectares.
+  la forêt 5.455 hectares.**(1)**
   
-  En 1842, une commission d'aménagement, dite de la Sarthe, 
+En 1842, une commission d'aménagement, dite de la Sarthe, 
   fut chargée d'étudier la forêt; elle termina son travail en 1843 et fut à l'origine 
   de l'ordonnance du 28 août 1846 qui n'adopta pas toutes ses propositions,
   en étendant le traitement en futaie à toute la forêt et en la divisant comme suit:
   
-1° Section A (4.005 hectares) en futaie de chêne et comprenant 8 séries partagées 
+**1° Section A** (4.005 hectares) en futaie de chêne et comprenant 8 séries partagées 
   chacune en 6 affectations et soumises à une révolution de 180 ans divisée en 6 
   périodes de 30 ans, pour application de la méthode du réensemencement naturel 
   et des éclaircies dont la rotation devait être égale à la durée de la période (30 ans).
   
-2° Section B (606 hectares) en futaie de pin maritime, dans la partie sud-ouest de la forêt 
+**2° Section B** (606 hectares) en futaie de pin maritime, dans la partie sud-ouest de la forêt 
   et comprenant une 9° série à exploiter à la révolution de 60 ans, par coupes à blanc-étoc 
   (coupe-rase) réensemencées artificiellement, après éclaircies tous les 5 ans, de 10 à 30 ans.
 
 {{<figure src="/images/articles/carte1843.jpg" title="1843 – 3ème aménagement ">}}
 
-3° Section C (382 hectares dont 152 hectares de vides, aux Profonds-Vaux) formant une 10° série,
+**3° Section C** (382 hectares dont 152 hectares de vides, aux Profonds-Vaux) formant une 10° série,
   pour conversion en futaie de chêne, hêtre et châtaignier, après exploitation en taillis simple
   pendant 30 ans, au lieu des 3 séries de taillis (une de chêne à la révolution de 30 ans 
   et 2 de châtaignier à la révolution de 7 ans) qu'avait proposées la commission.
   
-4°  Section D (355  hectares), dite  en  conversion, comprenant  une seule série (n° 11) 
+**4° Section D** (355  hectares), dite  en  conversion, comprenant  une seule série (n° 11) 
   formée d'une partie de l'ancienne série de taillis de Grammont et soumise à une révolution 
   préparatoire de 30 ans, pendant laquelle les exploitations devaient être réglées sur
   propositions spéciales et les vides repeuplés en chênes et hêtres qu'on remplaça par 
@@ -303,11 +301,11 @@ C’est enfin lors de cet aménagement qu’est acté le fait de construire la 1
 
 {{<figure src="/images/articles/1874.jpg" title="carte de 1874 ">}}
 
-### 1875 - Quatrième aménagement (1)
+### 1875 - Quatrième aménagement 
   
 {{<figure src="/images/articles/amenagement1860.jpg" title="décret de l'aménagement de 1860">}}  
   
-De 1843 à 1875, les vides se trouvent réduits de 774 à 177 hectares ; 
+De 1843 à 1875, les vides se trouvent réduits de 774 à 177 hectares**(1)**; 
   les sections n’existent plus. Les repeuplements artificiels exécutés
   avaient alors plus que doublé la surface occupée par les résineux et,
   dans les peuplements feuillus, la proportion du chêne avait continué
@@ -329,19 +327,19 @@ De 1843 à 1875, les vides se trouvent réduits de 774 à 177 hectares ;
   même dans la 9° série, de préférence au pin maritime. 
 
   
-### 1909 - Cinquième aménagement (1)
+### 1909 - Cinquième aménagement 
   
 L’administration forestière s’éteint le 15 avril 1898, pour laisser
   place le lendemain aux Eaux et forêts qui perdureront jusqu’au 22 décembre 1964.
   
-  En 1909, avant l'expiration de la deuxième période (1876-1911),
+En 1909, avant l'expiration de la deuxième période (1876-1911),**(1)**
   une nouvelle étude pour révision de l'aménagement constata d'abord 
   que les 177 hectares de vides reconnus en 1875 avaient disparu.
   Au lieu de 171 hectares, le pin sylvestre occupe 1459 hectares,
   soit 1288 hectares de plus. Le pin maritime au contraire ne couvre
   plus que 295 hectares au lieu de 1230, soit 935 hectares de moins. 
   
-  Ce changement considérable date de l'hiver 1879-1880 qui fit périr
+Ce changement considérable date de l'hiver 1879-1880 qui fit périr
   environ 1000 hectares de pins maritimes, et depuis 1880, le pin 
   sylvestre fut substitué presque partout à celui-ci, dans les parties
   nord-ouest et ouest de la forêt, par crainte d'un nouveau désastre.
@@ -387,9 +385,9 @@ Dans la section de futaie feuillue, la proportion des vieux peuplements
   futaies et devient très abondant, ce qui rend le rôle de l’essence
   moins utile dans l’étage dominant.
 
-### 1947 - Sixième aménagement (3)
+### 1947 - Sixième aménagement 
   
-Cet aménagement (arrêté du 21 octobre 1949) maintient les 11 séries. 
+Cet aménagement (arrêté du 21 octobre 1949) maintient les 11 séries.**(3)**
   Sept d’entre elles sont feuillues avec les caractéristiques suivantes :
   
 -Pour les quatre premières : révolution 240 ans, période 40 ans,
@@ -414,20 +412,20 @@ Adieux à l’ancienne administration car voici créé l’O.N.F. en 1966 initi�
   venait à expiration alors que celui des sept séries feuillues devait se 
   poursuivre jusqu'en 1968. 
   
-  Compte-tenu de la qualité exceptionnelle des chênes et de la sylviculture 
+Compte-tenu de la qualité exceptionnelle des chênes et de la sylviculture 
   très fine dont ils font l'objet, il est alors apparu absolument nécessaire 
   de sortir de la section feuillue les parties qui avaient été plantées en
   pin sylvestre ainsi que les auréoles de feuillus médiocres qui les entouraient. 
   Pour ce faire, une décision fut prise au niveau du Ministère pour que la totalité 
   de l'aménagement soit révisée en 1967. ...
   
-  L'aménagement approuvé par un arrêté ministériel du 23 Mars 1971 
+L'aménagement approuvé par un arrêté ministériel du 23 Mars 1971 
   tenant compte de ces considérations écologiques et de la conjoncture
   économique distingue trois séries épargnées par les défricheurs
   du Moyen Age. La forêt de Bercé n'a  donc pas en définitif beaucoup 
   changé d'aspect depuis que nous en connaissons l'histoire. 
   
-  Cette stabilité nous permet d'admirer les magnifiques futaies de la série feuillue.
+Cette stabilité nous permet d'admirer les magnifiques futaies de la série feuillue.
   
 {{<figure src="/images/articles/1967-1987.jpg" title="1967– révision d’aménagement ">}}
 
@@ -453,13 +451,13 @@ Adieux à l’ancienne administration car voici créé l’O.N.F. en 1966 initi�
 Les règles de culture sont plus dynamiques, grâce à des éclaircies plus
   précoces et fortes.  
   
-  Les nouvelle technologies arrivent, cartes 
+Les nouvelle technologies arrivent, cartes 
   satellite, micro informatique, géolocalisation, etc….Les matériels 
   évoluent, devenant plus ergonomiques.
   Les  forts changements climatiques incitent les forestiers à abaisser
   artificiellement la hauteur des arbres, en évitant une concurrence trop sévère.
   
-  À terme la forêt devrait produire des chênes de gros diamètre
+À terme la forêt devrait produire des chênes de gros diamètre
   susceptibles de fournir une proportion plus importante de bois 
   propres au tranchage.
  
@@ -524,17 +522,17 @@ ses lettres de noblesse.
 
 ### Bibliographie :
   
-(1) R. Potel, avril 1923-1924 - Bulletin de la Société d’agriculture, 
+**(1)** R. Potel, avril 1923-1924 - Bulletin de la Société d’agriculture, 
   des sciences et des arts de la Sarthe –  fascicule 1 Tome 49.
   
-(2) Rapports et correspondances du commissaire du directoire exécutif 
+**(2)** Rapports et correspondances du commissaire du directoire exécutif 
   au commissaire centrale de la Sarthe sur la situation morale,
   politique et militaire du canton de Château-du-Loir 
   L 250 (liasse de 340 pièces, papier). 1796 -1800 
   (minutes des arrêtés du directoire.) 
   
-(3) Henri Hoyau - À l'expiration de la troisième période (1912 - 1947) 
+**(3)** Henri Hoyau - À l'expiration de la troisième période (1912 - 1947) 
 
-
+Bercé, une forêt d’exception (Y. Gouchet - 2018)
 
   
