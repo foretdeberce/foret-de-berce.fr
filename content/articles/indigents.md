@@ -7,10 +7,12 @@ featured_image: "/images/et.allardindigent.jpg"
 tags: ["Histoire","Hommes","Ouvriers","Travaux"]
 ---
 
-La vie par le passé était laborieuse et beuacoup de travailleurs se
+La vie par le passé était laborieuse et beaucoup de travailleurs se
 trouvaient en état de pauvreté.
-Ces gagne-petits pour passer l'hiver venaient grapiller
-dans nos forêts le bois de subsistance. 
+
+Ces gagne-petits pour passer l'hiver venaient
+glaner ou grapiller dans nos forêts, le bois de subsistance.
+
 Considéré dans un premier temps comme du vol, 
 les mentalités changèrent subitement par la 
 pression médiatique, sous Napoléon III.
@@ -36,9 +38,11 @@ finances, il fait observer que :
 
 *«…cette tolérance ne pourrait être accordée sans précaution»*. 
 
-Le 19 juillet 1853, le ministre demande que lui soit indiqué, 
+Le 19 juillet 1853, le ministre demande que lui soit indiqué,
+
 *«…dans un projet de règlement, les conditions et formalités 
-auxquelles on devrait, dans l’intérêt des forêts, subordonner l’[exercice du ramassage](/articles/pdf/exerciceduramassage.pdf) 
+auxquelles on devrait, dans l’intérêt des forêts, 
+subordonner l’ [exercice du ramassage](/articles/pdf/exerciceduramassage.pdf) 
 dont il s'agit.
 II importe d'en mûrir les dispositions de manière à concilier, 
 autant que possible, le soulagement des individus nécessiteux
@@ -55,17 +59,20 @@ II faut éviter qu'une tolérance puisse dans la sollicitude que le
 gouvernement porte aux classes malheureuses ne devienne préjudicielle 
 pour les propriétés de l'État »* ** (1)**
 
+
 {{<figure src="/images/articles/kramer1922.jpg"  title="La carte d’indigent 1922">}}
+ 
 
 N’oublions pas que tout autour de Bercé, 11 communes bénéficient de cette mesure. 
-L’obligation de le ramasser à la main était bien faite :
+L’obligation de le ramasser à la main était bien faite:
 
 *« … pour empêcher que des outils de coupe du bois mort n'entrent dans les forêts 
 et qu'ils n'y servent a entailler des bois vifs et enlevés à dos d’homme. »*
  
 Tel ne fut pas le cas en forêt de Bercé, selon cette réprimande écrite le 4 juillet 1866,
 du garde général de Linière au garde Paul Masseron (MF des Hutteries) : 
-*«  les délits très graves d’enlèvement de bruyères qui ont eu lieu sur le triage 
+ 
+*« les délits très graves d’enlèvement de bruyères qui ont eu lieu sur le triage 
 du garde Masseron, prouvent d’une manière évidente, de la part du garde,
 une extrême négligence dans son service et de plus une faiblesse fâcheuse, 
 sinon même, une connivence coupable vis-à-vis des délinquants. 
@@ -77,8 +84,10 @@ que lui par la rumeur publique, que le garde décide enfin à reconnaître
 le délit et à faire un rapport »*.
 
 Le 9 août de cette même année Masseron rencontre le conservateur qui en 
-notation de son livret recommande à celui-ci *« de se mettre en moyen de
-mieux connaître son service, autrement il sera replacé cantonnier. »* 
+notation de son livret recommande à celui-ci 
+*« de se mettre en moyen de mieux connaître son service, autrement 
+ il sera replacé cantonnier. »* 
+ 
 En décembre 1879, sur Chahaignes, le brigadier Houbant et le garde Crossonneau,
 ferment les yeux sur les chargements de têtes de pins cassées par le verglas,
 transportés par Pierre Posson et Alphonse Fournier.
@@ -103,7 +112,7 @@ Chahaignes en 1879 : 2
 
 Saint Pierre du Lorouër en 1912 : 5
 
-{{<figure src="/images/articles/kramer1922.jpg"  title="Récapitulatif">}}
+{{<figure src="/images/articles/079b1recapitulatif.jpg"  title="Récapitulatif">}}
 
 {{<figure src="/images/articles/indigents1935.jpg"  title="Comparaisons 1935">}}
 
