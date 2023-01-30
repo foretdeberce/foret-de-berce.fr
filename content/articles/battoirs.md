@@ -30,7 +30,7 @@ afin de limiter les pertes en bois.
 Fallait faire attention aux nœuds,
 à la plus petite fente.  
 
-  *Il nous est même arrivé de trouver des éclats d’obus
+*Il nous est même arrivé de trouver des éclats d’obus
   dans des hêtres de Perseigne probablement suite 
   aux bombardements d’Alençon.*
   
@@ -111,13 +111,13 @@ avec la concurrence des produits métalliques et l’apparition
 des matières plastiques a fait disparaître notre artisanat 
 qui faisait vivre la région.  ”               
 
- (1) d’après le registre des comptes de M. BORDRON, année 1942.
+**(1)** d’après le registre des comptes de M. BORDRON, année 1942.
  
-### Enquête de:
-Véronique Chanteau, 
-Nicole Leroux et Yves Piraux (*Au fil du temps*)
-Avec les témoignages de :
- “Gaby” CHEMIN, Auguste BORDRON et Albert LEROY 
- de Pruillé-l’Eguillé
+### Bibliographie :
+  
+Revue Au Fil du temps N° 1 & 2 (Y. Piraux – 1997/1998) Enquête de:
+Véronique Chanteau, Nicole Leroux et Yves Piraux (*Au fil du temps*)
+Avec les témoignages de : “Gaby” CHEMIN, Auguste BORDRON et Albert LEROY 
+de Pruillé-l’Eguillé
 
 
