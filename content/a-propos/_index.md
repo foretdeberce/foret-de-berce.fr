@@ -44,7 +44,7 @@ Cet ouvrage paru aux éditions Alan Sutton dans la collection
   **Bercé Forêt d’Exception** ont soutenu dès 2016 
   la sortie d'un deuxième ouvrage dédié au Massif de Bercé.
   
-{{<figure src="/images/articles/livre-berce-une-foret-d-exception.jpg" title="Bercé, une forêt d'exception écrit par Yves Gouchet, paru le 06/06/2018 aux éditions Étrave">}}
+{{<figure src="/images/articles/livre-berce-une-foret-d-exception.jpg" title="Le dernier livre paru le 06 juin 2018 aux éditions Étrave">}}
 
 L'action était inscrite au sein du livret
   
