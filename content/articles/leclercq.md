@@ -101,3 +101,10 @@ Vers 1960 Albert Leclercq devient chef de District en Perseigne
   à Villaines-la-Carelle. 
   
 Il décèdera le 16 juin 1994 à Alençon.
+
+
+### Bibliographie : 
+  
+Archives familiales
+  
+Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
