@@ -19,6 +19,7 @@ Le garde Gendre commente les prémices de sa construction.
 {{<figure src="/images/articles/tour.jpg" title="Emplacement du Pylone de Mayet">}}
 
 ### 1957 :
+ 
  On commence à en apercevoir le projet : 
 « Je suis allé voir le point retenu pour la construction 
 du pylône relais TV, parcelle 104, près du rond de
@@ -26,7 +27,9 @@ Verneil. La navigation aérienne et sportive demande
 en effet à ce que l’installation se trouve à 1700 m de
 la RN 158.»
 
-2 février 1957 : « Essais avec  un ballon à la "côte 170". »
+**2 février 1957 :** 
+ 
+ « Essais avec  un ballon à la "côte 170". »
  
 30 novembre 1957 : *« Comptage des pins pour le compte 
 de la RTF sur la partie où doit s’installer
@@ -44,6 +47,7 @@ chemin d’accès (RTF) puis montage du pylône.»
     redevance forfaitaire.
     
 ### Juillet 1959 :
+ 
  le garde GENDRE a eu la visite en d’un
 contremaître de la RTF pour effectuer une trouée dans
 les peuplements « …devant servir au passage des cordages servant à amarrer le pylône ».
@@ -56,16 +60,19 @@ Mise en service du premier pylône : 300m de haut.
  {{<figure src="/images/articles/1959relai.jpg" title="Inauguration de 1959">}}
 
 ### 1963 :
- démarrage de la FM.
+ 
+Démarrage de la FM.
 
 ### 1967 : 
- Apparition de la couleur, ce qui nécessitera 
+ 
+Apparition de la couleur, ce qui nécessitera 
 le rehaussement du pylône ancien (320m).
  
  {{<figure src="/images/articles/744mayet.jpg" title="Réhaussement du pylône">}}
 
 ### 16 avril 1969 : 
- grève et manifestation des commerçants
+ 
+Grève et manifestation des commerçants
 du département au relais de l’ORTF. 
 Gendre effectue un service de sécurité avec l’aide des ouvriers.
 
@@ -74,26 +81,30 @@ Gendre effectue un service de sécurité avec l’aide des ouvriers.
     On craint le pire pour ce grand pylône.
 
 ### 1985 :
- Cryptage de la 4ème chaîne (Canal +)
+ 
+Cryptage de la 4ème chaîne (Canal +)
 
 ### 1987 : 
- extension du réseau TV
+ 
+Extension du réseau TV
 
 ### 1993 : 
- démolition de l’ancien pylône et mise en service
+ 
+Démolition de l’ancien pylône et mise en service
 du nouveau. On passe de 320 mètres à 342 mètres. 
   
  {{<figure src="/images/articles/terresblanches.jpg" title="342 m record battu">}}
 
 ### 1996 :
- La base de l’ancien pylône s’est métamorphosée 
+ 
+La base de l’ancien pylône s’est métamorphosée 
 en une sculpture contemporaine (signée Jean Bernard
-MÉTAIS, de Courdemanche) que l’on peut découvrir 
+Métais, de Courdemanche) que l’on peut découvrir 
 sur la place de Mayet, devant l’Office du tourisme.
  
  {{<figure src="/images/articles/pied.jpg" title="La matière première de la sculpture">}}
 
-Jean-Benoît GAYET du "Maine Libre" note : 
+Jean-Benoît Gayet du "Maine Libre" note : 
 *« Doté de 6 émetteurs  pour la TV analogique (arrêt programmé
 le 18/5/2010), 4 émetteurs FM et 6 émetteurs pour la TV numérique,
 l’émetteur de Mayet est conçu en 1959 par la glorieuse RTF.
@@ -121,7 +132,7 @@ le plus prestigieux, avec celui de la tour Eiffel :
 «Il est plus haut que la tour Eiffel et il est l’un des plus ancien»
 
  
-*Franck Magrez (responsable du secteur), 
+**Franck Magrez** (responsable du secteur), 
 l’un de ses plus farouches protecteurs
  
 Situé à une altitude de 148 m et haut de 342 m, 
