@@ -1,4 +1,4 @@
- ---
+---
 title: "Les saigneurs de Bercé"
 date: 2022-10-13T18:22:44+01:00
 draft: false
@@ -7,12 +7,12 @@ featured_image: "/images/et.resiniers.jpg"
 tags: ["Exploitation","Arbres","Livrets","Forestiers","Graines"]
 ---
 
-## 1927 à 1932.
+### 1927 à 1932.
 
 ### Six années de gemmage en Bercé. 
 
 
- {{<figure src="/images/articles/resine7.jpg" title="Saga du pin maritime en Sarthe">}}
+{{<figure src="/images/articles/resine7.jpg" title="Saga du pin maritime en Sarthe">}}
 
 Le prix du pin maritime valait :
 De 1 franc à 3 francs en 1857, 
@@ -21,14 +21,14 @@ Et s'est vendu en 1926 jusqu'à 126  francs
   (francs-papier), avec un cube d'environ 1,50m³.
 C’est de lui que l’on tire la gemme.… 
 
- {{<figure src="/images/articles/landes-resiniers.jpg" title="Poème de Théophile Gautier">}}
+{{<figure src="/images/articles/landes-resiniers.jpg" title="Poème de Théophile Gautier">}}
 
       « Car, pour lui dérober ses larmes de résine, l'homme,
       avare bourreau de la création, qui ne vit qu'aux dépens 
       de ceux qu'il assassine, dans son tronc douloureux ouvre
-      un large sillon ! »   (1)
+      un large sillon ! » **(1)**
   
-### Quelques définitions :
+**Quelques définitions :**
  
 Le gemmage : consiste à blesser un pin pour en récolter la gemme ou résine. 
   Le gemmage remonte sans doute à l'apparition de la forêt elle-même,
@@ -44,7 +44,7 @@ le gemmeur : C’est un "résinier" comme on disait autrefois en
   l’année en forêt, à l'entretien des sites, à l'abattage des 
   pins ou à l'éclaircissement des semis. 
   
- {{<figure src="/images/articles/resine5.jpg" title="Les outils">}}
+{{<figure src="/images/articles/resine5.jpg" title="Les outils">}}
   
 La campagne de gemmage commence vers la fin du mois de janvier pour 
   se terminer fin octobre. Le résinier pratique à partir de la mi-mars
@@ -59,7 +59,7 @@ La campagne de gemmage commence vers la fin du mois de janvier pour
   Une poire à acide sulfurique peut être vaporisée sur la carre, 
   pour activer la sudation du pin.
   
- {{<figure src="/images/articles/resine1.jpg" title="Le résinier">}}
+{{<figure src="/images/articles/resine1.jpg" title="Le résinier">}}
   
 La résine ou gemme : Son prix est passé de 68 francs la barrique landaise 
   de 340 litres en 1857 à 1087 francs en 1925 (francs-papier). 
@@ -81,13 +81,13 @@ La colophane est exposée au soleil, sur des plateaux circulaires en zinc et,
  Stockée en fûts de pin, la résine 
   est ensuite expédiée vers les savonneries Marseillaises, pour distillation.
   
- {{<figure src="/images/articles/resine3.jpg" title="La poterie réceptacle">}}
+{{<figure src="/images/articles/resine3.jpg" title="La poterie réceptacle">}}
   
   
- {{<figure src="/images/articles/resine10.jpg" title="Le hapchot">}}
+{{<figure src="/images/articles/resine10.jpg" title="Le hapchot">}}
   
 
-## 1- Y aurait-il eu du pin maritime en Sarthe avant le XVIIème ?
+### 1- Y aurait-il eu du pin maritime en Sarthe avant le XVIIème ?
   
 «La culture du pin maritime», écrit M. Henry Roquet, dans un intéressant 
   article paru dans le Bulletin de la Société d'Agriculture, Sciences et 
@@ -96,7 +96,7 @@ La colophane est exposée au soleil, sur des plateaux circulaires en zinc et,
   Si  nous en croyons Cauvin (annuaire du département de la Sarthe pour 1829)... 
   des négociants du Mans, frappés, au cours d'un voyage de la similitude des 
   landes de la Gascogne avec celles du Maine, rapportèrent vers 1650 des graines
-  de pin du Bordelais et les semèrent sur leurs terres aux environs d'Écommoy.»   (2)
+  de pin du Bordelais et les semèrent sur leurs terres aux environs d'Écommoy.» **(2)**
   
 M. Roquet pense que cette  date est beaucoup trop récente et que le pin maritime
   était certainement cultivé dans le Belinois un siècle plutôt. Peut-être même,
@@ -105,13 +105,13 @@ M. Roquet pense que cette  date est beaucoup trop récente et que le pin maritim
   À cette même époque l'inspecteur principal Potel, ne croit pas en 
   l'abondance du pin maritime dans la Sarthe avant la fin du XVIIème siècle. 
   
- {{<figure src="/images/articles/resine9.jpg" title="La pique et l’amasse">}}
+{{<figure src="/images/articles/resine9.jpg" title="La pique et l’amasse">}}
   
 *L’amasse (du gascon amassa) est le nom donné dans les Landes de Gascogne à la récolte de la résine de pin.*
 
-## 2 « Les pionniers du gemmage industriel en Sarthe »
+### 2 « Les pionniers du gemmage industriel en Sarthe »
 
-### Un visionnaire : M. Lefebvre des Allayx …..
+**Un visionnaire : M. Lefebvre des Allayx** …..
   
 De l’intérêt de l’extraction de la térébenthine des pins du département de la Sarthe.
   
@@ -137,7 +137,7 @@ Les produits, la main d'œuvre, l'état de l'atmosphère, ont été consignés
   que j'ai éprouvé, ont occasionné une perte d'un tiers : au pied de 
   chaque arbre on en voit des amas considérables qui ont pénétré la terre.
   
- {{<figure src="/images/articles/resine14.jpg" title="La résine">}}
+{{<figure src="/images/articles/resine14.jpg" title="La résine">}}
 
 Huit journées d'homme par semaine ont toujours suffi, et jusqu'au 1er novembre,
   il y a 300 francs de main d'œuvre, pour 200 francs de produits, en y comprenant
@@ -159,7 +159,7 @@ On choisira des tiges droites pour éviter un trop grand nombre de copeaux ;
   ceux qui sont inclinés auront des boîtes plus larges, plus longues et plus
   avancées du côté vers lequel ils penchent. Les planches des côtés de ces 
   boîtes devront être évasées en dehors, pour les établir plus solidement 
-  et augmenter leur distance extérieure, elles dépasseront le sol de 0.5 mètre. ## (3)
+  et augmenter leur distance extérieure, elles dépasseront le sol de 0.5 mètre.**(3)**
  
      Mr Lefebvre des Allayx  (La Fontaine Saint-Martin) nous explique sa méthode.
      « …Il faut enlever les 3/4 de la grosse écorce dans une longueur de 1 m 
@@ -231,11 +231,12 @@ On choisira des tiges droites pour éviter un trop grand nombre de copeaux ;
 
  
 Nos produits sont de deux espèces :
-1° - le galipot qui se détache de l'entaille, et qu'on livre
+ 
+**1°** - le galipot qui se détache de l'entaille, et qu'on livre
   au commerce sans aucune préparation, au prix de 0 fr.40 c.
   le kilo; il forme le 1/4 de la récolte totale.
   
-2° - la térébenthine qu'on prend dans les boîtes, pour la
+**2°** - la térébenthine qu'on prend dans les boîtes, pour la
   soumettre à l'analyse et obtenir l'essence, la colophane,
   la résine, le brai et autres matières que nous pourrons
   bientôt exposer. Ces opérations sont plus simples et moins 
@@ -258,15 +259,15 @@ Notre climat étant plus froid que celui de Bordeaux, on pourrait
   pourra fonder un établissement central pour celles qu'on obtiendra 
   dans nos contrées.
   
-Le département de la Sarthe a 1700 ha de pinières et 23000 ha de landes,
+*Le département de la Sarthe a 1700 ha de pinières et 23000 ha de landes,
   bruyères et terres incultes qui toutes devraient être immédiatement 
   plantées en pins. On pourrait toujours en avoir 24000 ha à traiter, 
   dont le produit annuel s'élèverait par la suite à cinq millions, 
-  en térébenthine, en galipot et en goudron.
+  en térébenthine, en galipot et en goudron.*
   
- {{<figure src="/images/articles/resine4.jpg" title="Le résinier landais">}}
+{{<figure src="/images/articles/resine4.jpg" title="Le résinier landais">}}
 
-L'écoulement des diverses substances qui sont d'un grand usage dans les arts,
+*L'écoulement des diverses substances qui sont d'un grand usage dans les arts,
   dans la marine et pour l'éclairage, s'effectuera promptement en livrant aux
   commerçants, ou directement aux consommateurs. Leur transport donnera une 
   grande activité au roulage et à la navigation. Le commerce recevra une 
@@ -274,7 +275,7 @@ L'écoulement des diverses substances qui sont d'un grand usage dans les arts,
   et leur valeur seront beaucoup augmentés. Ainsi, un mille de pins entaillés
   et âgés de 25 ans, qui ne rapporterait pas 10 fr. par an, pourrait produire
   200 fr. de rente à une époque où chaque arbre ne vaudrait pas 1 fr., 
-  et jusqu'à celle où il aurait atteint toute son étendue.
+  et jusqu'à celle où il aurait atteint toute son étendue.*
   
 Un riche propriétaire du département des Landes, m'écrivait dernièrement que,
   s'il n'était pas aussi âgé, il viendrait ici établir l'extraction de la résine 
@@ -287,20 +288,20 @@ Un riche propriétaire du département des Landes, m'écrivait dernièrement que
   doute sont invités à visiter mes travaux ; la question principale est résolue,
   mais s'il reste quelques difficultés à vaincre, l'expérience m'instruira, et 
   j'espère que des hommes plus éclairés que moi voudront bien seconder
-  mes efforts. » (3) 
+  mes efforts. » **(3)** 
   
   …………………...Mr THORÉ témoigne lui aussi de son succès:
   
- {{<figure src="/images/articles/thore.jpg" title="Lettre de Charles Thoré">}}
+{{<figure src="/images/articles/thore.jpg" title="Lettre de Charles Thoré">}}
   
   
- {{<figure src="/images/articles/resine13.jpg" title="Lettre à la société d’agriculture">}}
+{{<figure src="/images/articles/resine13.jpg" title="Lettre à la société d’agriculture">}}
 
 La veuve de l’entrepreneur visionnaire Lefebvre des Allayx, obtiendra en 1842 
   le 1er Prix du Concours de la Société d'agriculture sciences
   et arts de la Sarthe (médaille d’or).
 
-« La voix de la Société d'agriculture, sciences et arts de la Sarthe et les
+La voix de la Société d'agriculture, sciences et arts de la Sarthe et les
   travaux de M. des Allayx ont été compris, car déjà 40 mille pins environ 
   se trouvent entaillés dans ce département et l'intention de Mm. Demaude 
   frères et Dugué serait même de soumettre à cette utile opération les pins
@@ -309,21 +310,21 @@ La veuve de l’entrepreneur visionnaire Lefebvre des Allayx, obtiendra en 1842
   Messieurs en réclamant de la Société qu'elle voulût appuyer leur demande 
   auprès de M. le Ministre.
   
-  « Les résultats avantageux que M. Lefebvre des Allayx vient d'obtenir du 
+ *Les résultats avantageux que M. Lefebvre des Allayx vient d'obtenir du 
   gemmage des pins maritimes, les encouragements que vous promettez à ceux
   qui entreprendront un pareil travail, ont fait naître en nous l'idée de 
   créer une entreprise toute spéciale pour extraire les sucs résineux de 
   ces arbres couvrant 20 mille hectares de notre département, et qui
   pourraient en couvrir autant, le cadastre indiquant 22 mille hectares
-  de bruyères. ».  
+  de bruyères.*  
   
-Votre Société s'est empressée de prêter l'appui qu'on lui demandait, 
+*Votre Société s'est empressée de prêter l'appui qu'on lui demandait, 
   persuadée qu'une telle entreprise serait un moyen puissant de propager
   une industrie destinée à porter l'aisance dans les contrées les plus 
   pauvres du département et à augmenter d'une manière notable, sa richesse
   territoriale et commerciale, car désormais l'extraction des substances 
   résineuses ne peut plus être considérée comme impraticable ni comme 
-  improductive dans notre pays. »
+  improductive dans notre pays.*
   
  {{<figure src="/images/articles/resine8.jpg" title="La barette (pioche) ou hapchot">}}
   
@@ -338,7 +339,7 @@ D'autre part, la demande extérieure s'accroît, stimulée par le
   
 En Gascogne, la résine qui s'écoule, c’est de l’or pour le pays.
   
-«D'après certains calculs», écrit  M. Buffault, conservateur  des 
+*D'après certains calculs*, écrit  M. Buffault, conservateur  des 
   Eaux et forêts à Bordeaux, dans les Landes, un hectare boisé en 
   pins rapportait en moyenne, en bois et en résine :  
   
@@ -347,11 +348,12 @@ En Gascogne, la résine qui s'écoule, c’est de l’or pour le pays.
 48  francs par an en 1902; 
   
 200 francs par an de 1910 à 1924 (moyenne annuelle); 
-  le chiffre de 1924 a même atteint 284 francs, en francs-papier,
-  la  résine  entrant dans ce chiffre pour 3/5, et le bois  pour 2/5.»*
-*« Revue des Eaux et forêts -juin et juillet 1926»
+ 
+Le chiffre de 1924 a même atteint 284 francs, en francs-papier,
+  la  résine  entrant dans ce chiffre pour 3/5, et le bois  pour 2/5.
+*« Revue des Eaux et forêts -juin et juillet 1926 »*
   
-« Dans  les  terrains  particuliers de  la  région (Sud-ouest de la Sarthe), 
+Dans  les  terrains  particuliers de  la  région (Sud-ouest de la Sarthe), 
   les repeuplements en pin maritime se faisaient toujours autrefois,
   c'est-à-dire  avant la  guerre de  1914, après extraction des souches, 
   quand il y en avait,  et labour à la charrue,  au moyen d'un  semis en plein,
@@ -360,7 +362,7 @@ En Gascogne, la résine qui s'écoule, c’est de l’or pour le pays.
 Depuis la guerre, l’extraction des souches ne se fait plus que rarement en 
   raison   de    la   cherté   de   la   main d’œuvre, mais, dans ce cas
   et en compensation, la graine est semée avant l'extraction des souches
-  et se trouve  enterrée pendant l'exploitation de la pineraie. » ## (4)
+  et se trouve  enterrée pendant l'exploitation de la pineraie. » **(4)**
   
 On ne saurait trop insister, sur l'importance du gemmage dans la Sarthe. 
   On recommença à gemmer les pins, semés vers 1880, à partir de 1905;
@@ -376,9 +378,9 @@ Mais c’est seulement 85 ans plus tard que la production de gemme
   est entreprise sur Bercé.
 L’outillage et les techniques sont originaires du Sud-Ouest.
 
-## 3  - La culture du pin maritime à Bercé :
+### 3  - La culture du pin maritime à Bercé :
   
-### Six ans de gemmage à Bercé (1927 à 1932)
+**Six ans de gemmage à Bercé (1927 à 1932)**
 
 À Bercé en 1926, Granger (conservateur des Eaux  et forêts) annonce 
   l’adjudication des carres  pour un gemmage en 1927. La carre s'est
@@ -455,7 +457,15 @@ Aujourd’hui, la technique innovante des trous circulaires dans l’écorce,
   
 ### Bibliographie :
   
-### (1)  Le pin des Landes (Théophile Gautier 1811-1872)
-### (2) Extrait de la conférence, faite par M. GRANGER conservateur des Eaux et forêts, à l’assemblée de l’union syndicale des marchands de bois, le 18 mars. (Article paru dans l'agriculteur Sarthois du 7 avril 1928 n°1364)
-### (3)  Bulletin de la Société d'agriculture sciences et arts  de la Sarthe* 1842
-### (4)  Note du 14 février 1928 de M. l’inspecteur principal au Mans 
+**(1)**  Le pin des Landes (Théophile Gautier 1811-1872)
+ 
+**(2)** Extrait de la conférence, faite par M. GRANGER conservateur
+ des Eaux et forêts, à l’assemblée de l’union syndicale des marchands
+ de bois, le 18 mars. 
+ (Article paru dans l'agriculteur Sarthois du 7 avril 1928 n°1364)
+ 
+**(3)**  Bulletin de la Société d'agriculture sciences et arts  de la Sarthe* 1842
+ 
+**(4)**  Note du 14 février 1928 de M. l’inspecteur principal au Mans 
+ 
+Revue Au Fil du temps N° 49 - 52 & 55  (Y. Gouchet – 2010/2012)
