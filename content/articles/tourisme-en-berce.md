@@ -7,7 +7,8 @@ featured_image: "/images/tourisme1973.jpg"
 tags: ["Remarquables","Tourisme","Hommes","Tramway","Hermitiere","Coudre","Boppe"]
 ---
 
-## 3 Avril 1905
+### 3 Avril 1905
+
 Dès le xxe siècle, le tourisme se développe avec les avancées techniques et 
 le développement de l'automobile. Note de Roulleau :
 *3 Avril 1905 à Mr le Garde Général.
@@ -36,7 +37,7 @@ Touring-Club, des Débats, ou du Petit Parisien sont avec nous.
 J’espère donc que les gardes de Bercé rempliront leur devoir sans 
 passion comme sans faiblesse.
 
-## 5 Mars 1920
+### 5 Mars 1920
 
 Le Conseiller d’État, Directeur Général des E et F (L.DABAT) s’exprime en ces mots :
 
@@ -59,7 +60,7 @@ accotement gazonné, coupé de saignées pour l’écoulement des eaux.
 •	Les carrefours devront avoir un diamètre suffisant.
 •	Certaines parties de Forêt, pourront être aménagées en Parc , en Jardin.*
 
-## 10 Mai 1920
+### 10 Mai 1920
 
 Note de Potel à porter verbalement à la connaissance
 des gardes en réunion de brigade.
@@ -93,10 +94,11 @@ Cordons d’arbres réservés le long des routes
 
 {{<youtube id="hHovPnvJXkw" autoplay="true">}}
   
-### @ DJi Phantom 3 Standard, survol Foret de Bercé, le 20-11-2019.
-  Survol des grands sites de Bercé
+Vidéo proposée @ DJi Phantom 3 Standard, 
+  survol Foret de Bercé, le 20-11-2019.
+ 
 
-## 8 Mai 1928
+### 8 Mai 1928
 
 Note du Conservateur à Alençon du 8 Mai 1928.
 J’attire l’ attention de MMrs les Inspecteurs sur l’impression
@@ -108,7 +110,7 @@ de recourir au système des anciens aménagements, c’est à dire
 de faire des cordons de réserves le long des routes les plus
 fréquentées.
 
-## 23 mai 1928
+### 23 mai 1928
 
 Réponse du Brigadier Albrecht :
 Il n’y a actuellement dans la 2ème Brigade de la Forêt de Bercé,
@@ -118,7 +120,7 @@ coupes ( parcelles :27-132-140) où il pourrait être laissé
 un cordon de réserves lors de l’exploitation des coupes
 dans ces parcelles.
 
-## 4 août 1928
+### 4 août 1928
 
 Réponse de Potel (Inspecteur Principal) à faire verbalement aux Gardes :
 Les arbres réservés dans les conditions indiquées, seront
@@ -130,7 +132,7 @@ N.D.L.R.: On sait aujourd’hui qu’en matière de Paysage, ce système
   bordures, voir de laisser des bouquets Feuillus dans 
   les résineux ou vice et versa .
 
-## 1er août 1928
+### 1er août 1928
 
 Améliorations Touristiques (Note de Potel):
 Comme je l’ai préconisé à diverses reprises, par exemple dans
@@ -170,26 +172,32 @@ devoir suffire à ce sujet.
 {{<figure src="/images/articles/hermitiere.jpg" title="Arrivée aux sources">}}
 
   
-## 4 Septembre 1929
+### 4 Septembre 1929
   
 Note de Mr l’inspecteur principal Potel
+  
 Il existe déjà à Bercé, aux Cantons des Clos et des Forges, deux séries artistiques :
-1.	la 1ère depuis longtemps
-2.	la 2ème proposée depuis 1920 et dont le classement sera de nouveau proposé cette année.
-18 Septembre 1929
-Réponse d’Albrecht :
+  
+**1.**	la 1ère depuis longtemps
+**2.**  la 2ème proposée depuis 1920 et dont le classement sera de nouveau proposé cette année.
+  
+18 Septembre 1929, réponse d’Albrecht :
 Propose la Coudre et en ce qui concerne les arbres de bordure,
 ils pourraient être délaissés, quelques uns dans les parties
 pré-comptables : 130 – 140 – 141 – 27.
   
-## 1936
+### 1936
   
 Confection de l'accès au Chemin de la Coudre (voir route) – délimitation du chemin des Salles Maison Neuve : Terrain labouré en 1937.
 *Le 31/08/42 Vu des opérateurs de Cinéma en train de filmer sur la croix Segrier.*
 
   Aujourd'hui Bercé attire par sa renommée quantité de monde
-## Cette petite présentation vous donnera peut-être l'envie de la parcourir.
+  
+### Cette petite présentation vous donnera peut-être l'envie de la parcourir.
   
   {{<youtube id="O8nrNpmKvR8" autoplay="true">}}
   
   
+### Bibliographie : 
+  
+Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)  
