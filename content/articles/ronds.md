@@ -52,7 +52,7 @@ de Bercé: M. Comte de Provence, Louis XVIII dit le Désiré.
 	
 {{<youtube id="HtwpOO8_KMk">}}
 
-### @ Sylvain Photouvoir
+Vidéo de : @ Sylvain Photouvoir
 	
 Le rond du Clocher, quant à lui, n’eût droit à sa cinquième
   puis sixième branche qu’à la fin du 19e siècle.
@@ -152,7 +152,7 @@ En mars 1911 : Jouaux (successeur de Heintz) repeint les poteaux des ronds de so
   Ces poteaux seront régulièrement repeints en brun, puis au minium et enfin en blanc.
 Tels le Guinier (1906), Bel-air (1923).
  
- {{<figure src="/images/articles/guinier1.jpg" title="Rond du Guinier">}}
+{{<figure src="/images/articles/guinier1.jpg" title="Rond du Guinier">}}
 	
 {{<youtube id="bPD5DrYe5ck">}}
 
@@ -170,9 +170,9 @@ Dès 1992 on prévoit de remettre les poteaux au milieux des ronds-points et l'o
  Au fil du temps, ces ronds, fierté du massif de Bercé, vont, avec la circulation
   et le modernisme payer un lourd tribut.
 	
-## Les accidents sont nombreux	
+### Les accidents sont nombreux	
 	
-### Le Rond de la croix : 
+**Le Rond de la croix :** 
 	
 Pigault assiste à la pose du poteau indicateur du rond de la croix 
   le 1er août 1924 et constate le 21 février 1925 que les ouvriers 
@@ -180,7 +180,7 @@ Pigault assiste à la pose du poteau indicateur du rond de la croix
   avaient brisé le poteau indicateur du rond-point de la Croix, 
   en abattant un arbre.
 
-### Le Rond des Clos :
+**Le Rond des Clos :**
 	
 quant à lui est brisé le 18 mai 1933:
 « Le poteau indicateur vient d'être cassé près de sa base et
@@ -195,21 +195,21 @@ quant à lui est brisé le 18 mai 1933:
 {{<figure src="/images/articles/clos5.jpg" title="Le rond des Clos">}}
 
 
-### Le Rond de croix Marconnay : 
+**Le Rond de croix Marconnay :** 
 	
 est le 3 décembre 1935 fortement ébranlé
   par une voiture Renault (vieux modèle, genre Torpédo pour l'avant et
   camionnette pour l'arrière) peinte en rouge et dont les ouvriers, 
   (témoins) n'ont pas eu le temps de relever le numéro. 
 
-### Le Rond de Verneil :
+**Le Rond de Verneil :**
 
 Retrouvé cassé le 16 novembre 1953
 
 {{<figure src="/images/articles/verneil1.jpg" title="Le rond de Verneil et sa loge">}}
 
 
-### Le Rond de Nacron :
+**Le Rond de Nacron :**
 	
 le 5 août  1960  Goenvec consignera :
 
@@ -233,21 +233,21 @@ le 5 août  1960  Goenvec consignera :
   8h30 Il a constaté que le Rond était à terre.
 
 
-### Le Rond des Forges : 
+**Le Rond des Forges :** 
 	
 retrouvé cassé le 2 novembre 1963
 
-### Le Rond de l’Embranchement :
+**Le Rond de l’Embranchement :**
 	
 13 août 1965.
   (Légèrement déplacé vers Jupilles) 
 
-### Le Rond de Volumiers :
+**Le Rond de Volumiers :**
 	
 a été cassé par une 2 CV. Le rond est retombé derrière 
 celle-ci sans blesser les 2 passagères.
 
-### Le Rond du Clocher : 
+**Le Rond du Clocher :** 
 	
 en 1977 - fut l’enjeu d’une
   prise de guerre des militaires du camp d'Auvours ! 
@@ -561,3 +561,8 @@ Croisement de la route forestière de l'École forestière (accès aux Clos) et 
   
 	
 {{<figure src="/images/articles/wautot7.jpg" title="au dessus du rond Wautot dédié à l'arpenteur de 1843">}}
+	
+
+### Bibliographie : 
+	
+Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
