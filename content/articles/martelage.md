@@ -26,7 +26,8 @@ Martelages et griffages sont deux opérations ou le forestier peut librement
 
 {{<figure src="/images/articles/clocher.jpg" title="Rendez-vous avant le départ en opération">}}
 
-  Par le passé 
+**Par le passé**
+  
 Les marteaux utilisés en opération conjointe de martelage (dits marteaux de l’État, 
   dont la falsification de l’empreinte était punissable de la même peine que 
   la contrefaçon de monnaie) étaient, eux, conservés à l’inspection du Mans dans un coffre, 
@@ -67,7 +68,7 @@ L’équipe est composée des préposés (ou gardes qui tiennent marteaux et com
      volume, sont marquées en réserve, et que ce mode de procéder offre un double avantage : 
   
 
-     1. — Les enlèvements illicites d'arbres conservés pour le réensemencement ou l'abri
+     **1.** — Les enlèvements illicites d'arbres conservés pour le réensemencement ou l'abri
      des jeunes recrus sont beaucoup plus faciles à constater que dans les coupes marquées 
      en délivrance, où les récolements, rendus souvent presque impossibles par les broussailles
      et les hautes herbes, ne constituent guère qu'une simple formalité. Pour plus de garantie,
@@ -76,7 +77,7 @@ L’équipe est composée des préposés (ou gardes qui tiennent marteaux et com
      et de retrouver la souche de l'arbre enlevé ; 
   
 
-     2. — Les arbres livrés à l'exploitation, ne portant aucune empreinte du marteau de l'État,
+     **2.** — Les arbres livrés à l'exploitation, ne portant aucune empreinte du marteau de l'État,
      peuvent être exploités par extraction de souche; ce qui permet, d'une part, de tirer 
      parti de la portion la plus grosse du tronc, avantage qui n'est pas à dédaigner dans 
      une région où le prix des gros chênes s'élève, comme par exemple dans la forêt de Bercé, 
@@ -88,21 +89,21 @@ L’équipe est composée des préposés (ou gardes qui tiennent marteaux et com
 
 ### Les marteaux 
   
-## Le marteau particulier et le marteau chablis (Éta: 
+**Le marteau particulier et le marteau chablis. 
   
 Chaque garde était propriétaire, donc responsable de l’utilisation de son propre
   marteau particulier qui servait uniquement à la reconnaissance des souches 
   exploitées et des délits reconnus. Jupilles le 11décembre 1898, le Brigadier MAUNY,
-  « remet au garde JOUAUX, un marteau particulier neuf, car l’ancien est usé. 
+  *« remet au garde JOUAUX, un marteau particulier neuf, car l’ancien est usé. 
   Le prix d’achat est 12fr, les frais de timbres, transport et envoi de mandat de 1fr.
   Total du prix de revient : 13fr. L’ancien marteau a été payé au garde sortant 0fr50
-  par JOUAUX ». 
+  par JOUAUX »*. 
   L’empreinte du marteau particulier du garde forestier cantonnier est ovale, 
   toutes les autres sont carrées
   
 {{<figure src="/images/articles/hach.jpg" title="Le marteau particulier">}}
   
-## Les marteau de l’État n°1 & 2: 
+**Les marteau de l’État n°1 & 2:** 
   
 L’empreinte du marteau de l’État telle que nous la connaissons aujourd’hui (ronde) 
   est définie par l’administration le 14 août 1830. Les empreintes portent alors 
@@ -141,7 +142,7 @@ Puis avec force et conviction, crie en direction du pointeur, l’essence,
   
 {{<figure src="/images/articles/cloture.jpg" title="L’ingénieur, ici Fleury, clos la fiche de martelage">}}
 
-## La logistique des martelages est lourde.
+### La logistique des martelages est lourde.
   
 Mrs les agents viennent du Mans en train ou tramway jusqu’à Jupilles (1920). 
   Ils déjeunent à l’hôtel Saint Jacques et louent sur place une carriole 
@@ -154,7 +155,7 @@ Mrs les agents viennent du Mans en train ou tramway jusqu’à Jupilles (1920).
   L’heure du lever est matinale sachant que les moyens de déplacement sont sobres :
   ...à pied ou à vélo. 
   
-## Le repas de martelage 
+### Le repas de martelage 
   
      Par le passé :
      Les gardes et le brigadier posèrent des fagots en cercle 
@@ -239,24 +240,24 @@ leur inspecteur à un martelage dans le parc du château du Grand-Lucé.
 Pendant la dernière guerre, l’approvisionnement en bois de l’armée imposera 
 aux préposés forestiers de visiter et de marteler bon nombre de propriétés privées. 
   
-## Souvenirs de Rémond Lorne sur les martelages en Sarthe.
+### Souvenirs de Rémond Lorne sur les martelages en Sarthe.
   
 {{<figure src="/images/articles/lorne1956.jpg" title="Rémond Lorne">}}
 
-De novembre à mai, nous étions en forêt deux jours par semaine pour marquer
+*De novembre à mai, nous étions en forêt deux jours par semaine pour marquer
   les coupes, les "martelages" (du nom de la petite hachette marqueuse, 
   le marteau forestier, dont le vol ou l'imitation de la marque était
-  passible des "travaux forcés"). 
+  passible des "travaux forcés")*. 
   
-Les journées de martelage étaient fort sympathiques, 
+*Les journées de martelage étaient fort sympathiques, 
   avec un Brigadier et cinq ou six gardes et tout un cérémonial précieusement 
   respecté; le personnel était évidemment en tenue, et, de ce fait, 
   il me paraissait évident que je devais y être moi aussi. 
   Je me suis toujours mis en uniforme pour aller en forêt. 
   Mais j'étais le seul des officiers de l'ouest, avec le conservateur… 
-  mais il y allait rarement en service ;
+  mais il y allait rarement en service ;*
   
-  Viney, comme les autres, y usait ses vieilles affaires, 
+  *Viney, comme les autres, y usait ses vieilles affaires, 
   ce qui m'a toujours choqué. 
   Monsieur Blouère, y allait aussi une ou deux fois par semaine 
   en civil, mais pour chasser avec l'équipe des locataires de 
@@ -270,15 +271,19 @@ Les journées de martelage étaient fort sympathiques,
   de village proche de la forêt, et y bavardions agréablement, 
   souvent sur des thèmes politiques ou religieux, avec des convictions 
   très voisines, mais cependant, pour Viney, 
-  des nuances plus conservatrices que pour moi.
+  des nuances plus conservatrices que pour moi.*
 
 {{<youtube id="tFKv-eMuWTI" autoplay="true">}}
   
-## Archive de l'I.N.A. (1994) sur le martelage en forêt de Bercé.
+### Archive de l'I.N.A. (1994) sur le martelage en forêt de Bercé.
   
   
 {{<youtube id="rhtsuClFpYE" autoplay="true">}} 
   
-## En fin d'année 2021 Le Meilleurs des Mags sur France 3 
+### En fin d'année 2021 Le Meilleurs des Mags sur France 3 
 c'est en Sarthe, en forêt de Bercé ...
 Martelage d'aujourd'hui...
+  
+### Bibliographie : 
+  
+Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
