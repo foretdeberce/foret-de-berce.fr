@@ -8,7 +8,6 @@ tags: ["Tourisme","Arbres","Chênes","Toponymie","Hommes"]
 ---
 
 
-
 Louis Amédée Raoul Potel est né le 16 décembre 1862 à La Rochelle (Charentes Maritimes) 
 
 Garde général stagiaire à 24 ans, il est le fils 
@@ -32,6 +31,7 @@ Services  dans l’active : 3ans 11mois 17 jours
 Services  dans la réserve : 36 ans 3mois 17 jours
 
 ### Inspecteur principal des Eaux et forêts
+
 M. Potel (Louis-Amédée-Raoul), inspecteur des eaux et forets de 1ère classe à Neutchâteau-Sud (Vosges), 
 est appelé; en la même qualité, au Mans (Sarthe), en remplacement de M. Allaire, 
 qui a été admis à faire valoir ses droits à la retraite.
