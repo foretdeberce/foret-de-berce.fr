@@ -186,4 +186,4 @@ Le flanc de la colline est devenu naturellement une véritable pépinière de C�
 Archives famille Eve-Vinçonneau.
   
 Au Fil Du Temps n° 13 du 30 septembre 2001 (pages 23 & 24) 
-  et n° 14 du 31 décembre 2001 (page 25)
+  et n° 14 du 31 décembre 2001 - Bernard André et Yves Piraux (page 25)
