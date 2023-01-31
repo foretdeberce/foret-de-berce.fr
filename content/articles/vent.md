@@ -9,7 +9,7 @@ tags: ["Arbre","Météo","Pluie","Froid"]
 
 
 
-## Le vent
+### Le vent
 
 Le plus grand fléau de la forêt, est avec le feu, la conjugaison du vent et de la pluie. 
 Une forte rafale de vent sur un sol détrempé et c’est la catastrophe assurée.
@@ -126,12 +126,13 @@ Le 14 mars : *« Recherche de bûcherons. Nombreux chablis au chêne Boppe, c
  
 Mais la pluie continuant en mai, le 25 c’est **Ventouse II, le retour**.
 
-> «La tempête se lève à 12h30 avec un maximum vers 13h 15 jusqu’à 17h 10.
-> Les militaires sont en manœuvre et les routes à nouveau coupées.
-> Les militaires participent au débarrage des routes jusqu’au lendemain (à 13h signature du PV de bien vivre (1)
-> qu’ils ont bien mérité)».
-> 
-> --(1) Ce PV démontrait à l’autorité militaire qu’il n’y avait eu aucun incident avec la troupe en forêt.
+*«La tempête se lève à 12h30 avec un maximum vers 13h 15 jusqu’à 17h 10.
+Les militaires sont en manœuvre et les routes à nouveau coupées.
+Les militaires participent au débarrage des routes jusqu’au lendemain 
+ (à 13h signature du PV de bien vivre **(1)** qu’ils ont bien mérité)»*.
+
+ **(1)** Ce PV démontrait à l’autorité militaire qu’il n’y avait 
+ eu aucun incident avec la troupe en forêt.
 
  
 Ces désobstructions dureront ainsi jusqu’au 8 juin.
@@ -207,5 +208,8 @@ Fort heureusement les dégâts restent faibles par rapport à 1999: 1000 m3 envi
 
 #### Bibliographie : 
 
-Archives et vieux registres journaliers de l’administration 
+Archives et vieux registres journaliers de l’administration  
 des Eaux et forêts, annotés par les préposés.
+
+Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
+ 
