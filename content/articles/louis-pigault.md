@@ -9,7 +9,7 @@ tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques","Armement","M
 
 
 
-# Un forestier au destin tragique.
+### Un forestier au destin tragique.
 La famille de Louis est originaire de Baupte (Manche). 
 Louis commence sa carrière en Sarthe en 1911,
 sur un poste non logé au Mans comme garde-pêche.
@@ -20,7 +20,9 @@ sur un poste non logé au Mans comme garde-pêche.
   le 1er juin 1921 par l’inspecteur adjoint HURTEAU aux Hutteries, 
   qui scellera son destin. 
   
-PIGAULT succède à ALBRECHT aux Clos et il en restera une amitié fidèle.
+**PIGAULT succède à ALBRECHT aux Clos** 
+
+et il en restera une amitié fidèle.
   
 Sa belle-famille est originaire de Saint-Pierre-du-Lorouër,
   d’où probablement son déplacement sur Marigné 
@@ -77,3 +79,9 @@ Son dernier compte rendu journalier date du 25 octobre 1932 et pour cause,
 
 Son épouse sollicitera de rester à la M.F. jusqu’au 15 février 1933 
 pour organiser sa vente de bétail et de matériel.
+  
+### Bibliographie : 
+  
+Archives famille Pigault
+  
+Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
