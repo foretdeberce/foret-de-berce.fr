@@ -7,7 +7,9 @@ featured_image: "/images/et.lidar.jpg"
 tags: ["Tourisme","Archéologie","Aménagement","Sylviculture","Curiosités"]
 ---
 
-### La forêt n'a pas toujours été là et elle n'est pas naturelle.
+### La forêt n'a pas toujours été là ...
+
+et elle n'est pas naturelle car entièrement façonnée par l'homme.
 
 La forêt est riche en éléments archéologiques et 
 les sites présents sont très bien conservés. 
@@ -91,14 +93,14 @@ L’ONF,
   (Centre Allonnais de Prospection et de Recherches Archéologiques)
   ont pu ainsi proposer différentes actions autour de trois axes :
 
-1-  Mieux connaitre et inventorier le patrimoine. 
+**1-**  Mieux connaitre et inventorier le patrimoine. 
     Dedans sont inclus une étude sur les cartes anciennes, 
     le lidar suivi de prospections sur le terrain 
     (en cours), des analyses sur l'environnement ancien.
  
-2-  Prendre en compte ce patrimoine dans la gestion à venir.
+**2-**  Prendre en compte ce patrimoine dans la gestion à venir.
 
-3-  Valoriser ce patrimoine avec l’aide notamment de Carnuta.
+**3-**  Valoriser ce patrimoine avec l’aide notamment de Carnuta.
 
 
 ### Quelles méthodes utilisées pour percer les secrets du relief forestier ?
@@ -144,7 +146,7 @@ Cette étude aurait pu permettre d'étudier plus précisément
   pas assez bien conservés ni assez ancien pour que 
   cela vaille le coup de les faire parler... 
 
-### Mais un outil révolutionnaire changea la donne:
+**Mais un outil révolutionnaire changea la donne:**
 
 ### En mars 2013 : 
   
@@ -260,12 +262,12 @@ Quand à la rédaction de nos aménagements forestiers,
   
 ### Que découvre-t-on actuellement ?
   
-1 - Tout un réseau d'enclos, sans doute relativement récent 
+**1** - Tout un réseau d'enclos, sans doute relativement récent 
   (période moderne ?? mais rien n'est sûr), qui couvre une partie 
   de la forêt. On ne connaît pour l'instant ni leur date ni leur fonction.
   
   
-2 - Un important parcellaire ancien, à peine visible sur le terrain mais 
+**2** - Un important parcellaire ancien, à peine visible sur le terrain mais 
   clairement identifié sur le L.I.D.A.R.. 
   Il s'agit très probablement d'un ancien parcellaire 
   agricole (par comparaison avec d'autres parcellaires
@@ -275,7 +277,7 @@ Quand à la rédaction de nos aménagements forestiers,
   Ce parcellaire était inconnu avant le L.I.D.A.R..
 
   
-3 - Une importante exploitation métallurgique (métallurgie du fer), 
+**3** - Une importante exploitation métallurgique (métallurgie du fer), 
   qui se traduit par la présence de zones d'extraction (minières) et 
   de zones de réduction du minerai (ferriers). Pas de datation pour 
   l'instant, mais un étudiant de l'université de Rennes travaille sur 
@@ -283,7 +285,7 @@ Quand à la rédaction de nos aménagements forestiers,
   en 2015. On en saura sans doute plus...
   
 
-4- Pas de traces d'occupations liées à de l'habitat
+**4** - Pas de traces d'occupations liées à de l'habitat
   (fermes, villae, villages etc...) …Et cela c'est assez rare en forêt...
 
 
@@ -311,3 +313,9 @@ Il faudra au fil du temps intégrer ces données dans la gestion forestière.
   
 {{<figure src="/images/articles/017traces.jpg" title="Cartographie des principaux sites">}}
 
+
+### Bibliographie :
+  
+Études DRAC et ONF sur le sujet.
+  
+Bercé, une forêt d’exception (Y. Gouchet - 2018)
