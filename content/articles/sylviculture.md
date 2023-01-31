@@ -16,6 +16,7 @@ Les forestiers interviennent tout au long de la vie des
 peuplements pour façonner une forêt apte à vous accueillir.
 
 ### Réflexions et avis de Rémond Lorne.
+
 (initiateur de la méthode actuelle dite des arbres objectifs) 
 
 *« ….Quel devrait être le rôle du forestier tout au long de la 
@@ -263,6 +264,12 @@ Les eaux de pluie ne doivent pas s’empresser
 de gagner les lits des rivières mais rejoindre le sous-sol
 pour le bien commun.
 
+    
+### Bibliographie : 
+    
+Archives famille Lorne
+    
+Bercé, une forêt d’exception (Y. Gouchet - 2018)
 
 
 
