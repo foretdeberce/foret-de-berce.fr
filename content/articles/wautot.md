@@ -93,10 +93,9 @@ Il exercera cette fonction du 28 mars 1848 au 09 septembre 1848.
      il y a « gaut »qui signifie « forêt ».
      Le « ot » étant un diminutif, on peut 
      traduire Wautot par « Boispetit » ou
-     « Petitbois » .  
+     « Petitbois »**(1)** .  
   
-     Ref : Bulletin municipal n°36 (Joël Picard) 
-     La gazette de Jupilles - juillet 2013
+     
 
 {{<figure src="/images/articles/wautot007.jpg"  title="Le Rond Wautot vu de haut">}}
   
@@ -110,3 +109,7 @@ Jean-Baptiste Isidore Wautot Décèdera le 3 septembre 1884 -
 Deux ans après son décès il fait encore partie des abonnés à la revue des géomètres.
   
 [Revue des géomètres de 1886](/articles/pdf/n11novembre1886.pdf)
+
+  
+Ref : **(1)** Bulletin municipal n°36 (Joël Picard) 
+     La gazette de Jupilles - juillet 2013 
