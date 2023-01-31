@@ -14,7 +14,9 @@ qualifiait de « manteau d’Arlequin ».
 
 {{<figure src="/images/articles/vuesatellite.jpg" title="Vue satellite de Bercé">}}
   
-### La propriété forestière est aisée à délimiter avec le grand fossé de ceinture.
+### La propriété forestière 
+  
+Est aisée à délimiter avec le grand fossé de ceinture.
 et l’aide du Procès verbal de délimitation et de bornage dû à l’arpenteur Wautot en 1843 :
   
          Terre du fossé rejetée vers la forêt : 
@@ -64,7 +66,7 @@ D’une surface de 5400ha, Bercé est la plus grande forêt domaniale de l’oue
 {{<figure src="/images/articles/surfaceforestiere.jpg" title="La forêt partagée">}}
 
   
-# Riverains de la forêt de Bercé  
+### Riverains de la forêt de Bercé  
   
 {{<figure src="/images/articles/carte1.jpg" title="Territoire communal de Jupilles">}}
 
@@ -85,3 +87,7 @@ D’une surface de 5400ha, Bercé est la plus grande forêt domaniale de l’oue
 {{<figure src="/images/articles/carte9.jpg" title=" Territoire communal de Chahaignes">}}
 
 {{<figure src="/images/articles/carte10.jpg" title=" Territoire communal de Thoiré-sur-Dinan">}}
+  
+### Bibliographie : 
+
+Procès verbal de délimitation de la forêt de Bercé. (& plans Wautot)
