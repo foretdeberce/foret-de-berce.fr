@@ -10,7 +10,7 @@ tags: ["Art","Poésie"]
 
 Cette page de trois poèmes est dédiée à notre ami 
 Marc BOUHOURS, de Saint-Vincent-du-Lorouër. 
-Ce rédacteur d’ « Au Fil du Temps » aimait à se 
+Ce rédacteur d’**« Au Fil du Temps »** aimait à se 
 ressourcer dans le bas de la côte de la Jument Blanche. 
 Ses deux poèmes prouvent l’attachement indéfectible 
 qu’il portait à ce lieu si particulier.
@@ -18,7 +18,7 @@ qu’il portait à ce lieu si particulier.
 {{<figure src="/images/articles/marc.jpg" title="Marc Bouhours">}}
 
   
-## La côte de la jument blanche
+### La côte de la jument blanche
 
 Attelée à un grand diable trop lourd,
   
@@ -54,11 +54,11 @@ Une larme coule sur une joue …
 La côte est nommée près du rond Wautot.
   
   
-## La Jument Blanche
+### La Jument Blanche
 
 {{<figure src="/images/articles/livre.jpg" title="La jument blanche">}} 
   
-## Le corbeau et la grenouille
+### Le corbeau et la grenouille
 
 Noir corbeau virant roulant sur les airs
   
@@ -82,3 +82,7 @@ L’adéquat : que je plonge avec les tanches ! »
 … Coâ ! Coâ ! … dans l’eau.
 
 Moralité : Croit quoi ? ! ...
+  
+### Bibliographie : 
+  
+Écrits de notre ami d'Au Fil Du Temps
