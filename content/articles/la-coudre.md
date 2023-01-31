@@ -15,6 +15,8 @@ La Coudre, l’Hermitière, le Chêne Boppe.
 
 {{<figure src="/images/articles/fontainecoudre .jpg" title="Le lavoir de la Coudre">}}
 
+### 1905
+    
 L’essor du tourisme sur Bercé fin du 19ème Siècle et début du 20ème,
 nous fait commencer l’histoire de la Coudre en 1905, bien que figurant 
 sur la carte de Bercé déjà en 1673.
@@ -26,7 +28,9 @@ qu’il y a placé trois poteaux pour attacher les chevaux des promeneurs.
 en 1907 n’est pas du tout l’actuelle route, mais bien un sentier en terrain 
     naturel régulièrement ragréé de pierres.
 
-1921, les travaux projetés à cet endroit commencent le 18 juillet.
+### 1921 
+    
+Les travaux projetés à cet endroit commencent le 18 juillet.
 Le creusement de l’étangs commencent le 18 Juillet 1921. 
 Quatre ouvriers y travaillent, mais l’aveuglement
 des fuites pose problème.  Le chantier se prolonge ainsi 
@@ -45,13 +49,15 @@ Couverture de celle-ci le 24 septembre.
     Mr. Bignon Auguste à Jupilles pour la location d’une pompe lors
     des travaux de l’étang de la Coudre. »
 
+###1922 
+    
 Le principal problème rencontré par les ouvriers, fut la confection
 d’un barrage et le maintien des eaux en occultant toutes les fuites
 (aveuglement des fuites). De plus à la Coudre on est à l’étroit, 
 car le champ du bas est propriété privée des époux Brebion,
 cela n’autorise pas grands travaux.
 
-    *1922*, « Peltier estime le 20 mars 1922 avec son brigadier, 
+    « Peltier estime le 20 mars 1922 avec son brigadier, 
     le cube de terre à enlever dans la partie du
     terrain dont le creusage pour faire un étang est à l’étude ».
     Tandis qu’ Hureau, ce même jour, entrepreneur à Marigné a 
@@ -119,8 +125,9 @@ notaire à Jupilles et au cadastre à la mairie de Jupilles
 afin d’obtenir des renseignements au sujet d’une vente de 
 bien dont deux parcelles bordent la forêt dans notre triage. »
  
-## La Maison Neuve et le Pré de la Coudre... 
-### Histoire d’une acquisition
+### La Maison Neuve et le Pré de la Coudre... 
+    
+**1933 - Histoire d’une acquisition**
 
 La Maison Neuve, terrain situé au dessus de la Coudre, vers 
 Jupilles fait partie intégrante de ce lieu.
@@ -243,11 +250,11 @@ Parcelle 227 : (Fontaine aux Malades) Taillis médiocre,
     Sur le reste des terres Mr Binet récoltait en moyenne : 
     2500 kg. de blé et 1500 kg. d’avoine par an.
 
-+  Verger : P.199 : 12 pommiers de rapport (3 dépérissants) 
+**+**  Verger : P.199 : 12 pommiers de rapport (3 dépérissants) 
     et 3 poiriers.
-+  P.200 : 1 châtaignier – 1 poirier.
-+  P 201 : 1 cerisier – 4 pommiers – 4 poiriers
-+  P 202 partie : 1 pommier »
+**+**  P.200 : 1 châtaignier – 1 poirier.
+**+**  P 201 : 1 cerisier – 4 pommiers – 4 poiriers
+**+**  P 202 partie : 1 pommier »
 
 9 septembre 1935- Travaux à réaliser à la Maison Neuve (devis).
     Resserrement des tuiles de couverture sur la cuisine et la chambre, 
@@ -316,9 +323,13 @@ En juillet 1943- la Maison neuve est réduite à un tas de pierres.
 Seul le puits est en état. Construction de la loge de la Coudre 
 par les chômeurs dans la vallée.
 
-1947- balisage par la Fédération de randonnée pédestre du GR 36
+**1947**
+    
+- balisage par la Fédération de randonnée pédestre du GR 36
 
-Août 1963- curage des étangs avec un engin mécanique. 
+### Août 1963  
+    
+curage des étangs avec un engin mécanique. 
 Ce curage est quasiment obligatoire et ceci régulièrement, 
 car les feuilles encrassent les bassins. 
 Les ouvriers Pottier, Pavy, Poirrier, Weber, Deniau, Fefeu, 
@@ -338,3 +349,8 @@ adresse un chèque de 1.000 f afin que l’ONF procède au nettoyage de celle-ci
 2010- année internationale de la biodiversité : 
 curage complet des bassins, et remise en eau fin octobre.
 
+### Bibliographie : 
+    
+Livrets journaliers des préposés et archives ONF.
+    
+Le massif forestier de Bercé  (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
