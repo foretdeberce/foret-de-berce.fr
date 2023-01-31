@@ -6,7 +6,9 @@ description: " de Bercé "
 featured_image: "/images/et.dron.jpg"
 tags: ["Arbres","Curiosités","hommes","travaux"]
 ---
-Vidéo sur la vision forestière de 3 étudiants
+
+### Vision forestière de 3 étudiants
+
 Louis, Arthur, Côme
 et d’un photographe animalier: Guillaume.
 Laissez vous guider en forêt.
