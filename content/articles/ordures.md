@@ -7,7 +7,7 @@ featured_image: "/images/et-ordures.jpg"
 tags: ["Tourisme","protection"]
 ---
 
-## Protection de la nature.
+### Protection de la nature.
 
 Au début, la forêt était vierge de toute pollution.
 Puis le touriste a progressivement envahi  
@@ -29,7 +29,7 @@ Au rond des Clos, une fosse non rebouchée est encore visible près de la table.
 
 Du travail pour les futurs archéologues !
 
-## Depuis 2002, les poubelles sont supprimées sur le massif. 
+### Depuis 2002, les poubelles sont supprimées sur le massif. 
 
 Puis jusqu’en 2002, l’ONF, entreprit d’utiliser un service
 extérieur de ramassage des déchets. Bien … 
@@ -60,7 +60,7 @@ Quelques foyers infectieux subsistent çà et là,
 Fort heureusement les enquêtes menées par le 
 service forestier mènent parfois à leur condamnation.
   
-## L’embellie
+### L’embellie
   
 {{<figure src="/images/articles/assos.jpg" title="Des bénévoles à l’œuvre au rond des Forges">}}
 
