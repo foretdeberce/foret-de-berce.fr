@@ -48,9 +48,9 @@ Aujourd’hui, seuls deux grainetiers sont habilités à ramasser
   
 ### Chapeau bas les glandeurs !!!
 
-## CONTÉE PAR UN GLANDEUR
+**Contée par un glandeur...de première !**
   
-### …Cette fable …est une demande d’embauche.
+…Cette fable …est une demande d’embauche.
   
 {{<figure src="/images/articles/105b1-1.jpg" title="Le Gland et la Citrouille – La Fontaine">}}
 
@@ -92,7 +92,7 @@ Travailler à l’ONF serait pour moi un label,
 Ne pas en fiche une ramée chez vous pendant encore deux ans, 
   m’emmènerait doucement vers…une retraite bien méritée.
   
-(Mes 41glandées ne seront pas faites, mais tant pis). 
+(Mes 41 glandées ne seront pas faites, mais tant pis !). 
   
 Je crois en la morale de la fable de la Fontaine, 
   le Gland et la Citrouille,
@@ -102,3 +102,7 @@ Je me tiens à votre disposition pour un éventuel entretien
   et vous prie de croire, Monsieur le Directeur, à l’expression de mon profond respect." 
   
 Signé M. G.
+  
+### Bibliographie : 
+  
+Le massif forestier de Bercé  (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
