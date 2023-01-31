@@ -59,7 +59,7 @@ Celles-ci remplacent peu à peu les équipes de scieurs de long,
 surtout durant les guerres où la demande est grande et les scieries
 tout naturellement réquisitionnées.
        
-Le 28 janvier 1928 
+**Le 28 janvier 1928** 
        
 Le garde Guiomard note à plusieurs reprises : 
 *Surveillance de la scierie mobile P.D 6 (P.215 de la vallée des Pierres)
@@ -86,9 +86,9 @@ les derniers scieurs itinérants se sédentariseront.
 
 {{<figure src="/images/articles/facture.jpg" title="En tête des factures Adet">}}
 
-## A Pruillé l’ Éguillé 
+### A Pruillé l’ Éguillé 
        
-### La scierie Ballion 
+**La scierie Ballion** 
        
 Émile BALLION à embrassé la profession de scieur, en épousant Olga, 
 dont le père  Oscar CAULE dirigeait 3 scieries volantes. 
@@ -157,7 +157,7 @@ quand ses fils ont voulu moderniser la scierie.
        
 {{<figure src="/images/articles/marchurlimann.jpg" title="Marc et son Hürlimann">}}
 
- La scierie Ballion dispose d’un excellent tracteur le Hürlimann 
+La scierie Ballion dispose d’un excellent tracteur le Hürlimann 
  conduit pour l’occasion le jour de la Photo par Marc.
            
 Au fil du temps l’entreprise se sédentarisera sur Pruillé. 
@@ -181,7 +181,7 @@ fabricants régionaux dont le passage éphémère n'a pas marqué l'histoire,
 supplante la scie circulaire et la scie alternative en raison de sa
 souplesse d'utilisation, de sa polyvalence et surtout de sa faible perte au trait.
        
-### La scierie/saboterie Penard Ernest.
+**La scierie/saboterie Penard Ernest.**
        
 Située dans le bas de la rue René Salmon à l'angle  gauche de la route
 de St Mars d'outillé La scierie Penard est à gauche et le bistrot Morançais 
@@ -196,9 +196,9 @@ mais on connu ces bâtiments et sur le hangar il y avait comme enseigne un
        
 {{<figure src="/images/articles/scieriepenard.jpg" title="La scierie Pénard sur gauche et le café Morançais sur droite">}}
 
-## À Marigné-Laillé
+### À Marigné-Laillé
        
-### La scierie Berger Roger
+**La scierie Berger Roger**
        
 Berger Roger de Marigné - Marchand de bois       
 La scierie Berger de Marigné est alors réputée pour sa grande
@@ -246,9 +246,9 @@ mais il faut surtout ...éviter les semis.
        
 {{<figure src="/images/articles/tracteurs1930.jpg" title="Matériels de transport">}}
        
-## À Mayet 
+### À Mayet 
        
-### La scierie Cavé 
+**La scierie Cavé** 
 
 Cavé Albert de Mayet - exploitant
 Fait partie des scieries importantes en Sarthe. 
@@ -263,9 +263,9 @@ Quelques noms :
 Dubois Victor de Mayet - contre maître
 Cougne Georges de Mayet - contre maître       
        
-## À La Chartre-sur-le-Loir
+### À La Chartre-sur-le-Loir
        
-### La scierie Pasquier 
+**La scierie Pasquier** 
        
 {{<figure src="/images/articles/lettrechange1938.jpg" title="Lettre de change de 1938">}}
 
@@ -281,9 +281,9 @@ Décès de M. Pasquier en mars 1941.
        
 {{<figure src="/images/articles/expositionlemans1923.jpg" title="Exposition internationale du Mans 1923">}}
 
-## À Laigné-en-Belin 
+### À Laigné-en-Belin 
        
-### La scierie Bailleul frères 
+**La scierie Bailleul frères** 
        
      Ouest-Éclair du 1er mars 1932
      Le 19 février 1932 M. Raux Narcisse,
@@ -296,9 +296,9 @@ Décès de M. Pasquier en mars 1941.
      fait écraser l’index de la main droite.
      Douze jours de repos lui ont été prescrits.  
        
-## À Ecommoy
+### À Ecommoy
        
-### La scierie Luce Auguste 
+**La scierie Luce Auguste**
        
      Ouest-Éclair du 7 juillet 1926
      Écommoy – Dans la nuit de samedi 
@@ -337,9 +337,9 @@ devant cette orée de Bercé."*
        Hautreux Marcel d'Ecommoy - commis
        Lampin Lucien d'Ecommoy - exploitant
        
-## À Chahaignes 
+### À Chahaignes 
        
-### La scierie Vannier
+**La scierie Vannier**
        
 Mobile en un premier temps, elle a tout comme les autres,
 bénéficié de la proximité de la forêt pour y établir son activité.
@@ -361,9 +361,9 @@ de Chahaignes en 1940 (Photo Vannier). Au début, il n’y en avait pas beaucoup
 1 à la scierie Adet, 2 à la scierie Berger. 
 Les arbres étaient hissés au treuil sur le côté des camions.       
        
-## À Jupilles
+### À Jupilles
        
-### La scierie Bignon
+**La scierie Bignon**
        
 Jupilles était un village entièrement tourné vers la forêt.
 A Jupilles comptait en 1906, 1256 habitants, 162 Sabotiers,
@@ -384,9 +384,9 @@ prince Charles de Beauveau, situé en dessous du Tertre Fouquet).
      Morançais Marcel de Jupilles - scieur chez Gager
      Villemare Joseph de Jupilles - scieur affuteur     
        
-## À Beaumont-Pied-de-Bœuf
+### À Beaumont-Pied-de-Bœuf
        
-### La scierie Allard
+**La scierie Allard**
        
 Est une affaire de famille créée par Émile, en 1926 
 qui fabriquait les supports de mines de charbon, 
@@ -397,9 +397,9 @@ d’un grand nombre de coupes se fera chez les Allard.
 En 1952 André Allard (décédé en 1981 à 50 ans et fils d’Émile)
 apportera la modernisation. Émile Allard décèdera en 1976 à 73 ans.
 
-## À Saint-Vincent-du-Lorouer 
+### À Saint-Vincent-du-Lorouer 
        
-### La scierie Adet. 
+**La scierie Adet** 
        
 Adet s’associe avec Vaillant Auguste en 1924. 
        
@@ -487,6 +487,7 @@ De 1966 à 1980, en Sarthe l’on passe de 86 à 54 scieries…
 Mais combien depuis ont fermé… ?
  
 ### Bibliographie : 
+       
 Archives ONF et témoignages oraux (été 1997) de Paulette Berthelon, 
 Thérèse Breton et Maurice Vérité. Recherches d’Éliane Bourbao -
 Photo du bas : Numéro spécial Au Fil du Temps d’Aout 2015.
@@ -495,8 +496,7 @@ La Scierie Française: Un métier d'expert :
 Histoire et Evolution Sociologique. Étude de l’Observatoire 
 du métier de la scierie (Editions L'Harmattan) par Maurice Chalayer.
  
-
-
+Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
 
  
  
