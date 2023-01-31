@@ -7,7 +7,7 @@ featured_image: "/images/et.chateau.jpg"
 tags: ["Chateau","Eau","Archeologie","Forestiers","Histoire"]
 ---
 
-## La vallée de l’Hermitière, est un lieu riche en vestiges. 
+### La vallée de l’Hermitière, est un lieu riche en vestiges. 
 
 Les vastes parties boisées du département ont conservé 
 nombre de tertres et de talus, dont la nécropole de Bercé 
@@ -17,7 +17,8 @@ nombre de tertres et de talus, dont la nécropole de Bercé
 tous situés sur la commune de Saint Vincent du Lorouër. 
 Les lieux sont chargés d’histoire.
  
-## Nécropole Tumulaire Néolithique. 	
+### Nécropole Tumulaire Néolithique. 	
+
 En forêt de Bercé, la nécropole de St-Vincent-du-Lorouër 
 s'étale sur un versant orienté au sud, dominant la petite 
 vallée de l’Hermitière et le château des Étangs l'Archevêque
@@ -35,7 +36,7 @@ qui reposait sur l'accord suivant :
 
 la DRAC finançait le vol et traitait les données informatives; 
 l'ONF se chargeait d'opérer la vérification des anomalies
-archéologiques sur le terrain. (1)
+archéologiques sur le terrain. **(1)**
 
 {{<figure src="/images/articles/levees.jpg" title="Les données Lidar autour des Étangs">}}
 
@@ -44,19 +45,20 @@ archéologiques sur le terrain. (1)
  L'excellent état de conservation des élévations, c'est-à-dire la pente générale
  du relief ainsi formé, rapidement accentué, et la nature limono-sableuse sont 
  des caractéristiques également communes à la nécropole similaire relevée dans
- le Bois d'Avort sur la commune de Louerre près de Gênes dans le Maine-et-Loire* (2) 
+ le Bois d'Avort sur la commune de Louerre près de Gênes dans le Maine-et-Loire* **(2)** 
 
 {{<figure src="/images/articles/tumulus2.jpg" title="Un des 6 Tumuli du taillis des Étangs">}}
 
 *Pour le moment, l'unique et significative constante d'une telle distribution est sa 
  relation avec une rivière importante en sa vallée. Dans les trois cas - Amenon, 
  Bercé et Bois d'Avort - l'ensemble des structures se distribue dans un espace au
- contact immédiat de plaines alluviales.* (3)
+ contact immédiat de plaines alluviales.* **(3)**
  
 {{<figure src="/images/articles/tumulussvt.jpg" title="Le couvert forestier sauve les structures">}}
 
-## Les Étangs (Xᵉ –XVᵉ)
-Plaisante demeure de chasse en bordure de forêt. 
+### Les Étangs (Xᵉ –XVᵉ)
+ 
+**Plaisante demeure de chasse en bordure de forêt.**
 
 Le lieu-dit doit son nom aux étangs artificiels créés en 1038 par Gervais de Château-du-Loir, 
  évêque du Mans, seigneur de Château-du-Loir nommé en 1055 à l’archevêché de Reims 
@@ -108,7 +110,7 @@ La chasse était la préoccupation principale de Gervais, tant et si bien qu’e
  La réjouissance du sacre était ainsi largement optimisée. 
  Patrick Demouy  
 
-## La « meson » des Etangs est citée en 1285. 
+### La « meson » des Etangs est citée en 1285. 
  
 La seigneurie aurait été transmise par alliance des familles Ribole à 
 Courcillon puis au début du XVème siècle à la famille de Fromentières.
@@ -154,7 +156,7 @@ futaie à Bercé, plus 1500 livres pour dommages et intérêts envers sa Majest�
 
 {{<figure src="/images/articles/cadastre-napoleonien.jpg" title="Le cadastre Napoléonien">}}
  
-## Dernière particularité de cette lignée…. 
+### Dernière particularité de cette lignée…. 
  
 En 1698, les habitants de Saint-Vincent-du-Lorouër, 
 se présentèrent au [Château des Étangs](/articles/pdf/chateau-archeveque.pdf), devant Nicolas Hilarion 
@@ -162,7 +164,7 @@ de FROMENTIÈRES, pour lui déclarer
  
 *« …Que les nouveaux mariés de la paroisse sont tenus de faire chacun,
  au jour de la Quasimodo, conformément aux anciens titres et jugements, 
- le droit du Sault »   (4)
+ le droit du Sault » **(4)**
 Chaque dimanche après Pâques, la coutume voulait que les jeunes
  mariés soient invités à sauter au dessus du ruisseau des Roches,
  le seigneur distribuait alors aux petits enfants des gâteaux nommés
@@ -192,14 +194,14 @@ appartements par étage afin d’y recevoir la noblesse environnante
 pour des parties de chasse en forêt de Bercé.
  
 
- {{<figure src="/images/articles/chateau3.jpg" title="La façade ouest">}}
+{{<figure src="/images/articles/chateau3.jpg" title="La façade ouest">}}
  
 Jusqu’à la fin du 18ème siècle, s'étendaient de vastes étangs depuis 
 asséchés et remplacés par des prairies.
 Mais on distingue toujours la chaussée (levée de terre) 
 qui fermait l'étang le plus important.
 
-En 1800, l'affiche d'une vente à l'encan (5)
+En 1800, l'affiche d'une vente à l'encan **(5)**
 (vente non retrouvée) indique que le domaine compte les métairies des Étangs,
 de la Coutière, de la Lamberdière, la nue propriété de la métairie de la
 Boudeterie et petit lieu nommé la Charterie. 
@@ -240,27 +242,29 @@ Il est depuis restauré par la famille Castel.
  
 ### Bibliographie : 
  
-    (1)     Propos de Cécile DARDIGNAC Archéologue de l’ONF
+**(1)**     Propos de Cécile DARDIGNAC Archéologue de l’ONF
             lors de la campagne de rapatriement des données
             en  novembre et décembre 2014.
  
-    (2)     Les tertres du plateau d’Avort en Maine
+**(2)**     Les tertres du plateau d’Avort en Maine
             et Loire Serge CASSEN et Christine BOUJOT
            (Mémoire 2000)
  
-    (3)     Définition du Temps sur des surfaces. 
+**(3)**     Définition du Temps sur des surfaces. 
             Diagnostic chronologique et fonctionnel de
             structures tumulaires dans le Bois d'Amnon 
             (La Chapelle-aux-Choux, Sarthe).
             In: Revue archéologique de l'ouest, tome 21, 2004. pp. 
             95-119—CASSEN Serge, VAQUERO LASTRES Jacobo. 
  
-    (4)     usage féodal rapporté par Pesche.
+**(4)**     usage féodal rapporté par Pesche.
  
-    (5)     Vente publique (biens et production)
+**(5)**     Vente publique (biens et production)
  
-    D. Castel "Les Étangs l’Archevêque". 
+D. Castel "Les Étangs l’Archevêque". 
  
-    R. POTEL, « historique de la forêt de Bercé » 
+R. POTEL, « historique de la forêt de Bercé » 
  
-    R.VINEY « A propos d’une parcelle Artistique »
+R.VINEY « A propos d’une parcelle Artistique »
+ 
+Le massif forestier de Bercé  (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet  - 2018)
