@@ -95,3 +95,8 @@ Le public a tellement maltraité ces loges que beaucoup ont été détruites,
   leur reconstruction coûtant plus cher qu'une simple démolition.
   
 {{<figure src="/images/articles/logesdeberce.jpg" title="Les loges actuelles et celles disparues">}}
+	
+
+### Bibliographie : 
+	
+Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
