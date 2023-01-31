@@ -8,6 +8,7 @@ tags: ["Faune","Biodiversité"]
 ---
 
 ## L’atout biodiversité des vieux peuplements
+
 Ce qui fait l’originalité de la forêt de Bercé n’est pas tant 
 la richesse en espèces végétales que l’âge auquel le chêne est mené.
 Cette longévité permet d’avoir de gros et grands arbres,
@@ -96,6 +97,7 @@ Quelques documents pour mieux connaître les espèces et leur mode de vie :
 
 {{<figure src="/images/articles/oreillard.jpg" title="L’oreillard">}}
   
+  
 ###  Année 2011
   
 [2011 – 2012 Point chauves-souris](/articles/pdf/2011-2012pointchauves-souris.pdf)
@@ -108,7 +110,8 @@ Quelques documents pour mieux connaître les espèces et leur mode de vie :
 
 {{<figure src="/images/articles/equipe2011.jpg"  title="L'équipe de radiotracking">}}
 
-       1)	Bercé : Circuits écoutes ultrasonores de juin 2011 (après 21h)
+**1)**	Bercé : Circuits écoutes ultrasonores de juin 2011 (après 21h)
+  
        Lundi 20 juin : Circuit Les Clos – de Croix Marconnay – 
                        de Sermaise – de l’Hermitière.
        Mardi 21 juin : Circuit Les Défaits – de La Coudre - 
@@ -118,8 +121,9 @@ Quelques documents pour mieux connaître les espèces et leur mode de vie :
        Jeudi 23 juin : Captures Fontaine de la Coudre 
 
 {{<figure src="/images/articles/laurent.jpg"  title="Laurent Tillon en écoute dans la canopée">}}
+  
 
-       2)	Voici le déroulé du radiotracking  
+**2)**	Voici le déroulé du radiotracking  
           de juillet 2011 en forêt de Bercé. 
   
        Du lundi 18 au mercredi 27 juillet 2011, 
@@ -159,3 +163,7 @@ Présence d’une richesse en chauves-souris
 Le dossier n'est pas clos:
   
 [Mai 2019 : article Ouest-France](/articles/pdf/201905of.pdf)
+  
+### Bibliographie :
+  
+Réseau Chiroptère de l'ONF
