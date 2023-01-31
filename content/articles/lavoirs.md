@@ -86,6 +86,7 @@ Pour assurer le curage annuel du lavoir et le nettoyage de ses abords
 
 
 ### 1928 : 
+ 
  Le garde GUIOMARD relate le nettoyage des sources qui dure deux 
  semaines par les ouvriers du lavoir public. Manque de chance, 
  le 29 mai un fort orage s’abat sur Bercé, ravageant, par des coulées
@@ -99,11 +100,13 @@ Au 30 juin 1928, la commune de Jupilles n’est plus concessionnaire du lavoir p
  idem le 1er mars 1933».		 
  
 ### 1938 :
+ 
  Le garde VOLARD perçoit au Grand-Lucé un mandat, ordonnancé au nom 
  de GUIMIER Gustave (caissier des concessionnaires) pour l’entretien
  annuel du lavoir de l’Hermitière.
  
 ### 1943 :
+ 
  VOLARD nous dit avoir reçu le 31 mars, la somme de 24 francs de la commune 
  de Saint-Vincent-du-Lorouër pour l’entretien du lavoir, et le 22 mai 1946
  avoir acheté des pointes pour le lavoir de l’Hermitière, avec l’emploi des 
@@ -148,4 +151,6 @@ La dernière maison qui fut construite sur Bercé fut celle de la
  parcelles 54 et 55 situées en face, soit de l’autre coté de la route «royale». 
  Le lavoir quant à lui ne sautât pas la route !
 
-
+### Bibliographie : 
+ 
+Le massif forestier de Bercé  (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet  - 2018)
