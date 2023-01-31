@@ -9,7 +9,7 @@ tags: ["Forestiers","MF"]
   
 
 La maison forestière des Boussions est construite depuis 30 ans 
-quand nait Laurent Heintz.
+quand naît Laurent Heintz.
 
 Le chasseur forestier Heintz (n° matricule 3129) garde domanial 
 de 2ème classe, est né en 1844, et domicilié à Thoiré-sur-Dinan. 
@@ -17,7 +17,9 @@ Il débuta en forêt de Bercé 1872.
 
 {{<figure src="/images/articles/medailles.jpg" title="Au retour de la guerre de 1870">}}
 
-Le 28 septembre 1872 il est affecté au triage n°6, à la maison forestière des Boussions.
+**Le 28 septembre 1872**
+  
+Il est affecté au triage n°6, à la maison forestière des Boussions.
 
 {{<figure src="/images/articles/laurent001.jpg" title="Laurent Heintz">}}
 
@@ -44,7 +46,7 @@ Comme beaucoup de forestiers sur Bercé, il fera souche sur place.
       mon père et mes grands parents! 
   
       Bref, j'ai fait de belles rencontres pour un premier retour aux sources
-      et je ne manquerai pas de revenir continuer mes recherches» (1)
+      et je ne manquerai pas de revenir continuer mes recherches» **(1)**
 
 
 {{<figure src="/images/articles/boussions528.jpg" title="Sa future épouse vivait au coin des fossés">}}
@@ -54,7 +56,8 @@ Laurent Heintz et Anne Marie Louise Vérité, née en 1849 se sont mariés
   
 {{<figure src="/images/articles/laurent-marielouise.jpg" title="Laurent et Anne Marie Louise Heintz">}}
   
-De 1874 à 1881, 
+**De 1874 à 1881**
+  
 Le couple eut 4 enfants, (3 garçons et une fille).
 L’aîné, Théophile Laurent Pierre est né le 3 avril 1874.
   
@@ -92,7 +95,7 @@ nombre de forestiers des pieds, organes essentiels de la marche  en forêt.
 
 1890, du 21 mars au 16 avril….malade (vu le docteur Manceau de Château du Loir)
   
-5 août au 13 septembre 1890 : 
+**5 août au 13 septembre 1890 :** 
   
   « parti aux eaux thermales de Bourbon-l’Archambault (idem en 1891)
 
@@ -112,7 +115,8 @@ En effet, de brillants états de services et plusieurs faits d’armes lui sont
 Bon nombre de ses camarades sont en effet « Morts pour la France ».
 
   
-Note de Roulleau-1893   
+**Note de Roulleau - 1893**
+  
 *Les gardes Heintz et Lesimple font partie de cette troupe de gardes d’élite, 
   fermes, soumis, dévoués, modes tes, qui sont l’honneur d’un corps, qui donnent
   aux jeunes l’exemple à suivre, et qui forment, dans une forêt, cette tradition 
@@ -145,7 +149,12 @@ Du 1er au 10 novembre 1897 date de sa retraite effective il est
   
 30 juillet 1917 : enterrement de l’ancien garde Heintz décédé à Thoiré-sur-Dinan. 
   
-     Référence : 
 
-(1)	archives familiales
+### Bibliographie : 
+  
+
+**(1)**	archives famille Heintz  
+  
+Bercé, une forêt d’exception (Y. Gouchet  - 2018)
+
 
