@@ -7,7 +7,8 @@ featured_image: "/images/et.sabots.jpg"
 tags: ["Bûcherons","artisans","Boisiers","travaux"]
 ---
  
-## La saga du sabot 
+### La saga du sabot 
+
 Les sabots ont été portés par un très grand nombre de personnes
 - surtout dans le monde rural -  jusque dans les années 1950. 
 Arrive alors la botte qui détrône cette chaussure de bois et
@@ -149,5 +150,7 @@ Aujourd’hui encore le foyer rural continue de faire
 perdurer la transmission de ce savoir.
 
  
-### Dossier « Au Fil du Temps » 
+### Bibliographie :  
+ 
+Dossier « Au Fil du Temps » 
 *préparé par Roxane Dairon ( n°25 pages 8 à 10)*
