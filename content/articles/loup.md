@@ -7,7 +7,7 @@ featured_image: '/images/loup.jpg'
 tags: ["Faune","Histoire"]
 ---
 
-## Le loup ... une bête mystérieuse qui terrorise la contrée 
+### Le loup ... une bête mystérieuse qui terrorise la contrée 
  
 Les relations Homme-Loup datent de la préhistoire : 
 une peinture rupestre représente un loup sur les parois
@@ -46,7 +46,7 @@ Au début du 18e siècle, le loup était partout.
 
 CE QUE RACONTENT LES REGISTRES PAROISSIAUX ET COMMUNAUX
  
-## Marigné : Bête dévorante
+### Marigné : Bête dévorante
 	
      Le 23e jour de mai 1690 est 
      décédée et a été  dévorée par 
@@ -91,7 +91,7 @@ bête carnassière.*
 
 {{<figure src="/images/articles/marie-verite.jpg" title="Registre de Thoiré sur Dinan">}} 
 	
-## L'extermination des loups
+### L'extermination des loups
 
 On pense qu’elle provient de la révolution sociale (conquête du droit de chasse pour les manants) et
 technologique (amélioration des armes), du début du XIXe siècle alors que le loup avait sa place dans
@@ -150,7 +150,7 @@ font des torts considérables »*.
  détenus, et l'abolition des procédures existantes
  à cet égard.*
 
-## 15 septembre 1790,
+### 15 septembre 1790,
 	
  Saint-Pierre du Lorouër : 
 	
@@ -206,7 +206,7 @@ Il disparaît ensuite progressivement de la région du Mans et du sud sarthois.
 	
 {{<figure src="/images/articles/piege.jpg" title="Un piège à loup">}} 	
 
- ## Mayet 1826
+### Mayet 1826
 En juin 1826, une louve qui rôdait autour des jardins du bourg de Mayet, enlève par ses jupons un enfant tout jeune, qu’elle emporte et dépose, à peu de distance, au milieu de plusieurs louveteaux à la pâture desquels elle le destine probablement.
 Poursuivie par la mère de cet enfant et par plusieurs personnes accourues à ses cris, la louve se sauve et permet de l’enlever de cette affreuse compagnie sans qu’il lui fût arrivé aucun mal.
 Les louveteaux furent détruits, mais on ne put atteindre la mère.(Julien Rémy Pesche)
@@ -222,7 +222,8 @@ Les louveteaux furent détruits, mais on ne put atteindre la mère.(Julien Rémy
     faisant fuir ses assaillants.    
     Témoignage d’Adrien et Claudette Borderon
 
-## Dernier loup tué en forêt de Bercé : 1870. 
+### Dernier loup tué en forêt de Bercé : 1870. 
+	
 « Joël Picard a interrogé en 1992, 
 madame Germaine DELHAYE, née en 1898,
 et qui avait travaillé un certain temps
@@ -248,7 +249,7 @@ Aujourd'hui, au début du XXIe siècle, l'ONF et l'Environnement recensent envir
 national. 
 
  
-## Les lieutenants de louveterie  
+### Les lieutenants de louveterie  
  
 Nommés par le préfet, ils sont chargés d’organiser la destruction des bêtes fauves ou nuisibles en dehors
 des périodes de chasse autorisées.
@@ -292,10 +293,19 @@ Fin 19e, il reste trois grands îlots de présence du loup :  Est, Massif Centra
 ### Bibliographie
 
 * Textes de Joël PICARD et Yves PIRAUX.
+	
 * Tiré de la revue Au Fil Du Temps : Peurs et Rumeurs n° 47 (pages 26 à 28) et 48 (pages 17 et 18).
+	
 * Archives départementales de la Sarthe (supplément à la série E, page 65 Julien Rémy Pesche (1780-1847).
+	
 * Dictionnaire topographique, historique et statistique de la Sarthe.
+	
 * Marin Rottier de Madrelle (1706, Mayet-1790).
+	
 * Mémoire historique sur le Belinois et observations Julien BODEREAU (1585, Tours-1653).
+	
 * Mémoires de famille (1567-1675), Henry ROQUET (1860-1949).
+	
 * Un animal disparu du Haut Maine, le loup. (B.S.A.S.A.S.) 
+	
+Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
