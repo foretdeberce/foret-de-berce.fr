@@ -24,7 +24,7 @@ Onduler sur la plaine et moutonner dans l'air,
 
 Pareils aux flots mouvants et féconds de la mer.
 
-*André Theuriet  juin 1903 (1833-1907, académicien)*
+**André Theuriet**  *juin 1903 (1833-1907, académicien)*
 
 
 {{<figure src="/images/articles/1947amenagement.jpg" title="1947 6ème aménagement de Bercé – les séries forestières ">}}
@@ -45,5 +45,7 @@ Pareils aux flots mouvants et féconds de la mer.
 
 {{<figure src="/images/articles/cladonia.jpg" title="juin 1955 - Série 11 parcelle 9 – P.M et P.S. (45ans) sur lande à Cladonia">}}
 
-
+### Bibliographie : 
+  
+Phototèque ONF
 
