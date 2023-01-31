@@ -15,9 +15,9 @@ mais auréolés par les médailles et récompenses.
 {{<figure src="/images/articles/medailles.jpg" title="La reconnaissance de la Patrie">}}	
 
 
-    Dotation des personnels
+**Dotation des personnels**
 
-    ## Le 14 septembre 1875
+### Le 14 septembre 1875
 
     Versé au chasseur forestier Heintz (n° matricule 3129).
 
@@ -37,7 +37,7 @@ mais auréolés par les médailles et récompenses.
 
 Il y a encore peu de temps, sous la restauration et le IIème  empire, les forestiers portaient en sus, un *"couteau de chasse"* qui pouvait s’apparenter à un glaive.
 
-## En 1878, 
+### En 1878, 
 
 Heintz (à la MF des Boussions) reçoit le fusil modèle 1874 en remplacement du modèle 1866,
 son sabre baïonnette et ses accessoires, ainsi que 64 cartouches métalliques à savoir 36 à employer
@@ -51,7 +51,9 @@ mesure 1m31 pour 4kg180. Sa portée est de 1200 à 1800m.
 
 {{<figure src="/images/articles/chassepot.jpg" title="Le fusil Chassepot">}}
 
-##  Le 15 décembre 1879, c’est le début des tirs à la cible sur Bercé.
+###  Le 15 décembre 1879 
+    
+C’est le début des tirs à la cible sur Bercé.
 
 Des revues d’armement et de grand équipement, avaient lieu périodiquement, 
 pour présenter aux officiers forestiers le bon état d’entretien du matériel.
@@ -152,8 +154,8 @@ Il mesure 1m30 pour 4kg180.
  {{<figure src="/images/articles/armes.jpg" title="La nouvelle dotation">}}
 
 
-« Remis au garde Moreau, le 9 janvier 1892, le fusil Lebel, sa baïonnette,
- son ceinturon, sa giberne, deux bretelles, gamelle, quart, cartouches, housse,  havresac ». 
+*« Remis au garde Moreau, le 9 janvier 1892, le fusil Lebel, sa baïonnette,
+ son ceinturon, sa giberne, deux bretelles, gamelle, quart, cartouches, housse, havresac »*. 
 
 En 1892, les forestiers ne se suffisent plus du champ de tir des Vieux Puits et sont amenés à concourir
 au champ de tir de Pontlieue, près le Mans.
@@ -177,8 +179,10 @@ deux cartouchières et une bretelle de fusil. Celui-ci, calibre 11mm, 0m228, un 
     
     L’administration est en droit d’y compter.
     Signé : l’inspecteur Delaporte.
+    
 C’est en 1899 d’après les registres que le tir à la cible du 25 mai à Pontlieue 
 soit le dernier du genre.
+    
 20 ans de tir à la cible s’achèveront ainsi, laissant place au maniement des armes et aux Revues qui
 perdureront jusqu’au 16 janvier 1914. 
 
@@ -195,12 +199,18 @@ En 1959 les vieux fusils et revolvers de calibre 6/35 seront délaissés au prof
 
 #### Bibliographie
 
-      * Revue des Eaux et Forêt 1870 - 1871.
-      * Annuaire des Eaux et Forêts 1867.
-      * Les Eaux et Forêts du XIIème au XXème  siècle.
-      * Patrick DEFFES (historien et forestier vendéen)
-      * Les recherches de Pierre CRAMOISY,
-         ancien sous-officier des goums, des sahariens, et autres.
-      * Les livrets journaliers de Bercé à ces dates.
+* Revue des Eaux et Forêt 1870 - 1871.
+    
+* Annuaire des Eaux et Forêts 1867.
+    
+* Les Eaux et Forêts du XIIème au XXème  siècle.
+    
+* Patrick DEFFES (historien et forestier vendéen)
+    
+* Les recherches de Pierre CRAMOISY,
+  ancien sous-officier des goums, des sahariens, et autres.
+    
+* Les livrets journaliers de Bercé à ces dates.
 
-
+Le massif forestier de Bercé (Y. Gouchet - 2002) 
+    & Bercé, une forêt d’exception (Y. Gouchet - 2018))
