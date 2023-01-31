@@ -17,11 +17,11 @@ En 877 l’ordonnance  de Charles IX prise à Quiercy sur/Oise eut
         Comtes (Cômes) s’accroît.
   
 En 925 le Château du Loir est déjà construit, la terre de Château du loir, 
-  située dans la Province du Maine est au XI e Siècle partie intégrante de la Comté (1) d 'Anjou.
+  située dans la Province du Maine est au XI e Siècle partie intégrante de la Comté **(1)** d'Anjou.
   
-Bercé, en est le joyau.
+**Bercé, en est le joyau.**
 
-	La forêt à cette époque est un véritable poumon économique.
+La forêt à cette époque est un véritable poumon économique.
   Le seigneur se doit de règlementer cette activité, au risque de 
   voir sa forêt entièrement pillée et braconnée. Pour conserver son 
   influence et satisfaire la noblesse vassale qui en échange lui rend 
@@ -32,7 +32,7 @@ Le Seigneur distribue aux fiefs environnants, le droit d'user des
   seigneuriales en contre partie du salut des âmes, de leurs ascendants
   et descendants.
 
-	Les bons et loyaux sujets, obtiennent certains droits de seigneurie, 
+Les bons et loyaux sujets, obtiennent certains droits de seigneurie, 
   de haute et basse justice, de voirie, (droits héréditaires), 
   d'autres dans le même temps les achètent ou les échangent.
 
@@ -55,10 +55,11 @@ Ils sont bergers, porchers, pâtres et cultivent aussi la terre du Seigneur.
   
 Une fois la terre défrichée, ils l'entourent de fossés et peuvent la 
   transmettre eux aussi à leur descendance.
-	La toponymie nous renseigne sur les cultures pratiquées 
-  ( ex: Le Pezeray : pois - La Forêt de Bercé ou Cte Forêt Joël PICARD 1994).
+  
+La toponymie nous renseigne sur les cultures pratiquées 
+  (ex: Le Pezeray : pois - La Forêt de Bercé ou Cte Forêt Joël Picard 1994).
 
-	La réformation des forêts de 1526 à 1531 donne lieu à de nombreux arrêts 
+La réformation des forêts de 1526 à 1531 donne lieu à de nombreux arrêts 
   qui visent en particulier les droits d’usage. Les concessions aux abbayes,
   prieurés, paroisses, fiefs vassaux sont en effet de plus en plus nombreuses.
   Cette situation perdurera jusqu'en 1668 date à laquelle Colbert reformera 
@@ -72,29 +73,29 @@ Une fois la terre défrichée, ils l'entourent de fossés et peuvent la
 
 
      Usage :   C'est un privilège accordé par le Seigneur qui pouvait regrouper plusieurs droits 
-		Hors la chasse.
+		           Hors la chasse.
 
      Petit Usage : Droit de prendre tout bois, excepté le Chêne " Vif " pour construire et réparer
-		    les maisons, moulins, échelles, tonneaux, cercles, cuves.
+		          les maisons, moulins, échelles, tonneaux, cercles, cuves.
 
      Bois de Travail: Ce droit concerne l’exploitation de bois à merrain (Tonneaux) de mermentage
-		      (Echalas des vignes), cerclage des Tonneaux  etc......... 
+		          (Echalas des vignes), cerclage des Tonneaux  etc......... 
 
      Hébergement :   Concerne l'usage " au bois vif " hors les cantons en "défait " pour rappareiller et
-		                 maintenir en bon état, abbayes, manoirs, pressoirs.
+		          maintenir en bon état, abbayes, manoirs, pressoirs.
 
      Chauffage : Droit de prendre le bois tombé à terre ou sec et tous les bois blancs pour le
-		            fonctionnement des fours, tels : saule, érable, bourdaine, aune, tremble, bouleau,
-		            charme sec - branches brisées - droit de ramasser " les loches seiches et les
-		            coupiaux ", le houx, la fougère, le genêt, la bruyère.
-		            ( 1331 - 40 charretées de bois pour le chauffage de la Collégiale de Pruillé ) 
+		          fonctionnement des fours, tels : saule, érable, bourdaine, aune, tremble, bouleau,
+		          charme sec - branches brisées - droit de ramasser " les loches seiches et les
+		          coupiaux ", le houx, la fougère, le genêt, la bruyère.
+		          ( 1331 - 40 charretées de bois pour le chauffage de la Collégiale de Pruillé ) 
 
      Panage : ou " Parnage ", autorisation de mener les porcs en forêt (en général pas plus
 		          de 60) surveillés par un porcher, hors des cantons défendus, après la glandée
 		          " Segon la coustume de cette Forest " (XIII ° siècle).
 
      Pacage : ou " Paissage de bêtes Ausmailles " - Autorisation de mener les bovins et bêtes
-		         à laine (les chèvres sont interdites) , hors défaits sous la surveillance d'un                                                    berger - Les chiens doivent être attachés tout le mois de Mai (durant les nais -
+		         à laine (les chèvres sont interdites) , hors défaits sous la surveillance d'un                                berger - Les chiens doivent être attachés tout le mois de Mai (durant les nais -
 		         sances du gibier).
 
     Chasse : Le Seigneur se réserve prioritairement la chasse, toutefois certains vassaux,
@@ -202,5 +203,4 @@ Une fois la terre défrichée, ils l'entourent de fossés et peuvent la
   
 Historique de la forêt de Bercé par Potel
   
-### (1)
-  Au Moyen Age : Comté était féminin. 
+**(1)**   Au Moyen Age : Comté était féminin. 
