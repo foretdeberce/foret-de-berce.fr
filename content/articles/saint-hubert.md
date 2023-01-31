@@ -8,7 +8,7 @@ tags: ["Histoire", "Route","Rond"]
 ---
 Situé en bordure de voie romaine sur la départementale le Mans/Tours :
 
-La N138 deviendra D338.
+**La N138 deviendra D338.**
 
 Le carrefour de Saint-Hubert est avant tout la première des portes 
 de Bercé et se devait à ce titre d’être remarquable pour être remarqué.
