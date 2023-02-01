@@ -45,6 +45,12 @@ Il est attaché à la commission d’aménagement de la Sarthe.
 Les opérations pour Bercé commenceront le 20 janvier 1843
   au lieu des Essarts, commune de Saint Mars d’Outillé.
   
+{{<figure src="/images/articles/borne20230201valnoire.jpg"  title="Une borne en périmètre">}}
+  
+Voici au niveau de la vallée Noire (Vallée des Pierres) une des rares bornes présentes
+  sur le pourtour de Bercé, et qui n'a plus d'ailleurs aucune utilité sachant que le terrain 
+  mitoyen à été donné à l'ONF par Vinci-Autoroute dans le cadre de l'opération A28. 
+  
 ### Une rencontre déterminante à Jupilles.
   
 En 1846, le 23 avril, il se marie à Jupilles avec 
