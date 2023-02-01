@@ -16,6 +16,7 @@ Procédant au dépouillement des registres paroissiaux d'Azay-sur-Thouet,
 un adhérent de GENEA 79, (n°35 page 9) a eu la surprise de trouver
 plusieurs actes mentionnant un commerce pratiqué au XVIIème siècle 
 dans cette paroisse de Gâtine, celui du «bois chantant». 
+
 On trouve ainsi trace de marchands de bois chantant.
 
 *Un acheteur de bois chantant est venu du diocèse du Mans
@@ -52,7 +53,7 @@ inhumation d'un autre marchand de bois chantant sur Azay.
       au bourg d'Azay a este enterre par moy pbre cure d azay
       Caffoireau
   
-22 juin 1664
+**22 juin 1664**
   
 mariage d'un marchand de bois chantant
 
@@ -73,7 +74,8 @@ Caffoireau
 Jeanne Sérafin du Cercle Généalogique du Sud Saintonge de Montendre (Charentes)
   indique dans GENEA 79 (n° 38 pages 3 et 4) que Pierre HELIS et son frère Jean,
   avaient été tourneurs de bois chantant dans la paroisse de Pommiers, près 
-  de Montendre, au 18e siècle. Nous apprenions ainsi que le mystérieux métier 
+  de Montendre, au 18e siècle.
+Nous apprenions ainsi que le mystérieux métier 
   s'était pratiqué en Sud-Saintonge, alors qu'on l'avait initialement découvert
   à Azay–sur-Thouet au 17e siècle.
 
@@ -81,7 +83,7 @@ René Geay, afin de faire avancer le dossier, a joint un de ses amis,
   originaire d'une commune située près de Flée, dont dépendait 
   l'ancienne paroisse de Quinquempoix.
  
- {{<figure src="/images/articles/orthographequinquempoix.jpg"  title="Quinquempoix ou Quincampoix ?">}}
+{{<figure src="/images/articles/orthographequinquempoix.jpg"  title="Quinquempoix ou Quincampoix ?">}}
 
 {{<figure src="/images/articles/robertrousselle.jpg"  title="Robert Rousselle">}}
 
