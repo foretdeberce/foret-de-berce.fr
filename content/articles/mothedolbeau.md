@@ -19,6 +19,7 @@ champ un morceau de sigillé de l'époque romaine.
 Des restes de fortifications en terre sont encore bien visibles malgré 
 l’érosion, système de fossés, cours intérieurs et 2 petits tumulus, 
 l'un encore bien visible, l'autre en partie détruit à l'ancienne cidrerie. 
+
 (Voir étude de Mr Veron) ; 
 
 A l'époque féodale le site appelé Fief de la Mothe 
@@ -32,17 +33,30 @@ Une importante vie existait car l'on dénombre 3 fours à pain.
 {{<figure src="/images/articles/37231.jpg"  title="La Mothe d’Olbeau">}}
 
 C'est vers 1570 qu'apparaît pour la première fois le nom de Longueval. 
+  
+Déjà Annibal Jacques de Longueval  vers 1613, seigneur de Sarton, 
+  capitaine de carabins, qui épousa Marie Pasquier était maître des Eaux-&-forêts. 
+
 
 ### Vers 1675 
 
-La succession de François de Longueval, vicomte d'Haraucourt seigneur 
+La succession de **Jacques-François de Longueval**, vicomte d'Haraucourt seigneur 
   de Bouviers habitant Brette fut partagée en 1675 entre leurs enfants
   parmi lesquels Joseph Alexandre de Longueval, seigneur d'Haraucourt 
   et du Haut Bois, lieutenant au régiment de la Marine, capitaine,
   maître des Eaux et forêts **(1)**  demeurant à la Mothe d'Olbeau à Château du Loir.
-Convoqué à l'arrière-ban du Maine en 1689. Il se mariera avec Françoise Huet
-  (demoiselle d’Artigné, fille de Charles, seigneur de Vaux, 
-  et de Marguerite Bougars et décèdera en 1727).
+Convoqué à l'arrière-ban du Maine en 1689.
+Le 22 novembre 1676, il se marie avec Françoise Huet
+  (demoiselle d’Artigné, fille de Charles et de Marguerite Bougars,
+  seigneur de Vaux, écuyer, seigneur d’Artigné, maître particulier 
+  des Eaux et Forèts de cette maitrise.  
+  
+**1711-**
+  
+Bénédiction de deux cloches, à Saint Guingalois, la plus grosse, nommée Joseph, par Me Joseph de Longueval d’Haraucourt, chevalier, seigneur de Brette, maître particulier des Eaux et forêts de la maîtrise de Château du Loir, et par dame Françoise Gaillard, veuve de Charles des Moutis, écuyer, seigneur de Montreuil. 
+La petite cloche a été nommée Louise Françoise Gabrielle, par Me Louis François Massue, subdélégué de Monsieur l’Intendant, maire perpétuel de la ville de Château du Loir, et par dame Louise Gabrielle Marchand, épouse de Joseph Hercule Massue.
+  
+Joseph de [Longueval d'Haraucourt](/articles/pdf/longueval.pdf) décèdera en 1727.
 
  **(1)** *Une maîtrise des eaux et forêts est une juridiction française
   d'exception chargée de surveiller et de contrôler les 
@@ -61,12 +75,12 @@ Dans l'une des cheminée du domaine est toujours en
 
 ### 1680
 
-Son fils, Charles Mathieu de Longueval d'haraucourt, 
+Son fils, Charles Mathieu de Longueval d'Haraucourt, 
   né en 1680 à la Mothe d'Olbeau, est aussi vers 1729
   Maître particulier des Eaux et Forêt de la Maitrise
   de Château du Loir, vicomte d'Haraucourt (alias Daraucourt Longueval),
   seigneur de Brette, commissaire provincial de l'artillerie royale. 
-  Il épousa Marie Anne Chesneau des Portes 
+  Il épousa Marie Anne Chesneau des Portes le 22 mars 1727
   (fille de Mathurin et de Marie Désirée Aubert du Boisguiet).
 Il est inhumé au Château du Haut-Bois (devenu depuis un Lycée agricole) 
   à Brette le 23 Avril 1747.
@@ -86,7 +100,7 @@ En 1747 c’est le décès à la Mothe d'Olbeau de Demoiselle
   la chapelle St François des Récollets à Château du Loir.
   
 Charles Mathieu Etienne épousa, à Château-du-Loir, Renée Geneviève
-  Mesnard de Belair de Seillac (fille de Gabriel, seigneur de Cornichard,
+  Mesnard de Belair de Seillac le 9 mai 1770,(fille de Gabriel, seigneur de Cornichard,
   et de Geneviève de Witasse) puis Catherine Bordin (Alençon). 
   C'est à lui que nous devons probablement l'implantation d'essences
   rares dans le parc dont les cèdres.
