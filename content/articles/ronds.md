@@ -541,8 +541,11 @@ Croisement  de la route forestière de la Vallée des Pierres / Route forestièr
 ### 13 — Rond d'Ussel
 	(commune de Thoiré sur Dinan) :  
 Croisement de la ligne de Croix-Veneur et de la ligne des pressenteries ou allée verte.
+matérialisé par une pancarte bois et à l'arrière du rond un bouquet sauvegardé de l'ancien peuplement.
 	
-{{<figure src="/images/articles/ussel1924.jpg" title="Carte de situation">}}		
+{{<figure src="/images/articles/20230201usselarge.jpg" title="le bouquet en fond">}}	
+{{<figure src="/images/articles/20230201ussel.jpg" title="La pancarte">}}	
+{{<figure src="/images/articles/ussel1924.jpg" title="Carte de situation">}}	
 	
 ### 14 — Carrefour de Croix Segrier  
 	(commune de Beaumont Pied de Bœuf) :   
