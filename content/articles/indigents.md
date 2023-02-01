@@ -10,7 +10,7 @@ tags: ["Histoire","Hommes","Ouvriers","Travaux"]
 La vie par le passé était laborieuse et beaucoup de travailleurs se
 trouvaient en état de pauvreté.
 
-Ces gagne-petits pour passer l'hiver venaient
+Ces "gagne-petit" pour passer l'hiver venaient
 glaner ou grapiller dans nos forêts, le bois de subsistance.
 
 Considéré dans un premier temps comme du vol, 
@@ -120,7 +120,7 @@ Saint Pierre du Lorouër en 1912 : 5
  
 ### Bibliographie :
 
-**(1)** Revue Forestière Fr. LVII – mai 2005 Histoire et territoires -
+**(1)** Revue forestière Fr. LVII – mai 2005 Histoire et territoires -
 
 « Il était une fois ….le bois mort dans les forêts Françaises »- Michel Bartoli - Bernard Geny.
  
