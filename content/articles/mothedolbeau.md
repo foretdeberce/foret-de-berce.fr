@@ -100,11 +100,24 @@ En 1747 c’est le décès à la Mothe d'Olbeau de Demoiselle
   la chapelle St François des Récollets à Château du Loir.
   
 Charles Mathieu Etienne épousa, à Château-du-Loir, Renée Geneviève
-  Mesnard de Belair de Seillac le 9 mai 1770,(fille de Gabriel, seigneur de Cornichard,
-  et de Geneviève de Witasse) puis Catherine Bordin (Alençon). 
+  Mesnard de Belair de Seillac le 9 mai 1770,(fille de Gabriel, 
+  seigneur de Cornichard,  et de Geneviève de Witasse) puis 
+  en deuxième noce Catherine Bordin (Alençon). 
   C'est à lui que nous devons probablement l'implantation d'essences
   rares dans le parc dont les cèdres.
 
+17 mars 1771
+  
+*Baptême de Charles à Luceau, issu du mariage de Charles de Longueval, 
+  vicomte d’Haraucourt, chevalier, seigneur de La Motte –Dolbeau, 
+  en cette paroisse de Château du Loir, et de dame Renée Geneviève 
+  Mesnard de Seillac .
+Parrain, Charles Jean Baptiste Joseph Mesnard de Seillac, écuyer,
+  receveur général des tailles et autres impositions à Château du Loir ;
+  marraine, dame Agathe des Moutis, épouse de Joseph Guy François 
+  de Longueval d’Haraucourt, capitaine au régiment de Bourbon –Infanterie, 
+  seigneur de Brette, Hautbois, oncle et tante de l’enfant*.
+  
 
 ### 1865
 
