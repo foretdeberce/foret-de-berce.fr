@@ -181,6 +181,18 @@ Le garde Messager constate le 28 novembre 1940, qu’un fourneau pour carboniser
   pour fourneaux de charbons de bois : 2 places à charbon et 1 place à loge dans la parcelle E6 
   (P. 175 de Sermaize). L’industrialisation est en marche….
   
+L'emploi d'un camion gazogène n'était pas sans risque. 
+  
+Le 16 avril 1943, à 13h15, le garde Thomas donne l’alerte.
+*Un camion vient de prendre feu sur la RN 158. Après deux 
+heures d’efforts soutenus, le feu est circonscrit. 
+Le chauffeur du camion : Israël Lefebvre (d’Isigny/Mer-Calvados)
+employé de la maison Dupont d’Isigny, nous a fait savoir que son
+gazogène avait communiqué le feu à la carrosserie de son véhicule.
+Pour éviter le pire, il vida le coffre des matières  inflammables,
+mais par malheur un bidon d’huile déjà en flammes mis le feu à la 
+forêt proche (4ha furent incendiés et 200 sauveteurs mobilisés)* 
+  
       Témoignage d’Édouard Guillier (ancien éhouppeur)
   
       Vers 1950 il y avait encore trace dans les Monnées, 
