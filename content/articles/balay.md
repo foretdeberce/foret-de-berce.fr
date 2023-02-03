@@ -40,6 +40,8 @@ Roger Blais  - La Forêt (P.U.F. 1947).
      couvert et sécurité –
      Rappelons  que Bercé ne fut percé qu’en 1783 -
      
+Parfois la sécurité est bien mise à mal comme ce 24 aout 1881, *il y a le feu à croix Veneur dans une coupe à Louis Chevalier de Thoiré sur Dinan. Le feu gagne sur 9m2 autour de la loge du rond qui flambe ainsi que 3 arbres*.
+     
 *Les fendeurs, les boîtier et les bûcherons de la forêt de Bersay (Sarthe), ont
 l'habitude d'allumer du feu près de leurs ateliers, même en été. 
 Ils prétendent que ce feu leur tient compagnie; peit-être est-ce un souvenir
