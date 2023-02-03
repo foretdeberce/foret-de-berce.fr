@@ -520,11 +520,15 @@ Ce feu est sans conteste d’origine criminelle.
  soit 150 pompiers, seront en action pour lutter contre ce feu, 
  qui aura détruit principalement des résineux, léchant profondément
  les parcelles feuillues, dont le chiffrage de la perte bois 
- s’élève à 600.000 €. Souhaitons que celui-ci en termine la funeste série.      
+ s’élève à 600.000 €. Souhaitons que celui-ci en termine la funeste série.     
+ 
 
 {{<youtube id="drl4tP_Aahg">}} 
+ 
+ 
 
 {{<youtube id="9_CVILEdRXg">}}
+ 
  
 *La Liste des parcelles touchées par le feu est non exhaustive. 
  - Numérotation  des parcelles mis à jour en 2016.*
