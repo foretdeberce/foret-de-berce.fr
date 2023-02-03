@@ -423,7 +423,7 @@ Bref, c’est à partir de cette date que Bercé aura le plus à souffrir du feu
 
 Pour accéder au dossier spécial **Bikini**, cliquez sur ce lien :
 
-[Bikini, l’épisode noir de Bercé](/articles/pdf/bikini1945-1963.pdf)
+[Bikini, l’épisode noir de Bercé](/articles/pdf/bikini1949.pdf)
 
 **1964 à 1981**: peu de feux importants, durant cette période.
 
