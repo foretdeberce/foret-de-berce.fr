@@ -4,7 +4,7 @@ date: 2022-11-03T20:24:52+01:00
 draft: false
 description: "conditionnent l’évolution de la forêt"
 featured_image: '/images/et.2005.jpg'
-tags: ["Arbre","Météo","Pluie","Froid"]
+tags: ["Arbre","Météo","Pluie","Froid","Feux"]
 ---
 
 La hauteur des sources, l’absence de glandée ou de faînée, les plaies sur les arbres, 
