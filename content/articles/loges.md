@@ -116,8 +116,28 @@ En octobre 1940 : La route de contournement de la Coudre et la Construction
 
 A la même période la route de contournement du ruisseau de la 
   Gaie Mariée était aussi surnommée *« route des chômeurs »*.
-Le public a tellement maltraité ces loges que beaucoup ont été détruites,
-  leur reconstruction coûtant plus cher qu'une simple démolition.
+
+	
+1er janvier 1973, ceux qui auront fêté le passage du nouvel an dans
+la cabane du rond du Buisson se souviendront longtemps d’y avoir mis 
+le feu. Un homme de Mayet est interpellé 6 mois plus tard à la Guiltière. 
+Il avouera être l’auteur de ces incendies.
+	
+1976, le 14 juin, l’année de la sècheresse, le feu se déclare dans
+la maison d’Yves Camisy au Bout du Clos. Il n’en reste rien.
+	
+Le 30 avril 1977 à 23h, Mr Jacob de Marigné prévient Calvel par téléphone
+que l’abri du Buisson risquait de prendre feu, la cheminée ayant été bourrée 
+de bois par des pique-niqueurs avant leur départ. 
+Emportant 100l d’eau, il nous est impossible d’approcher l’intérieur 
+de l’abri. A 2 heures du matin, avec l’aide sur place et 2 autres 
+transferts d’eau, tout danger est écarté.
+	
+1984, le 29 avril, suite à l’incendie d’une loge, on détruit 
+le 2 mai systématiquement, toutes les cheminées des loges forestières.
+	
+Le public a tellement maltraité ces loges que beaucoup ont été rasées,
+  leur reconstruction coûtant plus cher qu'une simple démolition.	
   
 {{<figure src="/images/articles/logesdeberce.jpg" title="Les loges actuelles et celles disparues">}}
 	
