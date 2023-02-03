@@ -27,10 +27,10 @@ et aux bêtes, nourriture et abri.
 
 Il n’y a pas en forêt de petits incendies, mais des grandes 
 catastrophes pour la vie forestières animale et végétale. 
-Par le passé les écobuages **(*)** mal maîtrisés menaient 
+Par le passé les écobuages **(0)** mal maîtrisés menaient 
 parfois à la catastrophe. 
 
-**L’écobuage (*),
+**L’écobuage (0)**,
 
 est un travail harassant, il consiste à brûler souches, racines 
 et couverture superficielle du sol (landes) puis à épandre par 
@@ -55,8 +55,10 @@ des Boistardières (18 ouvriers dans la parcelle 20) »* (Joly)-
 Les 3 et 4 juillet 1863  « Mise à feu des écobuages» (Masseron) 
 et le 29 juillet 1863 « Rendez-vous à Laillé à 7h du matin pour 
 la paie des ouvriers ayant travaillé aux écobues dans le canton 
-des Boistardières, sous le contrôle du garde général. 16 novembre
-1863 *« Surveillé les ouvriers employés à reprendre la cendre des écobues.*
+des Boistardières, sous le contrôle du garde général. 
+
+16 novembre1863 
+*« Surveillé les ouvriers employés à reprendre la cendre des écobues.*
 
 **1864**
 
@@ -177,17 +179,22 @@ Ouest-Éclair du 17 septembre 1923.
 né dans l’exploitation d’un bois particulier vers 16h, 
 le feu gagne la parcelle 90 de la Guiltière puis se dirige 
 vers la route de Vaas alimenté par la fougère sèche. »*
+
 Le garde Guilbauld, la gendarmerie de Mayet et 50 habitants
 de Verneil participent à ce combat. Cette année-là, 
 les reboisements seront crédités par le produit des jeux (en France).
 La franchise téléphonique permet au garde de contacter 
 l’inspecteur en cas d’incendie.
 
-**1925**,  le 12 juillet : parcelle 77. 
+**1925**
 
-**1926**, le 18 septembre : feu dans la  parcelle 215.
+Le 12 juillet : parcelle 77. 
 
-## 1928
+**1926**
+
+Le 18 septembre : feu dans la  parcelle 215.
+
+**1928**
 
 Les 5 et 6 septembre : P133 et 134 : à l’appel du tocsin, 
 les populations de Jupilles et Marigné ont vaillamment combattu 
@@ -196,7 +203,7 @@ le feu à l’aide de branchages et d’outils rapidement réquisitionnés.
 **Le Mans - Ouest-Éclair du 6 septembre :** 
 
 *Hier, vers 12h30, le feu s’est déclaré dans la forêt de Bercé,
-la plus belle de la Sarthe, au lieu dit « le rond du Nacron »,
+la plus belle de la Sarthe, au lieu dit **« le rond du Nacron »**,
 à 1500m environ du bourg de Jupilles. 15ha de bois taillis ont 
 été consumés. Deux cents personnes des communes voisines et 
 les brigades de gendarmerie du Grand-Lucé et de Château du 
@@ -213,7 +220,7 @@ Rappel de l’inspecteur
 les chemins, les lignes et tranchées garantissant 
 un pare-feu en cas d’incendie ».*
 
-**L’inspecteur Hurteau écrit :**
+**Constat de l’inspecteur Hurteau :**
 
      Vers la fin de l’hiver, le dessèchement naturel du sol,
      herbes, mousses, lichens, bois mort et feuilles tombées,
@@ -237,27 +244,28 @@ un pare-feu en cas d’incendie ».*
 
 **Ouest Éclair  du 7 septembre 1928
 
-**Le feu en forêt de Bercé
-Mercredi, vers midi, le feu se déclarait en forêt de Bercé, 
-en bordure de la ligne des Trembles entre le rond du Nacron 
-et la Chauvinière sur la commune de Jupilles. En peu de temps,
-grâce au vent sud-est, le feu s'étendait dans lé canton de la 
-Croix Marconnay. Le toscin fut sonné dans les communes voisines,
-dont la population-vint sur les lieux.  Les gendarmes de 
-Chateau-du-Loir du Grand-Lucé, de Mayet et d'Ecommoy, 
-prévenus par l'inspecteur principal des Eaux et forêts,
-M. Potel, accoururent immédiatement.  Les progrès" de l'incendie,
-dont les flammes' atteignirent jusqu'à dix mètres de haut, 
-furent arrêtés par un contre-feu, et grâce aux manœuvres 
-habiles menées par les gardes forestiers et les gendarmes,
-de sorte que vers quatre heures du soir il ne restait
-plus que quelques brasiers.
-L'incendie a couvert  12 à 15 hectares. Les  dégâts 
-sont assez considérables, car le bois brûlé est du plan 
-naturel de chêne de 20 à 25 ans, inutilisables encore 
-comme bois d'industrie et donc a peu prés sans valeur
-marchande actuellement. Une surveillance active eut lieu
-toute la nuit, par les gardes-forestiers.**
+     Le feu en forêt de Bercé
+     Mercredi, vers midi, le feu se déclarait en forêt de Bercé, 
+     en bordure de la ligne des Trembles entre le rond du Nacron 
+     et la Chauvinière sur la commune de Jupilles. En peu de temps,
+     grâce au vent sud-est, le feu s'étendait dans lé canton de la 
+     Croix Marconnay. Le toscin fut sonné dans les communes voisines,
+     dont la population-vint sur les lieux.  Les gendarmes de 
+     Chateau-du-Loir du Grand-Lucé, de Mayet et d'Ecommoy, 
+     prévenus par l'inspecteur principal des Eaux et forêts,
+     M. Potel, accoururent immédiatement.  Les progrès" de l'incendie,
+     dont les flammes' atteignirent jusqu'à dix mètres de haut, 
+     furent arrêtés par un contre-feu, et grâce aux manœuvres 
+     habiles menées par les gardes forestiers et les gendarmes,
+     de sorte que vers quatre heures du soir il ne restait
+     plus que quelques brasiers.
+     
+     L'incendie a couvert  12 à 15 hectares. Les  dégâts 
+     sont assez considérables, car le bois brûlé est du plan 
+     naturel de chêne de 20 à 25 ans, inutilisables encore 
+     comme bois d'industrie et donc a peu prés sans valeur
+     marchande actuellement. Une surveillance active eut lieu
+     toute la nuit, par les gardes-forestiers.
 
 **1929**
 
@@ -298,7 +306,7 @@ allumé par un fumeur imprudent. A 23h 15 Gautron écrit :
 prendre du café et de l’eau de vie chez moi pour les 4 hommes
 qui étaient en surveillance toute la nuit »*. 
 
-Superficie brûlée : environ un hectare.
+Superficie brûlée : environ **un hectare.**
 
 Le 3 août parcelles 91 & 92 
 *combattu en 30 minutes par Gautron,
@@ -323,23 +331,222 @@ l’inspecteur-adjoint : 14 rue Crochardière, le Mans. »*
 Divers incendies sans gravité sur Joriette (p.50 partie) et Saint-Hubert (camion en feu sur RN158).
 
 **1938**
-Le 14 mars  sur Bercé : interdiction aux bûcherons de faire du feu dans les balais et ce, en raison d’une sècheresse persistante… 430 ha de la forêt de Sillé viennent, le 12 de ce mois, d’être ravagés par le feu.
+
+Le 14 mars  sur Bercé : interdiction aux bûcherons de faire du feu
+dans les balais et ce, en raison d’une sècheresse persistante… 
+430 ha de la forêt de Sillé viennent, le 12 de ce mois, 
+d’être ravagés par le feu.
+
 **1941**
-Le 3 mai, incendie sur la bordure est de la parcelle 54 (bois de 40 à 80 ans) vent nord-est assez vif. C’est le feu allumé le matin pour brûler des branchages qui,  au moment d’une bourrasque au déjeuner, fut à l’origine du sinistre d’un hectare.
+
+Le 3 mai, incendie sur la bordure est de la parcelle 54
+(bois de 40 à 80 ans) vent nord-est assez vif. C’est le feu allumé 
+le matin pour brûler des branchages qui,  au moment d’une 
+bourrasque au déjeuner, fut à l’origine du sinistre d’un hectare.
+
 **1942**
-Le 25 mars, le feu parcourt 12 ares de sous-bois feuillus sans faire de dégâts. Incendie dans la nuit du 19 au 20 dans la parcelle 15 (16 ares en bordure de la route forestière de Grammont).
+
+Le 25 mars, le feu parcourt 12 ares de sous-bois feuillus sans
+faire de dégâts. Incendie dans la nuit du 19 au 20 dans la
+parcelle 15 (16 ares en bordure de la route forestière de Grammont).
+
 **1943**
-Les 9 et 10 mars, parcelles 90, 106, 107, 108 en début d’après midi. Le feu sur 22,50 ha, est dû à une imprudence car c’est mardi gras.il est attisé par une grande sécheresse et un vent irrégulier dirigé du nord au sud. Le feu est circonscrit à l’aide de branchages frappés au sol. 
-La nuit du 13 au 14 avril un feu s’est déclaré dans les Pressenteries et le 16 suivant, c’est un camion chargé de beurre d’Isigny qui en prenant feu sur la RN158, ravagea 4 ha et nécessita 200 sauveteurs. 
-Le 6 août 1943 la foudre… (Tombée un 2 août)….aurait ravagé lentement 3 ha de couverture morte dans une partie des parcelles 57 & 58 partie.
+
+Les 9 et 10 mars, parcelles 90, 106, 107, 108 en début d’après midi. 
+Le feu sur 22,50 ha, est dû à une imprudence car c’est mardi gras.
+Il est attisé par une grande sécheresse et un vent irrégulier dirigé du nord au sud.
+Le feu est circonscrit à l’aide de branchages frappés au sol. 
+La nuit du 13 au 14 avril un feu s’est déclaré dans les Pressenteries 
+et le 16 suivant, c’est un camion chargé de beurre d’Isigny qui en prenant 
+feu sur la RN158, ravagea 4 ha et nécessita 200 sauveteurs. 
+
+Le 6 août 1943 la foudre… (Tombée un 2 août)….aurait ravagé lentement
+3 ha de couverture morte dans une partie des parcelles 57 & 58 partie.
+
 **1944**
-Le 24 février : Mme Manceau de Jupilles informe le garde Daviron qu’elle a mis le feu à la forêt dans la parcelle 53 à la Tasse. Trois ares seront éteints avec l’aide de son journalier. Le 27 mars feu dans les Pressenteries de 16h30 à 3h45 puis le 28 mars. Le 7 avril, feu de 12 ares dans la parcelle 152 (progression de NE à SO) éteint à l’aide de branchages verts par les forestiers Poumerol René, Daviron Lucien, Leroux Raymond, Pie Roland, Bordeaux, Victor,  Fefeu Paul. Le 28 avril : feu parcelle 62 du Grand-Hêtre. Le 2 mai, incendie hors forêt domaniale au dessus de Mortier-Râteau. Le 6 août c’est à la Tasse, parcelle 55 qu’un foyer allumé par un service civil de l’armée allemande cantonné en forêt se propage sur 0,50 ha. Daviron de relater : *« Celui-ci brûlait des archives à même le sol. Le vent fort dirigé nord-sud, nous fit établir une tranchée autour de l’incendie, avec l’aide d’André Pie, Poumerol, Chevrier Maurice, le garde Gobert, Ladurée, et les soldats allemands »*. Le 12 août à 15 h fumées en direction du Tronchet. Incendie des parcelles 60 et 61 et 3 heures plus tard … parcelle 53 de la Tasse. Le feu a été allumé parcelle 61 à 25 m de la route par temps calme fort heureusement. Surfaces touchées : 3 ha (p.53), 16,50 ha (p.60), 21,42 ha (p.61). Le 4 septembre on embauche quelques ouvriers pour l’exploitation en régie des arbres brulés. 
+
+Le 24 février : Mme Manceau de Jupilles informe le garde Daviron qu’elle 
+a mis le feu à la forêt dans la parcelle 53 à la Tasse. 
+Trois ares seront éteints avec l’aide de son journalier. Le 27 mars feu 
+dans les Pressenteries de 16h30 à 3h45 puis le 28 mars.
+Le 7 avril, feu de 12 ares dans la parcelle 152 (progression de NE à SO) éteint
+à l’aide de branchages verts par les forestiers Poumerol René, Daviron Lucien,
+Leroux Raymond, Pie Roland, Bordeaux, Victor,  Fefeu Paul. Le 28 avril :
+feu parcelle 62 du Grand-Hêtre. 
+Le 2 mai, incendie hors forêt domaniale au dessus de Mortier-Râteau.
+Le 6 août c’est à la Tasse, parcelle 55 qu’un foyer allumé par un service 
+civil de l’armée allemande cantonné en forêt se propage sur 0,50 ha.
+Daviron de relater : *« Celui-ci brûlait des archives
+à même le sol. Le vent fort dirigé nord-sud, nous fit établir une tranchée 
+autour de l’incendie, avec l’aide d’André Pie, Poumerol, Chevrier Maurice, 
+le garde Gobert, Ladurée, et les soldats allemands »*. 
+Le 12 août à 15 h fumées en direction du Tronchet. 
+Incendie des parcelles 60 et 61 et 3 heures plus tard … parcelle 53 de la Tasse. 
+Le feu a été allumé parcelle 61 à 25 m de la route par temps 
+calme fort heureusement. 
+Surfaces touchées : 3 ha (p.53), 16,50 ha (p.60), 21,42 ha (p.61). 
+Le 4 septembre on embauche quelques ouvriers pour l’exploitation
+en régie des arbres brulés. 
+
 ### Témoignage d’Albrecht :
-*« Rejoignant à bicyclette l’incendie de Saint Hubert, j’ai réveillé le garde Gautron ainsi que Mr Rastoul Eugène qui a donné l’alarme au hameau de Laillé. Prévenu à 2heures, nous arrivions sur les lieux à 2h30 du matin. Il y avait environ 35 ares de brulés. Avec les collègues et 4 autres personnes, et à l’aide de branches, nous avons localisé le feu à 4h. Nous avons organisé un service de nuit. De fortes présomptions vont soit sur le tir des troupes Américaines, soit sur la fuite des soldats Allemands. Marche du feu du Nord au Su Mr l’inspecteur Viney était présent sur les lieux le lendemain. Plusieurs contre feux ont été allumés. *
+
+*« Rejoignant à bicyclette l’incendie de Saint Hubert, j’ai réveillé le garde Gautron
+ainsi que Mr Rastoul Eugène qui a donné l’alarme au hameau de Laillé. 
+Prévenu à 2heures, nous arrivions sur les lieux à 2h30 du matin. 
+Il y avait environ 35 ares de brulés. Avec les collègues et 4 autres personnes,
+et à l’aide de branches, nous avons localisé le feu à 4h. Nous avons organisé 
+un service de nuit. De fortes présomptions vont soit sur le tir des troupes
+Américaines, soit sur la fuite des soldats Allemands. Marche du feu du Nord 
+au Su Mr l’inspecteur Viney était présent sur les lieux le lendemain. 
+Plusieurs contre feux ont été allumés. *
 
  **1945**
-Les 11 et 12 août : *« le 11 vers 8 h un incendie est déclaré p 82, 84, 85 sur 31,84 ha (vent de nord-ouest.) La cause en est un feu de repas allumé par un journalier de Jupilles et son patron qui ramassait de la bruyère. Quelques tisons dans l’humus très épais se sont réveillés et en raison de la grande sècheresse et du vent, se sont exprimés rapidement au petit matin. 1 ha de feuillus de 140 ans, 1,84 ha de semis de pins Sylvestres  de 6 ans, et 29 ha de maritimes et sylvestres de 50 à 60 ans furent détruits pour un coût estimé (fourniture repas + frais auxiliaires + frais pompiers de Verneil et Mayet + divers) à 31.180,75 f. Les bois de la parcelle 84 furent cédés plus tard par l’administration forestière aux mines de Lens. »* 	
+ 
+Les 11 et 12 août : *« le 11 vers 8 h un incendie est déclaré p 82, 84, 85 sur 31,84 ha 
+(vent de nord-ouest.)
+La cause en est un feu de repas allumé par un journalier de Jupilles 
+et son patron qui ramassait de la bruyère. 
+Quelques tisons dans l’humus très épais se sont réveillés et en raison 
+de la grande sècheresse et du vent, se sont exprimés rapidement au petit matin.
+1 ha de feuillus de 140 ans, 1,84 ha de semis de pins Sylvestres  de 6 ans, 
+et 29 ha de maritimes et sylvestres de 50 à 60 ans furent détruits pour un 
+coût estimé (fourniture repas + frais auxiliaires + frais pompiers de Verneil 
+et Mayet + divers) à 31.180,75 f. Les bois de la parcelle 84 furent cédés 
+plus tard par l’administration forestière aux mines de Lens. »* 	
+
 Plus tard, beaucoup de feux seront issus d’exploitations et d’incinération des rémanents.
-Quelques incendies touchent en 1982 : p189, 1983 et mai 1984 les parcelles feuillues n°24 et 28
-Après guerre le service de déminage sollicita les gestionnaires de forêt pour faire exploser sur place tous les restes d’explosifs de la dernière guerre. Bref, c’est à partir de cette date que Bercé aura le plus à souffrir du feu. 
+Quelques incendies touchent en 1982 : p189, 1983 et mai 1984 les parcelles feuillues n°24 et 28.
+
+Après guerre le service de déminage sollicita les gestionnaires de forêt pour faire
+exploser sur place tous les restes d’explosifs de la dernière guerre. 
+Bref, c’est à partir de cette date que Bercé aura le plus à souffrir du feu. 
+
+Pour accéder au dossier spécial **Bikini**, cliquez sur ce lien :
+
 [Bikini, l’épisode noir de Bercé](/articles/pdf/bikini1945-1963.pdf)
+
+**1964 à 1981**: peu de feux importants, durant cette période.
+
+**1982**, un incendie affecte sur quelques ares la parcelle feuillue 189 lors d’une coupe.
+
+**1983**, la parcelle feuillue n°24 est impactée.
+
+**1984**, *le 24 avril dans le haut de la parcelle 221 en exploitation au niveau
+de la 222, un feu sera combattu par 10 corps de sapeurs et une grande partie 
+des pins laricio plantés (10 ha) seront détruits. Les bûcherons travaillant 
+au dessus «… ne s’étaient rendus compte de rien ! »*. 
+
+A cette époque il est interdit d’apporter du feu en forêt du 15 mars au 15 septembre
+et l’interdiction de fumer est totale.  Mais le 28 avril, parcelle 28, rebelote…
+dans du feuillus et du résineux le feu ayant pris en bordure de route de Grammont. 
+Ce jour-là, 18 centres de sapeurs étaient présents. 
+
+**1985**, le 13 septembre, incendie de la p.6, suivi plus tard d’une explosion de…genêts.
+
+**1986 à 1992** peu de dégâts à constater.
+Le 19 juin 1992 mise en peinture sur les arbres et sur fond blanc des 
+mots « feux interdits ». En juillet, parcelle 69 au pied de l’antenne,
+feu de 7 ares.
+
+**1993**, resserrement des liens entre forestiers et pompiers
+par des stages et exercices communs.
+
+**1997**, le 15 avril, parcelles 15 et 16 (sur 25 ha) un feu parti 
+d’un tas de chaume. 113 hommes, des camions et des bulldozers combattront
+ce sinistre. Le 4 mai, parcelle 61 un feu criminel est allumé et 
+une heure plus tard un second feu partant  de derrière Laillé.
+
+### Origine des incendies 
+
+Le dépouillement statistique d'environ un millier de cas pour les massifs 
+forestiers de 14 départements, des régions Bretagne, Pays-de-la-Loire, 
+Basse-Normandie et Centre, étudiés donne les proportions suivantes aux 
+origines, en nombre de causes : Inconnues 42 %, imprudences 36 %, 
+chemins de fer et routes 10 %, malveillance 7 %, faits et engins de guerre 5 %.
+ 
+...Aussi loin que nous remontons dans les enquêtes dressées après les incendies
+de forêt, nous rencontrons de 5 % à 10 % de feux provoqués sciemment par
+des riverains ou des usagers. 
+
+La principale raison en est le désir d'éloigner les grands animaux des 
+cultures riveraines, mais parfois ce sont de simples jalousies de chasseurs :
+chasseurs à tir contre chasseurs à courre, ou locataires de lots voisins 
+dans le même massif, ou vengeance contre un propriétaire ou contre un garde 
+après un procès-verbal. Les imprudences les plus fréquentes sont celles 
+des ouvriers d'exploitation et des campeurs. 
+
+De nombreux désastres ont eu pour origine les fours à carboniser, et plus 
+spécialement le transport de braises pour allumer de nouveaux fours. 
+Mais il peut y avoir la destruction des rémanents dans les exploitations. 
+
+Jadis, l'équipe de bûcherons mettait un point d'honneur à laisser une coupe 
+parfaitement nettoyée. Elle ne discernait pas toujours cependant les périodes
+dangereuses et les lieux à éviter à tout prix.
+
+L'inconscience du touriste est par contre légendaire et elle ne cède qu'à 
+une éducation organisée et incessante du public, par des panneaux, 
+par voie de tracts, par voie d'affiches, par la presse aussi. 
+Les campeurs autorisés sont avertis par leurs associations responsables
+des délivrances de permis, mais les promeneurs du dimanche restent redoutables. 
+
+**1998**, Le cadre de la loi se renforce…
+
+### Arrêt total en forêt des incinérations en forêt à partir de 1998
+ 
+Avec cette nouvelle protection, l’administration représentée par l’O.N.F. 
+se donne les moyens de renforcer la protection des forêts, de conforter 
+la biodiversité ambiante et la protection, voire l’enrichissement des sols.
+
+Mais le 18 février, un feu part en bordure de CD13.
+Il semble dû à un ancien feu de bûcheron allumé en toute illégalité.
+
+Les derniers grands feux de mars 2012 et avril 2014…
+ranimèrent la flamme de ces pénibles évènements. 
+
+
+**2012**, le vendredi 30 mars, peu après 13h, 45 ha de résineux 
+partiront en fumée au nord vers Grammont dont 30 ha en forêt domaniale. 
+114 hommes, 30 véhicules, 5 groupes d’attaque participeront au combat. 
+Ce feu est sans conteste d’origine criminelle.
+(Photo du haut de page- © LMTV)
+
+ {{<youtube id="2JiT0IzPVx4">}}
+
+**2014**, le mardi 15 avril, feu sur Grammont et aux Forges. 
+ Cet incendie criminel a brûlé près de 170 hectares de la forêt 
+ domaniale de Bercé, 3 départs de feu ont été localisés. 
+ Le SDIS 61 est appelé en renfort. Au plus fort de l’intervention,
+ 7 groupes feux de forêts et un hélicoptère de la sécurité civile,
+ soit 150 pompiers, seront en action pour lutter contre ce feu, 
+ qui aura détruit principalement des résineux, léchant profondément
+ les parcelles feuillues, dont le chiffrage de la perte bois 
+ s’élève à 600.000 €. Souhaitons que celui-ci en termine la funeste série.      
+
+{{<youtube id="drl4tP_Aahg">}} 
+
+{{<youtube id="9_CVILEdRXg">}}
+ 
+*La Liste des parcelles touchées par le feu est non exhaustive. 
+ - Numérotation  des parcelles mis à jour en 2016.*
+ 
+### Bibliographie : 
+ 
+
+**(1)** Réf : deminex.fr/historiques-du-service-de-déminage
+ 
+**(2)** Université Rennes 2 – Haute Bretagne Master Histoire, 
+ sociétés et cultures Déminage et démineurs en Ille-et-Vilaine 
+ et dans les Côtes-du-Nord (1944-1947) Philippe Marion 2012
+ 
+**(3)** Le P.P.N. figurant au bas de la médaille ci contre, signifie Priez Pour Nous….
+ 
+**(4)** Viney Raymond, inspecteur général des Eaux et Forêts (20 mars 1905-15 mai 1997)-
+ Incendies de forêts, dans le centre et l’ouest (1974).         
+ 
+
+
+ 
+ 
+
+ 
+
