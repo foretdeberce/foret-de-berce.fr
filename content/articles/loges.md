@@ -73,6 +73,31 @@ Dortoir : le 23 Juin 1902, les élèves Officiers de l’École forestière
   de Nancy sont logés à Croix Marconnay dans un confort plus que sommaire.
 
 Par la suite les naturalistes de tous poils, s’y donneront rendez–vous.
+	
+**1923**
+La loge du rond de Verneil avait été refaite par le garde Guilbaud et 
+les auxiliaires de la brigade. 
+Le tour était en terrasse, mais le devant et la couverture était en planches. 
+A l’intérieur, il y avait une table rustique et deux bancs.
+	
+     Le 8 avril 1935 un incendie ravage la loge de Verneil : 
+     Leroy procédaient à l’échenillage des pins dans les parcelles 71, 79,87 
+     le matin avec l’auxiliaire Dronne qui faisait bruler les nids sur 
+     le chemin de Verneil. Après déjeuner, il ne restait que peu de
+     braises dans la cheminée (c’est fait courant qu’il y ait du feu 
+     à l’âtre d’un repas à l’autre), le sol balayé, ils fermèrent la
+     porte de la loge à clef et rejoignirent la p 83. La cheminée, 
+     construite en terre étant fortement endommagée depuis longtemps 
+     déjà, et n’ayant plus la hauteur suffisante pour empêcher le vent 
+     soufflant du Sud Ouest d’attiser le foyer, celui-ci expulsa des 
+     charbons ardents vers la porte qui se consuma. Comme cette loge 
+     était couverte de planches qui avaient été passées au Carbonyl…
+     le tout a flambé comme fétu de paille (la façade en premier). 
+     La perte de cette loge est grande car nous n’avions que celle là
+     dans ce triage, et c’était le lieu de réunion pour la délivrance 
+     des menus produits de la brigade le 30 de chaque mois. 
+     (Brigadier Peltier)
+
 
 {{<figure src="/images/articles/coudre1.jpg" title="La loge de la Coudre, aujourd’hui disparue">}}
 
