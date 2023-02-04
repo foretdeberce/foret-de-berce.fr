@@ -27,22 +27,27 @@ et aux bêtes, nourriture et abri.
 
 Il n’y a pas en forêt de petits incendies, mais des grandes 
 catastrophes pour la vie forestières animale et végétale. 
-Par le passé les écobuages **(0)** mal maîtrisés menaient 
+Par le passé les écobuages **(1)** mal maîtrisés menaient 
 parfois à la catastrophe. 
 
-**L’écobuage (0)**,
-
-est un travail harassant, il consiste à brûler souches, racines 
-et couverture superficielle du sol (landes) puis à épandre par 
-la suite ces cendres dans lesquelles, les paysans de la forêt 
-d’autrefois, cultivaient seigle, pommes de terre, sarrasin et pois. 
-Dans les sols pauvres, la récolte était forcément dérisoire.
+     L’écobuage (1), est un travail harassant, 
+     il consiste à brûler souches, racines 
+     et couverture superficielle du sol 
+     (landes) puis à épandre par la suite 
+     ces cendres dans lesquelles, les paysans 
+     de la forêt d’autrefois, cultivaient seigle,
+     pommes de terre, sarrasin et pois. 
+     Dans les sols pauvres, la récolte
+     était forcément dérisoire.
 
 **L’Édit royal du 13 décembre 1719**
 
-condamne à la peine de mort ceux qui allumeraient du feu en forêt.
-1727-1777 : les forestiers arpentent les bois incendiés de
-"Grandmont et de Haute-Perche" contigus à la forêt de Bercé. 
+Il condamne à la peine de mort ceux 
+qui allumeraient du feu en forêt.
+
+déjà entre 1727 et 1777 : les forestiers arpentent
+les bois incendiés de "Grandmont et
+de Haute-Perche" contigus à la forêt de Bercé. 
 
 **1862 :**
 
@@ -535,18 +540,9 @@ Ce feu est sans conteste d’origine criminelle.
  
 ### Bibliographie : 
  
+Archives ONF des maisons forestières de Bercé.
+ livrets journaliers des préposés.
 
-**(1)** Réf : deminex.fr/historiques-du-service-de-déminage
- 
-**(2)** Université Rennes 2 – Haute Bretagne Master Histoire, 
- sociétés et cultures Déminage et démineurs en Ille-et-Vilaine 
- et dans les Côtes-du-Nord (1944-1947) Philippe Marion 2012
- 
-**(3)** Le P.P.N. figurant au bas de la médaille ci contre, signifie Priez Pour Nous….
- 
-**(4)** Viney Raymond, inspecteur général des Eaux et Forêts (20 mars 1905-15 mai 1997)-
- Incendies de forêts, dans le centre et l’ouest (1974).         
- 
 
 
  
