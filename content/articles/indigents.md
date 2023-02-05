@@ -13,7 +13,7 @@ trouvaient en état de pauvreté.
 Ces "gagne-petit" pour passer l'hiver venaient
 glaner ou grapiller dans nos forêts, le bois de subsistance.
 
-Considéré dans un premier temps comme du vol, 
+[Considéré dans un premier temps comme du vol](/articles/pdf/voldeboisberce.pdf), 
 les mentalités changèrent subitement par la 
 pression médiatique, sous Napoléon III.
 
