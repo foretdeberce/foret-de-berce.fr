@@ -8,7 +8,7 @@ tags: ["Arbres","Curiosités","hommes","travaux"]
 ---
 
 
-Laissez vous guider en forêt par :
+Laissez vous guider en forêt de Bercé par :
 Louis, Arthur et Côme (étudiants)
 et Guillaume (photographe animalier).
 
