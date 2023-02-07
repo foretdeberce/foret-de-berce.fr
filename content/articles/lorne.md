@@ -1,5 +1,5 @@
 ---
-title: "chêne Lorne"
+title: "Chêne Lorne"
 date: 2022-11-26T14:33:44+01:00
 draft: false
 description: "Baptisé en 2008"
@@ -53,7 +53,7 @@ en Algérie, mais aussi celle où je fus un acteur des
   
 ### Reste la longue période qui suivit,
   
-*elle débuta au Mans le 1er septembre 1949 et se termina, là auss
+*Elle débuta au Mans le 1er septembre 1949 et se termina, là auss
 le jour où je pris ma retraite, puisque je parvins à m'y
 maintenir tout ce temps, c'est à dire pendant 20 ans.*
 
@@ -126,24 +126,29 @@ Il  me  fallait  seul  assurer  le  travail de  deux.
      fonctions de charge des travaux en forêt et 
      nous ne "martelions" pas toujours ensemble,
      Moustier plutôt a Perseigne et moi à Bercé. 
+  
      Il est vrai que nous avions été bien occupés,  
      pendant des semaines,  par le  déplacement  de  
-     nos  bureaux.  Le  service  de  la  Forêt  privée,  
+     nos  bureaux.  
+     Le  service  de  la  Forêt  privée,  
      avec Monsieur Ruban, occupait une partie d'un bel 
      hôtel fin XIXe rue du Bourg d'Anguy. Mis en vente, 
      Monsieur Blouère obtint le crédit nécessaire pour 
      l'acheter  et  ainsi  toute  la conservation  
      put-elle  se  regrouper  là. 
+  
      Quittant des locaux bien pauvrets, nous nous 
      installions au contraire dans un immeuble très cossu, 
      qui convenait bien a l'image de marque de notre 
      vieille et vénérable administration.
      Le cadre matériel dans lequel je vivais 
      m'était très sympathique. 
+  
      J'ai déjà évoqué cette belle maison du Bourg d'Anguy.
      L'on y entrait par une grande grille et un 
      joli jardin aux tilleuls taillés où les 
      voitures pouvaient stationner. 
+  
      La maison elle-même, de la fin du siècle 
      dernier, était plus cossue que belle. 
      Le bas était constitué par les pièces 
@@ -152,8 +157,10 @@ Il  me  fallait  seul  assurer  le  travail de  deux.
      était dans la salle à manger, du genre de celle 
      de la rue de la Mariette, les belles boiseries 
      en moins, mais avec une cheminée presque identique.
+  
      La conservation proprement dite occupait le 
-     1er étage et l'inspection le second. Une balustrade 
+     1er étage et l'inspection le second.
+     Une balustrade 
      en pierre bordait l'avancée en terrasse des deux salons.
      Le "pivot" de mon personnel était Madame Robert, 
      une vraie secrétaire intelligente, vive et fort sympathique." 
@@ -272,10 +279,10 @@ Robert, s’éteindra quelques mois plus tard, pour rejoindre
 
 Archives familiales Lorne et ouvrages de Rémond Lorne.
   
-«A la recherche de la qualité et des gros diamètres dans les futaies de chênes» (Revue Forestière Française 1956). 
+« *A la recherche de la qualité et des gros diamètres dans les futaies de chênes* » (Revue Forestière Française 1956). 
   
-« Étude quantitative sur les éclaircies dans les futaies de chênes », publiée en 1959.
+«*Étude quantitative sur les éclaircies dans les futaies de chênes* », publiée en 1959.
   
-« La sylviculture de l’avenir » parue en avril 1961.
+« *La sylviculture de l’avenir* » parue en avril 1961.
   
 Revue Au Fil du Temps N°  43 & 44 - Pages diverses (Y. Gouchet - 04 & 07- 2009)
