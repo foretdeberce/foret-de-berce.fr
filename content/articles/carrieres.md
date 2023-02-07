@@ -1,5 +1,5 @@
 ---
-title: "carrières forestières"
+title: "Carrières forestières"
 date: 2023-01-25T20:13:44+01:00
 draft: false
 description: "L'exploitation de la pierre"
@@ -548,6 +548,6 @@ Le Bureau des Recherches Géologiques et Minières a prospecté par
  
 Archives et livrets d’ordres du massif forestier de Bercé 
  
-photos Robert Calvel
+Photos Robert Calvel
  
 Revue au fil du temps n° 18 du 31 décembre 2002 et n°19 du 31 mars 2003 (Y. Gouchet).
