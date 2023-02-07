@@ -1,5 +1,5 @@
 ---
-title: " balay et habitat rustique"
+title: "Balay et habitat rustique"
 date: 2022-11-07T17:23:44+01:00
 draft: false
 description: "Loges forestières"
@@ -67,13 +67,13 @@ En compagnie de Mr, Mme. et Melle. Cartereau  (Boisselier) « à la Villa Huguet
 	Dans les bras d’Emile, le chien gardien de la loge.
 	(Photo : Famille Ballion, mai 1931).
 
-La Cabane en Forêt (rêve de tous gamins) était présente dans le milieu des
+La cabane en Forêt (rêve de tous gamins) était présente dans le milieu des
   coupes et devait répondre (Fin XIXe) à des sévères règles d’établissement, 
   encore en vigueur  avant la dernière guerre.
   Albrecht (1905) écrit : 
 	
-*Accompagne Monsieur le Garde général et le brigadier pour la marque des places de loges
-  et d’Ateliers sur mon triage*.
+*Accompagne monsieur le garde général et le brigadier pour la marque des places de loges
+  et d’ateliers sur mon triage*.
 	
 Celles-étaient repérées par de la peinture d’arbres témoins, dont on prenait le diamètre 
   à 1m30 du sol – Désignation était faite aussi des loges à feu.
