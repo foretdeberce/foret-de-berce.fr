@@ -12,14 +12,15 @@ tags: ["Arbres","Curiosités","hommes","travaux"]
 Le mardi 7 juillet 1896 vers 19h15, 
 un violent orage éclate sur Saint Ouen en Belin.
 La foudre s’abat sur le clocher et met le feu à l’église. 
+
 Seuls quelques vases sacrés et ornements purent être sauvés. 
 
 Le 6 novembre 1896 le conseil municipal valide
 la reconstruction de l’église dans un style roman.
 Le cahier des charges indique la provenance de matériaux.
 
-La charpente sera en chêne de Bercé à «*115fr le m3, 
-rendu, équarri à vive arrête*».
+La charpente sera en chêne de Bercé
+à «*115fr le m3, rendu, équarri à vive arrête*».
 
 ### 2019
 
@@ -31,7 +32,12 @@ et se propage à l’ensemble de la charpente.
 
 Les forêts Publiques et privées se mobilisent alors pour fournir 
 aux bâtisseurs la matière première de leurs chantiers soit plus 
-de 2000 chênes. Bercé fut la première à se mettre en œuvre le dispositif.
+de 2000 chênes.
+
+Pour Paris.... c'est cadeau !
+
+Bercé fut la première à se mettre en œuvre le dispositif.
+
 
 ### Les acteurs de la filière bois vous en parlent.
 
