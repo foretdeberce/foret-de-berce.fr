@@ -33,6 +33,8 @@ Les forêts Publiques et privées se mobilisent alors pour fournir
 aux bâtisseurs la matière première de leurs chantiers soit plus 
 de 2000 chênes. Bercé fut la première à se mettre en œuvre le dispositif.
 
+### Les acteurs de la filière bois vous en parlent.
+
 {{<youtube id="vOUzmAMd81Q">}}
 Les premiers chênes marqués pour la flèche.
 
