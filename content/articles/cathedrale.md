@@ -53,5 +53,5 @@ En route pour la Scierie des Géants en Mayenne.
 L’exploitation des géants
 
 {{<youtube id="awjEiKaEJAg">}}
-On en parle sur CNN 
+On en parle aussi sur CNN 
 
