@@ -174,6 +174,9 @@ et un sentiment écologique plus fort qu'auparavant.
 
 ### Travaux forestiers.
 
+**[Les pépinières](/articles/pdf/pepinieres.pdf)** 
+ont quitté la forêt pour des raisons de coût dans
+un premier temps, puis sanitaires dans un deuxième temps.
 Les travaux mécaniques sur les sols limoneux sont aujourd’hui, 
 réduits au minimum, afin d'éviter toute évaporation et exportation
 d'eau utile.
