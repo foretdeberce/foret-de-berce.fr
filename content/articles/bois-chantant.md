@@ -29,7 +29,6 @@ On trouve ainsi trace de marchands de bois chantant.
  Nous lançons donc un appel, espérant pouvoir publier
  la solution dans notre prochain numéro.*
 
-{{<figure src="/images/articles/luthier.jpg"  title="Un Luthier au travail">}}
 
 ### 21 avril 1651. 
   
@@ -46,7 +45,7 @@ Inhumation d'un acheteur de bois chantant originaire de la Sarthe à Azay/Thouet
   
 ### 6 mars 1664.
   
-inhumation d'un autre marchand de bois chantant sur Azay.
+Inhumation d'un autre marchand de bois chantant sur Azay.
   
       sixie(me) mars mil six cens soixante quattre 
       Sire Jean (...) marchand de bois Chantant dem(euran)t 
@@ -55,9 +54,7 @@ inhumation d'un autre marchand de bois chantant sur Azay.
   
 **22 juin 1664**
   
-mariage d'un marchand de bois chantant
-
-{{<figure src="/images/articles/boischantant.jpg"  title="Mariage d’un marchand de bois chantant">}}
+Mariage d'un marchand de bois chantant.
 
 *Le vingt deuxi(eme) Jour de Juin 1664 a esté espouze
 en face de N(otre) M(ere) S(ainte) Esglise Jacques
@@ -83,7 +80,6 @@ René Geay, afin de faire avancer le dossier, a joint un de ses amis,
   originaire d'une commune située près de Flée, dont dépendait 
   l'ancienne paroisse de Quinquempoix.
  
-{{<figure src="/images/articles/orthographequinquempoix.jpg"  title="Quinquempoix ou Quincampoix ?">}}
 
 {{<figure src="/images/articles/robertrousselle.jpg"  title="Robert Rousselle">}}
 
