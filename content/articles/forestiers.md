@@ -3,7 +3,7 @@ title: "Les forestiers"
 date: 2023-02-09T17:23:44+01:00
 draft: false
 description: "Officiers et gardes"
-featured_image: "/images/futais.jpg"
+featured_image: "/images/et.futaiesnationales.jpg"
 tags: ["Forestiers","MF"]
 ---
 
@@ -149,6 +149,7 @@ M Charles Mathieu de Longueval d’Haraucourt, conseiller du Roi,
 chevalier, seigneur de Brette et Hautbois, est [maître particulier des Eaux et forêts](/articles/pdf/viedesgrandsmaitres.pdf) à Château du Loir.
 
 **Les sources fiscales enregistrent aussi comme gardes:**
+
 Ledru en 1730, garde à Marigné.
 
 Hilarion Lepingleux des Buchetières 
@@ -333,9 +334,7 @@ d'agent national de la forêt de Bercé.
 
 1799 : Citoyen Royer, garde marteau, Pucelle (greffier) 
 
-
-Sur Chahaignes La Chenardière, une demeure d’officier forestier 
- 
+{{<figure src="/images/articles/lachenardiere.jpg"  title="la Chenardière">}}
 
 Située sur Chahaignes, cette maison avait été entre les mains de la 
 famille Lepingleux pendant 48 ans (1770-1818). Un membre de la famille
