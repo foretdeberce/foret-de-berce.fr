@@ -311,7 +311,11 @@ bûcherons de l'administration entre 1860 et 1900**
 	VILLOTEAU Louis	PE				
 	WALTEAU Louise	SPL				
 	YONG Victor	
+	Liste non exhaustive
 	
+[Les ouvriers forestiers de 1860 à 1900](/articles/pdf/tacherons1860-1900.pdf)	
+
+
 ### Bibliographie : 
 
 Bercé, une forêt d’exception (Y. Gouchet  - 2018)
