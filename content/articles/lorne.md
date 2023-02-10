@@ -226,6 +226,7 @@ Il  me  fallait  seul  assurer  le  travail de  deux.
   vente du cabinet Lorne où  j'étais  devenu l'adjoint de Fabien.* 
 
 ### La parcelle 132 : 
+  
 
 Parcelle label & nouveau centre d’intérêt du massif. 
 
@@ -253,6 +254,8 @@ Les deux enclos (Clos du chêne Boppe & Clos du chêne Lorne)
   patrimoniaux est de nature à plaire à Rémond Lorne ce forestier,
   lui aussi devenu Chêne.
 
+{{<figure src="/images/articles/2014p132.jpg" title="La parcelle 132">}}
+  
 ### Automne 2010 
   
 Robert Calvel, n’a pu pour raisons de santé assister à la 
