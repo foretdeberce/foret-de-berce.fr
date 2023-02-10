@@ -139,6 +139,9 @@ Dans cet ordre d'idées tout à fait paternaliste,
   Ces plaques de baptême en fonte, vissées au dessus de la porte d’entrée, 
   agissent sûrement beaucoup dans le charme que ces maisons des bois exercent sur tous ...  
 	
+Avantage pour la région, outre la pierre abondante, 
+[la brique](/articles/pdf/labriqueaberce.pdf) est omniprésente en bordure de forêt.
+	
 ### Bibliographie : 
 	
 Revue Au Fil du temps N° 22 - Pages 5 à  7 (Y. Gouchet - 12 -2003)
