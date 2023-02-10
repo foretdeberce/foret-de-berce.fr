@@ -198,7 +198,9 @@ La réformation des forêts de 1526 à 1531 donne lieu à de nombreux arrêts
   curator et tutor audict Paennot et à tous ses enfans.*
   
 {{<figure src="/images/articles/image61.jpg" title="Usages entre 1331 et 1668 ">}}
-  
+	
+**Aujourd'hui, nous parlons de [cessions et concessions](/articles/pdf/cessionsetchampignons.pdf).** 
+	
 ### Bibliographie :
   
 Historique de la forêt de Bercé par Potel
