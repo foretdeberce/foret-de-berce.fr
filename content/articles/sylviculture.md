@@ -130,7 +130,8 @@ quantité de Congressistes .
     de ces enjeux. Cette définition de la Sylviculture
     moderne, garde encore aujourd’hui tout son sens.
 
-### La partie cultivée en chêne est assez bien équilibrée en classes d'âge.
+### [La partie cultivée en chêne](/articles/pdf/travauxsylvicoles.pdf) 
+    est assez bien équilibrée en classes d'âge.
 
   On recense à Bercé 3000 ha de chêne rouvre, dans la partie 
   historique de la forêt, dont l'âge d'exploitabilité est 
