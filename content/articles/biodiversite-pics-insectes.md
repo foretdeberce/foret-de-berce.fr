@@ -11,8 +11,13 @@ tags: ["Faune","Biodiversité"]
 
 ### Entre tiques et pics...
 
-> « Parler de biodiversité en forêt ne peut s’envisager 
-> sans faire référence aux coléoptères saproxyliques.
+**[La tique](/articles/pdf/latique.pdf)**
+
+Sans doute le plus dangereux de nos protagonistes,
+bien présent dès les premiers beaux jours.
+
+*« Parler de biodiversité en forêt ne peut s’envisager 
+sans faire référence aux coléoptères saproxyliques.
 Les organismes saproxyliques se définissent comme des 
 espèces qui dépendent, au moins pendant une partie
 de leur cycle de vie, du bois mort ou mourant d'arbres 
