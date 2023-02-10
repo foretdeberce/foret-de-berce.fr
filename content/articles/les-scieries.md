@@ -486,6 +486,9 @@ La sépulture de Mme Adet à lieu à St Vincent le 2 février 1940.
  
 De 1966 à 1980, en Sarthe l’on passe de 86 à 54 scieries…
        
+**[Les marchands de bois](/articles/pdf/marchandsdebois.pdf)** eux sont toujours
+présents sur le parterre des coupes !
+       
 Mais combien depuis ont fermé… ?
  
 ### Bibliographie : 
