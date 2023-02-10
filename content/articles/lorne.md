@@ -35,7 +35,6 @@ Après avoir été accueillis par Pascal Jarret (responsable forêt),
   par une foi profonde, a été au service de deux autres grandes passions :
   La France, et sa famille*
 
-{{<figure src="/images/articles/fabienlorneouestfrance.jpg"  title="Intervention de Fabien Lorne">}}
 
 ### Cet officier des Eaux et forêts,
   
@@ -100,8 +99,6 @@ Il  me  fallait  seul  assurer  le  travail de  deux.
   "relaxe" qu'avec Viney. Et j'étais ravi de pouvoir 
   piloter personnellement cette inspection très 
   intéressante que je connaissais bien.*
-
-{{<figure src="/images/articles/1958p80.jpg"  title="Au départ de Foucault en 1958">}}
 
 
 {{<figure src="/images/articles/p79gh.jpg"  title="Aux Clos en 1959">}}
@@ -255,9 +252,6 @@ Les deux enclos (Clos du chêne Boppe & Clos du chêne Lorne)
   La mise en valeur touristique et pédagogique de ces éléments
   patrimoniaux est de nature à plaire à Rémond Lorne ce forestier,
   lui aussi devenu Chêne.
-
-{{<figure src="/images/articles/022parcelle132.jpg"  title="Particularités parcelle 132 (photo LIDAR)">}}
-
 
 ### Automne 2010 
   
