@@ -293,6 +293,8 @@ demandeurs en retrait lignager (droit à reprendre un héritage),
 contre Jean Riolon (f° 8, v°). **(5)**
  
 
+[Réorganisation de l’administration forestière du 17ème au 18ème siècle](/articles/pdf/cartemaitrises.pdf) 
+
 ## Bercé forêt Nationale
 
 **[La conservation générale des forêts](/articles/pdf/organisationforestiere1791.pdf)**
