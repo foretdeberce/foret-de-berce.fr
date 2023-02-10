@@ -10,6 +10,8 @@ tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques","Armement"]
 
 Coup de projecteur sur les siècles passés, rendons hommage aux femmes et aux hommes qui y ont œuvré.
 
+Petit rappel des [faits marquants de la profession](/articles/pdf/faitsmarquantshistoireforets.pdf).
+
 Bien des familles s’y sont encrées, parfois dans le dénuement le plus total, mais tous ont eu à cœur d’y
 travailler.
 
