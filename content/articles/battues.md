@@ -95,6 +95,8 @@ Les battues typiquement forestières sont dirigées par l’inspecteur ou
   
 {{<figure src="/images/articles/boris002.jpg"  title="Aquarelle de Boris Riabouchinski qui vécut à St Vincent">}}
 
+**[Riab, un aquarelliste de talent](/articles/pdf/riab.pdf)**
+	
 ### Les dégâts du sanglier :
   
 Le système des battues repose sur les plaintes des agriculteurs environnants, 
