@@ -40,4 +40,6 @@ L’alternance de ces phrases dénote la monotonie à remplir ce "mouchard" qui 
 
 La page du livret à Heintz, du 18 au 20 janvier 1879, qui déraille en plein hiver, ( l’un des plus froids de ce siècle), reflète un état de grande lassitude dont on ne recherchera pas les causes, peut-être est-ce tout simplement le fait de doigts encore gelés au retour de tournée.
 
-
+Pour les forestiers de droit publique ou privé :
+[La médaille](/articles/pdf/lesmedailles.pdf), 
+c'est la reconnaissance d'une longue vie de travail.
