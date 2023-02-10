@@ -199,7 +199,11 @@ La réformation des forêts de 1526 à 1531 donne lieu à de nombreux arrêts
   
 {{<figure src="/images/articles/image61.jpg" title="Usages entre 1331 et 1668 ">}}
 	
+Hier nous parlions encore de [pâturage en forêt](/articles/pdf/paturageenforet.pdf) les années sèches.
+	
 **Aujourd'hui, nous parlons de [cessions et concessions](/articles/pdf/cessionsetchampignons.pdf).** 
+	
+	
 	
 ### Bibliographie :
   
