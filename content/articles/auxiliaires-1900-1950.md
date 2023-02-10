@@ -953,6 +953,13 @@ Des générations de besogneux ont ainsi par tous les temps, œuvré dans l’om
       
      Liste non exhaustive
      
+    [Les ouvriers forestiers de 1900 à 1950](/articles/pdf/tacherons1900-1950.pdf) 
+    
+    [Les ouvriers forestiers de 1950 à 2000](/articles/pdf/tacherons1950-2000.pdf) 
+    
+    [Les ouvriers forestiers en image](/articles/pdf/ouvriersforestiers.pdf) 
+    
+     
      ### Bibliographie : 
      
      Bercé, une forêt d’exception (Y. Gouchet - 2018)
