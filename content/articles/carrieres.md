@@ -15,6 +15,12 @@ et qui commencera peu après 1850, pensez donc :
 plus de 100 km de route à créer ! Des routes droites, défiant 
 tous les obstacles naturels (telle la côte de l’Hermitière)
 
+C'est en forêt, le chantier du siècle !
+
+Bon nombre de [cantonniers et gardes-cantonniers](/articles/pdf/gardescantonniers.pdf) 
+sont délégués à la mise en forme des routes forestières. 
+Les carrières tournent à plein régime.
+
 Vers 1840, du temps de Wautot, ingénieur arpenteur, 
 de nombreuses routes forestières ont été améliorées par l'ajout pierre.
 Avec le mauvais temps, il n'était plus possible de sortir les gros bois.
