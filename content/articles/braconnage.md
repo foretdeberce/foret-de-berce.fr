@@ -70,7 +70,8 @@ Sous Louis XVI (1754-1793) on se contente ordinairement de le mettre au carcan e
 À cette époque, les chemins ruraux étaient impraticables, les paroisses voulaient les réparer, mais l’intendant craignait que cela porte ombrage et préjudice à la rentrée des impôts. En 1770, seule la "Grand-route" du Mans à Tours est entretenue. 
 Le Haut-Maine dans sa partie ouest était couvert de bois, de landes, d’étangs marécageux  qui constituaient un terrain à peu près inculte, où le paysan du 18ème siècle, ignorant et mal outillé ne pouvait faire pousser un épi.  Mais dans la nuit du 4 août 1789, les députés de l’Assemblée nationale constituante, dans un bel élan d’unanimité, proclament  l’abolition des droits féodaux, dont celui de la chasse. Le bien commun …prime enfin !
 
-### Repenser la Chasse : Le braconnage comme droit naturel :
+### Repenser la Chasse : 
+	Le braconnage comme droit naturel :
   
  [la liberté de chasser contre le droit de le faire](/articles/pdf/maillard-braconnage.pdf)
   
@@ -290,7 +291,7 @@ Note circulaire de l’inspecteur adjoint des forêts René Roulleau (de la Rous
   B.O de Linière en 1866, repris en 1891 par 
   l’inspecteur Delaporte.*
   
- Note de B.O. de Linière :
+**Note de B.O. de Linière :**
   
 *Le garde général soussigné en exécution des ordres 
   de M. l’inspecteur en date du 3 juillet 1863, 
@@ -397,7 +398,7 @@ Barbé accompagne le soir le brigadier à Château-l'Hermitage pour
 
 Compétence des gardes en matière de délits de chasse
   
----- Note circulaire ---- Loi – 
+**---- Note circulaire ---- Loi –** 
 
 L’article unique, n° 22 de la loi du 3 mai 1844 sur 
   la police de la chasse est complété par le paragraphe 
