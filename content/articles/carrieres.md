@@ -11,14 +11,17 @@ tags: ["Tourisme","Loisirs","Biodiversite","Eau","Légende","Hommes"]
 
 
 L'ouverture des routes est un chantier d’envergure imaginé en 1783 
-et qui commencera peu après 1850, pensez donc : 
-plus de 100 km de route à créer ! Des routes droites, défiant 
-tous les obstacles naturels (telle la côte de l’Hermitière)
+et qui commencera peu après 1850, pensez donc :
 
-C'est en forêt, le chantier du siècle !
+plus de 100 km de route à créer !
+Des routes droites, défiant tous les obstacles naturels
+(telle la côte de l’Hermitière)
+
+C'est le chantier du siècle en forêt!
 
 Bon nombre de [cantonniers et gardes-cantonniers](/articles/pdf/gardescantonniers.pdf) 
 sont délégués à la mise en forme des routes forestières. 
+
 Les carrières tournent à plein régime.
 
 Vers 1840, du temps de Wautot, ingénieur arpenteur, 
@@ -58,8 +61,9 @@ de la Vallée Noire, en juin 1881. Ils seront rémunérés 50 journées
 Ils sont aussi employés en carrière et doivent avoir pour le moins, 
 une constitution robuste. 
 
-Quand le banc de pierre se faisait insistant, on n’hésitait
-pas à faire parler la poudre ! 
+Quand le banc de pierre se faisait insistant, 
+on n’hésitait pas à faire parler la poudre ! 
+
 Les montures et leurs charrettes distribuaient ainsi ces 
 précieux cailloux, mètre par mètre, à la plus grande 
 satisfaction des futurs utilisateurs de la forêt. 
@@ -89,10 +93,11 @@ Le 15 juillet, le garde Eugène Crossoneau rapporte :
   
 Le 7 juillet : Des fouilles sont entreprises dans 
   le **TERTRE AUX BŒUFS (3)** pour trouver des carrières de pierres.
-  En Avril 1884 : délimitation des carrières de Tertre Aux Bœufs. 
-  
+ 
 ### 1884
-  
+ 
+En Avril 1884 : délimitation des carrières de Tertre Aux Bœufs.  
+ 
 Le 12 mai : le garde Eugène Crossoneau et le brigadier Houbant
   (brigade est) sont «…à faire des fouilles pour reconnaître 
   les endroits où l’on pourrait ouvrir des carrières pour
@@ -141,7 +146,7 @@ Procès–verbal du 22 juin 1893 contre Moncelet Alexandre
        la maison forestière des Hutteries, les jours mois et ans que dessus.
        Leroi Pierre Marin »
   
-  ### 1894 
+### 1894 
   
 « Sur la brigade ouest (ouest de la ligne de Grammont) :
   ouverture de **JORIETTE (6)**. » P. 48-49. 
@@ -427,7 +432,7 @@ Surveillance par le garde Volard des chômeurs de février
   des **VIEUX- PUITS (20)** pour la route 
   de Gaie-Mariée (dite route des chômeurs). 
   
-###1946
+### 1946
   
 Les ouvriers sont occupés au découvert, c’est à dire
   à enlever le terreau, le charger avant l’ouverture de
