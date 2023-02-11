@@ -411,7 +411,8 @@ Dans les années 1980 le cheptel est en baisse significative, le plan de chasse
   A Bercé, cette régulation est assurée à la fois par la chasse à tir et à courre. 
  
 Aujourd’hui encore, le courre du cerf est toujours attribué à l'équipage Chamchevrier.
-Celui du chevreuil à la famille Haricot (le Mans) [Le Rallye Parence](/articles/pdf/1963rallyeparence.pdf), créé en 1964 puis plus tard à son fils.
+Celui du chevreuil à la famille Haricot (le Mans) [Le Rallye Parence](/articles/pdf/1963rallyeparence.pdf), 
+ créé en 1964 puis plus tard à son fils.
 [Vènerie N°123 de 1996](/articles/pdf/venerie123-1996.pdf)  
 Celui du lièvre à Lionel Chevalier et Jeanick Bouraud, etc..
  
@@ -429,16 +430,18 @@ Tous les suiveurs ne prennent plus systématiquement le Porsche Cayenne
  
 {{<youtube id="4KcEWS7S88Y">}}
 
-D’ici là, nous aurons eu le plaisir d’aller au brame ou d’observer les jeunes au printemps.
+D’ici là, nous aurons eu le plaisir d’aller au brame 
+ ou d’observer les jeunes au printemps.
  
  
 ### Livres à lire : 
   
 Sports à Paris  par Albert de Saint Albin (1889) Gallica.bnf.fr 
+ 
 Le Trésor de la Vènerie de Hardouin de Fontaines-Guérin (1394)
   
 ### Documentation : 
   
-livrets journaliers des personnels forestiers. 
+Livrets journaliers des personnels forestiers. 
 
 Revue Au Fil du Temps N° 61 -  Pages  29 à  32  (Y. Gouchet - 10 – 2013)
