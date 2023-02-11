@@ -9,7 +9,8 @@ tags: ["Tourisme","Loisirs","Biodiversite","Eau","Légende","Hommes"]
 
 ### Histoires d’eau à Bercé 
 
-**Légende du Mortier Plat de la parcelle 140 : ** 
+
+**Légende du Mortier Plat de la parcelle 140 :** 
 
 (C. et A. Borderon)
 En 1923 René Borderon avait essayé d’y mettre les pieds
