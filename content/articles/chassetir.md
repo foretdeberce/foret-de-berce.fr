@@ -22,13 +22,15 @@ Les adjudicataires du tir sont en forêt Domaniale de Bercé désormais,
 et suite aux adjudications publiques, propriétaires d'un bail de
 chasse qui leur est personnel.
 
-Avant on les nommait Co-fermiers ou locataires de chasse. 
+Avant on les nommait Co-fermiers ou locataires de chasse.
+
 Les riverains les nomment « ces Messieurs » ou « les gros ».
 
 Leurs ayants-droit sont accrédités pour un ou plusieurs modes de chasse, 
 sur le même lot de chasse. 
 
 L'adjudicataire recrute les chasseurs, ses actionnaires. 
+
 Il  y a actuellement six locataires du droit de chasse : 
 quatre pour le tir (lots de 1000 à 1300ha) et 2 pour le courre.
 
@@ -80,7 +82,7 @@ Chaque invité doit porter sur lui une autorisation écrite du fermier
 de la chasse sur de simples cartes de visite ou de deuil au nom 
 de Mr de Champigny (Chahaignes) dont le premier piqueur se nommait Marchand.
 
-1er lot : Mr le Comte de la Porte aux loups, comte d’Hust 
+**1er lot** : Mr le Comte de la Porte aux loups, comte d’Hust 
 (enterré au château de la Couëtterie à Beaumont Pied de Bœuf:
 des loups sculptés ornent les chiens assis) avait une autorisation
 permanente de chasser la perdrix en bordure de ses propriétés.  
@@ -89,12 +91,14 @@ permanente de chasser la perdrix en bordure de ses propriétés.
         
 {{<figure src="/images/articles/002chasseatir.jpg"  title="Invitation battue aux sangliers">}} 
 
-2ème lot : Mr Henri Martin (grand père de Marcel Huger et maire de Chahaignes 
+**2ème lot** : Mr Henri Martin (grand père de Marcel Huger et maire de Chahaignes 
 (Mme Martin a tiré sa première biche en 1907 au rond du Guignier) 
 et ses invités : Mr Péan  et Mr Séchet (20 fusils) dont le garde chasse
 particulier est Vignas  (chasse au lièvre et au menu gibier). 
-Ils peuvent chasser et tirer les chevreuils et les sangliers lancés sur
-le 4ème lot. Ils ne peuvent pas les attaquer sur le 2ème lot.
+ 
+Ils peuvent chasser et tirer les chevreuils et les sangliers 
+ lancés sur le 4ème lot.
+Ils ne peuvent pas les attaquer sur le 2ème lot.
 
 {{<figure src="/images/articles/gardechahaignes.jpg"  title="Garde chasse particulier sur Chahaignes">}} 
 
@@ -192,7 +196,8 @@ Le Louvetier est quant à lui Mr Louis Marion.
  
  [Fronde des chasseurs en 1929 ?](/articles/pdf/chasseadjudications1929.pdf)
  
-### 1929 Des adjudications qui font plouf!
+### 1929 Des adjudications 
+ ... qui font plouf!
           
 Co-Fermier du Tir : Ernest Penard – Richomme
 Louvetier : Georges Willekens
@@ -201,7 +206,7 @@ Louvetier : Georges Willekens
           
 Agrément des gardes particuliers Rousselet et Julien.
           
-### 1939 à 1947 de nouveau la guerre.
+### 1939 à 1947 période de guerre.
 
 Durant la période trouble, la chasse est diligentée par le gouvernement
  Allemand en France et par les Officiers des Eaux & forêts;
