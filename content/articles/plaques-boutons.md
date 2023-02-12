@@ -74,6 +74,7 @@ Les "Maistres" et officiers établis pour commander aux gardes d’une
 
 
 ### Fin XVIII° siècle,
+
 ...et spécialement dès le début de l'époque révolutionnaire.
 
 Il fut admis « … que les plaques ou broderies pourraient être portées sur
@@ -227,6 +228,7 @@ Désormais ce dernier, appelé écusson,  pucelle ou épinglette désigne
   clairement à son tour la légitimité de celui qui la porte.
   
 ### 1922 :
+  
       La plaque reste l'insigne des fonctions des préposés. 
       Elle est fournie par l'Administration avec le livret.
       Le garde entrant n'a rien à rembourser à son prédécesseur pour 
@@ -247,17 +249,17 @@ Désormais ce dernier, appelé écusson,  pucelle ou épinglette désigne
 
 Les préposés de tout grade doivent en outre être munis des objets suivants :
   
- 1°) Sac de chasse, dit carnier, avec bandoulière en cuir noir.
+ **1°)** Sac de chasse, dit carnier, avec bandoulière en cuir noir.
   
- 2°) Plaque, en cuivre, avec l'inscription : Administration des Eaux et Forêts.
+ **2°)** Plaque, en cuivre, avec l'inscription : Administration des Eaux et Forêts.
   
- 3°) Marteau. Le marteau est affecté au triage dont il porte le numéro,
+ **3°)** Marteau. Le marteau est affecté au triage dont il porte le numéro,
   mais l'acquisition en est laissée à la charge des préposés, 
   aussi sa valeur doit-elle en être remboursée au garde sortant. 
   
- 4°) Livret. 
+ **4°)** Livret. 
   
- 5°) Chaîne métrique.
+ **5°)** Chaîne métrique.
   
 Le port de ce costume et des insignes distinctifs de l'emploi permet de 
   reconnaître  la qualité des gardes, et prévient ainsi les violences 
@@ -290,7 +292,7 @@ Les gardes particuliers ne possèdent pas d'uniforme particulier.
   Étude de monsieur Louis LAVAUDEN (Nancy. Promotion 1907) publiée par
   la « Revue des Eaux et Forêts » en 1927.
   
-* (1) « Des années entières dans les bois Lozériens » mémoire 
+**(1)** « Des années entières dans les bois Lozériens » mémoire 
   d’Olivier NOUGAREDE 1985 Laboratoire de l’INRA : les agents et préposés 
   des Eaux et forêts en Lozère du code forestier à la Grande Guerre.
   
@@ -303,7 +305,7 @@ Les gardes particuliers ne possèdent pas d'uniforme particulier.
   Revue forestière française, AgroParisTech, 2013, 65 (3), pp.271-278.
   ff10.4267/2042/51856ff. ffhal-03447401f
  
-Revue Au Fil du Temps N° 45 & 46 - Pages diverses (Y. Gouchet - 2009/2010)
+* Revue Au Fil du Temps N° 45 & 46 - Pages diverses (Y. Gouchet - 2009/2010)
 
  
 
