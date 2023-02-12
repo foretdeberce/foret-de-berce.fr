@@ -65,7 +65,7 @@ Tels des géants, ils tiennent leur noblesse d'avoir été ensemencés, au cœur
   à l'instar de ses illustres voisins, Boppe ou Roulleau de la Roussière*.
   
 *Il se confia aux agents de l'Office National des Forêts, qui décidèrent de lui donner 
-  le nom du commis forestier Georges France Muriel, exécuté au camp du Struthof dans
+  le nom du commis forestier **(1)** Georges France Muriel, exécuté au camp du Struthof dans
   le Bas-Rhin le 1er septembre 1944*. 
   
 *Né à Montsûrs dans la Mayenne le 30 septembre 1914, Georges France Muriel est le
@@ -172,6 +172,7 @@ Notre mémoire est la seule sépulture d'hommes, qui, tel votre père, Général
   une leçon sur le courage, les convictions, l'engagement. 
   
 II nous appartient de la méditer.
+  
 Le chêne, que nous avons dédié il y a quelques instants à Georges Muriel, et, à travers 
   lui, à tous les forestiers- résistants et aux combattants de la Résistance, se dresse 
   fièrement vers le ciel pour nous rappeler que des hommes ont sacrifié leur vie pour 
@@ -290,11 +291,11 @@ La devise de Briançon (la ville la plus haute d'Europe) le rappelle :
  
 Références : 
 
-(1) les commis étaient les anciens brigadiers ou gardes des Eaux et forêts, détachés comme sédentaires à l’inspection ou à la conservation et venant en appui technique renforcer les équipes des forêts Sarthoises.
+**(1)** les commis étaient les anciens brigadiers ou gardes des Eaux et forêts, détachés comme sédentaires à l’inspection ou à la conservation et venant en appui technique renforcer les équipes des forêts Sarthoises.
 
-(2)  Directeur Régional de l’ONF pour la Bretagne et les Pays de la Loire.
+**(2)**  Directeur Régional de l’ONF pour la Bretagne et les Pays de la Loire.
 
-(3)  Santayana (Philosophe américain d'origine ibérique)
+**(3)**  Santayana (Philosophe américain d'origine ibérique)
  
 Dossier réalisé avec le concours du Général (cr) Muriel (son fils), de l’Amicale des anciens combattants et prisonniers de guerre de Pruillé-l’Éguillé, l’ONF et le secrétariat de la Préfecture : Arlette Chaligné.  
   
