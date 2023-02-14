@@ -142,7 +142,7 @@ Quelques documents pour mieux connaître les espèces et leur mode de vie :
        radio-pistage et au comptage des arbres gîtes. 
 
 
-### *Recensement effectué par Guy Lereste*
+***Recensement effectué par Guy Lereste***
   
 Présence d’une richesse en chauves-souris
   hors du commun dans la vallée de l’Hermitière.
