@@ -91,7 +91,7 @@ ses feuilles étant en plus dévorées d’avril
 	    « Les Auxiliaires avaient mis trop
             d’engrais et cela l’a fait crever »
 	
-### Yves Camisy : est aussi témoin à Charge.
+### Yves Camisy : se porte aussi témoin à Charge.
 
 *Le garde Jouaux (Boussions) avait 
 reçu de son supérieur 200kg 
@@ -209,7 +209,7 @@ et Hervé dit "Pape" eurent raison, en un instant, du géant.
 
 ### Quiproquo sur son âge : 
 	
-275 ans ? - 385 ans ? - 485 ans ? 
+***275 ans ? - 385 ans ? - 485 ans ?*** 
 
 C’est l’âge du chêne Boppe avancé sur certaines cartes postales
 (celles ci faisaient état d’un âge approximatif en 1922
