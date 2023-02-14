@@ -156,9 +156,14 @@ En 1929, début janvier la neige épaisse, (tempêtes d’une rare violence)
         Effets du froid sur la végétation Sarthoise pendant l’hiver de 1938-1939
         Par Max Blais
         Si l'on veut appeler grand hiver, un hiver rude et de longue durée,comme ceux :
+  
         de 1788-1789 (86 jours de gelée et température minima de — 21°) ;
+  
         de 1829-1830 (76 jours de gelée et — 17°) ; 
-        de 1879-1880 (78 jours de gel et — 25°), l'hiver que nous venons de subir,
+  
+        de 1879-1880 (78 jours de gel et — 25°), 
+  
+        l'hiver que nous venons de subir,
         avec ses dix jours de gelée consécutifs et son minimum au Mans de — 13°8, 
         serait un hiver sans histoire, comme tant d'autres. 
         Mais, à considérer les dégâts énormes causés par le froid 
@@ -177,8 +182,10 @@ En 1929, début janvier la neige épaisse, (tempêtes d’une rare violence)
         Songez au passage sans transition d'un état végétatif puissant
         à un arrêt brusque de la vie, avec un écart de température de plus de 20°.
 
-En février 1942, c’est neige et verglas. « Il y a des dégâts dans les pins maritimes
-  et du bois tombé. » 
+En février 1942, c’est neige et verglas. 
+  *« Il y a des dégâts dans les pins maritimes
+  et du bois tombé. »* 
+  
 Le 24 février le docteur Barot bute avec sa voiture sur un pin
   tombé sur la route : il est blessé.
   
@@ -311,7 +318,7 @@ Faible hygrométrie en 1995 et 1996. 1990, 1994, 1997 et 2013 sont
   
 Le réchauffement climatique actuel met à mal notre forêt.
   
-### Le tonnerre :
+### La foudre :
   
 « Les fourmis sont d’sortie, l’orage aussi. »
   
