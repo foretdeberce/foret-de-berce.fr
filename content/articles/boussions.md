@@ -23,7 +23,7 @@ Une autre habitation la jouxte en lisière.
 
 ### Anecdotes liées au poste 
   
-17 février 1770 :
+**17 février 1770 :**
   
   *« Étienne HOUSSEAU, laboureur, se plaint que 
   “… passant le 30 janvier dernier sur les cinq heures du soir en la forêt de Bercé
@@ -53,7 +53,9 @@ Une autre habitation la jouxte en lisière.
   à la M.F. du Buisson, en Perseigne. 
 
    
-28 décembre 1868, note de LEROUX : *« Mr. le sous -inspecteur est venu chez moi
+**28 décembre 1868**
+  
+  Note de LEROUX : *« Mr. le sous -inspecteur est venu chez moi
   pour mentionner les dégâts ou réparations à faire à la M.F. qui seraient 
   susceptibles d’être imputés à mon compte. »*
   LEROUX profitera le 27 janvier 1870 
@@ -91,7 +93,9 @@ Pierre RIMASSON et Marie.
   Elle se maria avec Jean LACHIVER forestier à la Fresnaye-sur-Chédouet dont le père André,
   lui-même forestier occupait le poste de Saint-Rigomer-des Bois. 
   
-20 juin 1952  *«Mon cher GOENVEC...j’ai transmis à Mr l’ingénieur principal un rapport 
+**20 juin 1952**
+  
+*«Mon cher GOENVEC...j’ai transmis à Mr l’ingénieur principal un rapport 
   concernant le curage urgent du puits de la M.F. et joint deux factures.
   J’espère avoir satisfaction et demande que monsieur BARDET, seul spécialiste de la région
   effectue ces travaux avec l’aide de nos auxiliaires. 
@@ -101,7 +105,9 @@ Pierre RIMASSON et Marie.
   
 Gaston Fivaz, (forestier centenaire) nostalgique des Boussions a réalisé cette maquette.
   
-Le 26 septembre 1955 : Arrivée de l’électricité au poste des Boussions. 
+**Le 26 septembre 1955 :**
+  
+Arrivée de l’électricité au poste des Boussions. 
   L’administration ayant fait place au jeune ONF, la modernisation s’intensifie. 
   14 janvier 1972 : installation d’une pompe au puits.
   
