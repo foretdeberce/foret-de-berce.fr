@@ -9,7 +9,7 @@ tags: ["Faune","Biodiversité","Chasse","Lois"]
  
 La chasse à tir …n’attire vraiment pas les photographes. 
 
-Cette rubrique est et sera l’une des moins documentée. 
+Cette rubrique est et sera l’une des moins imagée. 
 
 Le tir, il est vrai à force d’être si discret reste inconnu
 du grand public et n’en tire pas le même prestige que la 
@@ -215,7 +215,7 @@ Durant la période trouble, la chasse est diligentée par le gouvernement
 Aucune chasse à courre n’eut lieu pendant la période de la
  dernière guerre.
  
- Les louvetiers sont :
+***Les louvetiers sont :***
  André Foneau - Jean Huger - d'Andigné.
           
 Le général Madamet (Château du Ronceray) est autorisé à détruire
