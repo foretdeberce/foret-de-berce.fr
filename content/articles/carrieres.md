@@ -17,14 +17,14 @@ plus de 100 km de route à créer !
 Des routes droites, défiant tous les obstacles naturels
 (telle la côte de l’Hermitière)
 
-C'est le chantier du siècle en forêt!
+**C'est le chantier du siècle en forêt!**
 
 Bon nombre de [cantonniers et gardes-cantonniers](/articles/pdf/gardescantonniers.pdf) 
 sont délégués à la mise en forme des routes forestières. 
 
-Les carrières tournent à plein régime.
+**Les carrières tournent à plein régime.**
 
-Vers 1840, du temps de Wautot, ingénieur arpenteur, 
+Vers 1840, du temps d'Isidore Wautot, ingénieur arpenteur, 
 de nombreuses routes forestières ont été améliorées par l'ajout pierre.
 Avec le mauvais temps, il n'était plus possible de sortir les gros bois.
 
