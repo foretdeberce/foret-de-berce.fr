@@ -9,7 +9,7 @@ tags: ["Art","Poésie"]
 
 
 Cette page de trois poèmes est dédiée à notre ami 
-Marc BOUHOURS, de Saint-Vincent-du-Lorouër. 
+Marc Bouhours, de Saint-Vincent-du-Lorouër. 
 Ce rédacteur d’**« Au Fil du Temps »** aimait à se 
 ressourcer dans le bas de la côte de la Jument Blanche. 
 Ses deux poèmes prouvent l’attachement indéfectible 
