@@ -17,7 +17,7 @@ peuplements pour façonner une forêt apte à vous accueillir.
 
 ### Réflexions et avis de Rémond Lorne.
 
-(initiateur de la méthode actuelle dite des arbres objectifs) 
+(Initiateur de la méthode actuelle dite des arbres objectifs) 
 
 *« ….Quel devrait être le rôle du forestier tout au long de la 
 longue vie de ces futaies. Pour obtenir en final de gros arbres, 
@@ -63,13 +63,13 @@ l’inspection du Mans…».*
 Au printemps 1958, lors d’une mission à l’étranger,
 Rémond Lorne note :
 
-*« Les Danois ne barguignent pas avec le travail.
+*"les Danois ne barguignent pas avec le travail.
 Ce que je voyais là, la nature assistée d'un intense
 travail humain, dépassait encore mes conceptions et 
 pour le chêne, ce que j'étais entrain d'imaginer,
 existait déjà, en forêt privée, j'y vis des "chênes 
 d'avenir" ceinturés de rouge, si bien éclaircis
-qu'ils  étaient  gros relativement jeunes.
+qu'ils  étaient  gros relativement jeunes.*
 
 {{<figure src="/images/articles/rougis.jpg" title="Le rouge basque est remplacé aujourd'hui par le beige">}}
 
@@ -168,7 +168,8 @@ ces peuplements fragilisés, dans le respect total de la biodiversité.
 
 ### Bercé: une gestion raisonnée
     
-et un sentiment écologique plus fort qu'auparavant.
+Changement des mentalités dans notre société d'après-guerre :
+Un sentiment écologique plus fort qu'auparavant.
 
 {{<figure src="/images/articles/bas-perchis-50 ans.jpg" title="Bas perchis cinquantenaire">}}
 
@@ -180,8 +181,8 @@ un premier temps, puis sanitaires dans un deuxième temps.
 Les travaux mécaniques sur les sols limoneux sont aujourd’hui, 
 réduits au minimum, afin d'éviter toute évaporation et exportation
 d'eau utile.
-*(voir photo d'en tête : crochetage du sol dans les Hirondelles en 1953)*
-Il n'y a donc plus de crochetage (1) avant glandée.
+
+Il n'y a donc plus de crochetage **(1)** avant glandée.
 Les cloisonnements d'exploitation pour acheminer personnes et 
 véhicules sont systématiquement implantés dès le jeune âge 
 permettant ainsi de réduire considérablement le tassement anarchique
@@ -190,7 +191,8 @@ de nos limons fragiles.
   
   {{<figure src="/images/articles/tracteurenault.jpg" title="les premiers tracteurs">}}
 
-(1) crochetage : travail superficiel du sol destiné à favoriser la régénération.
+**(1)** crochetage : travail superficiel du sol destiné à favoriser la régénération.
+    *(voir photo d'en tête : crochetage du sol dans les Hirondelles en 1953)*
 
 Désormais on bâtonne mécaniquement la fougère.
 L’éradication de tous produits chimiques est de rigueur.
@@ -236,7 +238,8 @@ Il n'y a plus d'extraction d'aucune sorte :
   début du siècle dernier. 
   Le milieu est aujourd’hui ainsi préservé de toutes agressions.
 
-Des arbres secs sont conservés sur pied ou à terre 
+Systématiquement, des arbres secs sont conservés
+    sur pied ou à terre dans toutes les coupes,
   et les souches ne sont plus arrachées.
   L'entomofaune n'en demandait pas tant. 
   Le classement de certaines parties de forêt
@@ -248,13 +251,14 @@ Des arbres secs sont conservés sur pied ou à terre
 Seul bémol, mais de taille, la durée de révolution a baissé… 
 Le climat se modifie et devient plus chaud, 
 les arbres poussent donc plus vite et nos chênes,
-desserrés au maximum n’en seront ainsi que plus gros et 
+desserrés au maximum n’en seront ainsi que plus gros mais 
 moins hauts. La prise au vent s'en trouvera améliorée 
 et les tempêtes seront peut-être moins catastrophiques.
 À voir sur le long terme cet effet à double tranchant.
 
 Des îlots de sénescence ont été créés qui répondent
 aux besoins de l'avifaune.
+    
 La durée de révolution sur quelques îlots de 
 vieillissement mûrement choisis est accrue.
 Des arbres remarquables sont aussi sauvegardés çà et là,
