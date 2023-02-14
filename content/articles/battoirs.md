@@ -81,24 +81,30 @@ et le soir de 1 heure et demie à 7 heures.
 On fabriquait plusieurs modèles de battoirs :
 
 ### Ceux du MANS :
+
 palette ronde à manche long pour laver debout et un modèle 
 à manche normal pour laver dans « la boîte à laver » ; 
+
 ### Celui de LAVAL 
+
 à palette amincie de 18 cm de large.
+
 ### Pour la Manche:
+
 on faisait le même avec une pelle de 22 cm :
 ils étaient bien lourds) ; 
+
 ### Celui d’ANGERS et le battoir parisien. ”	
 
 
 {{<figure src="/images/articles/battoirs.jpg" title="La production du fabricant de battoirs">}}
 
  
-"Mon père Auguste BORDRON employait des ouvriers
+*"Mon père Auguste BORDRON employait des ouvriers
  spécialisés dans la façon des pelles (comme Félix Doucet), 
 des plats (Gabriel Dupuis), des tourneurs (Alfred Bellanger 
 et Marcel Bruneau), des fendeurs (Alphonse Bellanger), 
-des bûcherons (Jacques Schepper et ... Compain)" (1)
+des bûcherons (Jacques Schepper et ... Compain)"* **(1)**
 
 Pour satisfaire les nombreuses commandes, 
 il demandait les produits manquants à d’autres boisseliers 
