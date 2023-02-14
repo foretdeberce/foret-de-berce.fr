@@ -19,7 +19,8 @@ un enchevêtrement de branchages sur les pins,
 Balai de bouleau … peut-être car le nom dérive 
 de « betula », bouleau (branchages dont on fait les balais)
 
-*On fait des balais de menuës branches de bouleau liées ensemble au bout d'un baston. On en fait aussi de genest, de jonc.»*
+*On fait des balais de menuës branches de bouleau liées ensemble au 
+bout d'un baston. On en fait aussi de genest, de jonc.»*
 
 Or nos Balais ou Balays (en vieux français) étaient recouverts 
 de ramures (branchages de bouleaux ou autres à la manière d’un toit de chaume).
@@ -40,7 +41,10 @@ Roger Blais  - La Forêt (P.U.F. 1947).
      couvert et sécurité –
      Rappelons  que Bercé ne fut percé qu’en 1783 -
      
-Parfois la sécurité est bien mise à mal comme ce 24 aout 1881, *il y a le feu à croix Veneur dans une coupe à Louis Chevalier de Thoiré sur Dinan. Le feu gagne sur 9m2 autour de la loge du rond qui flambe ainsi que 3 arbres*.
+Parfois la sécurité est bien mise à mal comme ce 24 aout 1881, 
+*il y a le feu à croix Veneur dans une coupe à Louis Chevalier de 
+Thoiré sur Dinan. Le feu gagne sur 9m2 autour de la loge du 
+rond qui flambe ainsi que 3 arbres*.
      
 *Les fendeurs, les boîtier et les bûcherons de la forêt de Bersay (Sarthe), ont
 l'habitude d'allumer du feu près de leurs ateliers, même en été. 
@@ -104,28 +108,28 @@ Atelier de confection de cerclages de tonneaux avec des perches de châtaigniers
 
 
     28 Janvier 1905 : Note de l’inspecteur Roulleau.
-   *"Suite aux plaintes sérieuses adressées par les Chasseurs, 
+    "Suite aux plaintes sérieuses adressées par les Chasseurs, 
     et fondées  car  je l’ai moi-même constaté, suite aux instructions
     adressées au personnel des gardes, relativement à la divagation 
-    des chiens qui ne se comptent plus"*. 
+    des chiens qui ne se comptent plus". 
 
     Note à Monsieur le Garde Général
-    *"Vous voudriez bien rappeler aux préposés sous vos ordres,
+    "Vous voudriez bien rappeler aux préposés sous vos ordres,
     l’instruction inscrite à l’art.67 du cahier des charges ainsi conçue":
     "Les adjudicataires, ainsi que leurs facteurs, employés, bûcherons, 
     ouvriers et voituriers, ne pourront laisser errer leurs chiens 
     dans les Forêts – Les chiens servant à la garde des loges ateliers 
-    et chantiers devront être constamment attachés ou enfermés"*………
+    et chantiers devront être constamment attachés ou enfermés"………
 
-    *"Et si au cours de mes tournées, j’avais à constater moi-même
+    "Et si au cours de mes tournées, j’avais à constater moi-même
     que les tolérances prescrites ont été continuées sans que 
     vous y missiez obstacle, je vous en  rendrais personnellement
-    responsable.*
+    responsable.
   					Signé Roulleau
   
-    *Communiqué au personnel du Cantonnement, lui rappelant que je
+    Communiqué au personnel du Cantonnement, lui rappelant que je
     demanderai une punition sévère contre le garde qui ne se 
-    conformera pas à ces instructions.*
+    conformera pas à ces instructions.
   
 			29/01/1905 Signé : Hermier  Garde général à Ecommoy
   
