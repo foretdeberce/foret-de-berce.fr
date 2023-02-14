@@ -9,8 +9,8 @@ tags: ["Arbres","Curiosité"]
 L'anastomose est un terme d'anatomie biologique signifiant : 
 Greffe par contact : 
 
-*« communication entre deux  vaisseaux 
-ou deux conduits de même nature »*
+***« communication entre deux  vaisseaux 
+ou deux conduits de même nature »***
 
 Cette facétie de la nature provoque chez nos chênes des 
 formes bien curieuses.
