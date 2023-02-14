@@ -242,7 +242,7 @@ En savoir plus sur cet équipage :
   
 Il y en eut.
  
-Témoignage de Maurice Vérité : *Thénaisie  (surnommé Darblay) chassait ainsi avec 
+**Témoignage de Maurice Vérité **: *Thénaisie  (surnommé Darblay) chassait ainsi avec 
   le comte Darblay grâce à la valeur de ses chiens. Je me rappelle, dans le vieux 
   temps, un cerf est tombé d’épuisement à la porte de la cave. Avec mon père on a 
   ouvert la porte et on l’a caché à l’intérieur (vallée de l’Hermitière, cave en 
