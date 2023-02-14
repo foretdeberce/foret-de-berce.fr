@@ -33,11 +33,14 @@ Après il a été tonnelier et faisait des barriques à la Chartre sur le Loir*
 Les ateliers en forêt, prennent ainsi place autour des loges, elles mêmes situées au cœur des ventes.
 La maison Gauthereau a été la dernière à fabriquer le merrain en forêt.
 
-*Les Fendeurs, les bûcherons, les mérandiers, les éhouppeurs, tous ces corps de métier s’entendaient très bien.
-Les ouvriers qui faisaient du merrain faisait du feu à même leur belle cabane pour chasser les mouches.
+*Les Fendeurs, les bûcherons, les mérandiers, les éhouppeurs, 
+tous ces corps de métier s’entendaient très bien.
+Les ouvriers qui faisaient du merrain faisait du feu à même 
+leur belle cabane pour chasser les mouches.
 Ils faisaient leur merrain directement en forêt.*
 *L’atelier de merrains est ici mis en scène sous deux aspects différents.
-Il pouvait être fabriqué dans ces ateliers, aussi bien des lattes, que des éclisses, des échalas ou des
+Il pouvait être fabriqué dans ces ateliers, aussi bien des lattes, 
+que des éclisses, des échalas ou des
 bardeaux : Jules Bellanger faisait des bardeaux en châtaigner.
 Le Père Drouault, a fait du merrain jusqu’en 1947.
 Les derniers bardeaux qu’il a fabriqué ont été commandés et non pris.
