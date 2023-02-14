@@ -40,8 +40,8 @@ Ces arbres monumentaux le sont au sens de *«ce qui rappelle le souvenir d'un ho
 {{<figure src="/images/articles/arbres-remarquables.jpg" title="Un arbre remarquable">}}
  
 Il peut arriver que les événements se succédant, les noms de l'arbre suivent alors les péripéties de
-l'histoire tel le chêne de la résistance «ancien chêne PETAIN» en forêt de Tronçais qui fut mitraillé 
-après guerre.
+l'histoire tel le chêne de la résistance «ancien chêne Petain» en forêt de Tronçais qui fut mitraillé 
+après guerre par quelques personnes indignées.
  
 Les chênes des Clos et de la Coudre et de Croix-Marconnay feront l’objet d’autres pages.
 Intéressons nous à tous les autres qui émaillent le paysage.
@@ -64,6 +64,9 @@ Mesurée en 1942 par le brigadier ALBÉROLA, sa circonférence était de :
 Un autre chêne de 1 m 05 de diamètre fut exploité dans cette même parcelle en 1953.
 Peut être était-ce le chêne AJAM, du nom du député de la Sarthe qui prit position pour
 la sauvegarde du clos du chêne BOPPE le 18 novembre 1907 devant l’Assemblée Nationale. 
+ 
+Il est aussi fait mention du chêne Chaplain (ancien directeur général des Eaux et forêts)
+ qui connaissait bien Roger Blais lui ayant préfacé son ouvrage sur la forêt.
  
 {{<figure src="/images/articles/19790915chenegirafe.jpg" title="Le chêne Girafe de la parcelle 251 le 15 septembre 1979">}}
  
