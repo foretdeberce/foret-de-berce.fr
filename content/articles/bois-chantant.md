@@ -117,6 +117,7 @@ Il y avait donc du côté de Parthenay une production forestière intéressante,
   car particulière. Il s'agissait de bois serrés, ayant au taper une résonance
   importante, qui étaient choisis pour cette qualité unique et recherchée par 
   tous les  facteurs  d'instruments.  
+ 
 Ces  bois  poussent  sur  des  stations 
   géologiques  bien particulières. Cette production de bois qui doivent être 
   parfaitement secs concerne le merisier (pour les tables d'harmonie et les 
