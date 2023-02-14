@@ -114,7 +114,7 @@ Les bois de charpente et bois d’œuvre étaient chargés par les débardeurs
   avec toute l’équipe…André Ciret avait un profond respect de son métier
   et en parlait avec nostalgie à ses enfants. 
 
-## Le 6 mai 1922
+### Le 6 mai 1922
   
 les premiers tracteurs font leur apparition sur le parterre des coupes. 
 Après la première guerre mondiale, le cheval fiscal arrive sur le massif. 
@@ -172,13 +172,13 @@ Les chevaux et les hommes sont réquisitionnés
 Les chevaux du 3ème groupement forestier 
 pallieront l’absence des engins à moteur.
   
-### 1939
+## 1939
   
 La 15ème conservation devient le centre mobilisateur des bois de guerre n°15. 
 Toute l’énergie de l’administration consiste alors  dans la gestion du personnel,
   de la main d’œuvre, des scieries, mobilisables et réquisitionnables.
   
-### 1940
+## 1940
 
 {{<figure src="/images/articles/134.jpg" title="Le gazo de la maison Valentin  en 1940">}}
 
@@ -269,16 +269,16 @@ Lorsqu'un cheval tombe malade, on fait appel à un remplaçant en dépôt chez u
 Ainsi au gré des saisons et du travail, les chevaux passent de main en main.
 Le salaire du charretier Bouzeau lui, passe de 900 à 1000 francs.
   
+## En 1942 
+  
+  l'administration des forêts fait l’acquisition d'un 
+  tracteur et d’une  débroussailleuse.
+  
 ### 18 juin 1942 : 
   
 Le garde Thomas est en tournée dans les Profonds-Vaux et s’inquiète :
 *les bûcherons Ladurée et Le Hidou possèdent un abri couvert de tôles   
   ondulées qui semblent provenir du chantier de chômage.*
-
-### En 1942 
-  
-  l'administration des forêts fait l’acquisition d'un 
-  tracteur et d’une  débroussailleuse.
 
 ### Le 20 mars :
 Nous assistons aux essais d’un tracteur à chenilles de marque Cartepillar et 
@@ -288,7 +288,7 @@ L’administration des forêts ne fera l’acquisition
   
 ### La mécanisation est en marche…
   
-### 1943
+## 1943
 
 {{<figure src="/images/articles/muletier.jpg" title="Les muletiers échappent au STO">}}
 
@@ -320,7 +320,7 @@ elle veille, et retrouve bientôt les siens…
       cheval prêté, à la disposition de M. Allard 
       Henri à Luceau, dans le plus bref délai*  
   
-### Jupilles le 10 mars 1945 : 
+## Jupilles le 10 mars 1945 : 
   
 *Jules Guillem: Maréchal ferrant & forgeron de l'administration,
 habitant à Marigné-Laillé Sarthe, reconnaît avoir reçu de 
@@ -346,7 +346,7 @@ chevaux intraitables, ils arrivaient à les mater pour le travail.*
   
     Témoignage de Claudette et Adrien Borderon (Jupilles)
   
-### 1946
+## 1946
   
 ### Le 25 mars 1946,
   
@@ -356,7 +356,7 @@ chevaux intraitables, ils arrivaient à les mater pour le travail.*
 
 {{<figure src="/images/articles/cahiersmainelibre1946.jpg" title="Un transport exceptionnel en 1946">}}
 
-### 1954
+## 1954
   
 Georges Morançais, de Jupilles effectue des semis de
   pins à l’aide de sa jument pour le compte de l’administration.                                           
