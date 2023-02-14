@@ -45,7 +45,7 @@ parfois à la catastrophe.
 Il condamne à la peine de mort ceux 
 qui allumeraient du feu en forêt.
 
-déjà entre 1727 et 1777 : les forestiers arpentent
+Déjà entre 1727 et 1777 : les forestiers arpentent
 les bois incendiés de "Grandmont et
 de Haute-Perche" contigus à la forêt de Bercé. 
 
@@ -109,20 +109,22 @@ mais il s’est contenté de se retourner, a regardé puis poursuivi son chemin.
 Toute demande d’écobuage devra faire l’objet d’une demande d’autorisation 
 à M. l’inspecteur adjoint des forêts au Mans.
  
-**1891**
+**1891 :**
+
 Le 19 avril : les forestiers reçoivent les félicitations de l’inspecteur
 pour "le zèle et l’empressement" des préposés de la brigade n°1 
 (brigadier Crossonneau, gardes Schneider, Piron, Leroi, Anjou)
 lors du feu de ce jour  au canton de Haute Perche. 
 
-**1893**
+**1893 :**
+
 En avril et mai, durant cette période dangereuse, 
 le brigadier et les gardes de la 1ère brigade exécuteront
 des tournées fréquentes pendant le jour sur les points les 
 plus exposés aux incendies, dans le massif de pins.
 Les tournées de nuit s’effectueront par deux et armé.
 
-**1899**
+**1899 :**
 
 Le 18 juillet : la parcelle 56 est touchée.
 
@@ -144,6 +146,7 @@ La p.49 (13 juillet **1910**)-
 P.1 (9 février **1911**) - 3 foyers ayant été allumés dans les Essarts,
 *« …les habitants de Grammont croient que le feu a été mis pour les 
 attirer et les voler pendant leur absence. »*. 
+
 La 46 (13 juillet 1911) et les parcelles 32 & 33 (10 au 12 août 1911) et 136 – 
 Haute-Perche p.50 (16 & 17 avril **1914**) - 
 P.239 (11 février **1917**) - 
@@ -166,6 +169,7 @@ La troupe (35 hommes du 31ème d’artillerie) les auxiliaires
 la commune de Beaumont et les forestiers  Feliot, Guilbaud, 
 Guyomard, Peltier, Pigault, participent à la défense contre le feu. 
 Une trentaine d’hectares ont été ravagés, brûlés sur 1,50 m de hauteur.
+
 *« La population, appelée par le tocsin y a prêté le meilleur concours.
 L’hôtel de Saint-Hubert a fourni des verres et des rafraichissements 
 aux travailleurs. Les brigades de Château-du-Loir et de Mayet assuraient
@@ -247,7 +251,7 @@ un pare-feu en cas d’incendie ».*
      de bouteille formant lentilles, nul doute que la cause
      principale n’en soit plutôt humaine.*
 
-**Ouest Éclair  du 7 septembre 1928
+**Ouest Éclair  du 7 septembre 1928**
 
      Le feu en forêt de Bercé
      Mercredi, vers midi, le feu se déclarait en forêt de Bercé, 
@@ -282,7 +286,7 @@ de Marigné. Battage du feu à l’aide de ramiers et contre-feux
 en s’appuyant sur les routes forestières et parties feuillues 
 par un vent violent dirigé d’est en ouest. 
 
-Cet incendie fut nommé « le Grand Brûlis ». 
+**Cet incendie fut nommé « le Grand Brûlis ».** 
 
 *« Au 1er avril, il subsiste encore quelques foyers », 
 témoigne  Louis  Pigault, « Alors que nous sortions de 
@@ -322,7 +326,7 @@ Ladurée, Chantoiseau, Carterau, Robert, Gauthier et le garde-chasse Gobert.*
 
 **1935** 
 
-**RAPPEL de l’inspecteur :**
+**Rappel de l’inspecteur :**
 
 *« En cas d’incendie les dimanches et jours fériés envoyer 
 le télégramme aux  adresses personnelles de l’inspecteur :
@@ -374,28 +378,33 @@ Le 24 février : Mme Manceau de Jupilles informe le garde Daviron qu’elle
 a mis le feu à la forêt dans la parcelle 53 à la Tasse. 
 Trois ares seront éteints avec l’aide de son journalier. Le 27 mars feu 
 dans les Pressenteries de 16h30 à 3h45 puis le 28 mars.
+
 Le 7 avril, feu de 12 ares dans la parcelle 152 (progression de NE à SO) éteint
 à l’aide de branchages verts par les forestiers Poumerol René, Daviron Lucien,
-Leroux Raymond, Pie Roland, Bordeaux, Victor,  Fefeu Paul. Le 28 avril :
-feu parcelle 62 du Grand-Hêtre. 
+Leroux Raymond, Pie Roland, Bordeaux, Victor,  Fefeu Paul. 
+Le 28 avril :feu parcelle 62 du Grand-Hêtre. 
+
 Le 2 mai, incendie hors forêt domaniale au dessus de Mortier-Râteau.
+
 Le 6 août c’est à la Tasse, parcelle 55 qu’un foyer allumé par un service 
 civil de l’armée allemande cantonné en forêt se propage sur 0,50 ha.
 Daviron de relater : *« Celui-ci brûlait des archives
 à même le sol. Le vent fort dirigé nord-sud, nous fit établir une tranchée 
 autour de l’incendie, avec l’aide d’André Pie, Poumerol, Chevrier Maurice, 
 le garde Gobert, Ladurée, et les soldats allemands »*. 
+
 Le 12 août à 15 h fumées en direction du Tronchet. 
 Incendie des parcelles 60 et 61 et 3 heures plus tard … parcelle 53 de la Tasse. 
 Le feu a été allumé parcelle 61 à 25 m de la route par temps 
 calme fort heureusement. 
 Surfaces touchées : 3 ha (p.53), 16,50 ha (p.60), 21,42 ha (p.61). 
+
 Le 4 septembre on embauche quelques ouvriers pour l’exploitation
 en régie des arbres brulés. 
 
 ### Témoignage d’Albrecht :
 
-*« Rejoignant à bicyclette l’incendie de Saint Hubert, j’ai réveillé le garde Gautron
+*Rejoignant à bicyclette l’incendie de Saint Hubert, j’ai réveillé le garde Gautron
 ainsi que Mr Rastoul Eugène qui a donné l’alarme au hameau de Laillé. 
 Prévenu à 2heures, nous arrivions sur les lieux à 2h30 du matin. 
 Il y avait environ 35 ares de brulés. Avec les collègues et 4 autres personnes,
@@ -403,7 +412,7 @@ et à l’aide de branches, nous avons localisé le feu à 4h. Nous avons organi
 un service de nuit. De fortes présomptions vont soit sur le tir des troupes
 Américaines, soit sur la fuite des soldats Allemands. Marche du feu du Nord 
 au Su Mr l’inspecteur Viney était présent sur les lieux le lendemain. 
-Plusieurs contre feux ont été allumés. *
+Plusieurs contre feux ont été allumés.*
 
  **1945**
  
@@ -541,7 +550,7 @@ Ce feu est sans conteste d’origine criminelle.
 ### Bibliographie : 
  
 Archives ONF des maisons forestières de Bercé.
- livrets journaliers des préposés.
+livrets journaliers des préposés.
 
 
 
