@@ -31,13 +31,20 @@ la RN 158.»
  
  « Essais avec  un ballon à la "côte 170". »
  
-30 novembre 1957 : *« Comptage des pins pour le compte 
+**30 novembre 1957** :
+
+ *« Comptage des pins pour le compte 
 de la RTF sur la partie où doit s’installer
 la télévision. »*
 
-3 décembre 1957 : « Chaînage pour agrandir l’emprise. »
-15 août et 10 septembre 1958 : « Forage et ouverture d’un 
+**3 décembre 1957** : 
+
+ « Chaînage pour agrandir l’emprise. »
+ 
+**15 août et 10 septembre 1958** : 
+« Forage et ouverture d’un 
 chemin d’accès (RTF) puis montage du pylône.»
+ 
     1er janvier 1959, une convention est signée entre monsieur
     RUBAN (conservateur), monsieur VIDAL de l’administration des
     Eaux et forêts et la Radiodiffusion télévision française, 
@@ -51,7 +58,8 @@ chemin d’accès (RTF) puis montage du pylône.»
  le garde GENDRE a eu la visite en d’un
 contremaître de la RTF pour effectuer une trouée dans
 les peuplements « …devant servir au passage des cordages servant à amarrer le pylône ».
-11 octobre 1959 : inauguration.
+ 
+### 11 octobre 1959 : inauguration.
  
 {{<figure src="/images/articles/relaimayet.jpg" title="La première antenne">}}
  
@@ -131,7 +139,6 @@ le plus prestigieux, avec celui de la tour Eiffel :
 
 «Il est plus haut que la tour Eiffel et il est l’un des plus ancien»
 
- 
 **Franck Magrez** (responsable du secteur), 
 l’un de ses plus farouches protecteurs
  
