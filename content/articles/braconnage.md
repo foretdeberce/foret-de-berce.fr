@@ -51,44 +51,69 @@ Plus tard…couper une main était encore un châtiment courant.
 ### Au 16ème siècle …
 
 Tuer un cerf était passible de mort. 
-Sous Henri III (1551-1589), le seigneur abaisse une branche du haut de son cheval ; ses valets en font une « hart » on y enserre le cou du délinquant, et la branche se relève avec un fruit d’une toute nouvelle espèce. **(1)**
-
+Sous Henri III (1551-1589), le seigneur abaisse une branche du haut de son cheval ;	
+	ses valets en font une « hart » on y enserre le cou du délinquant, 
+	et la branche se relève avec un fruit d’une toute nouvelle espèce. **(1)**
 
 
  {{<figure src="/images/articles/90jb1.jpg" title="Le braconnier">}}
 
 ### Au 17ème siècle …
 
-Sous Louis XIV (1638-1715) on envoie le malheureux braconnier aux galères et on l’y oublie pour toujours. 
-A cette époque la plupart des habitants des alentours de la forêt sont bûcherons, charbonniers, forgerons ou sabotiers mais ne se résignent pas à abandonner le braconnage, la contrebande du sel, la maraude. 
-Les corvées en nature foisonnent sur les routes ! Paysans et bêtes de somme côtoient enfants de 15 ans et femmes. 
-La fable de La Fontaine, "La mort et le bûcheron", décrit parfaitement ces miséreux du 17ème siècle.
+Sous Louis XIV (1638-1715) on envoie le malheureux braconnier
+	aux galères et on l’y oublie pour toujours. 
+A cette époque la plupart des habitants des alentours de la forêt sont bûcherons,
+	charbonniers, forgerons ou sabotiers mais ne se résignent pas à abandonner 
+	le braconnage, la contrebande du sel, la maraude. 
+	
+Les corvées en nature foisonnent sur les routes ! Paysans et bêtes de somme
+	côtoient enfants de 15 ans et femmes. 
+La fable de La Fontaine, "La mort et le bûcheron", 
+	décrit parfaitement ces miséreux du 17ème siècle.
 
 ### Au 18ème siècle …
   
-Sous Louis XVI (1754-1793) on se contente ordinairement de le mettre au carcan et de lui imposer une lourde amende (exemple 100 livres pour avoir tiré sur des pigeons qui ravagent son propre champ). 
-À cette époque, les chemins ruraux étaient impraticables, les paroisses voulaient les réparer, mais l’intendant craignait que cela porte ombrage et préjudice à la rentrée des impôts. En 1770, seule la "Grand-route" du Mans à Tours est entretenue. 
-Le Haut-Maine dans sa partie ouest était couvert de bois, de landes, d’étangs marécageux  qui constituaient un terrain à peu près inculte, où le paysan du 18ème siècle, ignorant et mal outillé ne pouvait faire pousser un épi.  Mais dans la nuit du 4 août 1789, les députés de l’Assemblée nationale constituante, dans un bel élan d’unanimité, proclament  l’abolition des droits féodaux, dont celui de la chasse. Le bien commun …prime enfin !
+Sous Louis XVI (1754-1793) on se contente ordinairement de le mettre au carcan 
+	et de lui imposer une lourde amende (exemple 100 livres pour avoir tiré
+	sur des pigeons qui ravagent son propre champ). 
+À cette époque, les chemins ruraux étaient impraticables, les paroisses voulaient
+	les réparer, mais l’intendant craignait que cela porte ombrage et 
+	préjudice à la rentrée des impôts. En 1770, seule la "Grand-route" 
+	du Mans à Tours est entretenue. 
+Le Haut-Maine dans sa partie ouest était couvert de bois, de landes, 
+	d’étangs marécageux  qui constituaient un terrain à peu près 
+	inculte, où le paysan du 18ème siècle, ignorant et mal outillé
+	ne pouvait faire pousser un épi.  Mais dans la nuit du 4 août 1789, 
+	les députés de l’Assemblée nationale constituante, dans un bel élan 
+	d’unanimité, proclament  l’abolition des droits féodaux, 
+	dont celui de la chasse. Le bien commun …prime enfin !
 
 ### Repenser la Chasse : 
 	Le braconnage comme droit naturel :
   
  [la liberté de chasser contre le droit de le faire](/articles/pdf/maillard-braconnage.pdf)
   
-En mars 1792 : 
+**En mars 1792 :** 
   
-Les ouvriers bûcherons et sabotiers de la forêt de Bercé, se révoltent et pillent les blés enfermés dans les greniers du domaine seigneurial. 
-À cette époque le Maine est devenu l’apanage du frère de Louis XVI : Monsieur le comte de Provence (futur Louis XVIII, dit le Désiré). Celui-ci ne se rend jamais au Mans ; c’est son intendant et tout un corps de fonctionnaires particuliers, qui se chargent de percevoir les importants revenus qu’il tire de la Province. 
+Les ouvriers bûcherons et sabotiers de la forêt de Bercé, se révoltent et
+	pillent les blés enfermés dans les greniers du domaine seigneurial. 
+À cette époque le Maine est devenu l’apanage du frère de Louis XVI : 
+	Monsieur le comte de Provence (futur Louis XVIII, dit le Désiré). 
+	Celui-ci ne se rend jamais au Mans ; c’est son intendant et tout 
+	un corps de fonctionnaires particuliers, qui se chargent de 
+	percevoir les importants revenus qu’il tire de la Province. 
 	
 {{<figure src="/images/articles/ad7759ad.jpg" title="L’appréhension au collet">}}
 
-*«Les malheureux exaspérés par la misère et les injustices de toutes sortes, sont devenus absolument ingouvernables».*
+*«Les malheureux exaspérés par la misère et les injustices de toutes sortes, 
+	sont devenus absolument ingouvernables».*
 	
-Notre seigneur suzerain, Monsieur Frère du Roi, Comte de Provence et du Maine, prit pour sa part 25 millions sur les 100 millions d’emprunts du ministre de Calonne. 
+Notre seigneur suzerain, Monsieur Frère du Roi, Comte de Provence et du Maine, 
+	prit pour sa part 25 millions sur les 100 millions d’emprunts du ministre de Calonne. 
 	
-*« Quand je vis que chacun tendait la main, pour recevoir disait-il en riant, moi je tendis mon chapeau »* **(2)**
+*« Quand je vis que chacun tendait la main, pour recevoir disait-il en riant, 
+	moi je tendis mon chapeau »* **(2)**
   
-**Bibliographie : (2)**  Alfred Rambaud -1883- histoire de la Révolution. 
  
 ### Le décret du 28 avril 1790 
 
@@ -144,7 +169,7 @@ Avec le temps la chasse se popularise. Tout à la joie de pouvoir enfin
 [Le droit de chasse en France de 1789 à 1914](/articles/pdf/chasseenfrancede1789a1914.pdf)
 
   
-1793 : c’est aussi l’époque de la chouannerie où les chouans 
+**1793 :** c’est aussi l’époque de la chouannerie où les chouans 
   sont partout et qu’on n’en voit nulle part. 
   
 Puis…1794, la chute de Robespierre… on mangeait du pain 
@@ -156,7 +181,7 @@ Beaucoup d’actes de brigandage sont recensés.
 (Jupilles et Mayet). Parmi les victimes figure 
   le percepteur de Jupilles, dont la femme est grièvement blessée.
 
-En 1844, 
+**En 1844** 
 
 La loi institue à nouveau un droit de chasse réservé au propriétaire
   de la terre. En forêt, la tentation est grande de passer les bornes. 
@@ -164,7 +189,7 @@ La loi institue à nouveau un droit de chasse réservé au propriétaire
   *« ...On nous annonce du département de la Sarthe qu’un garde forestier 
   a été trouvé assassiné par des braconniers. »*
 
-2 septembre 1866 :
+**2 septembre 1866 :**
 
 Cette phrase de Paul Masseron, indique bien la mission du garde 
   forestier de l'époque. "En tournée sur le périmètre de mon triage,
@@ -179,7 +204,7 @@ Les forestiers de Bercé qui ont par ailleurs beaucoup d’autres
   apparemment pas des exemples en matière de répression tel que
   le soulignera R. Roulleau en 1887.
 
-14 novembre 1866 :
+**14 novembre 1866 :**
  
      P.V. de délit de chasse n° 114 établi par Masseron Paul 
      pour chasse au lapin  à l’encontre de Gagnot Baptiste – Marigné. 
@@ -242,7 +267,7 @@ Une histoire qui aurait pu mal finir, celle du garde Passerat à la maison
 {{<figure src="/images/articles/095b114.jpg" title="Même mésaventure en forêt de Chinon">}}
 
 
-28 novembre 1887 
+**28 novembre 1887** 
 
 Note circulaire de l’inspecteur adjoint des forêts René Roulleau (de la Roussière) : 
 
@@ -307,7 +332,7 @@ Profil bas de rigueur, pas question pour eux d'avoir un cheval,
   seul le vélo est autorisé. En 1902 le permis de chasse 
   n’est pas délivré aux gardes.
  
-1er février 1899  
+**1er février 1899**  
 
 Surveillance chasse...le ton monte au sujet des chiens en forêt 
   
@@ -340,7 +365,7 @@ S'agissant peut-être du garde Gérard (1903) montré en exemple,
   cette note de l'inspecteur Roulleau, illustre bien le malaise, 
   qui pouvait régner à Bercé à cette époque.
  
-Le Mans le 19 juin 1903 :
+**Le Mans le 19 juin 1903 :**
 
 **Ordre** 
   
@@ -386,7 +411,7 @@ Le Mans le 19 juin 1903 :
 Suite  à cette note, les préposés iront tous faire des stages 
   chasse, auprès dudit garde-chasse particulier
   
-23 Juin 1903 : 
+**23 Juin 1903 :** 
 
 Barbé accompagne le soir le brigadier à Château-l'Hermitage pour
   avoir des renseignements sur la chasse. Le braconnage est 
@@ -394,7 +419,7 @@ Barbé accompagne le soir le brigadier à Château-l'Hermitage pour
   de nuit sont instaurées, (2 forestiers) en 1903 et à suivre.
   Ces tournées ne donnent pas de résultats extraordinaires.
 
-28 septembre 1919 : 
+**28 septembre 1919 :** 
 
 Compétence des gardes en matière de délits de chasse
   
@@ -417,7 +442,7 @@ L’article unique, n° 22 de la loi du 3 mai 1844 sur
 Avant on bricolait…….  désormais  place au travail ….c’est du sérieux!	
 
 
-Septembre 1924 :
+**Septembre 1924 :**
 
 ### Note de Potel sur la constatation des délits de chasse en plaine.
   
@@ -441,7 +466,8 @@ Septembre 1924 :
   être constaté que sur la demande ou plainte du détenteur 
   du droit de chasse*.
 
-10 mars 1925 
+**10 mars 1925**
+	
  Les préposés de Bercé ont été conviés par Mr. Bordeaux,  
   adjudicataire de chasse, *« pour entendre une causerie,
   en présence de Mr l’inspecteur principal Potel, sur la 
@@ -449,7 +475,9 @@ Septembre 1924 :
   à Brette les Pins,  pour assister à la conférence sur le 
   piégeage.  »* (Guiomard)
 
-12 mars 1929  - Alençon - Note du conservateur à messieurs
+**12 mars 1929**
+	
+- Alençon - Note du conservateur à messieurs
   les inspecteurs… (Forêt et Trésor sont intimement liés) 
 *« Je vous prie de tenir la main à ce que la garde des 
   forêts dont la chasse n’est pas louée, soit assurée avec
@@ -482,20 +510,17 @@ parallèlement à la suppression du droit d'affût.
   
 ### Quelques exemples de braconnage sur Bercé
  
-En ces temps anciens, c’est la loi du "pas vu… pas pris"! 
-Pour appréhender **(3)** un braconnier, le garde doit le saisir physiquement.
-
 {{<figure src="/images/articles/engelhard227.jpg" title="Le geste de l’appréhension">}}
 
 **Référence (3)** Du latin apprehendere : prendre, saisir, attraper ; 
   dans le cas présent, appréhender au corps ou au collet.
 
-2 octobre 1876 : 
+**2 octobre 1876 :** 
 
 *« PV de délit d’outre-passe (chien après un lièvre parti d’un champ) 
   à Bignon Pierre, la Croix-Milier (Millet) à Flée. »*
  
-16 décembre 1900 : 
+**16 décembre 1900 :** 
 
 *« PV au sieur Massicault, chassant avec un autre et 
   un chien dans la parcelle A6 des Follets (P.224) 
@@ -503,7 +528,7 @@ Pour appréhender **(3)** un braconnier, le garde doit le saisir physiquement.
   
 ### 20ème siècle :
  
-5 janvier 1902 : 
+**5 janvier 1902 :** 
 
 *«PV contre le sieur Peigne Henri  cultivateur à Chahaignes,
   né le 9 octobre 1879, fils d’Alexis et de Laudereau  
@@ -511,30 +536,30 @@ Pour appréhender **(3)** un braconnier, le garde doit le saisir physiquement.
   sans autorisation avec les sieurs Guédé et Boulay – 
   (Fusil double système Lefaucheux).»*
 	
-28 septembre 1902 : 
+**28 septembre 1902 :** 
 
 *« Surveillance chasse : Reçu mandat de 20 francs. »* (Gratification de PV de Chasse). 
 
-5 juillet 1905 : 
+**5 juillet 1905 :** 
 
 M. le conservateur recommande au gardes verbalisateurs de prendre sans retard, 
   tous les renseignements à consigner sur les PV et de ne pas attendre au 
   lendemain, sans quoi ils risquent de laisser aux délinquants le 
   temps de se procurer des alibis.
 
-17 novembre 1907 :
+**17 novembre 1907 :**
 
 *« PV chasse, sans permis sur autrui avec chien au sieur Lainault Pierre –
   Chahaignes- condamnation le 25/01/1907 à 25 f d’amende, 
   restitution du fusil (valeur 50 f) et 20 f de dommages et 
   intérêts. »*
 
-5 janvier 1911 :
+**5 janvier 1911 :**
 
 *« PV chasse à Guimier Edmond (Vigneron) à Chahaignes
   pour chasse à 600 m à l’intérieur de la forêt. »* 
 
-28 janvier 1918 :
+**28 janvier 1918 :**
 
 *« … 10 h 30- Sans permis et en temps prohibé – 
   aidé de Bougreau dans le Buisson parcelle C² (P.118) 
@@ -554,7 +579,7 @@ M. le conservateur recommande au gardes verbalisateurs de prendre sans retard,
 	
 {{<figure src="/images/articles/flagrantdelit.jpg" title="Le flagrant délit">}}	
 
-25 septembre 1932 : 
+**25 septembre 1932 :** 
   
      PV de  Pigault rédigé avec le garde Robert Julien au service de
      M. Darblay « ….au sieur Émile Masson 30 ans, nous n’avons pas
@@ -572,7 +597,7 @@ M. le conservateur recommande au gardes verbalisateurs de prendre sans retard,
      PV Chasse sur autrui. »
  
  
-11 mai 1934 : 
+**11 mai 1934 :** 
 
 *« Avec le brigadier Albrecht et le garde-chasse Gobert canton 
   des Profonds Vaux, près de la parcelle 14 pour procéder à une
@@ -582,7 +607,7 @@ M. le conservateur recommande au gardes verbalisateurs de prendre sans retard,
   enlevé, il est très difficile de savoir quelle direction, 
   le ou les auteurs de ce délit ont prise. »*
 
-15 mai 1934 : 
+**15 mai 1934 :** 
 
 *« Nous nous sommes rendus chez les riverains de cette parcelle 
   afin d’avoir quelques renseignements et avons pris l’empreinte
@@ -597,7 +622,9 @@ Le garde Julien logeait à la «Maison Rose». Gobert à la Tasse,
 
 {{<figure src="/images/articles/120fgh12.jpg" title="Attaque nocturne d’un garde">}}
 
-10 juillet 1939 : Disparition d’un faon en forêt – 
+**10 juillet 1939 :**
+	
+Disparition d’un faon en forêt – 
 
 *« Avec le brigadier procédé à une enquête dans les communes 
   de Marigné et Téloché au sujet  de l’enlèvement et transport
@@ -657,7 +684,7 @@ Les vieux grognards des guerres précédentes ne voyaient
 Il y avait là quelques relents d’amertume 
   biens compréhensibles. 
  
-5 janvier 1940 : 
+**5 janvier 1940 :** 
 
 (Pie André) *« En effectuant notre tournée avec le brigadier,
   nous avons découvert tendus : 11 collets à gros gibier dans
@@ -669,7 +696,7 @@ Il y avait là quelques relents d’amertume
   tout en continuant notre surveillance dans les parcelles
   indiquées. »*
 
-3 avril 1940 : 
+**3 avril 1940 :** 
 
 (Pie André et le brigadier Poumerol) *« À 50 m de l’intersection 
   des lignes des parcelles B2 C2 et C5 (P117, 118, 119) trouvé 
@@ -691,7 +718,7 @@ Il y avait là quelques relents d’amertume
   L’interrogatoire des différents soldats occupés à des  
   travaux à proximité ne nous a appris aucun fait nouveau. »*
 
-11 juin 1941 : 
+**11 juin 1941 :** 
 
      Procès-verbal du garde Messager Armand. 
      *« L’an mil neuf cent quarante et un, le onze du mois de juin. 
@@ -746,7 +773,7 @@ Dans les années 1950 il y a surpopulation de lapins,
 
 {{<figure src="/images/articles/094b510.jpg" title="Pose des collets">}}
 
-23 mars 1953 :
+**23 mars 1953 :**
 
 Goenvec rencontre M. le conservateur au rond de Croix-Marconnay.
 *« Il m’a demandé des renseignements sur les braconniers.
@@ -754,7 +781,7 @@ Goenvec rencontre M. le conservateur au rond de Croix-Marconnay.
   les patrouilles de nuit, autorisé d’apporter un chien,
   et n'utiliser mon arme qu'au cas de légitime défense ».*
 	
-En 1959, l’on retrouve lors d’une perquisition chez certains 
+**En 1959**, l’on retrouve lors d’une perquisition chez certains 
   braconniers, de la viande dans une lessiveuse cachée sous 
   quelques fagots au fond du jardin. La peau de l’animal, 
   elle, avait été enfouie en terre dans le jardin, à 
@@ -774,10 +801,9 @@ Vers les années 1970, le gibier se fait rare et se tient sur
   l’interdit, la braconne, ruinant quelque peu le massif. 
   Il faut dire qu’en l’absence de plans de chasse, 
   il était tentant de tirer sur tout ce qui bougeait.
+	
 C’était toujours cela que les gros ** (4) ** n’auraient pas…
- **Référence (4) :** Les gros ce sont messieurs les
-  adjudicataires de chasse.
- 
+	
 
 {{<figure src="/images/articles/093b117.jpg" title="Arrestation de braconniers">}}
 
@@ -852,7 +878,15 @@ Ce n’est donc pas catastrophique pour l’avenir,
 	
 **(1)** Louis Saillant : Au pays du Maine - des gaulois à nos jours  (1 janvier 1934)
 Archives registres des Eaux et forêts - notes et témoignage de Robert Calvel.
-  
+	
+**(2)**  Alfred Rambaud -1883- histoire de la Révolution. 
+	
+**(3)** Du latin apprehendere : prendre, saisir, attraper ; 
+  dans le cas présent, appréhender au corps ou au collet.	
+	
+**(4)** Les gros ce sont messieurs les adjudicataires de chasse.
+	
+	
 Un jeune braconnier surpris par un garde-chasse (gravure). D’après Maurice Engelhard, 
 La chasse et la pêche, souvenirs d’Alsace, Paris, Berger-Levrault, 1888, p. 227. © BnF, Gallica.
 	
