@@ -6,29 +6,39 @@ description: "L’indispensable auxiliaire forestier "
 featured_image: '/images/bucherons.jpg'
 tags: ["Exploitation","Travaux","Hommes"]
 ---
+
+
 ### L’exploitation des bois est le fait du marchand qui emploie ses bûcherons.
 
-Sur la photo, une équipe de trois bûcherons pose avec le facteur de coupe ou garde vente, en compagnie du Préposé des Eaux et Forêts Louis Pigault, lorsque celui ci occupait le poste de la Maison Forestière des Clos, vers 1920.
+Sur la photo, une équipe de trois bûcherons pose avec le facteur de coupe ou garde vente, 
+en compagnie du Préposé des Eaux et Forêts Louis Pigault, lorsque celui ci occupait
+le poste de la Maison Forestière des Clos, vers 1920.
 
 Mr. Massicot travaillait comme facteur pour la maison CAREL du Mans qui faisait du  Merrain.
 Il avait une roulotte avec un cheval. *(Maurice Vérité)*. 
 Dupré, de Beaumont était celui de la Maison Ferrant. 
 
-En 1928, les adjudicataires ne sont plus tenus d’avoir des gardes ventes, ils en conservent la possibilité
-(article 31 du nouveau code forestier).
+En 1928, les adjudicataires ne sont plus tenus d’avoir des gardes ventes, 
+ils en conservent la possibilité (article 31 du nouveau code forestier).
 
 *Les bûcherons venaient travailler en vélo ou à pied.
 Certains laissaient leurs outils en Forêt, cachés sous branches et feuillages.
 Ils craignaient nullement l’acte de malveillance.
-Bien avant Guerre, l'abattage des arbres de futaie à "culée noire" c’est à dire avec extraction de souches,
-de façon à récupérer une  quantité appréciable de bois de chauffage était coutume dans toutes les coupes de
-régénération feuillue. Cela concernait donc une grosse majorité d’arbres exploités de cette façon. 
-Au dire du Brigadier Poumerol le 23 juin 1942 : *«sans aucun inconvénient, ni du côté des bûcherons,
+Bien avant Guerre, l'abattage des arbres de futaie à "culée noire" 
+c’est à dire avec extraction de souches, de façon à récupérer une 
+quantité appréciable de bois de chauffage était coutume dans toutes
+les coupes de régénération feuillue. Cela concernait donc une grosse
+majorité d’arbres exploités de cette façon. 
+
+Au dire du Brigadier Poumerol le 23 juin 1942 : 
+*«sans aucun inconvénient, ni du côté des bûcherons,
 ni du côté des marchands de bois»*. 
-*On n’a pas toujours été heureux à bûcher les souches,* témoignera plus tard Édouard Guillier
+*On n’a pas toujours été heureux à bûcher les souches,* 
+témoignera plus tard Édouard Guillier
 (Éhouppeur et Bûcheron). 
 
-> *"Je me souviens des bûcherons Chignard et Vérité, qui extrayaient les souches à la dynamite »* nous dit
+> *"Je me souviens des bûcherons Chignard et Vérité, qui extrayaient
+>  les souches à la dynamite »* nous dit
 Maurice Vérité dont le père était Charretier".
 >
 > -- Édouard Guillier
@@ -37,9 +47,11 @@ Maurice Vérité dont le père était Charretier".
 
 Gaston Masseau est né en 1914 de parents Agriculteurs sur Pruillé.
 
-Les 3 frères : Gaston, Jules (né en 1915) et Bernard (né en 1926) deviennent par la force des choses bûcherons.
+Les 3 frères : Gaston, Jules (né en 1915) et Bernard (né en 1926) 
+	deviennent par la force des choses bûcherons.
 	
-Il fallait bien vivre et ce n’était pas le petit bordage qui procurerait du travail à ces trois solides gaillards.
+Il fallait bien vivre et ce n’était pas le petit bordage qui procurerait 
+	du travail à ces trois solides gaillards.
 	
 Gaston l’aîné, arrêta son activité vers 1978. Il était connu de tous, pour le port immodéré des sabots qu’il 
 n’avait jamais quittés, lui déformant à vie les pieds tout en leur donnant de la corne.
@@ -77,16 +89,21 @@ Le métier de bûcheron, Gaston l’exerçait au début avec Maxime Claudot né 
     
 Bernard, quant à lui, se souvient de cet accident arrivé dans les années 60/61, dans le Sault Moulin.
 Le Père Trouvé, originaire de Pruillé mais résidant à Marigné, bûchait dans de l’efforage.
-Bernard et ses frères qui travaillaient à proximité se dirent soudainement : *« il y a une sente pas ordinaire, on dirait des vêtements qui brûlent »*
+Bernard et ses frères qui travaillaient à proximité se dirent soudainement : 
+	*« il y a une sente pas ordinaire, on dirait des vêtements qui brûlent »*
 
-Ils se dirigèrent vers le balay d’où sortait la fumée et y trouvèrent le père Trouvé carbonisé jusqu’à la
+Ils se dirigèrent vers le balay d’où sortait la fumée 
+et y trouvèrent le père Trouvé carbonisé jusqu’à la
 ceinture (dans le feu de bois qu’il avait allumé).
 Fut-il pris d’un malaise ? Nul ne le saura jamais.
 
-L'imagerie d'Épinal des bûcherons Chignard et Vérité, abattant les arbres séculaires de la parcelle 194
-(parcelle du célèbre chêne de Gaie Mariée) à grands coups de cognée: c’est fini.
+L'imagerie d'Épinal des bûcherons Chignard et Vérité, 
+	abattant les arbres séculaires de la parcelle 194
+(parcelle du célèbre chêne de Gaie Mariée) à grands coups de cognée: 
+	c’est fini.
+	
 La cognée était audible à près d'un kilomètre.
-L’expression : *"l'ouïe de la cognée"* (zone de 170 m autour de l’arbre abattu, qui rendait l’acheteur
+L’expression : ***"l'ouïe de la cognée"*** (zone de 170 m autour de l’arbre abattu, qui rendait l’acheteur
 juridiquement responsable de tous délits dans ce rayon) est disparue du code Forestier depuis 1906 et 
 condamnée par l'évolution des techniques et l'utilisation de la tronçonneuse (1963).
   
