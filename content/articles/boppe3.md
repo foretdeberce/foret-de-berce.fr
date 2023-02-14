@@ -39,7 +39,8 @@ Il faudra attendre le 25 mai 1961, pour qu’Émile Ballion
 
 {{<figure src="/images/articles/oe19350715.jpg" title="Ouest-Éclair du 15 juillet 1935">}}
   
-En 1947 : 
+**En 1947 :**
+  
   Après guerre la futaie des Clos est intégrée 
   à la "série touristique" qui rassemble les parcelles 
   les plus prestigieuses de Bercé.
