@@ -42,7 +42,7 @@ Contrairement à Saint-Ouen en Belin, pour Paris.... c'est cadeau !
 Bercé fut la première à se mettre en œuvre le dispositif.
 
 
-### Les acteurs de la filière bois vous en parlent.
+### Les acteurs de la filière bois vous interpellent.
 
 {{<youtube id="vOUzmAMd81Q">}}
 Les premiers chênes marqués pour la flèche.
