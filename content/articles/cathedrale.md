@@ -10,7 +10,8 @@ tags: ["Arbres","Curiosités","hommes","travaux"]
 ### Par le passé déjà  en 1896 :
 
 Le mardi 7 juillet 1896 vers 19h15, 
-un violent orage éclate sur Saint Ouen en Belin.
+un violent orage éclate sur 
+**Saint Ouen en Belin**.
 La foudre s’abat sur le clocher et met le feu à l’église. 
 
 Seuls quelques vases sacrés et ornements purent être sauvés. 
@@ -26,15 +27,17 @@ La charpente sera en chêne de Bercé
 
 L’incendie de Notre-Dame de Paris est un incendie majeur survenu
 à la cathédrale Notre-Dame de Paris, les 15 et 16 avril 2019,
-pendant près de 15 heures. Le sinistre déclaré en fin d'après-midi
+pendant près de 15 heures. 
+
+Le sinistre déclaré en fin d'après-midi
 à l'intérieur de sa charpente prend rapidement une grande ampleur 
 et se propage à l’ensemble de la charpente.
 
-Les forêts Publiques et privées se mobilisent alors pour fournir 
+Les forêts Publiques et privées se sont alors mobilisées pour fournir 
 aux bâtisseurs la matière première de leurs chantiers soit plus 
 de 2000 chênes.
 
-Pour Paris.... c'est cadeau !
+Contrairement à Saint-Ouen en Belin, pour Paris.... c'est cadeau !
 
 Bercé fut la première à se mettre en œuvre le dispositif.
 
