@@ -6,6 +6,7 @@ description: " Liste des auxiliaires de 1860 à 1900"
 featured_image: "/images/ofouest.jpg"
 tags: ["Hommes","Auxiliaires","Journaliers","Saisonniers","Carriers",Cantonniers","Tacherons"]
 ---
+
 ###  Fin 19ème 
 
 la liste des tâches faites par les ouvriers est longue et se décompose comme suit :
@@ -20,7 +21,7 @@ Par exemple : « Plantations de hêtres "moyenne tige" pour compléter le massif
 dans le canton des Follets p.224 : le 16 fév. 1880 » ou
 « … à faucher des joncs dans les coupes à crocheter p.223 des Follets » 
 voir encore « extraction à la main de bruyères dans les 
-coupes définitives de la p. 242 en oct. 1880. » 
+coupes définitives de la p. 242 en octobre 1880. » 
 
 ### *Note n° 139 du 6 septembre concernant les calepins d'attachement :*
 
