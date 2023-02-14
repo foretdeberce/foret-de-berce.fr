@@ -157,7 +157,7 @@ de nombreuses carrières ayant permis l’embauche massive d’ouvriers et de
 gardes cantonniers. 
 
 
-## En 1860
+### En 1860
 À la lecture des premiers livrets journaliers, en 1860 on rentre dans le vif du sujet.
 Tous les cantons boisés en feuillus de Bercé dans lesquels l’on ouvre les parcelles
 âgées de plus de 100 ans, puis de 200 ans en coupes de régénération, sont régulièrement
