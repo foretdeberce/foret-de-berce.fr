@@ -19,6 +19,7 @@ Mais jusqu’en 1843 l’on constata la
 présence de vide bien souvent laissés par l’agriculture et l’élevage.
 
 **Elle devint forêt royale en 1337.**
+
 Malgré  la  possession  du  Roi  et  l'ordonnance  de  1346  qui
 avait interdit de créer de nouveaux droits d'usage dans les forêts 
 du domaine royal, il en fut encore concédé d'assez nombreux jusqu’à
@@ -188,6 +189,7 @@ Le grand maître Eynard de Ravanne avait visité plusieurs fois, de 1727 à 1740
 ### 1783 - Deuxième aménagement 
 
 **(1)**(Extrait du procès-verbal d'aménagement de 1783-1785 (A.D.S/ B 3858)
+  
      « La forêt de Bercé est située dans la province du Maine et dans l'étendue de 
      la Baronnie de Château-du-Loir, elle est à 56 lieues de Paris, à deux lieues 
      de la ville du Château-du-Loir où est le siège de sa maîtrise à 10 heures
