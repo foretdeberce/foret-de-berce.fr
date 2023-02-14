@@ -85,6 +85,7 @@ Heintz 1876 : *Suivi avec Schneider un train de sanglier blessé sans résultat,
 l’animal à bout de sang s'en va mourir dans un coin, dans d'atroces souffrances.*
 	
 ### Heintz le 1er janvier 1878 de noter : 
+	
 *« Vu mon collègue Ciron et chassé avec lui un énorme sanglier sans résultat »*
 	
 Les battues typiquement forestières sont dirigées par l’inspecteur ou 
@@ -107,13 +108,14 @@ Le système des battues repose sur les plaintes des agriculteurs environnants,
   pas « aux dents de la forêt ». Les dégâts sont indemnisés et
   ils sont tels que la forêt semble en danger : 
   
-24 février 1884,
+**24 février 1884,**
 	
-*Pierre Marin Leroi, signalait : *« suite aux dégâts : surveillé 5 ouvriers à 
+Pierre Marin Leroi, signalait : *« suite aux dégâts : surveillé 5 ouvriers à 
 semer de la faine au plantoir, pour réensemencer les dégâts causés 
 par les sangliers parcelle 23 (ancienne B 6).»*
   
-Janvier 1885,
+**Janvier 1885,**
+	
 Note de M. l'inspecteur. 
 	
 *« Suite à plainte d'un riverain possesseur d'un champ de blé,
@@ -122,7 +124,7 @@ Note de M. l'inspecteur.
   et diriger la battue. Il est rédigé ensuite un procès verbal
   de battue. Les Co-fermiers doivent être prévenus de celle-ci.»*
   
-15 janvier 1885,
+**15 janvier 1885,**
 	
 Battue aux sangliers sur Saint-Pierre-du-Lorouër, 
   à 10h du matin surveillée par les gardes Guyomarch 
@@ -147,7 +149,7 @@ Battue aux sangliers sur Saint-Pierre-du-Lorouër,
      Résultat : Néant
      Fait et clos à la Maison Forestière des Clos
 
-24 Janvier 1885:
+**24 Janvier 1885 :**
 	
 Une autre battue aux sangliers est organisée sur la commune de Chahaignes
   Nous avons trouvé les nommés ci-dessous:
@@ -174,13 +176,13 @@ Ce même jour Heintz relate :
 dirigés par M. l’adjoint de Saint-Pierre, 
 qui ont blessé un homme au bras par l'imprudence d'un tireur »*.
 
-En 1889 : 
+**En 1889 :** 
 	
 le nombre de plaintes afflue, l’inspecteur en personne se déplace 
   avec un forestier constater les dégâts chez les riverains. 
   Sept battues sur l'est de la forêt seront ainsi autorisées en mai.
   
-31 août 1891 : 
+**31 août 1891 :** 
 la note de l'inspecteur est claire à ce sujet :
 	
 *« Ne chercher en aucune façon à détourner les riverains de demander des battues.
@@ -188,18 +190,18 @@ Mais attention! N’importe qui, en dehors de la période de chasse ne peut
 entreprendre une battue. Seules les battues autorisées par décret de M. Le préfet
 sont valables et les préposés doivent  veiller  en cela.»*
 
-27 septembre 1901 : 
+**27 septembre 1901 :** 
 	
 lorsque les dégâts sont manifestes, les préposés ont pour mission de les estimer.
 Ainsi, Albrecht Émile *«estime à 18 fr les dégâts causés par les sangliers
 au sieur Ménard Albert de Saint-Pierre-du-Lorouër.»*
 
-11 mars 1906 : 
+**11 mars 1906 :** 
 	
 *« Montre au brigadier une fosse à loup, près du périmètre P.A 4 **(P.251)** 
   champ Guimier et le 13 fait une enquête.»*
   
-30 juillet 1906 : 
+**30 juillet 1906 :** 
 	
 estimation du dommage causé par les sangliers, aux récoltes des habitants 
   de Thoiré-sur-Dinan à la suite d'une pétition adressée à la préfecture 
@@ -208,13 +210,13 @@ estimation du dommage causé par les sangliers, aux récoltes des habitants
   corps et usent de leur personne en toute illégalité, soit pour reproduire
   l'espèce, soit pour l'exterminer.»* 
   
-20 avril 1907 : 
+**20 avril 1907 :** 
 	
 Barbé *«prévient le garde-chasse Bruon (collègue à Quentin), qu'il avait à 
   détruire les petits sangliers qu'il avait capturé vivants et essayait
   à faire en élevage (Article 24 de l'arrêté  Préfectoral).»*
   
-28 septembre 1907 :
+**28 septembre 1907 :**
 	
 *« Accompagne le brigadier, prévenu les sieurs Toluron et Lorgueilleux de 
   fermer les fosses à sangliers ouvertes sur leur terrain en bordure de forêt.»*
@@ -222,19 +224,19 @@ Barbé *«prévient le garde-chasse Bruon (collègue à Quentin), qu'il avait à
   De telles fosses recouvertes de branchages avec à l'intérieur un appât ont
   encore fonctionné durant la seconde guerre mondiale et après. 
   
-10 février 1914 :
+**10 février 1914 :**
 	
 P.V. *« …contre le sieur Martinot Louis Auguste (né le 13 Juillet 1870 – 44 ans)
   cultivateur à Haute-Perche, pour chasse à l'affût, de nuit, avec un fusil à percussion centrale.»*
 	
   De telles pratiques ont perduré jusqu’à nos jours, sur le périmètre de la forêt domaniale.
   
-21 mai 1916 : 
+**21 mai 1916 :** 
 	
 Silvestre écrit *« Battue au rond de Verneil et environs, vu le garde Robert –
   Résultats : deux biches tuées et distribuées sur le terrain. Rendu compte à M. l'inspecteur. »*
   
-14 novembre 1919 : 
+**14 novembre 1919 :** 
 	
 Une note de l’inspecteur Potel précise aux adjudicataires de la chasse, 
   *de ne pas tuer les biches et les chevrettes, par contre est autorisé,
@@ -245,19 +247,19 @@ Une note de l’inspecteur Potel précise aux adjudicataires de la chasse,
 Après guerre, la prolifération du gibier non chassé durant les hostilités 
   (mais parfois braconné) impose des battues :
 
-3 mars 1920 : 
+**3 mars 1920 :** 
 	
 *«Attaqué 2 sangliers dans les Défaits (tiré 7 coups de fusil) tiré un blaireau.»*
   
-10 mars 1920 :
+**10 mars 1920 :**
 	
 *« Attaqué 1 sanglier à la Lune et réattaqué 2 sangliers en les Trembles (néant).»*
   
-l7 mars 1920 :
+**l7 mars 1920 :**
 	
 *«Attaqué dans le buisson et les Renardières…(résultat néant).»*
   
-21 mars 1920 :
+**21 mars 1920 :**
 	
 Battue éffectuée par M. Loisel (8 tireurs) 
 *« Attaqué 5 sangliers dans les Profonds-Vaux près de Bel-Air. 
@@ -267,7 +269,7 @@ Battue éffectuée par M. Loisel (8 tireurs)
   au déboulé mais le manque. Le sanglier prend le Sault Moulin et nous reprenons 
   les chiens…Résultat : néant. »*
   
-25 mars 1920 :
+**25 mars 1920 :**
 	
 *« 2éme chasse de la société de Château-du-Loir (5 tireurs) résultat :
   1 laie et 4 petits. Attaqué à 10h du matin deux sangliers dans le Bel-Air,
@@ -278,14 +280,14 @@ Battue éffectuée par M. Loisel (8 tireurs)
 	
   **(1)**- Au ferme...l’animal est tenu sur place par la meute.
   
-28 mars 1920 :
+**28 mars 1920 :**
 	
 *« 10 tireurs. Attaqué 2 sangliers dans le Tronchet. La chasse s’en va 
   sur les Profonds Vaux. Les chiens mettent bas. Après midi, 
   nous attaquons un sanglier en Joriette. Les chiens mettent bas
   en les Salles. Résultat: Il a été tué un blaireau. »* 
  
-1er avril 1920 : 
+**1er avril 1920 :** 
 	
 *« 6 tireurs. Attaqué un sanglier dans Bel-air, tiré par Gobert au 
   déboulé et ensuite par  M. Dabouineau. La chasse s’en va sur la Tasse
@@ -293,7 +295,7 @@ Battue éffectuée par M. Loisel (8 tireurs)
   nous foulons les fourrés de Hautes Perches. Nous ne trouvons rien….
   (Résultat néant) »*
   
-5 avril 1920 :
+**5 avril 1920 :**
 	
 *« 3 fusils. Le matin nous foulons tout le canton d’Hautes Perches, 
   sans rien trouver. Après midi, nous descendons aux Profonds Vaux ou
@@ -305,7 +307,7 @@ Battue éffectuée par M. Loisel (8 tireurs)
   au ferme par M. LOISEL. 
 Résultat : 1 sanglier pesant environ 150 kg. »*
   
-8 avril 1920 : 
+**8 avril 1920 :** 
 	
 *« Nous foulons les Profonds-Vaux, nous attaquons au dessus de la vallée
   du Muguet une laie et ses petits. Les chiens tuent un petit à la bauge 
@@ -317,17 +319,17 @@ Résultat : 1 sanglier pesant environ 150 kg. »*
   au poids de 2 kg environ- 9 tireurs.
 Résultat : 4 petits sangliers tués l’après midi. »*
   
-11 avril 1920 :
+**11 avril 1920 :**
 	
 *« Nous attaquons des sangliers dans les fourrés de Croix Marconnay, 
   mais ils passent trop loin des tireurs, vu l’heure avancée nous rentrons.
   (8 fusils), résultat néant »*
   
-13 avril 1920 : 
+**13 avril 1920 :** 
 	
 *« Nous foulons la croix-Marconnay – non attaqué – 5 tireurs (résultat néant) »*
   
-15 avril 1920 :
+**15 avril 1920 :**
 	
 *« Nous foulons Hautes-Perches et la Croix-Marconnay. Non attaqué. Résultat : néant. »*
   
@@ -341,7 +343,7 @@ Résultat : 4 petits sangliers tués l’après midi. »*
      réserve de chasse, les chasseurs n’ont sur ce lot que
      le droit de suite.
 
-En 1927 
+**En 1927** 
   
   après la pénurie due à la guerre de 1914-1918, l’arrêté préfectoral 
   prévoit la chose dans son article 3 : les propriétaires, possesseurs
@@ -390,14 +392,16 @@ Le droit de chasse est réquisitionné au
   Les feldkommandants désignent les secteurs où la destruction 
   doit avoir lieu. 
 	
-Dès novembre 1940 les forestiers accompagnent 
+**Dès novembre 1940 :**
+	
+les forestiers accompagnent 
   les officiers allemands de la Flèche à la chasse. Cerfs, biches, 
   sangliers, renards et lapins n’ont qu’à bien se cacher et même, 
   ils ne sont pas à l’abri des braconniers qui pullulent dans le coin.
   Des collets sont tendus dans la Guiltière, les Profonds-Vaux, 
   pour soit disant pour supprimer les renards. 
 	
-Dès octobre 1941 :
+**Dès octobre 1941 :**
 	
 les forestiers aident les allemands à confectionner des observatoires
   pour le gibier, entre autre dans la parcelle 93.
@@ -415,14 +419,15 @@ La chasse à l’affût prisée par les "Doryphores" **(2)**,
   donne l’idée à certains de scier les montants de ces constructions en bois,
   de façon à précipiter de toute leur hauteur les envahisseurs.
 	
-Le 20 juin 1942 :
+**Le 20 juin 1942 :**
+	
 lors d’une soirée de chasse dans la Croix-Segrier, 
   Thomas rencontre l’officier allemand Sauer :
 *« qui m’a dit de prendre
   mon chien en laisse en forêt. Ayant une autorisation de chasser en forêt
   avec mon chien, signée de l’officier de chasse, je n’exécuterai pas cet ordre. »*
   
-Le 5 novembre 1943 :
+**Le 5 novembre 1943 :**
 	
 Les forestiers allemands construisent un « observatoire » en bordure de la route 
   de Vaas à la hauteur de la parcelle 63 de Bel-Air. À la fin de la  guerre,
@@ -432,7 +437,7 @@ Les forestiers allemands construisent un « observatoire » en bordure de la rou
 **(2)** nom donné aux occupants allemands. Propos recueillis auprès de riverains. Archives  O.N.F.
  
 
-19 juillet 1947 :
+**19 juillet 1947 :**
   
        Le spécialiste incontesté de la chasse sur Bercé visite sa future brigade 
        ouest en compagnie d’André PIE en vue de prendre son service le 
@@ -520,7 +525,7 @@ La jurisprudence en a décidé ainsi.
 Pour contenter  les riverains, on distribue les trophées.
   La destruction de ce gibier dit " surabondant " est prescrite par le conservateur.
   
-Le 21 mai 1916 :
+**Le 21 mai 1916 :**
 	
 Silvestre écrit
 *" Battue au Rond de Verneil et environs, vu le garde Robert 
@@ -552,7 +557,7 @@ Renouer avec la tradition. L'ONF organisa en janvier…une battue de biches.
 L’invasion des lapins est en soi un véritable fléau pour les cultures.
   La chasse aux lapins fait partie des travaux d'amélioration.
 	
-Déjà en 1893 :
+**Déjà en 1893 :**
 	
 *« Considérant la surabondance du lapin en forêt
   domaniale qui occasionne aux plantations et jeunes plants forestiers,
@@ -596,10 +601,10 @@ Les renards sont indemnisés à la queue.
 De nos jours, tous les personnels sont 
   sensibilisés par des stages à la chasse et possèdent le permis de chasser
 	
-– Coût du permis de chasser avec assurance :
+***– Coût du permis de chasser avec assurance :
 1958 : 2345f
 1962 : 41,90 Nf
-1964 : 40 Nf + 16,95 Nf d’assurance = 56,95 Nf
+1964 : 40 Nf + 16,95 Nf d’assurance = 56,95 Nf***
   
 Les blaireaux font l’objet d’une chasse particulière sous terre dite de petite vennerie.
   
@@ -616,7 +621,7 @@ Heintz le 17 juin 1877 décrit :
 *« Dans les cantons de Tertre-aux-Bœufs et Sorels, été avec 
   un émondeur à détruire les nids de buses et émouchets. Détruit une petite buse. »*
   
-En 1923 
+**En 1923** 
 	
 La Ligue Française pour la protection des oiseaux s’insurge contre 
   le massacre perpétré envers les oiseaux de tous genres en offrant aux agents
@@ -660,7 +665,7 @@ L’article 4 de l’arrêté de clôture générale de la chasse en 1927 stipul
 Les pies et corbeaux sont empoisonnés au « Pica corvicide » du 1er décembre au 31 mars. 
  *« Il est certain que les préposés ne doivent pas s’attendre à être remboursés de leurs dépenses pour 1928 »*
   
-En 1928
+**En 1928**
 
 Le vent aurait-il tourné ? Les habitudes sont tenaces.
   
