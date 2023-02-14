@@ -6,6 +6,7 @@ description: "Baptisé en 1894"
 featured_image: "/images/et.cheneboppe36.jpg"
 tags: ["Tourisme","Arbres","Chênes","Toponymie","Hommes"]
 ---
+
 *Une forêt n’est pas un monument.
 Elle est composée d’êtres vivants que rien n’empêchera de
 s’acheminer vers la mort.
@@ -50,7 +51,7 @@ nommé dans la toponymie orale le « champ du serf ou du cerf ».
 La futaie claire présente est régénérée selon les préceptes
 de Colbert (1669). Elle laisse  alors place aux jeunes semis. 
 
-Sa régénération sera programmée aux alentours de 1890.
+***Sa régénération sera programmée aux alentours de 1890.***
 
 Jusqu'au 19ème siècle, d'éclaircies en éclaircies, 
 cette parcelle devient le témoin privilégié de
@@ -72,11 +73,11 @@ puis baptisé en présence et en l’honneur de Lucien Boppe :
         52ème directeur de l’ENEF 
         (l'École Nationale Forestière de Nancy). 
         Lucien Boppe (1834-1907) 
-       était inspecteur des forêts, 
-       professeur de sylviculture et
-       dirigea l’École forestière de Nancy 
-      à partir de 1893–1898, après en avoir 
-      été le sous-directeur pendant 12 ans.
+        était inspecteur des forêts, 
+        professeur de sylviculture et
+        dirigea l’École forestière de Nancy 
+        à partir de 1893–1898, après en avoir 
+        été le sous-directeur pendant 12 ans.
 
 
 {{<figure src="/images/articles/boppedirecteur.jpg" title="Lucien Boppe, directeur de l'ENEF">}}
