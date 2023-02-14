@@ -101,8 +101,8 @@ Néanmoins, durant la  dernière guerre, les gazogènes et autres machines à va
 Après l’armistice du 22 juin 1940, la pénurie aidant, on ressortira 
   des tiroirs…le bon vieux gazogène. 
   
- « Le charbon de bois et le bois ont été les carburants de remplacement les plus répandus
-  pendant les années de guerre….
+*Le charbon de bois et le bois ont été les carburants de remplacement les plus répandus
+  pendant les années de guerre….*
   
  *Il y a donc là une possibilité intéressante, pour les
   régions forestières dont l'alimentation en gaz naturel n'est pas actuellement prévue.
