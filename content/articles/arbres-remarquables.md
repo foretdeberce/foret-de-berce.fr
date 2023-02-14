@@ -117,7 +117,7 @@ Sur le peu de chênes à gui recensés en France,
 un autre parcelle 260
 {{<figure src="/images/articles/p228-1999.jpg" title="Le chêne à gui en 1999">}}
 
- et le dernier décrit par Potel dans cette fameuse parcelle 228 actuellement en 
+Et le dernier décrit par Potel dans cette fameuse parcelle 228 actuellement en 
 régénération. 
 Ceux-ci ont été miraculeusement épargnés par la désormais célèbre tempête du millénaire.
  
@@ -156,7 +156,9 @@ C'est actuellement à 227 ans, le plus gros chêne de Bercé.
 En 2021 il a perdu malheureusement une de ses branches maitresse.
 
 ### le H du hêtre situé parcelle 28 en 2017.
+ 
 {{<figure src="/images/articles/2017hetreh.jpg" title="Un arbre extraordinaire">}}
+ 
 Particularité botanique, l’anastomose créé dans la nature des arbres qui sans être remarquables n’en sont pas moins extraordinaires !
  
 
