@@ -84,8 +84,12 @@ nouvelle admonestation de la part du brigadier MARSAC :
  
  
 A cette nouvelle déconvenue, CESARI réitère sans aucun complexe :
-* Nous sommes toujours indisposé par un prurigo, la marche nous gêne et nous sommes arrivé en retard au rendez-vous qui se trouve à une dizaine de kilomètres de notre domicile et à 7 h 30 du matin ; en outre notre montre nous a trompé  de 10 minutes*.
-(En marge, est noté au crayon de papier ces quelques mots : les réflexions ne doivent pas être portées sur le livret.)
+* Nous sommes toujours indisposé par un prurigo, la marche nous gêne et nous sommes 
+	arrivé en retard au rendez-vous qui se trouve à une dizaine de kilomètres de notre 
+	domicile et à 7 h 30 du matin ; en outre notre montre nous a trompé  de 10 minutes*.
+	
+*(En marge, est noté au crayon de papier ces quelques mots : 
+	les réflexions ne doivent pas être portées sur le livret.)*
   
 {{<figure src="/images/articles/cesari3.jpg" title="Un de ces rendez-vous">}}  
 
