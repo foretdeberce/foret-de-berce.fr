@@ -7,13 +7,20 @@ featured_image: "/images/vieux-ouvriers-est.jpg"
 tags: ["Hommes","Auxiliaires","Ouvriers","Journaliers","Carriers","Tacherons","Cantonniers","Bûcherons"]
 
 ---
-Dans cette première moitié du 20ème siècle, les routes sont encore un vaste chantier et réclament une grande mobilisation des effectifs des Eaux et Forêts. 
 
-La donne à changé quand à la variété de main d’œuvre. Les deux dernières guerres ont décimé les familles, les épouses prennent leur destin en main, et quand elles ne travaillent pas aux champs, c’est en forêt qu’elles se dirigent avec bien souvent les enfants. 
+Dans cette première moitié du 20ème siècle, les routes sont encore un 
+vaste chantier et réclament une grande mobilisation des effectifs des Eaux et Forêts. 
 
-Ce métier physique réclame aussi un bon esprit d’équipe, de la constance et une grande technicité.
+La donne à changé quand à la variété de main d’œuvre. Les deux dernières
+guerres ont décimé les familles, les épouses prennent leur destin en main,
+et quand elles ne travaillent pas aux champs, c’est en forêt qu’elles se 
+dirigent avec bien souvent les enfants. 
 
-Des générations de besogneux ont ainsi par tous les temps, œuvré dans l’ombre des sous-bois et je leur tire mon chapeau. 
+Ce métier physique réclame aussi un bon esprit d’équipe, de la 
+constance et une grande technicité.
+
+Des générations de besogneux ont ainsi par tous les temps, 
+œuvré dans l’ombre des sous-bois et je leur tire mon chapeau. 
 
 ### De 1900 à 1950
 
@@ -960,7 +967,7 @@ Des générations de besogneux ont ainsi par tous les temps, œuvré dans l’om
     [Les ouvriers forestiers en image](/articles/pdf/ouvriersforestiers.pdf) 
     
      
-     ### Bibliographie : 
+ ### Bibliographie : 
      
-     Bercé, une forêt d’exception (Y. Gouchet - 2018)
+ Bercé, une forêt d’exception (Y. Gouchet - 2018)
      
