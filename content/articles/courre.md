@@ -418,7 +418,11 @@ Celui du lièvre à Lionel Chevalier et Jeanick Bouraud, etc..
  
 Les mentalités évoluent et la chasse se veut de plus en plus respectueuse
   de l’environnement dans ces pratiques quotidiennes.
-  
+
+Dans les année 1990, un couple d'ethnographes du CNRS : les Pinçon-Charlot,
+tente de percer [les secrets de cette pratique](/articles/pdf/ethno-pincon-charlot1993.pdf) 
+ qui divise en quelque sorte, notre société. 
+ 
 Tous les suiveurs ne prennent plus systématiquement le Porsche Cayenne 
   ou la 2CV, mais certains enfourchent allègrement le VTT 
   pour un périple ultra-physique à travers bois.
