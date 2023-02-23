@@ -49,6 +49,9 @@ Les premiers chênes marqués pour la flèche.
 
 {{<youtube id="_HD2Jwc1kBA">}}
 Huit chênes de Bercé pour Notre Dame de Paris.
+  
+{{<youtube id="5BZFGLlB6K0">}}
+Le savoir faire de toute une profession.
 
 {{<youtube id="JMwiSfucalg">}}
 Reportage de France-Bois-Forêt.
