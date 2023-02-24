@@ -127,11 +127,14 @@ Ceux-ci ont été miraculeusement épargnés par la désormais célèbre tempêt
  je crois, sur son tronc et signalée comme curiosité botanique... »* signé Potel.
  
 ### Le Chêne Sermaize
-
+ 
+{{<figure src="/images/articles/p180-20230208.jpg" title="Le chêne Sermaize">}}
+ 
 Dit aussi *Chêne Seul* ou *Chêne Parapluie*.
 Dans la parcelle 180, nous avons à faire à un chêne droit,
 très droit, haut très haut :34,60 m. Gros, très gros: 308 cm de circonférence.
 Premier nœud à 16 m. Seulement 340 ans en 2009 et qui dépasse tous ses congénères d’une tête.   
+ 
 {{<figure src="/images/articles/sermaize.jpg" title="Le chêne Sermaize">}}
 
 ### Le Chêne Pelletier (tellement discret qu’il n’a pas été retrouvé)
