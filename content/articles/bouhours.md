@@ -83,6 +83,10 @@ L’adéquat : que je plonge avec les tanches ! »
 
 Moralité : Croit quoi ? ! ...
   
+## Autre source d'inspiration de notre poète :
+  
+{{<figure src="/images/articles/chateaudefollet.jpg" title="Faces avant et arrière de Follet">}} 
+  
 ### Bibliographie : 
   
 Écrits de notre ami d'Au Fil Du Temps
