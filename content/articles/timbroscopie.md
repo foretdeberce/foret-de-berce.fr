@@ -91,7 +91,7 @@ depuis 1931…le bureau est déménagé depuis longtemps déjà.
 Pour célébrer Bercé, je vous ai concocté les quelques
 faux spécimens de timbres qui auraient pu voir le jour.
   
-{{<figure src="/images/articles/2022timbres.jpg" title="La mise en garde">}}
+## Attention à la contrefaçon !
   
 {{<figure src="/images/articles/391timbres.jpg" title="Les faux timbres de Bercé">}}
   
