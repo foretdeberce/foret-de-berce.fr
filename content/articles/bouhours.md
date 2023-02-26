@@ -85,7 +85,7 @@ Moralité : Croit quoi ? ! ...
   
 ## Autre source d'inspiration de notre poète :
   
-{{<figure src="/images/articles/chateaudefollet.jpg" title="Faces avant et arrière de Follet">}} 
+{{<figure src="/images/articles/chateaudefollets.jpg" title="Faces avant et arrière de Follet">}} 
   
 ### Bibliographie : 
   
