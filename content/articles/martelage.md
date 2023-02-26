@@ -38,31 +38,32 @@ Le 6 aout 1899 il est noté dans les livrets que «les empreintes des marteaux d
   
 Le 24 mai 1894, l’inspecteur Chautan De Vercly et son adjoint Roulleau de La Roussiere
   visent ainsi le matin, en guise de prologue au martelage, sur les livrets d’ordres 
-  des préposés cette phrase « Vu par les agents forestiers en tournée »….d’ailleurs,
+  des préposés cette phrase *Vu par les agents forestiers en tournée*….d’ailleurs,
   depuis le 15 mai, c’est tous les jours qu’est laconiquement inscrite sur les livrets
-  des préposés la phrase suivante : « Accompagné Mrs les agents forestiers
-  aux opérations dans les 1ère, 2ème et 3ème série » pas de répit donc...
+  des préposés la phrase suivante : *Accompagné Mrs les agents forestiers
+  aux opérations dans les 1ère, 2ème et 3ème série*, pas de répit donc...
   même le jour du seigneur ! 
   
 L’équipe est composée des préposés (ou gardes qui tiennent marteaux et compas), 
   du brigadier (qui pointe les appels sur une feuille de pointage) et d’un, 
   voir deux agents en tournée (inspecteur ou garde général, qui supervisent l’opération). 
   
-28 septembre 1868 : LEROUX note « Rendez vous du brigadier à la loge de Croix-Marconnay
-  pour présenter les marteaux à Mr le sous-inspecteur ». 
+28 septembre 1868 : LEROUX note *Rendez vous du brigadier à la loge de Croix-Marconnay
+  pour présenter les marteaux à Mr le sous-inspecteur*. 
 
-*« Alors, sur l'ordre du brigadier, les gardes prirent dans la voiture les sacs à provisions
+*Alors, sur l'ordre du brigadier, les gardes prirent dans la voiture les sacs à provisions
   et les suspendirent à une branche dans le massif. Ils accrochèrent également sous bois, 
   à quelque distance, les sacs qu'ils portaient en bandoulière… On tira ensuite du coffre 
   les marteaux de l'État enveloppés dans un étui en cuir fermé par une double serrure. 
   Les étuis furent ouverts par l'inspecteur et un marteau remis à 
-  chacun des gardes ».* 
+  chacun des gardes.* 
   Récit forestier de  Ruault de Champglin
   
 {{<figure src="/images/articles/martelage.jpg" title="La virée de martelage">}}
   
 
-     ## Le Journal Officiel du 22 juin 1896 (1) 
+ ## Le Journal Officiel du 22 juin 1896 (1) 
+  
      dernier fait savoir que, dans les futaies 
      de la 15ème conservation, les coupes d'ensemencement et secondaires, assises par 
      volume, sont marquées en réserve, et que ce mode de procéder offre un double avantage : 
@@ -85,11 +86,11 @@ L’équipe est composée des préposés (ou gardes qui tiennent marteaux et com
      l'exécution des repeuplements artificiels mis en charge sur les coupes par application 
      de l'article 13 du cahier des clauses spéciales. 
   
-     Bibliographie :  (1) Revue des Eaux et Forêts - 1896.
+ Bibliographie : **(1)** Revue des Eaux et Forêts - 1896.
 
 ### Les marteaux 
   
-**Le marteau particulier et le marteau chablis. 
+**Le marteau particulier et le marteau chablis.** 
   
 Chaque garde était propriétaire, donc responsable de l’utilisation de son propre
   marteau particulier qui servait uniquement à la reconnaissance des souches 
