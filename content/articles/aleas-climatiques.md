@@ -118,6 +118,13 @@ Suite à l’apparition de la maladie du rond sur certaines parcelles
   Sournoisement le mycélium infecte le sous sol, puis pénètre les
   racines des arbres empêchant toute circulation de sève.
   
+       En janvier 2023,
+       dans la parcelle 41,
+       on prévoit l'avenir en remplaçant
+       sur 3 hectares le Pin maritime 
+       malade par du chêne sessile de 
+       Gascogne et du chêne pubescent.
+  
   Le temps doux et humide est propice aux invasions 
   d’insectes et de champignons lignivores tel le Bostryche 
   qui se développe par le système racinaire du pin maritime. 
