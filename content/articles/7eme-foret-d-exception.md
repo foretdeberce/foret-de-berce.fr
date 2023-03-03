@@ -44,7 +44,7 @@ Les anciennes landes plus pauvres, sont plantées d’essences feuillues et rés
 la biodiversité du Massif. 
 
 
-{{<youtube lvhkTT1trFLw>}}    
+{{<youtube id="vhkTT1trFLw">}}
 
 Jadis utilisé pour la construction navale, le chêne de Bercé est aujourd’hui mondialement recherché 
 pour l’ébénisterie, le tranchage et la tonnellerie. 
