@@ -151,7 +151,8 @@ avec le réchauffement climatique qui s’intensifie.
 Bercé, était il n’y a pas si longtemps, une magnifique hêtraie !
 
 {{<figure src="/images/articles/pouce-hetre.jpg" title="Une jeune pousse de hêtre">}}
-
+    
+{{<figure src="/images/articles/hetre004.jpg" title="Prospective à l’horizon 2100 © O.N.F.">}}
 
 ### La partie cultivée en résineux est moins équilibrée.
 
