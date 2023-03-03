@@ -178,9 +178,8 @@ Plus de 1500 chablis sont recensés sur un seul triage (quand on pense qu’il y
 une mini tornade balaie l’ancienne trouée de 1982 et ravage les régénérations de la Chauvinière,
 du Souvenir et de Gaie-Mariée. Les arbres sont défibrés sur pied, la presse relate les faits. 	
  
- {{<figure src="/images/articles/juin99p165.jpg" title="Mini ouragan de juin 1999">}}
+ {{<figure src="/images/articles/juin99p165.jpg" title="Mini ouragan de juin 1999 parcelle 165">}}
  
- {{<figure src="/images/articles/p165juin99.jpg" title="Bois défibré parcelle 165">}}
 
 ### 26 et 27 décembre 1999 :
  
