@@ -11,6 +11,8 @@ En cette matinée du 18 mars 2017, Stéphane LE FOLL, alors ministre de l’Agri
 de la Forêt et porte-parole du gouvernement est venu sur Bercé, pour accorder à la forêt domaniale de Bercé,
 le label Forêt d’Exception®.
 
+{{<figure src="/images/articles/exceptionforets.jpg"  title="Les forêts labellisées et candidates">}}
+
 {{<youtube lT_NYys3Tm4>}}
 
 Après Fontainebleau, Verdun, La Grande Chartreuse, Rouen, Val Suzon et Montagne de Reims, Bercé est enfin
@@ -42,8 +44,7 @@ Les anciennes landes plus pauvres, sont plantées d’essences feuillues et rés
 la biodiversité du Massif. 
 
 
-{{<youtube id="vhkTT1trFLw" autoplay="true">}}
-    
+{{<youtube lvhkTT1trFLw>}}    
 
 Jadis utilisé pour la construction navale, le chêne de Bercé est aujourd’hui mondialement recherché 
 pour l’ébénisterie, le tranchage et la tonnellerie. 
