@@ -65,9 +65,9 @@ CE QUE RACONTENT LES REGISTRES PAROISSIAUX ET COMMUNAUX
 	R. LEVILLAIN
 	R.  PAVY
 	
-{{<figure src="/images/articles/loupmarigne.jpg" title="Registre de Marigné">}} 	
-    
-    Primes de 1750 : 
+	
+**Primes de 1750 :** 
+	
     levée de 2000 livres sur tous les contribuables aux 
     Tailles de la généralité de Tours (impôt royal sur 
     les ressources des roturiers) pour gratifications 
