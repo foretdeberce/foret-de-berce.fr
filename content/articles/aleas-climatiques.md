@@ -302,6 +302,14 @@ Les hauteurs maximales seront enregistrées durant l’hiver 2000-2001,
   
 Les fontaines froides de Sermaize quant à elles, n’arrivent plus à entonner.
   
+Depuis quelques années, la sècheresse pointe son nez, contraignant notre massif 
+  à suivre un régime drastique !
+  
+Voici les valeurs relevées de 2018 à 2022 sur le **flanc est** de Bercé.
+
+{{<figure src="/images/articles/pluviometrie.jpg" title="Pluviométrie du flanc Est de Bercé">}}
+
+  
 ### La sécheresse :
   
 Les sécheresses sont aussi omniprésentes et succèdent aux périodes humides, 
