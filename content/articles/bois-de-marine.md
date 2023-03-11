@@ -262,7 +262,50 @@ Les cantons des Follets, Sermaize, Croix-Veneur, des Sorels,
      de Gaie Mariée, Pressenteries et Tertre-aux-Bœufs seront 
      ainsi visités pour la production des bois de marine. 
 
-{{<figure src="/images/articles/calendrier.jpg" title="Une année d'exploitation des marines">}}
+### Calendrier de l’exploitation des marines sur le massif forestier de bercé : 
+     
+**Janvier / février :**
+Efforage, nettoyage des coupes, extraction des houx et du sous-étage. 
+     
+**Mars :** 
+Reconnaissance des bois et martelage des "marines". "Abatage" **(2)** 
+des marines de l’exercice précédent. Mais aussi éhouppement et 
+découpes des houppiers des marines reconnues l’an passé. 
+Comptage des arbres éhouppés avec monsieur l’inspecteur adjoint. 
+     
+**Avril :**
+Reconnaissance des arbres "bifurqués" dans les coupes. 
+Comptage des arbres éhoupés (abattus) et des divers autres 
+produits façonnés. Numérotage des arbres de marine. 
+     
+**Mai :**      
+Marquage des arbres réservés pour la marine.
+Monsieur l’inspecteur adjoint assiste au comptage des bois de marine.
+     
+**Mars à juin :**      
+En brigade au comptage des marines et à la reconnaissance de pièces.
+Réception des produits façonnés. 
+     
+**Juin à septembre :**      
+Évacuation des marines, transport des produits. 
+     
+**Juillet à octobre :** 
+Comptage des produits (chauffage et bourrées) dans les coupes de marine.
+Exploitation, marquage et réception des rebuts de marine 
+(produits inutilisés de l’exercice précédent) et rémanents. 
+     
+**Août :** 
+Marquage des houppiers des pièces de marine pour le chauffage.
+     
+**Octobre :**
+Reconnaissance des « rémanences » en fait : 
+rémanents (restes de houppiers façonnés). 
+Reconnaissance des marines de l’exercice suivant.
+     
+**Novembre à février :** 
+     
+"Abatage"**(2)** des coupes vendues en octobre 
+
      
       Voici donc écoulée…une année de marine.
       Même les copeaux sont récupérés,
@@ -382,7 +425,7 @@ un concept très particulier de sylviculture.
 **(1)** BUFFON (Georges Louis LECLERC, comte de Buffon) 
     1707-1788 écrivain, savant et naturaliste français. 
       
-**(2)** "abatage" avec un seul "t" pour se démarquer ici du terme de boucherie.
+**(2)** "abatage" avec un seul "t" pour se démarquer ici du terme de la boucherie.
       
 **(3)** Édité en 1995 par le club d’histoire locale J.Benoît de Château du Loir
      
