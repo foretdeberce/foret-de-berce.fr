@@ -632,6 +632,8 @@ Disparition d’un faon en forêt –
   (PIE André).*
 
 Braconnage durant la Guerre 1939/1945 : 
+	
+{{<figure src="/images/articles/camisycarnuta.jpg" title="Camisy à découvrir au Musée de l'Homme et de la Forêt : Carnuta">}}	
 
 Les bons mots et proverbes d’Yves Camisy
 	
