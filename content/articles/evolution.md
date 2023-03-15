@@ -1,8 +1,8 @@
 ---
-title: "Évolution"
+title: "PPS sur l'évolution de Bercé"
 date: 2023-03-14T12:23:44+01:00
 draft: false
-description: "d’une forêt d’exception"
+description: "Une forêt d’exception"
 featured_image: "/images/et.lienpps.jpg"
 tags: ["Tourisme","Lieux","Paysage","Hommes"]
 ---
