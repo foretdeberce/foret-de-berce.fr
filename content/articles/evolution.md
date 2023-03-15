@@ -29,12 +29,13 @@ La pression des engins de coupe ou de débardages sur le sol est l’un
 des problèmes important que les forestiers d’aujourd’hui tentent 
 de régler en cloisonnant systématiquement le parterre des coupes.
 
-https://1drv.ms/p/s!AgaR4vMk4AOUeeO4c0mnE2WoBKc
+https://1drv.ms/p/s!AgaR4vMk4AOUe2QYORAkSlGBbGA 
 
 Le **PPS** ci dessus, retrace l’ensemble de ces difficultés,
 avec à la clé pour la forêt la prise en compte de la biodiversité, 
 des méthodes plus respectueuses des sols et de l’environnement, 
 une gestion raisonnée et un sentiment écologique plus fort qu'auparavant…
+**cliquez sur chaque vue !**
 
 **Une sylviculture de pointe dans le respect des traditions …**  
   
