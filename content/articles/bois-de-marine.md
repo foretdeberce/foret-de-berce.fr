@@ -327,7 +327,7 @@ Mais aussi des «Bois de mauvaise figure» comme le disait Buffon **(1)**:
      du Canton de la Gaie-Mariée»* 
 (Brigadier Albrecht-avril 1906).
 
-{{<figure src="/images/articles/marine-sermaize.jpg" title="Bois de marine sélectionné dans Sermaize de nos jours">}}
+{{<figure src="/images/articles/marine-sermaize.jpg" title="Bois de marine sélectionné dans le Pau de nos jours">}}
       
 ### En 1921
      
