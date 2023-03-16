@@ -17,8 +17,6 @@ Il y a 9 articles par page.
 ### Page 1
 
      Sommaire
-     ![image](https://user-        images.githubusercontent.com/57462642/225549595-749506cc-e009-  430b-bf84-a027f29a50a0.png)
-
      PPS sur l'évolution de Bercé
      Guerre 1939/1945
      Les forestiers
