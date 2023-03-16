@@ -249,7 +249,7 @@ Nous constatâmes alors que l’andouiller de massacre du bien nommé Terminator
 le cerf sur le flan au niveau de la colonne vertébrale lui assénant ainsi le coup fatal.  
 
 
-### Epilogue
+### Épilogue
  
 Quelle curieuse coïncidence que ce pauvre Mathieu soit venu, en ce 21 septembre, périr au pied de Daniel Girard,
 le jour même de la Saint Mathieu.
@@ -285,7 +285,7 @@ Le danger rôde la nuit et la nature, parfois, semble hostile!
 Son oeuvre d’éducation se poursuit auprès des photographes en herbe qui veulent affronter comme lui,
 cette vraie nature pour en découvrir toute la beauté cachée. 
  
- {{<youtube id="lC-tl3hxZhQ" autoplay="true">}}
+{{<youtube id="lC-tl3hxZhQ">}}
  
 ### Dans la peau du cerf de Bercé
 Une vidéo de Daniel Girard, dans laquelle il
