@@ -31,7 +31,9 @@ Dédié à la mémoire de
 Georges France Muriel, 
 ce samedi 9 mars 2002 
 
-{{<youtube id="tuPABUCKjqU" autoplay="true">}}
+{{<youtube id="tuPABUCKjqU">}}
+  
+  
 {{<figure src="/images/articles/image1.jpg" title="Emplacement du chêne Muriel">}}
 
 
@@ -121,7 +123,7 @@ C'est ainsi que le 9 mars 1944, vers 11 h 30, dénoncé par un agent à la solde
 M. Viney, alors inspecteur et ses collègues de travail, dont plusieurs sont présents 
   aujourd'hui, tentèrent, en vain, d'empêcher cette arrestation.*
   
-  [Lettre de Viney à Madame Muriel](/articles/pdf/lettreviney19440309.pdf)
+[Lettre de Viney à Madame Muriel](/articles/pdf/lettreviney19440309.pdf)
   
 *Ils le virent partir, encadré par deux membres de la Gestapo*.
   
