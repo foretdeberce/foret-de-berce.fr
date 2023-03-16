@@ -2,7 +2,7 @@
 title: "La Forêt, l'Homme et Bercé"
 date: 2022-09-28T10:21:25+01:00
 draft: false
-description: "de 4 jeunes sur Bercé"
+description: "La vision de jeunes forestiers"
 featured_image: "/images/et.dron.jpg"
 tags: ["Arbres","Curiosités","hommes","travaux"]
 ---
@@ -13,4 +13,4 @@ Louis, Arthur et Côme (étudiants)
 et Guillaume (photographe animalier).
 
 
-{{<youtube id="IcelTcBckeE" autoplay="true">}}
+{{<youtube id="IcelTcBckeE">}}
