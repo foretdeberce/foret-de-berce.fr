@@ -8,7 +8,8 @@ tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques","Armement","M
 ---
 
 
-LES ÉCOLES FORESTIÈRES ET BERCÉ
+**Les Écoles Forestières et Bercé**
+
 ….Une grande complicité ……….
 
 ### E.N.E.F: (créé en 1823)
