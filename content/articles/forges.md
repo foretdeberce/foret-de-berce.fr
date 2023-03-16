@@ -4,7 +4,7 @@ date: 2022-09-18T17:23:44+01:00
 draft: false
 description: "Jupilles"
 featured_image: "/images/forges.jpg"
-tags: ["Forestiers","MF"]
+tags: ["Forestiers","MF","Hommes"]
 ---
 
 La maison forestière des Forges est située sur la commune de Jupilles.
