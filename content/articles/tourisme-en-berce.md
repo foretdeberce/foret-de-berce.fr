@@ -92,7 +92,7 @@ intérêts particuliers.
 Point de vue partagé par le Brigadier Albrecht.
 Cordons d’arbres réservés le long des routes
 
-{{<youtube id="hHovPnvJXkw" autoplay="true">}}
+{{<youtube id="hHovPnvJXkw">}}
   
 Vidéo proposée @ DJi Phantom 3 Standard, 
   survol Foret de Bercé, le 20-11-2019.
@@ -194,9 +194,8 @@ Confection de l'accès au Chemin de la Coudre (voir route) – délimitation du 
   Aujourd'hui Bercé attire par sa renommée quantité de monde
   
 ### Cette petite présentation vous donnera peut-être l'envie de la parcourir.
-  
-  {{<youtube id="O8nrNpmKvR8" autoplay="true">}}
-  
+
+{{<youtube id="O8nrNpmKvR8">}}  
   
 ### Bibliographie : 
   
