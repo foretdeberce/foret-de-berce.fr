@@ -9,15 +9,20 @@ tags: ["Tourisme","Lieux","Paysage","Hommes"]
 
 
 
-Ce sommaire vous sera bien utile en attendant le développement d'un moteur de recherche. 
+Ce sommaire vous sera bien utile en attendant 
+le développement d'un moteur de recherche. 
+
 
 Il vous permettra d'accéder directement au sujet recherché 
 par le biais des pages 1 à 13 pour le moment.
 
+
 Il y a 9 articles par page.
+
 
 **Il ne vous reste plus dans cette page qu'à cliquer
 sur le lien qui vous intéresse !**
+
 
 
 
