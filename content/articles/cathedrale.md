@@ -67,5 +67,3 @@ L’exploitation des géants
 {{<youtube id="awjEiKaEJAg">}}
 On en parle aussi sur CNN 
 
-href="https://www.francetvinfo.fr/culture/patrimoine/incendie-de-notre-dame-de-paris/notre-dame-le-socle-de-la-fleche-reconstruit-en-meurthe-et-moselle_5715014.html"
-      
