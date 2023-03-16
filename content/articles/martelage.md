@@ -274,12 +274,12 @@ aux préposés forestiers de visiter et de marteler bon nombre de propriétés p
   très voisines, mais cependant, pour Viney, 
   des nuances plus conservatrices que pour moi.*
 
-{{<youtube id="tFKv-eMuWTI" autoplay="true">}}
+{{<youtube id="tFKv-eMuWTI">}}
   
 ### Archive de l'I.N.A. (1994) sur le martelage en forêt de Bercé.
   
   
-{{<youtube id="rhtsuClFpYE" autoplay="true">}} 
+{{<youtube id="rhtsuClFpYE">}}
   
 ### En fin d'année 2021 Le Meilleurs des Mags sur France 3 
 c'est en Sarthe, en forêt de Bercé ...
