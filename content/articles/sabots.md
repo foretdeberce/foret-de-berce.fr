@@ -1,8 +1,8 @@
 ---
-title: "Sabots"
+title: "la saboterie"
 date: 2022-09-28T13:21:25+01:00
 draft: false
-description: " Un exemple de saboterie "
+description: " L'industrie locale "
 featured_image: "/images/et.sabots.jpg"
 tags: ["Bûcherons","artisans","Boisiers","travaux"]
 ---
