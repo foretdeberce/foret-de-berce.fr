@@ -253,7 +253,7 @@ Les résultats sont spectaculaires. Des structures complètement effacées
   
 {{<figure src="/images/articles/023sermaize.jpg" title="Vue du camp des Sarmates en fond de vallon">}}
   
-{{<youtube id="mA0jFQVvYN4" autoplay="true">}}
+{{<youtube id="mA0jFQVvYN4">}}
   
 Quand à la rédaction de nos aménagements forestiers, 
   ils seront sans nul doute impactés par cette technique. 
