@@ -67,6 +67,6 @@ L’exploitation des géants
 {{<youtube id="awjEiKaEJAg">}}
 On en parle aussi sur CNN 
 
-En mars 2023, la flèche monte à bon rythme.
+En mars 2023, le tabouret de la flèche monte à bon rythme.
   
 https://www.tf1.fr/player/d9f5e40f-f747-4676-9f40-9917a699f383?startAt=0 
