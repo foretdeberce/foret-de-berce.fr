@@ -29,6 +29,8 @@ La pression des engins de coupe ou de débardages sur le sol est l’un
 des problèmes important que les forestiers d’aujourd’hui tentent 
 de régler en cloisonnant systématiquement le parterre des coupes.
 
+### Évolution des règles de culture à Bercé
+
 https://1drv.ms/p/s!AgaR4vMk4AOUe2QYORAkSlGBbGA 
 
 Le **PPS** ci dessus, retrace l’ensemble de ces difficultés,
