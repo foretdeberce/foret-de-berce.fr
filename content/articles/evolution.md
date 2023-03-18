@@ -7,7 +7,7 @@ featured_image: "/images/et.lienpps.jpg"
 tags: ["Tourisme","Lieux","Paysage","Hommes"]
 ---
 
-### Aujourd'hui, le 18 avril 2023
+### Aujourd'hui, 18 avril 2023
 
 Pour sa 5ème édition, les acteurs de **Bercé Forêt d’Exception** et 
 ses partenaires fêtent ***la Journée Internationale des forêts***.
