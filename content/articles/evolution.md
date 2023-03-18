@@ -31,7 +31,7 @@ de régler en cloisonnant systématiquement le parterre des coupes.
 
 ### Évolution des règles de culture à Bercé
 
-https://1drv.ms/p/s!AgaR4vMk4AOUe2QYORAkSlGBbGA 
+https://1drv.ms/p/s!AgaR4vMk4AOUfYmv9--K68mwasw 
 
 Le **PPS** ci dessus, retrace l’ensemble de ces difficultés,
 avec à la clé pour la forêt la prise en compte de la biodiversité, 
