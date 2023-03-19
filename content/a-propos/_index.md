@@ -13,12 +13,18 @@ De tout temps, les hommes et les femmes ont trouvé refuge,
   source d’énergie et nourriture en forêt de Bercé.
   
 Mais la forêt d’antan ne ressemblait en rien à celle que nous fréquentons.
+
+En lieu et place de la forêt, pâtures et cultures organisaient l'espace.
+
+l'essartage était alors en développement.
   
 Au fil des siècles, l’homme en a façonné patiemment les contours
   pour en faire ce qu’elle est devenue aujourd’hui.
 
-Réputée pour son chêne tendre car poussant lentement dans un environnement de qualité, 
-Bercé, la discrète et la prestigieuse, vient de recevoir le label **Forêt d’Exception**.
+Réputée aujourd'hui pour son chêne tendre car poussant 
+lentement dans un environnement de qualité, 
+Bercé, la discrète et la prestigieuse, 
+s'est vu décerner le label **Forêt d’Exception**.
   
 {{<youtube id="Ye9yVmQM3AQ">}}
   
@@ -61,9 +67,9 @@ Il vous est dédié.
   
 Vous possédez des anecdotes, des textes, des photos que vous désirez vous aussi partagez !
   
-Vous souhaitez rectifier des erreurs ou incohérences !
+**Vous souhaitez rectifier des erreurs ou incohérences !**
   
-**Contactez-moi :**
+Contactez-moi à l'adresse suivante :
   
 foretdeberce@gmail.com 
 
