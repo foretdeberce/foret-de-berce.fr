@@ -7,10 +7,14 @@ featured_image: "/images/et.lienpps.jpg"
 tags: ["Tourisme","Lieux","Paysage","Hommes"]
 ---
 
-### Aujourd'hui, 18 mars 2023
+### Le 18 mars 2023
 
 Pour sa 5ème édition, les acteurs de **Bercé Forêt d’Exception** et 
-ses partenaires fêtent ***la Journée Internationale des forêts***.
+ses partenaires ont fêté malgré le temps maussade (mais de saison)
+
+***la Journée Internationale des forêts***.
+
+**Rendez-vous en mars prochain pour la JIF 2024 !**
 
 Bercé fait depuis le 17ème siècle l’objet de l’attention sans 
 faille des forestiers qui en ont la charge.
@@ -31,13 +35,15 @@ de régler en cloisonnant systématiquement le parterre des coupes.
 
 ### Évolution des règles de culture à Bercé
 
+**Une sylviculture de pointe dans le respect des traditions …**  
+
 https://1drv.ms/p/s!AgaR4vMk4AOUfzAKgwsCIyDFfTk
 
-Le **PPS** ci dessus, retrace l’ensemble de ces difficultés,
-avec à la clé pour la forêt la prise en compte de la biodiversité, 
-des méthodes plus respectueuses des sols et de l’environnement, 
+Le **Diaporama PowerPoint** ci dessus, retrace l’ensemble des difficultés,
+à prendre en compte la biodiversité, l’environnement etle climat tout en ayant
 une gestion raisonnée et un sentiment écologique plus fort qu'auparavant…
-**cliquez sur chaque vue !**
 
-**Une sylviculture de pointe dans le respect des traditions …**  
+Bonne lecture !
+
+
   
