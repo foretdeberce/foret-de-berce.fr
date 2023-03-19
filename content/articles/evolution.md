@@ -14,7 +14,7 @@ ses partenaires ont fêté malgré le temps maussade (mais de saison)
 
 ***la Journée Internationale des forêts***.
 
-**Rendez-vous en mars prochain pour la JIF 2024 !**
+**Rendez-vous en mars prochain pour la 6ème édition de la JIF 2024 !**
 
 Bercé fait depuis le 17ème siècle l’objet de l’attention sans 
 faille des forestiers qui en ont la charge.
