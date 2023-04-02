@@ -277,9 +277,45 @@ m'admirer sans la moindre gêne.*
   
 L'Œuvre d'Art et la Beauté… Le Beau dans la Nature  
 
-L'ordre de beauté qui impressionne dans la forêt émane de la vie puissante qu'on y voit partout circuler. Ici point de ces bosquets arrangés, de ces bois artificiels où les arbres semblent obéir à un mot d'ordre et se grouper avec la permission de l'homme. Des végétations somptueuses couvrant de vastes domaines, et dont le forestier se borne à corriger ou à diriger les fantaisies, sans entraver l'exubérance et la finalité de la nature vivante. On la saisit différente dans l'arbre et dans la collectivité. 
-Le chêne parle tout entier de sa robustesse : l'écorce rugueuse, le tronc solide, l'armature des branches, la couronne arrondie en crinière, et les racines bien apparentes, si énergiquement enfoncées dans le sol, qu'elles semblent devoir " toucher à l'empire des morts ". **(*)** Avez-vous remarqué comme la beauté du chêne grandit quand on songe à sa longévité, ou que la vue d'un gland nous reporte à ses origines modestes ? C'est qu'alors de nouvelles relations d'ordre alimentent l'intelligence et enrichissent sa contemplation. La durée est un indice de la force, et on comprend que les druides aient divinisé, dans les forêts vierges de la Gaule, l'arbre dont la vigueur symbolisait pour eux la vie. Le cycle des saisons montre la. beauté du chêne sous des aspects divers, parce qu'il met en valeur les manifestations variées de sa force vitale. La lumière vive du printemps accuse les reliefs de l'écorce, et dépose un sourire sur le vert tendre des feuilles. L'été déploie les frondaisons luxuriantes et sombres. L'automne les couvre de paillettes d'or, et, quand décembre a dépouillé la couronne, Tarière apparaît tout nu, montrant les détails de son ossature. Formes des feuilles et des branches, lignes du tronc et de la tête, couleurs des parties et de l'ensemble, tout s'ordonne et converge vers une impression unique. Que dire du vent qui prête à l'arbre l'apparence du mouvement autonome, et contribue à faire de chaque chêne une individualité : c'est la brise légère qui frissonne dans les feuilles sans remuer les branches, c'est le vent d'automne qui sème les feuilles mourantes, ou encore l'ouragan dont l'effort fait ressortir la force du colosse. 
-**(*)**	Dans la forêt de Bersay, entre le Mans et Château-du-Loir, le chêne Bopp a vingt mètres de haut; il est droit comme une colonne; pas un nœud ne dépare le tronc qui s'est développé en torsade ; la couronne est symétriquement développée. Cet arbre-roi, entouré d'une cour d'autres géants, est une des merveilles forestières de la France. 
+L'ordre de beauté qui impressionne dans la forêt émane de la vie puissante 
+  qu'on y voit partout circuler. Ici point de ces bosquets arrangés, 
+  de ces bois artificiels où les arbres semblent obéir à un mot d'ordre
+  et se grouper avec la permission de l'homme. 
+  Des végétations somptueuses couvrant de vastes domaines, et dont le forestier 
+  se borne à corriger ou à diriger les fantaisies, sans entraver 
+  l'exubérance et la finalité de la nature vivante. 
+  On la saisit différente dans l'arbre et dans la collectivité. 
+Le chêne parle tout entier de sa robustesse : l'écorce rugueuse, le tronc solide,
+  l'armature des branches, la couronne arrondie en crinière, 
+  et les racines bien apparentes, si énergiquement enfoncées dans le sol, 
+  qu'elles semblent devoir " toucher à l'empire des morts ".
+  **(*)** Avez-vous remarqué comme la beauté du chêne grandit quand on songe
+  à sa longévité, ou que la vue d'un gland nous reporte à ses origines modestes ? 
+  C'est qu'alors de nouvelles relations d'ordre alimentent l'intelligence et
+  enrichissent sa contemplation. La durée est un indice de la force, 
+  et on comprend que les druides aient divinisé, dans les forêts 
+  vierges de la Gaule, l'arbre dont la vigueur symbolisait pour eux la vie.
+  Le cycle des saisons montre la. beauté du chêne sous des aspects divers,
+  parce qu'il met en valeur les manifestations variées de sa force vitale. 
+  La lumière vive du printemps accuse les reliefs de l'écorce, et dépose
+  un sourire sur le vert tendre des feuilles. L'été déploie les frondaisons
+  luxuriantes et sombres. L'automne les couvre de paillettes d'or, et, 
+  quand décembre a dépouillé la couronne, Tarière apparaît tout nu, montrant 
+  les détails de son ossature. Formes des feuilles et des branches, 
+  lignes du tronc et de la tête, couleurs des parties et de l'ensemble,
+  tout s'ordonne et converge vers une impression unique. Que dire du vent 
+  qui prête à l'arbre l'apparence du mouvement autonome, et contribue à faire 
+  de chaque chêne une individualité : c'est la brise légère qui frissonne 
+  dans les feuilles sans remuer les branches, c'est le vent d'automne qui 
+  sème les feuilles mourantes, ou encore l'ouragan dont l'effort fait 
+  ressortir la force du colosse. 
+  
+**(*)**	Dans la forêt de Bersay, entre le Mans et Château-du-Loir, 
+  le chêne Bopp a vingt mètres de haut; il est droit comme une colonne;
+  pas un nœud ne dépare le tronc qui s'est développé en torsade ; 
+  la couronne est symétriquement développée. Cet arbre-roi,
+  entouré d'une cour d'autres géants, 
+  est une des merveilles forestières de la France. 
 
 
 ### Joël SADELER
