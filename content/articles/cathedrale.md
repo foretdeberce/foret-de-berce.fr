@@ -45,28 +45,34 @@ Bercé fut la première à se mettre en œuvre le dispositif.
 ### Les acteurs de la filière bois vous interpellent.
 
 {{<youtube id="vOUzmAMd81Q">}}
-Les premiers chênes marqués pour la flèche.
+Les premiers chênes marqués pour la flèche. **(2'06)**.
 
 {{<youtube id="_HD2Jwc1kBA">}}
-Huit chênes de Bercé pour Notre Dame de Paris.
+Huit chênes de Bercé pour Notre Dame de Paris. **(0'28)**
   
 {{<youtube id="5BZFGLlB6K0">}}
-Le savoir faire de toute une profession.
+Le savoir faire de toute une profession. **(6'32)**
 
 {{<youtube id="JMwiSfucalg">}}
-Reportage de France-Bois-Forêt.
+Reportage de France-Bois-Forêt. **(5'04)**
+  
 {{<youtube id="xjk_bXF9_N4">}}
-Les opérations de transport
+Les opérations de transport. **(2'20)**
 
 {{<youtube id="uTjmWHv4Yx8">}}
-En route pour la Scierie des Géants en Mayenne.
+En route pour la Scierie des Géants en Mayenne. **(2'02)**
 
 {{<youtube id="lX8p8MQCwc4">}}
-L’exploitation des géants
+L’exploitation des géants. **(1'57)**
 
 {{<youtube id="awjEiKaEJAg">}}
-On en parle aussi sur CNN 
+On en parle aussi sur CNN. **(6'19)**
 
-En mars 2023, le tabouret de la flèche monte à bon rythme.
+### En mars 2023, le tabouret de la flèche monte à bon rythme.
   
-https://www.tf1.fr/player/d9f5e40f-f747-4676-9f40-9917a699f383?startAt=0 
+{{<youtube id="wqZMH5UzxsM">}}
+Fin du montage à blanc du tabouret de la flèche. **(4'04)**
+
+
+{{<youtube id="Yuw3rVbBGvo">}}
+L'histoire de la restitution à l'identique de la charpente. **(26'17)**
