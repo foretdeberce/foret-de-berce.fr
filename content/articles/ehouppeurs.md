@@ -174,7 +174,7 @@ Ses débuts, il les fait en 1956, avec Raymond et Camille Lemoine
   (il possède alors la première tronçonneuse sur Bercé). 
   Il a terminé sa carrière en 1986.
   
-{{<figure src="/images/articles/guillier3.jpg" title="Édouard Guillier éhouppe un peuplier ">}}
+{{<figure src="/images/articles/guillier3.jpg" title="Édouard Guillier éhouppe un chêne">}}
 
 Le film Chronique de Bercé relate ce dur métier. Édouard et sa famille en sont les vedettes.
   
@@ -240,7 +240,8 @@ Venant du nord du département, Guy rayonne sur l’ensemble des forêts.
 Le voici dans ses œuvres, en décembre 1985 sur l’éhouppement 
   d’un des plus gros chênes de la futaie des Clos.
   
-{{<youtube id="i1fUIymk8Lg" autoplay="true">}}
+   
+{{<youtube id="i1fUIymk8Lg">}}
   
 *Voici le film muet (sonorisé tant bien que mal) de l'exploitation 
   d'un des plus gros chêne de la futaie des clos qui venait de dépérir.*
