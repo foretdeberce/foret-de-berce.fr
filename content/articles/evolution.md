@@ -51,7 +51,7 @@ Sa dimension culturelle est désormais reconnue.
 {{<youtube id="vja6a0Q0l-E">}}
   
 
-**La futaie régulière **
+## La futaie régulière 
   
 *(technique sylvicole dédiée aux bois de qualité, consistant à faire pousser 
 des arbres d'âges sensiblement identiques sur une période de 100 à 200 ans)* 
