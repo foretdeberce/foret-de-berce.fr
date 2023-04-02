@@ -9,7 +9,7 @@ tags: ["Tourisme","Loisirs","Biodiversite","Eau","Hommes"]
 
 
 Au printemps 1997 : une coupe sanitaire a eu lieu au niveau
-des sources, (modification du paysage et de la perspective, 
+des sources, (Réécriture du paysage et de la perspective, 
 ceci dans le but d’améliorer la sécurité) : en 1992 la chute 
 d’une grosse branche écrase une R12 de collection en forêt,
 sur le parking des sources …en 96 le risque s’intensifie. 
