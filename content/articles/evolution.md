@@ -43,14 +43,19 @@ de régler en cloisonnant systématiquement le parterre des coupes.
 
 **Depuis le 8 juin 2022**
 
-La sylviculture régulière du chêne n’est pas seulement une affaire technique, environnementale ou économique. 
+La sylviculture régulière du chêne n’est pas seulement une affaire technique,
+environnementale ou économique. 
+
 Sa dimension culturelle est désormais reconnue.
 
 {{<youtube id="vja6a0Q0l-E">}}
 
 La futaie régulière **(1)** 
-**(1)** *(technique sylvicole dédiée aux bois de qualité, consistant à faire pousser des arbres d'âges sensiblement identiques sur une période de 100 à 200 ans)* 
+**(1)** 
+*(technique sylvicole dédiée aux bois de qualité, consistant à faire pousser 
+des arbres d'âges sensiblement identiques sur une période de 100 à 200 ans)* 
 est inscrite à l'inventaire national du patrimoine culturel immatériel.
+  
 Elle dispose désormais de sa propre fiche d’inventaire,
 publiée par le ministère de la Culture.
 
