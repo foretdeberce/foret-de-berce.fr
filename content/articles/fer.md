@@ -11,7 +11,8 @@ tags: ["Tourisme","Archéologie","Aménagement","Sylviculture","Exploitation"]
 ### La forme et le fond :
 
 Tout désignait Bercé pour l'exploitation du fer.
-Dans les profondeurs du massif forestier, des excavations, 
+Dans les profondeurs du massif forestier,
+en forme de **"fer à cheval"**, des excavations, 
 des monticules, des talus sans fin, 
 témoignent de l’entreprise et de la sagacité des hommes.
 
