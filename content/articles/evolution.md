@@ -50,10 +50,11 @@ Sa dimension culturelle est désormais reconnue.
 
 {{<youtube id="vja6a0Q0l-E">}}
 
-La futaie régulière **(1)** 
-**(1)** 
+**La futaie régulière **
+  
 *(technique sylvicole dédiée aux bois de qualité, consistant à faire pousser 
 des arbres d'âges sensiblement identiques sur une période de 100 à 200 ans)* 
+  
 est inscrite à l'inventaire national du patrimoine culturel immatériel.
   
 Elle dispose désormais de sa propre fiche d’inventaire,
