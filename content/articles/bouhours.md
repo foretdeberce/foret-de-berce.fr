@@ -8,7 +8,7 @@ tags: ["Art","Poésie"]
 ---
 
 
-Cette page de poèmes est dédiée à notre ami 
+Cette page de poèmes est dédiée à notre ami **(1)**
 Marc Bouhours, de Saint-Vincent-du-Lorouër. 
 Ce rédacteur d’**« Au Fil du Temps »** aimait à se 
 ressourcer dans le bas de la côte de la Jument Blanche. 
@@ -88,10 +88,10 @@ Moralité : Croit quoi ? ! ...
 {{<figure src="/images/articles/chateaudefollets.jpg" title="Faces avant et arrière de Follet">}}   
   
   
-## D'autres poètes ont écrit sur la forêt de Bercé :  
+## D'autres artistes ont magnifié la forêt de Bercé :  
   
   
-### Charles MORANCÉ 
+### Charles MORANCÉ (2)
 
 Il habita un temps au Grand-Lucé, est né en 1872 au Mans, rue Montoise,
   d’une lignée de fabricants de toiles. À 18 ans, après des études au lycée du Mans, 
@@ -100,6 +100,8 @@ Il habita un temps au Grand-Lucé, est né en 1872 au Mans, rue Montoise,
   au Mans et, suite à un second mariage, s’installa au Grand-Lucé, où il peint 
   et dessine avec finesse nos paysages locaux : le ruisseau de Sambris, 
   la forêt de Bercé, le bourg de Villaines-sous-Lucé, etc.
+
+[En forêt de Bercé par C.Morancé](/articles/pdf/poesie-morance.pdf)
   
 La notoriété de Charles MORANCÉ s’étend largement à notre province, 
   avec ses magnifiques portraits peints à l’huile de monseigneur GRENTE,
@@ -113,7 +115,7 @@ La précision de son trait dans le détail, la vie dans ses portraits
 Il est mort en 1935. Ses obsèques eurent lieu le 14 novembre au Mans,
   en l’église Notre-Dame du Pré.
 
-### Roger VERCEL 
+### Roger VERCEL (3)
   
 De son vrai nom - dur à porter - CRÉTIN, Roger VERCEL est né le 
   8 janvier 1894 au Mans, boulevard de la République, dans la maison 
@@ -157,8 +159,78 @@ Car pour avoir parcouru les forêts des Carpates et de Russie, celles de Norvèg
   le brouillard de la jeune verdure, à l’automne lorsqu’y éclatent les ors et 
   les bronzes, donne à tous ceux qui sont capables de le ressentir, 
   l’inoubliable choc d’une beauté souveraine. […]**
+  
+### Madeleine LEGEAY-DE WILDE (4)
+  
+Dans la grande forêt, je suis allée me promener.
+Comme le petit Chaperon Rouge, j'ai folâtré dans les clairières 
+  ensoleillées cherchant la violette et la pervenche. 
+  Mais je n'ai pas ren¬contré le loup.
+Sous les hautes futaies de chê¬nes mes pas se sont égarés, 
+  faisant crisser les feuilles mortes de l'autre automne.
+Et, devant les fûts élégants et forts, s'élevant tout droits 
+  jusqu'à l'épanouisse¬ment  des  maîtresses-branches
+  j'ai mesuré ma petitesse.
+Comme naguère le Petit Poucet, j'ai senti l'immensité de la forêt,
+  sa vie intense et formidable.
+Je n'ai pas grimpé sur un grand chêne pour essayer de découvrir mon chemin.
+  Car la forêt maintenant est sillonnée de routes jalonnées de panneaux précis et nombreux.
+Mais, du haut d'une côte, au  milieu d'un carrefour, j'ai vu à l'infini
+  le moutonnement vert et doux des bois au début du printemps.
+J'ai vu des chênes et des hêtres de 250 ans, magnifiques de force paisible et tutélaire.
+J'ai vu courir l'eau vive des ruisseaux sur le sable clair et les cailloux ronds.
+J'ai vu les grands étangs limpides et calmes, purs miroirs du ciel bleu,
+  bordés de roseaux jaseurs, tout frémissants  d'ondes brèves, rayés de vols d'oiseaux.
+J'ai vu des troncs martelés pour un  prochain abattage, 
+  d'autres couchés à terre, grands corps pitoyables et magnifiques.
+J'ai vu des taillis épais de châtaigniers auxquels se mêlaient les troncs clairs des bouleaux.
+Devant les trembles, j'ai redit les vers de Paul Fort :
 
-### Christian Pineau : Histoire du petit hêtre. 
+**Tremble comme un tremble,
+Contre mon cœur,
+Sois un rayon qui tremble, 
+Doux comme la soie.**
+  
+J'ai respiré l'odeur sèche et salubre des pins sombres ; 
+  sur leurs troncs rouges j'ai vu rire le soleil qui faisait plus bleu leur feuillage.
+Et, perdue dans la grande forêts j'ai songé à ceux qui ne vivent, 
+  que pour elle, veillant dessus, la protégeant, l'aimant farouchement de tout leur cœur humain.
+Tous ces « forestiers » (qu'ils soient conservateurs des Eaux et
+  Forêts ou simples gardes, ce sont toujours et avant tout des forestiers)
+  ne céderaient pas leur place pour un empire.
+La forêt est à eux. C'est leur domaine immense, toujours nouveau, 
+  renfermant des trésors con¬nus d'eux seuls.
+En réalisateurs positifs, conscients des richesses qui leur sont confiées
+  et du patrimoine vivant et magnifique sur lequel ils doivent jalousement veiller,
+  ils peuvent évaluer, vingt-cinq ans à l'avance, le cubage de bois de
+  tel arbre ou de telle région de la forêt.
+C'est eux qui s'occupent de l'aménagement des forêts domaniales, 
+  choisissant les coupes, surveillant les exploitations, effectuant les ventes.
+L'entretien  des  routes,  des plantations, des pépinières, des maisons forestières, 
+  la réglementation de la pêche sur les rivières non navigables, 
+  de la chasse en foret, tout cela relève de leur domaine.
+N'importe quel forestier de notre région finira toujours par 
+  vous parler de la célèbre forêt de Bercé ou Jupilles, le joyau de la Sarthe.
+Cette qualité tient à ce que depuis toujours notre forêt de Jupilles a
+  été soignée et merveilleusement entretenue.
+Un chêne de Bercé fait couramment 18 mètres de fût propre, donnant un 
+  cubage de 6 à 7 m3 en général. Quand on sait que le prix du mètre cube
+  varie de 10 à 20.000 francs, on perçoit la richesse et la valeur d'une pa¬reille futaie.
+Les forestiers doivent aussi s'intéresser aux hôtes de nos bois, 
+  voire à leur destruction lorsqu'ils  menacent,  par  leur nombre,  
+  de  devenir  un vrai fléau.
+C'est ainsi que, chassés de l'Est par la guerre, des tribus entières 
+  de sangliers ont émigré dans nos régions. Pas du tout ou très 
+  peu chassés durant toute l'occupation, ils ont eu la vie magnifique
+  et se sont multipliés dans d’effarantes proportions.
+Tout cela, les forestiers vous le diront, chiffres en mains.
+Mais tandis qu'ils vous parlent ainsi sur un ton neutre, 
+  comme s'ils traitaient une affaire commerciale, avec un apparent détachement,
+  regardez un peu leurs yeux. Et vous saurez alors, comme je n'en doutais
+  depuis longtemps, que tout « forestier » est d'abord et avant tout un poète.
+
+
+### Christian Pineau : Histoire du petit hêtre. (5)
 
 Le grand chêne était déjà vieux et solennel lorsque
 le  petit  hêtre  commença  timidement  sa carrière
@@ -200,16 +272,41 @@ les  hommes  installèrent  en  tas  sur les  bords  du  chemin.
 de ces parasites qui grouillaient à mon pied, me volant
 ma sève. Désormais les habitants de la forêt pourront
 m'admirer sans la moindre gêne.*
+  
+### Maurice Marie Charles Joseph De Wulf.(6)
+  
+L'Œuvre d'Art et la Beauté… Le Beau dans la Nature  
+
+L'ordre de beauté qui impressionne dans la forêt émane de la vie puissante qu'on y voit partout circuler. Ici point de ces bosquets arrangés, de ces bois artificiels où les arbres semblent obéir à un mot d'ordre et se grouper avec la permission de l'homme. Des végétations somptueuses couvrant de vastes domaines, et dont le forestier se borne à corriger ou à diriger les fantaisies, sans entraver l'exubérance et la finalité de la nature vivante. On la saisit différente dans l'arbre et dans la collectivité. 
+Le chêne parle tout entier de sa robustesse : l'écorce rugueuse, le tronc solide, l'armature des branches, la couronne arrondie en crinière, et les racines bien apparentes, si énergiquement enfoncées dans le sol, qu'elles semblent devoir " toucher à l'empire des morts ". **(*)** Avez-vous remarqué comme la beauté du chêne grandit quand on songe à sa longévité, ou que la vue d'un gland nous reporte à ses origines modestes ? C'est qu'alors de nouvelles relations d'ordre alimentent l'intelligence et enrichissent sa contemplation. La durée est un indice de la force, et on comprend que les druides aient divinisé, dans les forêts vierges de la Gaule, l'arbre dont la vigueur symbolisait pour eux la vie. Le cycle des saisons montre la. beauté du chêne sous des aspects divers, parce qu'il met en valeur les manifestations variées de sa force vitale. La lumière vive du printemps accuse les reliefs de l'écorce, et dépose un sourire sur le vert tendre des feuilles. L'été déploie les frondaisons luxuriantes et sombres. L'automne les couvre de paillettes d'or, et, quand décembre a dépouillé la couronne, Tarière apparaît tout nu, montrant les détails de son ossature. Formes des feuilles et des branches, lignes du tronc et de la tête, couleurs des parties et de l'ensemble, tout s'ordonne et converge vers une impression unique. Que dire du vent qui prête à l'arbre l'apparence du mouvement autonome, et contribue à faire de chaque chêne une individualité : c'est la brise légère qui frissonne dans les feuilles sans remuer les branches, c'est le vent d'automne qui sème les feuilles mourantes, ou encore l'ouragan dont l'effort fait ressortir la force du colosse. 
+**(*)**	Dans la forêt de Bersay, entre le Mans et Château-du-Loir, le chêne Bopp a vingt mètres de haut; il est droit comme une colonne; pas un nœud ne dépare le tronc qui s'est développé en torsade ; la couronne est symétriquement développée. Cet arbre-roi, entouré d'une cour d'autres géants, est une des merveilles forestières de la France. 
 
 
+### Joël SADELER
+  
+[Je voudrais être un arbre](/articles/pdf/joelsadeler.pdf)
 
   
-### Bibliographie : 
+### Bibliographie :  
   
-**Écrits de notre ami d'Au Fil Du Temps (Ref : AFDT n° 21 du 30 septembre 2003)**
+**(1)** Écrits de notre ami d'Au Fil Du Temps (Ref : AFDT n° 21 du 30 septembre 2003)
   
-**Charles MORANCÉ par Marc BOUHOURS (AFDT n° 6 du 24 août 1999)**  
+**(2)** Charles MORANCÉ par Marc BOUHOURS (AFDT n° 6 du 24 août 1999)  
   
-**Roger VERCEL par Marc BOUHOURS (AFDT n° 9 DU 30 septembre 2000)**  
+**(3)** Roger VERCEL par Marc BOUHOURS (AFDT n° 9 DU 30 septembre 2000)  
   
-**Histoires de la forêt de Bercé - Christian PINEAU 1958 (Histoire du petit hêtre)** 
+**(4)** FORETS DE CHEZ NOUS "les Cahiers du « Maine Libre-Madeleine LEGEAY-DE WILDE." 
+  2ème année N° 18 – Mai 1946
+  
+**(5)** Histoires de la forêt de Bercé - Christian PINEAU 1958 (Histoire du petit hêtre) 
+  
+**(6)** Maurice Marie Charles Joseph De Wulf (1867-1947) est un historien belge de la philosophie médiévale.
+Il fut professeur l'université catholique de Louvain (Institut supérieur de philosophie) et à Harvard.
+(Parution : 1920 - L'Œuvre d'art et la beauté -  pages 128 et 129)
+Conférence faite par  Maurice  de Wulf (professeur à l'université de Louvain) au sein de la faculté des Lettres de Poitiers  en 1915/1916.
+  
+ANDRÉ HALLAYS (publiciste) a écrit sur la sauvegarde du chêne Boppe 
+
+Henry ROQUET a écrit "Les beaux vieux arbres de la Sarthe"
+
+
