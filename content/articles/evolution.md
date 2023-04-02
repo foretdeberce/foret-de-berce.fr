@@ -68,9 +68,10 @@ publiée par le ministère de la Culture.
 
 https://1drv.ms/p/s!AgaR4vMk4AOUfzAKgwsCIyDFfTk
 
-Le **Diaporama PowerPoint** ci dessus, retrace l’ensemble des difficultés,
+Le **Diaporama PowerPoint** 
+ci-dessus, retrace l’ensemble des difficultés,
 à prendre en compte la biodiversité, l’environnement et le climat ...
-  tout en ayant une gestion raisonnée et un sentiment écologique plus fort qu'auparavant…
+tout en conservant une gestion raisonnée et un sentiment écologique plus fort qu'auparavant…
 
 Bonne lecture !
 
