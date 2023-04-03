@@ -276,7 +276,7 @@ sur le lien qui vous intéresse !**
      La saboterie
      https://www.foret-de-berce.fr/articles/sabots/
      
-     Marc Bouhours (poète)
+     Le Cercle des poètes disparus
      https://www.foret-de-berce.fr/articles/bouhours/
      
      La forêt, l'Homme et Bercé
