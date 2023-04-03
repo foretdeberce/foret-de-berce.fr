@@ -363,6 +363,12 @@ Le chêne parle tout entier de sa robustesse : l'écorce rugueuse, le tronc soli
 ### Joël SADELER
   
 [Je voudrais être un arbre](/articles/pdf/joelsadeler.pdf)
+  
+### Marcel OLIVIER
+  
+Petit clin d'œil d'un habitant de Jupilles.
+  
+[L'historien local nous éclaire](/articles/pdf/n-59.pdf)
 
   
 ### Bibliographie :  
