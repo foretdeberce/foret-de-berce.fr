@@ -433,6 +433,8 @@ Tous les suiveurs ne prennent plus systématiquement le Porsche Cayenne
   leur réattribution en 2013, nous attendrons celles de 2015.
  
 {{<youtube id="4KcEWS7S88Y">}}
+ 
+Présentation de La propriété de Champchevrier en 2012 **(3'07)**
 
 D’ici là, nous aurons eu le plaisir d’aller au brame 
  ou d’observer les jeunes au printemps.
