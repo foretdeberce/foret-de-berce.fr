@@ -372,31 +372,52 @@ Petit clin d'œil d'un habitant de Jupilles.
 
 ## tous n'ont pas disparu !
   
-### Bleuet nous fait parvenir ces quelques mots :
+### BLEUET nous fait parvenir ces quelques mots :
 
-Ma forêt de Bercé
+**Ma forêt de Bercé**
+  
 En cette forêt où se berce ma tendre enfance
+  
 Au cœur de ma terre les souvenirs s’enracinent
+  
 S’accroche en mon écorce l’odeur de la résine
+  
 Aux chênes se gravent les lignes de ma naissance.
+  
 
 Je voudrais tant revoir s’écouler les jours heureux
+  
 A la Coudre retrouver la source de mes hiers
+  
 Ecouter chanter le silence de l’Hermitière
+  
 Mais leurs âmes s’accrochent aux branches de ce lieu.
+  
 
 Quand vient l’automne au sol jonché de ses feuilles mortes
+  
 Le vent jamais n’efface l’empreinte du sentier
+  
 Et je renoue mon histoire au charme suranné
+  
 Du temps de nos cueillettes je garde la récolte
+  
 
 Lorsque le dernier hiver frappera à ma porte
+  
 L’heure sera venue de vous rejoindre là-bas
+  
 J’irai retrouver l’arbre qui m’ouvre grand ses bras
+  
 Pour me bercer avant que le diable ne m’emporte
-
+  
 Bleuet
-
+  
+  
+### Joël PICARD ... Un responsable Atypique et poète. 
+  
+[L'illumite... au pays des Oulines](/articles/pdf/joelpicard.pdf)
+  
 ### Bibliographie :  
   
 **(1)** Écrits de notre ami d'Au Fil Du Temps (Ref : AFDT n° 21 du 30 septembre 2003)
