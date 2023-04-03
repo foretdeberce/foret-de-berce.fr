@@ -7,6 +7,8 @@ featured_image: "/images/ofouest.jpg"
 tags: ["Hommes","Auxiliaires","Journaliers","Saisonniers","Carriers",Cantonniers","Tacherons"]
 ---
 
+***Au début du 19ème siècle plus de 1800 personnes travaillaient régulièrement en forêt !*** 
+
 ###  Fin 19ème 
 
 la liste des tâches faites par les ouvriers est longue et se décompose comme suit :
