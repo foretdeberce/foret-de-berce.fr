@@ -33,6 +33,8 @@ ce samedi 9 mars 2002
 
 {{<youtube id="tuPABUCKjqU">}}
   
+Baptême du chêne Muriel **(27'21)**
+  
   
 {{<figure src="/images/articles/image1.jpg" title="Emplacement du chêne Muriel">}}
 
