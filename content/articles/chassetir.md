@@ -297,6 +297,8 @@ Plusieurs personnes se plaignent des trop  grands prélèvements de cervidés.
 
 {{<youtube id="wTtkbvWntSQ">}}
  
+Le plan de chasse 2016 sur Bercé. **(2'06)**
+ 
 ### Bibliographie :
           
 Sports à Paris  par Albert de Saint-Albin (1889) 
