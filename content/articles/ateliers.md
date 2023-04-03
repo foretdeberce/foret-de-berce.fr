@@ -48,9 +48,9 @@ Il partait l’été en Forêt à 5h du matin, se reposait 2h l’après-midi.
 L’hiver il faisait ses merrains avec son gars : Roger.*
 (Témoignage de Marcel Perroux, 1997)
 
-## Fendeurs recensés à partir de 1850
+### Fendeurs recensés à partir de 1850
 
-   ## Nom	Prénom	Village
+   ### Nom	Prénom	Village
    
   BEAUCHAMP	Eugène	Marigné Laillé
   BIGNON	Pierre	   Chahaignes
@@ -100,7 +100,7 @@ L’hiver il faisait ses merrains avec son gars : Roger.*
   RICHER	Louis	St Pierre du L
   ROGER	Victor	Lavernat 
   
-  Liste non exhaustive !
+  Cette liste est non exhaustive !
 
 ### Bibliographie :
 
