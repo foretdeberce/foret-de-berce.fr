@@ -541,7 +541,8 @@ Renouer avec la tradition. L'ONF organisa en janvier…une battue de biches.
 	
 {{<figure src="/images/articles/199801ecoute.jpg" title="Les consignes avant le départ">}}
 	
-Joël Picard nous explique en photos le déroulé de la [Chasse en battue du 12 janvier 1998](/articles/pdf/joelpicard.pdf)
+Joël Picard nous explique dans sa revue (Au Pays des Oulines N° 17 - L'illumite) 
+et en photos le déroulé de la [Chasse en battue du 12 janvier 1998](/articles/pdf/joelpicard.pdf)
 	
   Yves CAMISY de dire à son voisin du jour, Jacques BIZARD : 
   *« Il n’y a pas de différence entre nous, sauf peut-être la maison d’habitation et le compte en banque »*.
