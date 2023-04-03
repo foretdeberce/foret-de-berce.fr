@@ -301,7 +301,8 @@ Le chêne parle tout entier de sa robustesse : l'écorce rugueuse, le tronc soli
   l'armature des branches, la couronne arrondie en crinière, 
   et les racines bien apparentes, si énergiquement enfoncées dans le sol, 
   qu'elles semblent devoir " toucher à l'empire des morts ".
-  **(*)** Avez-vous remarqué comme la beauté du chêne grandit quand on songe
+  
+  **(0)** *Avez-vous remarqué comme la beauté du chêne grandit quand on songe
   à sa longévité, ou que la vue d'un gland nous reporte à ses origines modestes ? 
   C'est qu'alors de nouvelles relations d'ordre alimentent l'intelligence et
   enrichissent sa contemplation. La durée est un indice de la force, 
@@ -320,14 +321,14 @@ Le chêne parle tout entier de sa robustesse : l'écorce rugueuse, le tronc soli
   de chaque chêne une individualité : c'est la brise légère qui frissonne 
   dans les feuilles sans remuer les branches, c'est le vent d'automne qui 
   sème les feuilles mourantes, ou encore l'ouragan dont l'effort fait 
-  ressortir la force du colosse. 
+  ressortir la force du colosse.* 
   
-**(*)**	Dans la forêt de Bersay, entre le Mans et Château-du-Loir, 
+**(0)**	*Dans la forêt de Bersay, entre le Mans et Château-du-Loir, 
   le chêne "Bopp" a vingt mètres de haut; il est droit comme une colonne;
   pas un nœud ne dépare le tronc qui s'est développé en torsade ; 
   la couronne est symétriquement développée. Cet arbre-roi,
   entouré d'une cour d'autres géants, 
-  est une des merveilles forestières de la France. 
+  est une des merveilles forestières de la France.* 
 
 
 ### Joël SADELER
@@ -353,7 +354,8 @@ Il fut professeur l'université catholique de Louvain (Institut supérieur de ph
 (Parution : 1920 - L'Œuvre d'art et la beauté -  pages 127 à 129)
 Conférence faite par  Maurice  de Wulf (professeur à l'université de Louvain) au sein de la faculté des Lettres de Poitiers  en 1915/1916.
   
-***Autres contributeurs (liste non exhaustive)***
+***Autres contributeurs 
+  (liste non exhaustive)***
   
 ANDRÉ HALLAYS (publiciste) a écrit sur la sauvegarde du chêne Boppe 
 
