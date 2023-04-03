@@ -14,6 +14,8 @@ le label Forêt d’Exception®.
 {{<figure src="/images/articles/exceptionforets.jpg"  title="Les forêts labellisées et candidates">}}
 
 {{<youtube lT_NYys3Tm4>}}
+    
+C'est officiel... le 18 mars 2017, Bercé devient la 7ème forêt d'exception...**(8'58)**
 
 Après Fontainebleau, Verdun, La Grande Chartreuse, Rouen, Val Suzon et Montagne de Reims, Bercé est enfin
 la 7ème forêt labellisée.
@@ -45,6 +47,8 @@ la biodiversité du Massif.
 
 
 {{<youtube id="vhkTT1trFLw">}}
+    
+Des Chênes et des Hommes. **(4'17)**
 
 Jadis utilisé pour la construction navale, le chêne de Bercé est aujourd’hui mondialement recherché 
 pour l’ébénisterie, le tranchage et la tonnellerie. 
