@@ -52,7 +52,7 @@ de Bercé: M. Comte de Provence, Louis XVIII dit le Désiré.
 	
 {{<youtube id="HtwpOO8_KMk">}}
 
-Vidéo de : @ Sylvain Photouvoir
+Vidéo de : @ Sylvain Photouvoir **(0'37)**
 	
 Le rond du Clocher, quant à lui, n’eût droit à sa cinquième
   puis sixième branche qu’à la fin du 19e siècle.
@@ -156,10 +156,11 @@ Tels le Guinier (1906), Bel-air (1923).
 	
 {{<youtube id="bPD5DrYe5ck">}}
 
-### Rond du Guinier et chêne à gui: @ le mauriennais 
+Rond du Guinier et chêne à gui: @ le mauriennais **(1'57)**
 	
-	        on peut y voir le chêne à gui 
-	(grand chêne seul dans la parcelle 228 en bordure du CD 63)
+	on peut y voir le chêne à gui 
+	(grand chêne seul dans la parcelle 228 
+	en bordure du CD 63)
 	
 Dès 1992 on prévoit de remettre les poteaux au milieux des ronds-points et l'on fait appel 
 	au savoir faire de l'entreprise Renaudin à Masle dans l'Orne.
