@@ -1,16 +1,17 @@
 ---
-title: "Marc Bouhours"
+title: "Le Cercle des poètes disparus"
 date: 2022-09-28T12:23:44+01:00
 draft: false
-description: "Trois poèmes"
+description: "Patrimoine immatériel de Bercé"
 featured_image: "/images/et.cheval.jpg"
-tags: ["Art","Poésie"]
+tags: ["Art","Poésie","Patrimoine","Hommes"]
 ---
 
 
-Cette page de poèmes est dédiée à notre ami **(1)**
-Marc Bouhours, de Saint-Vincent-du-Lorouër. 
-Ce rédacteur d’**« Au Fil du Temps »** aimait à se 
+### Marc Bouhours (1)
+
+Résidant à Saint-Vincent-du-Lorouër, ce rédacteur 
+d’**« Au Fil du Temps »** aimait à se 
 ressourcer dans le bas de la côte de la Jument Blanche. 
 Ses deux poèmes prouvent l’attachement indéfectible 
 qu’il portait à ce lieu si particulier.
@@ -18,7 +19,7 @@ qu’il portait à ce lieu si particulier.
 {{<figure src="/images/articles/marc.jpg" title="Marc Bouhours">}}
 
   
-### La côte de la jument blanche
+***La côte de la jument blanche***
 
 Attelée à un grand diable trop lourd,
   
@@ -54,11 +55,13 @@ Une larme coule sur une joue …
 La côte est nommée près du rond Wautot.
   
   
-### La Jument Blanche
+***La Jument Blanche***
+  
 
 {{<figure src="/images/articles/livre.jpg" title="La jument blanche">}} 
   
-### Le corbeau et la grenouille
+  
+***Le corbeau et la grenouille***
 
 Noir corbeau virant roulant sur les airs
   
@@ -82,8 +85,9 @@ L’adéquat : que je plonge avec les tanches ! »
 … Coâ ! Coâ ! … dans l’eau.
 
 Moralité : Croit quoi ? ! ...
+  
 
-### Autre source d'inspiration de notre poète :
+***Autre source d'inspiration de notre poète :***
   
 {{<figure src="/images/articles/chateaudefollets.jpg" title="Faces avant et arrière de Follet">}}   
   
@@ -95,7 +99,8 @@ Moralité : Croit quoi ? ! ...
 
 Il habita un temps au Grand-Lucé, est né en 1872 au Mans, rue Montoise,
   d’une lignée de fabricants de toiles. À 18 ans, après des études au lycée du Mans, 
-  il est reçu à l’école des Beaux-Arts de Paris. En 1910, marié, il revient en Sarthe, 
+  il est reçu à l’école des Beaux-Arts de Paris. 
+  En 1910, marié, il revient en Sarthe, 
   à Guécélard. Après la Grande Guerre 1914-1918, il résida tour à tour à Paris, 
   au Mans et, suite à un second mariage, s’installa au Grand-Lucé, où il peint 
   et dessine avec finesse nos paysages locaux : le ruisseau de Sambris, 
@@ -117,7 +122,7 @@ Il est mort en 1935. Ses obsèques eurent lieu le 14 novembre au Mans,
 
 ### Roger VERCEL (3)
   
-De son vrai nom - dur à porter - CRÉTIN, Roger VERCEL est né le 
+De son vrai nom *(dur à porter)* CRÉTIN, Roger VERCEL est né le 
   8 janvier 1894 au Mans, boulevard de la République, dans la maison 
   sise au numéro 131 de l’actuelle avenue de la Libération ; 
   une plaque est apposée sur la façade. 
@@ -125,7 +130,7 @@ De son vrai nom - dur à porter - CRÉTIN, Roger VERCEL est né le
   Il est décédé le 25 février 1957 à Dinan où il a passé sa vie de professeur du secondaire. 
   
 Il a été remis au goût du jour par Bertrand TAVERNIER qui a repris son roman 
-  Capitaine CONAN (prix GONCOURT 1934) pour en tirer un film très réussi sur 
+  Capitaine CONAN *(prix GONCOURT 1934)* pour en tirer un film très réussi sur 
   le thème de la réadaptation parfois impossible d’un tueur « héroïque » 
   dans la guerre 1914-1918, de retour à la vie civile et sa « banalité ». 
   
@@ -135,14 +140,14 @@ Il a été remis au goût du jour par Bertrand TAVERNIER qui a repris son roman
   et de nombreux ouvrages sur la Bretagne, la mer, les corsaires, etc.
   
 Cet écrivain reconnu n’a pas hésité à vanter la forêt de Jupilles, 
-  comme nous disions avant, dans un texte Montagnes et Forêts du Maine
+  *comme nous disions avant*, dans un texte Montagnes et Forêts du Maine
   adressé aux Amis des Lettres du Maine de 1936 (p. 327, 328)
   imprimé par Charles MONNOYER.
 
-**Je souhaite, écrit Roger VERCEL, […] que ces lignes intéressent les lecteurs du Bulletin et
-  qu’elles vous prouvent  […] toute l’affection et toute l’admiration que je conserve à notre cher Maine.**
+*Je souhaite,* écrit Roger VERCEL, […] *que ces lignes intéressent les lecteurs du Bulletin et
+  qu’elles vous prouvent  […] toute l’affection et toute l’admiration que je conserve à notre cher Maine.*
 
-**[…] Non, vraiment, je ne sais, à moins que je ne sache trop … Nous avons en effet, 
+*[…] Non, vraiment, je ne sais, à moins que je ne sache trop … Nous avons en effet, 
   perdu l’habitude et l’amour des paysages harmonieux et mesurés :
   le goût du colossal et de l’extraordinaire sévit dans le tourisme comme ailleurs. 
   On ne se satisfait plus à moins d’un Mont-Blanc ou d’une mer déchaînée. 
@@ -155,14 +160,16 @@ Car pour avoir parcouru les forêts des Carpates et de Russie, celles de Norvèg
   les forêts de chêne-liège et de cèdres du Nord-Africain, pour être aujourd’hui 
   voisin de la légendaire Brocéliande, je puis proclamer qu’il n’existe nulle part
   perspective de plus magnifiques arbres que celle qui s’enfuit du Chêne Désiré 
-  au rond-point de la Coudre. La forêt de Jupilles au printemps, lorsqu’y poudroie 
+  au rond-point de la Coudre. 
+ La forêt de Jupilles au printemps, lorsqu’y poudroie 
   le brouillard de la jeune verdure, à l’automne lorsqu’y éclatent les ors et 
   les bronzes, donne à tous ceux qui sont capables de le ressentir, 
-  l’inoubliable choc d’une beauté souveraine. […]**
+  l’inoubliable choc d’une beauté souveraine. […]*
   
-### Madeleine LEGEAY-DE WILDE (4)
   
-Dans la grande forêt, je suis allée me promener.
+### Madeleine LEGEAY DE WILDE (4)
+  
+*Dans la grande forêt, je suis allée me promener.
 Comme le petit Chaperon Rouge, j'ai folâtré dans les clairières 
   ensoleillées cherchant la violette et la pervenche. 
   Mais je n'ai pas ren¬contré le loup.
@@ -184,14 +191,14 @@ J'ai vu les grands étangs limpides et calmes, purs miroirs du ciel bleu,
 J'ai vu des troncs martelés pour un  prochain abattage, 
   d'autres couchés à terre, grands corps pitoyables et magnifiques.
 J'ai vu des taillis épais de châtaigniers auxquels se mêlaient les troncs clairs des bouleaux.
-Devant les trembles, j'ai redit les vers de Paul Fort :
+Devant les trembles, j'ai redit les vers de Paul Fort :*
 
 **Tremble comme un tremble,
 Contre mon cœur,
 Sois un rayon qui tremble, 
 Doux comme la soie.**
   
-J'ai respiré l'odeur sèche et salubre des pins sombres ; 
+*J'ai respiré l'odeur sèche et salubre des pins sombres ; 
   sur leurs troncs rouges j'ai vu rire le soleil qui faisait plus bleu leur feuillage.
 Et, perdue dans la grande forêts j'ai songé à ceux qui ne vivent, 
   que pour elle, veillant dessus, la protégeant, l'aimant farouchement de tout leur cœur humain.
@@ -199,38 +206,40 @@ Tous ces « forestiers » (qu'ils soient conservateurs des Eaux et
   Forêts ou simples gardes, ce sont toujours et avant tout des forestiers)
   ne céderaient pas leur place pour un empire.
 La forêt est à eux. C'est leur domaine immense, toujours nouveau, 
-  renfermant des trésors con¬nus d'eux seuls.
+  renfermant des trésors connus d'eux seuls.
 En réalisateurs positifs, conscients des richesses qui leur sont confiées
   et du patrimoine vivant et magnifique sur lequel ils doivent jalousement veiller,
   ils peuvent évaluer, vingt-cinq ans à l'avance, le cubage de bois de
   tel arbre ou de telle région de la forêt.
 C'est eux qui s'occupent de l'aménagement des forêts domaniales, 
   choisissant les coupes, surveillant les exploitations, effectuant les ventes.
-L'entretien  des  routes,  des plantations, des pépinières, des maisons forestières, 
+L'entretien  des routes, des plantations, des pépinières, des maisons forestières, 
   la réglementation de la pêche sur les rivières non navigables, 
-  de la chasse en foret, tout cela relève de leur domaine.
+  de la chasse en forêt, tout cela relève de leur domaine.
 N'importe quel forestier de notre région finira toujours par 
   vous parler de la célèbre forêt de Bercé ou Jupilles, le joyau de la Sarthe.
 Cette qualité tient à ce que depuis toujours notre forêt de Jupilles a
   été soignée et merveilleusement entretenue.
 Un chêne de Bercé fait couramment 18 mètres de fût propre, donnant un 
   cubage de 6 à 7 m3 en général. Quand on sait que le prix du mètre cube
-  varie de 10 à 20.000 francs, on perçoit la richesse et la valeur d'une pa¬reille futaie.
+  varie de 10 à 20.000 francs, on perçoit la richesse et la valeur d'une pareille futaie.
 Les forestiers doivent aussi s'intéresser aux hôtes de nos bois, 
-  voire à leur destruction lorsqu'ils  menacent,  par  leur nombre,  
-  de  devenir  un vrai fléau.
+  voire à leur destruction lorsqu'ils menacent, par leur nombre,  
+  de  devenir un vrai fléau.
 C'est ainsi que, chassés de l'Est par la guerre, des tribus entières 
-  de sangliers ont émigré dans nos régions. Pas du tout ou très 
-  peu chassés durant toute l'occupation, ils ont eu la vie magnifique
-  et se sont multipliés dans d’effarantes proportions.
+  de sangliers ont émigré dans nos régions.
+  Pas du tout ou très peu chassés durant toute l'occupation, 
+  ils ont eu la vie magnifique et se sont multipliés dans d’effarantes proportions.
 Tout cela, les forestiers vous le diront, chiffres en mains.
 Mais tandis qu'ils vous parlent ainsi sur un ton neutre, 
   comme s'ils traitaient une affaire commerciale, avec un apparent détachement,
   regardez un peu leurs yeux. Et vous saurez alors, comme je n'en doutais
-  depuis longtemps, que tout « forestier » est d'abord et avant tout un poète.
+  depuis longtemps, que tout « forestier » est d'abord et avant tout un poète.*
 
 
-### Christian Pineau : Histoire du petit hêtre. (5)
+### Christian Pineau (5)
+  
+Histoire du petit Hêtre. 
 
 Le grand chêne était déjà vieux et solennel lorsque
 le  petit  hêtre  commença  timidement  sa carrière
@@ -240,10 +249,13 @@ constatant que la nature les a tous les deux créés pour vivre
 et pour voler?
 Pendant les premières années de sa vie, le petit hêtre
 ne se préoccupa guère que de prendre la force nécessaire. […]
-
+  
+.......................................
+  
 [...] Il tenta de fléchir une seconde fois le seigneur de la
 forêt  :
-*Ne vois-tu pas que je suis devenu adulte? 
+  
+— *Ne vois-tu pas que je suis devenu adulte? 
 Je ne suis ni grand ni beau comme toi, 
 mais je connais déjà le langage des arbres. 
 Les petits oiseaux viennent se poser sur mes branches;
@@ -268,16 +280,16 @@ isolé au milieu d'une clairière dénudée.
 Le petit hêtre fut débité en rondelles de taille égale que
 les  hommes  installèrent  en  tas  sur les  bords  du  chemin.
   
-*C'est bien, pensa le grand chêne; me voici débarrassé
+— *C'est bien, pensa le grand chêne; me voici débarrassé
 de ces parasites qui grouillaient à mon pied, me volant
 ma sève. Désormais les habitants de la forêt pourront
 m'admirer sans la moindre gêne.*
   
-### Maurice Marie Charles Joseph De Wulf.(6)
+### Maurice Marie Charles Joseph De Wulf (6)
   
 L'Œuvre d'Art et la Beauté… Le Beau dans la Nature  
 
-L'ordre de beauté qui impressionne dans la forêt émane de la vie puissante 
+*L'ordre de beauté qui impressionne dans la forêt émane de la vie puissante 
   qu'on y voit partout circuler. Ici point de ces bosquets arrangés, 
   de ces bois artificiels où les arbres semblent obéir à un mot d'ordre
   et se grouper avec la permission de l'homme. 
@@ -295,12 +307,12 @@ Le chêne parle tout entier de sa robustesse : l'écorce rugueuse, le tronc soli
   enrichissent sa contemplation. La durée est un indice de la force, 
   et on comprend que les druides aient divinisé, dans les forêts 
   vierges de la Gaule, l'arbre dont la vigueur symbolisait pour eux la vie.
-  Le cycle des saisons montre la. beauté du chêne sous des aspects divers,
+  Le cycle des saisons montre la beauté du chêne sous des aspects divers,
   parce qu'il met en valeur les manifestations variées de sa force vitale. 
   La lumière vive du printemps accuse les reliefs de l'écorce, et dépose
   un sourire sur le vert tendre des feuilles. L'été déploie les frondaisons
   luxuriantes et sombres. L'automne les couvre de paillettes d'or, et, 
-  quand décembre a dépouillé la couronne, Tarière apparaît tout nu, montrant 
+  quand décembre a dépouillé la couronne, l'arbre apparaît tout nu, montrant 
   les détails de son ossature. Formes des feuilles et des branches, 
   lignes du tronc et de la tête, couleurs des parties et de l'ensemble,
   tout s'ordonne et converge vers une impression unique. Que dire du vent 
@@ -311,7 +323,7 @@ Le chêne parle tout entier de sa robustesse : l'écorce rugueuse, le tronc soli
   ressortir la force du colosse. 
   
 **(*)**	Dans la forêt de Bersay, entre le Mans et Château-du-Loir, 
-  le chêne Bopp a vingt mètres de haut; il est droit comme une colonne;
+  le chêne "Bopp" a vingt mètres de haut; il est droit comme une colonne;
   pas un nœud ne dépare le tronc qui s'est développé en torsade ; 
   la couronne est symétriquement développée. Cet arbre-roi,
   entouré d'une cour d'autres géants, 
@@ -338,8 +350,10 @@ Le chêne parle tout entier de sa robustesse : l'écorce rugueuse, le tronc soli
   
 **(6)** Maurice Marie Charles Joseph De Wulf (1867-1947) est un historien belge de la philosophie médiévale.
 Il fut professeur l'université catholique de Louvain (Institut supérieur de philosophie) et à Harvard.
-(Parution : 1920 - L'Œuvre d'art et la beauté -  pages 128 et 129)
+(Parution : 1920 - L'Œuvre d'art et la beauté -  pages 127 à 129)
 Conférence faite par  Maurice  de Wulf (professeur à l'université de Louvain) au sein de la faculté des Lettres de Poitiers  en 1915/1916.
+  
+***Autres contributeurs (liste non exhaustive)***
   
 ANDRÉ HALLAYS (publiciste) a écrit sur la sauvegarde du chêne Boppe 
 
