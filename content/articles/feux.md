@@ -525,6 +525,8 @@ Ce feu est sans conteste d’origine criminelle.
 (Photo du haut de page- © LMTV)
 
  {{<youtube id="2JiT0IzPVx4">}}
+     
+ En Bercé le 30 mars 2012 **(1'28)**
 
 **2014**, le mardi 15 avril, feu sur Grammont et aux Forges. 
  Cet incendie criminel a brûlé près de 170 hectares de la forêt 
@@ -538,12 +540,14 @@ Ce feu est sans conteste d’origine criminelle.
  
 
 {{<youtube id="drl4tP_Aahg">}} 
- 
- 
+
+En Bercé le 15 avril 2014 **(1'45)** 
+     
 
 {{<youtube id="9_CVILEdRXg">}}
  
- 
+En Bercé le 16 avril 2014 **(1'45)** 
+     
 *La Liste des parcelles touchées par le feu est non exhaustive. 
  - Numérotation  des parcelles mis à jour en 2016.*
  
