@@ -95,7 +95,7 @@ Cordons d’arbres réservés le long des routes
 {{<youtube id="hHovPnvJXkw">}}
   
 Vidéo proposée @ DJi Phantom 3 Standard, 
-  survol Foret de Bercé, le 20-11-2019.
+  survol Foret de Bercé, le 20-11-2019.**(5'21)**
  
 
 ### 8 Mai 1928
@@ -196,6 +196,8 @@ Confection de l'accès au Chemin de la Coudre (voir route) – délimitation du 
 ### Cette petite présentation vous donnera peut-être l'envie de la parcourir.
 
 {{<youtube id="O8nrNpmKvR8">}}  
+  
+Présentation du Patrimoine de Bercé. **(30'20)**
   
 ### Bibliographie : 
   
