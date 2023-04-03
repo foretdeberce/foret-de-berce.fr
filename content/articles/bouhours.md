@@ -58,22 +58,36 @@ La côte est nommée près du rond Wautot.
 ***La Jument Blanche***
 
 Un beau jour d'été, la blanche haquenée,
+  
 En forêt gambadait joyeusement,
+  
 Gente dame montait allègrement
+  
 Cette douce jument enrubannée.
+  
 
 La promenade bientôt terminée,
+  
 Pourquoi un taon, piqua si méchamment
+  
 Dans la robe de la blanche jument,
+  
 Vrillant une douleur inopinée ?...
+  
 
 Désarçonnée par un bon démentiel,
+  
 La cavalière put voir sa monture,
+  
 Telle Pégase, voler dans le ciel...
+  
 
 Avant de retomber dans la nature,
+  
 Au bas de la côte, du raidillon,
+  
 Brisée, dans les jacinthes d'un layon.
+  
   
   
 ***Le corbeau et la grenouille***
