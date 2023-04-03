@@ -262,6 +262,8 @@ Bref, il n’est pas de grands vins, sans beaux  raisins...
 
 {{<youtube id="kdbL9LPEl3k">}}  
   
+Du chêne au tonneau **(4'51)**
+  
 Si de 1934 à 1950 le foudre de Thuir a été le plus grand du monde, 
   il ne démérite en rien de sa réputation et n’en reste pas moins 
   le plus grand foudre en chêne du monde, exhalant ainsi
