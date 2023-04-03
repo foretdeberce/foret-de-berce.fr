@@ -277,8 +277,7 @@ aux préposés forestiers de visiter et de marteler bon nombre de propriétés p
 {{<youtube id="tFKv-eMuWTI">}}
   
 Reportage à Bercé de Jean Claude Bourret **(4'04)**
-  
-### Archive de l'I.N.A. (1994) sur le martelage en forêt de Bercé.
+Archive de l'I.N.A. (1994) sur le martelage en forêt de Bercé.
   
   
 {{<youtube id="rhtsuClFpYE">}}
