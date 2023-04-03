@@ -426,6 +426,10 @@ tente de percer [les secrets de cette pratique](/articles/pdf/ethno-pincon-charl
 Tous les suiveurs ne prennent plus systématiquement le Porsche Cayenne 
   ou la 2CV, mais certains enfourchent allègrement le VTT 
   pour un périple ultra-physique à travers bois.
+ 
+ Joël Picard dans son numéro 17 (Au Pays des Oulines - L'illumite) nous fait part d'un 
+ 
+ [incident de Chasse](/articles/pdf/illumitebizard.pdf)
 
  {{<figure src="/images/articles/reunionadjudicataires.jpg"  title="Réunion en 2001">}}
 
