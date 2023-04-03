@@ -280,14 +280,14 @@ Le danger rôde la nuit et la nature, parfois, semble hostile!
  
 -- Beaumont Pied de Bœuf, le 31 janvier 2003. 
    
-## Aujourd'hui, Daniel n'est plus, il nous a quitté en 2018. 
+### Aujourd'hui, Daniel n'est plus, il nous a quitté en 2018. 
  
 Son oeuvre d’éducation se poursuit auprès des photographes en herbe qui veulent affronter comme lui,
 cette vraie nature pour en découvrir toute la beauté cachée. 
  
 {{<youtube id="lC-tl3hxZhQ">}}
  
-### Dans la peau du cerf de Bercé
+Dans la peau du cerf de Bercé **(4'03)**
 Une vidéo de Daniel Girard, dans laquelle il
  explique sa passion pour cet animal mythique.
  
