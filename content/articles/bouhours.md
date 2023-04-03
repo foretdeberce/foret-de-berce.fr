@@ -56,9 +56,24 @@ La côte est nommée près du rond Wautot.
   
   
 ***La Jument Blanche***
-  
 
-{{<figure src="/images/articles/livre.jpg" title="La jument blanche">}} 
+Un beau jour d'été, la blanche haquenée,
+En forêt gambadait joyeusement,
+Gente dame montait allègrement
+Cette douce jument enrubannée.
+
+La promenade bientôt terminée,
+Pourquoi un taon, piqua si méchamment
+Dans la robe de la blanche jument,
+Vrillant une douleur inopinée ?...
+
+Désarçonnée par un bon démentiel,
+La cavalière put voir sa monture,
+Telle Pégase, voler dans le ciel...
+
+Avant de retomber dans la nature,
+Au bas de la côte, du raidillon,
+Brisée, dans les jacinthes d'un layon.
   
   
 ***Le corbeau et la grenouille***
@@ -300,7 +315,7 @@ L'Œuvre d'Art et la Beauté… Le Beau dans la Nature
 Le chêne parle tout entier de sa robustesse : l'écorce rugueuse, le tronc solide,
   l'armature des branches, la couronne arrondie en crinière, 
   et les racines bien apparentes, si énergiquement enfoncées dans le sol, 
-  qu'elles semblent devoir " toucher à l'empire des morts ".
+  qu'elles semblent devoir " toucher à l'empire des morts ".*
   
   **(0)** *Avez-vous remarqué comme la beauté du chêne grandit quand on songe
   à sa longévité, ou que la vue d'un gland nous reporte à ses origines modestes ? 
