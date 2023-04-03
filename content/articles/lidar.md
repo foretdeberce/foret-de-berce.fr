@@ -255,6 +255,8 @@ Les résultats sont spectaculaires. Des structures complètement effacées
   
 {{<youtube id="mA0jFQVvYN4">}}
   
+Le Camp des Sarmates en 3 D **(2'07)**
+  
 Quand à la rédaction de nos aménagements forestiers, 
   ils seront sans nul doute impactés par cette technique. 
   Le Lidar vient à merveille étayer les emplacements des 
