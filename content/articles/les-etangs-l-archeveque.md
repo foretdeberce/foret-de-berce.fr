@@ -56,7 +56,7 @@ archéologiques sur le terrain. **(1)**
  
 {{<figure src="/images/articles/tumulussvt.jpg" title="Le couvert forestier sauve les structures">}}
 
-### Les Étangs (Xᵉ –XVᵉ)
+### Les Étangs (Xᵉ–XVᵉ)
  
 **Plaisante demeure de chasse en bordure de forêt.**
 
@@ -123,7 +123,7 @@ du seigneur de Château-du-Loir (Béatrix de Monfort),
 {{<figure src="/images/articles/ign.jpg" title="Levées des Étangs">}}
 
 
-## Les Étangs (XVᵉ –XVIIIᵉ)
+### Les Étangs (XVᵉ–XVIIIᵉ)
 
 Un aveu de 1406 mentionne Amaury de Fromentières, 
 seigneur des Étangs, à cause de sa femme Loyse de COURCILLON. 
