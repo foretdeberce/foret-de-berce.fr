@@ -276,7 +276,7 @@ aux préposés forestiers de visiter et de marteler bon nombre de propriétés p
 
 {{<youtube id="tFKv-eMuWTI">}}
   
-Reportage à Bercé de Jean Claude Bourret **(4'04)**
+Reportage à Bercé de Roger Gicquel **(4'04)**
 Archive de l'I.N.A. (1994) sur le martelage en forêt de Bercé.
   
   
@@ -285,7 +285,7 @@ Archive de l'I.N.A. (1994) sur le martelage en forêt de Bercé.
 En fin d'année 2021 Le Meilleurs des Mags sur France 3 **(7'05)**
   
 C'est en Sarthe, en forêt de Bercé ...
-Un martelage d'aujourd'hui...
+Un martelage qui se passe aujourd'hui...
   
 ### Bibliographie : 
   
