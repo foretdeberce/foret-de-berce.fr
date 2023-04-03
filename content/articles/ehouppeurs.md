@@ -180,6 +180,8 @@ Le film Chronique de Bercé relate ce dur métier. Édouard et sa famille en son
   
  {{<youtube id="x2xzQTDO5i4">}}
   
+Chronique de Bercé **(44'07)**
+  
       Une année en forêt
   
       Le travail de coupe des arbres par les bûcherons 
@@ -242,6 +244,8 @@ Le voici dans ses œuvres, en décembre 1985 sur l’éhouppement
   
    
 {{<youtube id="i1fUIymk8Lg">}}
+  
+Décembre 1985 aux Clos **(3'52)**
   
 *Voici le film muet (sonorisé tant bien que mal) de l'exploitation 
   d'un des plus gros chêne de la futaie des clos qui venait de dépérir.*
