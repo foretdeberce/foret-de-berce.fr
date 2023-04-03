@@ -62,7 +62,7 @@ L’équipe est composée des préposés (ou gardes qui tiennent marteaux et com
 {{<figure src="/images/articles/martelage.jpg" title="La virée de martelage">}}
   
 
- ## Le Journal Officiel du 22 juin 1896 (1) 
+ ### Le Journal Officiel du 22 juin 1896 (1) 
   
      dernier fait savoir que, dans les futaies 
      de la 15ème conservation, les coupes d'ensemencement et secondaires, assises par 
@@ -104,7 +104,7 @@ Chaque garde était propriétaire, donc responsable de l’utilisation de son pr
   
 {{<figure src="/images/articles/hach.jpg" title="Le marteau particulier">}}
   
-**Les marteau de l’État n°1 & 2:** 
+**Les marteau de l’État n° 1 & 2 :** 
   
 L’empreinte du marteau de l’État telle que nous la connaissons aujourd’hui (ronde) 
   est définie par l’administration le 14 août 1830. Les empreintes portent alors 
@@ -276,14 +276,17 @@ aux préposés forestiers de visiter et de marteler bon nombre de propriétés p
 
 {{<youtube id="tFKv-eMuWTI">}}
   
+Reportage à Bercé de Jean Claude Bourret **(4'04)**
+  
 ### Archive de l'I.N.A. (1994) sur le martelage en forêt de Bercé.
   
   
 {{<youtube id="rhtsuClFpYE">}}
   
-### En fin d'année 2021 Le Meilleurs des Mags sur France 3 
-c'est en Sarthe, en forêt de Bercé ...
-Martelage d'aujourd'hui...
+En fin d'année 2021 Le Meilleurs des Mags sur France 3 **(7'05)**
+  
+C'est en Sarthe, en forêt de Bercé ...
+Un martelage d'aujourd'hui...
   
 ### Bibliographie : 
   
