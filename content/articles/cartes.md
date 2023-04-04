@@ -17,3 +17,5 @@ touristiques de Bercé.
   
   {{<figure src="/images/articles/planonf.jpg" title="Pour repérer les parcelles">}}
    
+
+  {{<figure src="/images/articles/cartesentier2019.jpg" title="La randonnée à fond">}}
