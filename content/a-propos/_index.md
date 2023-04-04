@@ -32,7 +32,7 @@ s'est vu décerner le label **Forêt d’Exception**.
 ## Bercé livre ses secrets 
   
 Pour en conserver la mémoire, un premier ouvrage 
-  avait vu le jour en 2002, coopté par le club 
+  avait vu le jour en 2002, coopté par le club  
   d’Histoire Locale de Lucé-Bercé et sa revue 
   trimestrielle « Au Fil Du Temps ».
   
