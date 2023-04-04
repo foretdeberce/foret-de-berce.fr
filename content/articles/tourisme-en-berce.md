@@ -95,7 +95,7 @@ Cordons d’arbres réservés le long des routes
 {{<youtube id="hHovPnvJXkw">}}
   
 Vidéo proposée @ DJi Phantom 3 Standard, 
-  survol Foret de Bercé, le 20-11-2019.**(5'21)**
+  survol Foret de Bercé, le 20-11-2019. **(5'21)**
  
 
 ### 8 Mai 1928
