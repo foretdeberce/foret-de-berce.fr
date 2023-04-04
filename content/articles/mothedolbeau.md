@@ -199,6 +199,23 @@ Pour mettre en valeur cette vaste étendue servant de perspective à la demeure,
   selon la saison, et dotés de" pneumatophores" (curieuses racines résurgentes en 
   forme de stalagmites), cette plantation est unique en France.
   
+***Un secret bien gardé !***
+  
+      La vallée du Loir nous réserve encore bien des secrets à découvrir
+      notamment dans le parc de la Mothe d'Olbeau.
+      Fin mars 2023, la famille Vinçonneau, a reçu la visite de l'IGN, 
+      en vue de l'inventaire de la parcelle dite Le Courtil (le long de l’Ire).
+      Cette parcelle est plantée par moitié de cyprès chauves et de vieux peupliers.
+      Les techniciens  de l’IGN ont mesuré un peuplier qui domine à 48,40 mètre de haut, 
+      avec un diamètre de 120 cm … et il ne semble pas le seul ! 
+      D'après le site des « arbres monumentaux », le peuplier le plus haut du monde
+      est situé en Pologne  dans le Parc national de Bialowieza (qui inclut une forêt
+      primaire) et domine seulement à 41,40 mètres … 
+  
+      D’où un nouveau record du monde en vue à la Mothe d'Olbeau ?
+
+      
+  
 Le clos des religieuses Autrefois vignes, situé au sommet de la colline,
   sur un terrain sec et venté.
 Après plusieurs essais infructueux il fut finalement planté en 1977,
