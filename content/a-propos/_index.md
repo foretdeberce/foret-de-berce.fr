@@ -101,10 +101,3 @@ Au plus près de la forêt :
 [Éditions de l'Étrave](http://www.editions-etrave.fr/pub-inclass-berce.html)  
   
   
-###  Les cartes touristiques de Bercé
-  
-  {{<figure src="/images/articles/carte-touristique.jpg" title="Pour vous repérer en forêt">}}
-  
-  
-  {{<figure src="/images/articles/planonf.jpg" title="Pour repérer les parcelles">}}
-   
