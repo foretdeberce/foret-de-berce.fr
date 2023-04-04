@@ -7,7 +7,9 @@ featured_image: '/images/cartegenerale.jpg'
 ---
 
 
+
 ### Bercé, la captivante !
+
 
 De tout temps, les hommes et les femmes ont trouvé refuge,
   source d’énergie et nourriture en forêt de Bercé.
@@ -28,7 +30,9 @@ s'est vu décerner le label **Forêt d’Exception**.
   
 {{<youtube id="Ye9yVmQM3AQ">}}
   
-
+Vidéo expliquant la labellisation **(3'20)**
+  
+  
 ## Bercé livre ses secrets 
   
 Pour en conserver la mémoire, un premier ouvrage 
