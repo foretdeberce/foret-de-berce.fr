@@ -20,21 +20,29 @@ Bercé fait depuis le 17ème siècle l’objet de l’attention sans
 faille des forestiers qui en ont la charge.
 
 Imaginée par Colbert cette sylviculture novatrice a connu
-parfois quelques manquements, très vite rattrapés par les successeurs. 
+parfois quelques manquements, très vite rattrapés par 
+les forestiers et leurs successeurs. 
 
 L’homme n’est pas sans défauts et la foresterie est une science complexe.
 
-C'est un art difficile aujourd'hui, d'autant que le climat s’en mêle.
+L'art est difficile aujourd'hui, d'autant que le climat s’en mêle.
 
-La nouvelle méthode des arbres objectifs, venue des pays du nord, est en soi, 
+La désormais classique méthode des arbres objectifs, 
+venue des pays du nord, est en soi, 
 pour Bercé une révolution tranquille.
 
 Les modes d’exploitation ont évolué pour faire face à la pénibilité
-de certaines professions et au manque de main d’œuvre.
+des exploitations et au manque de main d’œuvre.
 
-La pression des engins de coupe ou de débardages sur le sol est l’un 
+La pression des engins de débardage ou des abatteuses sur le sol est l’un 
 des problèmes récurrents que les forestiers d’aujourd’hui tentent 
 de régler en cloisonnant systématiquement le parterre des coupes.
+
+### Richesses patrimoniales de Bercé
+
+{{<youtube id="0vT_0GlzhW8">}}
+  
+Ce document a été réalisé en 2016, avant la labellisation. **(29'35)** 
 
 
 ### Les grandes chênaies de France à l'honneur...
@@ -74,7 +82,8 @@ Le **Diaporama PowerPoint**
 ci-dessus, retrace l’ensemble des difficultés,
 à prendre en compte la biodiversité, l’environnement et le climat ...
 tout en conservant une gestion raisonnée et un sentiment écologique plus fort qu'auparavant…
-
+(Le temps de vision est déterminé par votre clic)
+  
 Bonne lecture !
 
 
