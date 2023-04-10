@@ -23,7 +23,7 @@ tags: ["Lieux","Paysage","Histoire"]
   
     Civilisation Celtique .   
     
-   ### 0 au IVe Siècle. ###
+   ### 0 au IVe Siècle  ###
    
      Débris isolé de l'immense Domaine 
      Gaulois des Empereurs Romains  "Carnuta Sylva", attribué au Fisc impérial 
@@ -47,7 +47,7 @@ tags: ["Lieux","Paysage","Histoire"]
      Bercay Fief Vassal au Nord-Ouest de la Forêt). Gervais II , évêque du Mans, 
      Seigneur  de Château du Loir, succède à Gervais I . 
       
-   ### XIe Siècle : ###
+   ### XIe Siècle  ###
    
      Foulques Néra , Comte d'Anjou concède la partie Est de Bercé à
      Malleran  de  Nouâtre - celui-ci la transmet à Cléopas le dernier de ses fils .
