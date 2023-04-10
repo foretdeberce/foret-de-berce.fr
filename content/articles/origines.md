@@ -78,16 +78,16 @@ tags: ["Lieux","Paysage","Histoire"]
     
    ### XIVe Siècle ###
    
-   Leur fille Béatrice épouse Robert IV (Comte de Dreux) 1337 Pierre (Comte de Dreux)
+    Leur fille Béatrice épouse Robert IV (Comte de Dreux) 1337 Pierre (Comte de Dreux)
     cède la Forêt de Bercé à Philippe VI de Valois en 1345 pour 31.000 Livres - 
     Son fils Jean II le Bon (Duc de Normandie) né près du Mans, la  reçoit en Apanage.
     La Terre de Bercay est qualifiée de Baronnie. Elle est ainsi distraite du  Domaine Royal.
-   1346 Philippe VI de Valois prend l'ordonnance de Brunoy qui organise les Maîtrises 
-   des  Eaux et Forêts et interdit la création de nouveaux droits d'usage 
-   afin de pérenniser la  production de bois de Marine (début de la guerre de Cent Ans avec les Anglais) .
-   1360 Jean II le Bon lègue à son second Fils Louis d 'Anjou, la Baronnie.
-   1376 L'Ordonnance de Melun, prise par Charles V le Sage, fils de Jean II le Bon,
-   règle la "La Matière" des Eaux et Forêts et peut être considérée comme le tout premier Code Forestier .
+    1346 Philippe VI de Valois prend l'ordonnance de Brunoy qui organise les Maîtrises 
+    des  Eaux et Forêts et interdit la création de nouveaux droits d'usage 
+    afin de pérenniser la  production de bois de Marine (début de la guerre de Cent Ans avec les Anglais) .
+    1360 Jean II le Bon lègue à son second Fils Louis d 'Anjou, la Baronnie.
+    1376 L'Ordonnance de Melun, prise par Charles V le Sage, fils de Jean II le Bon,
+    règle la "La Matière" des Eaux et Forêts et peut être considérée comme le tout premier Code Forestier .
    
    ### XVe Siècle   ###
    
@@ -110,7 +110,7 @@ tags: ["Lieux","Paysage","Histoire"]
     
    ### XVIIe Siècle ###
    
-   Colbert entreprend (1667 - 1669) la grande Réformation des Forêts
+    Colbert entreprend (1667 - 1669) la grande Réformation des Forêts
     - Le commissaire enquêteur sanctionnera les abus du Maître particulier Alternatif : 
     Hilarion de  Fromentières qui sera condamné à verser au Roi, le trop perçu des 
     revenus de la Forêt soit : 12.100 Livres ( pour jugement du 2 juillet  1668 ) .
@@ -121,7 +121,7 @@ tags: ["Lieux","Paysage","Histoire"]
     
    ### XVIIIe Siècle ###
    
-   1723 : Agrandissement de 1.200 hectares de la Forêt Royale par 
+    1723 : Agrandissement de 1.200 hectares de la Forêt Royale par 
     l'acquisition des Landes  de Grammont  et de Haute Perche (1727). 
     1780 Dernier Apanagiste de Bercé : Mgr. Le Comte de Provence appelé:
     (Monsieur)  futur  Louis XVIII  le Désiré (émigra en Juin 1791). 
@@ -130,7 +130,7 @@ tags: ["Lieux","Paysage","Histoire"]
     
   ###  XIXe Siècle ###
   
-  - Début des constructions des Maisons Forestières 1813 .
+    - Début des constructions des Maisons Forestières 1813 .
     1827 - La Forêt est propriété de l 'Empire Français - Promulgation du code Forestier .
     1843 - Troisième Aménagement et Arpentage général de la Forêt par Wautot ( 1841 ),
     Bercé , Forêt de nouveau Royale puis Républicaine et Impériale.
