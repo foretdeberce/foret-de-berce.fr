@@ -58,7 +58,7 @@ tags: ["Lieux","Paysage","Histoire"]
      Les possessions particulières se développent en Forêt, créant ainsi des droits 
      d'usage bien souvent abusifs qui ne cesseront qu'au XVIIe. 
      
-   ### XIIe Siècle :### 
+   ### XIIe Siècle  ### 
    
      La fille de Mathilde de Château du Loir et d' 
      Hélie de la Flèche épouse en 1107  Foulques V (Comte d'Anjou).
@@ -71,7 +71,7 @@ tags: ["Lieux","Paysage","Histoire"]
      cède tous ses droits à Guillaume  des Roches (Sénéchal d 'Anjou).
      
     
-   ### XIIIe Siècle :### 
+   ### XIIIe Siècle  ### 
   
     sa fille en hérite et la transmet à Jeanne qui épousera Jean , (Comte de Montfort)
    
@@ -89,7 +89,7 @@ tags: ["Lieux","Paysage","Histoire"]
    1376 L'Ordonnance de Melun, prise par Charles V le Sage, fils de Jean II le Bon,
    règle la "La Matière" des Eaux et Forêts et peut être considérée comme le tout premier Code Forestier .
    
-   ### XVe Siècle :###
+   ### XVe Siècle   ###
    
     1481 Après la mort de Charles d 'Anjou, la Baronnie,
     retourne à la Couronne avec le Maine et l'Anjou .
