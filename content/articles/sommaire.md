@@ -425,4 +425,5 @@ sur le lien qui vous intéresse !**
      Se rendre à Bercé...Les cartes
      https://www.foret-de-berce.fr/articles/cartes/
      
-
+     Origines géologiques et historiques de Bercé 
+     https://www.foret-de-berce.fr/articles/origines/
