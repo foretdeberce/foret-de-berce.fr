@@ -12,18 +12,18 @@ tags: ["Lieux","Paysage","Histoire"]
 Étudions à la fois l'Histoire et le sol pour une approche complète de ce massif.
 
 
-  ### - 6000 à - 400###
+  ### - 6000 à - 400 ans  ###
   
     Lente évolution de Bercé -
     Colonisation du plateau Calaisien par les chênes 
     grâce à l'action  bienfaisante du "Geai".
     Les hommes du Néolithique défrichent .
     
-  ### - 400 à - 0 ###
+  ### - 400 à - 0 an ###
   
     Civilisation Celtique .   
     
-   ### 0 au IVe Siècle.###
+   ### 0 au IVe Siècle. ###
    
      Débris isolé de l'immense Domaine 
      Gaulois des Empereurs Romains  "Carnuta Sylva", attribué au Fisc impérial 
@@ -35,9 +35,9 @@ tags: ["Lieux","Paysage","Histoire"]
    
      Domaine de Clovis et de ses successeurs Mérovingiens (vastes défrichements).
      
-   ### 877 ###
+   ### IXème siècle ###
    
-     Après Charlemagne , Charles II le Chauve , par capitulaire, rend héréditaire les
+     877 - Après Charlemagne , Charles II le Chauve , par capitulaire, rend héréditaire les
      charges et bénéfices des Fonctionnaires Royaux ou COMTES " Comes " créant ainsi les fiefs,
      diminuant le pouvoir Royal (par usurpations) .
      
@@ -47,7 +47,7 @@ tags: ["Lieux","Paysage","Histoire"]
      Bercay Fief Vassal au Nord-Ouest de la Forêt). Gervais II , évêque du Mans, 
      Seigneur  de Château du Loir, succède à Gervais I . 
       
-   ### XIe Siècle :###
+   ### XIe Siècle : ###
    
      Foulques Néra , Comte d'Anjou concède la partie Est de Bercé à
      Malleran  de  Nouâtre - celui-ci la transmet à Cléopas le dernier de ses fils .
@@ -119,7 +119,7 @@ tags: ["Lieux","Paysage","Histoire"]
     futaie où ils peuvent profiter  jusqu'à l 'âge de 200 ans ... dont 1.000 hectares
     de bois plus jeunes ruinés par le pâturage,  à recéper.*
     
-   ### XVIIIe S.###
+   ### XVIIIe Siècle ###
    
    1723 : Agrandissement de 1.200 hectares de la Forêt Royale par 
     l'acquisition des Landes  de Grammont  et de Haute Perche (1727). 
@@ -136,7 +136,7 @@ tags: ["Lieux","Paysage","Histoire"]
     Bercé , Forêt de nouveau Royale puis Républicaine et Impériale.
     1875 - Quatrième Aménagement - La guerre de 1870 vient de faire rage , Bercé Forêt d 'Etat.
     
-   ### XXe Siècle. ###
+   ### XXe Siècle ###
    
     1909 - Cinquième Aménagement, deux grandes guerres sont à venir.
     1921   - Les derniers bois de Marine partent de Bercé pour Rochefort - Lorient et Bizerte .
