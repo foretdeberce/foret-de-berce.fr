@@ -3,7 +3,7 @@ title: "Les livrets journaliers"
 date: 2022-09-16T13:22:44+01:00
 draft: false
 description: "chronotachygraphes des forestiers"
-featured_image: "/images/visa-livrets.jpg"
+featured_image: "/images/et.rendezvous.jpg"
 tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques","Armement"]
 ---
 
