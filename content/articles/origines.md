@@ -11,6 +11,23 @@ tags: ["Lieux","Paysage","Histoire"]
 
 Étudions à la fois l'Histoire et le sol pour une approche complète de ce massif.
 
+La qualité du sous sol de Bercé conditionne sa richesse.
+Bercé au dire de l'IGN, s'en sort bien 
+dans la tourmente climatique actuelle.
+
+Voyons comment la géographie physique et l'histoire 
+ont pu nous léguer un si beau massif.
+
+[Dictionnaire topographique, historique et statistique de la Sarthe - 1829](/articles/pdf/pesche1829.pdf)
+
+[extrait de la géologie de Bercé par l'inspecteur Potel - 1924](/articles/pdf/extraitgeologiepotel.pdf)
+
+[extrait de l'Histoire de la forêt de Bercé par l'inspecteur Potel - 1924](/articles/pdf/historiqueberceparpotel.pdf)
+
+[Extrait de l'ouvrage de Géologie de Pierre George - 1936](/articles/pdf/geologiepierregeorge.pdf)
+
+## Résumé de l'historique :
+
 
   ### - 6000 à - 400 ans  ###
   
