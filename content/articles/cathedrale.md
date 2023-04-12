@@ -70,9 +70,6 @@ On en parle aussi sur CNN. **(6'19)**
 
 ### En mars 2023, le tabouret de la flèche monte à bon rythme.
   
-{{<youtube id="wqZMH5UzxsM">}}
-Fin du montage à blanc du tabouret de la flèche. **(4'04)**
-
 
 {{<youtube id="Yuw3rVbBGvo">}}
 L'histoire de la restitution à l'identique de la charpente. **(26'17)**
