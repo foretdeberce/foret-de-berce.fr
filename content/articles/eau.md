@@ -7,7 +7,21 @@ featured_image: "/images/mare-en-foret.jpg"
 tags: ["eau","géologie","topographie","cartographie"] 
 ---
 
-Eaux et Forêt….L’eau et Bercé
+**Eaux et Forêt….L’eau et Bercé**
+
+***les chemins de l’eau.*** 
+
+*Si l’eau est assez rare à Bercé (à l’exception de quelques sources) 
+les formes que prennent ces chemins sont assez variées.
+Elles sont déterminées en partie par les conditions naturelles
+mais également par les nombreuses modifications anthropiques
+(fossés de drainage, mares, abreuvoirs, lavoirs, 
+extractions d’argile et de minerai de fer, etc).
+Des travaux sur quelques mares représentatives 
+(sondages, analyses de sédiments) seront envisagés
+afin de mieux comprendre les conditions naturelles
+du milieu et les aménagements apportés par l’homme 
+depuis plusieurs siècles.*  **(1)**
 
 Il pleut, il neige, et le brouillard emmitoufle la Forêt.
 Chaque arbre intercepte, évapore, transpire. 
@@ -235,4 +249,9 @@ et mares dans un souci de conservation du patrimoine historique de Bercé.
 
 {{<figure src="/images/articles/panneau.jpg" title=" Les conseils toujours bienvenus">}}
 
-Bibliographie : Revue Au Fil du Temps N° 16 - Pages  24 à 25 (Y. Gouchet - 06 -2002) 
+
+**Bibliographie :** 
+
+**(1)** Cécile Dardignac (Archéologue à l'ONF)
+ 
+Revue Au Fil du Temps N° 16 - Pages  24 à 25 (Y. Gouchet - 06 -2002) 
