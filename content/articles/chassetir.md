@@ -295,7 +295,7 @@ mais l’histoire est un éternel recommencement :
           
 Plusieurs personnes se plaignent des trop  grands prélèvements de cervidés.
 
-{{<youtube wTtkbvWntSQ>}}  
+{{<youtube fa9vAVYyATk>}}  
  
 Le plan de chasse 2016 sur Bercé. **(2'06)**
  
