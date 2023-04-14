@@ -11,6 +11,12 @@ La chasse à tir …n’attire vraiment pas les photographes.
 
 Cette rubrique est et sera l’une des moins imagée. 
 
+La forêt et les champs aux alentours ne peuvent se 
+défendre seuls contre les envahisseurs à quatre pattes.
+
+Les hommes , quand il s'agit d'un bien commun comme la forêt,
+se fédérent en association pour la défendre.
+
 Le tir, il est vrai à force d’être si discret reste inconnu
 du grand public et n’en tire pas le même prestige que la 
 chasse à courre, chasse spectacle par excellence.
@@ -295,7 +301,7 @@ mais l’histoire est un éternel recommencement :
           
 Plusieurs personnes se plaignent des trop  grands prélèvements de cervidés.
 
-{{<youtube fa9vAVYyATk>}}  
+{{<youtube id="fa9vAVYyATk">}} 
  
 Le plan de chasse 2016 sur Bercé. **(2'06)**
  
