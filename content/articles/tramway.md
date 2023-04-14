@@ -238,6 +238,10 @@ Note du brigadier Albrecht.
 Par sécurité, les services des tramways de la Sarthe effectueront 
   le débroussaillement de cette bande d'isolement (peu large).
 
+***Madame le chef de gare de Pruillé l'Éguillé***
+	
+{{<figure src="/images/articles/camillegager.jpg" title="Camille Gager, Chef de gare ">}}	
+
 ### 20 juillet 1921 : 
 
 Note du garde général Hurteau.
