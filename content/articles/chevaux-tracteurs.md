@@ -516,6 +516,9 @@ Par suite, le goudronnage, proposé par Calvel, arrivé dés 1953
   un gros cheval*. 
   (Herpin Gustave)
   
+{{<figure src="/images/articles/19750725pierre.jpg" title="Pierre Hérisson et son tracteur Same en juillet 1975">}}
+  
+  
 {{<figure src="/images/articles/23022011513.jpg" title="Il n’y a pas d’âge pour être en mauvaise posture">}}
 
 
