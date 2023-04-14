@@ -39,7 +39,12 @@ de 2000 chênes.
 
 Contrairement à Saint-Ouen en Belin, pour Paris.... c'est cadeau !
 
-Bercé fut la première à se mettre en œuvre le dispositif.
+Bercé fut la première à se mettre en œuvre dans le dispositif de reconstruction.
+
+Les bois de Bercé serviront avec d'autres bois de diverses forêts françaises
+à bâtir au printemps 2023, le tabouret qui supportera la flèche.
+
+{{<figure src="/images/articles/flechecathedrale.jpg" title="Les différents éléments de la flèche - croquis des architectes">}}
 
 
 ### Les acteurs de la filière bois vous interpellent.
