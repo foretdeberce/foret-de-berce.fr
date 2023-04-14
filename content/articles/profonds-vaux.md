@@ -46,6 +46,13 @@ Suite au décès du garde THIBAULT en mai 1910,
   à la maison forestière on désinfecte par lessivage à la potasse 
   les peintures des plafonds et murs de la cuisine, du vestibule, de la chambre.
   Lavage des pavages au chlorure de chaux. 
+     
+Au début du siècle dernier des enfants de l’Assistance Publique ont été acheminés dans diverses familles sarthoises. On les appelait : les pitauds, les assistés, les «P’tits-Paris».
+Georges et François sont ainsi passés à la maison forestière des Profonds-Vaux en 1911.
+     
+     
+{{<figure src="/images/articles/beaumont1911.jpg" title="Les pitauds des Profonds-Vaux">}}
+     
   
 11 décembre 1928, le garde GAUTRON note sur son livret journalier :
   « le prédécesseur a laissé 2m³ de fumier. »
