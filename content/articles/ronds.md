@@ -466,14 +466,11 @@ Croisement D 13 / Route forestière des Terres Blanches / Chemin Vicinal n° 2.
 	(commune de Mayet) : 
 Croisement D 279 Route de Vaas/ Ligne de la Guiltière./Route de Mayet à Château du Loir.
 	
-{{<figure src="/images/articles/001belair.jpg" title="Rond de Bel-Air">}}
-
 
 ### 07 – Rond de la Guiltière 
 	(commune de Mayet) : 
 Croisement route forestière de la Guiltière / Route forestière des Terres Blanches.
 	
-{{<figure src="/images/articles/001guiltiere.jpg" title="Rond de la Guiltière">}}
 
 ### 08 – Rond de Verneil ou des Vernes 
 	(commune de Lavernat) : 
