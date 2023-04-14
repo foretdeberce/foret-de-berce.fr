@@ -518,9 +518,8 @@ Par suite, le goudronnage, proposé par Calvel, arrivé dés 1953
   
 {{<figure src="/images/articles/19750725pierre.jpg" title="Pierre Hérisson et son tracteur Same en juillet 1975">}}
   
-  
-{{<figure src="/images/articles/23022011513.jpg" title="Il n’y a pas d’âge pour être en mauvaise posture">}}
-
+Il y a eu au plus fort de l'emploi "moderne" deux chauffeurs de tracteurs :
+*Pierre Hérisson et Narcisse Manceau*.
 
 {{<figure src="/images/articles/chevauxfin.jpg" title="La fin du cheval et la fin d’une époque">}}
 
