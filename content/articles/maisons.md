@@ -4,10 +4,10 @@ date: 2022-09-18T16:23:44+01:00
 draft: false
 description: "pour les maisons forestières"
 featured_image: "/images/tasse-chasse.jpg"
-tags: ["Forestiers","MF"]
+tags: ["Forestiers","MF","Hommes"]
 ---
 
-*« L'Administration des Forêts a toujours considéré la construction 
+*« L'Administration des forêts a toujours considéré la construction 
 de maisons forestières comme indispensable pour assurer, en même temps
 que la répression des délits, la surveillance incessante 
 des exploitations et des travaux.* 
@@ -49,8 +49,6 @@ Mais il fallait également les protéger des vents du nord.
 L'habitation pour la quelle était fourni un plan type, disposait impérativement
   d'un point d'eau : source, citerne, mare ou puits.
   
-  {{<figure src="/images/articles/1980etangs.jpg" title="Un cartouche au dessus de la porte d'entrée">}}
-  
 Afin de protéger la demeure de l'humidité remontant de la terre, 
   les Eaux et forêts préconisaient de surélever le niveau du sol de 50 centimètres,
   voire plus en cas de terrain particulière ment humide, 
@@ -59,20 +57,24 @@ Afin de protéger la demeure de l'humidité remontant de la terre,
   chaque maison au milieu de la façade. 
   
 Toutes les maisons, à l'origine sans autre isolation que celle de la grande
-  épaisseur des murs (pierres et moellons de la forêt)sont donc généralement
-  construites sur un même plan. Bref, l'implantation, les fondations, 
+  épaisseur des murs (pierres et moellons de la forêt) sont donc généralement
+  construites sur un même plan.
+	
+Bref, l'implantation, les fondations, 
   les dimensions, tout était fixé à l'avance. 
   
   {{<figure src="/images/articles/etangsplan.jpg" title="Modifications de 1950">}}
   
     La circulaire précisait que :  
+	
     "l'épaisseur des murs, les cloisons, les encadrements des portes et des fenêtres, 
     la couverture des bâtiments et par suite la charpente pourront être modifiés en
     raison de la nature des matériaux employés dans les localités."
   
 D'autant que c'étaient les entrepreneurs locaux qui se chargeaient 
   eux-mêmes de mettre en œuvre les plans de l'Administration. 
-  Chaque région possédait donc ses particularités architecturales.
+	
+Chaque région possédait donc ses particularités architecturales.
   
 Des aménagements complémentaires étaient possibles, 
   avec l'accord de l'Administration, tel celui du grenier ou de 
@@ -129,11 +131,14 @@ Dans cet ordre d'idées tout à fait paternaliste,
 
 ### Noms de baptême des maisons
 
-	La règle : *Un cartouche établi par les soins de l'administration 
-  indiquera que cette maison est une maison forestière, en plus de 
-  l'appellation de celle-ci, qui sera discrète. 
-  La maison pourra être appelée du nom du lieu- dit du cadastre 
-  où elle sera édifiée*. 
+La règle : 
+	
+*Un cartouche établi par les soins de l'administration 
+indiquera que cette maison est une maison forestière, en plus de 
+l'appellation de celle-ci, qui sera discrète. 
+La maison pourra être appelée du nom du lieu- dit du cadastre 
+où elle sera édifiée*. 
+	
   Cantons, château, fermes, donnent ainsi leur nom aux maisons, 
   nom qui s'inscrit en grosses lettres sur le front de celles-ci.
   Ces plaques de baptême en fonte, vissées au dessus de la porte d’entrée, 
