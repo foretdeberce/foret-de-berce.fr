@@ -235,6 +235,8 @@ Chronique de Bercé **(44'07)**
   {{<figure src="/images/articles/deleule4.jpg" title="1973, prise de son en forêt de Bercé">}}
   
   {{<figure src="/images/articles/deleule5.jpg" title="1973, prise de son à la Huberdière">}}
+  
+  {{<figure src="/images/articles/berce-1972.jpg" title="Tournage parcelle 120 du rond du Buisson">}}
 
 ### Éluard Guy
   
