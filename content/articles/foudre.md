@@ -280,9 +280,9 @@ La Maison Byrrh détient donc à ce jour le record et dispose
   
   Véritable ville dans la ville, la société occupe une superficie de 7 hectares.
   Pendant longtemps elle a eu sa propre gare, désaffectée en 1989.
-  La visite en vaut le détour.
   
-{{<figure src="/images/articles/byrrh.jpg" title="Originalité du nom Byrrh">}}
+  La visite vaut le détour.
+  
   
 {{<figure src="/images/articles/finthuir3.jpg" title="30 octobre 1927 à Jupilles">}}
   
@@ -292,14 +292,14 @@ Publicité prémonitoire en 1927 à Jupilles.
   
 ### Bibliographie : 
   
-  Archives ONF, Cusenier, Wikipédia.
+Archives ONF, Cusenier, Wikipédia.
   
   Yves Gouchet : 
   Revue  « au Fil du Temps » n° 53 et 54 page diverses (oct.2011 - janv.2012) 
    
 ### Iconographie :
   
-  Photos Cusenier (Maison Byrrh, pour le reportage Photographique)
+Photos Cusenier (Maison Byrrh, pour le reportage Photographique)
   
 
 
