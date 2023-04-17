@@ -8,7 +8,7 @@ Ce massif Sarthois de 5400 hectares, colonise
 au sud du Mans, la bordure du plateau Calaisien. 
 
 Les feuillus peuplent la partie "Est" (anciennement Royale)
-et les résineux les anciennes landes du "Nord et de l'Ouest".
+et les résineux, les anciennes landes au "Nord et à l'Ouest".
 
 La qualité de ses bois, la richesse de son histoire 
 et l’attachement des Sarthois, en font un des 
