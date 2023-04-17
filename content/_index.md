@@ -4,11 +4,11 @@ description: "Forêt d'exception"
 featured_image: "/images/brigadier.jpg"
 ---
 
-Ce massif Sarthois de 5400 hectares, est situé
-sur le plateau Calaisien à 30 km au sud du Mans. 
+Ce massif Sarthois de 5400 hectares, colonise 
+au sud du Mans, la bordure du plateau Calaisien. 
 
-Les feuillus envahissent la partie "Est" anciennement Royale
-et les résineux les anciennes landes au "Nord et à l'Ouest".
+Les feuillus peuplent la partie "Est" (anciennement Royale)
+et les résineux les anciennes landes du "Nord et de l'Ouest".
 
 La qualité de ses bois, la richesse de son histoire 
 et l’attachement des Sarthois, en font un des 
@@ -20,14 +20,14 @@ des allées dignes de certains boulevards Haussmanniens.
 La pureté de son air est irréprochable.
 
 La qualité de ses chênes, est recherchée par 
-tous les savoirs faire d'aujourd'hui. 
+tous les savoirs faire. 
 
 Savez vous qu'en son sein, une tour existe,
 plus haute que la tour Eiffel?
 
-Ici se termine la comparaison avec la capitale !
+Mais ici se termine la comparaison avec la capitale !
 
-Paysage, diversité naturelle, culturelle et 
+Paysages, diversité naturelle, culturelle et 
 patrimoniale, en font une "Forêt d'Exception ®"
 
 
