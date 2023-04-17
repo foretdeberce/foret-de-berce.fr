@@ -8,7 +8,7 @@ Ce massif Sarthois de 5400 hectares, est situé
 sur le plateau Calaisien à 30 km au sud du Mans. 
 
 Les feuillus envahissent la partie "Est" anciennement Royale
-et les résineux les anciennes landes au "Nord et Ouest".
+et les résineux les anciennes landes au "Nord et à l'Ouest".
 
 La qualité de ses bois, la richesse de son histoire 
 et l’attachement des Sarthois, en font un des 
@@ -28,7 +28,7 @@ plus haute que la tour Eiffel?
 Ici se termine la comparaison avec la capitale !
 
 Paysage, diversité naturelle, culturelle et 
-patrimoine, l’ont classé "Forêt d'Exception ®"
+patrimoniale, en font une "Forêt d'Exception ®"
 
 
 ### Pour ne rien perdre de vos ballades, pensez à indexer ce site sur vos écrans.
