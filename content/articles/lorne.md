@@ -162,7 +162,6 @@ Il  me  fallait  seul  assurer  le  travail de  deux.
      Le "pivot" de mon personnel était Madame Robert, 
      une vraie secrétaire intelligente, vive et fort sympathique." 
 
-{{<figure src="/images/articles/cogne.jpg"  title="il fait bon vivre dans la rue du Bourg d’Anguy">}}
 
  ### Conservateur, puis directeur régional de l’Office national des forêts 1964- 1969
   
