@@ -71,7 +71,9 @@ Ces traces de l’activité humaine, liées à l'extraction du précieux minerai
   peuvent tout aussi bien être isolées. On parle alors de mortiers ou trous 
   d'extraction qui, en général, annoncent à proximité la présence 
   d'un ferrier (ou dépôt de scories) et de ses fours. 
-  
+	
+{{<figure src="/images/articles/mineraisurgangue.jpg" title="Concrétions ferrugineuses sur gangue provenant de la parcelle 145">}}
+
 Ne perdez pas votre temps à rechercher du minerai en ces lieux,
   sauf peut-être dans une culée d'arbre arrachée, vous n'en trouverez pas, 
   tout a été méticuleusement nettoyé par nos ancêtres les Gaulois. 
