@@ -34,7 +34,7 @@ pour Bercé une révolution tranquille.
 Les modes d’exploitation ont évolué pour faire face à la pénibilité
 des exploitations et au manque de main d’œuvre.
 
-La pression des engins de débardage ou des abatteuses sur le sol est l’un 
+Mais la pression des engins de débardage ou des abatteuses sur le sol est l’un 
 des problèmes récurrents que les forestiers d’aujourd’hui tentent 
 de régler en cloisonnant systématiquement le parterre des coupes.
 
@@ -55,6 +55,9 @@ La sylviculture régulière du chêne n’est pas seulement une affaire techniqu
 environnementale ou économique. 
 
 Sa dimension culturelle est désormais reconnue.
+  
+***Prochaine étape l'inscription***
+au patrimoine mondial culturel et naturel de l'UNESCO.
 
 {{<youtube id="vja6a0Q0l-E">}}
   
