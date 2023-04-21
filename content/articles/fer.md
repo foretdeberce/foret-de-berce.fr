@@ -80,7 +80,9 @@ Ne perdez pas votre temps à rechercher du minerai en ces lieux,
   Un premier tri était généralement effectué dans les galeries 
   situées en fond de puits. **(2)** Le minerai était ensuite acheminé
   à dos d'homme ou de monture jusqu'à l'atelier de réduction le plus proche.
-  
+	
+{{<figure src="/images/articles/concretionferrugineuse.jpg" title="induration ferrugineuse">}}  
+	
 Et celui-ci vous le trouverez facilement en scrutant les déchets métalliques
   (qui en contiennent encore beaucoup) sur le sol forestier.
 
