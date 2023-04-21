@@ -70,26 +70,36 @@ ce que l'on pourrait appeler les plus grands carreaux miniers de Bercé.
 Ces traces de l’activité humaine, liées à l'extraction du précieux minerai, 
   peuvent tout aussi bien être isolées. On parle alors de mortiers ou trous 
   d'extraction qui, en général, annoncent à proximité la présence 
-  d'un ferrier (ou dépôt de scories) et de ses fours. 
+  d'un ferrier (ou dépôt de scories) et de ses fours **(3)**. 
 	
 {{<figure src="/images/articles/mineraisurgangue.jpg" title="Concrétions ferrugineuses sur gangue provenant de la parcelle 145">}}
 
 Ne perdez pas votre temps à rechercher du minerai en ces lieux,
   sauf peut-être dans une culée d'arbre arrachée, vous n'en trouverez pas, 
   tout a été méticuleusement nettoyé par nos ancêtres les Gaulois. 
+	
   Un premier tri était généralement effectué dans les galeries 
-  situées en fond de puits. **(2)** Le minerai était ensuite acheminé
+  situées en fond de puits. **(2)** 
+	
+Le minerai était ensuite acheminé
   à dos d'homme ou de monture jusqu'à l'atelier de réduction le plus proche.
 	
 {{<figure src="/images/articles/concretionferrugineuse.jpg" title="induration ferrugineuse">}}  
 	
-La loupe de minerai était, une fois extraite de sa gangue était travaillée par les forgerons.
-De nos jours, le reste du minerai est encore visible en scrutant les déchets métalliques
-(qui en contiennent encore beaucoup dans les ferriers) sur le sol forestier.
+La loupe de minerai était, une fois extraite
+de sa gangue était travaillée par les forgerons.
 	
-     A la différence des Hauts fourneaux,
-     les bas fourneaux n'arrivent pas à 
-     extraire tout le métal du minerai.
+De nos jours, en scrutant les déchets métalliques des ferriers
+sur le sol forestier, on peut percevoir encore 47% de fer à récupérer.
+	
+{{<figure src="/images/articles/basfourneau.jpg" title="Reconstitution d'un bas-fourneau à La Bazoge (3)">}}
+	
+     Car à la différence des Hauts-fourneaux,
+     (postérieurs au XVème siècle)
+     les bas-fourneaux 
+     (ceux du premier âge du fer au haut moyen-âge) 
+     dont la température ne dépasse pas 1500°,
+     n'arrivent pas à extraire tout le métal du minerai.
 
 {{<figure src="/images/articles/201409p6.jpg" title="Traces de ferrier sur le sol de la parcelle 6">}}
 
@@ -164,7 +174,7 @@ Les fiefs en prennent possession. De gros centres de transformation,
   si l'on en croit l'aveu rapporté par l'érudit Sarthois Henri Roquet. 
   Celui-ci parle de « forge grossière » fonctionnant dans la forêt de Bercé 
   en 1408, ce qui en ferait à cette date (et de très loin !), 
-  nous dit François Dornic **(3)**, la toute première grosse forge de l'ouest.
+  nous dit François Dornic **(4)**, la toute première grosse forge de l'ouest.
 
 {{<figure src="/images/articles/berce45.jpg" title="Carte des prospections à pied 2003, avant Lidar">}}
 
@@ -193,7 +203,7 @@ Quand bien même il s'agit de la mémoire collective,
   nos générations futures en perdront le fil du temps,
   si nous ne consignons pas nos découvertes. 
   
-Le 4 décembre 1926 **(4)**, une demande parvient au Mans,
+Le 4 décembre 1926 **(5)**, une demande parvient au Mans,
   à l'inspection des Eaux et forêts, d'un industriel qui désire 
   être autorisé à faire des sondages dans la forêt de Bercé, 
   en vue de récupérer des scories de minerai de fer provenant
@@ -234,7 +244,7 @@ A peine un siècle auparavant, l'aménagiste de Bercé, notait en résumé :
   si on juge par les excavations nombreuses que l'on remarque à la surface du sol 
   de plusieurs cantons et notamment de celui des Forges. 
   On voit également des amas considérables de scories de fer 
-  sur plusieurs points et notamment au canton de "Croix-Marconnay".»* **(4)**  
+  sur plusieurs points et notamment au canton de "Croix-Marconnay".»* **(5)**  
 
 ### Des maisons se sont construites sur des buttes de mâchefer :
   La Butte Fouquereau (Marigné) et la Butte (Jupilles).
@@ -280,7 +290,7 @@ Hors les territoires traversés par l'A28 ou couverts par la forêt de Bercé,
 	
   Aucune étude n'avait été entreprise sur Bercé. 
 Mais à la vue des échantillons prélevés par l’AFAN **(2)** 
-  et le SRA **(5)**  fin 1999 sur le site, nous pouvions allègrement
+  et le SRA **(6)**  fin 1999 sur le site, nous pouvions allègrement
   emboîter le pas des archéologues et faire le rapprochement 
   avec les sites étudiés dans le sud de la Sarthe, entre Changé 
   et Ecommoy, sur l'emprise de l’A28 **(2)**. 
@@ -291,7 +301,7 @@ La datation carbone 14, évaluait pour ces exploitations minières souterraines,
   
 ### En 2013 
 	
-  Morgan Choplin **(6)** encadré par Cécile Le Carlier de Veslud (ingénieure d'étude CNRS) 
+  Morgan Choplin **(7)** encadré par Cécile Le Carlier de Veslud (ingénieure d'étude CNRS) 
   étudie quelques ferriers en forêt de Bercé, ceci afin d’en dater la période d’exploitation. 
   
 Laissons à Morgan Choplin le soin d’étayer son étude : 
@@ -451,17 +461,20 @@ D’autant plus qu’il n’y avait en forêt que de mauvais sentiers,
   
 **(2)** AFAN : Association des Fouilles Archéologiques Nationales (Coordinatrice C.Thooris) 
   travail de l'équipe 09/97 " La Paléo métallurgie sur l'A28 - 
-  L'Archéologue n° 35 Avril-Mai 1998 (carnet de fouilles)    
+  L'Archéologue n° 35 Avril-Mai 1998 (carnet de fouilles)   
+	
+**(3)** La métallurgie du Maine, de l'âge du fer au milieu du XXème siècle.
+  Monum, Éditions du patrimoine.
   
-**(3)** Le Fer contre la Forêt – (1984) aux Editions Ouest-France
+**(4)** Le Fer contre la Forêt – (1984) aux Editions Ouest-France
   
-**(4)** Archives de l'Office national des forêts :
+**(5)** Archives de l'Office national des forêts :
   Procès-verbal d'aménagement de la forêt de bercé de 1843
   
-**(5)** S.R.A : - Service Régional de l'Archéologie, 
+**(6)** S.R.A : - Service Régional de l'Archéologie, 
   (Direction Régionale des Affaires culturelles).
   
-**(6)** Rapport d'opération programmée du S.R.A. Prospection thématique - 
+**(7)** Rapport d'opération programmée du S.R.A. Prospection thématique - 
   Année 2013 -La sidérurgie en forêt de Bercé (Sarthe). 
   Morgan Choplin encadré par Cécile Le Carlier de Veslud (C.N.R.S.)
 
@@ -477,7 +490,7 @@ La Métallurgie du Maine : Belhoste J-F, Robineau E (dir.), Baptiste G,
 *la forêt de Bercé…ou c’te Forêt* Joël Picard (1994)
   Club d’Histoire Locale Jean Benoit.
   
-Revue  *au fil du temps*  n° 6 & 8  du 30 juin 2000 - Pages diverses (Y. Gouchet)
+Revue  *Au Fil du Temps*  n° 6 & 8  du 30 juin 2000 - Pages diverses (Y. Gouchet)
 
 
 
