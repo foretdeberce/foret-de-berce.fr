@@ -10,8 +10,8 @@ tags: ["Histoire","Hommes","Ouvriers","Travaux"]
 La vie par le passé était laborieuse et beaucoup de travailleurs se
 trouvaient en état de pauvreté.
 
-Ces "gagne-petit" pour passer l'hiver venaient
-glaner ou grapiller dans nos forêts, le bois de subsistance.
+Ces "gagne-petit" pour passer l'hiver parcouraient la forêt
+pour glaner ou grapiller le bois de subsistance.
 
 [Considéré dans un premier temps comme du vol](/articles/pdf/volsdeboisberce.pdf), 
 les mentalités changèrent subitement par la 
