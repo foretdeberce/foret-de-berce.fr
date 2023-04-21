@@ -24,12 +24,14 @@ Le 9 mars 1944, sous les yeux impuissants de M. Viney (inspecteur) et de ses
 Pourtant la veille, avec ses collègues ils avaient ensemble répété un plan pour
   disparaître par les toits. Hélas la surprise fût totale.
 
+***Baptisé le 9 mars 2002 ***
+  
+  Un chêne est dédié à la mémoire
+  du commisforestier **(1)**
+  Georges-France MURIEL
+  exécuté au camp du Struthof (67)
+  le 1er septembre 1944.
 
-{{<figure src="/images/articles/image2.jpg" title="Baptême du Chêne">}}
-
-Dédié à la mémoire de
-Georges France Muriel, 
-ce samedi 9 mars 2002 
 
 {{<youtube id="tuPABUCKjqU">}}
   
