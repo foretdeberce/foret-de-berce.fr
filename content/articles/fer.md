@@ -83,8 +83,13 @@ Ne perdez pas votre temps à rechercher du minerai en ces lieux,
 	
 {{<figure src="/images/articles/concretionferrugineuse.jpg" title="induration ferrugineuse">}}  
 	
-Et celui-ci vous le trouverez facilement en scrutant les déchets métalliques
-  (qui en contiennent encore beaucoup) sur le sol forestier.
+La loupe de minerai était, une fois extraite de sa gangue était travaillée par les forgerons.
+De nos jours, le reste du minerai est encore visible en scrutant les déchets métalliques
+(qui en contiennent encore beaucoup dans les ferriers) sur le sol forestier.
+	
+     A la différence des Hauts fourneaux,
+     les bas fourneaux n'arrivent pas à 
+     extraire tout le métal du minerai.
 
 {{<figure src="/images/articles/201409p6.jpg" title="Traces de ferrier sur le sol de la parcelle 6">}}
 
