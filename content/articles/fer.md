@@ -92,11 +92,11 @@ de sa gangue était travaillée par les forgerons.
 De nos jours, en scrutant les déchets métalliques des ferriers
 sur le sol forestier, on peut percevoir encore 47% de fer à récupérer.
 	
-{{<figure src="/images/articles/basfourneau.jpg" title="Reconstitution d'un bas-fourneau à La Bazoge (3)">}}
+{{<figure src="/images/articles/basfourneau.jpg" title="(3) Reconstitution d'un bas-fourneau à La Bazoge">}}
 	
      Car à la différence des Hauts-fourneaux,
      (postérieurs au XVème siècle)
-     les bas-fourneaux 
+     les bas-fourneaux (3)
      (ceux du premier âge du fer au haut moyen-âge) 
      dont la température ne dépasse pas 1500°,
      n'arrivent pas à extraire tout le métal du minerai.
