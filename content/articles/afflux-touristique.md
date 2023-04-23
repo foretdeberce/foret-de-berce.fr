@@ -319,13 +319,28 @@ Enfin pour terminer en reprenant le jeu gue l'ami TOURNESAC apprenait à nos
 **Cent dix sept, c'est épatant, tant ils s'amusent ...muses ...et hommes !!!**
 
 
-### Ouest Éclair du 5 avril 1931
+### 3 mois avant la mort du chêne Boppe :
 
-Au syndicat d'initiative de la Sarthe, 500.000 timbres touristiques viennent d'être édités.
-
-Nous avons annoncé, il y a quelque temps, que le Syndicat d'initiative de la Sarthe avait décidé de publier 
-des timbres de propagande sur les points touristiques les plus Intéressants du département. 
-
-500.000 timbres ont été exécutés et ils viennent d'être livrés au bureau de tourisme qui va les faire parvenir 
-immédiatement aux très nombreux souscripteurs qui ont tenu à appuyer l'effort de l'actif groupement de propagande 
-présidé par M Georges DURAND. 
+     Le 16 septembre 1934, une concentration était prévue 
+     avec les C.T. de la Sarthe aux sources de l’Hermitière 
+     en forêt de Jupilles. 
+     Un empêchement de dernière heure eut pour résultat de 
+     n’amener aucun C.T.S. au lieu convenu.
+     Nous fîmes quand même l’excursion prévue, ne pouvant
+     la remettre à une date ultérieure et dès le samedi 
+     soir trois campeurs partirent installer leurs tentes 
+     tout près des Sources.
+     Le matin le groupe alla les rejoindre par l’agréable 
+     mais assez dure route de Beaumont-la-Ronce et 
+     La Chartre sur le Loir et les routes agréables de la forêt, 
+     et en passant voir le vénérable chêne Boppe à la corpulence
+     et à la taille impressionnantes.
+     En attendant l’heure du déjeuner et pour nous consoler
+     de n’avoir vu aucun Manceau, une partie fut entamée.
+     Après quelques horions tout amicaux, Jupilles fut atteint 
+     pour le déjeuner qui se passa très gaiement, 
+     malgré le sourire peu gracieux de la servante…
+     Et ce fut le retour par Saint-Hubert et Château-du-Loir 
+     sans autre incidents qu’une bataille à coup de pommes 
+     et la perte d’un camarade retenu en arrière
+     par une affaire demeurée mystérieuse….
