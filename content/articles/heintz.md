@@ -66,6 +66,40 @@ Une seconde naissance arrive le 20 juillet 1875,
  «Resté à la maison pour faire enterrer mon enfant nouveau né ». 
   Les obsèques auront lieu à Thoiré.
   
+### Équipement du chasseur forestier Heintz
+
+     Dotation du 14 septembre 1875
+
+     Un mousqueton chassepot d’artillerie modèle 1866 
+     (calibre 11mm. Il mesure 0m 93 pour 3kg200 
+     plus 0m70 de sabre-baïonnette) d’une portée de 1200m.
+     Mis en service en 1873, soit un an avant le système 1874.
+     Arme très rare, en version d’origine, dite d’artillerie.
+
+     Une poche à cartouches
+     Une bretelle de mousqueton
+     Deux coulants en cuivre
+     Une plaque de ceinturon et le verrou de cette plaque
+     Deux crochets à bouton en cuivre 
+     Une musette en toile ou sachet à cartouches
+     Un havresac avec planchettes et courroies
+     Un porte-sabre baïonnette
+     Un sabre baïonnette
+     Un fourreau de sabre 
+     Un nécessaire d’arme renfermant un « lavoir », 
+     une lame tourne vis, une clef, une spatule curette 
+     et une trousse.
+     Un étui renfermant une aiguille et un ressort 
+     à boudin de rechange
+     Deux obturateurs dont un de rechange
+     Un ceinturon d’infanterie
+     Une giberne 
+     
+     •	Il y a encore peu de temps, sous la restauration 
+     et le II empire, les forestiers portaient en sus,
+     un "couteau de chasse" qui pouvait s’apparenter
+     à un glaive.
+  
 Le 4 décembre 1875, « au Château du Loir pour payer les frais de timbre
   de mon extrait de naissance et du consentement de mes parents pour mon mariage »
 
