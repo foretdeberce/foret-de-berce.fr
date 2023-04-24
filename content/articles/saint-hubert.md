@@ -136,7 +136,22 @@ Cet établissement deviendra progressivement cette auberge renommée
   
 ### 1934 :
   
-{{<figure src="/images/articles/28juin1934.jpg" title="Assemblée de Saint-Hubert 1934">}}
+L’Ouest-Éclair du 28 juin 1934 relate
+  
+***L’assemblée de Saint-Hubert***
+  
+     Dimanche prochain, 1er juillet, se tiendra, 
+     dans le cadre si bien choisit du carrefour
+     Saint-Hubert, en pleine forêt de Bercé, 
+     une grande assemblée.
+     Nul doute que les amateurs de plein-air
+     ne s’y rendent nombreux.
+     Les couples pourront s’y divertir à loisir
+     au son de la musique du bal Brimbal, 
+     bien connue dans la région.
+     Il y aura également de nombreuses attractions,
+     jeux divers, tirs, loteries, etc…
+
 
 ### 1948 :
   
