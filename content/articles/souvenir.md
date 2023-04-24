@@ -49,8 +49,43 @@ le 18 novembre 1956 à Douar-Lyra /Orléansville.
          
 ### Ces pancartes n’existent plus sur le terrain.
 
+***lES MARTYRS*** 
+liste non exhaustive
 
-{{<figure src="/images/articles/algerieliste.jpg"  title="Encore d’autres martyrs">}} 
+      08/05/1955 : -M. Raoul MOERTENS, garde forestier, est tué en KABYLYE ; 
+      et M. DAUTY, garde forestier, assassiné près d'AIN KECHERA 
+
+
+      24/12/1955 : Un garde forestier M. Antoine GHERADI, 
+         sa femme, ainsi que trois de ses enfants  sont sauvagement
+         assassinés près de SETIF. 
+
+      09/10/1956 : Sept Français, dont un soldat, 
+         assassinés en 48 heures, deux autres sont blessés. 
+         M. VINETTE, agent technique des Eaux et Fôrets, 
+         est enlevé à Tagat-El-Nador. 
+
+      18/11/1956 Mrs ÉMONOT et CANTINI seront tués avec 
+         4 militaires du 13ème R.I. près de Teniet-El-Haad.
+
+      07/12/1956 : JAMES, garde forestier est exécuté à Ténès.
+
+      23/12/1956 : Attentat contre le garde forestier de Keddara
+         et sa épouse. 
+
+      FRANCE 26/12/1956 : 
+         PARIS. M. René COTY, Président de la République, 
+         gracie 5 terroristes condamnés à mort.
+
+      27/12/1956 : Oran. Deux agents des Eaux et Forêts
+         sont massacrés près de Saida. il s'agit de M. DE LUSSY, 
+         inspecteur, et M. LE BOUQUIN, agent technique. 
+
+      17/07/1957 : Un brigadier des "Eaux et Forêts", 
+         M. DEBLE, est assassiné à Molière. 
+
+      19/07/1957 : Une "jeep" des "Eaux et Forêts" est attaquée à Tigzirt.
+         Deux morts: MM. LABARDE et MARCHAL. 
 
 
 Un mât,  pour la levée des couleurs, sert lors des commémorations
