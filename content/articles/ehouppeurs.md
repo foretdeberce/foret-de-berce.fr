@@ -106,10 +106,10 @@ Habitant Mayet, fut aussi secouru par Édouard.
   
 ### Chesnier André :
   
-Habitant Pruillé l’Éguillé, André a eu les deux chevilles cassées.
+Habitant Pruillé l’Éguillé, André a eu les deux chevilles "pétées".
  *Il fut déséquilibré et tomba à la renverse. 
  On le retrouva pendu par les pieds, depuis plus de deux heures
- durant, dans Croix Veneur.*
+ durant, dans Croix Veneur.* ...il aurait pu y passer.
   
   {{<figure src="/images/articles/andrechesnier1.jpg" title="André Chesnier">}}
   
