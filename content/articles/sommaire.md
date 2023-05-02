@@ -39,6 +39,11 @@ sur le lien qui vous intéresse !**
 
 ### Page 1
 
+[Sommaire]({{<ref "articles/sommaire.md">}})
+
+[Évolution de Bercé]({{<ref "articles/evolution.md">}})
+
+
 
      Sommaire
      https://www.foret-de-berce.fr/articles/sommaire/
