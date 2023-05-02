@@ -97,7 +97,6 @@ sur le lien qui vous intéresse !**
 
 [Chevaux et tracteurs]({{<ref "articles/chevaux-tracteurs.md">}})
 
-
 [Les scieries]({{<ref "articles/les-scieries.md">}})
 
 
