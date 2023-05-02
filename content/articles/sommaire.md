@@ -234,7 +234,7 @@ sur le lien qui vous intéresse !**
      ### Page 10
      
      
-[Maison forestière des Forges]({{<ref "articles/page/10.md">}})
+[Maison forestière des Forges]({{<ref "articles/forges.md">}})
 
 [Maison forestière des Hutteries]({{<ref "articles/hutteries.md">}})
 
