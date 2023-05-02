@@ -18,7 +18,7 @@ le développement d'un moteur de recherche.
 
 
 Il vous permettra d'accéder directement au sujet recherché 
-par le biais des pages 1 à 13 pour le moment.
+par le biais des pages 1 à 13 à ce jour.
 
 
 
@@ -34,401 +34,282 @@ sur le lien qui vous intéresse !**
 
 
 
-
-
-
-### Page 1
-
+     ### Page 1
+     
+     
 [Sommaire]({{<ref "articles/sommaire.md">}})
 
 [Évolution de Bercé]({{<ref "articles/evolution.md">}})
 
+[Guerre 1939/1945]({{<ref "articles/1939-1945.md">}})
 
+[Les forestiers]({{<ref "articles/forestiers.md">}})
 
-     Sommaire
-     https://www.foret-de-berce.fr/articles/sommaire/
-     
-     PPS sur l'évolution de Bercé
-     https://www.foret-de-berce.fr/articles/evolution/
-     
-     Guerre 1939/1945
-     https://www.foret-de-berce.fr/articles/1939-1945/
-     
-     Les forestiers
-     https://www.foret-de-berce.fr/articles/forestiers/
-     
-     Du bois pour Paris
-     https://www.foret-de-berce.fr/articles/cathedrale/
-     
-     Le feu
-     https://www.foret-de-berce.fr/articles/feux/
-     
-     Indigents
-     https://www.foret-de-berce.fr/articles/indigents/
-     
-     Bois chantant
-     https://www.foret-de-berce.fr/articles/bois-chantant/
-     
-     La Mothe d'Olbeau
-     https://www.foret-de-berce.fr/articles/mothedolbeau/
+[Du bois pour Paris]({{<ref "articles/cathedrale.md">}})
 
+[Le feu]({{<ref "articles/feux.md">}})
+
+[Indigents]({{<ref "articles/indigents.md">}})
+
+[Bois chantant]({{<ref "articles/bois-chantant.md">}})
+
+[La Mothe d’Olbeau]({{<ref "articles/mothedolbeau.md">}})
 
      
-### Page 2
+     ### Page 2
+     
+     
+[Carrières forestières]({{<ref "articles/carrieres.md">}})
+
+[Légendes]({{<ref "articles/legendes.md">}})
+
+[Rond du Souvenir]({{<ref "articles/souvenir.md">}})
+
+[Rond Wautot]({{<ref "articles/wautot.md">}})
+
+[Chêne Émery]({{<ref "articles/emery.md">}})
+
+[Chêne Roulleau de la Roussière]({{<ref "articles/roulleau.md">}})
+
+[Chêne Potel]({{<ref "articles/potel.md">}})
+
+[Le tramway]({{<ref "articles/tramway.md">}})
+
+[La chasse à courre]({{<ref "articles/courre.md">}})
+
+     
+     ### Page 3
+     
+     
+[La chasse à Tir]({{<ref "articles/chassetir.md">}})
+
+[Le braconnage]({{<ref "articles/braconnage.md">}})
+
+[La chasse en battue]({{<ref "articles/battues.md">}})
+
+[Chauves-souris]({{<ref "articles/chauves-souris.md">}})
+
+[Le fer]({{<ref "articles/fer.md">}})
+
+[L.I.D.A.R.]({{<ref "articles/lidar.md">}})
+
+[Le plus gros foudre du monde]({{<ref "articles/foudre.md">}})
+
+[Chevaux et tracteurs]({{<ref "articles/chevaux-tracteurs.md">}})
 
 
-     Carrières forestières
-     https://www.foret-de-berce.fr/articles/carrieres/
-     
-     Légendes
-     https://www.foret-de-berce.fr/articles/legendes/
-     
-     Rond du Souvenir
-     https://www.foret-de-berce.fr/articles/souvenir/
-     
-     Rond Wautot
-     https://www.foret-de-berce.fr/articles/wautot/
-     
-     Chêne Émery
-     https://www.foret-de-berce.fr/articles/emery/
-     
-     Chêne Roulleau de la Roussière
-     https://www.foret-de-berce.fr/articles/roulleau/
-     
-     Chêne Potel
-     https://www.foret-de-berce.fr/articles/potel/
-     
-     Le tramway
-     https://www.foret-de-berce.fr/articles/tramway/
-     
-     La chasse à courre
-     https://www.foret-de-berce.fr/articles/courre/
-     
-
-### Page 3
+[Les scieries]({{<ref "articles/les-scieries.md">}})
 
 
-     La chasse à chasse à tir
-     https://www.foret-de-berce.fr/articles/chassetir/
+     ### Page 4
      
-     Le braconnage
-     https://www.foret-de-berce.fr/articles/braconnage/
      
-     La chasse en battue
-     https://www.foret-de-berce.fr/articles/battues/
-     
-     Chauves-souris
-     https://www.foret-de-berce.fr/articles/chauves-souris/
-     
-     Le fer
-     https://www.foret-de-berce.fr/articles/fer/ 
-     
-     L.I.D.A.R.
-     https://www.foret-de-berce.fr/articles/lidar/
-     
-     Le plus gros foudre du monde
-     https://www.foret-de-berce.fr/articles/foudre/
-     
-     Chevaux et tracteurs
-     https://www.foret-de-berce.fr/articles/chevaux-tracteurs/
-     
-     Les scierie
-     https://www.foret-de-berce.fr/articles/les-scieries/
+[Timbroscopie]({{<ref "articles/timbroscopie.md">}})
+
+[Chêne Lorne]({{<ref "articles/lorne.md">}})
+
+[Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
+
+[Ancien chêne Boppe - 1]({{<ref "articles/boppe1.md">}})
+
+[Ancien chêne Boppe - 2]({{<ref "articles/boppe2.md">}})
+
+[L’Hermitière - 1]({{<ref "articles/hermitiere1.md">}})
+
+[L’Hermitière - 2]({{<ref "articles/hermitiere2.md">}})
+
+[L’Hermitière - 3]({{<ref "articles/hermitiere3.md">}})
+
+[L’Hermitière – 4 (souterrain)]({{<ref "articles/hermitiere4.md">}})
 
 
-### Page 4
+     ### Page 5
+     
+     
+[L’Hermitière - 5]({{<ref "articles/hermitiere5.md">}})
+
+[Saint-Hubert]({{<ref "articles/saint-hubert.md">}})
+
+[Balay et habitat rustique]({{<ref "articles/balay.md">}})
+
+[Loges forestières]({{<ref "articles/loges.md">}})
+
+[A 28]({{<ref "articles/a-28.md">}})
+
+[Les aléas climatiques]({{<ref "articles/aleas-climatiques.md">}})
+
+[Les lavoirs]({{<ref "articles/lavoirs.md">}})
+
+[Les éhouppeurs]({{<ref "articles/ehouppeurs.md">}})
+
+[Le chêne Muriel]({{<ref "articles/muriel.md">}})
 
 
-     Timbroscopie
-     https://www.foret-de-berce.fr/articles/timbroscopie/
-     
-     Chêne Lorne
-     https://www.foret-de-berce.fr/articles/lorne/
-     
-     Nouveau chêne Boppe
-     https://www.foret-de-berce.fr/articles/boppe3/
-     
-     Ancien chêne boppe - 1
-     https://www.foret-de-berce.fr/articles/boppe1/
-     
-     Ancien chêne boppe - 2
-     https://www.foret-de-berce.fr/articles/boppe2/
-     
-     L'Hermitiere - 1
-     https://www.foret-de-berce.fr/articles/hermitiere1/
-     
-     L'Hermitiere - 2
-     https://www.foret-de-berce.fr/articles/hermitiere2/
-     
-     L'Hermitiere - 3
-     https://www.foret-de-berce.fr/articles/hermitiere3/
-     
-     L'Hermitiere - 4 (souterrain)
-     https://www.foret-de-berce.fr/articles/hermitiere4/
-     
-     
-### Page 5
+    ### Page 6
+    
+    
+[La famille Heintz]({{<ref "articles/heintz.md">}})
+
+[La famille Leclercq]({{<ref "articles/leclercq.md">}})
+
+[Plaques et boutons]({{<ref "articles/plaques-boutons.md">}})
+
+[Carbonisation]({{<ref "articles/carbonisation.md">}})
+
+[Les Aménagements]({{<ref "articles/amenagement.md">}})
+
+[Droits d’usage]({{<ref "articles/usage.md">}})
+
+[Foncier]({{<ref "articles/foncier.md">}})
+
+[La glandée]({{<ref "articles/glandee.md">}})
+
+[Scieurs de long]({{<ref "articles/scieursdelong.md">}})
 
 
-     L'Hermitiere - 5
-     https://www.foret-de-berce.fr/articles/hermitiere5/
-     
-     Saint-Hubert
-     https://www.foret-de-berce.fr/articles/saint-hubert/
-     
-     Balay et habitat rustique
-     https://www.foret-de-berce.fr/articles/balay/
-     
-     Loges forestières
-     https://www.foret-de-berce.fr/articles/loges/
-     
-     A 28
-     https://www.foret-de-berce.fr/articles/a-28/
-     
-     Les aléas-climatiques
-     https://www.foret-de-berce.fr/articles/aleas-climatiques/
-     
-     Les lavoirs
-     https://www.foret-de-berce.fr/articles/lavoirs/
-     
-     Les éhouppeurs
-     https://www.foret-de-berce.fr/articles/ehouppeurs/
-     
-     Le chêne Muriel
-     https://www.foret-de-berce.fr/articles/muriel/
+     ### Page 7
      
      
-### Page 6
+[Des pignons pour du pognon]({{<ref "articles/pignons.md">}})
+
+[Gemmeurs, saigneurs de Bercé ]({{<ref "articles/gemmeurs.md">}})
+
+[La révolte des sabotiers]({{<ref "articles/revolte-sabotiers.md">}})
+
+[Queen Mum à Bercé]({{<ref "articles/queen-mum.md">}})
+
+[Ronds forestiers]({{<ref "articles/ronds.md">}})
+
+[Routes et chemins]({{<ref "articles/routes-chemins.md">}})
+
+[Série résineuse]({{<ref "articles/serie-resineuse.md">}})
+
+[Guerre 1914-1918]({{<ref "articles/1914-1918.md">}})
+
+[Guerre de 1870]({{<ref "articles/1870.md">}})
 
 
-     La famille Heintz
-     https://www.foret-de-berce.fr/articles/heintz/
+      ### Page 8
+      
+      
+[Tir à la cible]({{<ref "articles/tir-a-la-cible.md">}})
+
+[Louis Pigault]({{<ref "articles/louis-pigault.md">}})
+
+[Les Étangs l’Archevêque]({{<ref "articles/les-etangs-l-archeveque.md">}})
+
+[Les tournées forestières]({{<ref "articles/ecole-forestiere.md">}})
+
+[Le martelage]({{<ref "articles/martelage.md">}})
+
+[La saboterie]({{<ref "articles/sabots.md">}})
+
+[Le Cercle des poètes disparus]({{<ref "articles/bouhours.md">}})
+
+[La forêt, l’Homme et Bercé]({{<ref "articles/videos.md">}})
+
+[Fabricants de battoirs]({{<ref "articles/battoirs.md">}})
+    
+   
+     ### Page 9
      
-     La famille Leclercq
-     https://www.foret-de-berce.fr/articles/leclercq/
+[Menus bois]({{<ref "articles/fagots-bourrees.md">}})
+
+[Les déchets en forêt]({{<ref "articles/ordures.md">}})
+
+[Anastomoses]({{<ref "articles/anastomose.md">}})
+
+[Maison forestière des Profonds-Vaux]({{<ref "articles/profonds-vaux.md">}})
+
+[Maison forestière des Boussions]({{<ref "articles/boussions.md">}})
+
+[Maison forestière de la Doucinière]({{<ref "articles/douciniere.md">}})
+
+[Maison forestière de la Huberdière]({{<ref "articles/huberdiere.md">}})
+
+[Maison forestière de la Tasse]({{<ref "articles/tasse.md">}})
+
+[Maison forestière des Clos]({{<ref "articles/les-clos.md">}})
+
+  
+     ### Page 10
      
-     Plaques et boutons
-     https://www.foret-de-berce.fr/articles/plaques-boutons/
      
-     Carbonisation
-     https://www.foret-de-berce.fr/articles/carbonisation/
-     
-     Aménagements
-     https://www.foret-de-berce.fr/articles/amenagement/
-     
-     Droits d'usage
-     https://www.foret-de-berce.fr/articles/usage/
-     
-     Foncier
-     https://www.foret-de-berce.fr/articles/foncier/
-     
-     La Glandée
-     https://www.foret-de-berce.fr/articles/glandee/
-     
-     Scieurs de long
-     https://www.foret-de-berce.fr/articles/scieursdelong/
+[Maison forestière des Forges]({{<ref "articles/page/10.md">}})
+
+[Maison forestière des Hutteries]({{<ref "articles/hutteries.md">}})
+
+[Maison forestière des Renardières]({{<ref "articles/renardieres.md">}})
+
+[Maison forestière des Étangs]({{<ref "articles/les-etangs.md">}})
+
+[Un plan type pour les M.F.]({{<ref "articles/maisons.md">}})
+
+[Le Pavillon des Officiers]({{<ref "articles/pavillon-de-berce.md">}})
+
+[Les anciens forestiers]({{<ref "articles/vieux-forestiers.md">}})
+
+[Toponymie forestière]({{<ref "articles/toponymie.md">}})
+
+[Un Corse à Bercé]({{<ref "articles/cesari.md">}})
+    
+
+     ### Page 11
      
 
-### Page 7
+[Les livrets journaliers]({{<ref "articles/les-forestiers.md">}})
 
+[Bercé et la presse]({{<ref "articles/afflux-touristique.md">}})
 
-     Des pignons pour du pognon
-     https://www.foret-de-berce.fr/articles/pignons/
-     
-     Gemmeurs, saigneurs de Bercé
-     https://www.foret-de-berce.fr/articles/gemmeurs/
-     
-     La révolte des sabotiers
-     https://www.foret-de-berce.fr/articles/revolte-sabotiers/
-     
-     Queen Mum à Bercé
-     https://www.foret-de-berce.fr/articles/queen-mum/
-     
-     Ronds forestiers
-     https://www.foret-de-berce.fr/articles/ronds/
-     
-     Routes et chemins
-     https://www.foret-de-berce.fr/articles/routes-chemins/
-     
-     Série  résineuse
-     https://www.foret-de-berce.fr/articles/serie-resineuse/
-     
-     Guerre 1914-1918
-     https://www.foret-de-berce.fr/articles/1914-1918/
-     
-     Guerre de 1870
-     https://www.foret-de-berce.fr/articles/1870/
-     
-     
-### Page 8
+[Aménagements touristiques]({{<ref "articles/tourisme-en-berce.md">}})
 
+[Les bûcherons]({{<ref "articles/bucherons.md">}})
 
-     Tir à la cible
-     https://www.foret-de-berce.fr/articles/tir-a-la-cible/ 
-     
-     Louis Pigault
-     https://www.foret-de-berce.fr/articles/louis-pigault/ 
-     
-     Les Étangs l'Archevêque
-     https://www.foret-de-berce.fr/articles/les-etangs-l-archeveque/
-     
-     Les tournées forestières
-     https://www.foret-de-berce.fr/articles/ecole-forestiere/
-     
-     Le martelage
-     https://www.foret-de-berce.fr/articles/martelage/
-     
-     La saboterie
-     https://www.foret-de-berce.fr/articles/sabots/
-     
-     Le Cercle des poètes disparus
-     https://www.foret-de-berce.fr/articles/bouhours/
-     
-     La forêt, l'Homme et Bercé
-     https://www.foret-de-berce.fr/articles/videos/
-     
-     Fabricant de battoirs
-     https://www.foret-de-berce.fr/articles/battoirs/
-     
-     
-### Page 9
+[Les ateliers]({{<ref "articles/ateliers.md">}})
 
+[Bois de marine]({{<ref "articles/bois-de-marine.md">}})
 
-     Menus bois
-     https://www.foret-de-berce.fr/articles/fagots-bourrees/
-     
-     Les déchets en Forêt
-     https://www.foret-de-berce.fr/articles/ordures/
-     
-     Anastomoses
-     https://www.foret-de-berce.fr/articles/anastomose/
-     
-     Maison forestière des Profonds-Vaux
-     https://www.foret-de-berce.fr/articles/profonds-vaux/  
-     
-     Maison forestière des Boussions
-     https://www.foret-de-berce.fr/articles/boussions/
-     
-     Maison forestière de la Doucinière
-     https://www.foret-de-berce.fr/articles/douciniere/
-     
-     Maison forestière de la Huberdière
-     https://www.foret-de-berce.fr/articles/huberdiere/
-     
-     Maison forestière de la Tasse
-     https://www.foret-de-berce.fr/articles/tasse/ 
-     
-     Maison forestière des Clos
-     https://www.foret-de-berce.fr/articles/les-clos/
-     
-     
-### Page 10
+[Les travailleurs du 19ème siècle]({{<ref "articles/auxiliaires-1860-1900.md">}})
 
+[Les auxiliaires forestiers]({{<ref "articles/les-hommes.md">}})
 
-     Maison forestière des Forges
-     https://www.foret-de-berce.fr/articles/page/10/
+[Pics et insectes]({{<ref "articles/biodiversite-pics-insectes.md">}})
      
-     Maison forestière des Hutteries
-     https://www.foret-de-berce.fr/articles/hutteries/
+  
      
-     Maison forestière des Renardieres
-     https://www.foret-de-berce.fr/articles/renardieres/
-     
-     Maison forestière des Étangs
-     https://www.foret-de-berce.fr/articles/les-etangs/
-     
-     Un plan type pour les M.F.
-     https://www.foret-de-berce.fr/articles/maisons/
-     
-     Le Pavillon des Officiers
-     https://www.foret-de-berce.fr/articles/pavillon-de-berce/
-     
-     Les anciens forestiers
-     https://www.foret-de-berce.fr/articles/vieux-forestiers/
-     
-     Toponymie forestière
-     https://www.foret-de-berce.fr/articles/toponymie/
-     
-     Un Corse à Bercé
-     https://www.foret-de-berce.fr/articles/cesari/
+     ### Page 12
      
 
-### Page 11
+[7ème forêt d’Éxception®]({{<ref "articles/7eme-foret-d-exception.md">}})
 
+[Le vent]({{<ref "articles/vent.md">}})
 
-     Les livrets journaliers 
-     https://www.foret-de-berce.fr/articles/les-forestiers/
-     
-     Bercé et la presse
-     https://www.foret-de-berce.fr/articles/afflux-touristique/
-     
-     Aménagements touristiques
-     https://www.foret-de-berce.fr/articles/tourisme-en-berce/
-     
-     Les bûcherons
-     https://www.foret-de-berce.fr/articles/bucherons/
-     
-     Les ateliers
-     https://www.foret-de-berce.fr/articles/ateliers/
-     
-     Bois de marine
-     https://www.foret-de-berce.fr/articles/bois-de-marine/
-     
-     Les travailleurs du 19ème siècle
-     https://www.foret-de-berce.fr/articles/auxiliaires-1860-1900/
-     
-     Les auxiliaires forestiers 
-     https://www.foret-de-berce.fr/articles/les-hommes/
-     
-     Pics et insectes
-     https://www.foret-de-berce.fr/articles/biodiversite-pics-insectes/
-     
-     
-### Page 12
+[Arbres remarquables]({{<ref "articles/arbres-remarquables.md">}})
 
+[Les chemins de l’eau]({{<ref "articles/eau.md">}})
 
-     7ème forêt d'Exception®
-     https://www.foret-de-berce.fr/articles/7eme-foret-d-exception/
-     
-     Le vent
-     https://www.foret-de-berce.fr/articles/vent/
-     
-     Arbres remarquables
-     https://www.foret-de-berce.fr/articles/arbres-remarquables/
-     
-     L'eau 
-     https://www.foret-de-berce.fr/articles/eau/
-     
-     Bercé aux temps anciens
-     https://www.foret-de-berce.fr/articles/berce-aux-temps-anciens/ 
-     
-     Pêche
-     https://www.foret-de-berce.fr/articles/peche/
-     
-     Travailleurs de 1900 à 2000
-     https://www.foret-de-berce.fr/articles/auxiliaires-1900-1950/
-     
-     Le loup à Bercé
-     https://www.foret-de-berce.fr/articles/loup/
-     
-     Daniel Girard
-     https://www.foret-de-berce.fr/articles/daniel-girard/
-     
-     
-### Page 13
+[Bercé aux temps anciens]({{<ref "articles/berce-aux-temps-anciens.md">}})
 
+[Pêche]({{<ref "articles/peche.md">}})
 
-     Pylône TDF
-     https://www.foret-de-berce.fr/articles/pylone/
+[Travailleurs de 1900 à 2000]({{<ref "articles/auxiliaires-1900-1950.md">}})
+
+[Le loup à Bercé]({{<ref "articles/loup.md">}})
+
+[Daniel Girard]({{<ref "articles/daniel-girard.md">}})
+
      
-     La Coudre
-     https://www.foret-de-berce.fr/articles/la-coudre/
      
-     Sylviculture
-     https://www.foret-de-berce.fr/articles/sylviculture/
+     ### Page 13
      
-     Se rendre à Bercé...Les cartes
-     https://www.foret-de-berce.fr/articles/cartes/
-     
-     Origines géologiques et historiques de Bercé 
-     https://www.foret-de-berce.fr/articles/origines/
+
+[Pylône TDF]({{<ref "articles/pylone.md">}})
+
+[La Coudre]({{<ref "articles/la-coudre.md">}})
+
+[Sylviculture]({{<ref "articles/sylviculture.md">}})
+
+[Les cartes pour se rendre à Bercé]({{<ref "articles/cartes.md">}})
+
+[Origines géologiques et historiques de Bercé]({{<ref "articles/origines.md">}})
+
