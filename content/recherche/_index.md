@@ -7,5 +7,7 @@ featured_image: '/images/chene-muriel.jpg'
 layout: blank
 ---
 
+{{< raw-html >}}
 <script async src="https://cse.google.com/cse.js?cx=82b702af198ff4cca"></script>
 <div class="gcse-search"></div>
+{{< /raw-html >}}
