@@ -1,7 +1,7 @@
 ---
 title: "Sommaire"
 date: 2023-05-01T17:23:44+01:00
-draft: true
+draft: false
 description: "du site de Bercé"
 featured_image: "/images/et.sommaire.jpg"
 tags: ["Tourisme","Lieux","Paysage","Hommes"]
