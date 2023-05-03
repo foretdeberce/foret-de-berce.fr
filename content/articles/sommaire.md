@@ -7,8 +7,9 @@ featured_image: "/images/et.sommaire.jpg"
 tags: ["Tourisme","Lieux","Paysage","Hommes"]
 ---
 
+[Lien avec les livres]({{<ref "articles/_index.md.md">}})
 
-
+[Moteur de recherche]({{<ref "articles/_index.md.md">}})
 
 
 Ce sommaire vous sera bien utile en attendant 
@@ -21,11 +22,7 @@ Il vous permettra d'accéder directement au sujet recherché
 par le biais des pages 1 à 13 à ce jour.
 
 
-
-
 Il y a 9 articles par page.
-
-
 
 
 **Il ne vous reste plus dans cette page qu'à cliquer
