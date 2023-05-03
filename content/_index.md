@@ -30,6 +30,6 @@ plus haute que la tour Eiffel?
 
 Mais ici se termine la comparaison avec notre capitale !
 
-
+***L'onglet "recherche" en haut de page ... permet un accès rapide aux pages désirées.***  
 
 ### Pour ne rien perdre de vos ballades, pensez à indexer ce site sur vos écrans.
