@@ -7,25 +7,25 @@ featured_image: "/images/et.sommaire.jpg"
 tags: ["Tourisme","Lieux","Paysage","Hommes"]
 ---
 
-[Lien avec les livres]({{<ref "articles/_index.md.md">}})
 
-[Moteur de recherche]({{<ref "articles/_index.md.md">}})
+En haut de page deux liens vous seront utiles :
+
+### A propos ###
+
+Qui explique le lien avec les livres.
+
+### Recherche ###
+
+Moteur de recherche propulsé par Google. 
 
 
-Ce sommaire vous sera bien utile en attendant 
-le développement d'un moteur de recherche. 
-
-
-
-
-Il vous permettra d'accéder directement au sujet recherché 
+Ce sommaire vous permettra d'accéder directement au sujet recherché 
 par le biais des pages 1 à 13 à ce jour.
-
 
 Il y a 9 articles par page.
 
 
-**Il ne vous reste plus dans cette page qu'à cliquer
+**Il ne vous reste plus qu'à cliquer
 sur le lien qui vous intéresse !**
 
 
