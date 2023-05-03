@@ -18,16 +18,10 @@ En lien avec les livres.
 
 Moteur de recherche propulsé par Google. 
 
-
-Ce sommaire vous permettra d'accéder directement au sujet recherché 
-par le biais des pages 1 à 13 à ce jour.
-
-Il y a 9 articles par page.
-
-
 **Il ne vous reste plus qu'à cliquer
 sur le lien qui vous intéresse !**
 
+Ce sommaire vous permettra d'accéder directement au sujet recherché. 
 
 
      ### Page 1
