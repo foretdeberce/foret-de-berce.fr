@@ -247,7 +247,6 @@ délivraient le courant électrique.
 L’Office national des forêts, veille à la sauvegarde des fontaines, lavoirs,
 et mares dans un souci de conservation du patrimoine historique de Bercé.
 
-{{<figure src="/images/articles/panneau.jpg" title=" Les conseils toujours bienvenus">}}
 
 
 **Bibliographie :** 
