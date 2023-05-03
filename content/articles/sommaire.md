@@ -1,6 +1,6 @@
 ---
 title: "Sommaire"
-date: 2023-03-15T17:23:44+01:00
+date: 2023-05-01T17:23:44+01:00
 draft: true
 description: "du site de Bercé"
 featured_image: "/images/et.sommaire.jpg"
@@ -12,7 +12,7 @@ En haut de page deux liens vous seront utiles :
 
 ### A propos ###
 
-Qui explique le lien avec les livres.
+En lien avec les livres.
 
 ### Recherche ###
 
