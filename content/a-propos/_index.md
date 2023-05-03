@@ -100,4 +100,4 @@ Au plus près de la forêt :
   
 [Éditions de l'Étrave](http://www.editions-etrave.fr/pub-inclass-berce.html)  
   
-  
+### L'onglet "recherche" en haut de page ... permet un accès rapide aux pages désirées.  
