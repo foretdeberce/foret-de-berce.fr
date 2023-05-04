@@ -8,20 +8,20 @@ tags: ["Tourisme","Lieux","Paysage","Hommes"]
 ---
 
 
-En haut de page deux liens vous seront utiles :
+**En haut de page 
+deux liens vous seront utiles :**
 
-### A propos ###
+### (1) A propos ###
 
-En lien avec les livres.
+En lien avec les livres et l'auteur.
 
-### Recherche ###
+### (2) Recherche ###
 
-Moteur de recherche propulsé par Google. 
+Le moteur de recherche est propulsé par Google. 
 
-**Il ne vous reste plus qu'à cliquer
-sur le lien qui vous intéresse !**
+***Cliquez sur le lien qui vous intéresse !***
 
-Ce sommaire vous permettra d'accéder directement au sujet recherché. 
+## SOMMAIRE
 
 
      PAGE 1
@@ -33,7 +33,7 @@ Ce sommaire vous permettra d'accéder directement au sujet recherché.
 
 [Guerre 1939/1945]({{<ref "articles/1939-1945.md">}})
 
-[Les forestiers]({{<ref "articles/forestiers.md">}})
+[La police forestière]({{<ref "articles/forestiers.md">}})
 
 [Du bois pour Paris]({{<ref "articles/cathedrale.md">}})
 
@@ -99,23 +99,23 @@ Ce sommaire vous permettra d'accéder directement au sujet recherché.
 
 [Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
 
-[Ancien chêne Boppe - 1]({{<ref "articles/boppe1.md">}})
+[Inauguration de l'ancien chêne Boppe]({{<ref "articles/boppe1.md">}})
 
-[Ancien chêne Boppe - 2]({{<ref "articles/boppe2.md">}})
+[Enquête sur la mort du chêne Boppe]({{<ref "articles/boppe2.md">}})
 
-[L’Hermitière - 1]({{<ref "articles/hermitiere1.md">}})
+[L’Hermitière - les lieux]({{<ref "articles/hermitiere1.md">}})
 
-[L’Hermitière - 2]({{<ref "articles/hermitiere2.md">}})
+[L’Hermitière - les cafetiers]({{<ref "articles/hermitiere2.md">}})
 
-[L’Hermitière - 3]({{<ref "articles/hermitiere3.md">}})
+[L’Hermitière - concessions (suite)]({{<ref "articles/hermitiere3.md">}})
 
-[L’Hermitière – 4 (souterrain)]({{<ref "articles/hermitiere4.md">}})
+[L’Hermitière souterraine]({{<ref "articles/hermitiere4.md">}})
 
 
      PAGE 5
      
      
-[L’Hermitière - 5]({{<ref "articles/hermitiere5.md">}})
+[L’Hermitière en devenir]({{<ref "articles/hermitiere5.md">}})
 
 [Saint-Hubert]({{<ref "articles/saint-hubert.md">}})
 
@@ -195,7 +195,7 @@ Ce sommaire vous permettra d'accéder directement au sujet recherché.
 
 [Le Cercle des poètes disparus]({{<ref "articles/bouhours.md">}})
 
-[La forêt, l’Homme et Bercé]({{<ref "articles/videos.md">}})
+[La forêt, l’Homme et Bercé (vidéo)]({{<ref "articles/videos.md">}})
 
 [Fabricants de battoirs]({{<ref "articles/battoirs.md">}})
     
