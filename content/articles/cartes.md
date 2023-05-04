@@ -15,7 +15,7 @@ touristiques de Bercé.
   {{<figure src="/images/articles/cartedeberce.jpg" title="Pour rejoindre la forêt">}}
   
   
-  {{<figure src="/images/articles/carte-touristique.jpg" title="Pour vous repérer en forêt">}}
+  [Carte O.N.F. en ligne](/articles/pdf/carte-touristique-berce-2020.pdf)
   
   
   {{<figure src="/images/articles/planonf.jpg" title="Pour repérer les parcelles">}}
