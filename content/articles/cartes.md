@@ -11,6 +11,9 @@ Pour ne rien perdre de vos ballades, voici quelques cartes
 touristiques de Bercé.
 
 ###  Les cartes touristiques de Bercé
+
+  {{<figure src="/images/articles/cartedeberce.jpg" title="Pour rejoindre la forêt">}}
+  
   
   {{<figure src="/images/articles/carte-touristique.jpg" title="Pour vous repérer en forêt">}}
   
