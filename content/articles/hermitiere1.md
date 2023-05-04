@@ -198,6 +198,8 @@ Les cafetiers désaltéraient les couples de danseurs.
 
 Ces bals champêtres sont aujourd’hui 
   le point de départ et la base de bien des familles du Canton. 
+	
+{{<figure src="/images/articles/harmoniehermitiere.jpg" title="L'harmonie posant devant le café Bignon">}}	
   
 *Pendant la guerre, le bal se fait un peu oublier renaissant avec Thévenot. 
   Mais le point d’orgue de la fréquentation touristique, c’est la fête du 15 août
