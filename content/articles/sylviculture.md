@@ -15,11 +15,11 @@ l'Office national des forêts.
 Les forestiers interviennent tout au long de la vie des
 peuplements pour façonner une forêt apte à vous accueillir.
 
-**Le concept de la sylviculture d’arbres**
+**Une sylviculture moderne**
 
-*Basé sur la sélection d’arbres-d’avenir ou objectif sur lesquels
-est concentrée la production de gros bois de qualité, ce concept
-s’est développé dans la première moitié du XXe siècle.*
+*Le concept de la sylviculture basé sur la sélection d’arbres d’avenir ou objectif sur lesquels
+est concentrée la production de gros bois de qualité, s’est
+développé dans la première moitié du XXe siècle.*
 
 Yves Bastien, Georg Joseph Wilhelm (Revue Forestière Française -2000)
 
