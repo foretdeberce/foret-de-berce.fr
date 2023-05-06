@@ -28,7 +28,7 @@ Yves Bastien, Georg Joseph Wilhelm (Revue Forestière Française -2000)
 
 ### Réflexions et avis de Rémond Lorne.
 
-(Initiateur de la méthode actuelle dite des arbres objectifs 
+(Initiateur en France de la méthode actuelle dite des arbres objectifs 
 avec l'aide conséquente de Robert Calvel sur le terrain) 
 
 *« ….Quel devrait être le rôle du forestier tout au long de la 
