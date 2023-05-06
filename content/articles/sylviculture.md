@@ -15,9 +15,21 @@ l'Office national des forêts.
 Les forestiers interviennent tout au long de la vie des
 peuplements pour façonner une forêt apte à vous accueillir.
 
+**Le concept de la sylviculture d’arbres**
+
+*Basé sur la sélection d’arbres-d’avenir ou objectif sur lesquels
+est concentrée la production de gros bois de qualité, ce concept
+s’est développé dans la première moitié du XXe siècle.*
+
+Yves Bastien, Georg Joseph Wilhelm (Revue Forestière Française -2000)
+
+[Une sylviculture d’arbres pour produire des gros bois de qualité.](/articles/pdf/407-424.pdf)
+
+
 ### Réflexions et avis de Rémond Lorne.
 
-(Initiateur de la méthode actuelle dite des arbres objectifs) 
+(Initiateur de la méthode actuelle dite des arbres objectifs 
+avec l'aide conséquente de Robert Calvel sur le terrain) 
 
 *« ….Quel devrait être le rôle du forestier tout au long de la 
 longue vie de ces futaies. Pour obtenir en final de gros arbres, 
