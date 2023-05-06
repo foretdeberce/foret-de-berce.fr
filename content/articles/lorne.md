@@ -52,7 +52,7 @@ en Algérie, mais aussi celle où je fus un acteur des
   
 ### Reste la longue période qui suivit,
   
-*Elle débuta au Mans le 1er septembre 1949 et se termina, là auss
+*Elle débuta au Mans le 1er septembre 1949 et se termina, là aussi
 le jour où je pris ma retraite, puisque je parvins à m'y
 maintenir tout ce temps, c'est à dire pendant 20 ans.*
 
@@ -65,6 +65,7 @@ Arrivant de Saint Germain, Rémond LORNE est nommé au Mans
 Ce dernier lui attribue les travaux.
   
 Souvenez vous, cet été 1949 est particulièrement chaud et sec.
+  
 450 ha brûleront dans la partie résineuse de Bercé. 
 
 ### Adjoint à l’inspecteur Viney (1949-1953)
@@ -169,15 +170,18 @@ Il  me  fallait  seul  assurer  le  travail de  deux.
   était le chamboulement du centre ville avec l'ouverture 
   de ce que l'on appelait la "Percée Centrale" et 
   qui devint l'Avenue de Gaulle.*
+  
 *Notre agréable immeuble du Bourg d'Anguy devait être 
   rasé et en contrepartie, nous avions de vastes 
   bureaux au 13 Avenue de Gaulle.* 
+  
 *Je confiais toutes ces démarches au chef de bureau 
   qui s'en délectait et c'est à cette occasion, 
   avant le passage du bulldozer que je pus récupérer 
   les cheminées qui sont ici, la grande glace de 
   l'entrée des Forestiers la balustrade qui vient 
   enfin d'être montée.* 
+  
 *Je n'intervins dans notre nouvelle installation que 
   pour mon propre bureau qui fut magnifique avec de
   grandes baies d'où l'on voyait toute la ville. 
@@ -191,7 +195,7 @@ Il  me  fallait  seul  assurer  le  travail de  deux.
   de mise à la retraite prématurée. … 
   choisissant comme terme le 31 décembre 1969, 
   soit 31 ans de service, moins les coupures de la guerre, 
-  (un peu plus de 4 ans), j'ai donc "servi", 
+  (un peu plus de 4 ans), j'ai donc "servi" 
   comme forestier de l’état durant 27 années.*
   
 *Courant décembre, je réunis tout le personnel de terrain 
@@ -210,16 +214,20 @@ Il  me  fallait  seul  assurer  le  travail de  deux.
   sans les déménagements fréquents de bien d'autres, et de 
   devoir m'occuper de forêts exceptionnelles ou de collaborer
   avec des propriétaires bien sympathiques dans cet Ouest de la France.* 
+  
 *Mais j'ai vécu aussi en 1966 le démantèlement de ce corps 
   des Eaux et forêts auquel j'avais été fier d'appartenir,
   mais personnellement jusqu'au bout, je n'eus pas à en 
   souffrir vraiment dans mes fonctions.* 
+  
 *Il était bien loin le temps du regret de ne pas  avoir obtenu 
   les Haras ! Ou celui d'avoir travaillé d'arrache-pied pendant 
   cinq ans pour entrer à l'Agro et en sortir dans un rang qui
   m'ouvrait cette carrière.* 
+  
 *Une telle carrière valait bien qu'on lui eut sacrifié 
   cinq ans de sa jeunesse..*
+  
 *C'est  en  1985,  à  71  ans,  que  j'ai  cessé  toute 
   activité professionnelle  au  soir  de  cette  dernière 
   vente du cabinet Lorne où  j'étais  devenu l'adjoint de Fabien.* 
