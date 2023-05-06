@@ -52,9 +52,14 @@ Peu de pieds pouvaient être utilisés par  l'industrie du  tranchage
 pieds à tranchage,  les gros,  était jusqu'a dix fois supérieure 
 à celle des petits... !
 Tout  cela mijotait dans ma tête et m'amena finalement à rédiger
-un article destine à la Revue Forestière Française. 
+un article destiné à la Revue Forestière Française. 
 C'était au printemps 1956, à la fin de mon règne seul à
 l’inspection du Mans…».* 
+
+Voici un autre article de Rémond Lorne paru en 1959 
+dans le n°11 de la revue forestière Française aux pages : 746 à 768.
+Cet article augure des prémices de la méthode intitulée des arbres d'avenir
+qui fut aussi nommée tour à tour méthode des arbres d'élite, de place, objectif...
 
 [Étude quantitative sur les éclaircies dans les peuplements de chêne de qualité](/articles/pdf/195911chenelorne.pdf)
 
@@ -111,8 +116,13 @@ que les éclaircies soient toujours effectuées
     forestière que Fabien son fils, et Edward, 
     son petit-fils, gèrent aujourd’hui.  
 
-{{<figure src="/images/articles/1968.jpg" title="De gauche à droite : Lorne-Hoyau-Goenvec-Peltier, avril 1968 au Grand-Lucé">}}
+{{<figure src="/images/articles/1968.jpg" title="De gauche à droite : Lorne, Hoyau, Goenvec, Peltier en avril 1968 au Grand-Lucé">}}
 
+### En 1975
+    
+Dans le n° XXVII- 1 de la Revue Forestière Française, aux pages 50 à 60, François-Xavier Roy étudie [La désignation des arbres de place dans les futaies de
+chêne destinées a fournir du bois de tranchage](/articles/pdf/rff1975-roy.pdf)
+    
 De nos Jours, grâce à une Sylviculture de pointe, 
 et à ses bois de qualité, Bercé reste un des phares
 de la Forêt Française, attirant sans relâche 
