@@ -457,7 +457,7 @@ la parcelle 174, sur la route de la Marchandière.
 La mère de Mme Cissé (mère d’André), Suzanne Trouillebout
 (née Boizard) cubait aussi le bois en Forêt.
        
-{{<figure src="/images/articles/maisonadet.jpg" title="Une partie du personnel de la scierie">}}
+[Voici réunis une partie du personnel de la scierie Adet.](/articles/pdf/scierieadetphotos.pdf)
 
 Il y avait aussi M. Hanteville (Père de Maxime à Jupilles)
 qui alimentait la chaudière, MM. Vérité était scieur et Vivet 
@@ -501,7 +501,9 @@ La Scierie Française: Un métier d'expert :
 Histoire et Evolution Sociologique. Étude de l’Observatoire 
 du métier de la scierie (Editions L'Harmattan) par Maurice Chalayer.
  
-Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
+Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, 
+une forêt d’exception (Y. Gouchet - 2018)
 
- 
+PDF issu du n° spécial 14 de la revue 
+Au Fil Du Temps du Samedi 29 août 2015 sur Saint-Vincent du Lorouër. 
  
