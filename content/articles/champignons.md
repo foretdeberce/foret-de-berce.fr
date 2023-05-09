@@ -83,3 +83,7 @@ Par contre la commercialisation des champignons de Bercé est totalement interdi
 
 {{<figure src="/images/articles/107champignons.jpg"  title="Le ramassage d’aujourd’hui">}}
 
+**Bibliographie**
+     
+Revue Au Fil du temps (n° 58 du jeudi 31 janvier 2013 Texte de Joël Picard).
+     
