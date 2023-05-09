@@ -260,7 +260,7 @@ furent données à différents corps constitués.
 Deux rondelles de sa base, de 1,40 m de diamètre et 0,20 m 
 d’épaisseur, soigneusement cerclées, furent adressées,
 l'une à l'école forestière de Nancy et par la suite
-envoyée à l'exposition de 1937, la seconde au musée du Mans. 
+[envoyée à l'exposition de 1937](/articles/pdf/19370821boppe.pdf), la seconde au musée du Mans. 
 Puis d’autres iront à la Fédération Nationale des Syndicats d’Exploitants Forestiers
 à Paris, l’Automobile Club de l’Ouest du Mans.
 Une rondelle est visible au musée du bois à Jupilles….. 
