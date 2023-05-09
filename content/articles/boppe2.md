@@ -253,19 +253,6 @@ Au cas particulier on peut sans doute ajouter d’avantage,
 peut-être 25 ou 30 ans, ce qui porterait l’âge du Chêne 
 Boppe à environ 275 ans*.
 
-### Son sanctuaire :
-	
-Les rondelles découpées à la base de la  bille de pied, 
-furent données à différents corps constitués.
-Deux rondelles de sa base, de 1,40 m de diamètre et 0,20 m 
-d’épaisseur, soigneusement cerclées, furent adressées,
-l'une à l'école forestière de Nancy et par la suite
-[envoyée à l'exposition de 1937](/articles/pdf/19370821boppe.pdf), la seconde au musée du Mans. 
-Puis d’autres iront à la Fédération Nationale des Syndicats d’Exploitants Forestiers
-à Paris, l’Automobile Club de l’Ouest du Mans.
-Une rondelle est visible au musée du bois à Jupilles….. 
-Bref, à force de découper des rondelles, la première bille 
-avait vite fait de maigrir d’un bon mètre en longueur.
 	
 {{<figure src="/images/articles/cahieraffiche1935.jpg" title="Page 26 du cahier affiche de la vente d’octobre 1935">}}
 	
@@ -290,7 +277,20 @@ billes en planches.
 Des meubles (armoires, chambre, bureau), furent
 réalisés avec le bois du chêne Boppe, et ornent encore 
 l’intérieur de certaines maisons de Saint-Vincent, notamment. 	
-
+	
+### Son sanctuaire :
+	
+Les rondelles découpées à la base de la  bille de pied, 
+furent données à différents corps constitués.
+Deux rondelles de sa base, de 1,40 m de diamètre et 0,20 m 
+d’épaisseur, soigneusement cerclées, furent adressées,
+l'une à l'école forestière de Nancy et par la suite
+[envoyée à l'exposition de 1937](/articles/pdf/19370821boppe.pdf), la seconde au musée du Mans. 
+Puis d’autres iront à la Fédération Nationale des Syndicats d’Exploitants Forestiers
+à Paris, l’Automobile Club de l’Ouest du Mans.
+Une rondelle est visible au musée du bois à Jupilles….. 
+Bref, à force de découper des rondelles, la première bille 
+avait vite fait de maigrir d’un bon mètre en longueur.
 
 {{<figure src="/images/articles/621boppe.jpg" title="La souche du Boppe">}}
 
