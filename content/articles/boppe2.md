@@ -268,7 +268,6 @@ C’est finalement le syndicat des Marchands de bois par
 l’intermédiaire de son Président Mr. Pasquier (de la Chartre s/le Loir) 
 qui se portera acquéreur de ces vestiges qui n'ont par ailleurs pas trouvé autres preneurs. 
 
-
 {{<figure src="/images/articles/085b3.jpg" title="A la scierie Adet de Saint-Vincent">}}
 
 La Scierie Adet de St. Vincent, fut chargée de la découpe des 
