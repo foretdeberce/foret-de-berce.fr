@@ -302,7 +302,7 @@ l’intérieur de certaines maisons de Saint-Vincent, notamment.
 
 ### Bibliographie :
 
-Potel : La vie et  la mort  en forêt de Bersay, et Le chêne BOPPE, 
+**Potel** : La vie et  la mort  en forêt de Bersay, et Le chêne BOPPE, 
 (Bulletin de la Société d'Agriculture,  
 Sciences et Arts de la Sarthe, T. LIV, p. 48 et 301)
 	
