@@ -302,3 +302,4 @@ Le moteur de recherche est propulsé par Google.
 
 [Origines géologiques et historiques de Bercé]({{<ref "articles/origines.md">}})
 
+[Les champignons]({{<ref "articles/champignons.md">}})
