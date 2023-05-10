@@ -7,9 +7,15 @@ featured_image: "/images/et.109b21.jpg"
 tags: ["Travaux","Coupes","Hommes",""]
 ---
 
-La loge de l’atelier ou du chantier
+**La loge de l’atelier ou du chantier**
 
-Recherchons l'origine du mot selon les définitions du XVIIème. 
+La forêt-abri est la fonction la plus ancienne des massifs forestiers. 
+Les huttes en bois, parfois recouvertes de terre,
+construites en forêt par les bûcherons, 
+charbonniers et autres sabotiers, étaient des survivances
+des premiers abris construits par les hommes avant l'*Histoire*
+
+Recherchons l'origine du mot *balay* selon les définitions du XVIIème. 
 Deux orthographes une seule destination : le bien être du forestier.
 
 Balai de sorcière … non mais presque… le balai de sorcière est 
@@ -22,8 +28,12 @@ de « betula », bouleau (branchages dont on fait les balais)
 *On fait des balais de menuës branches de bouleau liées ensemble au 
 bout d'un baston. On en fait aussi de genest, de jonc.»*
 
+Lécorce de bouleau servait autrefois à l'étanchéité de toitures.
+
 Or nos Balais ou Balays (en vieux français) étaient recouverts 
 de ramures (branchages de bouleaux ou autres à la manière d’un toit de chaume).
+
+Dans certaines autres forêts, on utilisait la bruyère ou brande voir le genêt pour barder la loge.
 
 *Les petits métiers se sont développés dans les massifs malaisés à exploiter et
 écartés des voies d’eau ou de terre ; La confection d’objets représentait un moyen
