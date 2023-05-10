@@ -15,21 +15,26 @@ et l’attachement des Sarthois, en font un des
 lieux secrets les plus prisés de la vallée du Loir.
 
 La qualité de ses chênes, est recherchée par 
-tous les savoirs faire. 
+tous les savoirs faire anciens. 
 
 Paysages, diversité naturelle, culturelle et 
 patrimoniale, en font une "Forêt d'Exception ®"
 
 Véritable petit Paris, Bercé offre aux visiteurs 
-des allées dignes des boulevards Haussmanniens.
+des allées dignes de certains boulevards Haussmanniens.
 
-La pureté de son air est irréprochable.
+La pureté de son air est par contre, irréprochable.
 
 Savez vous qu'en son sein, une tour existe,
 plus haute que la tour Eiffel?
 
 Mais ici se termine la comparaison avec notre capitale !
 
-***L'onglet "recherche" en haut de page ... permet un accès rapide aux pages désirées.***  
 
-### Pour ne rien perdre de vos ballades, pensez à indexer ce site sur vos écrans.
+### Pour ne rien perdre de vos ballades, 
+pensez à indexer ce site sur vos écrans de téléphone.
+
+L'onglet ***"recherche"***,situé en haut de page, sur la photo
+... permet un accès rapide à vos recherches.***  
+
+L'onglet ***"A propos"*** vous présente l'auteur.
