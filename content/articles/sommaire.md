@@ -8,7 +8,7 @@ tags: ["Tourisme","Lieux","Paysage","Hommes"]
 ---
 
 
-**En haut de page 
+**En haut de page sur la photo,
 deux liens vous seront utiles :**
 
 ### (1) A propos ###
@@ -303,3 +303,6 @@ Le moteur de recherche est propulsé par Google.
 [Origines géologiques et historiques de Bercé]({{<ref "articles/origines.md">}})
 
 [Les champignons]({{<ref "articles/champignons.md">}})
+
+
+
