@@ -69,7 +69,7 @@ et à cette époque, il n’y avait pas de vol entre ramasseurs.
 À l’ouverture de la chasse, on était les premiers 
 à fouler les fougères…il n’y avait pas autant de pénétration comme maintenant.* 
 
-[Connaître les champignons … par Joël Picard](/articles/pdf/n58champignons.pdf)
+[Reconnaître les champignons … par Joël Picard](/articles/pdf/n58champignons.pdf)
 
 **Aujourd’hui**
 
