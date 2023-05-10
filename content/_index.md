@@ -31,8 +31,9 @@ plus haute que la tour Eiffel?
 Mais ici se termine la comparaison avec notre capitale !
 
 
-### Pour ne rien perdre de vos ballades, 
-pensez à indexer ce site sur vos écrans de téléphone.
+### Pour ne rien perdre de vos ballades : 
+Pensez à indexer ce site sur vos écrans de téléphone,
+en y plaçant un raccourci !
 
 L'onglet ***"recherche"***,situé en haut de page, sur la photo
 ... permet un accès rapide à vos recherches.***  
