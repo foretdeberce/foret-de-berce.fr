@@ -141,6 +141,8 @@ C’est à ce titre qu’en 1940, il est réquisitionné par les Bois de Guerre.
   
 ### Une technique simple et efficace.
   
+La saison des charbonniers s'étalait de décembre jusqu'à mai ou juin. 
+  
 *Il fallait tout d’abord aménager et piocher la plate forme d’accueil en supprimant toutes racines :
   environ 4 heures. vingt pieds de diamètre permettaient d’y loger 18 stères de bois !
   Les piles étaient constituées de tronçons de 73 cm de long dont le diamètre variait de 4 à 15 cm.
