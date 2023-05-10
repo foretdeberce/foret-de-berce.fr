@@ -27,12 +27,9 @@ En octobre 1953 :
 collecteur de champignons en forêt, 
 aux ronds du chêne Désiré, Wautot, Volumiers, pour 4 journées de collecte.
 
-**Yves Camisy témoigne : **
+**Yves Camisy témoigne :**
 
-     ce lointain cousin (depuis 1789) découvert 
-     fortuitement en faisant la généalogie de 
-     Pierrette Coquin de Saint-Vincent-du-Lorouër
-     en 2014...(une autre cousine), 
+     Ce lointain cousin (depuis 1789), 
      témoigne tout simplement de la vie d’antan 
      et d’un passé révolu, avec humilité et justesse. 
      
@@ -61,7 +58,7 @@ Mais il y avait parfois de la jalousie entre riverains…
 mais ce commerce profitait à tous dans
 l’amélioration du quotidien. 
 Les Camisy ont ainsi acheté un réchaud à alcool, 
-quand d’autres, (à la Ragée) achetaient une cuisinière…
+quand d’autres, (à la Ragée, par exemple) achetaient une cuisinière…
 pour cuire les fameux champignons. 
 A cause de l’octroi… on ne pouvait pas aller 
 les vendre sur les marchés du Mans comme cela. 
@@ -85,5 +82,5 @@ Par contre la commercialisation des champignons de Bercé est totalement interdi
 
 **Bibliographie**
      
-Revue Au Fil du temps (n° 58 du jeudi 31 janvier 2013 Texte de Joël Picard).
+Revue Au Fil du temps (n° 58 du jeudi 31 janvier 2013. Texte de Joël Picard).
      
