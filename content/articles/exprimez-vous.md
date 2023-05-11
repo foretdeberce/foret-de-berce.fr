@@ -7,7 +7,7 @@ featured_image: "/images/et.exprimezvous.jpg"
 tags: ["Hommes","Loisirs","tourisme"]
 ---
 
-### Bernard
+### Bernard (10 mai 2023)
 
 ***Sur le thème Sylviculture***
 
