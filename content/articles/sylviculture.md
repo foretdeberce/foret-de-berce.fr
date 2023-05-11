@@ -279,7 +279,7 @@ moins hauts. La prise au vent s'en trouvera améliorée
 et les tempêtes seront peut-être moins catastrophiques.
 À voir sur le long terme cet effet à double tranchant.
 
-###Libre expression
+### Libre expression
     
      En temps qu’ancien forestier en forêt de Bercé de 1980 à 2014, 
      j’ai été très heureux de travailler dans un massif forestier 
