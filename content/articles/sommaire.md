@@ -298,8 +298,6 @@ Le moteur de recherche est propulsé par Google.
 
 [Sylviculture]({{<ref "articles/sylviculture.md">}})
 
-[Expression libre]({{<ref "articles/exprimez-vous.md">}})
-
 [Les cartes pour se rendre à Bercé]({{<ref "articles/cartes.md">}})
 
 [Origines géologiques et historiques de Bercé]({{<ref "articles/origines.md">}})
