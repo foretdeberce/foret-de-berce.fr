@@ -279,6 +279,43 @@ moins hauts. La prise au vent s'en trouvera améliorée
 et les tempêtes seront peut-être moins catastrophiques.
 À voir sur le long terme cet effet à double tranchant.
 
+###Libre expression
+    
+     En temps qu’ancien forestier en forêt de Bercé de 1980 à 2014, 
+     j’ai été très heureux de travailler dans un massif forestier 
+     d’exception, jusqu’au jour où la révolution (durée de culture)
+     des peuplements feuillus est passée de 240 ans à 180 ans.
+
+     Jusqu’à ce jour la forêt de Bercé était bien une 
+     FORÊT D’EXCEPTION,
+     maintenant elle est une forêt moyenne cultivée selon 
+     des normes moyennes qui s’appliquent à toutes
+     les forêts du bassin ligérien.
+
+     Un livre traitant de la sylviculture du chêne a été 
+     produit par l’ONF, il était écrit que l’objectif 
+     était le diamètre 80 cm et le choix 
+     pour Bercé à été de 70 cm.
+
+     Pour ne pas effrayer le public, on a maintenu 
+     4 parcelles à 240 ans, elles seront bientôt bonnes 
+     à exploiter, le temps passe pour elles aussi.
+
+     L’augmentation des surfaces en régénération et 
+     les volumes récoltés posent question lorsqu’on 
+     se crée un label d’exception.
+
+     Lorsque l’on possède un si beau massif, qui pour
+     l’instant ne montre pas de signes de dépérissement,
+     avec un sol moyen et une pluviométrie relativement bonne
+     pour les essences en place, je ne comprends pas que l’on ne 
+     fasse pas d’exception quand à la durée de culture,
+     ici c’est le temps passé qui détermine le diamètre des arbres……
+
+     Bien sûr, vous n’y êtes pour rien, 
+     ni les collègues qui nous ont remplacés. 
+     Bernard.(Propos recueillis le 10 mai 2023)
+         
 Des îlots de sénescence ont été créés qui répondent
 aux besoins de l'avifaune.
     
