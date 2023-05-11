@@ -314,7 +314,9 @@ et les tempêtes seront peut-être moins catastrophiques.
 
      Bien sûr, vous n’y êtes pour rien, 
      ni les collègues qui nous ont remplacés. 
-     Bernard.(Propos recueillis le 10 mai 2023)
+    
+     Bernard.
+     (Propos recueillis le 10 mai 2023)
          
 Des îlots de sénescence ont été créés qui répondent
 aux besoins de l'avifaune.
