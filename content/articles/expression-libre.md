@@ -2,7 +2,7 @@
 title: "Expression libre"
 date: 2023-05-10T15:22:44+01:00
 draft: false
-description: "sur votre forêt"
+description: "sur Bercé"
 featured_image: "/images/et.exprimezvous.jpg"
 tags: ["Hommes","Loisirs","tourisme"]
 ---
