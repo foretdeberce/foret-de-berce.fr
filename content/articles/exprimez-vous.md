@@ -9,8 +9,13 @@ tags: ["Hommes","Loisirs","Droit","Tourisme"]
 
 ### Vous souhaitez vous exprimer ou apporter vos connaissances...
 
-cette rubrique est faite pour vous!
+Vous avez des anecdotes, des précisions, des photos, des films sur 
+votre belle forêt...
 
-contactez-moi à cette adresse courriel :
+Vous souhaitez réagir en tant que citoyen du monde !
+
+Cette rubrique est faite pour vous!
+
+Contactez-moi à cette adresse courriel :
 
 foretdeberce@gmail.com
