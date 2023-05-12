@@ -304,5 +304,6 @@ Le moteur de recherche est propulsé par Google.
 
 [Les champignons]({{<ref "articles/champignons.md">}})
 
+[Exprimez-vous]({{<ref "articles/exprimez-vous.md">}})
 
 
