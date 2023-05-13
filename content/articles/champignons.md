@@ -78,7 +78,7 @@ mais il y a beaucoup plus de ramasseurs.
 Le ramassage est désormais une occupation ludique et gratuite. 
 Par contre la commercialisation des champignons de Bercé est totalement interdite.
 
-{{<figure src="/images/articles/107champignons.jpg"  title="Le ramassage d’aujourd’hui">}}
+{{<figure src="/images/articles/champignonsmortels.jpg"  title="Les champignons vénéneux">}}
 
 **Bibliographie**
      
