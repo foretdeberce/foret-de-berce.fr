@@ -177,6 +177,9 @@ Andrée Gilberte TISON (mamie TISON) pour les habitués rachète l’établissem
   
   Elle savait tout comme les autres chefs des alentours de Bercé, 
   si bien recevoir ce petit monde forestier.
+
+### La poterie de Saint-Hubert.
+  
 Sa fille Patricia Rayon et Alain Gilbert développeront 
   dans le local voisin, un atelier de poterie traditionnelle en grès. 
   
