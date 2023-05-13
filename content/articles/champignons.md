@@ -80,6 +80,25 @@ Par contre la commercialisation des champignons de Bercé est totalement interdi
 
 {{<figure src="/images/articles/champignonsmortels.jpg"  title="Les champignons vénéneux">}}
 
+     
+### Ce que dit la loi.
+    
+     Dans les forêts domaniales du département de la Sarthe, 
+     la récolte d'espèces de champignons non cultivés doit 
+     se réaliser "dans le cadre d'une consommation familiale" :
+     Pas plus de 5 litres par personne et par jour, soit 
+     l'équivalent d'un panier de 5 kilos environ.
+     
+     Pour la cueillette en groupe ou familles de trois personnes
+     et plus, le poids total récolté ne devra pas dépasser 10 kg.
+     
+     Au-delà, la cueillette devient frauduleuse. 
+     
+     La récolte est tolérée de 9h00 à la tombée de la nuit 
+     toute la semaine sauf le jeudi ...
+     (où elle est interdite, de même que la nuit).
+
+     
 **Bibliographie**
      
 Revue Au Fil du temps (n° 58 du jeudi 31 janvier 2013. Texte de Joël Picard).
