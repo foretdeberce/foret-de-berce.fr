@@ -131,7 +131,6 @@ Courre du sanglier : Mr le Comte François de la Rochefoucauld
 
 Un vitrail est commandé par les chasseurs de Bercé, en l’honneur de St Hubert, pour l’église de Marigné.  
 
-{{<figure src="/images/articles/vitrailsthubert.jpg"  title="Vitrail de l’église de Marigné">}}
 
 {{<figure src="/images/articles/detailvitrail-marigne.jpg"  title="Détails du vitrail">}}
 
@@ -207,9 +206,9 @@ Le louvetier est : Mr Marion
  Le Courre s'adresse au Cerf et Sanglier - 
  Le Chevreuil peut être chassé à courre après fermeture du Tir*.
   
-{{<figure src="/images/articles/3equipages001.jpg"  title=" Le cerf pris ">}}
+{{<figure src="/images/articles/3equipages001.jpg"  title="Fin de chasse">}}
 
-{{<figure src="/images/articles/000156.jpg"  title="Le cerf">}}
+{{<figure src="/images/articles/000156.jpg"  title="Dénouement">}}
 
 
 ### 1924 : 
@@ -218,9 +217,9 @@ Co-Fermier du tir : [Darblay](/articles/pdf/1927darblay.pdf) (château de la Mot
   a repris le lot n°5 pour le courre des sangliers (vautrait 1924-1928). 
   Le garde particulier s’appelle Gobert.
 
-{{<figure src="/images/articles/000151.jpg"  title=" Rallye Chistré ">}}
+{{<figure src="/images/articles/000151.jpg"  title="Rallye Chistré">}}
 
-{{<figure src="/images/articles/00155.jpg"  title=" Les deux équipages">}}
+{{<figure src="/images/articles/00155.jpg"  title="L'instant de la curée">}}
 
 
 ### 1929 : 
