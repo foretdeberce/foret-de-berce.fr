@@ -166,18 +166,32 @@ En 1828, le chemin de Pruillé était presque impraticable pour la circulation d
   la pierre d'Ecommoy, ainsi qu'une grande partie des bois de la forêt de Bercé.»*
   
 Déclarée d’utilité publique cette voie (le futur C.D.13) sera créée dès 1839. 
+  
+**Délibérations du Conseil général de la Sarthe du 1er janvier 1839**
+  
+Il ajourne à cette époque la décision à prendre sur
+le tracé du chemin de grande communication n°2, 
+dans la partie comprise entre Mayet et le Grand-Lucé ;
 
+Et décide que, jusqu'à l'adoption de ce tracé, 
+les communes de Jupilles, Pruillé-l'Eguillé
+et Marigné, ne seront pas appelées à concourir à la
+construction et à l'entretien de ce chemin n° 2.
+  
+{{<figure src="/images/articles/carte1835.jpg" title="Voies routières en 1835">}}
+  
      Le 1er mars 1840 à 10 heures du matin, le conseil municipal 
      de Saint-Vincent-du -Lorouër, délibère sur le fait que :
      «…les chemins vicinaux traversant la forêt domaniale 
      doivent être maintenus en état par l'administration forestière
-     qui avait alors des cantonniers…Que par suite du non entretien 
-      depuis trois ans ces chemins se sont considérable ment dégradés
-     et que pour les mettre en état, il faudrait une somme bien plus
-     forte que l'impôt payé par l'administration …Que l’administration,
-     par un travail continu (de ses cantonniers) pourrait à moins de 
-     frais que la commune, entretenir la portion des chemins vicinaux
-     qui traversent la forêt…En conséquence le conseil propose de
+     qui avait alors des cantonniers…
+     Que par suite du non entretien depuis trois ans ces chemins se 
+     sont considérable ment dégradés et que pour les mettre en état, 
+     il faudrait une somme bien plus forte que l'impôt payé par l'administration …
+     Que l’administration, par un travail continu (de ses cantonniers) 
+     pourrait à moins de frais que la commune, entretenir la portion 
+     des chemins vicinaux qui traversent la forêt…
+     En conséquence le conseil propose de
      remettre autant que possible les choses sur l’ancien pied, 
      c’est à dire, que la contribution que paye annuellement l’État 
      à la commune, en vertu de l’article 13 soit mis à la disposition
