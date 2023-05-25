@@ -329,9 +329,13 @@ En 1959, et de 1973 à 1983 : état de sécheresse relative.
 Faible hygrométrie en 1995 et 1996. 1990, 1994, 1997 et 2013 sont
   les 4 années les plus chaudes depuis 100 ans. 
   2011 cumule un déficit annuel des précipitations de 225 mm sur une moyenne espérée de 813 mm. 
-  2014 : courbe des moyennes des températures en hausse.
+  2014 : courbe des moyennes des températures en hausse.s
   
 Le réchauffement climatique actuel met à mal notre forêt.
+Aussi, en 2023, l'O.N.F. anticipe-t-il la raréfaction de l'eau en établissant 
+  dans toutes les forêts du département, des plantations comparatives 
+  de chênes sessiles (comme à Bercé), pubescents (régions méditerranéennes), Zéens (Algérie), de séquoias toujours verts (Amérique du nord), 
+  de pins de Brutie (Turquie) ou de robiniers faux acacias (Amérique du Nord).
   
 ### La foudre :
   
