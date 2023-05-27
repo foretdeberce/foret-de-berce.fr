@@ -435,7 +435,12 @@ Les forestiers allemands construisent un « observatoire » en bordure de la rou
   les gardes pensent qu’ils sont utilisés par les braconniers. 
 
 **(2)** nom donné aux occupants allemands. Propos recueillis auprès de riverains. Archives  O.N.F.
- 
+
+### 1946
+	
+***Exemple de rendez-vous donnés en forêt de Perseigne***.
+	
+[Correspondance des chasseurs avec le brigadier Boissier](/articles/pdf/destruction-nuisibles-perseigne.pdf)
 
 **19 juillet 1947 :**
   
