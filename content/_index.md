@@ -5,7 +5,7 @@ featured_image: "/images/brigadier.jpg"
 ---
 
 Ce massif Sarthois de 5400 hectares, colonise 
-au sud du Mans et au coeur de la Vallée du Loir,
+au sud du Mans et au coeur de la [Vallée du Loir]({{<ref "https://www.vallee-du-loir.com/">}}),
 la bordure du plateau Calaisien. 
 
 Les feuillus peuplent la partie "Est" (anciennement Royale)
