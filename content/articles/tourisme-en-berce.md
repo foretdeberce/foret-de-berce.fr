@@ -193,11 +193,6 @@ Confection de l'accès au Chemin de la Coudre (voir route) – délimitation du 
 
   Aujourd'hui Bercé attire par sa renommée quantité de monde
   
-### Cette petite présentation vous donnera peut-être l'envie de la parcourir.
-
-{{<youtube id="O8nrNpmKvR8">}}  
-  
-Présentation du Patrimoine de Bercé. **(30'20)**
   
 ### Bibliographie : 
   
