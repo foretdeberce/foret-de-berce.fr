@@ -42,13 +42,15 @@ de régler en cloisonnant systématiquement le parterre des coupes.
 
 ***Erratum***
 
-Dans cette vidéo, tirée d'un PPS, 
-il s'est glissé une erreur :
+Dans la vidéo qui suit, (tirée d'un PPS), 
+une coquille s'est glissée par erreur :
 
-**Si le périmètre de Bercé est deux fois plus long que Paris intra-muros,
-Celui-ci est deux fois plus étendu. 
-La surface de Bercé est plus grande que la ville du Mans,
-et comparable à la commune de Mayet ou à la forêt de Chambord.** 
+**Si le périmètre de Bercé est bien deux fois 
+plus long que celui de Paris intra-muros,
+sa surface en revanche est deux fois moins étendue. 
+Bercé est plus vaste que la ville du Mans,
+sa surface est comparable à celle de la commune de Mayet 
+...ou à la forêt de Chambord.** 
 
 {{<youtube id="0vT_0GlzhW8">}}
   
