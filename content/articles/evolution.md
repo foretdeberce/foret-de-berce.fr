@@ -47,10 +47,11 @@ une coquille s'est glissée par erreur :
 
 **Si le périmètre de Bercé est bien deux fois 
 plus long que celui de Paris intra-muros,
-sa surface en revanche est deux fois moins étendue. 
-Bercé est plus vaste que la ville du Mans,
-sa surface est comparable à celle de la commune de Mayet 
-...ou à la forêt de Chambord.** 
+sa surface en revanche est deux fois moins étendue.** 
+
+**Bercé est quand même plus vaste que les villes de Lyon ou du Mans!
+Sa superficie est comparable à celle de la commune de Mayet 
+... ou à la forêt de Chambord.** 
 
 {{<youtube id="0vT_0GlzhW8">}}
   
