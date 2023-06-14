@@ -256,8 +256,6 @@ Décembre 1985 aux Clos **(3'52)**
   
 {{<figure src="/images/articles/eluard1.jpg" title="puis en 2008 aux Clos">}}
   
-{{<figure src="/images/articles/eluard2.jpg" title="sur un gros chêne sec de l'année">}}
-  
 {{<figure src="/images/articles/eluard3.jpg" title="Dans l'instant crucial">}}
   
 
