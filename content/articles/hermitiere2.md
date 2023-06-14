@@ -204,8 +204,9 @@ Elle décédera le 10 janvier 1998 à l’âge de 81 ans.
 
 ### Lucien Thévenot : 1937  (propriétaire).
 
-Reprend le flambeau en achetant l’emplacement à la famille Mary Lecomte.
-Il développe la guinguette et la restauration.
+Ayant déjà une affaire sur Saint-Vincent, il reprend en forêt, 
+le flambeau en achetant l’emplacement à la famille Mary Lecomte.
+Il développe ainsi la guinguette et la restauration.
 
 {{<figure src="/images/articles/214001thevenot.jpg" title="Son terrain et la concession en forêt">}}
 
