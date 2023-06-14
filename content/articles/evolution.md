@@ -40,6 +40,10 @@ de régler en cloisonnant systématiquement le parterre des coupes.
 
 ### Richesses patrimoniales de Bercé
 
+***Bercé ... un petit Paris !***
+
+{{<figure src="/images/articles/sylvopolitain.jpg" title="Prospective délirante de la famille Quilbeuf">}}
+
 ***Erratum***
 
 Dans la vidéo qui suit, (tirée d'un PPS), 
