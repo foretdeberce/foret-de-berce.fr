@@ -36,7 +36,11 @@ Mais ici se termine la comparaison avec notre capitale !
 Pensez à indexer ce site sur vos écrans de téléphone,
 en y plaçant un raccourci !
 
-L'onglet ***"recherche"***, situé en haut de page, sur la photo
-... permet un accès rapide à vos recherches.  
+### Situé en haut de page, sur la photo :
 
 L'onglet ***"A propos"*** vous présente le livre et l'auteur.
+
+L'onglet ***"recherche"***, 
+... permet un accès rapide à vos recherches.  
+
+
