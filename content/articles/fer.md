@@ -77,7 +77,7 @@ Ces traces de l’activité humaine, liées à l'extraction du précieux minerai
 Ne perdez pas votre temps à rechercher du minerai en ces lieux,
   sauf peut-être dans une culée d'arbre arrachée, vous n'en trouverez pas, 
   tout a été méticuleusement nettoyé par nos ancêtres les Gaulois. 
-	
+
   Un premier tri était généralement effectué dans les galeries 
   situées en fond de puits. **(2)** 
 	
@@ -87,8 +87,13 @@ Le minerai était ensuite acheminé
 {{<figure src="/images/articles/concretionferrugineuse.jpg" title="induration ferrugineuse">}}  
 	
 La loupe de minerai était, une fois extraite
-de sa gangue était travaillée par les forgerons.
-	
+de sa gangue était travaillée par les forgerons à proximité ...à la forge.
+
+### Petite animation sur l'exploitation du fer ###
+
+{{<youtube id="p3UDzPdqB9Q">}}
+
+ 
 De nos jours, en scrutant les déchets métalliques des ferriers
 sur le sol forestier, on peut percevoir encore 47% de fer à récupérer.
 	
@@ -119,6 +124,7 @@ On le ressent particulièrement ici, la première des richesses
   
 Vous vous retrouvez ainsi à l'époque où Celtes puis Gallo-Romains
   ne maîtrisent pas encore toutes les étapes de la métallurgie. 
+  Faire du fer.... c'est dur !
 
  
 ### Fabrication du charbon de bois
