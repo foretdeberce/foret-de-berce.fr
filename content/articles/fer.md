@@ -91,7 +91,7 @@ de sa gangue était travaillée par les forgerons à proximité ...à la forge.
 
 ### Petite animation sur l'exploitation du fer ###
 
-{{<youtube id="p3UDzPdqB9Q">}}
+{{<youtube id="4t1gyXVSVu8">}}
 
  
 De nos jours, en scrutant les déchets métalliques des ferriers
