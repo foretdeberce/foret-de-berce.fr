@@ -9,7 +9,7 @@ tags: ["Forestiers","MF"]
 
 
 Située à la sortie de Château du Loir sur la route basse de Flée
-cette gentilhommière date des XVI & XVIIème.
+cette gentilhommière date du XIIème siecle remaniée aux XVI & XVIIème.
 
 Ce site était déjà habité par les Gaulois qui utilisaient les nombreuses
 caves troglodytes, des poteries ont été découvertes lors de travaux de 
@@ -32,7 +32,7 @@ Une importante vie existait car l'on dénombre 3 fours à pain.
 
 {{<figure src="/images/articles/37231.jpg"  title="La Mothe d’Olbeau">}}
 
-C'est vers 1570 qu'apparaît pour la première fois le nom de Longueval. 
+C'est vers 1570 qu'apparaît pour la première fois le nom de "Longueval". 
   
 Déjà Annibal Jacques de Longueval  vers 1613, seigneur de Sarton, 
   capitaine de carabins, qui épousa Marie Pasquier était maître des Eaux-&-forêts. 
@@ -51,28 +51,6 @@ Le 22 novembre 1676, il se marie avec Françoise Huet
   seigneur de Vaux, écuyer, seigneur d’Artigné, maître particulier 
   des Eaux et Forèts de cette maitrise.  
   
-**1711-**
-  
-Bénédiction de deux cloches, à Saint Guingalois, la plus grosse, nommée Joseph, par Me Joseph de Longueval d’Haraucourt, chevalier, seigneur de Brette, maître particulier des Eaux et forêts de la maîtrise de Château du Loir, et par dame Françoise Gaillard, veuve de Charles des Moutis, écuyer, seigneur de Montreuil. 
-La petite cloche a été nommée Louise Françoise Gabrielle, par Me Louis François Massue, subdélégué de Monsieur l’Intendant, maire perpétuel de la ville de Château du Loir, et par dame Louise Gabrielle Marchand, épouse de Joseph Hercule Massue.
-  
-Joseph de [Longueval d'Haraucourt](/articles/pdf/longueval.pdf) décèdera en 1727.
-
- **(1)** *Une maîtrise des eaux et forêts est une juridiction française
-  d'exception chargée de surveiller et de contrôler les 
-  forêts royales à l'origine, puis toutes les forêts.
-  A la révolution les Maîtres sont remplacés par
-  les corps des conservateurs et inspecteurs.
-  A l'époque le Maine, l'Anjou et la Touraine, 
-  possèdent 9 maîtrises :*
-  
-  *Tours, Amboise, Loches, Chinon, Baugé, Angers,
-  Le Mans, Château-du-Loir, Mamers.*
-  
-Dans l'une des cheminée du domaine est toujours en 
-  place une plaque à ses armoiries et c’est peut être lui également
-  qui à fait planter les tilleuls de la terrasse.
-
 ### 1680
 
 Son fils, Charles Mathieu de Longueval d'Haraucourt, 
@@ -87,6 +65,27 @@ Il est inhumé au Château du Haut-Bois (devenu depuis un Lycée agricole)
 
 {{<figure src="/images/articles/hautbois.jpg"  title="Château du Haut-Bois">}}
 
+**1711-**
+  
+Bénédiction de deux cloches, à Saint Guingalois, la plus grosse, nommée Joseph, par Me Joseph de Longueval d’Haraucourt, chevalier, seigneur de Brette, maître particulier des Eaux et forêts de la maîtrise de Château du Loir, et par dame Françoise Gaillard, veuve de Charles des Moutis, écuyer, seigneur de Montreuil. 
+La petite cloche a été nommée Louise Françoise Gabrielle, par Me Louis François Massue, subdélégué de Monsieur l’intendant, maire perpétuel de la ville de Château du Loir, et par dame Louise Gabrielle Marchand, épouse de Joseph Hercule Massue.
+  
+Joseph de [Longueval d'Haraucourt](/articles/pdf/longueval.pdf) décèdera en 1727.
+
+ **(1)** *Une maîtrise des eaux et forêts est une juridiction française
+  d'exception chargée de surveiller et de contrôler les 
+  forêts royales à l'origine, puis toutes les forêts.
+  A la révolution les Maîtres sont remplacés par
+  les corps des conservateurs et inspecteurs.
+  A l'époque le Maine, l'Anjou et la Touraine, 
+  possèdent 9 maîtrises :*
+  
+  *Tours, Amboise, Loches, Chinon, Baugé, Angers,
+  Le Mans, Château-du-Loir, Mamers.*
+  
+Dans l'une des cheminées du domaine est toujours en 
+  place une plaque à ses armoiries et c’est peut être lui également
+  qui à fait planter les tilleuls de la terrasse.
 
 ### 1730
 
@@ -118,6 +117,7 @@ Parrain, Charles Jean Baptiste Joseph Mesnard de Seillac, écuyer,
   de Longueval d’Haraucourt, capitaine au régiment de Bourbon –Infanterie, 
   seigneur de Brette, Hautbois, oncle et tante de l’enfant*.
   
+### A la révolution... le domaine est pillé.
 
 ### 1865
 
@@ -199,7 +199,7 @@ Pour mettre en valeur cette vaste étendue servant de perspective à la demeure,
   selon la saison, et dotés de" pneumatophores" (curieuses racines résurgentes en 
   forme de stalagmites), cette plantation est unique en France.
   
-***Un secret bien gardé !***
+**Un secret bien gardé !**
   
       La vallée du Loir nous réserve encore 
       bien des secrets à découvrir notamment
