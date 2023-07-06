@@ -8,8 +8,10 @@ tags: ["Forestiers","MF"]
 ---
 
 
-Située à la sortie de Château du Loir sur la route basse de Flée
-cette gentilhommière date du XIIème siecle remaniée aux XVI & XVIIème.
+Située à la sortie de Château du Loir sur la route basse de Flée,
+cette gentilhommière occupant à l'origine un site défensif est au tout début troglodytique.
+Une cheminée et son four date du XIIème siècle.
+Elle fut remaniée aux XVI & XVIIème et rénovée au XVIIIème siècle.
 
 Ce site était déjà habité par les Gaulois qui utilisaient les nombreuses
 caves troglodytes, des poteries ont été découvertes lors de travaux de 
