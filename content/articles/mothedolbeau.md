@@ -8,15 +8,16 @@ tags: ["Forestiers","MF"]
 ---
 
 
-Située à la sortie de Château du Loir sur la route basse de Flée,
-cette gentilhommière occupant à l'origine un site défensif est au tout début troglodytique.
-Une cheminée et son four date du XIIème siècle.
-Elle fut remaniée aux XVI & XVIIème et rénovée au XVIIIème siècle.
+Située à la sortie de Château du Loir sur la route basse de Flée
+cette gentilhommière occupait un site défensif et castral.
+Bien vite la construction troglodytique s'est imposée d'elle-même
+d'après la configuration du terrain.
+La construction sera par la suite remaniée aux XVI & XVIIème siècle.
 
 Ce site était déjà habité par les Gaulois qui utilisaient les nombreuses
 caves troglodytes, des poteries ont été découvertes lors de travaux de 
 consolidation de la falaise dans la grande cour, ainsi que dans un
-champ un morceau de sigillé de l'époque romaine.
+champ *(un morceau de sigillée de l'époque romaine)*.
 
 Des restes de fortifications en terre sont encore bien visibles malgré 
 l’érosion, système de fossés, cours intérieurs et 2 petits tumulus, 
@@ -30,13 +31,13 @@ fut utilisé pour défendre l'entrée de la vallée de l’Ire.
 L'importance de l'épaisseur des murs des plus vieux bâtiments 
 de La Mothe d’Olbeau en témoigne. 
 
-Une importante vie existait car l'on dénombre 3 fours à pain.
+Une importante vie existait car l'on dénombre 3 fours à pain dont un daté du XIIème siècle.
 
 {{<figure src="/images/articles/37231.jpg"  title="La Mothe d’Olbeau">}}
 
 C'est vers 1570 qu'apparaît pour la première fois le nom de "Longueval". 
   
-Déjà Annibal Jacques de Longueval  vers 1613, seigneur de Sarton, 
+Annibal Jacques de Longueval  *(vers 1613)*, seigneur de Sarton, 
   capitaine de carabins, qui épousa Marie Pasquier était maître des Eaux-&-forêts. 
 
 
