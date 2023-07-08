@@ -14,7 +14,7 @@ cette gentilhommière occupait un site défensif et castral.
 Bien vite la construction troglodytique s'est imposée d'elle-même
 d'après la configuration du terrain.
 
-Les constructions seront par la suite remaniées aux XVI & XVIIème siècle.
+Les constructions seront par la suite remaniées aux XVIème & XVIIème siècles.
 
 Ce site était déjà habité par les Gaulois qui utilisaient les nombreuses
 caves troglodytes, des poteries ont été découvertes lors de travaux de 
@@ -24,8 +24,7 @@ champ *(un morceau de sigillée de l'époque romaine)*.
 Des restes de fortifications en terre sont encore bien visibles malgré 
 l’érosion, système de fossés, cours intérieurs et 2 petits tumulus, 
 l'un encore bien visible, l'autre en partie détruit à l'ancienne cidrerie. 
-
-(Étude de Mr Veron) ; 
+*(Étude de Mr Veron)* ; 
 
 Voir aussi page 30 du mémoire de [Jean-Mary COUDERC](/articles/pdf/couderc.pdf).
 
@@ -42,7 +41,7 @@ Une importante vie existait car l'on dénombre 3 fours à pain dont un daté du 
 C'est vers 1570 qu'apparaît pour la première fois le nom de "Longueval". 
   
 Annibal Jacques de Longueval  *(vers 1613)*, seigneur de Sarton, 
-  capitaine de carabins, qui épousa Marie Pasquier était maître des Eaux-&-forêts. 
+capitaine de carabins, épousa Marie Pasquier et fut maître des Eaux-&-forêts. 
 
 
 ### Vers 1675 
