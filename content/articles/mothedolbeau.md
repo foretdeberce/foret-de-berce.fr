@@ -23,7 +23,8 @@ Des restes de fortifications en terre sont encore bien visibles malgré
 l’érosion, système de fossés, cours intérieurs et 2 petits tumulus, 
 l'un encore bien visible, l'autre en partie détruit à l'ancienne cidrerie. 
 
-(Voir étude de Mr Veron) ; 
+(Étude de Mr Veron) ; 
+ Voir aussi page 30 du mémoire de [Jean-Mary COUDERC](/articles/pdf/couderc.pdf).
 
 A l'époque féodale le site appelé Fief de la Mothe 
 fut utilisé pour défendre l'entrée de la vallée de l’Ire. 
