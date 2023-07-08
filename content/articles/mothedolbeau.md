@@ -10,9 +10,11 @@ tags: ["Forestiers","MF"]
 
 Située à la sortie de Château du Loir sur la route basse de Flée
 cette gentilhommière occupait un site défensif et castral.
+
 Bien vite la construction troglodytique s'est imposée d'elle-même
 d'après la configuration du terrain.
-La construction sera par la suite remaniée aux XVI & XVIIème siècle.
+
+Les constructions seront par la suite remaniées aux XVI & XVIIème siècle.
 
 Ce site était déjà habité par les Gaulois qui utilisaient les nombreuses
 caves troglodytes, des poteries ont été découvertes lors de travaux de 
@@ -24,7 +26,8 @@ l’érosion, système de fossés, cours intérieurs et 2 petits tumulus,
 l'un encore bien visible, l'autre en partie détruit à l'ancienne cidrerie. 
 
 (Étude de Mr Veron) ; 
- Voir aussi page 30 du mémoire de [Jean-Mary COUDERC](/articles/pdf/couderc.pdf).
+
+Voir aussi page 30 du mémoire de [Jean-Mary COUDERC](/articles/pdf/couderc.pdf).
 
 A l'époque féodale le site appelé Fief de la Mothe 
 fut utilisé pour défendre l'entrée de la vallée de l’Ire. 
