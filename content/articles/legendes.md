@@ -2,7 +2,7 @@
 title: "Légendes"
 date: 2023-01-24T20:13:44+01:00
 draft: false
-description: "Histoires d’eau à Bercé"
+description: "Elles hantent Bercé"
 featured_image: "/images/et.legendesberce.jpg"
 tags: ["Tourisme","Loisirs","Biodiversite","Eau","Légende","Hommes"]
 ---
@@ -38,6 +38,35 @@ l'épuisement du sonneur qui se serait enfoncé dans l'eau et la boue.
 C'était un jeune qui pour se faire entendre aurait joué du clairon jusqu'à la fin*.
   
 {{<figure src="/images/articles/mortierclaironp154.jpg"  title="Le Mortier Clairon">}}
+
+### 1958 ### 
+
+**Christian Pineau (1904-1995)**
+
+     Résistant, il se rendit à Londres en 1942 
+     et rallia de Gaulle (tout en étant sceptique
+     sur les convictions républicaines du Général). 
+     Il fut à l’origine de la Déclaration du 
+     général de Gaulle aux mouvements de Résistance,
+     publiée le 3 juin 1942 par le journal clandestin
+     Libération.
+
+     Après la libération, Pineau entre en politique 
+     élu député socialiste de la Sarthe de 
+     1945 à 1958 puis ministre.
+
+     Il fut également l’auteur de plusieurs ouvrages 
+     et écrivit aussi des livres pour enfants : 
+     Plume et le saumon, L’ourse aux pattons verts,
+     Histoires de la forêt de Bercé, 
+     La planète aux enfants perdus.
+
+     Il s’est éteint le 5 avril 1995 à Paris. 
+     Ce Compagnon de la Libération est enterré
+     au cimetière du Père-Lachaise à Paris
+     dans la 97eme division.
+     
+{{<figure src="/images/articles/pineau.jpg"  title="Christian Pineau, Histoires de la forêt de Bercé (1958)">}}
 
 ### Bibliographie : 
  
