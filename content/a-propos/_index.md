@@ -66,7 +66,9 @@ Le livre **Bercé, une forêt d’exception** est maintenant disponible !
   
 Pour aller encore plus loin dans la démarche de mémoire,  
 Ce site internet alimente les divers sujets pour les partager, encore et toujours… 
-  
+
+**à la façon d'un cabinet de curiosité**  
+
 Il vous est dédié.
   
 Vous possédez des anecdotes, des textes, des photos que vous désirez vous aussi partagez !
@@ -101,3 +103,4 @@ Au plus près de la forêt :
 [Éditions de l'Étrave](http://www.editions-etrave.fr/pub-inclass-berce.html)  
   
 ### L'onglet "recherche" en haut de page ... permet un accès rapide aux pages désirées.  
+
