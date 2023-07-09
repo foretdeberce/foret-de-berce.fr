@@ -60,10 +60,8 @@ De l’avis des inspecteurs, cette forêt est trop prestigieuse
   pour y développer une telle industrie.
   
 Le service forestier (M.Viney) désigna alors les forêts de Sillé, 
-  Alençon ou Senonches pour assumer cette production. 
+  Alençon ou Senonches pour assumer cette production de **carburant forestier**. 
   
-{{<figure src="/images/articles/pub.jpg" title="Promotion pour les points de vente du carburant forestier">}}
-
 Néanmoins, durant la  dernière guerre, les gazogènes et autres machines à vapeur réclamaient
   énormément de matière première, l’effort de guerre en nécessitait aussi la propagande 
   et un effort de tous …..
@@ -94,7 +92,7 @@ Néanmoins, durant la  dernière guerre, les gazogènes et autres machines à va
  des Eaux et forêts, situés au 1 de la rue du Port, au Mans, figurait
  en bonne place une affichette portant la mention : 
   
-{{<figure src="/images/articles/marchands.jpg" title="La propagande bat son plein">}}
+{{<figure src="/images/articles/marchands.jpg" title="La propagande pour le gazogène bat son plein">}}
 
 ### La guerre en 1939 ravive les charbonnières.
   
