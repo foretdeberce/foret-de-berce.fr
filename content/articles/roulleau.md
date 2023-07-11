@@ -167,6 +167,33 @@ Le cheptel forestier et le fonds des forêts / R. roulleau de la Roussière
 Cubage des bois sur pied et abattus : manuel pratique : dix-sept tables 
   et tarifs de cubage pour bois en grume et équarris / R. Roulleau de La Roussière,... 
   / 2e éd. 1919 rev. et augm. - 1926 / Paris : Librairie agricole de la Maison rustique.
+
+## Autres articles concernant les officiers forestiers : ## 
+
+
+[La Mothe d’Olbeau]({{<ref "articles/mothedolbeau.md">}})
+
+[Les Étangs l’Archevêque]({{<ref "articles/les-etangs-l-archeveque.md">}})
+
+[Les tournées forestières]({{<ref "articles/ecole-forestiere.md">}})
+
+[Le Pavillon des Officiers]({{<ref "articles/pavillon-de-berce.md">}})
+
+[Les anciens forestiers]({{<ref "articles/vieux-forestiers.md">}})
+
+[Chêne Émery]({{<ref "articles/emery.md">}})
+
+[Chêne Potel]({{<ref "articles/potel.md">}})
+
+[Chêne Lorne]({{<ref "articles/lorne.md">}})
+
+[Inauguration de l'ancien chêne Boppe]({{<ref "articles/boppe1.md">}})
+
+[Enquête sur la mort du chêne Boppe]({{<ref "articles/boppe2.md">}})
+
+[Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
+
+
   
 ### Références : 
   
