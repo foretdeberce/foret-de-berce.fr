@@ -151,6 +151,22 @@ La dernière maison qui fut construite sur Bercé fut celle de la
  parcelles 54 et 55 situées en face, soit de l’autre coté de la route «royale». 
  Le lavoir quant à lui ne sautât pas la route !
 
+## Autres articles sur l'Hermitière : ## 
+
+[L’Hermitière - les lieux]({{<ref "articles/hermitiere1.md">}})
+
+[L’Hermitière - les cafetiers]({{<ref "articles/hermitiere2.md">}})
+
+[L’Hermitière - concessions (suite)]({{<ref "articles/hermitiere3.md">}})
+
+[L’Hermitière souterraine]({{<ref "articles/hermitiere4.md">}})
+
+[L’Hermitière en devenir]({{<ref "articles/hermitiere5.md">}})
+
+[Queen Mum à Bercé]({{<ref "articles/queen-mum.md">}})
+
+
+
 ### Bibliographie : 
  
 Le massif forestier de Bercé  (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet  - 2018)
