@@ -190,6 +190,22 @@ Cette espèce relativement rare n’a été trouvée qu’en très
   -Etude entomo en cours sur les coléoptères saproxyliques
 (2 polytraps) Sont ciblés les coléoptères circulants en vol (40 à 75% des échantillons). 
 Le principe en est un piège-vitre, ou piège-fenêtre pour intercepter les insectes en vol.
+
+## Autres articles sur l'Hermitière : ## 
+
+[L’Hermitière - les lieux]({{<ref "articles/hermitiere1.md">}})
+
+[L’Hermitière - les cafetiers]({{<ref "articles/hermitiere2.md">}})
+
+[L’Hermitière - concessions (suite)]({{<ref "articles/hermitiere3.md">}})
+
+[L’Hermitière souterraine]({{<ref "articles/hermitiere4.md">}})
+
+[Les lavoirs]({{<ref "articles/lavoirs.md">}})
+
+[Queen Mum à Bercé]({{<ref "articles/queen-mum.md">}})
+
+
   
 ### Bibliographie : 
   
