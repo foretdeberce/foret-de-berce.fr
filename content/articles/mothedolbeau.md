@@ -240,6 +240,32 @@ Le flanc de la colline est devenu naturellement une véritable pépinière de C�
   Le tout formant un parc s'étageant sur la colline et 
   mettant en valeur l'ancienne seigneurie de la Mothe d'Olbeau.
 
+## Autres articles concernant les officiers forestiers : ## 
+
+[Les Étangs l’Archevêque]({{<ref "articles/les-etangs-l-archeveque.md">}})
+
+[Les tournées forestières]({{<ref "articles/ecole-forestiere.md">}})
+
+[Le Pavillon des Officiers]({{<ref "articles/pavillon-de-berce.md">}})
+
+[Les anciens forestiers]({{<ref "articles/vieux-forestiers.md">}})
+
+[Chêne Émery]({{<ref "articles/emery.md">}})
+
+[Chêne Roulleau de la Roussière]({{<ref "articles/roulleau.md">}})
+
+[Chêne Potel]({{<ref "articles/potel.md">}})
+
+[Chêne Lorne]({{<ref "articles/lorne.md">}})
+
+[Inauguration de l'ancien chêne Boppe]({{<ref "articles/boppe1.md">}})
+
+[Enquête sur la mort du chêne Boppe]({{<ref "articles/boppe2.md">}})
+
+[Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
+
+
+
 ### Bibliographie :
   
 Archives famille Eve-Vinçonneau.
