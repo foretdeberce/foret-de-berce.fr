@@ -79,7 +79,40 @@ Son dernier compte rendu journalier date du 25 octobre 1932 et pour cause,
 
 Son épouse sollicitera de rester à la M.F. jusqu’au 15 février 1933 
 pour organiser sa vente de bétail et de matériel.
-  
+
+## Autres articles concernant les maisons forestières : ## 
+
+[Un Corse à Bercé]({{<ref "articles/cesari.md">}})
+    
+[La famille Heintz]({{<ref "articles/heintz.md">}})
+
+[La famille Leclercq]({{<ref "articles/leclercq.md">}})
+
+[Maison forestière des Profonds-Vaux]({{<ref "articles/profonds-vaux.md">}})
+
+[Maison forestière des Boussions]({{<ref "articles/boussions.md">}})
+
+[Maison forestière de la Doucinière]({{<ref "articles/douciniere.md">}})
+
+[Maison forestière de la Huberdière]({{<ref "articles/huberdiere.md">}})
+
+[Maison forestière de la Tasse]({{<ref "articles/tasse.md">}})
+
+[Maison forestière des Clos]({{<ref "articles/les-clos.md">}})
+
+[Maison forestière des Forges]({{<ref "articles/forges.md">}})
+
+[Maison forestière des Hutteries]({{<ref "articles/hutteries.md">}})
+
+[Maison forestière des Renardières]({{<ref "articles/renardieres.md">}})
+
+[Maison forestière des Étangs]({{<ref "articles/les-etangs.md">}})
+
+[Un plan type pour les M.F.]({{<ref "articles/maisons.md">}})
+
+[Le Pavillon des Officiers]({{<ref "articles/pavillon-de-berce.md">}})
+
+
 ### Bibliographie : 
   
 Archives famille Pigault
