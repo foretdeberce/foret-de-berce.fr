@@ -203,7 +203,20 @@ Hier nous parlions encore de [pâturage en forêt](/articles/pdf/paturageenforet
 	
 **Aujourd'hui, nous parlons de [cessions et concessions](/articles/pdf/cessionsetchampignons.pdf).** 
 	
-	
+
+## Autres articles concernant la chasse ou la pêche: ## 
+
+[La chasse à courre]({{<ref "articles/courre.md">}})
+
+[La chasse à Tir]({{<ref "articles/chassetir.md">}})
+
+[Le braconnage]({{<ref "articles/braconnage.md">}})
+
+[La chasse en battue]({{<ref "articles/battues.md">}})
+
+[Pêche]({{<ref "articles/peche.md">}})
+
+[Le loup à Bercé]({{<ref "articles/loup.md">}})	
 	
 ### Bibliographie :
   
