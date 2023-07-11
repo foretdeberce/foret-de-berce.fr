@@ -98,6 +98,46 @@ Par contre la commercialisation des champignons de Bercé est totalement interdi
      toute la semaine sauf le jeudi ...
      (où elle est interdite, de même que la nuit).
 
+## Autres articles concernant les productions forestières: ## 
+
+[Du bois pour Paris]({{<ref "articles/cathedrale.md">}})
+
+[Indigents]({{<ref "articles/indigents.md">}})
+
+[Bois chantant]({{<ref "articles/bois-chantant.md">}})
+
+[Balay et habitat rustique]({{<ref "articles/balay.md">}})
+
+[Les éhouppeurs]({{<ref "articles/ehouppeurs.md">}})
+
+[Carbonisation]({{<ref "articles/carbonisation.md">}})
+
+[La glandée]({{<ref "articles/glandee.md">}})
+
+[Scieurs de long]({{<ref "articles/scieursdelong.md">}})
+
+[Des pignons pour du pognon]({{<ref "articles/pignons.md">}})
+
+[Gemmeurs, saigneurs de Bercé ]({{<ref "articles/gemmeurs.md">}})
+
+[La révolte des sabotiers]({{<ref "articles/revolte-sabotiers.md">}})
+
+[La saboterie]({{<ref "articles/sabots.md">}})
+
+[Fabricants de battoirs]({{<ref "articles/battoirs.md">}})
+
+[Menus bois]({{<ref "articles/fagots-bourrees.md">}})
+
+[Les déchets en forêt]({{<ref "articles/ordures.md">}})
+
+[Les bûcherons]({{<ref "articles/bucherons.md">}})
+
+[Les ateliers]({{<ref "articles/ateliers.md">}})
+
+[Bois de marine]({{<ref "articles/bois-de-marine.md">}})
+
+
+
      
 **Bibliographie**
      
