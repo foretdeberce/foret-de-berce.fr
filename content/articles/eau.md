@@ -247,6 +247,13 @@ délivraient le courant électrique.
 L’Office national des forêts, veille à la sauvegarde des fontaines, lavoirs,
 et mares dans un souci de conservation du patrimoine historique de Bercé.
 
+## Autres liens concernant les redoutables épreuves de la nature ##
+
+[Le feu]({{<ref "articles/feux.md">}})
+
+[Les aléas climatiques]({{<ref "articles/aleas-climatiques.md">}})
+
+[Le vent]({{<ref "articles/vent.md">}})
 
 
 **Bibliographie :** 
