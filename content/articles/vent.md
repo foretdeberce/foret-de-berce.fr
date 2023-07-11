@@ -205,6 +205,15 @@ Fort heureusement les dégâts restent faibles par rapport à 1999: 1000 m3 envi
 
  {{<figure src="/images/articles/16juillet2010.jpg" title="Ce balay dans les Clos n'a pas résisté !">}} 
 
+## Autres liens concernant les redoutables épreuves de la nature ##
+
+[Le feu]({{<ref "articles/feux.md">}})
+
+[Les aléas climatiques]({{<ref "articles/aleas-climatiques.md">}})
+
+[Les chemins de l’eau]({{<ref "articles/eau.md">}}) 
+
+
 #### Bibliographie : 
 
 Archives et vieux registres journaliers de l’administration  
