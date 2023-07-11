@@ -107,4 +107,12 @@ tout en conservant une gestion raisonnée et un sentiment écologique plus fort 
 Bonne lecture !
 
 
-  
+ 
+## Autres articles concernant l'archéologie forestière: ## 
+
+
+[Le fer]({{<ref "articles/fer.md">}})
+
+[L.I.D.A.R.]({{<ref "articles/lidar.md">}})
+
+[Origines géologiques et historiques de Bercé]({{<ref "articles/origines.md">}}) 
