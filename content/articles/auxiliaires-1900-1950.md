@@ -966,6 +966,20 @@ Des générations de besogneux ont ainsi par tous les temps,
     
     [Les ouvriers forestiers en image](/articles/pdf/ouvriersforestiers.pdf) 
     
+
+
+## Autres articles concernant les personnels forestiers : ## 
+
+
+[Les auxiliaires forestiers]({{<ref "articles/les-hommes.md">}})
+
+[Les travailleurs du 19ème siècle]({{<ref "articles/auxiliaires-1860-1900.md">}})
+
+[Les livrets journaliers]({{<ref "articles/les-forestiers.md">}})
+
+[Les anciens forestiers]({{<ref "articles/vieux-forestiers.md">}})
+
+[Le martelage]({{<ref "articles/martelage.md">}})
      
  ### Bibliographie : 
      
