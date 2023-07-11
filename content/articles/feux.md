@@ -550,6 +550,15 @@ En Bercé le 16 avril 2014 **(1'45)**
      
 *La Liste des parcelles touchées par le feu est non exhaustive. 
  - Numérotation  des parcelles mis à jour en 2016.*
+
+
+## Autres liens concernant les redoutables épreuves de la nature ##
+
+[Les aléas climatiques]({{<ref "articles/aleas-climatiques.md">}})
+
+[Le vent]({{<ref "articles/vent.md">}})
+
+[Les chemins de l’eau]({{<ref "articles/eau.md">}})
  
 ### Bibliographie : 
  
