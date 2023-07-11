@@ -68,6 +68,24 @@ C'était un jeune qui pour se faire entendre aurait joué du clairon jusqu'à la
      
 {{<figure src="/images/articles/pineau.jpg"  title="Christian Pineau, Histoires de la forêt de Bercé (1958)">}}
 
+## Autres liens concernant les curiosités de Bercé ##
+
+[Chauves-souris]({{<ref "articles/chauves-souris.md">}})
+
+[Le plus gros foudre du monde]({{<ref "articles/foudre.md">}})
+
+[Timbroscopie]({{<ref "articles/timbroscopie.md">}})
+
+[Le Cercle des poètes disparus]({{<ref "articles/bouhours.md">}})
+
+[Anastomoses]({{<ref "articles/anastomose.md">}})
+
+[Pics et insectes]({{<ref "articles/biodiversite-pics-insectes.md">}})
+
+[Daniel Girard]({{<ref "articles/daniel-girard.md">}})
+
+[Pylône TDF]({{<ref "articles/pylone.md">}})
+
 ### Bibliographie : 
  
 Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
