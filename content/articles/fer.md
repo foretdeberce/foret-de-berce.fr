@@ -469,6 +469,15 @@ D’autant plus qu’il n’y avait en forêt que de mauvais sentiers,
 [Chêne Émery]({{<ref "articles/emery.md">}})
 
 
+## Autres articles concernant l'archéologie forestière: ## 
+
+
+[Évolution de Bercé]({{<ref "articles/evolution.md">}})
+
+[L.I.D.A.R.]({{<ref "articles/lidar.md">}})
+
+[Origines géologiques et historiques de Bercé]({{<ref "articles/origines.md">}})
+
 
 ### Bibliographie :
   
