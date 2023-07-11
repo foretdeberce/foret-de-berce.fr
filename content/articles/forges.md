@@ -69,6 +69,39 @@ Les chefs VISAGE et PIE profiteront de la proximité de la forêt de Bercé à l
 L’installation de WC intérieur date du 9 octobre 1963, quand au chauffage central il sera installé le 27 juillet 1971. Le téléphone est monté en 1961. Une voiture est affectée au poste en 1967 (2cv). Des travaux auront lieu aux Forges en 1979. 
 En 2004 la maison est vendue à un lieutenant de Louveterie comme maison particulière.
 
+## Autres articles concernant les maisons forestières : ## 
+
+[Un Corse à Bercé]({{<ref "articles/cesari.md">}})
+    
+[La famille Heintz]({{<ref "articles/heintz.md">}})
+
+[La famille Leclercq]({{<ref "articles/leclercq.md">}})
+
+[Louis Pigault]({{<ref "articles/louis-pigault.md">}})
+
+[Maison forestière des Profonds-Vaux]({{<ref "articles/profonds-vaux.md">}})
+
+[Maison forestière des Boussions]({{<ref "articles/boussions.md">}})
+
+[Maison forestière de la Doucinière]({{<ref "articles/douciniere.md">}})
+
+[Maison forestière de la Huberdière]({{<ref "articles/huberdiere.md">}})
+
+[Maison forestière de la Tasse]({{<ref "articles/tasse.md">}})
+
+[Maison forestière des Clos]({{<ref "articles/les-clos.md">}})
+
+[Maison forestière des Hutteries]({{<ref "articles/hutteries.md">}})
+
+[Maison forestière des Renardières]({{<ref "articles/renardieres.md">}})
+
+[Maison forestière des Étangs]({{<ref "articles/les-etangs.md">}})
+
+[Un plan type pour les M.F.]({{<ref "articles/maisons.md">}})
+
+[Le Pavillon des Officiers]({{<ref "articles/pavillon-de-berce.md">}})
+
+
 ### Bibliographie : 
      
 Revue Au Fil du Temps N°  22  de 12 -2003 - Pages 5 à  7   (Y. Gouchet)
