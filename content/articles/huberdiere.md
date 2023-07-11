@@ -118,6 +118,39 @@ Catherine Chaton, première forestière dans l’histoire des forestiers de Berc
   les responsables territoriaux suivants se sont succédés aux commandes du massif sans y loger :
   intérim de Sylvain Haye (2009-2013), de Joël Guitton (15 octobre 2013 au 31 janvier 2015)
   puis Joël Linte (1er fevrier 2015-2020 ) et enfin d'Hervé Daviau.
+
+
+## Autres articles concernant les maisons forestières : ## 
+
+[Un Corse à Bercé]({{<ref "articles/cesari.md">}})
+    
+[La famille Heintz]({{<ref "articles/heintz.md">}})
+
+[La famille Leclercq]({{<ref "articles/leclercq.md">}})
+
+[Louis Pigault]({{<ref "articles/louis-pigault.md">}})
+
+[Maison forestière des Profonds-Vaux]({{<ref "articles/profonds-vaux.md">}})
+
+[Maison forestière des Boussions]({{<ref "articles/boussions.md">}})
+
+[Maison forestière de la Doucinière]({{<ref "articles/douciniere.md">}})
+
+[Maison forestière de la Tasse]({{<ref "articles/tasse.md">}})
+
+[Maison forestière des Clos]({{<ref "articles/les-clos.md">}})
+
+[Maison forestière des Forges]({{<ref "articles/forges.md">}})
+
+[Maison forestière des Hutteries]({{<ref "articles/hutteries.md">}})
+
+[Maison forestière des Renardières]({{<ref "articles/renardieres.md">}})
+
+[Maison forestière des Étangs]({{<ref "articles/les-etangs.md">}})
+
+[Un plan type pour les M.F.]({{<ref "articles/maisons.md">}})
+
+[Le Pavillon des Officiers]({{<ref "articles/pavillon-de-berce.md">}})
  
 ### Bibliographie :
  
