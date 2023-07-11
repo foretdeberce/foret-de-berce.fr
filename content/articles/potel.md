@@ -180,7 +180,26 @@ De même après une autre de ses publications en 1924 dans la **Revue des Eaux e
 
 [Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
 
+## Autres articles concernant les chênes remarquables: ## 
 
+
+[Chêne Émery]({{<ref "articles/emery.md">}})
+
+[Chêne Roulleau de la Roussière]({{<ref "articles/roulleau.md">}})
+
+[Le plus gros foudre du monde]({{<ref "articles/foudre.md">}})
+
+[Chêne Lorne]({{<ref "articles/lorne.md">}})
+
+[Inauguration de l'ancien chêne Boppe]({{<ref "articles/boppe1.md">}})
+
+[Enquête sur la mort du chêne Boppe]({{<ref "articles/boppe2.md">}})
+
+[Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
+
+[Le chêne Muriel]({{<ref "articles/muriel.md">}})
+
+[Arbres remarquables]({{<ref "articles/arbres-remarquables.md">}})
 
 ### Bibliographie : 
 
