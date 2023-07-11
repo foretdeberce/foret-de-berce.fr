@@ -335,7 +335,41 @@ Les eaux de pluie ne doivent pas s’empresser
 de gagner les lits des rivières mais rejoindre le sous-sol
 pour le bien commun.
 
-    
+## Autres liens concernant les moyens d'exploitation de Bercé ##
+
+[Chevaux et tracteurs]({{<ref "articles/chevaux-tracteurs.md">}})
+
+[Les scieries]({{<ref "articles/les-scieries.md">}})
+
+[Loges forestières]({{<ref "articles/loges.md">}})
+
+[Les éhouppeurs]({{<ref "articles/ehouppeurs.md">}})
+
+[Carbonisation]({{<ref "articles/carbonisation.md">}})
+
+[Les Aménagements]({{<ref "articles/amenagement.md">}})
+
+[Scieurs de long]({{<ref "articles/scieursdelong.md">}})
+
+[Des pignons pour du pognon]({{<ref "articles/pignons.md">}})
+
+[Gemmeurs, saigneurs de Bercé ]({{<ref "articles/gemmeurs.md">}})
+
+[Série résineuse]({{<ref "articles/serie-resineuse.md">}})
+
+[La saboterie]({{<ref "articles/sabots.md">}})
+
+[Fabricants de battoirs]({{<ref "articles/battoirs.md">}})
+
+[Les bûcherons]({{<ref "articles/bucherons.md">}})
+
+[Les ateliers]({{<ref "articles/ateliers.md">}})
+
+[Bois de marine]({{<ref "articles/bois-de-marine.md">}})
+
+[Sylviculture]({{<ref "articles/sylviculture.md">}})    
+
+
 ### Bibliographie : 
     
 Archives famille Lorne
