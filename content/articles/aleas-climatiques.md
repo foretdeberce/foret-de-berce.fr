@@ -380,7 +380,15 @@ Depuis 1992, Bercé possède une station météo grâce au programme « RENECOFO
   
 Là…. Nous ne sommes plus dans l’ère de « l’a peu près…». 
 
- 
+
+## Autres liens concernant les redoutables épreuves de la nature ##
+
+[Le feu]({{<ref "articles/feux.md">}})
+
+[Le vent]({{<ref "articles/vent.md">}})
+
+[Les chemins de l’eau]({{<ref "articles/eau.md">}}) 
+
 ### Bibliographie :
   
 Archives et vieux registres journaliers de l’administration 
