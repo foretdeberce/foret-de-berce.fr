@@ -131,7 +131,17 @@ Le brigadier des Eaux et forêts - Signé : *Lebouleux*
   
 {{<figure src="/images/articles/emerygouchet.jpg"  title="En toute majesté">}}
   
-{{<figure src="/images/articles/emeryjeroen.jpg"  title="Au fil des saisons">}}
+{{<figure src="/images/articles/emeryjeroen.jpg"  title="Au fil des saisons">}} 
+
+
+## Autres articles concernant la Coudre : ## 
+
+[La Coudre]({{<ref "articles/la-coudre.md">}})
+
+[Les lavoirs]({{<ref "articles/lavoirs.md">}})
+
+[Le fer]({{<ref "articles/fer.md">}})
+
 
 ### Bibliographie :
      
