@@ -417,6 +417,25 @@ Bleuet
 ### Joël PICARD ... Un responsable Atypique et poète. 
   
 [L'illumite... au pays des Oulines](/articles/pdf/joelpicard.pdf)
+
+
+## Autres liens concernant les curiosités de Bercé ##
+
+[Légendes]({{<ref "articles/legendes.md">}})
+
+[Chauves-souris]({{<ref "articles/chauves-souris.md">}})
+
+[Le plus gros foudre du monde]({{<ref "articles/foudre.md">}})
+
+[Timbroscopie]({{<ref "articles/timbroscopie.md">}})
+
+[Anastomoses]({{<ref "articles/anastomose.md">}})
+
+[Pics et insectes]({{<ref "articles/biodiversite-pics-insectes.md">}})
+
+[Daniel Girard]({{<ref "articles/daniel-girard.md">}})
+
+[Pylône TDF]({{<ref "articles/pylone.md">}})
   
 ### Bibliographie :  
   
