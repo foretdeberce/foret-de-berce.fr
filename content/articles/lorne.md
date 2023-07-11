@@ -304,7 +304,26 @@ Robert, s’éteindra quelques mois plus tard, pour rejoindre
 
 [Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
 
+## Autres articles concernant les chênes remarquables: ## 
 
+
+[Chêne Émery]({{<ref "articles/emery.md">}})
+
+[Chêne Roulleau de la Roussière]({{<ref "articles/roulleau.md">}})
+
+[Chêne Potel]({{<ref "articles/potel.md">}})
+
+[Le plus gros foudre du monde]({{<ref "articles/foudre.md">}})
+
+[Inauguration de l'ancien chêne Boppe]({{<ref "articles/boppe1.md">}})
+
+[Enquête sur la mort du chêne Boppe]({{<ref "articles/boppe2.md">}})
+
+[Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
+
+[Le chêne Muriel]({{<ref "articles/muriel.md">}})
+
+[Arbres remarquables]({{<ref "articles/arbres-remarquables.md">}})
 
 ### Bibliographie : 
 
