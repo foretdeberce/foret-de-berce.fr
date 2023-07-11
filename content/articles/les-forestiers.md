@@ -78,3 +78,18 @@ La page du livret à Heintz, du 18 au 20 janvier 1879,
 Pour les forestiers de droit publique ou privé :
 [La médaille](/articles/pdf/lesmedailles.pdf), 
 c'est la reconnaissance d'une longue vie de travail.
+
+
+
+## Autres articles concernant les personnels forestiers : ## 
+
+
+[Les auxiliaires forestiers]({{<ref "articles/les-hommes.md">}})
+
+[Les travailleurs du 19ème siècle]({{<ref "articles/auxiliaires-1860-1900.md">}})
+
+[Travailleurs de 1900 à 2000]({{<ref "articles/auxiliaires-1900-1950.md">}})
+
+[Les anciens forestiers]({{<ref "articles/vieux-forestiers.md">}})
+
+[Le martelage]({{<ref "articles/martelage.md">}})
