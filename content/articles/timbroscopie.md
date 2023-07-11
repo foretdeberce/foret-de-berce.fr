@@ -98,3 +98,21 @@ faux spécimens de timbres qui auraient pu voir le jour.
 La flamme postale de château du loir vient un peu combler le vide.
   
 {{<figure src="/images/articles/chateauloir.jpg" title="La flamme de Château du Loir">}}  
+
+## Autres liens concernant les curiosités de Bercé ##
+
+[Légendes]({{<ref "articles/legendes.md">}})
+
+[Chauves-souris]({{<ref "articles/chauves-souris.md">}})
+
+[Le plus gros foudre du monde]({{<ref "articles/foudre.md">}})
+
+[Le Cercle des poètes disparus]({{<ref "articles/bouhours.md">}})
+
+[Anastomoses]({{<ref "articles/anastomose.md">}})
+
+[Pics et insectes]({{<ref "articles/biodiversite-pics-insectes.md">}})
+
+[Daniel Girard]({{<ref "articles/daniel-girard.md">}})
+
+[Pylône TDF]({{<ref "articles/pylone.md">}})
