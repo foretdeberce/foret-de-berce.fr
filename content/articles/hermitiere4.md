@@ -86,6 +86,20 @@ En forêt rien ne transpire de la présence de ce souterrain.
 
 {{<figure src="/images/articles/fonddelapiece.jpg" title="La voute d’effondrement">}}
 
+## Autres articles sur l'Hermitière : ## 
+
+[L’Hermitière - les lieux]({{<ref "articles/hermitiere1.md">}})
+
+[L’Hermitière - les cafetiers]({{<ref "articles/hermitiere2.md">}})
+
+[L’Hermitière - concessions (suite)]({{<ref "articles/hermitiere3.md">}})
+
+[L’Hermitière en devenir]({{<ref "articles/hermitiere5.md">}})
+
+[Les lavoirs]({{<ref "articles/lavoirs.md">}})
+
+[Queen Mum à Bercé]({{<ref "articles/queen-mum.md">}})
+
 	
 ### Bibliographie : 
 	
