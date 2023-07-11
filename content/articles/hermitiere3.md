@@ -316,6 +316,22 @@ Le 26 novembre 1935, les forestiers délimitent en Brigade les nouvelles
      http://gallica.bnf.fr
 	
 {{<figure src="/images/articles/hermitieremmelisson.jpg" title="Vue d'artiste">}}	
+
+## Autres articles sur l'Hermitière : ## 
+
+[L’Hermitière - les lieux]({{<ref "articles/hermitiere1.md">}})
+
+[L’Hermitière - les cafetiers]({{<ref "articles/hermitiere2.md">}})
+
+[L’Hermitière souterraine]({{<ref "articles/hermitiere4.md">}})
+
+[L’Hermitière en devenir]({{<ref "articles/hermitiere5.md">}})
+
+[Les lavoirs]({{<ref "articles/lavoirs.md">}})
+
+[Queen Mum à Bercé]({{<ref "articles/queen-mum.md">}})
+
+
 	
 ### Bibliographie : 
 	
