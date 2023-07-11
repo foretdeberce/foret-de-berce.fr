@@ -373,6 +373,22 @@ Le droit de passage est supprimé, désorganisant cette entrée si prisée en fo
 
 {{<figure src="/images/articles/hermitiere17.jpg" title="La grande salle et le fameux poirrier">}}
 	
+## Autres articles sur l'Hermitière : ## 
+
+[L’Hermitière - les lieux]({{<ref "articles/hermitiere1.md">}})
+
+[L’Hermitière - concessions (suite)]({{<ref "articles/hermitiere3.md">}})
+
+[L’Hermitière souterraine]({{<ref "articles/hermitiere4.md">}})
+
+[L’Hermitière en devenir]({{<ref "articles/hermitiere5.md">}})
+
+[Les lavoirs]({{<ref "articles/lavoirs.md">}})
+
+[Queen Mum à Bercé]({{<ref "articles/queen-mum.md">}})
+
+
+
 
 ### Bibliographie : 
 	
