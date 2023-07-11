@@ -56,6 +56,24 @@ dans les années 1970 à diagnostiquer sa présence à Bercé.
 Cortège impressionnant dans cette grande futaie avec 
   l’un des plus petits oiseaux : Le troglodyte.
   
+## Autres liens concernant les curiosités de Bercé ##
+
+[Légendes]({{<ref "articles/legendes.md">}})
+
+[Chauves-souris]({{<ref "articles/chauves-souris.md">}})
+
+[Le plus gros foudre du monde]({{<ref "articles/foudre.md">}})
+
+[Timbroscopie]({{<ref "articles/timbroscopie.md">}})
+
+[Le Cercle des poètes disparus]({{<ref "articles/bouhours.md">}})
+
+[Anastomoses]({{<ref "articles/anastomose.md">}})
+
+[Daniel Girard]({{<ref "articles/daniel-girard.md">}})
+
+[Pylône TDF]({{<ref "articles/pylone.md">}})
+
 
 ### Bibliographie : 
   
