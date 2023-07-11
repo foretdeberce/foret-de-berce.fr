@@ -523,7 +523,37 @@ Il y a eu au plus fort de l'emploi "moderne" deux chauffeurs de tracteurs :
 
 {{<figure src="/images/articles/chevauxfin.jpg" title="La fin du cheval et la fin d’une époque">}}
 
+## Autres liens concernant les moyens d'exploitation de Bercé ##
 
+[Les scieries]({{<ref "articles/les-scieries.md">}})
+
+[Loges forestières]({{<ref "articles/loges.md">}})
+
+[Les éhouppeurs]({{<ref "articles/ehouppeurs.md">}})
+
+[Carbonisation]({{<ref "articles/carbonisation.md">}})
+
+[Les Aménagements]({{<ref "articles/amenagement.md">}})
+
+[Scieurs de long]({{<ref "articles/scieursdelong.md">}})
+
+[Des pignons pour du pognon]({{<ref "articles/pignons.md">}})
+
+[Gemmeurs, saigneurs de Bercé ]({{<ref "articles/gemmeurs.md">}})
+
+[Série résineuse]({{<ref "articles/serie-resineuse.md">}})
+
+[La saboterie]({{<ref "articles/sabots.md">}})
+
+[Fabricants de battoirs]({{<ref "articles/battoirs.md">}})
+
+[Les bûcherons]({{<ref "articles/bucherons.md">}})
+
+[Les ateliers]({{<ref "articles/ateliers.md">}})
+
+[Bois de marine]({{<ref "articles/bois-de-marine.md">}})
+
+[Sylviculture]({{<ref "articles/sylviculture.md">}})
 ### Bibliographie : 
   
 Revue Au Fil du Temps N° 26 & 27 - Pages  diverses (Y. Gouchet - 12 -2004 & 03 -2005)
