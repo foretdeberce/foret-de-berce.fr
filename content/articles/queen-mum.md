@@ -45,6 +45,23 @@ C'était en quelque sorte, en ce jour, pour la couronne Anglaise,
   
 {{<figure src="/images/articles/queenmum.jpg" title="Signature du livre d’or">}}
 
+
+## Autres articles sur l'Hermitière : ## 
+
+[L’Hermitière - les lieux]({{<ref "articles/hermitiere1.md">}})
+
+[L’Hermitière - les cafetiers]({{<ref "articles/hermitiere2.md">}})
+
+[L’Hermitière - concessions (suite)]({{<ref "articles/hermitiere3.md">}})
+
+[L’Hermitière souterraine]({{<ref "articles/hermitiere4.md">}})
+
+[L’Hermitière en devenir]({{<ref "articles/hermitiere5.md">}})
+
+[Les lavoirs]({{<ref "articles/lavoirs.md">}})
+
+
+
 ### Bibliographie :
   
 Revue Au Fil du temps N° 16 - Page 23  (Y. Gouchet - 06 – 2002) 
