@@ -319,6 +319,20 @@ bûcherons de l'administration entre 1860 et 1900**
 [Les ouvriers forestiers de 1860 à 1900](/articles/pdf/tacherons1860-1900.pdf)	
 
 
+
+## Autres articles concernant les personnels forestiers : ## 
+
+
+[Les auxiliaires forestiers]({{<ref "articles/les-hommes.md">}})
+
+[Travailleurs de 1900 à 2000]({{<ref "articles/auxiliaires-1900-1950.md">}})
+
+[Les livrets journaliers]({{<ref "articles/les-forestiers.md">}})
+
+[Les anciens forestiers]({{<ref "articles/vieux-forestiers.md">}})
+
+[Le martelage]({{<ref "articles/martelage.md">}})
+
 ### Bibliographie : 
 
 Bercé, une forêt d’exception (Y. Gouchet  - 2018)
