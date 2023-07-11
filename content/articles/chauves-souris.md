@@ -163,6 +163,24 @@ Présence d’une richesse en chauves-souris
 Le dossier n'est pas clos:
   
 [Mai 2019 : article Ouest-France](/articles/pdf/201905of.pdf)
+
+## Autres liens concernant les curiosités de Bercé ##
+
+[Légendes]({{<ref "articles/legendes.md">}})
+
+[Le plus gros foudre du monde]({{<ref "articles/foudre.md">}})
+
+[Timbroscopie]({{<ref "articles/timbroscopie.md">}})
+
+[Le Cercle des poètes disparus]({{<ref "articles/bouhours.md">}})
+
+[Anastomoses]({{<ref "articles/anastomose.md">}})
+
+[Pics et insectes]({{<ref "articles/biodiversite-pics-insectes.md">}})
+
+[Daniel Girard]({{<ref "articles/daniel-girard.md">}})
+
+[Pylône TDF]({{<ref "articles/pylone.md">}})
   
 ### Bibliographie :
   
