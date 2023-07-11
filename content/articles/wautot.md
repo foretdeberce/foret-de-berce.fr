@@ -116,6 +116,23 @@ Deux ans après son décès il fait encore partie des abonnés à la revue des g
   
 [Revue des géomètres de 1886](/articles/pdf/n11novembre1886.pdf)
 
-  
+## Autres articles concernant les voies forestières: ## 
+
+
+[Carrières forestières]({{<ref "articles/carrieres.md">}})
+
+[Rond du Souvenir]({{<ref "articles/souvenir.md">}})
+
+[Le tramway]({{<ref "articles/tramway.md">}})
+
+[A 28]({{<ref "articles/a-28.md">}})
+
+[Ronds forestiers]({{<ref "articles/ronds.md">}})
+
+[Routes et chemins]({{<ref "articles/routes-chemins.md">}})
+
+[Toponymie forestière]({{<ref "articles/toponymie.md">}})
+
+[Les cartes pour se rendre à Bercé]({{<ref "articles/cartes.md">}})  
 Ref : **(1)** Bulletin municipal n°36 (Joël Picard) 
      La gazette de Jupilles - juillet 2013 
