@@ -286,7 +286,23 @@ En fin d'année 2021 Le Meilleurs des Mags sur France 3 **(7'05)**
   
 C'est en Sarthe, en forêt de Bercé ...
 Un martelage qui se passe aujourd'hui...
-  
+
+
+
+## Autres articles concernant les personnels forestiers : ## 
+
+
+[Les auxiliaires forestiers]({{<ref "articles/les-hommes.md">}})
+
+[Les travailleurs du 19ème siècle]({{<ref "articles/auxiliaires-1860-1900.md">}})
+
+[Travailleurs de 1900 à 2000]({{<ref "articles/auxiliaires-1900-1950.md">}})
+
+[Les livrets journaliers]({{<ref "articles/les-forestiers.md">}})
+
+[Les anciens forestiers]({{<ref "articles/vieux-forestiers.md">}})
+
+
 ### Bibliographie : 
   
 Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
