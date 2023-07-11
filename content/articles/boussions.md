@@ -115,6 +115,39 @@ Arrivée de l’électricité au poste des Boussions.
   par une maison à ossature bois en 1985. 
   
   {{<figure src="/images/articles/boussions-neuf.jpg" title="La maison bois des Boussions">}}
+
+## Autres articles concernant les maisons forestières : ## 
+
+[Un Corse à Bercé]({{<ref "articles/cesari.md">}})
+    
+[La famille Heintz]({{<ref "articles/heintz.md">}})
+
+[La famille Leclercq]({{<ref "articles/leclercq.md">}})
+
+[Louis Pigault]({{<ref "articles/louis-pigault.md">}})
+
+[Maison forestière des Profonds-Vaux]({{<ref "articles/profonds-vaux.md">}})
+
+[Maison forestière de la Doucinière]({{<ref "articles/douciniere.md">}})
+
+[Maison forestière de la Huberdière]({{<ref "articles/huberdiere.md">}})
+
+[Maison forestière de la Tasse]({{<ref "articles/tasse.md">}})
+
+[Maison forestière des Clos]({{<ref "articles/les-clos.md">}})
+
+[Maison forestière des Forges]({{<ref "articles/forges.md">}})
+
+[Maison forestière des Hutteries]({{<ref "articles/hutteries.md">}})
+
+[Maison forestière des Renardières]({{<ref "articles/renardieres.md">}})
+
+[Maison forestière des Étangs]({{<ref "articles/les-etangs.md">}})
+
+[Un plan type pour les M.F.]({{<ref "articles/maisons.md">}})
+
+[Le Pavillon des Officiers]({{<ref "articles/pavillon-de-berce.md">}})
+
   
 ### Références : 
   
