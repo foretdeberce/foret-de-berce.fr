@@ -440,8 +440,6 @@ un concept très particulier de sylviculture.
 
 [La glandée]({{<ref "articles/glandee.md">}})
 
-[Scieurs de long]({{<ref "articles/scieursdelong.md">}})
-
 [Des pignons pour du pognon]({{<ref "articles/pignons.md">}})
 
 [Gemmeurs, saigneurs de Bercé ]({{<ref "articles/gemmeurs.md">}})
@@ -456,14 +454,29 @@ un concept très particulier de sylviculture.
 
 [Les déchets en forêt]({{<ref "articles/ordures.md">}})
 
+[Les champignons]({{<ref "articles/champignons.md">}})
+
+## Autres liens concernant les moyens d'exploitation de Bercé ##
+
+[Chevaux et tracteurs]({{<ref "articles/chevaux-tracteurs.md">}})
+
+[Les scieries]({{<ref "articles/les-scieries.md">}})
+
+[Loges forestières]({{<ref "articles/loges.md">}})
+
+[Les éhouppeurs]({{<ref "articles/ehouppeurs.md">}})
+
+[Les Aménagements]({{<ref "articles/amenagement.md">}})
+
+[Scieurs de long]({{<ref "articles/scieursdelong.md">}})
+
+[Série résineuse]({{<ref "articles/serie-resineuse.md">}})
+
 [Les bûcherons]({{<ref "articles/bucherons.md">}})
 
 [Les ateliers]({{<ref "articles/ateliers.md">}})
 
-[Les champignons]({{<ref "articles/champignons.md">}})
-
-
-
+[Sylviculture]({{<ref "articles/sylviculture.md">}})
       
 ### Bibliographie :
       
