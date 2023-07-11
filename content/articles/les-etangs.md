@@ -65,6 +65,39 @@ Photo ci-dessus prise à l’hiver 1975/1976 : Père et fils ORLANDINI de Jupill
 13 septembre 1977 : Arrivée du téléphone. 
   
 {{<figure src="/images/articles/etangs3.jpg" title="Les Étangs en 1991">}}
+
+## Autres articles concernant les maisons forestières : ## 
+
+[Un Corse à Bercé]({{<ref "articles/cesari.md">}})
+    
+[La famille Heintz]({{<ref "articles/heintz.md">}})
+
+[La famille Leclercq]({{<ref "articles/leclercq.md">}})
+
+[Louis Pigault]({{<ref "articles/louis-pigault.md">}})
+
+[Maison forestière des Profonds-Vaux]({{<ref "articles/profonds-vaux.md">}})
+
+[Maison forestière des Boussions]({{<ref "articles/boussions.md">}})
+
+[Maison forestière de la Doucinière]({{<ref "articles/douciniere.md">}})
+
+[Maison forestière de la Huberdière]({{<ref "articles/huberdiere.md">}})
+
+[Maison forestière de la Tasse]({{<ref "articles/tasse.md">}})
+
+[Maison forestière des Clos]({{<ref "articles/les-clos.md">}})
+
+[Maison forestière des Forges]({{<ref "articles/forges.md">}})
+
+[Maison forestière des Hutteries]({{<ref "articles/hutteries.md">}})
+
+[Maison forestière des Renardières]({{<ref "articles/renardieres.md">}})
+
+[Un plan type pour les M.F.]({{<ref "articles/maisons.md">}})
+
+[Le Pavillon des Officiers]({{<ref "articles/pavillon-de-berce.md">}})
+
   
 ### Bibliographie : 
   
