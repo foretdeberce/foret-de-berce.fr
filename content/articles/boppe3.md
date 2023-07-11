@@ -60,6 +60,34 @@ La futaie des Clos : … un peuplement remarquable
 
 {{<figure src="/images/articles/boppe20141.jpg" title="Le nouveau chêne Boppe">}}
 
+## Autres articles concernant les officiers forestiers : ## 
+
+
+[La Mothe d’Olbeau]({{<ref "articles/mothedolbeau.md">}})
+
+[Les Étangs l’Archevêque]({{<ref "articles/les-etangs-l-archeveque.md">}})
+
+[Les tournées forestières]({{<ref "articles/ecole-forestiere.md">}})
+
+[Le Pavillon des Officiers]({{<ref "articles/pavillon-de-berce.md">}})
+
+[Les anciens forestiers]({{<ref "articles/vieux-forestiers.md">}})
+
+[Chêne Émery]({{<ref "articles/emery.md">}})
+
+[Chêne Roulleau de la Roussière]({{<ref "articles/roulleau.md">}})
+
+[Chêne Potel]({{<ref "articles/potel.md">}})
+
+[Chêne Lorne]({{<ref "articles/lorne.md">}})
+
+[Inauguration de l'ancien chêne Boppe]({{<ref "articles/boppe1.md">}})
+
+[Enquête sur la mort du chêne Boppe]({{<ref "articles/boppe2.md">}})
+
+
+
+
 ### Bibliographie :
 
 La Sarthe, des 23 juillet 1935 et 22 août 1937;
