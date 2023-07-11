@@ -316,6 +316,15 @@ Il faudra au fil du temps intégrer ces données dans la gestion forestière.
 {{<figure src="/images/articles/017traces.jpg" title="Cartographie des principaux sites">}}
 
 
+## Autres articles concernant l'archéologie forestière: ## 
+
+
+[Évolution de Bercé]({{<ref "articles/evolution.md">}})
+
+[Le fer]({{<ref "articles/fer.md">}})
+
+[Origines géologiques et historiques de Bercé]({{<ref "articles/origines.md">}})
+
 ### Bibliographie :
   
 Études DRAC et ONF sur le sujet.
