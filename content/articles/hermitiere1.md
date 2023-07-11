@@ -271,6 +271,22 @@ Les acteurs reprendront ce nom de « L'Enfumeraie » pour leur salle de spectacl
   
 {{<figure src="/images/articles/makyo.jpg" title="Celui des années 1980 croqué par Makyo">}} 
 
+## Autres articles sur l'Hermitière : ## 
+
+[L’Hermitière - les cafetiers]({{<ref "articles/hermitiere2.md">}})
+
+[L’Hermitière - concessions (suite)]({{<ref "articles/hermitiere3.md">}})
+
+[L’Hermitière souterraine]({{<ref "articles/hermitiere4.md">}})
+
+[L’Hermitière en devenir]({{<ref "articles/hermitiere5.md">}})
+
+[Les lavoirs]({{<ref "articles/lavoirs.md">}})
+
+[Queen Mum à Bercé]({{<ref "articles/queen-mum.md">}})
+
+
+
 ### Bibliographie : 
 	
 Revue Au Fil du Temps N° 28 de 03 – 2006 - Pages 11 à  12 (Y. Gouchet)
