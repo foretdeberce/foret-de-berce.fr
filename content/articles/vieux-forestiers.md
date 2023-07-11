@@ -90,6 +90,21 @@ Titre X (p.596 et 597) délits et malversations de René GAUDRON & Michel DUPRÉ
 [Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
 
 
+
+## Autres articles concernant les personnels forestiers : ## 
+
+
+[Les auxiliaires forestiers]({{<ref "articles/les-hommes.md">}})
+
+[Les travailleurs du 19ème siècle]({{<ref "articles/auxiliaires-1860-1900.md">}})
+
+[Travailleurs de 1900 à 2000]({{<ref "articles/auxiliaires-1900-1950.md">}})
+
+[Les livrets journaliers]({{<ref "articles/les-forestiers.md">}})
+
+[Le martelage]({{<ref "articles/martelage.md">}})
+
+
 ### Bibliographie :
 
 **(1)** Cartulaire de Château-du-Loir
