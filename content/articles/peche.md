@@ -448,6 +448,21 @@ tous genres. Par la suite, le service de la pêche sera progressivement
 abandonné par les préposés des Eaux et Forêts,
 à la naissance de la deuxième guerre mondiale.
 
+
+## Autres articles concernant la chasse ou la pêche: ## 
+
+[La chasse à courre]({{<ref "articles/courre.md">}})
+
+[La chasse à Tir]({{<ref "articles/chassetir.md">}})
+
+[Le braconnage]({{<ref "articles/braconnage.md">}})
+
+[La chasse en battue]({{<ref "articles/battues.md">}})
+
+[Droits d’usage]({{<ref "articles/usage.md">}})
+
+[Le loup à Bercé]({{<ref "articles/loup.md">}})
+
 ### Bibliographie : 
 	
 Revue Au Fil du Temps N° 34 & 35 - Pages  diverses (Y. Gouchet - 2006/2007) 
