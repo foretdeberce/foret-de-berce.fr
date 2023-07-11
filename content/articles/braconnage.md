@@ -876,6 +876,20 @@ Ce n’est donc pas catastrophique pour l’avenir,
   et plus proches de leur tablette.
 
 
+## Autres articles concernant la chasse ou la pêche: ## 
+
+[La chasse à courre]({{<ref "articles/courre.md">}})
+
+[La chasse à Tir]({{<ref "articles/chassetir.md">}})
+
+[La chasse en battue]({{<ref "articles/battues.md">}})
+
+[Droits d’usage]({{<ref "articles/usage.md">}})
+
+[Pêche]({{<ref "articles/peche.md">}})
+
+[Le loup à Bercé]({{<ref "articles/loup.md">}})
+
 ### Bibliographie : 
 	
 **(1)** Louis Saillant : Au pays du Maine - des gaulois à nos jours  (1 janvier 1934)
