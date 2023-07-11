@@ -69,7 +69,23 @@ Les ouvriers chargés des travaux imposés sur les coupes et payés par les adju
 deviennent dans la seconde partie du 20ème, de véritables ouvriers forestiers
 
 Depuis les années 1950, et l’arrivée sur le massif de forestiers novateurs comme LORNE et CALVEL, les anciens cantonniers ou carriers sont redevenus des sylviculteurs. 
-> *« Il y a plus à faire en forêt que sur les routes !»*.
+
+*« Il y a plus à faire en forêt que sur les routes!»*.
+
+
+
+## Autres articles concernant les personnels forestiers : ## 
+
+
+[Les travailleurs du 19ème siècle]({{<ref "articles/auxiliaires-1860-1900.md">}})
+
+[Travailleurs de 1900 à 2000]({{<ref "articles/auxiliaires-1900-1950.md">}})
+
+[Les livrets journaliers]({{<ref "articles/les-forestiers.md">}})
+
+[Les anciens forestiers]({{<ref "articles/vieux-forestiers.md">}})
+
+[Le martelage]({{<ref "articles/martelage.md">}})
 
 ### Bibliographie : 
 
