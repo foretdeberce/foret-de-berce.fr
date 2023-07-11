@@ -166,6 +166,14 @@ La dernière maison qui fut construite sur Bercé fut celle de la
 [Queen Mum à Bercé]({{<ref "articles/queen-mum.md">}})
 
 
+## Autres articles concernant la Coudre : ## 
+
+[La Coudre]({{<ref "articles/la-coudre.md">}})
+
+[Chêne Émery]({{<ref "articles/emery.md">}})
+
+[Le fer]({{<ref "articles/fer.md">}})
+
 
 ### Bibliographie : 
  
