@@ -448,6 +448,21 @@ D’ici là, nous aurons eu le plaisir d’aller au brame
 Sports à Paris  par Albert de Saint Albin (1889) Gallica.bnf.fr 
  
 Le Trésor de la Vènerie de Hardouin de Fontaines-Guérin (1394)
+
+
+## Autres articles concernant la chasse ou la pêche: ## 
+
+[La chasse à Tir]({{<ref "articles/chassetir.md">}})
+
+[Le braconnage]({{<ref "articles/braconnage.md">}})
+
+[La chasse en battue]({{<ref "articles/battues.md">}})
+
+[Droits d’usage]({{<ref "articles/usage.md">}})
+
+[Pêche]({{<ref "articles/peche.md">}})
+
+[Le loup à Bercé]({{<ref "articles/loup.md">}})
   
 ### Documentation : 
   
