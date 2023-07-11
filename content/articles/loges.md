@@ -141,6 +141,37 @@ Le public a tellement maltraité ces loges que beaucoup ont été rasées,
   
 {{<figure src="/images/articles/logesdeberce.jpg" title="Les loges actuelles et celles disparues">}}
 	
+## Autres liens concernant les moyens d'exploitation de Bercé ##
+
+[Chevaux et tracteurs]({{<ref "articles/chevaux-tracteurs.md">}})
+
+[Les scieries]({{<ref "articles/les-scieries.md">}})
+
+[Les éhouppeurs]({{<ref "articles/ehouppeurs.md">}})
+
+[Carbonisation]({{<ref "articles/carbonisation.md">}})
+
+[Les Aménagements]({{<ref "articles/amenagement.md">}})
+
+[Scieurs de long]({{<ref "articles/scieursdelong.md">}})
+
+[Des pignons pour du pognon]({{<ref "articles/pignons.md">}})
+
+[Gemmeurs, saigneurs de Bercé ]({{<ref "articles/gemmeurs.md">}})
+
+[Série résineuse]({{<ref "articles/serie-resineuse.md">}})
+
+[La saboterie]({{<ref "articles/sabots.md">}})
+
+[Fabricants de battoirs]({{<ref "articles/battoirs.md">}})
+
+[Les bûcherons]({{<ref "articles/bucherons.md">}})
+
+[Les ateliers]({{<ref "articles/ateliers.md">}})
+
+[Bois de marine]({{<ref "articles/bois-de-marine.md">}})
+
+[Sylviculture]({{<ref "articles/sylviculture.md">}})
 
 ### Bibliographie : 
 	
