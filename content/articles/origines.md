@@ -200,6 +200,17 @@ ont pu nous léguer un si beau massif.
     1966 - A l'administration des Eaux et Forêts succède l'Office National des Forêts, 
     qui gère jusqu'à ce jour les Forêts du Domaine Public. 
 
+
+## Autres articles concernant l'archéologie forestière: ## 
+
+
+[Évolution de Bercé]({{<ref "articles/evolution.md">}})
+
+[Le fer]({{<ref "articles/fer.md">}})
+
+[L.I.D.A.R.]({{<ref "articles/lidar.md">}})
+
+
 ***Références : 
 
 *Histoire de la Forêt* par Monsieur l'inspecteur principal des Eaux et forêts  ***Potel 1923***
