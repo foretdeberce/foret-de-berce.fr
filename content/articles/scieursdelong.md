@@ -292,15 +292,31 @@ Les nouvelles sources d'énergie, les progrès vertigineux de l'industrialisatio
 
 [Les déchets en forêt]({{<ref "articles/ordures.md">}})
 
-[Les bûcherons]({{<ref "articles/bucherons.md">}})
-
-[Les ateliers]({{<ref "articles/ateliers.md">}})
-
 [Bois de marine]({{<ref "articles/bois-de-marine.md">}})
 
 [Les champignons]({{<ref "articles/champignons.md">}})
 
+## Autres liens concernant les moyens d'exploitation de Bercé ##
 
+[Chevaux et tracteurs]({{<ref "articles/chevaux-tracteurs.md">}})
+
+[Les scieries]({{<ref "articles/les-scieries.md">}})
+
+[Loges forestières]({{<ref "articles/loges.md">}})
+
+[Les éhouppeurs]({{<ref "articles/ehouppeurs.md">}})
+
+[Carbonisation]({{<ref "articles/carbonisation.md">}})
+
+[Les Aménagements]({{<ref "articles/amenagement.md">}})
+
+[Série résineuse]({{<ref "articles/serie-resineuse.md">}})
+
+[Les bûcherons]({{<ref "articles/bucherons.md">}})
+
+[Les ateliers]({{<ref "articles/ateliers.md">}})
+
+[Sylviculture]({{<ref "articles/sylviculture.md">}})
 
 
 ### Bibliographie : 
