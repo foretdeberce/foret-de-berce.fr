@@ -290,6 +290,22 @@ des périodes de chasse autorisées.
 	
 Fin 19e, il reste trois grands îlots de présence du loup :  Est, Massif Central et Poitou.
 
+
+## Autres articles concernant la chasse ou la pêche: ## 
+
+[La chasse à courre]({{<ref "articles/courre.md">}})
+
+[La chasse à Tir]({{<ref "articles/chassetir.md">}})
+
+[Le braconnage]({{<ref "articles/braconnage.md">}})
+
+[La chasse en battue]({{<ref "articles/battues.md">}})
+
+[Droits d’usage]({{<ref "articles/usage.md">}})
+
+[Pêche]({{<ref "articles/peche.md">}})
+
+
 ### Bibliographie
 
 * Textes de Joël PICARD et Yves PIRAUX.
