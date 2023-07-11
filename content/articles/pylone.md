@@ -156,6 +156,25 @@ Quitte, parfois, à sacrifier la bête.
 En matière de diffusion des ondes, 
 il faut parfois souffrir pour rester dans la course.
 
+## Autres liens concernant les curiosités de Bercé ##
+
+[Légendes]({{<ref "articles/legendes.md">}})
+
+[Chauves-souris]({{<ref "articles/chauves-souris.md">}})
+
+[Le plus gros foudre du monde]({{<ref "articles/foudre.md">}})
+
+[Timbroscopie]({{<ref "articles/timbroscopie.md">}})
+
+[Le Cercle des poètes disparus]({{<ref "articles/bouhours.md">}})
+
+[Anastomoses]({{<ref "articles/anastomose.md">}})
+
+[Pics et insectes]({{<ref "articles/biodiversite-pics-insectes.md">}})
+
+[Daniel Girard]({{<ref "articles/daniel-girard.md">}})
+
+
 ### Bibliographie : 
  
 Archives TDF
