@@ -294,6 +294,27 @@ Le commis forestier Georges France Muriel s'est engagé très tôt dans la rési
 Nous formons tous une chaîne humaine qui s’étend au-delà des générations et les unit.
 La devise de Briançon (la ville la plus haute d'Europe) le rappelle :
   « Le passé répond de l'avenir. »
+
+## Autres articles concernant les chênes remarquables: ## 
+
+
+[Chêne Émery]({{<ref "articles/emery.md">}})
+
+[Chêne Roulleau de la Roussière]({{<ref "articles/roulleau.md">}})
+
+[Chêne Potel]({{<ref "articles/potel.md">}})
+
+[Le plus gros foudre du monde]({{<ref "articles/foudre.md">}})
+
+[Chêne Lorne]({{<ref "articles/lorne.md">}})
+
+[Inauguration de l'ancien chêne Boppe]({{<ref "articles/boppe1.md">}})
+
+[Enquête sur la mort du chêne Boppe]({{<ref "articles/boppe2.md">}})
+
+[Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
+
+[Arbres remarquables]({{<ref "articles/arbres-remarquables.md">}})
  
 Références : 
 
