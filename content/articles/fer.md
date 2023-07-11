@@ -460,6 +460,15 @@ D’autant plus qu’il n’y avait en forêt que de mauvais sentiers,
   car les chemins ne furent percés que fin XVIIIème siècle !
 
 
+## Autres articles concernant la Coudre : ## 
+
+[La Coudre]({{<ref "articles/la-coudre.md">}})
+
+[Les lavoirs]({{<ref "articles/lavoirs.md">}})
+
+[Chêne Émery]({{<ref "articles/emery.md">}})
+
+
 
 ### Bibliographie :
   
