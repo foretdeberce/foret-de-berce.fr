@@ -43,6 +43,38 @@ Pareils aux flots mouvants et féconds de la mer.
 
 {{<figure src="/images/articles/ffn6ans.jpg" title="juin 1955 Série 11 p.8 de Bel-air- semis FFN de 6 ans (P.M.)">}}
 
+## Autres liens concernant les moyens d'exploitation de Bercé ##
+
+[Chevaux et tracteurs]({{<ref "articles/chevaux-tracteurs.md">}})
+
+[Les scieries]({{<ref "articles/les-scieries.md">}})
+
+[Loges forestières]({{<ref "articles/loges.md">}})
+
+[Les éhouppeurs]({{<ref "articles/ehouppeurs.md">}})
+
+[Carbonisation]({{<ref "articles/carbonisation.md">}})
+
+[Les Aménagements]({{<ref "articles/amenagement.md">}})
+
+[Scieurs de long]({{<ref "articles/scieursdelong.md">}})
+
+[Des pignons pour du pognon]({{<ref "articles/pignons.md">}})
+
+[Gemmeurs, saigneurs de Bercé ]({{<ref "articles/gemmeurs.md">}})
+
+[La saboterie]({{<ref "articles/sabots.md">}})
+
+[Fabricants de battoirs]({{<ref "articles/battoirs.md">}})
+
+[Les bûcherons]({{<ref "articles/bucherons.md">}})
+
+[Les ateliers]({{<ref "articles/ateliers.md">}})
+
+[Bois de marine]({{<ref "articles/bois-de-marine.md">}})
+
+[Sylviculture]({{<ref "articles/sylviculture.md">}})
+
 {{<figure src="/images/articles/cladonia.jpg" title="juin 1955 - Série 11 parcelle 9 – P.M et P.S. (45ans) sur lande à Cladonia">}}
 
 ### Bibliographie : 
