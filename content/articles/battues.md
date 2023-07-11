@@ -701,7 +701,22 @@ La sylviculture moderne préfère de loin la stricte application du plan de
  
 
 [Ouverture et clôture de la saison 2022-2023 : (1661-1683)](/articles/pdf/chasse2022-2023.pdf)
-	
+
+
+## Autres articles concernant la chasse ou la pêche: ## 
+
+[La chasse à courre]({{<ref "articles/courre.md">}})
+
+[La chasse à Tir]({{<ref "articles/chassetir.md">}})
+
+[Le braconnage]({{<ref "articles/braconnage.md">}})
+
+[Droits d’usage]({{<ref "articles/usage.md">}})
+
+[Pêche]({{<ref "articles/peche.md">}})
+
+[Le loup à Bercé]({{<ref "articles/loup.md">}})
+ 
 ### Bibliographie : 
 	
 Bercé, une forêt d’exception (Y. Gouchet  - 2018)
