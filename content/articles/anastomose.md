@@ -35,6 +35,24 @@ Les deux photos de celui-ci datent de 1981.
 {{<figure src="/images/articles/251.jpg" title="Le chêne girafe de la parcelle 251">}}
 
 {{<figure src="/images/articles/1981-251.jpg" title="Ce même chêne admiré par un couple d’Australiens">}}
+
+## Autres liens concernant les curiosités de Bercé ##
+
+[Légendes]({{<ref "articles/legendes.md">}})
+
+[Chauves-souris]({{<ref "articles/chauves-souris.md">}})
+
+[Le plus gros foudre du monde]({{<ref "articles/foudre.md">}})
+
+[Timbroscopie]({{<ref "articles/timbroscopie.md">}})
+
+[Le Cercle des poètes disparus]({{<ref "articles/bouhours.md">}})
+
+[Pics et insectes]({{<ref "articles/biodiversite-pics-insectes.md">}})
+
+[Daniel Girard]({{<ref "articles/daniel-girard.md">}})
+
+[Pylône TDF]({{<ref "articles/pylone.md">}})
   
 ### Bibliographie : 
   
