@@ -304,6 +304,21 @@ Plusieurs personnes se plaignent des trop  grands prélèvements de cervidés.
 {{<youtube id="fa9vAVYyATk">}} 
  
 Le plan de chasse 2016 sur Bercé. **(2'06)**
+
+
+## Autres articles concernant la chasse ou la pêche: ## 
+
+[La chasse à courre]({{<ref "articles/courre.md">}})
+
+[Le braconnage]({{<ref "articles/braconnage.md">}})
+
+[La chasse en battue]({{<ref "articles/battues.md">}})
+
+[Droits d’usage]({{<ref "articles/usage.md">}})
+
+[Pêche]({{<ref "articles/peche.md">}})
+
+[Le loup à Bercé]({{<ref "articles/loup.md">}})
  
 ### Bibliographie :
           
