@@ -349,6 +349,27 @@ adresse un chèque de 1.000 f afin que l’ONF procède au nettoyage de celle-ci
 **2010**- année internationale de la biodiversité : 
 curage complet des bassins, et remise en eau fin octobre.
 
+## Pages en rapport avec le tourisme sur Bercé ##
+
+[Le tramway]({{<ref "articles/tramway.md">}})
+
+[Timbroscopie]({{<ref "articles/timbroscopie.md">}})
+
+[Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
+
+[Saint-Hubert]({{<ref "articles/saint-hubert.md">}})
+
+[La forêt, l’Homme et Bercé (vidéo)]({{<ref "articles/videos.md">}})
+
+[Bercé et la presse]({{<ref "articles/afflux-touristique.md">}})
+
+[Aménagements touristiques]({{<ref "articles/tourisme-en-berce.md">}})
+
+[7ème forêt d’Éxception®]({{<ref "articles/7eme-foret-d-exception.md">}})
+
+[Les champignons]({{<ref "articles/champignons.md">}})
+
+
 ### Bibliographie : 
     
 Livrets journaliers des préposés et archives ONF.
