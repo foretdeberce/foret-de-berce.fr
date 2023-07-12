@@ -136,6 +136,25 @@ Par contre la commercialisation des champignons de Bercé est totalement interdi
 
 [Bois de marine]({{<ref "articles/bois-de-marine.md">}})
 
+## Pages en rapport avec le tourisme sur Bercé ##
+
+[Le tramway]({{<ref "articles/tramway.md">}})
+
+[Timbroscopie]({{<ref "articles/timbroscopie.md">}})
+
+[Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
+
+[Saint-Hubert]({{<ref "articles/saint-hubert.md">}})
+
+[La forêt, l’Homme et Bercé (vidéo)]({{<ref "articles/videos.md">}})
+
+[Bercé et la presse]({{<ref "articles/afflux-touristique.md">}})
+
+[Aménagements touristiques]({{<ref "articles/tourisme-en-berce.md">}})
+
+[7ème forêt d’Éxception®]({{<ref "articles/7eme-foret-d-exception.md">}})
+
+[La Coudre]({{<ref "articles/la-coudre.md">}})
 
 
      
