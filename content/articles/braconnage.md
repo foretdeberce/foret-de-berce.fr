@@ -874,6 +874,20 @@ Ce n’est donc pas catastrophique pour l’avenir,
   car nos chères petites têtes blondes sont désormais
   bien sensibilisées à la protection de la nature…
   et plus proches de leur tablette.
+  
+## Pages en rapport avec ce sujet ##
+
+[La police forestière]({{<ref "articles/forestiers.md">}})
+
+[Indigents]({{<ref "articles/indigents.md">}})
+
+[Foncier]({{<ref "articles/foncier.md">}})
+
+[Droits d’usage]({{<ref "articles/usage.md">}})
+
+[La révolte des sabotiers]({{<ref "articles/revolte-sabotiers.md">}})
+
+[Les déchets en forêt]({{<ref "articles/ordures.md">}})
 
 
 ## Autres articles concernant la chasse ou la pêche: ## 
@@ -884,13 +898,10 @@ Ce n’est donc pas catastrophique pour l’avenir,
 
 [La chasse en battue]({{<ref "articles/battues.md">}})
 
-[Droits d’usage]({{<ref "articles/usage.md">}})
-
 [Pêche]({{<ref "articles/peche.md">}})
 
 [Le loup à Bercé]({{<ref "articles/loup.md">}})
 
-[La police forestière]({{<ref "articles/forestiers.md">}})
 
 ### Bibliographie : 
 	
