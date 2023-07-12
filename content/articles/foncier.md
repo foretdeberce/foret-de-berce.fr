@@ -87,6 +87,23 @@ D’une surface de 5400ha, Bercé est la plus grande forêt domaniale de l’oue
 {{<figure src="/images/articles/carte9.jpg" title=" Territoire communal de Chahaignes">}}
 
 {{<figure src="/images/articles/carte10.jpg" title=" Territoire communal de Thoiré-sur-Dinan">}}
+
+## Pages en rapport avec ce sujet ##
+
+[La police forestière]({{<ref "articles/forestiers.md">}})
+
+[Indigents]({{<ref "articles/indigents.md">}})
+
+[Le braconnage]({{<ref "articles/braconnage.md">}})
+
+[Droits d’usage]({{<ref "articles/usage.md">}})
+
+[La révolte des sabotiers]({{<ref "articles/revolte-sabotiers.md">}})
+
+[Les déchets en forêt]({{<ref "articles/ordures.md">}})
+
+[Pêche]({{<ref "articles/peche.md">}})
+
   
 ### Bibliographie : 
 
