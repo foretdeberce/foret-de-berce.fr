@@ -344,3 +344,23 @@ Enfin pour terminer en reprenant le jeu gue l'ami TOURNESAC apprenait à nos
      sans autre incidents qu’une bataille à coup de pommes 
      et la perte d’un camarade retenu en arrière
      par une affaire demeurée mystérieuse….
+
+## Pages en rapport avec le tourisme sur Bercé ##
+
+[Le tramway]({{<ref "articles/tramway.md">}})
+
+[Timbroscopie]({{<ref "articles/timbroscopie.md">}})
+
+[Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
+
+[Saint-Hubert]({{<ref "articles/saint-hubert.md">}})
+
+[La forêt, l’Homme et Bercé (vidéo)]({{<ref "articles/videos.md">}})
+
+[Aménagements touristiques]({{<ref "articles/tourisme-en-berce.md">}})
+
+[7ème forêt d’Éxception®]({{<ref "articles/7eme-foret-d-exception.md">}})
+
+[La Coudre]({{<ref "articles/la-coudre.md">}})
+
+[Les champignons]({{<ref "articles/champignons.md">}})
