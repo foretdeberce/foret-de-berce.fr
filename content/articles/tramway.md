@@ -442,6 +442,28 @@ Les rails ne seront démontés que plus tard, car en 1940 et février 1941,
 [Toponymie forestière]({{<ref "articles/toponymie.md">}})
 
 [Les cartes pour se rendre à Bercé]({{<ref "articles/cartes.md">}})
+
+
+## Pages en rapport avec le tourisme sur Bercé ##
+
+[Timbroscopie]({{<ref "articles/timbroscopie.md">}})
+
+[Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
+
+[Saint-Hubert]({{<ref "articles/saint-hubert.md">}})
+
+[La forêt, l’Homme et Bercé (vidéo)]({{<ref "articles/videos.md">}})
+
+[Bercé et la presse]({{<ref "articles/afflux-touristique.md">}})
+
+[Aménagements touristiques]({{<ref "articles/tourisme-en-berce.md">}})
+
+[7ème forêt d’Éxception®]({{<ref "articles/7eme-foret-d-exception.md">}})
+
+[La Coudre]({{<ref "articles/la-coudre.md">}})
+
+[Les champignons]({{<ref "articles/champignons.md">}})
+
 ### Bibliographie
 
 
