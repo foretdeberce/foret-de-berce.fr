@@ -210,16 +210,16 @@ Chemin de l’École forestière (qui mène au chêne Boppe)
 ### 1926
   
 28 Juillet : le garde Louis Pigault rapporte :
-  « Suis allé le soir avec le brigadier et
-  M. l’Agent-voyer* cantonal d’Écommoy à la carrière
-  des **HUTTERIES (10)**, pour la délimitation 
-  d’une carrière destinée à  la Commune de Saint-Mars-d’Outillé,
-  parcelle 12. Pruillé-l’Éguillé, Marigné-Laillé, Téloché,
-  Écommoy, tireront aussi de la pierre en Bercé aux Hutteries,
-  pour l’entretien de leurs chemins ruraux et vicinaux ». 
+« Suis allé le soir avec le brigadier et
+M. l’Agent-voyer (a) cantonal d’Écommoy à la carrière
+des **HUTTERIES (10)**, pour la délimitation 
+d’une carrière destinée à  la Commune de Saint-Mars-d’Outillé,
+parcelle 12. Pruillé-l’Éguillé, Marigné-Laillé, Téloché,
+Écommoy, tireront aussi de la pierre en Bercé aux Hutteries,
+pour l’entretien de leurs chemins ruraux et vicinaux ». 
   
-*(l’Agent-voyer est un fonctionnaire des Ponts et Chaussées,
- chargé de veiller à l'entretien des routes et chemins vicinaux)*
+*(a) l’Agent-voyer est un fonctionnaire des Ponts et Chaussées,
+ chargé de veiller à l'entretien des routes et chemins vicinaux*
  
   
 ### 1927 
