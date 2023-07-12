@@ -19,10 +19,15 @@ En lien avec les livres et l'auteur.
 
 Le moteur de recherche est propulsé par Google. 
 
+## En bas de chaque page : ##
+
+Un ou plusieurs liens vous redirigeront 
+vers d'autres pages traitant du même thème.
+
 
 ## SOMMAIRE ###
 
-***Cliquez sur le lien qui vous intéresse !***
+***Cliquez dès maintenant sur le lien qui vous intéresse !***
 
      PAGE 1
      
