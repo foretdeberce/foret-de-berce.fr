@@ -465,6 +465,15 @@ se modernise petit à petit.
 
 [Tableau des officiers en poste](/articles/pdf/officiers19et20e.pdf)
 
+## En lien avec ce sujet :## 
+
+[Droits d’usage]({{<ref "articles/usage.md">}})
+
+[Pêche]({{<ref "articles/peche.md">}})
+
+[Le loup à Bercé]({{<ref "articles/loup.md">}})
+
+[La police forestière]({{<ref "articles/forestiers.md">}})
 
 **Bibliographie :**
 
