@@ -465,15 +465,24 @@ se modernise petit à petit.
 
 [Tableau des officiers en poste](/articles/pdf/officiers19et20e.pdf)
 
-## En lien avec ce sujet :## 
+## Pages en rapport avec ce sujet ##
+
+[La police forestière]({{<ref "articles/forestiers.md">}})
+
+[Indigents]({{<ref "articles/indigents.md">}})
+
+[Le braconnage]({{<ref "articles/braconnage.md">}})
+
+[Foncier]({{<ref "articles/foncier.md">}})
 
 [Droits d’usage]({{<ref "articles/usage.md">}})
 
+[La révolte des sabotiers]({{<ref "articles/revolte-sabotiers.md">}})
+
+[Les déchets en forêt]({{<ref "articles/ordures.md">}})
+
 [Pêche]({{<ref "articles/peche.md">}})
 
-[Le loup à Bercé]({{<ref "articles/loup.md">}})
-
-[La police forestière]({{<ref "articles/forestiers.md">}})
 
 **Bibliographie :**
 
