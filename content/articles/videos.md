@@ -16,3 +16,23 @@ et Guillaume (photographe animalier).
 {{<youtube id="IcelTcBckeE">}}
   
 Films d'étudiants en filière bois à la Germinière de Rouillon. **(20'05)**
+
+## Pages en rapport avec le tourisme sur Bercé ##
+
+[Le tramway]({{<ref "articles/tramway.md">}})
+
+[Timbroscopie]({{<ref "articles/timbroscopie.md">}})
+
+[Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
+
+[Saint-Hubert]({{<ref "articles/saint-hubert.md">}})
+
+[Bercé et la presse]({{<ref "articles/afflux-touristique.md">}})
+
+[Aménagements touristiques]({{<ref "articles/tourisme-en-berce.md">}})
+
+[7ème forêt d’Éxception®]({{<ref "articles/7eme-foret-d-exception.md">}})
+
+[La Coudre]({{<ref "articles/la-coudre.md">}})
+
+[Les champignons]({{<ref "articles/champignons.md">}})
