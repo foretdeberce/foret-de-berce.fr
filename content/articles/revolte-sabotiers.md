@@ -559,8 +559,6 @@ Cet historique, nous fait comprendre l’attachement du monde rural à sa forêt
 
 [Du bois pour Paris]({{<ref "articles/cathedrale.md">}})
 
-[Indigents]({{<ref "articles/indigents.md">}})
-
 [Bois chantant]({{<ref "articles/bois-chantant.md">}})
 
 [Balay et habitat rustique]({{<ref "articles/balay.md">}})
@@ -592,6 +590,22 @@ Cet historique, nous fait comprendre l’attachement du monde rural à sa forêt
 [Bois de marine]({{<ref "articles/bois-de-marine.md">}})
 
 [Les champignons]({{<ref "articles/champignons.md">}})
+
+## Pages en rapport avec ce sujet ##
+
+[La police forestière]({{<ref "articles/forestiers.md">}})
+
+[Indigents]({{<ref "articles/indigents.md">}})
+
+[Le braconnage]({{<ref "articles/braconnage.md">}})
+
+[Foncier]({{<ref "articles/foncier.md">}})
+
+[Droits d’usage]({{<ref "articles/usage.md">}})
+
+[Les déchets en forêt]({{<ref "articles/ordures.md">}})
+
+[Pêche]({{<ref "articles/peche.md">}})
 
 
 
