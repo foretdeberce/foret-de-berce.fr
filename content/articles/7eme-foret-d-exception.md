@@ -60,3 +60,24 @@ Les photos et cartes postales glanées çà et là témoignent de ce passé pres
 avoisinants vivaient des métiers de la forêt.
 
 Elles nous permettent aujourd’hui de relater à nos enfants le passé prestigieux de la forêt de leurs aïeux. 
+
+## Pages en rapport avec le tourisme sur Bercé ##
+
+[Le tramway]({{<ref "articles/tramway.md">}})
+
+[Timbroscopie]({{<ref "articles/timbroscopie.md">}})
+
+[Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
+
+[Saint-Hubert]({{<ref "articles/saint-hubert.md">}})
+
+[La forêt, l’Homme et Bercé (vidéo)]({{<ref "articles/videos.md">}})
+
+[Bercé et la presse]({{<ref "articles/afflux-touristique.md">}})
+
+[Aménagements touristiques]({{<ref "articles/tourisme-en-berce.md">}})
+
+[La Coudre]({{<ref "articles/la-coudre.md">}})
+
+[Les champignons]({{<ref "articles/champignons.md">}})
+
