@@ -116,47 +116,25 @@ Saint Pierre du Lorouër en 1912 : 5
 
 {{<figure src="/images/articles/indigents1935.jpg"  title="Comparaisons 1935">}}
 
-## Autres articles concernant les productions forestières: ## 
+## Pages en rapport avec ce sujet ##
 
-[Du bois pour Paris]({{<ref "articles/cathedrale.md">}})
+[La police forestière]({{<ref "articles/forestiers.md">}})
 
-[Bois chantant]({{<ref "articles/bois-chantant.md">}})
+[Indigents]({{<ref "articles/indigents.md">}})
 
-[Balay et habitat rustique]({{<ref "articles/balay.md">}})
+[Le braconnage]({{<ref "articles/braconnage.md">}})
 
-[Les éhouppeurs]({{<ref "articles/ehouppeurs.md">}})
+[Foncier]({{<ref "articles/foncier.md">}})
 
-[Carbonisation]({{<ref "articles/carbonisation.md">}})
-
-[La glandée]({{<ref "articles/glandee.md">}})
-
-[Scieurs de long]({{<ref "articles/scieursdelong.md">}})
-
-[Des pignons pour du pognon]({{<ref "articles/pignons.md">}})
-
-[Gemmeurs, saigneurs de Bercé ]({{<ref "articles/gemmeurs.md">}})
+[Droits d’usage]({{<ref "articles/usage.md">}})
 
 [La révolte des sabotiers]({{<ref "articles/revolte-sabotiers.md">}})
 
-[La saboterie]({{<ref "articles/sabots.md">}})
-
-[Fabricants de battoirs]({{<ref "articles/battoirs.md">}})
-
-[Menus bois]({{<ref "articles/fagots-bourrees.md">}})
-
 [Les déchets en forêt]({{<ref "articles/ordures.md">}})
 
-[Les bûcherons]({{<ref "articles/bucherons.md">}})
-
-[Les ateliers]({{<ref "articles/ateliers.md">}})
-
-[Bois de marine]({{<ref "articles/bois-de-marine.md">}})
-
-[Les champignons]({{<ref "articles/champignons.md">}})
+[Pêche]({{<ref "articles/peche.md">}})
 
 
-
- 
 ### Bibliographie :
 
 **(1)** Revue forestière Fr. LVII – mai 2005 Histoire et territoires -
