@@ -25,8 +25,6 @@ Un ou plusieurs liens vous redirigeront
 vers d'autres pages traitant du même thème.
 
 
-## SOMMAIRE ###
-
 ***Cliquez dès maintenant sur le lien qui vous intéresse !***
 
      PAGE 1
