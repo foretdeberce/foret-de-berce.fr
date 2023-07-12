@@ -215,3 +215,22 @@ La gérance passe la main, et désormais, avant de partir chasser à courre,
   et qui s’articule autour du  père : Jean Louis Hardouin, 
   président du GIC de Bercé (Groupement d'intérêt cynégétique).
   
+## Pages en rapport avec le tourisme sur Bercé ##
+
+[Le tramway]({{<ref "articles/tramway.md">}})
+
+[Timbroscopie]({{<ref "articles/timbroscopie.md">}})
+
+[Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
+
+[La forêt, l’Homme et Bercé (vidéo)]({{<ref "articles/videos.md">}})
+
+[Bercé et la presse]({{<ref "articles/afflux-touristique.md">}})
+
+[Aménagements touristiques]({{<ref "articles/tourisme-en-berce.md">}})
+
+[7ème forêt d’Éxception®]({{<ref "articles/7eme-foret-d-exception.md">}})
+
+[La Coudre]({{<ref "articles/la-coudre.md">}})
+
+[Les champignons]({{<ref "articles/champignons.md">}})
