@@ -448,6 +448,20 @@ tous genres. Par la suite, le service de la pêche sera progressivement
 abandonné par les préposés des Eaux et Forêts,
 à la naissance de la deuxième guerre mondiale.
 
+## Pages en rapport avec ce sujet ##
+
+[La police forestière]({{<ref "articles/forestiers.md">}})
+
+[Indigents]({{<ref "articles/indigents.md">}})
+
+[Foncier]({{<ref "articles/foncier.md">}})
+
+[Droits d’usage]({{<ref "articles/usage.md">}})
+
+[La révolte des sabotiers]({{<ref "articles/revolte-sabotiers.md">}})
+
+[Les déchets en forêt]({{<ref "articles/ordures.md">}})
+
 
 ## Autres articles concernant la chasse ou la pêche: ## 
 
@@ -458,8 +472,6 @@ abandonné par les préposés des Eaux et Forêts,
 [Le braconnage]({{<ref "articles/braconnage.md">}})
 
 [La chasse en battue]({{<ref "articles/battues.md">}})
-
-[Droits d’usage]({{<ref "articles/usage.md">}})
 
 [Le loup à Bercé]({{<ref "articles/loup.md">}})
 
