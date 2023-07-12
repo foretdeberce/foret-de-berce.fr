@@ -202,7 +202,19 @@ La réformation des forêts de 1526 à 1531 donne lieu à de nombreux arrêts
 Hier nous parlions encore de [pâturage en forêt](/articles/pdf/paturageenforet.pdf) les années sèches.
 	
 **Aujourd'hui, nous parlons de [cessions et concessions](/articles/pdf/cessionsetchampignons.pdf).** 
-	
+
+## Pages en rapport avec ce sujet ##
+
+[La police forestière]({{<ref "articles/forestiers.md">}})
+
+[Indigents]({{<ref "articles/indigents.md">}})
+
+[Foncier]({{<ref "articles/foncier.md">}})
+
+[La révolte des sabotiers]({{<ref "articles/revolte-sabotiers.md">}})
+
+[Les déchets en forêt]({{<ref "articles/ordures.md">}})
+ 
 
 ## Autres articles concernant la chasse ou la pêche: ## 
 
