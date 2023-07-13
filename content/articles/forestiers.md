@@ -467,8 +467,6 @@ se modernise petit à petit.
 
 ## Pages en rapport avec ce sujet ##
 
-[La police forestière]({{<ref "articles/forestiers.md">}})
-
 [Indigents]({{<ref "articles/indigents.md">}})
 
 [Le braconnage]({{<ref "articles/braconnage.md">}})
@@ -483,6 +481,9 @@ se modernise petit à petit.
 
 [Pêche]({{<ref "articles/peche.md">}})
 
+[Les Étangs l’Archevêque]({{<ref "articles/les-etangs-l-archeveque.md">}})
+
+[Les anciens forestiers]({{<ref "articles/vieux-forestiers.md">}})
 
 **Bibliographie :**
 
