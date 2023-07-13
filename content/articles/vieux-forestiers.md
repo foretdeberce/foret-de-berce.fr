@@ -89,7 +89,7 @@ Titre X (p.596 et 597) délits et malversations de René GAUDRON & Michel DUPRÉ
 
 [Nouveau chêne Boppe]({{<ref "articles/boppe3.md">}})
 
-
+[La police forestière]({{<ref "articles/forestiers.md">}})
 
 ## Autres articles concernant les personnels forestiers : ## 
 
