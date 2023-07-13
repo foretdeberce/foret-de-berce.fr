@@ -581,8 +581,6 @@ Cet historique, nous fait comprendre l’attachement du monde rural à sa forêt
 
 [Menus bois]({{<ref "articles/fagots-bourrees.md">}})
 
-[Les déchets en forêt]({{<ref "articles/ordures.md">}})
-
 [Les bûcherons]({{<ref "articles/bucherons.md">}})
 
 [Les ateliers]({{<ref "articles/ateliers.md">}})
