@@ -331,11 +331,13 @@ Faible hygrométrie en 1995 et 1996. 1990, 1994, 1997 et 2013 sont
   2011 cumule un déficit annuel des précipitations de 225 mm sur une moyenne espérée de 813 mm. 
   2014 : courbe des moyennes des températures en hausse.s
   
-Le réchauffement climatique actuel met à mal notre forêt.
+Le réchauffement climatique actuel met à mal notre forêt, particulièrement en 2022/2023.
 Aussi, en 2023, l'O.N.F. anticipe-t-il la raréfaction de l'eau en établissant 
   dans toutes les forêts du département, des plantations comparatives 
   de chênes sessiles (comme à Bercé), pubescents (régions méditerranéennes), Zéens (Algérie), de séquoias toujours verts (Amérique du nord), 
   de pins de Brutie (Turquie) ou de robiniers faux acacias (Amérique du Nord).
+  
+  L'O.N.F. et les pompiers intensifient aussi la surveillance des incendies.
   
 ### La foudre :
   
