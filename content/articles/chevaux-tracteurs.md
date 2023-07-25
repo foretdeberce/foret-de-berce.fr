@@ -525,10 +525,12 @@ Il y a eu au plus fort de l'emploi "moderne" deux chauffeurs de tracteurs :
 
 ### De nos jours :
 
-La tire des bois se veut respectueuse des sols.
+La tire des bois se veut plus respectueuse des sols.
 Le cablage est actuellement une bonne opportunité mais onéreuse.
+Tel ce reportage de 2022 du
+**Petit Courrier L'Écho de la vallée du Loir**
 
-
+{{<youtube id="OqKoNJd3emQ">}}
 
 ## Autres liens concernant les moyens d'exploitation de Bercé ##
 
