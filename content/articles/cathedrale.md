@@ -74,7 +74,10 @@ L’exploitation des géants. **(1'57)**
 On en parle aussi sur CNN. **(6'19)**
 
 ### En mars 2023, le tabouret de la flèche monte à bon rythme.
-  
+
+Vicissitudes de la cathédrale de Paris au cours du temps
+{{<youtube id="hM4yaoybbU4">}}  
+Time-Lapse de sa construction.
 
 {{<youtube id="Yuw3rVbBGvo">}}
 L'histoire de la restitution à l'identique de la charpente. **(26'17)**
