@@ -8,7 +8,7 @@ tags: ["Forestiers","Gardes", "Service"]
 ---
   
 
-### 1 - Eaux et forêts…..
+## 1 - Eaux et forêts…..
 
 **« Force à la loi »** 
  
@@ -269,7 +269,7 @@ Le port de ce costume et des insignes distinctifs de l'emploi permet de
   "Administration des Eaux et Forêts"(1950), "Forêts" (plus tard),
   ou tout simplement  leur commission.
 
-2— Gardes Particuliers….. « Force à la loi » 
+## 2— Gardes Particuliers…..               « Force à la loi » 
  
 {{<figure src="/images/articles/gardeparticulier.jpg" title="Garde particulier de Chahaignes">}}
 
