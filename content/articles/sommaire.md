@@ -144,7 +144,7 @@ vers d'autres pages traitant du même thème.
 
 [La famille Leclercq]({{<ref "articles/leclercq.md">}})
 
-[Plaques et boutons]({{<ref "articles/plaques-boutons.md">}})
+[Vêture, plaques et boutons]({{<ref "articles/veture-plaques-boutons.md">}})
 
 [Carbonisation]({{<ref "articles/carbonisation.md">}})
 
