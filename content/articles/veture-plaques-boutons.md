@@ -1,5 +1,5 @@
 ---
-title: "Plaques et boutons"
+title: "Vêture, plaques et boutons"
 date: 2022-10-19T17:23:44+01:00
 draft: false
 description: " Insignes de la livrée forestière "
