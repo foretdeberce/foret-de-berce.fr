@@ -82,10 +82,10 @@ Il fut admis « … que les plaques ou broderies pourraient être portées sur
   faces parlantes appendues au cou. 
   
 Les emblèmes royaux, couronne et fleurs de lys demeurent encore 
-  en vigueur jusqu'au 20 septembre 1792 (21 septembre : 
-  arrestation de Varennes). Certaines plaques, dès la
-  fin du XVIIIème siècle, ont été estampées au moyen de
-  matrices finement travaillées.
+  en vigueur jusqu'au 20 septembre 1792 
+  (21 septembre : arrestation de Varennes). 
+Certaines plaques, dès la fin du XVIIIème siècle,
+ont été estampées au moyen de matrices finement travaillées.
 
 
 Elles sont généralement en laiton naturel, en bronze naturel patiné
@@ -117,9 +117,9 @@ A la Révolution nous retrouvons le bonnet phrygien surmontant ou
   
 C’est la représentation d'une Minerve en pied, puis l'aigle impérial 
   élancé qui firent s'envoler, en 1814, les attributs de la Restauration,
-  à leur tour supplantés par le coq gaulois (imposé à Louis-Philippe), 
+  à leur tour supplantés par le coq gaulois *(imposé à Louis-Philippe)*, 
   malheureux volatile dont ne voulurent pas les rameaux de chêne de la 
-  Seconde République, mis bas par l'aigle (Empire 1852) statique, figé,
+  Seconde République, mis bas par l'aigle *(Empire 1852)* statique, figé,
   de Napoléon III, jusqu'au retour des feuillages ornant la dernière
   plaque de nos préposés, sur laquelle on lit le mot «Forêts», 
   dominant une trompe.
@@ -208,7 +208,7 @@ Code forestier du 28 mai 1827 et ordonnance d'exécution du 1er août:
   (Musette de service en cuir…bien entendu). 
   
   Les préposés reçurent plusieurs fois l’ordre de porter ostensiblement
-  la plaque dans leurs tournées ». (1) 
+  la plaque dans leurs tournées ». **(1)** 
 
 {{<figure src="/images/articles/pezeray.jpg" title="Le garde et ses attributs">}}
 
