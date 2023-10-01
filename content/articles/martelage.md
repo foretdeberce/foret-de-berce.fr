@@ -46,8 +46,8 @@ Le 6 août 1899 il est noté dans les livrets que *«les empreintes des marteaux
   sont déposées au Pavillon de Bercé, dans l’armoire de la chambre de Mr l’inspecteur»* . 
   
 Le 24 mai 1894, l’inspecteur Chautan de Vercly et son adjoint Roulleau de La Roussiere
-  visent ainsi le matin, en guise de prologue au martelage, sur les livrets d’ordres 
-  des préposés cette phrase *Vu par les agents forestiers en tournée*….d’ailleurs,
+  visent ainsi le matin, en guise de prologue au martelage, les livrets d’ordres 
+  des préposés en y apposant cette phrase *Vu par les agents forestiers en tournée*….d’ailleurs,
   depuis le 15 mai, c’est tous les jours qu’est laconiquement inscrite sur les livrets
   des préposés la phrase suivante : *Accompagné Mrs les agents forestiers
   aux opérations dans les 1ère, 2ème et 3ème série*, pas de répit donc...
