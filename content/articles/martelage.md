@@ -7,36 +7,45 @@ featured_image: '/images/martelage.jpg'
 tags: ["Exploitation","Travaux","Hommes"]
 ---
 
-Le martelage, est une opération sylvicole qui consiste à désigner les arbres à abattre,
+Le martelage est une opération sylvicole qui consiste à désigner les arbres à abattre,
 à l’aide d’un marteau et de son empreinte. 
+
 Peu de photos anciennes relatent cette particularité du métier de forestier sur Bercé.
+
 Les gestes  du marteleur se répètent inlassablement depuis l’arrivée des premiers forestiers sur le Massif de Bercé : 
-(Gaubert (Gausbertus) forestier de Cléopas de Nouâtre en 1067 et Foucher, forestier de Gervais II, 
-seigneur de Château du Loir (1071).
+(Gaubert (Gausbertus) forestier de Cléopas de Nouâtre en 1067 et Foucher, forestier de Gervais II, seigneur de Château du Loir (1071).
 
 {{<figure src="/images/articles/tampon.jpg" title="Sceau du marteau de l'état">}}
   
 Martelages et griffages sont deux opérations ou le forestier peut librement 
   exprimer son talent, car choisir un arbre pour le porter à la mort,
-  n’est pas un acte sylvicole vide de sens. Le martelage est la désignation 
-  à l’aide d’un marteau des tiges abandonnées à l’exploitation en leur laissant 
-  au centre d’un flachis une marque réputée infalsifiable et identifiable.
-  La marque AF du flachis rond désigne à l’époque aussi bien l’administration
-  forestière que celle des finances qui étaient un temps les mêmes.
+  n’est pas un acte sylvicole vide de sens. 
+  
+     Le martelage 
+     
+     C'est la désignation à l’aide d’un marteau 
+          (dit marteau de l’État)
+     des tiges abandonnées à l’exploitation en
+     leur laissant au centre d’un flachis 
+     une marque réputée infalsifiable et identifiable.
+     
+     La marque AF du flachis rond désigne à l’époque 
+     aussi bien l’administration forestière que celle
+     des finances qui étaient un temps ...les mêmes.
+
+     La falsification de l’empreinte du marteau est
+     punissable de la même peine que la contrefaçon de monnaie. 
 
 {{<figure src="/images/articles/clocher.jpg" title="Rendez-vous avant le départ en opération">}}
 
 **Par le passé**
   
-Les marteaux utilisés en opération conjointe de martelage (dits marteaux de l’État, 
-  dont la falsification de l’empreinte était punissable de la même peine que 
-  la contrefaçon de monnaie) étaient, eux, conservés à l’inspection du Mans dans un coffre, 
-  et amenés par l’inspecteur ou agent sur le terrain les seuls jours "d’opération". 
+Les marteaux utilisés en opération conjointe de martelage étaient, eux, conservés à l’inspection du Mans dans un coffre, et amenés par l’inspecteur ou agent sur le terrain les seuls jours "d’opération".
   
-Le 6 aout 1899 il est noté dans les livrets que «les empreintes des marteaux de l’État 
-  sont déposées au Pavillon de Bercé, dans l’armoire de la chambre de Mr l’inspecteur» . 
+Le 6 août 1899 il est noté dans les livrets que *«les empreintes des marteaux de l’État 
+  sont déposées au Pavillon de Bercé, dans l’armoire de la chambre de Mr l’inspecteur»* . 
   
-Le 24 mai 1894, l’inspecteur Chautan De Vercly et son adjoint Roulleau de La Roussiere
+Le 24 mai 1894, l’inspecteur Chautan de Vercly et son adjoint Roulleau de La Roussiere
   visent ainsi le matin, en guise de prologue au martelage, sur les livrets d’ordres 
   des préposés cette phrase *Vu par les agents forestiers en tournée*….d’ailleurs,
   depuis le 15 mai, c’est tous les jours qu’est laconiquement inscrite sur les livrets
@@ -64,26 +73,41 @@ L’équipe est composée des préposés (ou gardes qui tiennent marteaux et com
 
  ### Le Journal Officiel du 22 juin 1896 (1) 
   
-     dernier fait savoir que, dans les futaies 
-     de la 15ème conservation, les coupes d'ensemencement et secondaires, assises par 
-     volume, sont marquées en réserve, et que ce mode de procéder offre un double avantage : 
+     fait savoir que, dans les futaies 
+     de la 15ème conservation, les coupes
+     d'ensemencement et secondaires, 
+     assises par volume, sont marquées en 
+     réserve, et que ce mode de procéder
+     offre un double avantage : 
   
 
-     **1.** — Les enlèvements illicites d'arbres conservés pour le réensemencement ou l'abri
-     des jeunes recrus sont beaucoup plus faciles à constater que dans les coupes marquées 
-     en délivrance, où les récolements, rendus souvent presque impossibles par les broussailles
-     et les hautes herbes, ne constituent guère qu'une simple formalité. Pour plus de garantie,
-     d'ailleurs, tous les arbres réservés sont marqués à la couleur d'un numéro d'ordre très
-     apparent qui permettrait de constater immédiatement toute extraction « frauduleuse » 
+     **1.** — Les enlèvements illicites d'arbres 
+     conservés pour le réensemencement ou l'abri
+     des jeunes recrus sont beaucoup plus faciles
+     à constater que dans les coupes marquées 
+     en délivrance, où les récolements, rendus 
+     souvent presque impossibles par les broussailles
+     et les hautes herbes, ne constituent guère 
+     qu'une simple formalité. Pour plus de garantie,
+     d'ailleurs, tous les arbres réservés sont 
+     marqués à la couleur d'un numéro d'ordre très
+     apparent qui permettrait de constater immédiatement 
+     toute extraction « frauduleuse » 
      et de retrouver la souche de l'arbre enlevé ; 
   
 
-     **2.** — Les arbres livrés à l'exploitation, ne portant aucune empreinte du marteau de l'État,
-     peuvent être exploités par extraction de souche; ce qui permet, d'une part, de tirer 
-     parti de la portion la plus grosse du tronc, avantage qui n'est pas à dédaigner dans 
-     une région où le prix des gros chênes s'élève, comme par exemple dans la forêt de Bercé, 
-     jusqu'à 76 fr. le mètre cube en grume, et, d'autre part, d'ameublir le sol pour 
-     l'exécution des repeuplements artificiels mis en charge sur les coupes par application 
+     **2.** — Les arbres livrés à l'exploitation, 
+     ne portant aucune empreinte du marteau de 
+     l'État, peuvent être exploités par extraction
+     de souche; ce qui permet, d'une part, 
+     de tirer parti de la portion la plus grosse 
+     du tronc, avantage qui n'est pas à dédaigner 
+     dans une région où le prix des gros chênes 
+     s'élève, comme par exemple dans la forêt de 
+     Bercé, jusqu'à 76 fr le mètre cube en grume, 
+     et, d'autre part, d'ameublir le sol pour 
+     l'exécution des repeuplements artificiels mis
+     en charge sur les coupes par application 
      de l'article 13 du cahier des clauses spéciales. 
   
  Bibliographie : **(1)** Revue des Eaux et Forêts - 1896.
@@ -94,7 +118,8 @@ L’équipe est composée des préposés (ou gardes qui tiennent marteaux et com
   
 Chaque garde était propriétaire, donc responsable de l’utilisation de son propre
   marteau particulier qui servait uniquement à la reconnaissance des souches 
-  exploitées et des délits reconnus. Jupilles le 11décembre 1898, le Brigadier MAUNY,
+  exploitées et des délits reconnus. 
+  Jupilles le 11décembre 1898, le Brigadier MAUNY,
   *« remet au garde JOUAUX, un marteau particulier neuf, car l’ancien est usé. 
   Le prix d’achat est 12fr, les frais de timbres, transport et envoi de mandat de 1fr.
   Total du prix de revient : 13fr. L’ancien marteau a été payé au garde sortant 0fr50
@@ -110,22 +135,23 @@ L’empreinte du marteau de l’État telle que nous la connaissons aujourd’hu
   est définie par l’administration le 14 août 1830. Les empreintes portent alors 
   en relief les lettres AF (pour Administration Forestière) en caractères gothiques, 
   ainsi que le numéro de conservation suivi de celui d’inspection, l’ensemble 
-  entouré d’un cercle. Il faut noter qu’entre le début XXe siècle et la création d
-  e l’ONF en 1964, le numéro d’inspection disparaît et celui de conservation 
-  n’est plus obligatoire. le marteau N° 2 ou marteau chablis à une empreinte hexagonale.
+  entouré d’un cercle. Il faut noter qu’entre le début XXe siècle et la création 
+  de l’ONF en 1964, le numéro d’inspection disparaît et celui de conservation 
+  n’est plus obligatoire. 
+  le marteau N° 2 del'État dit marteau chablis possède une empreinte hexagonale.
   
 {{<figure src="/images/articles/empreinteroyale.jpg" title="La game des empreintes">}}
   
-     1 - Empreinte du marteau sous l’Empire : 
+     (1) - Empreinte du marteau sous l’Empire : 
      empreinte retrouvée sur une poutre de la
      maison forestière des Étangs lors de la
      rénovation de la toiture.
   
-     2 – flachis au corps sur un chêne abandonné.
+     (2) – flachis au corps sur un chêne abandonné.
      Le flachis de la marque au pied est quand
      à elle faite en premier (pour ne pas l’oublier)
   
-     3 – Empreinte du marteau de l’État N°1.
+    (3) – Empreinte du marteau de l’État N°1.
      L’arbre abandonné doit être obligatoirement
      porteur de celle-ci.
   
@@ -152,20 +178,20 @@ Mrs les agents viennent du Mans en train ou tramway jusqu’à Jupilles (1920).
   forestières des brigadiers (après 1813) car une chambre doit leur être
   entièrement réservée. Depuis 1891 le Pavillon de Bercé 
   (propriété de l’administration) deviendra la résidence officielle de ces messieurs.
-  « Pour les martelages, chaque jour, le personnel convoqué comprendra 6 gardes ». 
+  *« Pour les martelages, chaque jour, le personnel convoqué comprendra 6 gardes ».* 
   L’heure du lever est matinale sachant que les moyens de déplacement sont sobres :
   ...à pied ou à vélo. 
   
 ### Le repas de martelage 
   
      Par le passé :
-     Les gardes et le brigadier posèrent des fagots en cercle 
+     "Les gardes et le brigadier posèrent des fagots en cercle 
      et s'assirent en cercle. Quand à "ces messieurs" ils 
      n'eurent pas de sièges plus confortable. 
      Seulement un tronc de hêtre grossièrement équarri, 
      devant lequel ils se placèrent leur servît de table 
      et supporta la viande froide, les œufs durs, 
-     le pâté, les bouteilles de vin, le café et les verres. 
+     le pâté, les bouteilles de vin, le café et les verres". 
      (Ruault de Champglin)
   
 {{<figure src="/images/articles/martelage5.jpg" title="Repas de martelage">}}
@@ -175,11 +201,13 @@ Seule véritable pose d’une journée trop souvent venteuse ou pluvieuse,
   si la troupe pouvait en disposer, sinon au pied d’un généreux chêne.
   Deux groupes se formaient alors, d’un côté le brigadier et Mr l’inspecteur,
   ….de l’autre, les préposés. Deux feux étaient alors allumés.
+  
   Plus tard, au siècle dernier et jusque dans les années 1950, 
   les repas seront pris dans les maisons forestières, la salle à manger 
   étant seulement réservée au brigadier et à Mrs les officiers forestiers, 
   la cuisine au reste de la troupe, chacun se faisant un devoir d’apporter 
-  son repas. Ces repas partagés étaient pour l’équipe un bon moyen de renforcer
+  son repas. 
+  Ces repas partagés étaient pour l’équipe un bon moyen de renforcer
   les liens et la cohésion et de synchroniser cette activité….mais parfois
   …..gare au pousse café….qui pouvait rapidement en ralentir certains.
   
@@ -187,8 +215,9 @@ Seule véritable pose d’une journée trop souvent venteuse ou pluvieuse,
      nom de « tuer le chien ». Cette expression trouve aisément 
      son fondement dans la quête du forestier à vouloir, 
      à l’arrivée des beaux jours, enterrer les trois saisons 
-     de labeur (automne, hiver et printemps). Car c’est bien
-     une vie de chien qu’il a partagé avec ses collègues, 
+     de labeur (automne, hiver et printemps).
+     
+     Car c’est bien une vie de chien qu’il a partagé avec ses collègues, 
      lors de journées chargées en humidité… car en sous bois
      on attrape vite des rhumatismes, qui se révèlent
      quelquefois tardivement, mais on ne perd rien pour attendre.
@@ -204,7 +233,7 @@ Traditionnellement, les forestiers de Bercé participent depuis
   sur recommandation du maire, garde auxiliaire des Eaux et forêts à 
   Saint-Mars-de-Locquenay (Sapins des Pauvres).
   
-### Martelages a bellebranche : 
+### Martelages en forêt de Bellebranche : 
   
      1883 : Déplacements
       - indemnités de route 
@@ -219,12 +248,12 @@ Traditionnellement, les forestiers de Bercé participent depuis
   
 Le 9 avril 1924 : Départ par le train de Mayet à Sablé : 
   4,85 f + le vélo 0,55 f = 5,40 f. 
-Puis en vélo jusqu’à Bel lebranche et le soir retour à Sablé (24 km en vélo).
+Puis en vélo jusqu’à Bellebranche et le soir retour à Sablé (24 km en vélo).
 Un découché et un petit repas : 6 f. 
 Le lendemain 10 avril, pris le train pour Le Mans : 
   3,85 f + le vélo 0,50 f = 4,35 f. 
   
-### Martelages bois des hospices : 
+### Martelages bois des Hospices : 
   
 Martelage dans les bois de l’Hospice (45 km en vélo du Mans à Allonnes) - 
   Repas à Pontlieue : 7 f. 
