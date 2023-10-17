@@ -59,13 +59,15 @@ Permet de rejoindre les deux bourgs sans passer par Pruillé-l'Éguillé,
   du Buisson et de la Lune, itinéraire qui doit suivre la route la plus directe.
 
 ***Le projet 2 :***
+
 Diffère à partir de la Croix-Marconnay en empruntant la ligne forestière 
   des Renardières au Pressoir,  en passant par les ronds du Pézeray, 
   du Mortier des Clos et des Renardières, la fin du trajet prend enfin 
   la route qui regagne Marigné en venant de St Hubert, ce tracé à 
   l’avantage de desservir le hameau de Laillé.
 
-***Le projet 3 *** (tracé en marron) :
+***Le projet 3:*** 
+(tracé en marron) :
 
 Mais c’est finalement celui qui prévaudra, afin de desservir le bourg
   de Pruillé….encore faut il que les Pruilléens montent avec leurs
