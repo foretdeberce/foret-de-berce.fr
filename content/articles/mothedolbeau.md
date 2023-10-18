@@ -55,7 +55,7 @@ Convoqué à l'arrière-ban du Maine en 1689.
 Le 22 novembre 1676, il se marie avec Françoise Huet
   (demoiselle d’Artigné, fille de Charles et de Marguerite Bougars,
   seigneur de Vaux, écuyer, seigneur d’Artigné, maître particulier 
-  des Eaux et Forèts de cette maitrise.  
+  des Eaux et Forêts de cette maitrise.  
   
 ### 1680
 
@@ -63,7 +63,8 @@ Son fils, Charles Mathieu de Longueval d'Haraucourt,
   né en 1680 à la Mothe d'Olbeau, est aussi vers 1729
   Maître particulier des Eaux et Forêt de la Maitrise
   de Château du Loir, vicomte d'Haraucourt (alias Daraucourt Longueval),
-  seigneur de Brette, commissaire provincial de l'artillerie royale. 
+  seigneur de Brette, commissaire provincial de l'artillerie royale.
+  
   Il épousa Marie Anne Chesneau des Portes le 22 mars 1727
   (fille de Mathurin et de Marie Désirée Aubert du Boisguiet).
 Il est inhumé au Château du Haut-Bois (devenu depuis un Lycée agricole) 
@@ -71,9 +72,9 @@ Il est inhumé au Château du Haut-Bois (devenu depuis un Lycée agricole)
 
 {{<figure src="/images/articles/hautbois.jpg"  title="Château du Haut-Bois">}}
 
-**1711-**
+### 1711
   
-Bénédiction de deux cloches, à Saint Guingalois, la plus grosse, nommée Joseph, par Me Joseph de Longueval d’Haraucourt, chevalier, seigneur de Brette, maître particulier des Eaux et forêts de la maîtrise de Château du Loir, et par dame Françoise Gaillard, veuve de Charles des Moutis, écuyer, seigneur de Montreuil. 
+Bénédiction de deux cloches, à Saint Guingalois, la plus grosse, nommée Joseph, par Me Joseph de Longueval d’Haraucourt, chevalier, seigneur de Brette, maître particulier des Eaux et Forêts de la maîtrise de Château du Loir, et par dame Françoise Gaillard, veuve de Charles des Moutis, écuyer, seigneur de Montreuil. 
 La petite cloche a été nommée Louise Françoise Gabrielle, par Me Louis François Massue, subdélégué de Monsieur l’intendant, maire perpétuel de la ville de Château du Loir, et par dame Louise Gabrielle Marchand, épouse de Joseph Hercule Massue.
   
 Joseph de [Longueval d'Haraucourt](/articles/pdf/longueval.pdf) décèdera en 1727.
@@ -102,7 +103,7 @@ Son petit fils Charles Mathieu Etienne de Longueval, né en 1730, Maître partic
   
 En 1747 c’est le décès à la Mothe d'Olbeau de Demoiselle 
   Catherine de Longueval d'Haraucourt qui sera inhumée dans 
-  la chapelle St François des Récollets à Château du Loir.
+  la chapelle Saint-François des Récollets à Château du Loir.
   
 Charles Mathieu Etienne épousa, à Château-du-Loir, Renée Geneviève
   Mesnard de Belair de Seillac le 9 mai 1770,(fille de Gabriel, 
@@ -216,7 +217,7 @@ Pour mettre en valeur cette vaste étendue servant de perspective à la demeure,
       Le Courtil (le long de l’Ire).
       Cette parcelle est plantée par moitié
       de cyprès chauves et de vieux peupliers.
-      Les techniciens  de l’IGN ont mesuré un 
+      Les techniciens  de l’IGN (2) ont mesuré un 
       peuplier qui domine à 48,40 mètre de haut, 
       avec un diamètre de 120 cm … 
       et il ne semble pas le seul ! 
@@ -229,7 +230,26 @@ Pour mettre en valeur cette vaste étendue servant de perspective à la demeure,
       D’où un nouveau record du monde en vue 
       à la Mothe d'Olbeau ?
 
-      
+**(2)** L’Observatoire des forêts françaises 
+
+     rassemble désormais en un espace unique les expertises
+     et les connaissances. Il constitue tout d’abord un espace 
+     d’échange et de production en commun d’informations, 
+     de croisement, et d’analyses thématiques nationales 
+     ou régionales. Cinq premiers clubs thématiques ont 
+     été créés, dédiés à la santé des forêts, aux incendies,
+     aux ressources en bois, à l’adaptation au changement 
+     climatique et à son atténuation. L’Observatoire
+     est piloté par l‘IGN en partenariat avec l’ONF, 
+     le CNPF, France Bois Forêt, l’OFB, sous l’égide 
+     du ministère de l’Agriculture et de la Souveraineté
+     alimentaire et du ministère de la Transition 
+     Écologique et de la Cohésion des territoires.
+     Il associe largement les acteurs de la filière 
+     forêt-bois réunis notamment au sein du comité 
+     de la filière forêt-bois de l'IGN.
+
+
   
 Le clos des religieuses Autrefois vignes, situé au sommet de la colline,
   sur un terrain sec et venté.
