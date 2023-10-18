@@ -36,7 +36,7 @@ ces branchages étaient liés en faisceaux avec des harts.
 
 (nom féminin, vient du latin : artus)
 
-{{<figure src="/images/articles/avisseharts.jpg" title="Autorisation de Harts sur coupe Avisse">}}
+{{<figure src="/images/articles/avisseharts.jpg" title="Autorisation de Harts sur une coupe Avisse">}}
 
 Ce sont des liens formés à partir d'un brin de
 bois vert, d'essence flexible, que l’on torsade 
@@ -84,7 +84,7 @@ de la vallée des Pierres.*
 Le 22 janvier 1895 : *Veille le nommé Levillain
 à couper un mille de harts à fagots pour l’exploitation 
 de la coupe à M. BOUTARD située dans le canton des
-Vaux du Puits. »
+Vaux du Puits.*
 
 En 1921 les délivrances vont de 600 à 8000 harts par article. 
  
@@ -105,12 +105,13 @@ des brins ayant plus de 0 m 20 de tour.
  
 Ils ont 2 liens, leur longueur est de 1 m 70, 
 la circonférence 1 m et le poids : 20 kg.
+
 Prix en 1944 sur wagon : 12,50 francs 
 et au détail : 17,50 francs.
 
 ### Les bourrées :
  
-L’expression du garde Leclercq …est très claire : 
+L’expression du garde Leclercq … est très claire : 
 tas de branches destinées à être **bourrassées**.
 
 {{<figure src="/images/articles/078b11900.jpg" title="Lors de la tempête 1900">}}
@@ -163,10 +164,10 @@ sur la coupe.*
  
 **Yves Camisy témoigne :** 
  
- « Avec la mère Michaud, ils allaient 
+*Avec la mère Michaud, ils allaient 
  au bois mort en jetant un grappin dans les basses branches 
  des chênes pour les casser. Ces branches étaient dures 
- comme de l’os et faisaient de très bonnes braises. »
+ comme de l’os et faisaient de très bonnes braises.*
  
 
 ### Le chevalet
@@ -180,6 +181,15 @@ Les produits ainsi confectionnés étaient solides
 et avaient bonne apparence.
 
 ### Aujourd’hui
+
+Le code forestier règlemente cette activité.
+l'article R163-1 et 7 réprime le délit d'enlèvement.
+La préservation de la biodiversité impose de nos jours
+des pratiques plus vertueuses qu'autrefois.
+
+Ainsi à Bercé on ne brûle plus, laissant à terre 
+les rémanents.
+Terminé aussi les enlèvements de petits bois.
  
 L’exploitation des fagots et bourrées a cessé et le 
 petit bois pourrit sur place engraissant un sol 
@@ -187,9 +197,8 @@ devenu au fil du temps de moins en moins fertile.
 En effet l’exportation de cette matière organique
 dont l’essentiel des sels minéraux est stocké 
 dans le fin bout des tiges est vitale pour la forêt.
-Ainsi à Bercé on ne brûle plus, laissant à terre 
-les rémanents.
- 
+Les sels minéraux reviennent ainsi à la terre nouricière.
+
 Cela fait peut être moins propre dans le paysage,
 mais d’emblée nous polluons moins et engraissons 
 même notre sol, protégeant ainsi la biodiversité.
