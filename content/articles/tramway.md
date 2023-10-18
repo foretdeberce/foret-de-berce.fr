@@ -13,12 +13,14 @@ la ligne Le Grand Lucé/La Chartre sur le Loir 17.7km desservira
 celui-ci sur son flan Est, au niveau des gares de Saint-Vincent 
 et Saint-Pierre du Lorouër.
 
-Le chemin de fer  d’intérêt local entre le Mans/Château du loir
+Le chemin de fer d’intérêt local entre le Mans/Château du loir
 est une volonté des élus.
 
 [La ligne de Château du Loir](/articles/pdf/tramplaquette.pdf)
 
-### 13 années de service : très cher chemin de bois !
+### 13 années de service :
+
+Mon très cher chemin de bois !
 
 Le tacot, ce tortillard, nous pourrions très justement le nommer
 "chemin de bois" du fait de la présence d’une traverse en chêne créosoté par mètre de voie. 
@@ -66,7 +68,7 @@ Diffère à partir de la Croix-Marconnay en empruntant la ligne forestière
   la route qui regagne Marigné en venant de St Hubert, ce tracé à 
   l’avantage de desservir le hameau de Laillé.
 
-***Le projet 3:*** 
+***Le projet 3 :*** 
 (tracé en marron) :
 
 Mais c’est finalement celui qui prévaudra, afin de desservir le bourg
@@ -127,14 +129,14 @@ Le brigadier prend copie d'une note de monsieur l’inspecteur
 Exploitation de l'emprise :
 
 *Communiqué pour son information au garde Silvestre, la décision
-de monsieur le conservateur, portant : *" qu'il sera statué ultérieurement 
-sur la destination à donner aux bois qui seront ainsi exploités" *
+de monsieur le conservateur, portant : qu'il sera statué ultérieurement 
+sur la destination à donner aux bois qui seront ainsi exploités"*
   Et le brigadier Marsac de rajouter : 
 *" Il y aura lieu de les marquer de votre marteau et d'en empêcher tout enlèvement».*
 
 ### 13 juillet 1908 : 
 
-Les 11, 300 km de la ligne Marigné-Jupilles sont déclarés d’utilité publique.
+Les 11,3 km de la ligne Marigné-Jupilles sont déclarés d’utilité publique.
 
 ### 21 avril 1909 :
 
@@ -195,7 +197,9 @@ Les travaux ayant commencé sur le tronçon Le Mans/Marigné, celui-ci
   entre en service, mais la guerre éclate et interrompt le prolongement de cette ligne. 
 
 
-### 27 mars 1917 : Acte régissant le passage du tramway à Bercé.
+### 27 mars 1917 : 
+
+Acte régissant le passage du tramway à Bercé.
 
 {{<figure src="/images/articles/travauxforet.jpg"  title="Les travaux sur Pruillé-l’Éguillé">}}
 
@@ -216,8 +220,8 @@ Les travaux ayant commencé sur le tronçon Le Mans/Marigné, celui-ci
 
 Il faut attendre cette date pour voir la portion Marigne /Jupilles
   (11.3km) mise en service. Toute en courbes, la ligne Le Mans/Jupilles 
-  faisait 45 km mais il faudra bien 3 h pleines pour se rendre
-  à Jupilles au cœur de la forêt. 
+  faisait 45 km mais il faudra bien 3h pleines pour se rendre
+  à Jupilles au cœur de la forêt et autant pour en revenir. 
 
 [La ligne Le Mans-Château](/articles/pdf/lesgaresdelaligne.pdf)
 
@@ -262,7 +266,9 @@ Note du garde général Hurteau.
 {{<figure src="/images/articles/tram55.jpg"  title="Réduction pour les forestiers">}}
 
 
-### 26 juin 1922 : Ouverture de la ligne Jupilles/Château du Loir. 16,5km
+### 26 juin 1922 : 
+
+Ouverture de la ligne Jupilles/Château du Loir : 16,5km
 
 {{<figure src="/images/articles/tram312.jpg"  title="A la croisée de la ligne du Pau et du CD13">}}
 
@@ -272,24 +278,27 @@ Note du garde général Hurteau.
 Note de l’inspecteur principal des Eaux et forêts au Mans, 
 	
 *A monsieur le directeur de la compagnie des tramways de la Sarthe, au Mans
- Monsieur le directeur,
+ Monsieur le directeur,*
+ 
 *J'ai l'honneur de vous signaler l'opportunité qu'il y aurait, selon un assez
   grand nombre d'intéressés, à établir des arrêts facultatifs 
   du tramway dans la traversée de la forêt de Bercé :*
   
 **1°** Entre les stations de Marigné et de Pruillé-l'Eguillé :
   
-		A) -  au rond-point du Mai :
+     A) -  au rond-point du Mai :
   
-		B) -  en face le hameau du Pau et de la route forestière 
-                      du même nom, près de la limite de la forêt.
+     B) -  en face le hameau du Pau et de 
+     la route forestière du même nom, 
+     près de la limite de la forêt.
   
 **2°** Entre les stations de Pruillé-l'Eguillé et de Jupilles :
   
-		C)  – au rond-point de l'Embranchement.
+     C)  – au rond-point de l'Embranchement.
   
-		D) – près du Hameau de la Chauvinière, à la jonction des
-                     routes allant de Jupilles à St. Vincent.
+     D) – près du Hameau de la Chauvinière, 
+     à la jonction des routes allant
+     de Jupilles à St. Vincent.
 
 *Ces arrêts facultatifs seraient, je crois, souvent utilisés par les gens 
   occupés en forêt et par les touristes ou promeneurs  qui sont de plus 
@@ -374,20 +383,22 @@ Leclercq : *fait remarquer aux employés de la voie du tramway,
   
 ### Tarifs
 
-1901 :Le Grand-Lucé, la Chartre-sur-Loir (Saint Pierre, Brives, La Chartre)
+**1901** : Le Grand-Lucé, la Chartre-sur-Loir (Saint Pierre, Brives, La Chartre)
       prix 25 centimes. (Tarif spécial pour les gardes en tenue sur 
       le réseau de l'Ouest (Orléans et État) – Albrecht-  
 
-1902 : le 18 décembre le billet de Tramway  est à 20 centimes (pour les forestiers).
+**1902** : le 18 décembre le billet de Tramway  est à 20 centimes (pour les forestiers).
 
-1910 : Chemin de fer et tramway pour Bessé-sur-Braye et Saint-Calais  : 1 F 40
+**1910** : Chemin de fer et tramway pour Bessé-sur-Braye et Saint-Calais  : 1 F 40
 
-15/07/1921 : Le garde Pigault reçoit une carte pour voyager à ½ tarif sur les 
+**15/07/1921** : Le garde Pigault reçoit une carte pour voyager à ½ tarif sur les 
        Tramways de la Sarthe, entre les Gares de Jupilles et la Chartre/Le Mans.
 
-19/03/24 : Trajet train Écommoy/Le Mans, aller et retour : 2 F 70  (Pigault)
+**19/03/24** : Trajet train Écommoy/Le Mans, aller et retour : 2 F 70  (Pigault)
 
-### 8 juillet 1932 : Terminus Le Mans/Château ! ...
+### 8 juillet 1932 : 
+
+**C'est le terminus pour Le Mans/Château ! ...**
 
 
 ### Le journal de Château-du-Loir annonçait :
@@ -401,7 +412,9 @@ Fresnay/Alençon et Montbizot/Ballon.*
 La section Le Mans/Jupilles sera définitivement fermée le 1er janvier 1933, 
   le train s’arrêtant à Marigné. 
   
-### 14 Mars 1933 : Dernière mention sur le Tramway.
+### 14 mars 1933 : 
+
+**Dernière mention sur le Tramway.**
 
 ### 1934 et 1935 : 
 
