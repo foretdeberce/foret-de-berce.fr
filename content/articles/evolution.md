@@ -25,6 +25,12 @@ les forestiers et leurs successeurs.
 
 L’homme n’est pas sans défauts et la foresterie est une science complexe.
 
+
+France-Bois-Forêt nous présente un extrait de l’émission
+« Notre Forêt Demain du 30 octobre 2023 (21’26)
+
+{{<youtube id="7PjbZbyAQhY">}}
+
 L'art est difficile aujourd'hui, d'autant que le climat s’en mêle.
 
 La désormais classique méthode des arbres objectifs, 
