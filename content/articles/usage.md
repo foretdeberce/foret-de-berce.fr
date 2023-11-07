@@ -203,7 +203,7 @@ Hier nous parlions encore de [pâturage en forêt](/articles/pdf/paturageenforet
 	
 **Aujourd'hui, nous parlons de [cessions et concessions](/articles/pdf/cessionsetchampignons.pdf).** 
 
-### Pour aller plus loin dans les conflits d'usage :###
+### Pour aller plus loin dans les conflits d'usage :
 
 [Les conflits d'usage de la forêt :
 l'exemple des forêts Sarthoises par Benjamin Theuleau.](/articles/pdf/memoire-theuleau-benjamin.pdf)
