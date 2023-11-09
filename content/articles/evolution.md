@@ -64,7 +64,7 @@ Sa superficie est comparable à celle de la commune de Mayet
 ... ou à la forêt de Chambord.** 
 
 **La longueur totale de ses routes est : 100 km.**
-l
+Comme quoi, on peut faire dire aux chiffres ... ce que l'on veut !
 
 {{<youtube id="0vT_0GlzhW8">}}
   
