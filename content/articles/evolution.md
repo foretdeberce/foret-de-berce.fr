@@ -53,15 +53,18 @@ de régler en cloisonnant systématiquement le parterre des coupes.
 ***Erratum***
 
 Dans la vidéo qui suit, (tirée d'un PPS), 
-une coquille s'est glissée par erreur :
+plusieurs coquilles se sont glissées par erreur :
 
 **Si le périmètre de Bercé est bien deux fois 
-plus long que celui de Paris intra-muros,
+plus long que celui de Paris intra-muros, (100km au lieu de 200)
 sa surface en revanche est deux fois moins étendue.** 
 
 **Bercé est quand même plus vaste que les villes de Lyon ou du Mans!
 Sa superficie est comparable à celle de la commune de Mayet 
 ... ou à la forêt de Chambord.** 
+
+**La longueur totale de ses routes est : 100 km.**
+l
 
 {{<youtube id="0vT_0GlzhW8">}}
   
