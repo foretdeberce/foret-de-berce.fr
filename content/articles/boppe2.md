@@ -229,7 +229,9 @@ pensé à compter les cernes sur les souches des arbres exploités.
 (Ils avaient sans doute oublié le rapport de l’inspecteur 
 Roulleau du 30 novembre 1895 qui estimait à 208 ans l’âge des Clos).
 	
-	
+## Les Clos (1675)
+La plus vieille futaie de France (...jusqu'à preuve du contraire !...)
+
 ### Le 22 juillet 1935 
 	
 *en brigade avec Mr l’inspecteur adjoint, 
