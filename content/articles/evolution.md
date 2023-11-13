@@ -55,8 +55,8 @@ de régler en cloisonnant systématiquement le parterre des coupes.
 Dans la vidéo qui suit, (tirée d'un PPS), 
 plusieurs coquilles se sont glissées par erreur :
 
-**Si le périmètre de Bercé est bien deux fois 
-plus long que celui de Paris intra-muros, (100km au lieu de 200)
+**Le périmètre de Bercé est aussi 
+long que celui de Paris intra-muros, (100km)
 sa surface en revanche est deux fois moins étendue.** 
 
 **Bercé est quand même plus vaste que les villes de Lyon ou du Mans!
