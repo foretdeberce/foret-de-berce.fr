@@ -8,6 +8,7 @@ tags: ["Exploitation","Aménagement"]
 ---
 
 Jacques Lacarrière disait de nos forêts :
+
 **...Depuis des siècles, les arbres sont davantage l’œuvre des hommes que celle de la nature ... 
 ... Ce sont nos enfants de verdure.**
 
