@@ -7,7 +7,7 @@ featured_image: "/images/futaie.jpg"
 tags: ["Exploitation","Aménagement"]
 ---
 
-Philippe Lacarrière, Directeur Général de l'ONF (1985) disait de nos forêts :
+Jacques Lacarrière disait de nos forêts :
 **...Depuis des siècles, les arbres sont davantage l’œuvre des hommes que celle de la nature ... 
 ... Ce sont nos enfants de verdure.**
 
