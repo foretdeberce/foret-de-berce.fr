@@ -7,6 +7,10 @@ featured_image: "/images/futaie.jpg"
 tags: ["Exploitation","Aménagement"]
 ---
 
+Philippe Lacarrière, Directeur Général de l'ONF (1985) disait de nos forêts :
+**...Depuis des siècles, les arbres sont davantage l’œuvre des hommes que celle de la nature ... 
+... Ce sont nos enfants de verdure.**
+
 ### Une sylviculture respectueuse de l'environnement et du rythme séculaire de la forêt.
 
 En forêt de Bercé, les règles de culture font l’objet de soins
