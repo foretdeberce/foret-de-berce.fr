@@ -260,23 +260,26 @@ Erreur ! Les voitures augmentaient par la même leur vitesse.
   L’on adopta alors le fait de les remettre au centre, 
   et je pris personnellement l'initiative de tester leur solidité………
   
-  ### Il a suffit d’un rien  
-	
-	… au rond de Croix-Chambault ! 
+**Le rond de Croix-Chambault**
+
+Il a suffit d’un rien !
+ 
 
 {{<figure src="/images/articles/accident2.jpg" title="Glandée 1994">}}
- 
-  
+
 Ce spectaculaire carnage fut, quant à lui, sans gravité.
 Les dégâts ne furent que matériels. Seul, un billet 
 d’humeur paru sur le Ouest-France   des 12 et 13
 novembre 1994, alimenta la rumeur, car sur place 
 le 17 octobre 1994, il n’y avait que les oiseaux pour 
 contempler cette scène, digne d’un très mauvais scénario.
+
 Un geai aurait-il porté l’affaire auprès du journal ?
 ...Mystère... 
   
 {{<figure src="/images/articles/loir.jpg" title="Le billet d’humeur du jour">}}
+
+{{<figure src="/images/articles/sylvopolitain.jpg" title="Carte en retour de cet accident">}}
   
 Le Rond-point forestier, cet îlot et son phare sur lequel le monde
   s'agglutine les jours de chasse à courre, pour suivre du regard 
