@@ -130,7 +130,9 @@ Chaque garde était propriétaire, donc responsable de l’utilisation de son pr
 {{<figure src="/images/articles/hach.jpg" title="Le marteau particulier">}}
   
 **Les marteau de l’État n° 1 & 2 :** 
-  
+
+Sur des illustrations de P. Berthelot, R. Bacchetta et JC. Chausse nous renseignent sur cet outil en vogue en forêt depuis 7 siècles par le biais d’une étude sur le sujet : ["Les marteaux régaliens"](/articles/pdf/historiquemarteaux1.pdf)   
+
 L’empreinte du marteau de l’État telle que nous la connaissons aujourd’hui (ronde) 
   est définie par l’administration le 14 août 1830. Les empreintes portent alors 
   en relief les lettres AF (pour Administration Forestière) en caractères gothiques, 
