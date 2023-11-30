@@ -409,6 +409,22 @@ et il avait la barbe longue, il manda le citoyen Julien Leroy
 barbier du village qui le rasa et pour prix de sa dextérité 
 il obtint de Foubert un chêne de la forêt. 
 Voilà l'honnête homme qu'était Foubert".»*	**(7)**
+
+## L'armement des personnels forestiers ## 
+
+Suite à plusieurs incidents voir accidents ayant entrainés la mort, les forestiers
+sont dotés d'un armement pour assurer leur sécurité.
+
+C’est le conservateur Louis Lavauden qui fait la 1ère communication sur les armes des gardes et des officiers  forestiers dans « recherches rétrospectives sur les insignes et les marques distinctives…en 1927 ». 
+
+Une étude collective a été publiée lors du 2ème colloque par " Histrafor " (la section Histoire de l’APAS-ONF) dans les dossiers forestiers de l’ONF en 2013. 
+
+Voici rassemblés par Jean Claude CHAUSSE, Richard BACCHETTA et Patrick BERTHELOT deux documents :
+
+[L’armement des Eaux et Forêts – partie 1](/articles/pdf/armement1.pdf) 
+et  
+[L’armement des Eaux et Forêts – partie 2](/articles/pdf/armement2.pdf).
+
  
 **1820 :** Dans la 11ème conservation en Sarthe, au Mans, 
 M. Doazan est inspecteur. En 1839  il est chargé de l’ouverture 
