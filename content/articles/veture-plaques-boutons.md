@@ -192,6 +192,8 @@ Le mot “ Conservation ” mot nouveau qui remplace l’ancienne maîtrise.
 
 **XIX° siècle :**
 
+Jean Claude Chausse, Jacques PETITFILS, Richard BACCHETTA, aidés des dessins d’Henri BOISSELIER (1881 – 1959) et de Patrick BERTHELOT nous présentent dans les deux exposés joints en PDF, [L’uniforme des forestiers de la couronne aux chasses présidentielles](/articles/pdf/tenuesforetdelacouronne.pdf) et [L’uniforme des forestiers de 1830 à 1870](/articles/pdf/tenuesforetde1830-1870.pdf).
+
 Code forestier du 28 mai 1827 et ordonnance d'exécution du 1er août: 
 « Les gardes à cheval et les gardes à pied porteront une bandoulière 
   chamois avec bandes de drap vert, et au milieu une plaque de métal 
