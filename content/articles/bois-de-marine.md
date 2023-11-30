@@ -145,6 +145,8 @@ tant du corps des arbres que des branches susceptibles de procurer des courbes :
 faute de me donner cet avis de suite, les retards de la vidange demeureront sous
 la responsabilité particulière des acquéreurs desdits arbres ».* 
 
+Richard Bacchetta et Jean Claude Chausse sur des illustrations de Patrick Berthelot nous présentent une étude sur les empreintes des [Marteaux des bois de Marine](/articles/pdf/lesmarteauxdemarine.pdf)
+
 ### 1852 : Évacuation terrestre des bois de marine. 
      
 Les recherches de Jean TRIQUET **(3)**, nous apprennent aussi qu’à cette époque,
