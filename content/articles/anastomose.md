@@ -36,6 +36,14 @@ Les deux photos de celui-ci datent de 1981.
 
 {{<figure src="/images/articles/1981-251.jpg" title="Ce même chêne admiré par un couple d’Australiens">}}
 
+Christine Payne et Michael Gill, lors de leur passage en france en 1981 
+au pied du chêne girafe de la parcelle 251 aujourd'hui disparu.
+
+Rentrés en Australie ils n'ont pas cessé de travailler le bois. 
+Voici une de leur réalisation :
+
+ {{<youtube id="-QoWwIpP3os">}}
+
 ## Autres liens concernant les curiosités de Bercé ##
 
 [Légendes]({{<ref "articles/legendes.md">}})
