@@ -39,10 +39,12 @@ Les deux photos de celui-ci datent de 1981.
 Christine Payne et Michael Gill, lors de leur passage en france en 1981 
 au pied du chêne girafe de la parcelle 251 aujourd'hui disparu.
 
-Rentrés en Australie ils n'ont pas cessé de travailler le bois. 
-Voici une de leur réalisation :
+Rentrés en Australie ils n'ont pas cessé de travailler le bois 
+en réalisant notamment le fameux Sydney Harbour Cocktail. 
+Voici leur réalisation :
 
  {{<youtube id="-QoWwIpP3os">}}
+ Bien sûr ...l'abus d'alcool est dangereux pour la santé.
 
 ## Autres liens concernant les curiosités de Bercé ##
 
