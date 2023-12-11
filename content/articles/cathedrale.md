@@ -82,6 +82,11 @@ Time-Lapse de sa construction.
 {{<youtube id="Yuw3rVbBGvo">}}
 L'histoire de la restitution à l'identique de la charpente. **(26'17)**
 
+### Depuis :
+
+Fin 2023... des nouvelles du montage de la flèche.
+{{<youtube id="suAqu1uvmGw">}} 
+
 ## Autres articles concernant les productions forestières: ## 
 
 [Indigents]({{<ref "articles/indigents.md">}})
