@@ -62,7 +62,11 @@ archéologiques sur le terrain. **(1)**
 
 Le lieu-dit doit son nom aux étangs artificiels créés en 1038 par Gervais de Château-du-Loir, 
  évêque du Mans, seigneur de Château-du-Loir nommé en 1055 à l’archevêché de Reims 
- puis en 1059 archichancelier du royaume de France. 
+ puis en 1059 archichancelier du royaume de France.
+ La Maison de Château-du-Loir était liée de longue date à la Maison de Blois, 
+ et la famille de Bellême à celle d’Anjou. 
+ Gervais de Bellême, appelé aussi Gervais de La Roche-Guyon, est un descendant d'Aimon,
+ seigneur de Château-du-Loir, et d'Hildeburge de Bellême.
  "C’est Gervais qui ordonnait à Foucher son «forestier», 
  de laisser aux hommes de l’Abbaye résidant à Courdemanche,
  l’usage du bois et du panage des porcs dans «la forêt de Berçay»." 
@@ -102,12 +106,12 @@ La chasse était la préoccupation principale de Gervais, tant et si bien qu’e
         représentations un peu facétieuses. 
 
    
- Le cerf a disparu lors du réaménagement du palais sous Charles-Maurice Le Tellier,
+ ***Le cerf a disparu lors du réaménagement du palais sous Charles-Maurice Le Tellier,
  mais le Sagittaire reste.
  C'est un petit peu dommage, parce que lors du sacre des Rois, 
  nous en avons le témoignage depuis le 14e siècle, 
  ce cerf était rempli de vin et servait de fontaine à vin. 
- La réjouissance du sacre était ainsi largement optimisée. 
+ La réjouissance du sacre était ainsi largement optimisée.*** 
  Patrick Demouy  
 
 ### La « meson » des Etangs est citée en 1285. 
