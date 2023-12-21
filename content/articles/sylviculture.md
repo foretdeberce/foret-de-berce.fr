@@ -284,6 +284,22 @@ moins hauts. La prise au vent s'en trouvera améliorée
 et les tempêtes seront peut-être moins catastrophiques.
 À voir sur le long terme cet effet à double tranchant.
 
+## Le changement climatique est bien présent ##
+
+{{<youtube id="ikdAa-9YQAQ">}} 
+
+Le site « Conséquences » souhaite partir de la réalité locale 
+et de la manière dont les événements de plus en plus 
+ravageurs touchent nos territoires pour mieux comprendre
+comment préserver et faire évoluer notre quotidien.
+Julien Helaine questionne Jean-François Clémence 
+sur sa vie passée en forêt, durant plus de 40 ans !
+
+https://consequences-france.org/
+
+(Prise de vue : Julien Helaine - Conséquences /novembre 2023)
+
+
 ### Libre expression
     
      En temps qu’ancien forestier en forêt de Bercé de 1980 à 2014, 
