@@ -80,7 +80,23 @@ Par contre la commercialisation des champignons de Bercé est totalement interdi
 
 {{<figure src="/images/articles/champignonsmortels.jpg"  title="Les champignons vénéneux">}}
 
-     
+
+## Le changement climatique est bien présent ##
+
+{{<youtube id="PC-i0sTjQV0">}} 
+
+Le site « Conséquences » souhaite partir de la réalité locale 
+et de la manière dont les événements de plus en plus 
+ravageurs touchent nos territoires pour mieux comprendre
+comment préserver et faire évoluer notre quotidien.
+André Février, Président de la Société Mycologique de la Sarthe
+Donne son avis à Julien Helaine sur la cueillette de champignons en Bercé.
+
+https://consequences-france.org/
+
+(Prise de vue : Julien Helaine - Conséquences /novembre 2023)
+
+
 ### Ce que dit la loi.
     
      Dans les forêts domaniales du département de la Sarthe, 
