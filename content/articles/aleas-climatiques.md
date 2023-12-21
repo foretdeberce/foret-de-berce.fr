@@ -386,12 +386,16 @@ Là…. Nous ne sommes plus dans l’ère de « l’a peu près…».
 
 {{<youtube id="Lh6dhJwp_7A">}}
 
-Le site Conséquences souhaite partir de la réalité locale 
+Le site « Conséquences » souhaite partir de la réalité locale 
 et de la manière dont les événements de plus en plus 
 ravageurs touchent nos territoires pour mieux comprendre
 comment préserver et faire évoluer notre quotidien.
+Julien Helaine m’interroge ici sur ma vie passée en forêt.
+
 https://consequences-france.org/
+
 (Prise de vue : Julien Helaine - Conséquences /novembre 2023)
+
 
 
 ## Autres liens concernant les redoutables épreuves de la nature ##
