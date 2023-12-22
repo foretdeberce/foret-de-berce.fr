@@ -390,10 +390,17 @@ Le site « Conséquences » souhaite partir de la réalité locale
 et de la manière dont les événements de plus en plus 
 ravageurs touchent nos territoires pour mieux comprendre
 comment préserver et faire évoluer notre quotidien.
-Julien Helaine m’interroge ici sur ma vie passée en forêt.
+Julien Helaine m’interroge ici sur les conséquences
+des changements climatiques durant ma vie passée en forêt.
 
 https://consequences-france.org/
 
+### A l'écoute de 3 Forêts d'Exception 
+## Bercé, Tronçais et la Sainte-Baume
+
+Rejoindre la page facebook : 
+ https://www.facebook.com/profile.php?id=61553948515823 
+ 
 (Prise de vue : Julien Helaine - Conséquences /novembre 2023)
 
 
