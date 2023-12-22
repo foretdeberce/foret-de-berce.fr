@@ -94,6 +94,12 @@ Donne son avis à Julien Helaine sur la cueillette de champignons en Bercé.
 
 https://consequences-france.org/
 
+### A l'écoute de 3 Forêts d'Exception 
+## Bercé, Tronçais et la Sainte-Baume
+
+Rejoindre la page facebook : 
+ https://www.facebook.com/profile.php?id=61553948515823
+
 (Prise de vue : Julien Helaine - Conséquences /novembre 2023)
 
 
