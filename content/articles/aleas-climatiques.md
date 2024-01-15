@@ -305,7 +305,12 @@ Les fontaines froides de Sermaize quant à elles, n’arrivent plus à entonner.
 Depuis quelques années, la sècheresse pointe son nez, contraignant notre massif 
   à suivre un régime drastique !
   
-Voici les valeurs relevées de 2018 à 2022 sur le **flanc est** de Bercé.
+Voici les valeurs relevées de 1994 à 2023 sur le **flanc est** de Bercé.
+
+Ce déficit de pluviométrie impacte directement le Hêtre, 
+surtout lorsqu'il est à l'étage dominant.
+Le changement climatique le touche au plus profond au plus profond de son "être"
+lui qui a une écorce toute fine et un enracinement très superficiel.
 
 {{<figure src="/images/articles/pluviometrie.jpg" title="Pluviométrie du flanc Est de Bercé">}}
 
