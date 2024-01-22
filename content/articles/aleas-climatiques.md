@@ -237,10 +237,8 @@ En janvier et février 1985 la température descend en dessous de -20°
   
 {{<figure src="/images/articles/19740415.jpg" title="La gélivure affecte les chênes sur 3 à 4 m">}}
   
- En 1986, le 23 février, 30 cm de neige bloquent toute vie en forêt. 
+En 1986, le 23 février, 30 cm de neige bloquent toute vie en forêt. 
   Tracteurs et voitures s’en vont aux fossés.
-  
-{{<figure src="/images/articles/2520.jpg" title="Comme ici, 20 ans plus tard !">}}
 
 Phénomène rare : la pluie verglaçante du 13 janvier 1997...un épisode rare… mais intense !
   
@@ -334,7 +332,9 @@ En 1959, et de 1973 à 1983 : état de sécheresse relative.
 Faible hygrométrie en 1995 et 1996. 1990, 1994, 1997 et 2013 sont
   les 4 années les plus chaudes depuis 100 ans. 
   2011 cumule un déficit annuel des précipitations de 225 mm sur une moyenne espérée de 813 mm. 
-  2014 : courbe des moyennes des températures en hausse.s
+  2014 : courbe des moyennes des températures en hausse.
+  
+{{<figure src="/images/articles/prospective.jpg" title="Prospective optimiste de l'INRAE concernant le maintien du hêtre à Bercé">}}
   
 Le réchauffement climatique actuel met à mal notre forêt, particulièrement en 2022/2023.
 Aussi, en 2023, l'O.N.F. anticipe-t-il la raréfaction de l'eau en établissant 
