@@ -47,12 +47,18 @@ Cet ouvrage paru aux éditions Alan Sutton dans la collection
   de la forêt de Bercé, présentant un bon nombre de photographies et
   cartes postales anciennes, accompagnées de courts textes. 
   
- *Cet ouvrage est aujourd’hui épuisé.*
-  
+*Cet ouvrage est aujourd’hui épuisé.*
+
+Un deuxième ouvrage **L'or vert de La Sarthe** paru aux éditions de la Reinette,
+dans lequel je m'étais attelé à décrire les traces anciennes, s'est retrouvé vite épuisé.
+
+la collection fut arrêtée à contre-Cœur.  
+ 
+{{<figure src="/images/articles/kervella.jpg" title="Le second ouvrage paru en 2007">}}  
   
  L’ONF et l’ensemble des acteurs de la démarche territoriale 
   **Bercé Forêt d’Exception** ont soutenu dès 2016 
-  la sortie d'un deuxième ouvrage dédié au Massif de Bercé.
+  la sortie d'un troisième ouvrage dédié au Massif de Bercé.
   
 {{<figure src="/images/articles/livre-berce-une-foret-d-exception.jpg" title="Le dernier livre paru le 06 juin 2018 aux éditions Étrave">}}
 
@@ -60,11 +66,11 @@ L'action était inscrite au sein du livret
   
 *Bercé Forêt d’Exception : 14 actions pour la forêt et le territoire*
   
-Le livre **Bercé, une forêt d’exception** est maintenant disponible !
+Le livre **Bercé, une forêt d’exception** est aujourd'hui aussi épuisé !
  
 ### Bercé, ce trésor est à partager !
-  
-Pour aller encore plus loin dans la démarche de mémoire,  
+
+Pour pallier ces manques et aller encore plus loin dans la démarche de mémoire,  
 Ce site internet alimente les divers sujets pour les partager, encore et toujours… 
 
 **à la façon d'un cabinet de curiosité**  
@@ -85,7 +91,7 @@ foretdeberce@gmail.com
 ### Pour ne rien perdre de vos balades en forêt de Bercé. 
 
   
-### Pour se procurer le livre
+### Pour se procurer le livre ... si il en reste dans un placard :)
  
 Au plus près de la forêt : 
   
