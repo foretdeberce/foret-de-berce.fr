@@ -91,7 +91,7 @@ foretdeberce@gmail.com
 ### Pour ne rien perdre de vos balades en forêt de Bercé. 
 
   
-### Pour se procurer le livre ... si il en reste dans un placard :)
+### Merci aux diffuseurs actifs qui ont oeuvré pour la mémoire !
  
 Au plus près de la forêt : 
   
