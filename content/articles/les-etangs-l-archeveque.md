@@ -88,7 +88,7 @@ La chasse était la préoccupation principale de Gervais, tant et si bien qu’e
         fin du 17ème  siècle. Il s'agissait d'un cerf en bronze.
  
         Une statue dont l'arrivée est associée à l'archevêque 
-        Gervais dans les années 1060. Cette statue de bronze 
+        Gervais vers 1059. Cette statue de bronze 
         était un ornement de la cour du palais. 
         Ce cerf, qui était une superbe œuvre d'art, avait été
         retenu par l'officialité, 
@@ -107,12 +107,17 @@ La chasse était la préoccupation principale de Gervais, tant et si bien qu’e
 
    
  ***Le cerf a disparu lors du réaménagement du palais sous Charles-Maurice Le Tellier,
- mais le Sagittaire reste.
- C'est un petit peu dommage, parce que lors du sacre des Rois, 
+ mais le Sagittaire reste.*** (vers 1680: le cerf est fondu)
+ ***C'est un petit peu dommage, parce que lors du sacre des Rois, 
  nous en avons le témoignage depuis le 14e siècle, 
- ce cerf était rempli de vin et servait de fontaine à vin. 
- La réjouissance du sacre était ainsi largement optimisée.*** 
+ ce cerf était rempli de vin  et servait de fontaine à vin.*** 
+ (jusqu'à 60.000 litres coulèrent ainsi au sacre de Philippe V en 1328)
+ ***La réjouissance du sacre était ainsi largement optimisée.*** 
  Patrick Demouy  
+
+ Voici le témoignage du Club d’Histoire locale de Château du Loir en 2019. 
+ 
+ [Le Cerf de Gervais à Reims](/articles/pdf/cerfdegervais.pdf)
 
 ### La « meson » des Etangs est citée en 1285. 
  
