@@ -12,7 +12,7 @@ Les feuillus peuplent la partie "Est" (anciennement Royale)
 et les résineux, les anciennes landes au "Nord et à l'Ouest".
 
 La qualité de ses bois, la richesse de son histoire 
-et l’attachement des Sarthois, en font un des 
+et l’attachement des Sarthois, en font l'un des 
 lieux secrets les plus prisés de la vallée du Loir.
 
 La qualité de ses chênes, est recherchée par 
@@ -29,6 +29,8 @@ La pureté de son air est sans conteste, irréprochable.
 Savez vous qu'en son sein, une tour existe,
 plus haute que la tour Eiffel?
 
+Un véritable **RER** existe à Bercé le **R**éseau **E**ntre **R**acines !
+
 Mais ici se termine la comparaison avec notre capitale !
 
 
@@ -40,11 +42,11 @@ en y plaçant un raccourci !
 
 Il y a, situé en haut de page, sur la photo :
 
-L'onglet ***"A propos"***  qui vous présente le livre et l'auteur.
+L'onglet ***"A propos"***  qui vous présente l'auteur.
 
 L'onglet ***"Recherche"***, 
 ... qui permet un accès rapide à vos recherches.  
 
-Dans chaque bas de page, ***des liens*** vous proposent des sujets communs.
+Dans chaque bas de page, ***des liens*** vous proposent des sujets concomitants.
 
-Le ***Sommaire*** regroupe tous les articles qui vous sont proposés en lecture.
+Le ***Sommaire*** regroupe tous les articles qui vous sont proposés.
