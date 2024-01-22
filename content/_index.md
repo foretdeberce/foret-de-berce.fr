@@ -29,7 +29,7 @@ La pureté de son air est sans conteste, irréprochable.
 Savez vous qu'en son sein, une tour existe,
 plus haute que la tour Eiffel?
 
-Un véritable **RER** existe à Bercé le **R**éseau **E**ntre **R**acines !
+Un véritable **RER** existe à Bercé: .....le **R**éseau **E**ntre **R**acines !
 
 Mais ici se termine la comparaison avec notre capitale !
 
