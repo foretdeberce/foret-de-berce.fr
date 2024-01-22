@@ -14,11 +14,11 @@ featured_image: '/images/chene-muriel.jpg'
 De tout temps, les hommes et les femmes ont trouvé refuge,
   source d’énergie et nourriture en forêt de Bercé.
   
-Mais la forêt d’antan ne ressemblait en rien à celle que nous fréquentons.
+Mais la forêt d’antan ne ressemblait en rien à celle que nous fréquentons aujourd'hui.
 
 En lieu et place de la forêt, pâtures et cultures organisaient l'espace.
 
-l'essartage était alors en développement.
+l'essartage était alors en chose courante.
   
 Au fil des siècles, l’homme en a façonné patiemment les contours
   pour en faire ce qu’elle est devenue aujourd’hui.
