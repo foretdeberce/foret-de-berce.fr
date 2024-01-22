@@ -62,9 +62,7 @@ service forestier mènent parfois à leur condamnation.
   
 ### L’embellie
   
-{{<figure src="/images/articles/assos.jpg" title="Des bénévoles à l’œuvre au rond des Forges">}}
-
-Quelques associations se mobilisent régulièrement 
+Quelques associations se mobilisent régulièrement vers le rond des Forges
 pour effacer toutes traces du passage de l’homme telle :
  
 **https://www.clean4green.org/**
