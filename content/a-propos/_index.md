@@ -70,7 +70,7 @@ Le livre **Bercé, une forêt d’exception** est aujourd'hui aussi épuisé !
  
 ### Bercé, ce trésor est à partager !
 
-Pour pallier ces manques et aller encore plus loin dans la démarche de mémoire,  
+Pour pallier ce vide et pousser encore plus loin la démarche de mémoire,  
 Ce site internet alimente les divers sujets pour les partager, encore et toujours… 
 
 **à la façon d'un cabinet de curiosité**  
@@ -96,10 +96,12 @@ foretdeberce@gmail.com
 ***Au plus près de la forêt :*** 
   
 L'Âme du Cinq 72220 Écommoy
+
+Leclerc Montval-sur-Loir 72500 "Espace Culturel Loir et Bercé" 
+
+**Le livre est encore disponible** à Carnuta "Maison de l'Homme et de la Forêt" Jupilles 72500.
   
-**Encore disponible** à Carnuta "Maison de l'Homme et de la Forêt" Jupilles 72500.
-  
-Leclerc Montval-sur-Loir 72500 "Espace Culturel Loir et Bercé"
+
   
   
 [Librairies Indépendantes](https://www.librairiesindependantes.com/product/9782359920529/)
