@@ -91,15 +91,15 @@ foretdeberce@gmail.com
 ### Pour ne rien perdre de vos balades en forêt de Bercé. 
 
   
-### Merci aux diffuseurs actifs qui ont oeuvré pour la mémoire !
+### Merci aux diffuseurs actifs qui ont oeuvré à faire perdurer la mémoire !
  
-Au plus près de la forêt : 
+***Au plus près de la forêt :*** 
   
-  Disponible à l'Âme du Cinq 72220 Écommoy
+L'Âme du Cinq 72220 Écommoy
   
-  Disponible à Carnuta "Maison de l'Homme et de la Forêt" Jupilles 72500.
+**Encore disponible** à Carnuta "Maison de l'Homme et de la Forêt" Jupilles 72500.
   
-  Disponible également à Leclerc Montval-sur-Loir 72500 "Espace Culturel Loir et Bercé"
+Leclerc Montval-sur-Loir 72500 "Espace Culturel Loir et Bercé"
   
   
 [Librairies Indépendantes](https://www.librairiesindependantes.com/product/9782359920529/)
@@ -107,6 +107,8 @@ Au plus près de la forêt :
 [Amazon](https://www.amazon.fr/Berc%C3%A9-for%C3%AAt-dexception-Yves-Gouchet/dp/2359920529)
   
 [Éditions de l'Étrave](http://www.editions-etrave.fr/pub-inclass-berce.html)  
+
+
   
 ### L'onglet "recherche" en haut de page ... permet un accès rapide aux pages désirées.  
 
