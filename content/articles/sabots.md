@@ -143,6 +143,9 @@ Il existe encore des inconditionnels du sabot :
 enfile quotidiennement ses sabots à collet. 
 Il est surnommé «Sabots-de-Bois».*
 
+**Quelques chiffres sur Jupilles**
+
+[Les sabotiers de 1906 à 1936](/articles/pdf/sabotiersjupillesentre1906et1936.pdf)
 
 Au début du 20ème siècle, plusieurs familles vivaient du sabot, 
 surtout sur Jupilles. 
