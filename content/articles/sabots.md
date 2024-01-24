@@ -147,7 +147,9 @@ Il est surnommé «Sabots-de-Bois».*
 
 [Les sabotiers de 1906 à 1936](/articles/pdf/sabotiersjupillesentre1906et1936.pdf)
 
-*Liste non exhaustive*
+*(Liste non exhaustive)*
+
+
 Au début du 20ème siècle, plusieurs familles vivaient du sabot, 
 surtout sur Jupilles. 
 Aujourd’hui encore le foyer rural continue de faire 
