@@ -265,6 +265,12 @@ Note du garde général Hurteau.
 
 {{<figure src="/images/articles/tram55.jpg"  title="Réduction pour les forestiers">}}
 
+Travaillait sur la ligne en habitant Jupilles en 1921 :
+Mary Félix (1875) Chef tramway à Jupilles 
+Renaud Charles (1892) Mécanicien du tramway
+Lecomte Anne (1883) réceptionnaire
+Lecomte Gustave (1884) Chef d'équipe
+Tétue Adolphe (1879) employé
 
 ### 26 juin 1922 : 
 
@@ -350,6 +356,8 @@ Réponse du brigadier Albrecht  à cette demande :
 ### 1926 : Voyage des Bretons à Bercé.
   
 [Chronique d’un trajet en tramway](/articles/pdf/ouesteclair1926.pdf)
+
+Travaillait comme poseur de voies de tramway en 1926 : Bémolle Henri (1896)
 
 ### 4 janvier 1931 :
 
