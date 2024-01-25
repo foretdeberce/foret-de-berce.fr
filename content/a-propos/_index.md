@@ -111,6 +111,18 @@ Leclerc Montval-sur-Loir 72500 "Espace Culturel Loir et Bercé"
 [Éditions de l'Étrave](http://www.editions-etrave.fr/pub-inclass-berce.html)  
 
 
+{{<figure src="/images/articles/perseigne.jpg" title="Six ans de guerre en Perseigne - 1939/1944">}} 
+
+Voici le dernier ouvrage qui me tenait à coeur de voir éditer. 
+Ce fut chose réalisée le 15 mai 2021.
+**Lorsque la Seconde Guerre mondiale éclate,
+Abel Boissier est forestier en Perseigne.
+En observateur privilégié, il dresse dans ses calepins 
+le décor irréel du monde qui l'entoure.**
+Ce livre, je le dédie à Jacques Paganet, qui s'est battu comme un lion 
+pour obtenir ce document... .
+
+
   
 ### L'onglet "recherche" en haut de page ... permet un accès rapide aux pages désirées.  
 
