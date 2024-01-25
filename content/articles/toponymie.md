@@ -450,3 +450,5 @@ Le bon sens populaire!
 Cartes archives départementales de la Sarthe et des Yvelines.
 
 Revue Au Fil du temps N° 14-15-18-19-20 - Pages diverses (Y. Gouchet - 2001/2003)
+
+L'Or Vert de la Sarthe aux éditions de la Reinette (2007 - Traces - Yves Gouchet )
