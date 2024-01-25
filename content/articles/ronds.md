@@ -588,3 +588,5 @@ Croisement de la route forestière de l'École forestière (accès aux Clos) et 
 ### Bibliographie : 
 	
 Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
+
+L'Or Vert de la Sarthe aux éditions de la Reinette (2007 - Traces - Yves Gouchet )
