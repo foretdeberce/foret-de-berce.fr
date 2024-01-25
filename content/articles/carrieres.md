@@ -581,3 +581,5 @@ Archives et livrets d’ordres du massif forestier de Bercé
 Photos Robert Calvel
  
 Revue au fil du temps n° 18 du 31 décembre 2002 et n°19 du 31 mars 2003 (Y. Gouchet).
+
+L'Or Vert de la Sarthe aux éditions de la Reinette (2007 - Traces - Yves Gouchet )
