@@ -183,3 +183,5 @@ Avantage pour la région, outre la pierre abondante,
 ### Bibliographie : 
 	
 Revue Au Fil du temps N° 22 - Pages 5 à  7 (Y. Gouchet - 12 -2003)
+
+L'Or Vert de la Sarthe aux éditions de la Reinette (2007 - Traces - Yves Gouchet )
