@@ -115,10 +115,12 @@ Leclerc Montval-sur-Loir 72500 "Espace Culturel Loir et Bercé"
 
 Voici le dernier ouvrage qui me tenait à coeur de voir éditer. 
 Ce fut chose réalisée le 15 mai 2021.
+
 **Lorsque la Seconde Guerre mondiale éclate,
 Abel Boissier est forestier en Perseigne.
 En observateur privilégié, il dresse dans ses calepins 
 le décor irréel du monde qui l'entoure.**
+
 Ce livre, je le dédie à Jacques Paganet, qui s'est battu comme un lion 
 pour obtenir ce document... .
 
