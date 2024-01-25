@@ -521,3 +521,5 @@ Archives O.N.F. livrets journaliers des préposés des deux brigades
 GALLICA : Archives Départementales de la Sarthe.
 
 Revue Au Fil du temps N°10 à 13 - Pages diverses (Y. Gouchet - 2000/2001)
+
+L'Or Vert de la Sarthe aux éditions de la Reinette (2007 - Traces - Yves Gouchet )
