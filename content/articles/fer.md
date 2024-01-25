@@ -516,5 +516,7 @@ La Métallurgie du Maine : Belhoste J-F, Robineau E (dir.), Baptiste G,
   
 Revue  *Au Fil du Temps*  n° 6 & 8  du 30 juin 2000 - Pages diverses (Y. Gouchet)
 
+L'Or Vert de la Sarthe aux éditions de la Reinette (2007 - Traces - Yves Gouchet )
+
 
 
