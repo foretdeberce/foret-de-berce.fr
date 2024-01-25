@@ -245,4 +245,6 @@ mais qui rajoute à une liste déjà longue deux autre martyrs.
          
 Revue Au Fil du Temps N° 33 - Pages 35 à  37 (Y. Gouchet - 09–2006)
 
+L'Or Vert de la Sarthe aux éditions de la Reinette (2007 - Traces - Yves Gouchet )
+
 
