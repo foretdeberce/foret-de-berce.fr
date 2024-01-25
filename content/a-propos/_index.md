@@ -114,7 +114,8 @@ Leclerc Montval-sur-Loir 72500 "Espace Culturel Loir et Bercé"
 {{<figure src="/images/articles/perseigne.jpg" title="Six ans de guerre en Perseigne - 1939/1944">}} 
 
 Voici le dernier ouvrage qui me tenait à coeur de voir éditer. 
-Ce fut chose réalisée le 15 mai 2021.
+Ce fut chose réalisée le 15 mai 2021 aux éditions de l'Étrave.
+
 
 **Lorsque la Seconde Guerre mondiale éclate,
 Abel Boissier est forestier en Perseigne.
