@@ -89,3 +89,5 @@ C'était un jeune qui pour se faire entendre aurait joué du clairon jusqu'à la
 ### Bibliographie : 
  
 Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
+
+L'Or Vert de la Sarthe aux éditions de la Reinette (2007 - Traces - Yves Gouchet )
