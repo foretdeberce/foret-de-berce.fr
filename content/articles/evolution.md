@@ -105,14 +105,14 @@ publiée par le ministère de la Culture.
 
 **Une sylviculture de pointe dans le respect des traditions …**  
 
-https://1drv.ms/p/s!AgaR4vMk4AOUfzAKgwsCIyDFfTk
-
-Le **Diaporama PowerPoint** 
+Le **PDF du PowerPoint** 
 ci-dessus, retrace l’ensemble des difficultés,
 à prendre en compte la biodiversité, l’environnement et le climat ...
 tout en conservant une gestion raisonnée et un sentiment écologique plus fort qu'auparavant…
-(Le temps de vision est déterminé par votre clic)
-  
+
+[L'évolution sylvicole renoue avec les valeurs de l'écologie](/articles/pdf/evolutiondupatrimoinedeberce.pdf)  
+
+
 Bonne lecture !
 
 
