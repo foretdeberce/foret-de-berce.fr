@@ -259,5 +259,7 @@ et mares dans un souci de conservation du patrimoine historique de Bercé.
 **Bibliographie :** 
 
 **(1)** Cécile Dardignac (Archéologue à l'ONF)
+
+L'Or Vert de la Sarthe aux éditions de la Reinette (2007 - Traces - Yves Gouchet )
  
 Revue Au Fil du Temps N° 16 - Pages  24 à 25 (Y. Gouchet - 06 -2002) 
