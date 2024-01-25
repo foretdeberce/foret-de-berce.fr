@@ -178,3 +178,5 @@ La dernière maison qui fut construite sur Bercé fut celle de la
 ### Bibliographie : 
  
 Le massif forestier de Bercé  (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet  - 2018)
+
+L'Or Vert de la Sarthe aux éditions de la Reinette (2007 - Traces - Yves Gouchet )
