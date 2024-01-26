@@ -176,7 +176,10 @@ Ses débuts, il les fait en 1956, avec Raymond et Camille Lemoine
   
 {{<figure src="/images/articles/guillier3.jpg" title="Édouard Guillier éhouppe un chêne">}}
 
-Le film Chronique de Bercé relate ce dur métier. Édouard et sa famille en sont les vedettes.
+Le film Chronique de Bercé relate ce dur métier.
+Édouard et sa famille en sont les vedettes.
+*Attendu le 23 mai 1972 les cinéastes jusqu'à 8h45. Rejoint l'équipe cinématographique chez Mr Guillier éhouppeur à Saint-Vincent.* **Robert Calvel**
+
   
  {{<youtube id="x2xzQTDO5i4">}}
   
