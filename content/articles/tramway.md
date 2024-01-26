@@ -266,11 +266,16 @@ Note du garde général Hurteau.
 {{<figure src="/images/articles/tram55.jpg"  title="Réduction pour les forestiers">}}
 
 Travaillait sur la ligne en habitant Jupilles en 1921 :
-Mary Félix (1875) Chef tramway à Jupilles 
-Renaud Charles (1892) Mécanicien du tramway
-Lecomte Anne (1883) réceptionnaire
-Lecomte Gustave (1884) Chef d'équipe
-Tétue Adolphe (1879) employé
+
+Mary Félix (1875) Chef tramway à Jupilles.
+
+Renaud Charles (1892) Mécanicien du tramway.
+
+Lecomte Anne (1883) réceptionnaire.
+
+Lecomte Gustave (1884) Chef d'équipe.
+
+Tétue Adolphe (1879) employé.
 
 ### 26 juin 1922 : 
 
