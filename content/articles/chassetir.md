@@ -116,7 +116,7 @@ Co-fermier du tir : [Mr du Luart](/articles/pdf/1842-1939equipageduluart.pdf) - 
            
 ### 1906 :
           
-Il est fait mention du garde chasse Quentin
+Il est fait mention du garde chasse Quentin.
  
 ### 1911 
           
@@ -210,7 +210,9 @@ Louvetier : Georges Willekens
           
 ### 24 novembre 1932
           
-Agrément des gardes particuliers Rousselet et Julien.
+Agrément des gardes particuliers
+Rousselet Albert (né en 1882- recensé à Jupilles en 1936)
+et du garde Julien.
           
 ### 1939 à 1947 période de guerre.
 
