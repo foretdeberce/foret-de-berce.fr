@@ -20,6 +20,24 @@ l'Office national des forêts.
 Les forestiers interviennent tout au long de la vie des
 peuplements pour façonner une forêt apte à vous accueillir.
 
+### Une forêt de rapport.
+Le choix de l'arbre à sauvegarder est le principe même de la sylviculture.
+Savoir jongler avec les défauts des arbres... c'est tout l'art du forestier.
+Voici un résumé photographique des divers défauts de nos arbres.
+
+[Inluence fongique et bactérienne](/articles/pdf/defautsdubois1.pdf)
+
+[Inluence climatique](/articles/pdf/defautsdubois2.pdf)
+
+[Inluence génétique](/articles/pdf/defautsdubois3.pdf)
+
+[Inluence bactérienne et stress](/articles/pdf/defautsdubois4.pdf)
+
+[Inluences diverses](/articles/pdf/defautsdubois5.pdf)
+
+[Inluence due aux insectes](/articles/pdf/defautsdubois6.pdf)
+
+
 **Une sylviculture moderne**
 
 *Le concept de la sylviculture basé sur la sélection d’arbres d’avenir ou objectif sur lesquels
@@ -277,6 +295,9 @@ Systématiquement, des arbres secs sont conservés
 ### Durée de révolution.
 
 Seul bémol, mais de taille, la durée de révolution a baissé… 
+
+De 220ans maximum en 1987 elle est passée à 180 ans en 2007.
+
 Le climat se modifie et devient plus chaud, 
 les arbres poussent donc plus vite et nos chênes,
 desserrés au maximum n’en seront ainsi que plus gros mais 
