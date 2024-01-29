@@ -37,6 +37,11 @@ Voici un résumé photographique des divers défauts de nos arbres.
 
 [Inluence due aux insectes](/articles/pdf/defautsdubois6.pdf)
 
+Et pour en savoir un peu plus sur les diverses pourritures, qui risquent avec le changement
+climatique de revenir durement sur le devant de la scène.
+
+[Les pourritures du bois de chêne sur pied](/articles/pdf/pourritures.pdf)
+
 
 **Une sylviculture moderne**
 
