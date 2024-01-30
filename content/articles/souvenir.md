@@ -136,7 +136,7 @@ dégradée à plusieurs reprises par les jets continuels de pierres.
          
 ### La chasse au trésor
 
-{{<figure src="/images/articles/20170606souvenir.jpg"  title="fourmilière du Souvenir">}} 
+{{<figure src="/images/articles/201706souvenir.jpg"  title="fourmilière du Souvenir">}} 
 
 
 C'est un phénomène nouveau qui est apparu avec les médias (journaux et internet).
