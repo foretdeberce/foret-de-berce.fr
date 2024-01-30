@@ -156,11 +156,14 @@ L’empreinte du marteau de l’État telle que nous la connaissons aujourd’hu
     (3) – Empreinte du marteau de l’État N°1.
      L’arbre abandonné doit être obligatoirement
      porteur de celle-ci.
-  
+
+{{<figure src="/images/articles/goenvec.jpg" title="Louis Goenvec, mon collègue "Breton" de la Doucinière">}}
+
+
 La prise des mesures de l’arbre :
 Avec le compas forestier, gradué de 5 en 5cm pour la prise du diamètre et l’œil du forestier ou aujourd’hui un dendromètre pour la prise des hauteurs.
   
-{{<figure src="/images/articles/jeanm.jpg" title="martelage de l’abandon et appel en « aboyant » en direction du pointeur">}}
+{{<figure src="/images/articles/jeanm.jpg" title="Martelage de l’abandon et appel en « aboyant » en direction du pointeur">}}
 
 {{<figure src="/images/articles/diametre.jpg" title="Le compas forestier est gradué de 5 en 5 cm">}}
   
