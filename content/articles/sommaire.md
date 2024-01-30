@@ -272,7 +272,7 @@ vers d'autres pages traitant du même thème.
      PAGE 12
      
 
-[7ème forêt d’Éxception®]({{<ref "articles/7eme-foret-d-exception.md">}})
+[7ème forêt d’Exception®]({{<ref "articles/7eme-foret-d-exception.md">}})
 
 [Le vent]({{<ref "articles/vent.md">}})
 
