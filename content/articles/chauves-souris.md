@@ -104,7 +104,7 @@ Quelques documents pour mieux connaître les espèces et leur mode de vie :
   
 [2011 – Expertise-chiroptères à Bercé](/articles/pdf/2011-expertise-chiroberce.pdf)
 
-{{<figure src="/images/articles/murindebechstein.jpg"  title="Le murin de Behchstein">}}
+{{<figure src="/images/articles/murin.jpg" title="Murin de Bechstein">}}
 
 ### Expertise chiroptères – Forêt domaniale de Bercé (72) – 
 
