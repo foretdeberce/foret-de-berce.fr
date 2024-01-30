@@ -116,6 +116,10 @@ tout en conservant une gestion raisonnée et un sentiment écologique plus fort 
 Bonne lecture !
 
 
+## Pour suivre au fil du temps les actualités de Bercé ##
+
+http://pascal-corbin72.overblog.com 
+
  
 ## Autres articles concernant l'archéologie forestière: ## 
 
