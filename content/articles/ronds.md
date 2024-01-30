@@ -563,8 +563,8 @@ Croisement de la route forestière de l'École forestière (accès aux Clos) et 
 	
 {{<figure src="/images/articles/voies1783.jpg" title="Les ronds forestiers">}}	
   
-	
-{{<figure src="/images/articles/wautot7.jpg" title="au dessus du rond Wautot dédié à l'arpenteur de 1843">}}
+{{<figure src="/images/articles/wautot007.jpg"  title="au dessus du rond Wautot dédié à l'arpenteur de 1843">}}	
+
 
  ## Autres articles concernant les voies forestières: ## 
 
