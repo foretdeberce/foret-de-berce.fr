@@ -158,7 +158,7 @@ L’empreinte du marteau de l’État telle que nous la connaissons aujourd’hu
      porteur de celle-ci.
 
 
-{{<figure src="/images/articles/goenvec.jpg" title="Louis Goenvec, mon collègue "Breton" de la Doucinière en action de martelage">}}
+{{<figure src="/images/articles/goenvec.jpg" title="Louis Goenvec, mon collègue Breton, de la Doucinière en action de martelage">}}
 
 
 La prise des mesures de l’arbre :
