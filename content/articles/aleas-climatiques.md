@@ -288,8 +288,8 @@ C’est en 2000 qu’un effondrement karstique de 4 m s’est produit
   Nous sommes dans la vallée des Vieux Puits, dans 
   laquelle d’autres anciens trous préexistent.
   
-{{<figure src="/images/articles/20151204trou.jpg" title="effondrement karstique dans la parcelle 199">}}
-  
+{{<figure src="/images/articles/effondrementkarstique.jpg" title="L’effondrement karstique de la parcelle 199">}}  
+
 Les hauteurs maximales seront enregistrées durant l’hiver 2000-2001,
   avec des cotes d’alerte partout.
   À l’Hermitière tous les ponts sauteront,
