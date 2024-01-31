@@ -57,6 +57,7 @@ Incendie dans les Hutteries.
 
 Dans les écobues. *« Surveillé l’atelier de piochage du canton 
 des Boistardières (18 ouvriers dans la parcelle 20) »* (Joly)- 
+
 Les 3 et 4 juillet 1863  « Mise à feu des écobuages» (Masseron) 
 et le 29 juillet 1863 « Rendez-vous à Laillé à 7h du matin pour 
 la paie des ouvriers ayant travaillé aux écobues dans le canton 
@@ -68,6 +69,7 @@ des Boistardières, sous le contrôle du garde général.
 **1864**
 
 Le 28 mai un incendie a lieu dans le canton de Chat-Buisson, vers 9h30 du soir.
+
 *Le garde JOLY reste sur les lieux jusqu’à 2 h du matin…résultat :
 5 ares brûlés dans une partie de bois rabougris sur un sentier 
 conduisant au hameau des Tesnières. (Ont combattu ce sinistre :
@@ -80,7 +82,7 @@ Fresneau Félix, Legeay René (journaliers) et Legeay Jean (Pruillé).*
 **Le 27 avril 1867**
 
 *« Dit au sieur Besnard de herser son écobuage de Bercé. 18 juin 1867 :
-« émottage de l’écobue des Boistardières (31 tâcherons le 18 juin et 43 le 19) » *(Joly)
+« émottage de l’écobue des Boistardières (31 tâcherons le 18 juin et 43 le 19) »*(Joly)
 
 **1871**
 
@@ -102,7 +104,7 @@ Peu après son passage sur ledit chemin au canton de Bercé les
 sieurs Beauchamps et Boussions (de Marigné) ont aperçu de la fumée.
 En arrivant sur la route, près de l’incendie, ils ont remarqué 
 cet homme à environ 200 à 300 m, l’ont appelé à leur aide,
-mais il s’est contenté de se retourner, a regardé puis poursuivi son chemin. »*
+mais il s’est contenté de se retourner, a regardé puis poursuivi son chemin.»*
 
 **1890 :**
 
@@ -112,7 +114,7 @@ Toute demande d’écobuage devra faire l’objet d’une demande d’autorisati
 **1891 :**
 
 Le 19 avril : les forestiers reçoivent les félicitations de l’inspecteur
-pour "le zèle et l’empressement" des préposés de la brigade n°1 
+pour *"le zèle et l’empressement"* des préposés de la brigade n°1 
 (brigadier Crossonneau, gardes Schneider, Piron, Leroi, Anjou)
 lors du feu de ce jour  au canton de Haute Perche. 
 
@@ -131,9 +133,13 @@ Le 18 juillet : la parcelle 56 est touchée.
 ### Puis durant les 30 années suivantes : 
 
 Croix-Veneur (avril et mai **1900**)-
+
 Parcelle 104 des Profonds-Vaux (11 avril **1903**)- 
+
 Parcelle 96 (10 avril **1904**) - 
+
 Puis les 95 et 100 (3 août **1906**) - 
+
 Les parcelles 66 & 68 (1er février **1909**)
 
 Dernier écobuage recensé 
@@ -142,23 +148,25 @@ et semis de P.S. en mars 1909 puis ratissage de ces bandes. »*
 Demeurée traditionnelle pendant des siècles, 
 la méthode des écobuages prendra fin en 1910.
 
-La p.49 (13 juillet **1910**)-
-P.1 (9 février **1911**) - 3 foyers ayant été allumés dans les Essarts,
+La parcelle 49 (13 juillet **1910**)-
+
+Parcelle 1 (9 février **1911**) - 3 foyers ayant été allumés dans les Essarts,
 *« …les habitants de Grammont croient que le feu a été mis pour les 
 attirer et les voler pendant leur absence. »*. 
 
-La 46 (13 juillet 1911) et les parcelles 32 & 33 (10 au 12 août 1911) et 136 – 
-Haute-Perche p.50 (16 & 17 avril **1914**) - 
-P.239 (11 février **1917**) - 
-P.233 (1er mai **1918**) - p.224 (3 mai 1918) : vers 4h du soir Jouaux accourt 
+La parcelle 46 (13 juillet 1911) et les parcelles 32 & 33 (10 au 12 août 1911) et 136 – 
+Haute-Perche parcelle 50 (16 & 17 avril **1914**) - 
+Parcelle 239 (11 février **1917**) - 
+Parcelle 233 (1er mai **1918**) - parcelle 224 (3 mai 1918) : vers 4h du soir Jouaux accourt 
 parcelle 224, *«… en entendant crier **« au feu »**, après deux heures de travail 
 et avec l’aide des prisonniers de guerre, nous avons pu nous rendre maîtres du feu »*, 
 …cette même année un incendie est signalé route de Tours. 
 
 **1919**, le 28 janvier : feu à la Tasse et du 13 au 19 septembre, 
 les Profonds Vaux sont  impactés : parcelles 93-100-101-102 : 
-le fils Allard Gustave, (21 ans) témoigne : *« Nous étions sur le fait
-de notre maison sur Lavernat à Baraguay, aidant les ouvriers maçons 
+le fils Allard Gustave, (21 ans) témoigne: 
+
+*« Nous étions sur le fait de notre maison sur Lavernat à Baraguay, aidant les ouvriers maçons 
 qui travaillaient à la toiture, lorsque vers 15h15, nous avons aperçu 
 dans la direction de la route de Vaas une épaisse fumée. 
 Mon père a couru en direction du feu avec les maçons, 
@@ -192,8 +200,9 @@ vers la route de Vaas alimenté par la fougère sèche. »*
 Le garde Guilbauld, la gendarmerie de Mayet et 50 habitants
 de Verneil participent à ce combat. Cette année-là, 
 les reboisements seront crédités par le produit des jeux (en France).
-La franchise téléphonique permet au garde de contacter 
-l’inspecteur en cas d’incendie.
+
+"La franchise téléphonique permet au garde de contacter 
+l’inspecteur en cas d’incendie".
 
 **1925**
 
@@ -205,8 +214,9 @@ Le 18 septembre : feu dans la  parcelle 215.
 
 **1928**
 
-Les 5 et 6 septembre : P133 et 134 : à l’appel du tocsin, 
-les populations de Jupilles et Marigné ont vaillamment combattu 
+Les 5 et 6 septembre : Parcelles 133 et 134.
+
+A l’appel du tocsin, les populations de Jupilles et Marigné ont vaillamment combattu 
 le feu à l’aide de branchages et d’outils rapidement réquisitionnés. 
 
 **Le Mans - Ouest-Éclair du 6 septembre :** 
@@ -219,17 +229,18 @@ les brigades de gendarmerie du Grand-Lucé et de Château du
 Loir ont réussi à faire la part du feu après trois heures 
 d’efforts, sous la direction de Mr Potel, inspecteur des
 Eaux et forêts. On croît pouvoir attribuer l’incendie à 
-l’imprudence d’un fumeur. 
+l’imprudence d’un fumeur*. 
 
 Le 13 septembre de cette même année, un feu de 30 ha ravage 
-les Profonds-Vaux (p.93-101-102).
+les Profonds-Vaux (parcelles 93-101-102).
 
-Rappel de l’inspecteur 
+**Rappel de l’inspecteur** 
+
 *« il est demandé aux ouvriers de nettoyer 
 les chemins, les lignes et tranchées garantissant 
 un pare-feu en cas d’incendie ».*
 
-**Constat de l’inspecteur Hurteau :**
+**Constat de l’inspecteur Hurteau**
 
      Vers la fin de l’hiver, le dessèchement naturel du sol,
      herbes, mousses, lichens, bois mort et feuilles tombées,
@@ -251,7 +262,7 @@ un pare-feu en cas d’incendie ».*
      de bouteille formant lentilles, nul doute que la cause
      principale n’en soit plutôt humaine.*
 
-**Ouest Éclair  du 7 septembre 1928**
+**Ouest Éclair du 7/09/1928**
 
      Le feu en forêt de Bercé
      Mercredi, vers midi, le feu se déclarait en forêt de Bercé, 
@@ -282,7 +293,8 @@ Le 29 mars, au nord de la maison forestière des Hutteries,
 parcelles 10 à 13, un incendie ravage 70 ha de pins sylvestres. 
 34 ouvriers ont combattu de nuit cet incendie ainsi que 1500
 riverains venant des communes avoisinantes et 60 riverains 
-de Marigné. Battage du feu à l’aide de ramiers et contre-feux
+de Marigné.
+Battage du feu à l’aide de ramiers et contre-feux
 en s’appuyant sur les routes forestières et parties feuillues 
 par un vent violent dirigé d’est en ouest. 
 
@@ -305,7 +317,7 @@ des Hutteries à 14h30 précises. »*
 
 **1933**
 
-Le 4 avril : 15h30 -parcelle 91 de la Guiltière et 
+Le 4 avril : 15h30 - parcelle 91 de la Guiltière et 
 parcelle 60 en bordure RN158 - vent de l’est à l’ouest- 
 incendie combattu par 70 personnes. Vers 16h30 le feu
 était éteint. On suppose là encore que le feu ait été 
@@ -318,6 +330,7 @@ qui étaient en surveillance toute la nuit »*.
 Superficie brûlée : environ **un hectare.**
 
 Le 3 août parcelles 91 & 92 
+
 *combattu en 30 minutes par Gautron,
 le brigadier Peltier, et quelques ouvriers,  mais par malchance, 
 cet incendie reprend le 4 et sera combattu toute la nuit par 
@@ -388,7 +401,8 @@ Le 2 mai, incendie hors forêt domaniale au dessus de Mortier-Râteau.
 
 Le 6 août c’est à la Tasse, parcelle 55 qu’un foyer allumé par un service 
 civil de l’armée allemande cantonné en forêt se propage sur 0,50 ha.
-Daviron de relater : *« Celui-ci brûlait des archives
+Daviron de relater : 
+*« Celui-ci brûlait des archives
 à même le sol. Le vent fort dirigé nord-sud, nous fit établir une tranchée 
 autour de l’incendie, avec l’aide d’André Pie, Poumerol, Chevrier Maurice, 
 le garde Gobert, Ladurée, et les soldats allemands »*. 
@@ -439,7 +453,7 @@ Pour accéder au dossier spécial **Bikini**, cliquez sur ce lien :
 
 [Bikini, l’épisode noir de Bercé](/articles/pdf/bikini1949.pdf)
 
-**1964 à 1981**: peu de feux importants, durant cette période.
+**1964 à 1981**, peu de feux importants, durant cette période.
 
 **1982**, un incendie affecte sur quelques ares la parcelle feuillue 189 lors d’une coupe.
 
@@ -536,7 +550,9 @@ Ce feu est sans conteste d’origine criminelle.
  soit 150 pompiers, seront en action pour lutter contre ce feu, 
  qui aura détruit principalement des résineux, léchant profondément
  les parcelles feuillues, dont le chiffrage de la perte bois 
- s’élève à 600.000 €. Souhaitons que celui-ci en termine la funeste série.     
+ s’élève à 600.000 €. 
+ 
+ Souhaitons que celui-ci en termine la funeste série.     
  
 
 {{<youtube id="drl4tP_Aahg">}} 
@@ -548,8 +564,8 @@ En Bercé le 15 avril 2014 **(1'45)**
  
 En Bercé le 16 avril 2014 **(1'45)** 
      
-*La Liste des parcelles touchées par le feu est non exhaustive. 
- - Numérotation  des parcelles mis à jour en 2016.*
+*(La Liste des parcelles touchées par le feu est non exhaustive. 
+ Numérotation  des parcelles mis à jour en 2016.)*
 
 
 ## Autres liens concernant les redoutables épreuves de la nature ##
@@ -563,6 +579,7 @@ En Bercé le 16 avril 2014 **(1'45)**
 ### Bibliographie : 
  
 Archives ONF des maisons forestières de Bercé.
+
 livrets journaliers des préposés.
 
 
