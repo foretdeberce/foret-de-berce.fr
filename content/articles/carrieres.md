@@ -211,14 +211,14 @@ Chemin de l’École forestière (qui mène au chêne Boppe)
   
 28 Juillet : le garde Louis Pigault rapporte :
 « Suis allé le soir avec le brigadier et
-M. l’Agent-voyer (a) cantonal d’Écommoy à la carrière
+M. l’Agent-voyer **(a)** cantonal d’Écommoy à la carrière
 des **HUTTERIES (10)**, pour la délimitation 
 d’une carrière destinée à  la Commune de Saint-Mars-d’Outillé,
 parcelle 12. Pruillé-l’Éguillé, Marigné-Laillé, Téloché,
 Écommoy, tireront aussi de la pierre en Bercé aux Hutteries,
 pour l’entretien de leurs chemins ruraux et vicinaux ». 
   
-*(a) l’Agent-voyer est un fonctionnaire des Ponts et Chaussées,
+**(a)** *l’Agent-voyer est un fonctionnaire des Ponts et Chaussées,
  chargé de veiller à l'entretien des routes et chemins vicinaux*
  
   
@@ -334,7 +334,7 @@ A cette époque, le tourisme émerge et il y a nécessité d’opérer
 *Chez Monsieur Godin charron à Jupilles : Prix des brouettes 220fs,
   tombereau de 800 à 900fs.*
   
-{{<figure src="/images/articles/aiguillecarriere.jpg"  title="Aguille ou pince de carrier">}}
+{{<figure src="/images/articles/aiguillecarriere.jpg"  title="Aiguille ou pince de carrier">}}
   
 *Pour les barres de mineurs qui seraient nécessaires, 
   il faudrait les dimensions et les formes suivantes: 
@@ -357,6 +357,7 @@ Le permis d’extraction du 21 juin 1932
   (entrepreneur) et M. l’ingénieur du service vicinal d’Écommoy.*
  
 Le garde Leclercq constate à ce sujet le 10 mai 1933: 
+
 *vu les ouvriers de la carrière de Sermaize et leur ai 
   indiqué les limites jusqu’où peut avoir lieu l’extraction
   des 250m3 de matériaux d’empierrement désignés au permis
