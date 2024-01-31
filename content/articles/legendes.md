@@ -68,6 +68,10 @@ C'était un jeune qui pour se faire entendre aurait joué du clairon jusqu'à la
      
 {{<figure src="/images/articles/pineau.jpg"  title="Christian Pineau, Histoires de la forêt de Bercé (1958)">}}
 
+## Sous terre ##
+
+[L’Hermitière souterraine]({{<ref "articles/hermitiere4.md">}})
+
 ## Autres liens concernant les curiosités de Bercé ##
 
 [Chauves-souris]({{<ref "articles/chauves-souris.md">}})
