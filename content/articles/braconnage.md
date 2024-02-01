@@ -104,6 +104,10 @@ Mais dans la nuit du 4 août 1789,
   
 Les ouvriers bûcherons et sabotiers de la forêt de Bercé, se révoltent et
 	pillent les blés enfermés dans les greniers du domaine seigneurial. 
+
+**Voir en cela cet épisode :** 
+
+https://www.foret-de-berce.fr/articles/revolte-sabotiers/
  
 À cette époque le Maine est devenu l’apanage du frère de Louis XVI : 
 	Monsieur le comte de Provence (futur Louis XVIII, dit le Désiré). 
@@ -630,6 +634,12 @@ Le garde Julien logeait à la «Maison Rose». Gobert à la Tasse,
 
 {{<figure src="/images/articles/120fgh12.jpg" title="Attaque nocturne d’un garde">}}
 
+Le **« dernier affûteux »** en Sarthois … ou Affuteur, 
+ce droit qu’avaient les riverains de la forêt de **« repousser »**
+les animaux en toutes saisons et qui fut supprimé en 1968. 
+
+*(Marie-Claude Planchet - Chahaignes culture et loisirs – 2023)*
+
 **10 juillet 1939 :**
 	
 Disparition d’un faon en forêt – 
@@ -638,6 +648,8 @@ Disparition d’un faon en forêt –
   de Marigné et Téloché au sujet  de l’enlèvement et transport
   d’un faon vivant. Compte rendu transmis ce jour à M. l’inspecteur. » 
   (PIE André).*
+  
+{{<figure src="/images/articles/camisy2024.jpg" title="Yves Camisy l'un des derniers affuteux">}}	
 
 Braconnage durant la Guerre 1939/1945 : 
 	
