@@ -404,7 +404,7 @@ Croisement route forestière du Roulleau / Ligne de Croix –Veneur.
 
 ### 17 – Rond du Guignier 
 	(commune de Saint-Pierre-du Lorouër) : 
-Croisement route forestière de la Croix Veneur / CD 63 / route forestière des Vaux du Puits / Allée de la Ragée / Route forestière du Roulleau.
+Croisement route forestière de la Croix Veneur / CD 63 / route forestière des Vaux du Puits / Allée de la Ragée / Route forestière du Roulleau. Étymologiquement, ce rond peut se prévaloir non pas de l'ancien directeur de l'école forestière de Nancy mais plus du simple Guignier du coin!
 	
 {{<figure src="/images/articles/001guignier.jpg"  title="Rond du Guignier">}}
 
