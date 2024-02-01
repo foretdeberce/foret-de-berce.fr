@@ -18,10 +18,13 @@ et d’Endoxie Marie Sophie Pigalle.
 
 Chef de bataillon d’infanterie (Service spéciaux du territoire)
 Sous lieutenant de réserve le 19 septembre 1887.
-Lieutenant de réserve 19 septembre 1889.
 
 Il se marie avec Madeleine Caroline Dumas en 1888. 
-Ils auront ensemble 3 enfants.
+Lieutenant de réserve 19 septembre 1889.
+
+
+Avec Madeleine, ils auront 3 enfants.
+
 Au décès de son épouse en 1891, il se remarie en 1894 avec Mathilde
 Marguerite Jeanne Bigot avec laquelle il aura 4 enfants.
 
@@ -39,6 +42,7 @@ qui a été admis à faire valoir ses droits à la retraite.
 Il habitera successivement au 41 puis au 123 de l’avenue Bollée au Mans.
 
 Il a été promu chevalier de la légion d’Honneur en novembre 1924. 
+
 Il sera nommé chevalier du mérite Agricole. 
 
 Cessation de fonction : 1929 (Retraite)
@@ -48,6 +52,7 @@ Cessation de fonction : 1929 (Retraite)
 
 Potel fait partie de ceux qui laissent une œuvre forestière durable 
 par leur travail dans les commissions de cantonnement ou d'aménagement.
+Il participe aussi à alimenter l'historique de la forêt de Bercé.
 
 [Forêt de Bercé (partie 1)](/articles/pdf/revuepotel194201.pdf)
 
