@@ -195,11 +195,13 @@ Depuis lors, bon  nombre d'Officiers Forestiers,
      - issu de l’ENEF) - Non repéré, il est campé 
      sur son fossé à droite de la souche de l'ancien
      chêne Boppe.  Nouveau chêne Boppe baptisé le 14
-     juillet 1935. Chêne CHAPLAIN : (inspecteur des
+     juillet 1935. 
+     
+     Chêne CHAPLAIN : (inspecteur des
      Eaux et Forêts, membre de la commission du
-     Touring-Club.) : mention de cet arbre non
-     repéré le 16 avril 1937.mention de cet
-     arbre non repéré le 16 Avril 1937. 
+     Touring-Club puis Directeur de l'École forestière
+     de Nancy.) : mention de cet arbre non
+     repéré le 16 avril 1937.
      
      3 - Rond d’USSEL (Marie-Jean – 70ème Promotion
      disparu le 28 août 1914 à Bapaume (Pas de Calais)
