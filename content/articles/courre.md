@@ -10,14 +10,14 @@ tags: ["Faune","Biodiversité","Chasse","Lois"]
 ### Au Néolithique et durant l'Antiquité :
 
 La chasse telle une cueillette, est libre et peut être pratiquée par tous :
-"loi salique" du temps des Francs. 
+*"loi salique"* du temps des Francs. 
 
-Mais au Moyen Age, elle sera réservée à la noblesse (ordonnance de 1396).
+Mais au Moyen Age, elle sera réservée à la noblesse *(ordonnance de 1396)*.
 
 ### Au Xème siècle
 
 le baron Hamon est le premier grand seigneur connu de 
-Château-du-Loir (980-1028). Il possédait la forêt de Bercé, de Douvre et de Cloipas.
+Château-du-Loir *(980-1028)*. Il possédait la forêt de Bercé, de Douvre et de Cloipas.
 
 C'était alors un territoire de chasse d'autant plus rentable 
 que ses réserves en gibier étaient importantes.
