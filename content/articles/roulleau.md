@@ -30,7 +30,7 @@ Il partagera avec les éditeurs de cartes postales ses propres clichés,
   
 {{<figure src="/images/articles/marquagechablis1900.jpg"  title="Tempête de 1900">}}
   
-{{<figure src="/images/articles/roulleau325.jpg"  title="Les forestiers au Clocher">}}
+{{<figure src="/images/articles/roulleau325.jpg"  title="Les forestiers au rond du Clocher">}}
 
 ### Inspecteur adjoint 
   au Mans dès 1885, et deviendra conservateur 
