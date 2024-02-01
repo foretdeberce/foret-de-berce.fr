@@ -58,8 +58,8 @@ sur le sujet, où seul le nord de la Sarthe apparaissait dans le paysage minier.
  
 Un lieu-dit les forges existe entre Marigné et Laillé.
 
-Le fond, ou plutôt son "tréfonds" lui a procuré très tôt
-le minerai nécessaire à sa propre exploitation.
+Le fond, ou plutôt le "tréfonds" de Bercé a procuré très tôt
+à l'homme le minerai nécessaire à son exploitation.
 
 
 Les mares ne suffisant plus, il creusera des puits, au grand dam de l'espace forestier.
