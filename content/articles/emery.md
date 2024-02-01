@@ -7,11 +7,12 @@ featured_image: "/images/et.panneaucoudre2.jpg"
 tags: ["Tourisme","Arbres","Chênes","Toponymie","Hommes"]
 ---
 
-Émery Auguste-Joseph (né le 16 août 1868 à Colmar-Haut-Rhin) 
+Émery Auguste-Joseph est né le 16 août 1868 à Colmar (Haut-Rhin) 
 63ème de l’ENEF (sorti major en 1889), conservateur des Eaux et Forêts. 
-Il  épousa Lucie Françoise Marion, (née le 27/9/1872 à Daix -Côte d’Or)
-C’est à un voyageur auquel nous avons à faire vu la longue liste de ses mutations.
-Par contre aucune photo de lui ne transparaît des archives.
+Il  épousa Lucie Françoise Marion, qui est née le 27/9/1872 à Daix (Côte d’Or)
+
+C’est à un grand voyageur auquel nous avons à faire, vu la longue liste de ses mutations.
+Par contre aucune photo de lui ne transparaît dans les archives.
 
      1889 : garde général à Boulogne sur Mer. 
      
@@ -134,7 +135,7 @@ Le brigadier des Eaux et forêts - Signé : *Lebouleux*
 {{<figure src="/images/articles/emeryjeroen.jpg"  title="Au fil des saisons">}} 
 
 
-## Autres articles concernant la Coudre : ## 
+## Autres articles concernant la Coudre ## 
 
 [La Coudre]({{<ref "articles/la-coudre.md">}})
 
@@ -142,7 +143,7 @@ Le brigadier des Eaux et forêts - Signé : *Lebouleux*
 
 [Le fer]({{<ref "articles/fer.md">}})
 
-## Autres articles concernant les officiers forestiers : ## 
+## Autres articles concernant les officiers forestiers ## 
 
 
 [La Mothe d’Olbeau]({{<ref "articles/mothedolbeau.md">}})
