@@ -21,11 +21,12 @@ sous la surveillance du service forestier :
 *« La manière dont elles auront
 été faites, le nombre, la qualité et la profession des tireurs, 
 le nombre et la docilité des traqueurs, les résultats obtenus »*. 
+
 (Inspecteur Delaporte - février 1886). 
 
 En dehors de cette saison le relais est assuré par les lieutenants 
 de louveterie, chargés par le préfet de réguler la population des
-gibiers dits "nuisibles". Elles peuvent être aussi dirigées par le maire.
+gibiers dits **"nuisibles"**. Elles peuvent être aussi dirigées par le maire.
 
 Si au 20ème siècle le loup n’est plus inscrit, en 1850, les principaux 
 nuisibles ou malfaisants sont les lapins, les renards, les blaireaux,
@@ -90,13 +91,14 @@ l’animal à bout de sang s'en va mourir dans un coin, dans d'atroces souffranc
 	
 Les battues typiquement forestières sont dirigées par l’inspecteur ou 
   l'inspecteur-adjoint, et à l'extérieur, le maire ou son adjoint. 
-  Les préposés aux Eaux et forêts, portant fusil dans leurs tournées, 
+  
+Les préposés aux Eaux et forêts, portant fusil dans leurs tournées, 
   s'organisent ainsi de temps à autre, quelques chasses aux nuisibles 
   (octobre 1919 prime de destruction  de 16 marcassins : 60 f).
   
 {{<figure src="/images/articles/boris002.jpg"  title="Aquarelle de Boris Riabouchinski qui vécut à St Vincent">}}
 
-**[Riab, un aquarelliste de talent](/articles/pdf/riab.pdf)**
+[Riab, un aquarelliste de talent](/articles/pdf/riab.pdf)
 	
 ### Les dégâts du sanglier :
   
@@ -128,23 +130,23 @@ Note de M. l'inspecteur.
 	
 Battue aux sangliers sur Saint-Pierre-du-Lorouër, 
   à 10h du matin surveillée par les gardes Guyomarch 
-  et Heintz  dans le Vau du Puits.
+  et Heintz dans le Vau du Puits.
  
      Nous avons trouvé les nommés ci-après :
-     Gautron Maire de St.Pierre, Chevalier Félix, Chevalier Félix,
+     Gautron, maire de St.Pierre, Chevalier Félix, Chevalier Félix,
      Roncière Jules, Laudreau Auguste, Benard Louis, Pie Victor, 
      Clairen Adrien, Legeais Louis ,Chartrain Alexis, Laurens, 
      Boussion Jules, Boussion Verrier, Faureau Simon, Guimier René,
      Bruneau, Chipfeteau père, Chipfeteau fils, Vilain Lénau, 
      Lorens fils, Fortier Duchesne, Chevalier Joseph, Chevalier
-     Joseph Posson Alexandre, Gores, Bobet Garde-champêtre,
+     Joseph Posson Alexandre, Gores, Bobet garde-champêtre,
      Dubray du Vau, Ménar Emile, Arterau Alexandre, Poilvilain René,
      Laudreau Julien, Boutelier père, Boutelier fils ,Royau Eugène,
      Comon fils, Peigné Alexis, Laudreau louis, Peigné Louis,
      Duchesne Denis, Boussion, Ménard Albert, Chevalier, Lebert Adrien,
      Derré Chevalier Chartrain Alexis, Trouvé fils, Poilvilain René, 
      Joliveau Louis, Renard Bourcier, lesquels étaient occupés à 
-     faire une battue aux Sangliers, sous la Direction du Maire de
+     faire une battue aux Sangliers, sous la Direction du maire de
      St. Pierre du Lorouër.
      Résultat : Néant
      Fait et clos à la Maison Forestière des Clos
@@ -154,14 +156,14 @@ Battue aux sangliers sur Saint-Pierre-du-Lorouër,
 Une autre battue aux sangliers est organisée sur la commune de Chahaignes
   Nous avons trouvé les nommés ci-dessous:
 	
-      Passin, Adjoint, Bobet Garde Champêtre, Chevalier François, 
+      Passin, adjoint, Bobet garde champêtre, Chevalier François, 
       Renard Boursier , Legeais Louis, Chevalier julien, Cochard Valentin,
       Laudreau Auguste, Chartrain Alexis, Ménard Emile, Ménard Père,
       Gautier Eugène, Pie Victor, Chevalier Joseph, Chevalier François,
       Peigné Alexis, Laudreau Julien, Comon, Posson Alexandre, Boussion, 
       Benard père, Benard fils, Benard Louis, lesquels étaient occupés à
-      faire une battue aux Sangliers sous la Direction de l'Adjoint 
-      et du garde-Champêtre de St. Pierre du Lorouër.
+      faire une battue aux Sangliers sous la Direction de l'adjoint 
+      et du garde-champêtre de St. Pierre du Lorouër.
       Résultat: Un Homme de blessé. 
       Fait et clos à la maison forestière des Clos le 24 janvier 1885. 
       (Prévenu pour la battue à midi pour midi et demie, 
@@ -239,13 +241,14 @@ Silvestre écrit *« Battue au rond de Verneil et environs, vu le garde Robert �
 **14 novembre 1919 :** 
 	
 Une note de l’inspecteur Potel précise aux adjudicataires de la chasse, 
+
   *de ne pas tuer les biches et les chevrettes, par contre est autorisé,
   en temps de neige la chasse par les détendeurs de ce droit, des sangliers
   et tous animaux classés comme nuisibles, jusqu'au 31 mars suivant l'ouverture.* 
 
 
 Après guerre, la prolifération du gibier non chassé durant les hostilités 
-  (mais parfois braconné) impose des battues :
+  *(mais parfois braconné)* impose des battues :
 
 **3 mars 1920 :** 
 	
@@ -267,18 +270,18 @@ Battue éffectuée par M. Loisel (8 tireurs)
   Les chiens mettent bas en bordure. Après midi nous rapprochons un sanglier
   qui s’était dérobé et le réattaquons dans Hautes Perches. M. Bellau le tire 
   au déboulé mais le manque. Le sanglier prend le Sault Moulin et nous reprenons 
-  les chiens…Résultat : néant. »*
+  les chiens…Résultat : **néant**. »*
   
 **25 mars 1920 :**
 	
 *« 2éme chasse de la société de Château-du-Loir (5 tireurs) résultat :
   1 laie et 4 petits. Attaqué à 10h du matin deux sangliers dans le Bel-Air,
-  dont 1 laie qui refuse de quitter l’enceinte et tient le ferme **(1)**  
+  dont 1 laie qui refuse de quitter l’enceinte et tient **le ferme (1)**  
   devant les chiens à plusieurs reprises différentes. 
   Tuée par Gobert "au ferme". Poids : 70 à 75 kgs  environ et sur le point
   de mettre bas 4 petits. »* 
 	
-  **(1)**- Au ferme...l’animal est tenu sur place par la meute.
+  **(1)**- *Au ferme...l’animal est tenu sur place par la meute*.
   
 **28 mars 1920 :**
 	
@@ -305,7 +308,7 @@ Battue éffectuée par M. Loisel (8 tireurs)
   Gobert profite de l’attaque du sanglier pour lui envoyer ses deux 
   coups de fusil. Le sanglier est tué 20 minutes après dans la Guiltière
   au ferme par M. LOISEL. 
-Résultat : 1 sanglier pesant environ 150 kg. »*
+Résultat :*1 sanglier pesant environ 150 kg. »*
   
 **8 avril 1920 :** 
 	
@@ -316,14 +319,14 @@ Résultat : 1 sanglier pesant environ 150 kg. »*
   d’un coup de fusil. Résultat : 1 laie pesant 65 kg environ, 5 petits 
   pesant 2,5 kg à peu près dont un vivant que M. Loisel emporte. 
   (Nombre de fusils : 12).  Puis  attaqué en Bercé à 12h une laie et 4 petits
-  au poids de 2 kg environ- 9 tireurs.
-Résultat : 4 petits sangliers tués l’après midi. »*
+  au poids de 2 kg environ- 9 tireurs.*
+Résultat : *4 petits sangliers tués l’après midi. »*
   
 **11 avril 1920 :**
 	
 *« Nous attaquons des sangliers dans les fourrés de Croix Marconnay, 
   mais ils passent trop loin des tireurs, vu l’heure avancée nous rentrons.
-  (8 fusils), résultat néant »*
+  (8 fusils), **résultat néant** »*
   
 **13 avril 1920 :** 
 	
@@ -415,7 +418,7 @@ Enquête avec mon collègue Pie sur la destruction de l’affût précité »*.
 
 {{<figure src="/images/articles/102b0256.jpg"  title="Les affuts tant décriés par les locaux">}}
 
-La chasse à l’affût prisée par les "Doryphores" **(2)**, 
+La chasse à l’affût prisée par les **"Doryphores"(2)**, 
   donne l’idée à certains de scier les montants de ces constructions en bois,
   de façon à précipiter de toute leur hauteur les envahisseurs.
 	
@@ -434,7 +437,9 @@ Les forestiers allemands construisent un « observatoire » en bordure de la rou
   en janvier 1945 certains observatoires sont déjà détruits car 
   les gardes pensent qu’ils sont utilisés par les braconniers. 
 
-**(2)** nom donné aux occupants allemands. Propos recueillis auprès de riverains. Archives  O.N.F.
+**(2)** *nom donné aux occupants allemands*.
+
+Propos recueillis auprès de riverains et archives  O.N.F.
 
 ### 1946
 	
@@ -504,6 +509,8 @@ Las des dégâts constatés depuis quelques années en et hors forêt,
   forestiers et agriculteurs recherchent le bon compromis et sollicitent 
   que les attributions de bracelets soient revues à la hausse.
   
+{{<figure src="/images/articles/20240131houx.jpg" title="Pied de houx écorcé par un cervidé parcelle 160 en janvier 2024">}}  
+
 Au fil du temps, ces grands cervidés ont été chassés par le développement 
   agricole qui réduit ainsi leur aire d’accueil. La forêt les héberge 
   aujourd'hui, à son corps défendant. 
