@@ -30,7 +30,7 @@ chasse qui leur est personnel.
 
 Avant on les nommait Co-fermiers ou locataires de chasse.
 
-Les riverains les nomment « ces Messieurs » ou « les gros ».
+Les riverains les nomment *« ces Messieurs »* ou *« les gros »*.
 
 Leurs ayants-droit sont accrédités pour un ou plusieurs modes de chasse, 
 sur le même lot de chasse. 
@@ -38,28 +38,27 @@ sur le même lot de chasse.
 L'adjudicataire recrute les chasseurs, ses actionnaires. 
 
 Il  y a actuellement six locataires du droit de chasse : 
-quatre pour le tir (lots de 1000 à 1300ha) et 2 pour le courre.
+quatre pour le tir (lots de 1000 à 1300 ha) et 2 pour le courre.
 
 Les adjudicataires du tir par le passé, s’entouraient bien souvent, de gardes particuliers. 
 Autrefois, ceux ci résidaient aux alentours de la forêt, voire dans les maisons 
 forestières désaffectées (ex : la Tasse, les Profonds-Vaux, les Étangs, ceci avant guerre). 
 
-Les “ garde-chasse ” Bruon, Quentin, Forest, Simier, Gobert, Vignas (de Chahaignes),
+Les *“ garde-chasse ”* Bruon, Quentin, Forest, Simier, Gobert, Vignas (de Chahaignes),
 Rousselet, Passerat et bien d’autres, sont de ceux là, chargés de faire appliquer
-la loi tout en veillant aux intérêts de leur maître. Ils participaient selon 
-leurs moyens à la lutte anti-braconnage aux côtés des forestiers de l’État.
+la loi tout en veillant aux intérêts de leur maître. 
+Ils participaient selon leurs moyens à la lutte anti-braconnage aux côtés des forestiers de l’État.
 
 [Le droit de chasse en France de 1789 à 1914](/articles/pdf/droitdechasseesteve.pdf)
 
 ### 1866
 
-La Société de chasse de Bercé a été créée en 1866. Cette société avait
-comme président Mr le Comte d’Andigné et comme sociétaires, les Marquis
-et Comte de la Porte aux Loups, le Comte de Vauguyon, le Vicomte de 
+La Société de chasse de Bercé a été créée en 1866. 
+Cette société avait comme président Mr le Comte d’Andigné et comme sociétaires, 
+les Marquis et Comte de la Porte aux Loups, le Comte de Vauguyon, le Vicomte de 
 Hercé et Messieurs de Vaufleury, Moreau et de la Barre, ainsi que Mr 
-le Baron de Layre (Rallye Bercé, qui résulte de la fusion des équipages
-de Beaumont les Autels (28) et du Resteau : 
-Rallye Sapinette de Chemiré le Gaudin).
+le Baron de Layre *(Rallye Bercé, qui résulte de la fusion des équipages
+de Beaumont les Autels* (28) *et du Resteau : Rallye Sapinette de Chemiré le Gaudin)*.
 
 ### 1875 
 
@@ -76,7 +75,8 @@ Rallye Bersay (origine Maine-Anjou) Maître d'équipage : duc de Gramont, châte
 ### 1891  
 
 Co-fermier : pour le tir : Mr Dineau des Arcis (1854-1932 - château du Ronceray).
-        Invité : (1895) Mr de Montgomery (château de Mangé)
+
+Invité : (1895) Mr de Montgomery (château de Mangé)
 
 {{<figure src="/images/articles/003chasseatir.jpg"  title="Le château du Ronceray">}} 
 
@@ -98,7 +98,7 @@ permanente de chasser la perdrix en bordure de ses propriétés.
 {{<figure src="/images/articles/002chasseatir.jpg"  title="Invitation battue aux sangliers">}} 
 
 **2ème lot** : Mr Henri Martin (grand père de Marcel Huger et maire de Chahaignes 
-(Mme Martin a tiré sa première biche en 1907 au rond du Guignier) 
+*(Mme Martin a tiré sa première biche en 1907 au rond du Guignier)* 
 et ses invités : Mr Péan  et Mr Séchet (20 fusils) dont le garde chasse
 particulier est Vignas  (chasse au lièvre et au menu gibier). 
  
@@ -112,7 +112,7 @@ Ils ne peuvent pas les attaquer sur le 2ème lot.
 ### 1902 :
           
 Co-fermier du tir : [Mr du Luart](/articles/pdf/1842-1939equipageduluart.pdf) - Mr de la Blanchère
- Lieutenant de Louveterie : Pierre Guillais
+ Lieutenant de Louveterie : Pierre Guillais.
            
 ### 1906 :
           
@@ -123,16 +123,17 @@ Il est fait mention du garde chasse Quentin.
 Co-fermier  du tir : Mr Housseau, Victor Garnier (Lavernat) 
 qui peut détruire les sangliers, cerfs, biches, renard et 
 René Huger de Chahaignes (père de Marcel qui habite Chahaignes)
-Louvetier : Mr de la Blanchère
+Louvetier : Mr de la Blanchère.
  
 ### La guerre : 
           
 En 1914, la chasse est interdite pour toutes les espèces de gibier (sauf le lapin).
-En 1915, La chasse au sanglier est placée sous le contrôle de Louis Marion, lieutenant de louveterie 
+En 1915, La chasse au sanglier est placée sous le contrôle de Louis Marion, lieutenant de louveterie.
+
 Entre 1916 et 1918, l’on voit de nouveau les battues et les chasses 
-à courre réapparaître par pure nécessité alimentaire (le chevreuil 
+à courre réapparaître par pure nécessité alimentaire *(le chevreuil 
 et la moitié du sanglier a été envoyé à l’ambulance, 
-le reste distribué aux tireurs et riverains).
+le reste distribué aux tireurs et riverains)*.
           
 ### Après guerre :
           
@@ -224,7 +225,7 @@ Aucune chasse à courre n’eut lieu pendant la période de la
  dernière guerre.
  
 ***Les louvetiers sont :***
- André Foneau - Jean Huger - d'Andigné.
+ André Foneau - Jean Huger - Marquis d'Andigné.
           
 Le général Madamet (Château du Ronceray) est autorisé à détruire
 du 1er avril au 30 juin 1946 huit sangliers et dix renards.
@@ -239,7 +240,7 @@ Les chasses ordinaires reprennent après 1947- ……
 actionnaire du lot allant de la Croix-Gorgeas à Grammont 
 (avant 1950) avec Chantoiseau, Pénard, Montebran.
           
-Le président de la « Société de Chasse à Tir de Bercé »,
+Le président de la **« Société de Chasse à Tir de Bercé »**,
 était Philippe du Trochet (Château de Segré) qui était
 aussi actionnaire de la scierie Adet. 
 Ils chassaient le lièvre. 
@@ -256,32 +257,35 @@ le bail est porté de 9 à 12 ans.
  
 ### De 1957 à 1967 
           
-Adjudicataire : Hernandez (Château du Loir): président de la 
-société intercommunale de chasse de Bercé *« 5 jours par semaine. 
+Adjudicataire : Hernandez (Château du Loir): président de **la 
+société intercommunale de chasse de Bercé** *« 5 jours par semaine. 
 Pas plus de deux jours de traque ou battue par semaine. 
 Nombre de fusils : 40. Lâchers de lièvres à réaliser pour le 
 repeuplement. Destruction des ramiers.»*
+
 *«Nomination d’un garde qui devra résider dans une commune 
 voisine de la forêt de Bercé et à proximité de la réserve de 
 chasses de 501,33ha comprenant le Pau, les Essarts, les Défaits,
 Mortier Rateau, Joriette, Haute Perche, Renardières, Profonds Vaux.»*
+
 Tir : Desfours  - Derré – Huger – Mercier.
           
 ### 1966 : 
      
-Les chasseurs se fédèrent en créant la société des chasseurs de la forêt de Bercé.
+Les chasseurs se fédèrent en créant **la société des chasseurs de la forêt de Bercé**.
           
 ### 1968 :
           
 le bail passe à 12 ans.
+
 Tir : Dupré (lot Est) – Dairon (lot mi-Est) -
       Bourbon (lot 6 - mi Ouest)-Vivet ( lot ouest)
  
 ### 1980 :
           
-Tir : ouest lot 1 Jean Louis Coupet– 
-      Centre lot 2 et 3 Marcel Dairon–
-      Est lot 4 Albert Letourneau.
+Tir : Ouest lot 1 : Jean Louis Coupet. 
+      Centre lot 2 et 3 : Marcel Dairon.
+      Est lot 4 : Albert Letourneau.
  
  
  
