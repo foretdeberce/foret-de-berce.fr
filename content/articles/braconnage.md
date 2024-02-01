@@ -30,20 +30,20 @@ un plaisir de chasser et une révolte sans fin.
 ### Braconnier… Un métier à risque:
 
 De tous temps, afin de punir les délinquants qui pillent leurs
-  réserves de bois, de gibier ou de poisson, les seigneurs rivalisent
-  d’imagination au détriment d’un petit peuple corvéable à merci, 
-  et qui pratique pour subsister, cette chasse du pauvre.
+réserves de bois, de gibier ou de poisson, les seigneurs rivalisent
+d’imagination au détriment d’un petit peuple corvéable à merci, 
+et qui pratique pour subsister, cette chasse du pauvre.
 
 {{<figure src="/images/articles/088b118.jpg" title="Étymologie du mot">}}
 
 ### Au 8ème siècle …
+
+Si Charlemagne faisait payer une amende qui correspondait au prix de 
+60 vaches *(impossible donc à honorer)* plutôt que de mutiler la main 
+d’œuvre, sous Guillaume le Conquérant, on brûlait les yeux de 
+celui qui tuait un sanglier.
   
-  Si Charlemagne faisait payer une amende qui correspondait au prix de 
-  60 vaches (impossible donc à honorer) plutôt que de mutiler la main 
-  d’œuvre, sous Guillaume le Conquérant, on brûlait les yeux de 
-  celui qui tuait un sanglier.
-  
-Plus tard…couper une main était encore un châtiment courant.
+Plus tard … couper une main était encore châtiment courant.
 
 {{<figure src="/images/articles/089b1265.jpg" title="Castration du gibier">}}
 
@@ -52,7 +52,7 @@ Plus tard…couper une main était encore un châtiment courant.
 
 Tuer un cerf était passible de mort. 
 Sous Henri III (1551-1589), le seigneur abaisse une branche du haut de son cheval ;	
-	ses valets en font une « hart » on y enserre le cou du délinquant, 
+	ses valets en font une *« hart »* on y enserre le cou du délinquant, 
 	et la branche se relève avec un fruit d’une toute nouvelle espèce. **(1)**
 
 
@@ -68,6 +68,7 @@ A cette époque la plupart des habitants des alentours de la forêt sont bûcher
 	
 Les corvées en nature foisonnent sur les routes ! Paysans et bêtes de somme
 	côtoient enfants de 15 ans et femmes. 
+ 
 La fable de La Fontaine, "La mort et le bûcheron", 
 	décrit parfaitement ces miséreux du 17ème siècle.
 
@@ -76,17 +77,23 @@ La fable de La Fontaine, "La mort et le bûcheron",
 Sous Louis XVI (1754-1793) on se contente ordinairement de le mettre au carcan 
 	et de lui imposer une lourde amende (exemple 100 livres pour avoir tiré
 	sur des pigeons qui ravagent son propre champ). 
+ 
 À cette époque, les chemins ruraux étaient impraticables, les paroisses voulaient
 	les réparer, mais l’intendant craignait que cela porte ombrage et 
 	préjudice à la rentrée des impôts. En 1770, seule la "Grand-route" 
 	du Mans à Tours est entretenue. 
+ 
 Le Haut-Maine dans sa partie ouest était couvert de bois, de landes, 
 	d’étangs marécageux  qui constituaient un terrain à peu près 
 	inculte, où le paysan du 18ème siècle, ignorant et mal outillé
-	ne pouvait faire pousser un épi.  Mais dans la nuit du 4 août 1789, 
+	ne pouvait faire pousser un épi. 
+ 
+Mais dans la nuit du 4 août 1789, 
 	les députés de l’Assemblée nationale constituante, dans un bel élan 
 	d’unanimité, proclament  l’abolition des droits féodaux, 
-	dont celui de la chasse. Le bien commun …prime enfin !
+	dont celui de la chasse.
+ 
+**Le bien commun …prime enfin !**
 
 ### Repenser la Chasse : 
 	Le braconnage comme droit naturel :
@@ -97,6 +104,7 @@ Le Haut-Maine dans sa partie ouest était couvert de bois, de landes,
   
 Les ouvriers bûcherons et sabotiers de la forêt de Bercé, se révoltent et
 	pillent les blés enfermés dans les greniers du domaine seigneurial. 
+ 
 À cette époque le Maine est devenu l’apanage du frère de Louis XVI : 
 	Monsieur le comte de Provence (futur Louis XVIII, dit le Désiré). 
 	Celui-ci ne se rend jamais au Mans ; c’est son intendant et tout 
