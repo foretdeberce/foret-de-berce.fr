@@ -7,7 +7,25 @@ featured_image: '/images/et.130585bj01.jpg'
 tags: ["Faune","Biodiversité","Chasse","Lois"]
 ---
 
-Chasser est pour l’homme un besoin inné et fondamental à sa survie.
+## Étymologie et Histoire ##
+
+Le mot "braconnier" a une origine incertaine, mais il est probablement dérivé du mot français "bracon" qui signifiait à l'origine "brasier" ou "feu de broussailles". 
+
+Au fil du temps, le terme a évolué pour désigner ceux qui chassaient illégalement sur des terres royales, souvent en utilisant des feux pour effrayer le gibier. 
+
+Ainsi, "braconnier" est devenu associé à la chasse illégale ou non autorisée. 
+
+**1178 broconnier** 
+Signifie *« veneur ou valet qui s'occupe des chiens de chasse »* (Renart, éd. Roques, v. 13401) et  1637 (Crespin, Le Thresor des trois langues);
+
+**1655 bracconier** *« chasseur qui chasse furtivement sur les terres d'autrui »* (Salnove, Vénerie, p. 150 dans La Curne). 
+Dérivé de bracon « braque » (1250, Roman d'Aubery), bracon (vers 1300 dans Rayn.);
+*bracon* est issu d'un gallo-romain. *braccóne* (braconem dans Lex Frisionum,  1552) correspondant. à l'accent germanique.
+*brakkon*; du nominé. *brakko* « chien de chasse » le fançais braque, vient de ce ce mot.
+
+
+**Chasser est pour l’homme un besoin inné et fondamental à sa survie.**
+
 Homo erectus a faim et désire plus de diversité dans son alimentation.
 Le cueilleur devient chasseur. De libre et naturelle, la chasse devient,
 au fil du temps, un privilège que s’octroie la noblesse, 
@@ -33,8 +51,6 @@ De tous temps, afin de punir les délinquants qui pillent leurs
 réserves de bois, de gibier ou de poisson, les seigneurs rivalisent
 d’imagination au détriment d’un petit peuple corvéable à merci, 
 et qui pratique pour subsister, cette chasse du pauvre.
-
-{{<figure src="/images/articles/088b118.jpg" title="Étymologie du mot">}}
 
 ### Au 8ème siècle …
 
