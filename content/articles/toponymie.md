@@ -394,6 +394,7 @@ dans son mémoire : «C’TE FORÊT»
 		CHANT au CERF * (CHAMP au SERF ?)
                 Chêne BOPPE ; Chêne POTEL ;      226
                 Chêne ROULLEAU de la ROUSSIÈRE ;       226
+		Chêne CHAPLAIN;                        226
                 Chêne MURIEL ; Rond de l’École Forestière de NANCY	226
 		BUISSON ROND * près Rond du Guignier	228
 
