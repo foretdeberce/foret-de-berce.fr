@@ -157,7 +157,10 @@ Quatre élèves étrangers, un belge, un danois, un grec et un roumain,
 {{<figure src="/images/articles/1897boppe.jpg" title="Rénovation de la pancarte du chêne Boppe">}}
 
 En 1897 les élèves de l'ENEF sont au chevet de la réfection de la pancarte. 
-La méthode est sportive et efficace.
+La méthode est sportive et efficace, tellement qu'elle sera encore utilisée
+en forêt de Réno-Valdieu.
+
+{{<figure src="/images/articles/reno.jpg" title="En forêt de Réno-Valdieu (Orne) vers 1950">}}
   
 ### En 1904 :
   
