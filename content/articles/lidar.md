@@ -9,7 +9,7 @@ tags: ["Tourisme","Archéologie","Aménagement","Sylviculture","Curiosités"]
 
 ### La forêt n'a pas toujours été là ...
 
-et elle n'est pas naturelle car entièrement façonnée par l'homme.
+Et elle n'est pas naturelle car entièrement façonnée par l'homme.
 
 La forêt est riche en éléments archéologiques et 
 les sites présents sont très bien conservés. 
@@ -209,7 +209,10 @@ Embarqué dans un avion, un scanner balaye d’impulsions
   
 Les coordonnées géographiques de millions de points sont ainsi 
   enregistrées. Après traitement informatique, seuls les points 
-  pris au niveau du sol seront conservés. 
+  pris au niveau du sol seront conservés.
+
+L'ONF pourra par la suite utiliser les données LIDAR pour exploiter 
+la couche supérieure qui lui indiquera les zones moins bien ou mieux poussantes.
   
 Ils permettront de créer un modèle numérique de 
   terrain et différents images en 3D. 
