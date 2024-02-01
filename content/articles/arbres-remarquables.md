@@ -65,8 +65,7 @@ Un autre chêne de 1 m 05 de diamètre fut exploité dans cette même parcelle e
 Peut être était-ce le chêne AJAM, du nom du député de la Sarthe qui prit position pour
 la sauvegarde du clos du chêne BOPPE le 18 novembre 1907 devant l’Assemblée Nationale. 
  
-Il est aussi fait mention du chêne Chaplain (ancien directeur général des Eaux et forêts)
- qui connaissait bien Roger Blais lui ayant préfacé son ouvrage sur la forêt.
+Il est aussi fait mention le 16 Avril 1937 du chêne CHAPLAIN (ancien directeur général des Eaux et forêts) qui connaissait bien Roger Blais lui ayant préfacé son ouvrage sur la forêt.
  
 {{<figure src="/images/articles/19790915chenegirafe.jpg" title="Le chêne Girafe de la parcelle 251 le 15 septembre 1979">}}
  
