@@ -635,7 +635,7 @@ Le garde Julien logeait à la «Maison Rose». Gobert à la Tasse,
 {{<figure src="/images/articles/120fgh12.jpg" title="Attaque nocturne d’un garde">}}
 
 
-**Braconnage durant la Guerre 1939/1945 :**
+
 
 
 **10 juillet 1939 :**
@@ -647,7 +647,7 @@ Disparition d’un faon en forêt –
   d’un faon vivant. Compte rendu transmis ce jour à M. l’inspecteur. » 
   (PIE André).*
   
-
+## Yves Camisy ##
 
 
 {{<figure src="/images/articles/camisy2024.jpg" title="Yves Camisy l'un des derniers affuteux">}}	
@@ -655,9 +655,11 @@ Disparition d’un faon en forêt –
 Le **« dernier affûteux »** en Sarthois … ou Affuteur, 
 ce droit qu’avaient les riverains de la forêt de **« repousser »**
 les animaux en toutes saisons et qui fut supprimé en 1968. 
+
 *(Marie-Claude Planchet - Chahaignes culture et loisirs – 2023)*
 
 {{<figure src="/images/articles/camisycarnuta.jpg" title="Camisy à découvrir au Musée de l'Homme et de la Forêt : Carnuta">}}	
+
 
 Les bons mots et proverbes d’Yves Camisy
 	
@@ -668,6 +670,8 @@ Les bons mots et proverbes d’Yves Camisy
  [Yves Camisy se confie à Louis Paul Ache](/articles/pdf/camisylouispaulache.pdf)
 
 {{<figure src="/images/articles/parcsangliers.jpg" title="Le parc du Bout du Clos">}}
+
+**Braconnage durant la Guerre 1939/1945 :**
 
 ### Seule l’administration française et l’armée d’occupation chassent en forêt.
 	
