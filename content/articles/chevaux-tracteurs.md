@@ -34,8 +34,8 @@ Voituriers, charretiers, fardiers, attelages, tous utilisent la plus
   Au tout début, seule la traction animale était capable de sortir les bois de la forêt. 
   Chevaux et charretiers formaient couples. 
   L’homme pouvait tout aussi bien se servir des bœufs, 
-  bêtes de somme par excellence dont la toponymie célèbre 
-  la gloire dans le canton du Tertre aux Bœufs.
+  bêtes de somme par excellence dont la toponymie en célèbre 
+  la gloire dans le canton du *Tertre aux Bœufs*.
 
 
 {{<figure src="/images/articles/128.jpg" title="Le débardage à cheval et son voiturier">}}
@@ -56,7 +56,7 @@ Nombreux au début du XXème siècle, les ateliers forestiers disparaissent
   le département, mais certains, dont celui qui passe en forêt fut 
   bien vite déclaré inutile : la voie est déposée. Ce rêve (coûteux) 
   n’aura duré que 13 petites années. Puis la fermeture de la ligne 
-  "le Mans/la Chartre" intervient en mars 1947. 
+  "le Mans/la Chartre" interviendra en mars 1947. 
   
   En voici quelques témoignages recueillis 
   auprès d’Henri Thénaisie le 1er février 1997.
@@ -72,7 +72,7 @@ Afin de protéger ses reins, il portera toujours bien ligotée une ceinture de f
 Clément son père, est charretier propriétaire. 
   
 En 1920 il avait un train de 4 chevaux et 2 limons, 
-tout comme Raymond Legeay *qui  savait moins bien y faire avec les chevaux *. 
+tout comme Raymond Legeay *qui  savait moins bien y faire avec les chevaux*. 
   
 Durant l’hiver après les ventes de bois (ventes qui avaient lieu à la Salle 
   des Concerts du Mans, jusqu’en 1979 puis à l'Abbaye de l’Épau par la suite),
@@ -106,8 +106,8 @@ Henri Thénaisie se souvient aussi avoir déménagé avec son père la scierie
      (petite tringle de bois), pour l’en faire descendre. 
 
 Les bois de charpente et bois d’œuvre étaient chargés par les débardeurs 
-  sous un fardier (Voiture à roues très basses qui sert au transport de 
-  charges très lourdes), aussi appelé diable ou triqueballe, avec pour 
+  sous un fardier *(Voiture à roues très basses qui sert au transport de 
+  charges très lourdes)*, aussi appelé diable ou triqueballe, avec pour 
   destination, la scierie ou la scierie mobile. André Ciret, né le 
   13 août 1921, avait pour débuter dans la profession neuf chevaux pour
   le débardage, couplés par quatre. Il passait la saison dans le balai
@@ -119,7 +119,7 @@ Les bois de charpente et bois d’œuvre étaient chargés par les débardeurs
 les premiers tracteurs font leur apparition sur le parterre des coupes. 
 Après la première guerre mondiale, le cheval fiscal arrive sur le massif. 
 Des démonstrations de tracteurs eurent lieu dans le canton du 
-Sault Moulin (en régénération), devant les inspecteurs et préposés.
+Sault Moulin *(en régénération)*, devant les inspecteurs et préposés.
 Rappelons que le tracteur à moteur à pétrole est une invention française 
 de 1849, que le tracteur à chenilles date de 1904 et que la formule diesel 
 n’est apparue qu’en 1929.
@@ -141,7 +141,7 @@ C’est à court terme le glas de nos valeureuses bêtes de somme et de leurs ch
 
 
 Mais le progrès a du mal à s’imposer en 1939, car les tracteurs à 
-chenillettes sont interdits par les forestiers de pénétrer en sous bois. 
+chenillettes sont interdits de pénétrer en sous bois par les forestiers (à l'époque sceptiques) . 
 
 Tel est l’objet de la réponse suivante à une demande d’emploi d’un tracteur automobile 
   de la part des établissements Paulin, adjudicataire de la coupe (article 71 de 1921).
@@ -182,7 +182,7 @@ Toute l’énergie de l’administration consiste alors  dans la gestion du pers
 
 {{<figure src="/images/articles/134.jpg" title="Le gazo de la maison Valentin  en 1940">}}
 
-Le "gazo" de la maison Valentin, sur la place de Chahaignes en 1940 
+Le **"gazo"** de la maison Valentin, sur la place de Chahaignes en 1940 
   (Émile vannier est photographié sur le pneu, à droite — Archives A. Vannier) 
   
   Dès 1928, on vente les mérites de la traction au bois, ainsi le garde Guiomard 
@@ -203,7 +203,7 @@ L’inspecteur des Eaux et forêts Viney, mandate le vétérinaire à Château-d
   monsieur Fefeu, afin de procéder à l'examen signalétique  de ces animaux avant
   leur transfert vers les forêts de la Sarthe et de l'Eure-et-Loir.
   
-Bon nombre d'agriculteurs, tel M. Sionneau (cultivateur à Château-du-Loir)
+Bon nombre d'agriculteurs, tel Monsieur Sionneau (cultivateur à Château-du-Loir)
   écrivent au préfet afin de pouvoir conserver au moins 1 des 2 chevaux mis en dépôt.
   Mais l'inspecteur des forêts a trop de demandes. Il est dans l'obligation de rapatrier
   tous les chevaux de l'administration, quitte à en vendre à la boucherie ou à des 
@@ -232,7 +232,7 @@ chevaux partent pour Senonches et Dreux, alors que le 22 octobre quatre
   chevaux étaient partis pour Perseigne avec matériel et harnachement : 
 1 charrette, 1 triqueballe, 1 chaîne de traits et 1 palonnier.
   
-Un cheval part pour Sillé-le-Guillaume ce même jour.
+*Un cheval part pour Sillé-le-Guillaume ce même jour*.
   
 ## 1941
   
@@ -271,7 +271,7 @@ Le salaire du charretier Bouzeau lui, passe de 900 à 1000 francs.
   
 ## En 1942 
   
-  l'administration des forêts fait l’acquisition d'un 
+L'administration des forêts fait l’acquisition d'un 
   tracteur et d’une  débroussailleuse.
   
 ### 18 juin 1942 : 
