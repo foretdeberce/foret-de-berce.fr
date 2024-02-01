@@ -509,7 +509,7 @@ Las des dégâts constatés depuis quelques années en et hors forêt,
   forestiers et agriculteurs recherchent le bon compromis et sollicitent 
   que les attributions de bracelets soient revues à la hausse.
   
-{{<figure src="/images/articles/20240131houx.jpg" title="Pied de houx écorcé par un cervidé parcelle 160 en janvier 2024">}}  
+{{<figure src="/images/articles/202401311houx.jpg" title="Pied de houx écorcé par un cervidé parcelle 160 en janvier 2024">}}  
 
 Au fil du temps, ces grands cervidés ont été chassés par le développement 
   agricole qui réduit ainsi leur aire d’accueil. La forêt les héberge 
