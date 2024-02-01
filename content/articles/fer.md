@@ -7,6 +7,18 @@ featured_image: "/images/et.ferrier.jpg"
 tags: ["Tourisme","Archéologie","Aménagement","Sylviculture","Exploitation"]
 ---
 
+
+### Au secondaire
+
+La région est sous les eaux. C’est la pleine époque du Cénomanien, les sables et argiles se déposent. 
+
+### Au tertiaire
+
+Retrait des océans, soulèvement des sols, érosion…,
+l'eau chargée d'oxydes de fer s'infiltre et se décante de 
+sa matière minérale dans les sables et argiles,
+en bancs irréguliers et discontinus.
+ 
  
 ### La forme et le fond :
 
@@ -20,38 +32,48 @@ Des buttes de tir, des trous de bombes, deux anciennes fermes phagocytées,
 des puits, une ligne de tramway, des emplacements de scieries mobiles, 
 des marques par millier sur les arbres, tout un paysage organisé……..
 
-C’est certain, la présence de l’homme est omniprésente dans cette forêt cathédrale.
+Lors de la baisse des océans, qui a généré les vallées, causant au passage le lessivage
+de ses sols, Bercé est colonisé par l'homme.
 
-Bercé, aujourd’hui très échancrée par endroit à cause du lessivage 
-des sols lors de la baisse des océans, est en forme de "fer à cheval", 
-mais son fond, ou plutôt son "tréfonds" lui a procuré très tôt
-le minerai nécessaire à son exploitation.
+**la présence de l’homme est omniprésente dans cette forêt cathédrale.**
 
-Voici donc le phénomène qui a permis l'émergence du fer dans le sous-sol du massif forestier.
+Son plateau est un excellent choix pour s'installer.
+Son limon des plateaux épais, *(sauf dans les vallées)* 
+offre à l'homme de bonnes perspectives de récolte.
 
-### Au secondaire
+**Mon scénario**
 
-La région est sous les eaux. C’est la pleine époque du Cénomanien, les sables et argiles se déposent. 
-
-### Au tertiaire
-
-Retrait des océans, soulèvement des sols, érosion…,
-l'eau chargée d'oxydes de fer s'infiltre et se décante de 
-sa matière minérale dans les sables et argiles,
-en bancs irréguliers et discontinus.
- 
 Les récentes découvertes  paléo métallurgiques sur le tracé sud de l'A 28, 
 confortées par la carte des sites forestiers en Bercé et du potentiel minier
 autour du massif, bouleversent les connaissances acquises jusqu'à présent
 sur le sujet, où seul le nord de la Sarthe apparaissait dans le paysage minier. 
 
+**Car l'homme en creusant ses mares, y a découvert le minerai.**
+
  En creusant ses mares, l'homme, curieux de nature, 
  avise ces petits nodules résistants et commence à les extraire. 
  Ce matériau de surface que l’on rencontre jusqu'à 7 m de profondeur, 
  permettra de favoriser l'essor économique de notre région jusqu'à l'aube du XX° Siècle 
- (un moulin à fer est relaté vers 1583 dans le « Vau du Puy »). **(1)**
+ *(un moulin à fer est relaté vers 1583 dans le « Vau du Puy »)*. **(1)**
  
- Un lieu-dit les forges existe entre Marigné et Laillé.
+Un lieu-dit les forges existe entre Marigné et Laillé.
+
+Le fond, ou plutôt son "tréfonds" lui a procuré très tôt
+le minerai nécessaire à sa propre exploitation.
+
+
+Les mares ne suffisant plus, il creusera des puits, au grand dam de l'espace forestier.
+
+Mais bien vite après des millénaires d'exploitation, 
+les rendements agricoles chutent, faute d'amendements.
+Il a fallu regagner les pentes, laisser la forêt regagner le plateau 
+et brûler le jeune bois de ces parcelles forestières car les cendres 
+contiennent la potasse nécessaire à l'enrichissement des sols.
+Plus tard au 19ème siècle, l'homme creusera des puits pour en extraire 
+la marne qui sera épendue dans les champs.
+
+Bercé, aujourd’hui est très échancrée par endroit, la population croissant et l'homme
+recherchant à accroître ses surfaces pour nourrir ses enfants.
 
 
 ### Extraction du minerai
