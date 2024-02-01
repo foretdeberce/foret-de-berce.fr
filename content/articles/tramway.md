@@ -107,7 +107,7 @@ Réponse de François Louis Marsac:
   par tous les marchands de cette localité à des prix supérieurs
   à ceux réalisés aujourd'hui.*
 
-**5°)**  *Et enfin (**mais cette phrase est rayée par Marsac**), ceci est peut-être
+**5°)**  *Et enfin*(mais cette phrase est rayée par Marsac), *ceci est peut-être
   mi-personnel, mi-forestier, parce qu'en passant par Marigné, il va paraît-il 
   avoir pour conséquence d'y faire établir un bureau de poste.*
 
@@ -174,8 +174,8 @@ En réunion de brigade, griffage des arbres sur le passage du tramway.
 	
 L'emprise se dessine progressivement en forêt, matérialisée par des
   traits de peinture rouge. 
-A la Lune, le vieux rougi 
-  (peinture du cloisonnement) est enlevé et rectifié en novembre.
+A la Lune, le vieux rougi *(peinture du cloisonnement)*
+est enlevé et rectifié en novembre.
 
 ### 18 août 1911 : 
 
