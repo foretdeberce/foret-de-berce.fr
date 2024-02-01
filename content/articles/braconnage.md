@@ -45,7 +45,6 @@ celui qui tuait un sanglier.
   
 Plus tard … couper une main était encore châtiment courant.
 
-{{<figure src="/images/articles/089b1265.jpg" title="Castration du gibier">}}
 
  
 ### Au 16ème siècle …
