@@ -56,8 +56,10 @@ et procède à la  pose d’une clôture de bois autour du fameux chêne.
 ### Un chêne sous perfusion  	
 	
 Le 4 novembre 1929 comptage en brigade des arbres de la parcelle A3 des Clos. 
+
 Circonférence trouvée le 26 février 1930 par Mr. Poskin 4,37m.
 Cette même année, essais de divers engrais.
+
 Le chêne Boppe mesure en 1931 : 4,410m ! 
 Soit 4 cm sur la circonférence ou 12,7 mm sur le diamètre.
 Un record compte-tenu d’une croissance moyenne en diamètre 
@@ -125,7 +127,7 @@ Mort annoncée du Chêne Boppe
 
 ### L’avis de l’administration :
 
-Potel « l’inspecteur Forestier ‘Légiste’»
+Potel « l’inspecteur Forestier **‘Légiste’**»
 relate dans le journal de la Société d’Agriculture (Fév.1935) 
 
 *Les débris de bois provenant de cette formidable blessure, 
@@ -146,7 +148,7 @@ Raymond Viney (inspecteur des Eaux et forêts)
 forme d'orage pour tuer le Chêne Boppe. Vers 15 heures, 
 un coup de tonnerre formidable déchirait l'air et
 18 éclairs descendaient du Ciel.
-Trois frappèrent le Chêne Boppe et secouèrent " les Clos ".
+Trois frappèrent le Chêne Boppe et secouèrent "les Clos".
 Quinze autres foudroyèrent ensemble 15 Chênes voisins des "Clos"*.  
 	
 Le vieux chêne "Boppe" (4m41 de circonférence) est foudroyé. 
@@ -212,10 +214,11 @@ et Hervé dit "Pape" eurent raison, en un instant, du géant.
 ***275 ans ? - 385 ans ? - 485 ans ?*** 
 
 C’est l’âge du chêne Boppe avancé sur certaines cartes postales
-(celles ci faisaient état d’un âge approximatif en 1922
+*(celles ci faisaient état d’un âge approximatif en 1922
 de 235 ans + 150 ans= 385 ans : 235 ans étant l’âge supposé du
 peuplement situé autour du chêne Boppe et 150 ans l’âge auquel 
-celui ci avait été, semble-il, anciennement régénéré.)
+celui ci avait été, semble-il, anciennement régénéré.)*
+
 Une publication de l’inspecteur Potel concerne l’âge probable du chêne Boppe : 
 	
 {{<figure src="/images/articles/boppeage.jpg" title="l’âge du Boppe est affiché sur les cartes">}}
@@ -234,10 +237,10 @@ La plus vieille futaie de France (...jusqu'à preuve du contraire !...)
 
 ### Le 22 juillet 1935 
 	
-*en brigade avec Mr l’inspecteur adjoint, 
+*En brigade avec Mr l’inspecteur adjoint, 
 assisté à  l’abatage du chêne Boppe. Constaté que cet arbre était
-âgé approximativement de 260 ans ». (il faut savoir que l’âge a été compté
-au niveau des rondelles, c'est-à-dire à une hauteur de 1m30)*.
+âgé approximativement de 260 ans »*. (il faut savoir que l’âge a été compté
+au niveau des rondelles, c'est-à-dire à une hauteur de 1m30).
 
 Ce ne sera donc qu’après l’abatage du chêne Boppe que Potel
 effectuera auprès de ses pairs et de la société civile,
@@ -299,7 +302,7 @@ avait vite fait de maigrir d’un bon mètre en longueur.
 {{<figure src="/images/articles/boppe1.jpg" title="Dans son sanctuaire crayonné par Melle Letourneur">}}
 
 
-{{<figure src="/images/articles/boppe0959calvel.jpg" title="Son abri en 1959—photo Calvel">}}
+{{<figure src="/images/articles/boppe0959calvel.jpg" title="Son abri en 1959 — photo Calvel">}}
 
 ## Autres articles concernant les officiers forestiers : ## 
 
