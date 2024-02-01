@@ -41,11 +41,13 @@ Le droit de chasse exclusif du propriétaire terrien et la constitution de vaste
  
 *Le peuple, lui, pendant ce temps, subit la destruction de ses récoltes  par les cervidés, sangliers, lapins et les prédateurs: loups renards, (seuls les louvetiers agréés par le seigneur peuvent chasser).  Les délits seront donc fréquents, tout comme le braconnage : les paysans chassent le petit gibier, à l'aide de pièges ou collets, pour se protéger, se nourrir ou commercialiser la viande et les peaux.*
  
-### Fini aussi le XIème siècle :
+### Au XIème siècle :
 
   Souvenez-vous du propriétaire du château des Étangs, Gervais de Château-du-Loir,
   nommé archevêque de Reims, qui fit construire devant la Cathédrale un immense 
   cerf en bronze en l’honneur des chasses anciennes en Sarthe.
+
+ [Le Cerf de Gervais à Reims, un bon souvenir du passé à Bercé](/articles/pdf/cerfdegervais.pdf)
   
 À partir de la révolution conduisant à l'abolition des privilèges 
   dans la nuit du 4 août 1789, le domaine semble loué ….démocratiquement ! 
