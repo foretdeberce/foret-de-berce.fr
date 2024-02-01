@@ -15,7 +15,7 @@ Cette longévité permet d’avoir de gros et grands arbres,
 particulièrement intéressants pour les pics et autres oiseaux cavernicoles, 
 ou pour les insectes xylophages, en particulier ceux qui utilisent les plus 
 grosses cavités des arbres creux  remplis  de  terreau, 
-tel le célèbre Pique-prune « Osmoderma  Eremita » qui stoppa net la construction de l’A28. 
+tel le célèbre Pique-prune *« Osmoderma  Eremita »* qui stoppa net la construction de l’A28. 
 Les chiroptères bénéficient à Bercé de cet environnement
 d’arbres creux et de cavités naturelles dans le tuffeau. Ils s’en portent à merveille ! 
 
