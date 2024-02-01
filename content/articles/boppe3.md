@@ -8,17 +8,18 @@ tags: ["Tourisme","Arbres","Chênes","Toponymie","Hommes"]
 ---
 
 
-Un nouveau roi est appelé à régner et non …. araignée !
+**Un nouveau roi est appelé à régner !**
+
 Le service forestier dans le cadre de la montée en
 puissance du tourisme vert, prévoit de baptiser 
 le 14 juillet 1935 un nouveau chêne Boppe, non loin
-de son devancier (maigre … 87 cm de diamètre) mais très
-droit et très élancé (la plus grande hauteur sous branche).
+de son devancier *(maigre … 87 cm de diamètre et 2m73 de circonférence)*
+mais très droit et très élancé *(la plus grande hauteur sous branche)*.
 Le rapprochement de l’A.C.O. (tourisme) et de
 l’Union syndicale des marchands de bois de la Sarthe
 sera scellé par cette cérémonie d’intronisation du nouvel
-arbre qui se déroulera à l’occasion du "9ème rallye 
-international des carburants de remplacement". 
+arbre qui se déroulera à l’occasion du *"9ème rallye 
+international des carburants de remplacement"* Sponsoring oblige !. 
 
 {{<figure src="/images/articles/086b3.jpg" title="Le nouveau chêne Boppe">}}
 
@@ -28,11 +29,8 @@ international des carburants de remplacement".
 Une semaine avant l’événement, l’inspecteur Viney 
   fixe les détails de la cérémonie :
   
-  [Organisation du Baptême du nouveau chêne Boppe](/articles/pdf/notedeviney80735.pdf) 
+[Organisation du Baptême du nouveau chêne Boppe](/articles/pdf/notedeviney80735.pdf) 
   
-Le 14 juillet 1935, le nom de Boppe passe d’un chêne à l'autre (plus maigre).
-Inauguration du nouveau chêne Boppe, (87 cm de diamètre soit 2m73 de circonférence)… 
-  mais le plus haut sans branches très droit, très élancé. 
   
 Il faudra attendre le 25 mai 1961, pour qu’Émile Ballion 
   livre au nouveau chêne Boppe une clôture bois en protection.
@@ -47,12 +45,11 @@ Il faudra attendre le 25 mai 1961, pour qu’Émile Ballion
  
 {{<figure src="/images/articles/boppe20142.jpg" title="La croissance comparée des deux Boppe">}}
   
-Voici un petit graphique qui montre le déclin du 
-  vieux chêne face à son rival (de même âge)
+Voici un petit graphique qui montre le déclin de l'ancien vieux chêne face à son rival (de même âge)
   
   
-Depuis elle passionne les scientifiques tel 
-  ce document concernant son étude.
+Depuis l'étude de la parcelle n'en finit pas de passionner les scientifiques.
+... Tel ce document
   
 La futaie des Clos : … un peuplement remarquable 
   
