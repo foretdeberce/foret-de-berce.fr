@@ -15,7 +15,7 @@ est une haute futaie de chênes et hêtres en mélange,
 avec des parties moins riches en pins.
 
 Bercé c’est l’ancienne forêt Royale, peuplée principalement
-par Le Grand Colbert, de chênes bien venants.  
+par le Grand Colbert, de chênes bien venants.  
 
 Aux dires de la dernière campagne de mesures de l’ONF,
 ces chênes sembleraient être les plus hauts de France
@@ -83,83 +83,86 @@ considérable de promeneurs dans ce joli coin de la
 
 Un spectateur décrit dans l’Ouest Éclair du 25 juin 1926, la sortie 
   des Bretons de la Sarthe en forêt de Bercé.
-Lorsque la Société amicale des Bretons de la Sarthe envisage une 
+  
+*Lorsque la Société amicale des Bretons de la Sarthe envisage une 
   réjouissance, son Comité des fêtes a toujours entière confiance
   dans l'allant et l'entrain de tous les membres et aussi dans la 
-  bonne étoile qui veut bien guider toutes leurs fêtes.
+  bonne étoile qui veut bien guider toutes leurs fêtes.*
  
-La réussite de la belle excursion de dimanche dernier a, une fois 
+*La réussite de la belle excursion de dimanche dernier a, une fois 
   de plus, confirmé cette confiance, tant par le nombre des
   excursionnistes que par le beau soleil qui brilla toute la journée.
 Dès vendredi soir, malgré le mauvais temps, plus de 150 Bretons 
   confiants dans la clémence de la nature avaient donné leur adhésion
   à cette promenade et c'est près de 200 excursionnistes qui partirent
-  le dimanche matin à 7 h30 par le tramway spécial retenu par le Comité.
+  le dimanche matin à 7 h30 par le tramway spécial retenu par le Comité.*
  
-**Que dire du voyage?** Sinon qu'il fut charmant, tant par le paysage
+**Que dire du voyage?** 
+
+*Sinon qu'il fut charmant, tant par le paysage
   admirable à travers lequel il se déroula, que par la bonne humeur
   et la gaieté de tous ces Bretons réunis encore une fois avec la
-  seule pensée et le seul souci de bien rire et de bien s'amuser.
+  seule pensée et le seul souci de bien rire et de bien s'amuser.*
+  
 
-Après quelques minutes d'arrêt à Téloché et Marigné pour dégourdir 
+*Après quelques minutes d'arrêt à Téloché et Marigné pour dégourdir 
   les jambes et se reconnaître de wagons à wagons, voici Pruillé-l'Eguillé
   et l'entrée de cette superbe forêt de Bercé, au centre de laquelle 
-  se trouvent les Sources de l'Hermitière, but de cette excursion. 
+  se trouvent les Sources de l'Hermitière, but de cette excursion.* 
 
-*« Bretons aux cœurs tendres et aux âmes héroïques »*, pour employer
+*« Bretons aux cœurs tendres et aux âmes héroïques », pour employer
   l'expression même de votre bon poète breton, le barde Théodore Botrel,
   n'avez-vous pas entendu dès ce moment dans les hauts branchages de
-  notre forêt Sarthoise, l'écho des forêts de chez vous ?
+  notre forêt Sarthoise, l'écho des forêts de chez vous ?*
 
-C’était l'accueil de la Sarthe à la Bretagne qui vous a du reste si 
+*C’était l'accueil de la Sarthe à la Bretagne qui vous a du reste si 
   bien été confirmé par la Société de tir de Jupilles qui partageait 
-  avec vous les joies de cette journée. 
+  avec vous les joies de cette journée.* 
   
-Ma plume est réellement impuissante à peindre le pittoresque de 
+*Ma plume est réellement impuissante à peindre le pittoresque de 
   votre repas champêtre dans le cadre merveilleux choisi par votre
   Comité et il m'a semblé que les oiseaux eux-mêmes se recueillaient 
   sous bois pour mieux écouter vos éclats joyeux, pensant sans doute 
   que votre gaieté leur apportait enfin le doux soleil d'un 
-  printemps trop longtemps attendu. 
+  printemps trop longtemps attendu.* 
 
-Ce repas joyeux était à peine terminé que les auditeurs arrivaient
+*Ce repas joyeux était à peine terminé que les auditeurs arrivaient
   déjà nombreux pour le concert annoncé, les uns à pied ou a bicyclette
   et les autres en automobile ou en moto. Je voudrais pouvoir 
   m'étendre longuement sur les détails de ce magnifique concert dont
   on conservera, j'en suis sûr, longtemps le souvenir et qui fut présidé
   par **M. POTEL**, inspecteur général des Eaux et Forêts, à qui, du reste, 
   je crois m'en rappeler, revient le mérite d'avoir découvert dans notre 
-  forêt le cadre naturel et inimitable où se trouve montée la scène de verdure. 
+  forêt le cadre naturel et inimitable où se trouve montée la scène de verdure.* 
 
-Je veux tout d'abord pour l'organisation de ce théâtre, adresser mes 
+*Je veux tout d'abord pour l'organisation de ce théâtre, adresser mes 
   compliments à la très florissante société de tir de Jupilles et son 
   dévoué président **M. DORIZON**, qui n'avaient rien négligé pour la 
   réussite de cette fête; mais je dois aussi de grandes félicitations à
   la Société amicale des Bretons de la Sarthe et à son actif président 
   **M. LEMONNIER** qui ne craint jamais ni son temps ni sa peine quand
-  il s'agit de l'élaboration d’un programme. 
+  il s'agit de l'élaboration d’un programme.* 
 
-La belle pléiade d'artistes que cette société a le bonheur de posséder 
+*La belle pléiade d'artistes que cette société a le bonheur de posséder 
   fut comme toujours au-dessus de tout éloge et pour être juste il me 
   faudrait en les nommant les nommer tous. Un brillant orchestre dirigé
   avec maîtrise et talent par **M. FORESTIER**, professeur de musique 
   au Mans et membre de l'Amicale Bretonne, tint sous le charme à chacun 
-  des morceaux les auditeurs enthousiasmés. 
+  des morceaux les auditeurs enthousiasmés.* 
 
-Au piano d'accompagnement, l'aimable et fidèle accompagnatrice des Concerts
+*Au piano d'accompagnement, l'aimable et fidèle accompagnatrice des Concerts
   de la Société Amicale des Bretons, **Mlle MERCIER**, fut comme chaque fois 
-  l'artiste parfaite que nécessite cette tâche ingrate. 
+  l'artiste parfaite que nécessite cette tâche ingrate.* 
 
-Bretons, mes amis, je suis sûr que cette journée de Jupilles comptera
+*Bretons, mes amis, je suis sûr que cette journée de Jupilles comptera
   parmi les meilleures dans les annales de votre société que je connais
-  cependant comme en ayant déjà de bien bonnes à son actif.
+  cependant comme en ayant déjà de bien bonnes à son actif.*
 
-
-> J'ai souvent entendu dire que le mot *« impossible n'était pas français »*, 
+*J'ai souvent entendu dire que le mot *« impossible n'était pas français »*, 
   mais je suis maintenant certain qu'il n'a pas sa traduction en breton 
-  après avoir vu la réalisation de la fête du 20 juin. 
->
-> -- **Un spectateur**
+  après avoir vu la réalisation de la fête du 20 juin.*
+  
+ **Un spectateur**
 
 ### Ouest Éclair du 25 aout 1926
 
@@ -250,71 +253,71 @@ Dans la nuit, les trompes de chasse sonnèrent le départ, les autos-cars
 
 **117e Régiment d'Infanterie** 
 
-Dimanche, malgré l'inclémence du temps, les anciens du 117ème,
-  pour être fidèles à leur programme, partaient en excursion en forêt de Jupilles. 
+*Dimanche, malgré l'inclémence du temps, les anciens du 117ème,
+  pour être fidèles à leur programme, partaient en excursion en forêt de Jupilles.*
 
-Les écluses célestes largement ouvertes, auraient fait reculer de moine audacieux.
+*Les écluses célestes largement ouvertes, auraient fait reculer de moine audacieux.
 Certes, on se lamentait bien un peu avant le départ, quelques mines étaient 
   moroses, mais une large distribution de « trompettes en bois, contribua 
-  largement à dérider tes plus enclins à la tristesse.
+  largement à dérider tes plus enclins à la tristesse.*
   
-Dès le départ chacun soufflant à qui plus fort dans sa « pépète », 
+*Dès le départ chacun soufflant à qui plus fort dans sa « pépète », 
   une cacophonie assourdissante amena de suite, une atmosphère de saine
-  gaieté tout au long de notre caravane de voitures.
+  gaieté tout au long de notre caravane de voitures.*
  
-Naturellement, il faudra renoncer au déjeuner sur l'herbe, mais tout était prévu...
+*Naturellement, il faudra renoncer au déjeuner sur l'herbe, mais tout était prévu...
   même la pluie, et l'ami BIGNON, de Jupilles, nous avait réservé sa grande salle 
-  en cas de mauvais temps. 
+  en cas de mauvais temps.* 
 
-On fait néanmoins un tour en forêt, les plus audacieux n'hésitent pas, 
+*On fait néanmoins un tour en forêt, les plus audacieux n'hésitent pas, 
   malgré la pluie à aller visiter, les sites les plus remarquables. 
-  Puis Jupilles est atteint à l'heure de l’apéritif.
+  Puis Jupilles est atteint à l'heure de l’apéritif.*
   
-Les binious sortent de leurs gaines, et de suite un concert est organisé.
+*Les binious sortent de leurs gaines, et de suite un concert est organisé.
 Mais les estomacs crient famine, on passe à table. Notre maître queux
   CHEVALLIER, nous avait préparé un menu pantagruélique autant que délicat,
-  auquel il fut largement fait honneur.
+  auquel il fut largement fait honneur.*
   
-Et la pluie tombait toujours.
+*Et la pluie tombait toujours.*
  
-A table, on ne pense plus au mauvais temps, on s'amuse, les rires fusent de 
+*A table, on ne pense plus au mauvais temps, on s'amuse, les rires fusent de 
   toutes parts l'exubérance est générale.
 A la fin du repas la parole est aux chanteurs. Tour à tour. Mme TAILLARD, MM. ROCHER, 
   SALMON, TOURNESAC et l'ami BOURDON  d'Ecommoy, avec sa flûte à 35 sous, 
-  se firent applaudir, et méritent largement les bans chaleureux, dont ils furent gratifiés.
+  se firent applaudir, et méritent largement les bans chaleureux, dont ils furent gratifiés.*
 
-Puis l'orchestre s'installe et une sauterie s'organise rapidement...
-  il pleut toujours, et les couples tournent, tournent sans se lasser. 
+*Puis l'orchestre s'installe et une sauterie s'organise rapidement...
+  il pleut toujours, et les couples tournent, tournent sans se lasser.* 
 
-Mais le ciel gagné peut-être par notre exubérance nous adresse le sourire de son soleil, 
+*Mais le ciel gagné peut-être par notre exubérance nous adresse le sourire de son soleil, 
   sourire bien pâle sans doute, mais il fait que la pluie cesse. 
-  Alors s'organise à l'extérieur, une farandole endiablée. 
+  Alors s'organise à l'extérieur, une farandole endiablée.* 
   
-Puis c'est la traditionnelle pose devant le photographe. Le sympathique groupement
+*Puis c'est la traditionnelle pose devant le photographe. Le sympathique groupement
   des voyageurs de commerce de la Sarthe en excursion comme nous, vient nous rendre visite,
-  c'est une occasion de plus de trinquer à la prospérité de nos deux associations. 
+  c'est une occasion de plus de trinquer à la prospérité de nos deux associations.* 
 
-Mais l'heure s'avance il faudra songer au retour, on dine rapidement, 
+*Mais l'heure s'avance il faudra songer au retour, on dine rapidement, 
   un tour de chant, on danse un peu et c'est le départ, bruyant autant que 
   l'on peut croire. Peu après Parigné-l'Evêque, un pneu qui vient de rendre l'âme, 
   nous donne l'occasion de descendre de voitures, et l'orchestre nous convie 
-  à une sauterie en pleine campagne, sur la route même. 
+  à une sauterie en pleine campagne, sur la route même.* 
 
-Enfin on arrive au Mans chez BLOT où doit avoir lieu la dislocation. 
+*Enfin on arrive au Mans chez BLOT où doit avoir lieu la dislocation. 
   Tout le monde est heureux d'avoir passé une agréable journée, malgré un 
   temps qui ne faisait présager rien de bon. L'Amicale enregistre un 
   succès de plus, à son actif, succès dû à l'activité inlassable de notre
   comité des Fêtes, lequel voudra bien trouver ici, 
-  l'expression de nos plus chaleureux remerciements.
+  l'expression de nos plus chaleureux remerciements.*
 
-Je n'oublierai pas non plus le papa CHEVALIER qui s'est dépensé sans compter,
+*Je n'oublierai pas non plus le papa CHEVALIER qui s'est dépensé sans compter,
   pour nous préparer un menu délicieux; M. TAILLARD, qui avait mis gracieusement
   à notre disposition, tout le matériel nécessaire a notre pique-nique. 
   Que  M. BIGNON, de Jupilles, reçoive également nos remerciements les plus 
-  sincères pour la cordiale hospitalité qu'il nous a réservée. 
+  sincères pour la cordiale hospitalité qu'il nous a réservée.* 
 
-Enfin pour terminer en reprenant le jeu gue l'ami TOURNESAC apprenait à nos
-  jeunes filles, pour leur plus grande joie, je résume d'un trait, notre sortie : 
+*Enfin pour terminer en reprenant le jeu gue l'ami TOURNESAC apprenait à nos
+  jeunes filles, pour leur plus grande joie, je résume d'un trait, notre sortie :* 
 
 **Cent dix sept, c'est épatant, tant ils s'amusent ...muses ...et hommes !!!**
 
