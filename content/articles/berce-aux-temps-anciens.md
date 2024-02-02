@@ -11,7 +11,7 @@ tags: ["Histoire","archeologie","toponymie"]
 
 À mi chemin entre Le Mans et Tours, lambeau de l’antique forêt de la gaule chevelue, 
 Bercé n’a pas, au fil du temps, échappé aux défrichements.
-Déclaré "Res nullius", l'espace forestier ou non est alors une terre sans maître, 
+Déclaré *"Res nullius"*, l'espace forestier ou non est alors une terre sans maître, 
 qui n'est possédée par personne mais que se disputent tous les usagers.
 Les traces néolithiques, les minières gallo-romaine et les enclos moyenâgeux
 jalonnent alors cet espace sauvage. 
@@ -47,7 +47,7 @@ aussi le début des grands défrichements médiévaux.
 
 Sur Bercé, plus de 160 enclos sont recensés, terre rejetée à l'intérieur 
 de la possession, formant talus, opposant par là même un double 
-obstacle à l'intrus. Rassemblés en "en grappe", situés sur les hauteurs fertiles,
+obstacle à l'intrus. Rassemblés en *"en grappe"*, situés sur les hauteurs fertiles,
 les enclos se dotent d'un point d'eau et d'un accès aisé. De quelques ares à 
 plus de cinquante hectares, la disparité des surfaces en dit long sur 
 la hiérarchisation des possesseurs. 
@@ -59,14 +59,18 @@ bêtes a creusé et raviné des chemins, laissant çà et là des traces indél�
 le *"Coin des fossés"* (ancien canton de 1783 situé Parcelles 241 et 242), 
 véritable passage obligé de toute une époque en fond de vallon.
 
-### Au 12e siècle, la forêt est ratachée aux possessions de la couronne d’Angleterre.
+### Au 12e siècle :
 
-Elle redevint forêt royale en 1337. Réserve royale de chasse et grevée de droits divers, 
-elle est traitée depuis 1669 (date de la grande réformation des forêts par Colbert) 
+La forêt est ratachée aux possessions de la couronne d’Angleterre.
+
+Elle redevint forêt royale en 1337. 
+Réserve royale de chasse et grevée de droits divers, 
+elle est traitée depuis 1669 *(date de la grande réformation des forêts par Colbert)* 
 en futaie régulière de chênes et de hêtres.
 
 Bercé, à cette date et contrairement à 
-beaucoup d'autres, est en bon état et n'a pas trop souffert d'abus. 
+beaucoup d'autres, est en bon état et n'a pas trop souffert d'abus, 
+du fait d'un réseau routier manquant. 
 
 ### La féodalité et le clergé garants du patrimoine
 
@@ -76,7 +80,7 @@ Des maisons seigneuriales et des logis, il y en avait dans chaque villages.
 Les abbayes jouissaient du terrain qui leur était accordé.
   
 
- {{<figure src="/images/articles/grammont.jpg" title="L'abbaye de Grammont au nord de Bercé">}}
+{{<figure src="/images/articles/grammont.jpg" title="L'abbaye de Grammont au nord de Bercé">}}
 
    
 Nombre de logis et châteaux d'églises et de maisons ont utilisé pour 
@@ -93,6 +97,8 @@ Hilarion de Fromentière, seigneur des Étangs est du fait
 de sa charge de gestionnaire de la forêt royale de Bercé,
 intimement lié à ce terroir.   
 
+[Le château des Étangs l'Archevêque](/articles/pdf/chateau-archeveque.pdf) 
+
 Au nombre des importantes forêts visitées par les réformateurs de Colbert, 
 se trouvait la forêt de Bercé (Maine).
 La mission s'y transporta le mardi 8 octobre 1669 et y resta jusqu'au 17 
@@ -108,11 +114,11 @@ de la maîtrise de Château-du-Loir.
 
 Les forestiers de 1669 n'avaient qu'à être les continuateurs de leurs devanciers
 dans l'exécution des prescriptions de la nouvelle ordonnance de Colbert qui ne
-faisait elle-même que confirmer le régime à tire et aire **(1)** et les modes de
+faisait elle-même que confirmer le régime à **tire et aire (1)** et les modes de
 repeuplement recommandés pour les futaies par les ordonnances antérieures,
 notamment par celle de Charles IX, de 1573.
 
-•	 **(1)** Tire et aire : méthode ancestrale d’exploitation pratiquée en réalisant
+•	 **(1) Tire et aire :** méthode ancestrale d’exploitation pratiquée en réalisant
 des coupes de proche en proche (« à tire ») et des coupes rases d’égale surface
 (« et aire »), avec ou sans réserve de semenciers à cette époque.
 La forêt à l’époque n’était pas divisée en parcelles.
@@ -123,7 +129,7 @@ Ils arrivèrent aussi à augmenter la forêt d'environ 1200 hectares, fait qui d
 rare dans l'histoire des forêts domaniales* (Potel). 
   
 
-  {{<figure src="/images/articles/nouveauxensemences.jpg" title="Acquisition des nouveaux ensemencés de 1723">}}
+{{<figure src="/images/articles/nouveauxensemences.jpg" title="Acquisition des nouveaux ensemencés de 1723">}}
 
 Ainsi des arrêts du conseil du roi (lettres patentes des 13 et 25 septembre 1723) ordonnèrent,
 la réunion au corps de la forest de Bercé appartenant à sa majesté et le reboisement des landes 
@@ -136,8 +142,9 @@ Le reste est acquis en 1723 (Landes de Grammont et de Haute Perche).
 
 ### A la révolution, Bercé fait partie de l'apanage de Monsieur : 
 
-Louis XVIII le Désiré .
-En 1791, elle passe dans le domaine de l'État.
+Louis XVIII le Désiré en reçoit les subsides.
+
+**En 1791**, elle passe dans le domaine de l'État.
 L'âge d'exploitabilité des chênes, abaissé de 200 à 100 ans en 1783, 
 est heureusement ramené à 150, puis 180 ans avant la fin du 18e siècle.
 
@@ -161,13 +168,13 @@ l'un des plus beaux fleurons du patrimoine forestier français.
   
   
 L'âge d'exploitabilité des chênes qui était il y a peu de 240 ans 
-a été ramené au dernier aménagement à 180 ans.
+a été ramené au dernier aménagement de 2006 à 180 ans.
 Le bois d’œuvre de chêne de Bercé a acquis au fil du temps, 
 une réputation mondiale, peu d'aubier, grain fin, belle  
-couleur claire, qui le fait rechercher pour l'ébénisterie et le tranchage
+couleur claire *(rose saumon)*, qui le fait rechercher pour l'ébénisterie et le tranchage
 (fabrication de placage de moins de un millimètre d'épaisseur).
 
-Aujourd'hui Bercé est avant tout un cru pour la tonnellerie qui lui redonne 
+Aujourd'hui Bercé est avant tout un cru de prestige pour la tonnellerie qui lui redonne 
 ses lettres de noblesse et lui fait renouer avec ses racines Gauloises.
   
 
@@ -176,7 +183,7 @@ ses lettres de noblesse et lui fait renouer avec ses racines Gauloises.
 
 ### Bibliographie : 
   
-Bercé, une forêt d’exception (Y. Gouchet  - 2018)
+Bercé, une forêt d’exception (Y. Gouchet - 2018)
 
 
 
