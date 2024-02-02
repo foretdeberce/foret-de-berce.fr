@@ -33,7 +33,7 @@ domaine de surveillance des Eaux et Forêts.
 Dans leur tournée, les gardes s'arrangeront pour faire certifier
 leurs passages sur les cours d'eau , par telle autorité qui leur conviendra.
 Ces certificats seront préparés d'avance, par les soins du Garde de façon à 
-ce que l'Agent qui certifie n'ait qu' à dater, signer et mettre le nom de la localité. *
+ce que l'Agent qui certifie n'ait qu' à dater, signer et mettre le nom de la localité.*
 
 
 ### En 1898 :
@@ -100,7 +100,7 @@ signé : de Verely , (inspecteur des E & F au Mans)
          + Déjeuner : 1 F 30   
       soit un Total : 1 F 50
       
-**Ordre du 6 novembre 1900
+**Ordre du 6 novembre 1900**
 	*Je tiens à ce que les Préposés de l'Inspection, aient la 
 	connaissance des faits qui ont motivé, l' avancement et 
 	les récompenses attribuées au Garde Albrecht.	
@@ -136,7 +136,7 @@ ou faute de quoi, il leur serait dressé Procès-verbal à la
 
 {{<figure src="/images/articles/barrage.jpg" title="Surveillance d'un barrage">}}
  
-Juillet 1902 : 
+### Juillet 1902 : 
 	
 	il n’y a plus d'écrevisses dans le ruisseau de Vaux
 	depuis plusieurs années. (garde  Albrecht)
@@ -167,7 +167,7 @@ Les tournées se succèdent : En 1906, le 23 mai le garde Heintz note sur son li
 	depuis la limite du département jusqu'à St. Germain d'Arcé, 
 	rentré par la même voie, depuis Chenu aux Forges.
 	
-3 Octobre 1908 : 
+### 3 Octobre 1908 : 
 	
 	Sur la rivière Fontaine des Vallées,
 	depuis son embouchure, jusqu'à la limite du Département.. 
@@ -180,7 +180,7 @@ Les tournées se succèdent : En 1906, le 23 mai le garde Heintz note sur son li
 	Cosset louis Victor,  casseur de pierres, habitant Lhomme 
 	(pêchait sur la veuve de St. Pierre au Moulin St. Blaise).
 	
-11 Sept. 1910 : 
+### 11 Sept. 1910 : 
 	
 	Sur la Veuve de Brives à la Pointe, 
 	PV au Sieur Boulay Louis Victor, vigneron à Lhomme,
@@ -213,7 +213,8 @@ contenant 100 truitelles devant être déposées à Vancé dans la rivière le T
 Attendu de 2 h à 9 h du soir. Rien vu à la Gare.
 Frais occasionnés : 1 voiture et 1 repas : 12 F*
 
-	PV DE PÊCHE AUX ÉCREVISSES (seule espèce pêchée en forêt)
+**PV DE PÊCHE AUX ÉCREVISSES** 
+(seule espèce pêchée en forêt)
 	
         En forêt à cause de l'acidité des eaux, l'écrevisse à pattes
 	blanches n'arrive pas à grossir et à fabriquer de la carapace . 
@@ -245,14 +246,14 @@ Frais occasionnés : 1 voiture et 1 repas : 12 F*
 {{<figure src="/images/articles/balances.jpg" title="Balances">}}	
 	
 	
-4 Sept 1910 :
+### 4 Sept 1910 :
 	
 	PV pour Pêche avec carrelet non réglementaire sur la Veuve 
 	( 18 mm de mailles), à l’encontre de Cosset louis Victor, 
 	casseur de pierres, habitant Lhomme qui pêchait sur la veuve 
 	de St. Pierre au Moulin St. Blaise.
 	
-11 Sept. 1910 :
+### 11 Sept. 1910 :
 	
 	Sur la Veuve de Brives à la Pointe, PV au Sieur 
 	Boulay Louis Victor, vigneron à Lhomme, pris avec 
@@ -282,7 +283,9 @@ Frais occasionnés : 1 voiture et 1 repas : 12 F*
 	sérieuses qu'ils viendraient à recueillir sur le même sujet auprès
 	des riverains et des pêcheurs.
 	
-31 Déc. 1920  : Louis Pigault constate une fraye de truite commune dans le
+### 31 Déc. 1920  :
+
+Louis Pigault constate une fraye de truite commune dans le
 	ruisseau de Vaux (St. Pierre du Lorouer).
 	
 {{<figure src="/images/articles/taconettruitelle.jpg" title="Dessin à emporter en tournée">}}		
@@ -338,14 +341,14 @@ Note de Potel :( 11 oct. 1924)  Les Préposés, particulièrement ceux du
 
 ### MODES DE PÊCHE ET ENGINS
 	
-1°/ Autorisés :
+**1°/** Autorisés :
 	- La ligne flottante, les balances ( Ecrevisses)
 	- La cordée : ligne de fond à plusieurs hameçons, maintenue au 
 	fond par un lest, tendue le soir, relevée de bon matin . 
 	Ces lignes permettent de capturer Anguilles, Brochets, Carpes,
 	Chabots, Chevaines, Gardons, Perches, Truites etc. ….pêche fructueuse par temps orageux..
 	- Le Carrelet ou filet immergé et autres engins dont la liste serait longue.
-2°/ Non autorisés :
+**2°/** Non autorisés :
 	- L'explosif, l'emploi de filets et engins à mailles ou à 
 	écartement de verges, inférieure à 27 mm.
 	
@@ -360,7 +363,7 @@ Note de Potel :( 11 oct. 1924)  Les Préposés, particulièrement ceux du
 
 ### En 1933 :
 	
-	Dernier PROCES –VERBAL de Pêche aux écrevisses (Sermaise) le 13 août.
+**Dernier procès-verbal de Pêche aux écrevisses (Sermaise) le 13 août.**
 	
         Nous soussignés Leclerc Albert Garde des Eaux et Forêts à la 
 	Résidence de Pruillé l'Eguillé  ( Sarthe) 
@@ -416,7 +419,7 @@ Note de Potel :( 11 oct. 1924)  Les Préposés, particulièrement ceux du
 	
 {{<figure src="/images/articles/ecrevisse.jpg" title="Écrevisse à patte blanche">}}		
 	
-### Epilogue de ce PV  du 13 Août 1933
+### Épilogue de ce PV  du 13 Août 1933
 	
 *A propos des délinquants du 13 Août 1933, Mr. Bouttier Georges cultivateur 
 à la Maugerie, né le 9 juillet 1900 commune de Pruillé – fils de Marcel 
@@ -433,7 +436,7 @@ balances à écrevisses." Lecture faite* .
 	
 Ce PV sera abandonné le 27 Octobre 1933  faute de preuves suffisantes par Mr l’inspecteur.
 
-### Concession
+### Concession de pêche
 	
 1er. Sept 1936 : *Reçu sur Bercé en communication, la copie de la concession 
 de la pêche aux écrevisses, dans le ruisseau de Sermaize à Mr. Huger.*
