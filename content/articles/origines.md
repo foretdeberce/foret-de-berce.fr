@@ -134,7 +134,7 @@ ont pu nous léguer un si beau massif.
     règle la "La Matière" des Eaux et Forêts et
     peut être considérée comme le tout premier Code Forestier .
    
-   ### XVe Siècle   ###
+   ### XVe Siècle  ###
    
     1481 Après la mort de Charles d'Anjou, la Baronnie,
     retourne à la Couronne avec le Maine et l'Anjou.
@@ -198,7 +198,7 @@ ont pu nous léguer un si beau massif.
     1921 - Les derniers bois de Marine partent de Bercé pour Rochefort, Lorient et Bizerte .
     1947 - Sixième Aménagement avec révision en 1967 et 1987.
     1966 - A l'administration des Eaux et Forêts succède l'Office National des Forêts, 
-    qui gère jusqu'à ce jour les Forêts du Domaine Public. 
+    qui gère jusqu'à ce jour les forêts du Domaine Public. 
 
 
 ## Autres articles concernant l'archéologie forestière: ## 
@@ -211,6 +211,6 @@ ont pu nous léguer un si beau massif.
 [L.I.D.A.R.]({{<ref "articles/lidar.md">}})
 
 
-***Références : 
+### Références : 
 
 *Histoire de la Forêt* par Monsieur l'inspecteur principal des Eaux et forêts  ***Potel 1923***
