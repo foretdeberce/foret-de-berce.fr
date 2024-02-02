@@ -9,8 +9,8 @@ tags: ["Hommes","Loisirs","Droit","Concessions"]
 
 
 En 1924, il fallait débourser 3,15 f pour la journée de ramassage de champignons : 
-à verser à la caisse des concessionnaires 
-Louis Pasquier, Louis Langlais et plus tard Guimier Lucien. 
+à verser à la caisse des concessionnaires tenue par des riverains tels :
+Louis Pasquier, Louis Langlais et plus tard Lucien Guimier. 
 
 **Maurice Vérité raconte :**
 
@@ -25,11 +25,11 @@ Elles payaient une journée et avaient droit de les vendre.*
 En octobre 1953 : 
 2100 f sont facturés à M. Fourmond de Château-du-Loir, 
 collecteur de champignons en forêt, 
-aux ronds du chêne Désiré, Wautot, Volumiers, pour 4 journées de collecte.
+aux ronds du Chêne Désiré, Wautot, Volumiers, pour 4 journées de collecte.
 
 **Yves Camisy témoigne :**
 
-     Ce lointain cousin (depuis 1789), 
+     Ce lointain cousin (depuis la révolution), 
      témoigne tout simplement de la vie d’antan 
      et d’un passé révolu, avec humilité et justesse. 
      
