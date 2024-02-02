@@ -17,10 +17,11 @@ Sur Bercé, au fil du temps, de grandes "ventouses" (gros coups de vent brisant 
 ont imprimé sur le sol, leur passage. 
 
 Les dérèglements climatiques en accroissent de nos jours la fréquence.
-Combien d’arbres vénérables se retrouvent ainsi couchés à terre, comme terrassés par un tremblement de terre.
+Combien d’arbres vénérables se retrouvent ainsi couchés à terre, 
+comme terrassés par un tremblement de terre.
 
-La liste des années à *chablis* (arbres tombés à terre) et *volis* (arbres dont les houppiers sont cassés) est
-longue :  
+La liste des années à *chablis* (arbres tombés à terre) et *volis* 
+(arbres dont les houppiers sont cassés) est longue :  
  
 ### 1857, 1866, 1868 :
 
@@ -28,7 +29,7 @@ longue :
 
 ### Novembre 1875 :
 
- plus de 500 chablis sur le triage à Heintz.
+ Plus de 500 chablis sur le triage à Heintz.
 
 ### 27 janvier 1881 :
 
@@ -43,34 +44,57 @@ idem en 1886.
  
 ### Cyclone en forêt
  
-A M. d’Estournelles de Constant
-Député de la Sarthe.
+*A M. d’Estournelles de Constant
+Député de la Sarthe.*
 
 Par l’un des souriants dimanches
+
 Ou l’on respire le printemps,
+
 Où les gais oiseaux concertants
+
 Gazouillent, volant par les branches,
+
 Tout à coup, enflammant les airs,
+
 Voici la foudre et les éclairs
+
 Sans arrêt sillonnant l’espace :
+
 C’est le noir cyclone qui passe !
+
 
 On croit sentir trembler la terre
+
 Et le vent souffle en tourbillon,
+
 Traçant un effrayant sillon.
+
 Semblant vomis par un cratère,
+
 Les plus gros chênes, les aînés,
+
 Volent dans l’air, déracinés ;
+
 La tempête à rien ne fait grâce :
+
 C’est le noir cyclone qui passe !
 
+
 Parmi les hôtes séculaires
+
 De notre forêt de Bercé,
+
 Le cataclysme a renversé 
+
 Des arbres aimés, populaires,
+
 Et la nature en sa fureur
+
 A partout jeté la terreur,
+
 Sur les buissons faisant main basse :
+
 C’est le noir cyclone qui passe !
 
 [Fernand de Jupilles-Échos de ma forêt, gallica-Bnf](/articles/pdf/echosdemaforet.pdf) 
@@ -92,7 +116,7 @@ dégâts dans les régénérations.
 
 ### De 1949 à 1951 : 
  
- routes obstruées lors de la ventouse du 4 février et  de l’ouragan du 14 mars 1951. 
+ routes obstruées lors de la ventouse du 4 février et de l’ouragan du 14 mars 1951. 
 
 ### Décembre 1952 : 
  
@@ -102,8 +126,8 @@ dégâts dans les régénérations.
  de février à mai, des chablis tombent en nombre. 
 
 ### 11 mars 1963 et en 1965, 
- les cyclones se succèdent emportant  les hangars et les arbres.
-* «Jamais vu pareille chose» notera l'agent technique Goenvec
+ les cyclones se succèdent emportant les hangars et les arbres.
+*«Jamais vu pareille chose»* notera l'agent technique Goenvec
 
 ### En 1967, 
  
@@ -137,6 +161,7 @@ Les militaires participent au débarrage des routes jusqu’au lendemain
  
 Ces désobstructions dureront ainsi jusqu’au 8 juin.
 Cette deuxième secouée a fait beaucoup d’autres dégâts en forêt.
+
 Au chêne Boppe c’est une véritable catastrophe. 
  
  {{<figure src="/images/articles/03-67p159.jpg" title="Désolation parcelle 159">}}
@@ -149,7 +174,8 @@ Laillé et Pruillé sur une bande de 100 à 200 m de large sur 5 km de long.
  {{<figure src="/images/articles/13nov82p118.jpg" title="Le cyclône passe parcelle 118">}}
  
 Des milliers de mètres-cubes de bois sont cassés et arrachés. 
-*«L’on aurait dit un train passant dans le jardin»* relate Jean MANAC’H, aux Renardières.
+
+*«L’on aurait dit un train passant dans le jardin»* relate Jean Manac'h, aux Renardières.
  
  {{<figure src="/images/articles/renardieres13-11-82.jpg" title="Au rond des Renardières">}}
  
@@ -166,7 +192,8 @@ Le ciel s’est subitement obscurci de feuilles et de poussières.
  
 ### 3 février 1990 : 
  
-vers 11h un autre ouragan fait de gros dégâts en forêt. Au niveau de l’Hermitière,
+Vers 11h un autre ouragan fait de gros dégâts en forêt. 
+Au niveau de l’Hermitière,
 la route est arrachée par endroits.
  
  {{<figure src="/images/articles/fev1990pichon.jpg" title="L'entreprise Pichon à la rescousse">}}
