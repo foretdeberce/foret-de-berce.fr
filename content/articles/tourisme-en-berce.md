@@ -18,24 +18,24 @@ prendre pour empêcher les déprédations de toutes sortes qui étaient
 commises sur nos arbres dans les endroits visités par le Public.
 Les affiches que j’avais prescrites ont été posées, il s’agit 
 maintenant pour le personnel de tenir la main à ce que les menaces
-qu’elles édictent, ne restent pas vaines.
+qu’elles édictent, ne restent pas vaines.*
 
 *Je vous recommande donc d’une façon pressante, d’insister à ce sujet
 près de votre personnel au moment où les visiteurs vont recommencer
 à venir en Forêt.
 Personne n’est plus porté à la tolérance que moi, mais la mesure
 est à son comble nos paysages, nos arbres sont menacés, nous devons
-les protéger efficacement.
+les protéger efficacement.*
 
 *Les préposés seront d’autant plus coupables de fermer les yeux sur
 les contraventions commises que l’opinion toute entière est avec nous
-dans cette question.
+dans cette question.*
 
 *Les affiches posées cet hiver à Bercé ont été connues de la presse
 spéciale et de la presse politique, Tous, qu’ils s’agisse du
 Touring-Club, des Débats, ou du Petit Parisien sont avec nous.
 J’espère donc que les gardes de Bercé rempliront leur devoir sans 
-passion comme sans faiblesse.
+passion comme sans faiblesse.*
 
 ### 5 Mars 1920
 
@@ -58,7 +58,7 @@ Mesures d’amélioration :
 empierrée, on sera parfois amené à créer, de chaque côté de celle-ci, un large 
 accotement gazonné, coupé de saignées pour l’écoulement des eaux.
 •	Les carrefours devront avoir un diamètre suffisant.
-•	Certaines parties de Forêt, pourront être aménagées en Parc , en Jardin.*
+•	Certaines parties de forêt, pourront être aménagées en Parc, en Jardin.*
 
 ### 10 Mai 1920
 
@@ -74,23 +74,26 @@ intéressant (arbres remarquables, sources, point de vue, etc.).*
 nouveaux sentiers seront tracés, s’il en est besoin.
 La question des plaques indicatrices, devra être aussi étudiée.	
 Propagande Touristique*
-27 Déc. 1924
+
+**27 Déc. 1924**
+
 En vue de la préparation d’une brochure de Propagande destinée au Public 
 Anglais au sujet de la Chasse et de la Pêche en Sarthe, lieux desservis
-par notre réseau (Château du Loir - Le Mans, Chemin de fer de Paris - Orléans).
+par notre réseau (Château du Loir/Le Mans, Chemin de fer de Paris/Orléans).
 Réponse du Brigadier Julliard:
+
 Couac !
 Les renseignements demandés semblent dépasser les attributions des
 Préposés de la Brigade n° 3
 
-Ces fonctionnaires des Eaux et Forêts ne sont pas des Agents de
-publicité à la disposition des Compagnies privées.
+*Ces fonctionnaires des Eaux et Forêts ne sont pas des Agents de
+publicité à la disposition des Compagnies privées.*
 
-D’autre part les indemnités de déplacement qui sont allouées à ces
+*D’autre part les indemnités de déplacement qui sont allouées à ces
 Préposés ne sont pas destinées pour servir à des
-intérêts particuliers.
+intérêts particuliers.*
 Point de vue partagé par le Brigadier Albrecht.
-Cordons d’arbres réservés le long des routes
+
 
 {{<youtube id="hHovPnvJXkw">}}
   
@@ -101,32 +104,36 @@ Vidéo proposée @ DJi Phantom 3 Standard,
 ### 8 Mai 1928
 
 Note du Conservateur à Alençon du 8 Mai 1928.
-J’attire l’ attention de MMrs les Inspecteurs sur l’impression
-fâcheuse que produiront aux touristes, les coupes rases
-effectuées en bordure des routes les plus fréquentées. 
 
-Je les prie de bien vouloir examiner s’il n’y aurait pas lieu
+*J’attire l’ attention de MMrs les Inspecteurs sur l’impression
+fâcheuse que produiront aux touristes, les coupes rases
+effectuées en bordure des routes les plus fréquentées.* 
+
+*Je les prie de bien vouloir examiner s’il n’y aurait pas lieu
 de recourir au système des anciens aménagements, c’est à dire
 de faire des cordons de réserves le long des routes les plus
-fréquentées.
+fréquentées.*
 
 ### 23 mai 1928
 
 Réponse du Brigadier Albrecht :
-Il n’y a actuellement dans la 2ème Brigade de la Forêt de Bercé,
+
+*Il n’y a actuellement dans la 2ème Brigade de la Forêt de Bercé,
 plus de cordons de réserves à conserver le long des routes
 principales, sauf en bordure de la route de Grammont dans les
 coupes ( parcelles :27-132-140) où il pourrait être laissé
 un cordon de réserves lors de l’exploitation des coupes
-dans ces parcelles.
+dans ces parcelles.*
 
 ### 4 août 1928
 
 Réponse de Potel (Inspecteur Principal) à faire verbalement aux Gardes :
-Les arbres réservés dans les conditions indiquées, seront
+
+*Les arbres réservés dans les conditions indiquées, seront
 utilement repérés et reconnus avant le passage  des coupes de
 régénération à Bercé et Perseigne, en vue de leur martelage
-en réserve.
+en réserve.*
+
 N.D.L.R.: On sait aujourd’hui qu’en matière de Paysage, ce système
   est une très mauvaise solution. Il est préférable de briser les
   bordures, voir de laisser des bouquets Feuillus dans 
@@ -135,7 +142,8 @@ N.D.L.R.: On sait aujourd’hui qu’en matière de Paysage, ce système
 ### 1er août 1928
 
 Améliorations Touristiques (Note de Potel):
-Comme je l’ai préconisé à diverses reprises, par exemple dans
+
+*Comme je l’ai préconisé à diverses reprises, par exemple dans
 ma notice sur le traitement en futaie par le Tire et Aire
 (revue des Eaux et Forêts de juin / juillet 1925) et
 spécialement dans mon rapport du 1er Février 1926 sur la production
@@ -144,28 +152,28 @@ Congrès International de Sylviculture de Rome et publié dans
 les actes du Congrès, la Réserve dans les coupes définitives de 
 chênes assez élancés et bien préparés à la crise d’isolement,
 semble la meilleure, sinon la seule solution pour produire des
-bois d’œuvre de la plus forte dimension  dans les futaies mélangées.
+bois d’œuvre de la plus forte dimension  dans les futaies mélangées.*
 
-Il est toujours indiqué de choisir ces réserves dans les places les
+*Il est toujours indiqué de choisir ces réserves dans les places les
 plus convenables pour leur exploitation en prévision de leur
 exploitation, pour cause de dépérissement au cours d’une
 2ème révolution de futaie, et de toutes les places convenables,
-la meilleure est évidemment en bordure des routes
+la meilleure est évidemment en bordure des routes*
 
-Par suite, un cordon de réserves dans la même situation que
+*Par suite, un cordon de réserves dans la même situation que
 le « Chêne de Sermaize » au dessus des jeunes bois nés de la
 régénération naturelle, me semblerait de nature à donner
 satisfaction à la fois à l’intérêt culturel et à l’intérêt
 esthétique dont il s’agit, tout en ne portant pas préjudice au
 bon entretien des routes qui est lui aussi, apprécié des
-touristes.
+touristes.*
 
-Dans les parcelles où ces réserves d’avenir ne pourraient pas
+*Dans les parcelles où ces réserves d’avenir ne pourraient pas
 se trouver, un cordon d’arbres assez bien venants et immédiatement
 en bordure de la route, pourrait être maintenu sur pied en attendant
 que les jeunes bois soient devenus assez grands pour les remplacer.
 Une circulaire faisant simplement cette recommandation me semblerait
-devoir suffire à ce sujet.
+devoir suffire à ce sujet.*
 
 ## Séries et Sites Artistiques
 
@@ -182,13 +190,15 @@ Il existe déjà à Bercé, aux Cantons des Clos et des Forges, deux séries art
 **2.**  la 2ème proposée depuis 1920 et dont le classement sera de nouveau proposé cette année.
   
 18 Septembre 1929, réponse d’Albrecht :
-Propose la Coudre et en ce qui concerne les arbres de bordure,
+
+*Propose la Coudre et en ce qui concerne les arbres de bordure,
 ils pourraient être délaissés, quelques uns dans les parties
-pré-comptables : 130 – 140 – 141 – 27.
+pré-comptables : 130 – 140 – 141 – 27.*
   
 ### 1936
   
 Confection de l'accès au Chemin de la Coudre (voir route) – délimitation du chemin des Salles Maison Neuve : Terrain labouré en 1937.
+
 *Le 31/08/42 Vu des opérateurs de Cinéma en train de filmer sur la croix Segrier.*
 
   Aujourd'hui Bercé attire par sa renommée quantité de monde
