@@ -28,7 +28,8 @@ Les mâts provenaient des Pyrénées ou de Riga (baltique)
 
 *Avec les bois de guerre  … ainsi vogue la forêt.*
 
-### Le procès-verbal d’aménagement de 1783/1785 relate *(ADS,B3858)
+### Le procès-verbal d’aménagement de 1783/1785 relate *
+(ADS,B3858)
 
 *« Les plus beaux bois de cette forêt s’exploitent en bois 
 carrés et se tirent pour la marine,
@@ -44,13 +45,15 @@ un deuxième aménagement (règlement) qui prévoit
 l’exploitation des bois, les plus âgés à 100 ans 
 (fort heureusement jusqu’en 1791 seulement).
 
-*Or à l’âge de 100 ans* (écrit l’aménagiste de la forêt de Bercé en 1843) *les bois commencent seulement
-à prendre de la valeur et ne donnent que de la menue charpente, produits très accessoires pour une forêt
+*Or à l’âge de 100 ans* (écrit l’aménagiste de la forêt de Bercé en 1843)
+*les bois commencent seulement à prendre de la valeur et ne donnent que de 
+la menue charpente, produits très accessoires pour une forêt
 comme celle de Bercé, destinée à fournir aux constructions navales et civiles, 
 les bois des plus grandes dimensions […] Cette forêt de Bercé,
-n’est traversée par aucun cours d’eau flottable, mais vers le sud, dans la direction de l’est à l’ouest,
-coule la rivière du Loir qui se jette dans la Sarthe, au dessus d’Angers,
-et cette dernière rivière entre dans la Loire à cinq lieues plus bas.  
+n’est traversée par aucun cours d’eau flottable, mais vers le sud, 
+dans la direction de l’est à l’ouest,coule la rivière du Loir qui se jette 
+dans la Sarthe, au dessus d’Angers,et cette dernière rivière entre dans 
+la Loire à cinq lieues plus bas.*  
 
 ### Le flottage des bois …… 1664 – 1843
 
@@ -65,7 +68,7 @@ les Roches, sur Chahaignes)
 sont peut-être à l’époque les seuls à voir 
 passer quelques « Marines » équarries. 
 
-     Jean TRIQUET **(3)**, dans son ouvrage intitulé
+     Jean TRIQUET (3), dans son ouvrage intitulé
      « Au fil du Loir », nous éclaire quant
      à l’activité fluviale de cette rivière. 
      « Le Loir a toujours été considéré comme 
@@ -85,7 +88,9 @@ Mais devant la vétusté des portes marinières due
 principalement à la rudesse des chocs occasionnés 
 par la descente des trains de bois de marine et de charpentes, 
 le préfet de la Sarthe réagit :
+
 Arrêtés de la préfecture de la Sarthe, du 21 novembre 1804 …ART. XIII
+
 *Les trains de marine ne pourront avoir plus de trente-quatre
 mètres de longueur, ils ne pourront descendre la porte que 
 séparément les uns après les autres. »* 
@@ -131,8 +136,8 @@ du réseau routier, à Bercé comme en Sarthe.
 
 ### En 1825  Choix des pièces de marine 
 
-*(extrait d'un procès verbal de martelage des bois de marine) 
-« ...Lesquels arbres, essence de chêne, ne pourront, sous quelque prétexte
+(extrait d'un procès verbal de martelage des bois de marine) 
+*« ...Lesquels arbres, essence de chêne, ne pourront, sous quelque prétexte
 que ce soit, être abattus que pour le service de la marine royale et en 
 décours de lune, depuis le 1er novembre, jusqu'au 31 mars inclusivement,
 sous peine envers les contrevenants d'être poursuivis suivant toute la rigueur 
@@ -145,21 +150,24 @@ tant du corps des arbres que des branches susceptibles de procurer des courbes :
 faute de me donner cet avis de suite, les retards de la vidange demeureront sous
 la responsabilité particulière des acquéreurs desdits arbres ».* 
 
-Richard Bacchetta et Jean Claude Chausse sur des illustrations de Patrick Berthelot nous présentent une étude sur les empreintes des [Marteaux des bois de Marine](/articles/pdf/lesmarteauxdemarine.pdf)
+Richard Bacchetta et Jean Claude Chausse sur des illustrations de Patrick Berthelot 
+nous présentent une étude sur les empreintes des [Marteaux des bois de Marine](/articles/pdf/lesmarteauxdemarine.pdf)
 
 ### 1852 : Évacuation terrestre des bois de marine. 
      
 Les recherches de Jean TRIQUET **(3)**, nous apprennent aussi qu’à cette époque,
 l’évacuation des bois usités par la Marine, l’est de manière tout à fait
 terrestre depuis 1852. La fin des voituriers par eau, annonce à cette date,
-une reprise du trafic terrestre dont les cause sont doubles : tout d'abord
-le percement tant attendu de voies routières en forêt de Bercé et sur les
+une reprise du trafic terrestre dont les cause sont doubles :
+
+tout d'abord le percement tant attendu de voies routières en forêt de Bercé et sur les
 communes aux alentours, et surtout leur consolidation grâce à l’ouverture
 de nombreuses carrières ayant permis l’embauche massive d’ouvriers et de
 gardes cantonniers. 
 
 
 ### En 1860
+
 À la lecture des premiers livrets journaliers, en 1860 on rentre dans le vif du sujet.
 Tous les cantons boisés en feuillus de Bercé dans lesquels l’on ouvre les parcelles
 âgées de plus de 100 ans, puis de 200 ans en coupes de régénération, sont régulièrement
@@ -256,8 +264,8 @@ stères de copeaux de marine (n° 72 et 75).
      
 ### Le 9 avril 1884 : 
      
-« Attendu l’employé de la marine au rond du Clocher » 
-...qui n’est pas venu ... Malheureusement HEINTZ…
+*« Attendu l’employé de la marine au rond du Clocher » 
+...qui n’est pas venu ... Malheureusement* HEINTZ…
      y a perdu une grande partie de sa journée!  
 
 Les cantons des Follets, Sermaize, Croix-Veneur, des Sorels,
@@ -380,6 +388,7 @@ Mais la marine est déjà dans l’âge du fer.
 {{<figure src="/images/articles/prix-marines.jpg" title="Évolution du prix des bois de marine">}}     
 
 Après le bateau, nouveau débouché pour les bois de Bercé : l’avion ! 
+
       « Faire inscription à la gare de Chahaignes de 6 billons, 3 chênes
       et 3 hêtres provenant de la parcelle A6 des Pressenteries 
       (nouvelle parcelle 224 - Coupe à Mademoiselle OGET) destinés à 
@@ -390,11 +399,13 @@ Après le bateau, nouveau débouché pour les bois de Bercé : l’avion !
      
 Albert CAQUOT expose un programme magistral et réaliste 
 des progrès possibles et désirables, et des moyens pour les accomplir :
-" Le premier peuple d'hier était celui qui avait, par la marine, 
+*" Le premier peuple d'hier était celui qui avait, par la marine, 
 la plus grande force d'expansion ; 
 le premier peuple de demain sera celui qui aura à tout instant
-les plus grandes possibilités de développement de l'aviation. "
+les plus grandes possibilités de développement de l'aviation. "*
+
 [cf. journal Les Ailes du 25 octobre 1928 rappelant le contenu de ce discours de 1927].
+
 Mais bientôt les avions en bois et en toile se sentiront de plus en plus démodés…   
       
 ### Conclusions
