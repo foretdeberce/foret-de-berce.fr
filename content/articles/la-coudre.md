@@ -17,7 +17,7 @@ La Coudre, l’Hermitière, le Chêne Boppe.
 
 ### 1905
     
-L’essor du tourisme sur Bercé fin du 19ème Siècle et début du 20ème,
+L’essor du tourisme sur Bercé fin du 19ème siècle et début du 20ème,
 nous fait commencer l’histoire de la Coudre en 1905, bien que figurant 
 sur la carte de Bercé déjà en 1673.
 
@@ -79,8 +79,8 @@ cela n’autorise pas grands travaux.
 **1er mai 1923** : Quatre ouvriers au curage du lac de la Coudre, 
 ainsi qu’à la réfection d’un barrage rustique et confection 
 par deux ouvriers de tables et bancs rustiques.
-Cette même année «mise en peinture du poteau indicateur de la
-coudre et des ailes de direction ».
+Cette même année *« mise en peinture du poteau indicateur de la
+coudre et des ailes de direction »*.
 Équarrissage d’un chêne pour faire deux autres poteaux.
 Le 3 septembre : confection par les ouvriers, d’un sentier
 près de la fontaine et construction d’un pont
@@ -93,7 +93,7 @@ actuelle), allant du village des Forges à ce site.
 
 **1925**, le barrage rustique fuit, il faut le réparer.
     
-**1927** M. Grégoire, charron à Beaumont-pied-de-Bœuf
+**1927**, M. Grégoire, charron à Beaumont-pied-de-Bœuf
 façonne les piquets de support de la couverture de lafontaine. 
 La mise en place nécessite la présence de deux ouvriers charrons,
 quatre auxiliaires, Peltier et le brigadier.
@@ -117,13 +117,13 @@ dans le chemin d’accès de la Coudre
     
 **16 mai 1933**, deux ouvriers confectionnent une clôture 
 dans la parcelle 145 autour d’un trou dangereux
-pour les promeneurs. Il s'agit d'un ancien puits 
-d’extraction de minerai de fer.
+pour les promeneurs. *Il s'agit d'un ancien puits 
+d’extraction de minerai de fer*.On y retrouvera un sanglier.
     
-**23 juin 1933**, PELTIER Fernand : « Allé chez Maître PÉAN,
+**23 juin 1933**, PELTIER Fernand : *« Allé chez Maître PÉAN,
 notaire à Jupilles et au cadastre à la mairie de Jupilles 
 afin d’obtenir des renseignements au sujet d’une vente de 
-bien dont deux parcelles bordent la forêt dans notre triage. »
+bien dont deux parcelles bordent la forêt dans notre triage. »*
  
 ### La Maison Neuve et le Pré de la Coudre... 
     
@@ -134,7 +134,7 @@ Jupilles fait partie intégrante de ce lieu.
 Suite aux tractations entreprises par le service forestier,
 avec Maître Péan de Jupilles, l’État s’est rendu propriétaire 
 de la Maison Neuve, du pré de la Coudre, et de la Fontaine aux Malades
-(qui guérirait les affections des yeux).
+*(qui guérirait les affections des yeux)*.
 
 **Le 7 juillet 1933**- le brigadier ALBRECHT écrit : 
     
@@ -143,7 +143,7 @@ que Mr. Péan, notaire à Jupilles, demande 10.000 Frs.
 (frais en plus de 20 %) pour les deux pièces de pré
 et taillis situés en dessous de la Fontaine de la Coudre 
 et en bordure des parcelles 140 – 141 – 142
-(Fontaine aux Malades) soit 2 ha  39 a 30 ca.*
+*(Fontaine aux Malades) *soit 2 ha  39 a 30 ca.*
 
 *D’un autre côté, il vendrait le tout soit 10 ha 77 a 40 ca, 
 bâtiments compris : 20.000 Frs.
@@ -192,7 +192,7 @@ L’administration n’ayant pas donné suite à cette demande,
 M. Brebion l’avait remplacée par sa pétition du 26 décembre 1892, 
 qui a été suivie de l’arrêté du 7 novembre 1893. 
 *« Je vous demanderai de bien vouloir examiner la question de la
-vente d’après l indications ci-dessus.
+vente d’après l'indication ci-dessus.
 De toute façon, il serait désirable que l’affaire fût traitée 
 rapidement, tout retard risquant de diminuer les possibilités 
 d’obtenir le crédit nécessaire. »*
@@ -207,17 +207,18 @@ avec intention de faire payer plus cher les terrains de l’administration. »*
 
 **25 septembre 1933**- il semble que la pétition et le recours exercé auprès 
 du Ministre ai porté, car ce jour un arrêté donnant concession de passage
-à M. Binet (simple tolérance) est pris, (moyennant une redevance annuelle 
+à M. Binet *(simple tolérance)* est pris, *(moyennant une redevance annuelle 
 de 20 frs./an, 1 m3 de pierres cassées de 0,06  et la remise en état des 
-lieux après usage) pour le chemin menant à la route forestière des Trembles.
+lieux après usage)* pour le chemin menant à la route forestière des Trembles.
 
 **3 octobre 1933**- mais dans le même temps : Le ministre de l’agriculture a 
 reconnu l’utilité et la convenance de l’acquisition au compte de l’État, 
 de la ferme de la Maison Neuve moyennant le prix de 20.000 f. 
 frais non compris, pour 10 ha 77 a 40 ca appartenant à Mme. 
-Veuve Duchesne demeurant à Luceau - Sarthe. 
-Cette ferme est finalement achetée avec entrée en jouissance 
-au 1er novembre 1934.
+Veuve Duchesne demeurant à Luceau - (Sarthe). 
+
+**Cette ferme est finalement achetée avec entrée en jouissance 
+au 1er novembre 1934.**
 
 
    « Allé avec un cultivateur reconnaître le terrain à cultiver 
@@ -225,7 +226,7 @@ au 1er novembre 1934.
     chez le brigadier pour lui indiquer les conditions demandées. »
     -- Peltier, le 12 novembre 1934
 
-Descriptif de la Ferme et Emplacement des terres : 
+**Descriptif de la Ferme et Emplacement des terres :**
     
     « Le puits situé à proximité des bâtiments a une profondeur totale de 23 m,
     dont 3 m d’eau. Il existe aussi à environ 30 m des bâtiments une mare d’un
@@ -238,14 +239,14 @@ et le cours actuel : Réponse d’Albrecht :
 *« 350 kg. de pommes à cidre 
 de 90 f à 100 f et 150 kg. de poires à 60/70 f les 1000 kg. »*
 
-Parcelle 195 : Taillis médiocre : châtaignier 5/10e – chêne 3/10e – 
+**Parcelle 195 :** Taillis médiocre : châtaignier 5/10e – chêne 3/10e – 
     hêtre et divers 2/10e (exploité en 1932 et 1933).
 
-Parcelle 194 : Terrain laissé inculte depuis très longtemps, 
+**Parcelle 194 :** Terrain laissé inculte depuis très longtemps, 
     couvert de bruyères, d’ajoncs, quelques chênes et divers 
     sans avenir, quelques pommiers dépérissants, landes.
 
-Parcelle 227 : (Fontaine aux Malades) Taillis médiocre, 
+**Parcelle 227 :** (Fontaine aux Malades) Taillis médiocre, 
     très clair, chêne 9/10e – hêtres et divers 1/10e.
     Sur le reste des terres Mr Binet récoltait en moyenne : 
     2500 kg. de blé et 1500 kg. d’avoine par an.
@@ -253,8 +254,8 @@ Parcelle 227 : (Fontaine aux Malades) Taillis médiocre,
 **+**  Verger : P.199 : 12 pommiers de rapport (3 dépérissants) 
     et 3 poiriers.
 **+**  P.200 : 1 châtaignier – 1 poirier.
-**+**  P 201 : 1 cerisier – 4 pommiers – 4 poiriers
-**+**  P 202 partie : 1 pommier »
+**+**  P.201 : 1 cerisier – 4 pommiers – 4 poiriers
+**+**  P.202 partie : 1 pommier »
 
 **9 septembre 1935**- Travaux à réaliser à la Maison Neuve (devis).
     Resserrement des tuiles de couverture sur la cuisine et la chambre, 
@@ -303,7 +304,7 @@ Outre le traditionnel nettoyage des étangs de la Coudre au printemps,
         (0,70 m à 0,90 m) : 28 f  (épicéas du Colorado).
       + Total 161,80 f – 25% accordés à l’administration. 
 
-**6 novembre 1936**- (PIE André) *«Plantation d’arbustes dans le pré 
+**6 novembre 1936**- (Pie André) *«Plantation d’arbustes dans le pré 
 de la Coudre et extraction de plants de chêne (par deux ouvriers) 
 pour plantation à la Maison Neuve- huit ouvriers jusqu’au 2 octobre 1936
 et 1 laboureur jusqu’au 2 novembre 1937.»*
