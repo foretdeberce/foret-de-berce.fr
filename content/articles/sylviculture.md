@@ -17,6 +17,7 @@ Jacques Lacarrière disait de nos forêts :
 En forêt de Bercé, les règles de culture font l’objet de soins
 constants de la part de l'ensemble du personnel de
 l'Office national des forêts.
+
 Les forestiers interviennent tout au long de la vie des
 peuplements pour façonner une forêt apte à vous accueillir.
 
@@ -185,7 +186,9 @@ quantité de Congressistes .
 
   On recense à Bercé 3000 ha de chêne rouvre, dans la partie 
   historique de la forêt, dont l'âge d'exploitabilité est 
-  actuellement fixé à 180 ans. [Le hêtre se taille la part du pauvre](/articles/pdf/lehetre.pdf)
+  actuellement fixé à 180 ans.
+  
+  [Le hêtre se taille la part du pauvre](/articles/pdf/lehetre.pdf)
   en étant sans arrêt cantonné au rôle de sous étage.
 
 Pour maintenir cet équilibre (selon le dernier aménagement approuvé),
