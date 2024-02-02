@@ -30,13 +30,13 @@ monde chrétien diabolise le loup : il appartient à un
 monde sauvage, inaccessible et incontrôlé qui agresse 
 des humains, d'où la lutte pour en éloigner le danger. 
  
-Au IXe siècle, Charlemagne créée les louvetiers, 
+**Au IXe siècle**, Charlemagne créée les louvetiers, 
 qui traquent loups, louves et louveteaux.
 Les louvetiers font obtenir des primes aux gens 
 qui les aident à chasser, d'où une régression du loup
 jusqu’à la fin du Moyen Âge. 
 
-Au 18e siècle, la lutte contre le loup s'accélère.
+**Au 18e siècle**, la lutte contre le loup s'accélère.
 La Révolution accorde le droit de chasse aux populations 
 et le port d'armes à feu.
 Napoléon permet l'organisation d'une lutte exterminatrice. 
@@ -44,7 +44,7 @@ Au début du 18e siècle, le loup était partout.
 
 {{<figure src="/images/articles/carte1783.jpg" title="Le loup à Bercé">}}
 
-CE QUE RACONTENT LES REGISTRES PAROISSIAUX ET COMMUNAUX
+**Ce que racontes les registres paroissiaux et communaux !**
  
 ### Marigné : Bête dévorante
 	
@@ -80,7 +80,7 @@ CE QUE RACONTENT LES REGISTRES PAROISSIAUX ET COMMUNAUX
 
 {{<figure src="/images/articles/le-loup.jpg" title="Marie Vérité 1753">}}
 
-*Thoiré sur Dinan,le 29 mai 1753 Le corps de Marie VERITE âgée de 8 ans, décédée d'hier a été inhumé en
+*Thoiré sur Dinan,le 29 mai 1753 Le corps de Marie Vérité âgée de 8 ans, décédée d'hier a été inhumé en
 le petit cimetière de cette paroisse par moi prêtre vicaire d'icelle soussigné le 30 de mai 1753,
 J.H. Lepingleux.* 
  
@@ -105,13 +105,16 @@ l'éliminent comme prédateur.
     - 1er janvier 1761 – 31 décembre 1764 : 
     356 loups, louves et louveteaux détruits 
     (2658 livres de primes).
+    
     - 14 mai 1765 : nouvelles primes :
     20 livres par louve - 24 livres par 
     louve pleine - 12 livres par loup - 
     6 livres par louveteau.
+    
     - 9 décembre 1771 : Maintien des primes
     habituelles, sauf celle pour le louveteau
     qui s’élève à 10 livres.
+    
     - 13 février 1781 : Prime pour louveteau:
     6 livres ; aucun changement pour les autres.
  
@@ -152,7 +155,7 @@ font des torts considérables »*.
 
 ### 15 septembre 1790,
 	
- Saint-Pierre du Lorouër : 
+A Saint-Pierre du Lorouër : 
 	
  **Art. 3** :
 *Le voisinage de la forêt et des bêtes 
@@ -160,30 +163,35 @@ font des torts considérables »*.
  ce qui les met dans l'état de réclamer des diminutions sur
  les impositions à proportion des pertes.*
 
-25 septembre 1790, Marigné : Jean Jouffroy de Marigné 
+**25 septembre 1790, Marigné :** 
+Jean Jouffroy de Marigné 
 reçoit 25 livres (33 jours 1/3 de travail) pour la
 destruction d'une louve par lui tuée le jour d'hier, 
 en la forêt de Bercé, au canton de Profondevaux :
 laquelle représentée, l'oreille droite lui a été coupée.
 
-6 octobre 1790 à Pruillé l'Éguillé : François Gagnon,
+**6 octobre 1790 à Pruillé l'Éguillé :** 
+François Gagnon,
 bûcheur de Pruillé l'Éguillé, présente un jeune loup
 de 6 à 7 mois, tué le jour d'hier en la forêt de Bercé,
 au canton de La Croix de la Lune.
 Il en reçoit 3 livres (4 jours de travail), 
 l'animal représenté, l'oreille droite lui fut coupée.
 
-25 mai 1792, à Marigné : 8 louveteaux capturés par 
+**25 mai 1792, à Marigné :**
+8 louveteaux capturés par 
 René Chevalier, bordager à Haute-Perche, Pierre Simon
 à la Guérinière et Jean Germain à Haute-Perche. 
 Gratification de 40 livres.
 
-6 octobre 1796 : battues avec participation des habitants
+**6 octobre 1796 :**
+battues avec participation des habitants
 des communes circonvoisines exécutées sous la
 direction de la force armée sous les ordres du
 général Quesnel en forêt de Bercé.
 
-22 janvier 1797 : valeur métallique.
+**22 janvier 1797 :**
+valeur métallique.
 L'assignat de 100 livres ne valait plus que 15 livres 2 sols.
 
    1807 : Primes : 
@@ -197,7 +205,8 @@ L'assignat de 100 livres ne valait plus que 15 livres 2 sols.
    La destruction d’une louve pleine payait
    la valeur de 100kg de froment.
 
-1818 : Pièges et traquenards, chasses à courre ou à tir 
+**1818 :**
+Pièges et traquenards, chasses à courre ou à tir 
 faites isolément ou en battue (en mars et en décembre),
 empoisonnement (noix vomique : *«La noix vomique contient
 plusieurs alcaloïdes dont le principal est la strychnine »*).
@@ -225,7 +234,7 @@ Les louveteaux furent détruits, mais on ne put atteindre la mère.(Julien Rémy
 ### Dernier loup tué en forêt de Bercé : 1870. 
 	
 « Joël Picard a interrogé en 1992, 
-madame Germaine DELHAYE, née en 1898,
+madame Germaine Delhaye, née en 1898,
 et qui avait travaillé un certain temps
 en forêt de Bercé. 
 D’après ses dires, on avait pendu les 
