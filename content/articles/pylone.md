@@ -46,7 +46,7 @@ la télévision. »*
 chemin d’accès (RTF) puis montage du pylône.»
  
     1er janvier 1959, une convention est signée entre monsieur
-    RUBAN (conservateur), monsieur VIDAL de l’administration des
+    Ruban (conservateur), monsieur Vidal de l’administration des
     Eaux et forêts et la Radiodiffusion télévision française, 
     pour le passage d’une ligne aérienne de distribution d’énergie
     électrique de 137,50 m (30 kw) reliant le poste émetteur TV à 
@@ -55,7 +55,7 @@ chemin d’accès (RTF) puis montage du pylône.»
     
 ### Juillet 1959 :
  
- le garde GENDRE a eu la visite en d’un
+ le garde Gendre a eu la visite en d’un
 contremaître de la RTF pour effectuer une trouée dans
 les peuplements « …devant servir au passage des cordages servant à amarrer le pylône ».
  
@@ -119,7 +119,7 @@ l’émetteur de Mayet est conçu en 1959 par la glorieuse RTF.
 Il a su visiblement traverser les décennies sans prendre une ride.
 Mieux, il arrive à rajeunir en prenant de l’âge. 
 De la RTF à TDF, en passant par l’ORTF et France Télécom,
-«Le Mans-Mayet» a su passer de l’ère du «Vapotron» à celle du "numérique».
+«Le Mans-Mayet» a su passer de l’ère du «Vapotron» à celle du "numérique».*
 
 
 Seul au monde, le pylône de Mayet ?
@@ -137,7 +137,7 @@ Même si Mayet n’est que l’un des 300 sites du diffuseur
 dans cette région (8 730 en France), c’est incontestablement
 le plus prestigieux, avec celui de la tour Eiffel :
 
-«Il est plus haut que la tour Eiffel et il est l’un des plus ancien»
+*«Il est plus haut que la tour Eiffel et il est l’un des plus ancien»*
 
 **Franck Magrez** (responsable du secteur), 
 l’un de ses plus farouches protecteurs
@@ -149,12 +149,12 @@ de France après l'émetteur *«grandes ondes»* de France Inter
  
   {{<figure src="/images/articles/eiffel.jpg" title="Un des plus hauts de france">}}
 
-*« Mais nous sommes désormais prêts à accueillir toutes nouvelles
-technologies du futur, notamment en matière de 4 G et RNT »*, 
+*" Mais nous sommes désormais prêts à accueillir toutes nouvelles
+technologies du futur, notamment en matière de 4 G et RNT "*, 
 poursuit le gardien du patrimoine. 
-Quitte, parfois, à sacrifier la bête.
+*"Quitte, parfois, à sacrifier la bête.
 En matière de diffusion des ondes, 
-il faut parfois souffrir pour rester dans la course.
+il faut parfois souffrir pour rester dans la course"*.
 
 ## Autres liens concernant les curiosités de Bercé ##
 
