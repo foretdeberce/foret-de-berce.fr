@@ -7,8 +7,9 @@ featured_image: '/images/chene-muriel.jpg'
 tags: ["Remarquables"]
 ---
 
-En cette matinée du 18 mars 2017, Stéphane LE FOLL, alors ministre de l’Agriculture, de l’Agroalimentaire et
-de la Forêt et porte-parole du gouvernement est venu sur Bercé, pour accorder à la forêt domaniale de Bercé,
+En cette matinée du 18 mars 2017, Stéphane LE FOLL, alors ministre de l’Agriculture, 
+de l’Agroalimentaire et de la Forêt et porte-parole du gouvernement
+est venu sur Bercé, pour accorder à la forêt domaniale de Bercé,
 le label Forêt d’Exception®.
 
 {{<figure src="/images/articles/exceptionforets.jpg"  title="Les forêts labellisées et candidates">}}
