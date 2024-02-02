@@ -11,7 +11,7 @@ tags: ["Remarquables","Arbre"]
 tous les autres. C'est aussi l'arbre consacré par une histoire et qu'une collectivité humaine reconnaît
 comme un élément de son patrimoine*
 
--- Extraits de BOURDU et VIARD, 1993 : *« les arbres remarquables en forêt »* ONF guide de gestion 2001.
+-- Extraits de Bourdu et Viard, 1993 : *« les arbres remarquables en forêt »* ONF guide de gestion 2001.
 
 {{<figure src="/images/articles/1996sermaize.jpg" title="Le houppier du chêne Sermaize en 1996">}}
  
@@ -41,9 +41,9 @@ Ces arbres monumentaux le sont au sens de *«ce qui rappelle le souvenir d'un ho
  
 Il peut arriver que les événements se succédant, les noms de l'arbre suivent alors les péripéties de
 l'histoire tel le chêne de la résistance «ancien chêne Petain» en forêt de Tronçais qui fut mitraillé 
-après guerre par quelques personnes indignées.
+après guerre par quelques resistants indignés.
  
-Les chênes des Clos et de la Coudre et de Croix-Marconnay feront l’objet d’autres pages.
+Les chênes des Clos, de la Coudre et de Croix-Marconnay feront l’objet d’autres pages.
 Intéressons nous à tous les autres qui émaillent le paysage.
 
 ### Nos chers Disparus
@@ -111,9 +111,12 @@ Le chêne le plus haut du monde (jusqu’au démenti) est situé dans la vallée
 
 *« Tout gui venant du Rouvre est regardé comme un envoyé du ciel. »* écrivait
 Pline l’Ancien Missive de l’Inspecteur Potel du 1er décembre 1928.
+
+
 Sur le peu de chênes à gui recensés en France,
- Bercé en possèdait trois dont un non retrouvé parcelle 207,
+Bercé en possèdait trois dont un non retrouvé parcelle 207,
 un autre parcelle 260
+
 {{<figure src="/images/articles/p228-1999.jpg" title="Le chêne à gui en 1999">}}
 
 Et le dernier décrit par Potel dans cette fameuse parcelle 228 actuellement en 
@@ -132,7 +135,8 @@ Ceux-ci ont été miraculeusement épargnés par la désormais célèbre tempêt
 Dit aussi *Chêne Seul* ou *Chêne Parapluie*.
 Dans la parcelle 180, nous avons à faire à un chêne droit,
 très droit, haut très haut :34,60 m. Gros, très gros: 308 cm de circonférence.
-Premier nœud à 16 m. Seulement 340 ans en 2009 et qui dépasse tous ses congénères d’une tête.   
+Premier nœud à 16 m. 
+Seulement 355 ans en 2024 et qui dépasse tous ses congénères d’une tête.   
  
 {{<figure src="/images/articles/sermaize.jpg" title="Le chêne Sermaize">}}
 
@@ -154,7 +158,7 @@ Ce jour, l’heureux retraité (en poste à Bercé d’octobre 1913 à fin 1945,
 Situé dans la parcelle 112, près de sa mare dont il boit toute l’eau, 
 majestueux au bout de son allée, avec 41,50 m de haut, 496 cm de circonférence 
 et 28,74 m3 de grume.
-C'est actuellement à 227 ans, le plus gros chêne de Bercé.
+C'est actuellement à 232 ans, le plus gros chêne de Bercé.
 En 2021 il a perdu malheureusement une de ses branches maitresse.
 
 ### le H du hêtre situé parcelle 28 en 2017.
