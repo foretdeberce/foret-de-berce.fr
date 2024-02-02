@@ -15,8 +15,8 @@ en compagnie du Préposé des Eaux et Forêts Louis Pigault, lorsque celui ci oc
 le poste de la Maison Forestière des Clos, vers 1920.
 
 Mr. Massicot travaillait comme facteur pour la maison CAREL du Mans qui faisait du  Merrain.
-Il avait une roulotte avec un cheval. *(Maurice Vérité)*. 
-Dupré, de Beaumont était celui de la Maison Ferrant. 
+*Il avait une roulotte avec un cheval.* (Maurice Vérité). 
+*Dupré, de Beaumont était celui de la Maison Ferrant.* 
 
 En 1928, les adjudicataires ne sont plus tenus d’avoir des gardes ventes, 
 ils en conservent la possibilité (article 31 du nouveau code forestier).
@@ -28,7 +28,7 @@ Bien avant Guerre, l'abattage des arbres de futaie à "culée noire"
 c’est à dire avec extraction de souches, de façon à récupérer une 
 quantité appréciable de bois de chauffage était coutume dans toutes
 les coupes de régénération feuillue. Cela concernait donc une grosse
-majorité d’arbres exploités de cette façon. 
+majorité d’arbres exploités de cette façon.* 
 
 Au dire du Brigadier Poumerol le 23 juin 1942 : 
 *«sans aucun inconvénient, ni du côté des bûcherons,
@@ -53,7 +53,8 @@ Les 3 frères : Gaston, Jules (né en 1915) et Bernard (né en 1926)
 Il fallait bien vivre et ce n’était pas le petit bordage qui procurerait 
 	du travail à ces trois solides gaillards.
 	
-Gaston l’aîné, arrêta son activité vers 1978. Il était connu de tous, pour le port immodéré des sabots qu’il 
+Gaston l’aîné, arrêta son activité vers 1978.
+Il était connu de tous, pour le port immodéré des sabots qu’il 
 n’avait jamais quittés, lui déformant à vie les pieds tout en leur donnant de la corne.
 La terre venait sournoisement s’immiscer à l’intérieur des sabots s’accumulant dans les pointes! 
 
@@ -65,9 +66,9 @@ Le métier de bûcheron, Gaston l’exerçait au début avec Maxime Claudot né 
     La terre des briques était prélevée sur place, il fallait faire
     1000 briques minimum dans la journée, certains
     en faisaient 2000. En forêt, nous avons longtemps travaillé pour
-    Ballion : *ce chose quoi**, il était bien gentil, on avait toujours
+    Ballion : ce chose quoi**, il était bien gentil, on avait toujours
     du travail, puis à la fin , pour d’autres marchands de bois
-    (Ballion, Landais d’origine, terminait ainsi (*) toutes ses phrases.
+    (Ballion, Landais d’origine, terminait ainsi (**) toutes ses phrases.
 
     Les extractions de souches à la hache étaient très difficiles,
     mais à la tronçonneuse on y arrivait plus vite et mieux.
@@ -83,7 +84,7 @@ Le métier de bûcheron, Gaston l’exerçait au début avec Maxime Claudot né 
     Quand il pleuvait ou quand cela nous prenait,on faisait des petites
     fêtes entre nous. On n’était pas embêté par les Gardes, 
     ils étaient habitués avec nous, en plus ils étaient presque
-    tous du *« Pays »*.
+    tous du « Pays ».
     
 {{<figure src="/images/articles/famille-le-meunier-ciret.jpg" title="Les familles Le Meunier et Ciret">}}
     
@@ -111,17 +112,17 @@ condamnée par l'évolution des techniques et l'utilisation de la tronçonneuse 
 > Au début c’était la cognée (la hache), ce qui nous a sauvé ce sont les tronçonneuses.*
 >> -- Gaston Masseau, Juin-1998
 
-Avant le passe partout, les bûcherons s’appliquent à moiner le pied, c’est à dire à l’égobeler ou lui ôter
-les hanches. 
+Avant le passe partout, les bûcherons s’appliquent à moiner le pied, c’est à dire à l’égobeler ou lui ôter les hanches. 
 
-Bercé c’est aussi une série résineuse de 2500 ha, moins prestigieuse que les 3000 ha de chênes, mais plus
-ouvrageuse.
-Edouard Guillier (quand il n’éhoupait pas) abattait les coupes pour Garnier, marchand de bois à Mayet et
-pour bien d’autres encore.
+Bercé c’est aussi une série résineuse de 2500 ha, moins prestigieuse que les 3000 ha de chênes, 
+mais plusouvrageuse.
+Edouard Guillier (quand il n’éhoupait pas) abattait les coupes pour Garnier, 
+marchand de bois à Mayet et pour bien d’autres encore.
 
 La famille Pichon, a fourni en Bercé des bûcherons de père en fils depuis des générations.
-Daniel dont le Père Raymond et le Grand Père Jules était aussi Bûcheron, pare le 5 décembre 1985 le plus
-gros chêne des Clos (1 m 40 de diamètre), qui a été vendu la bagatelle somme de 113.000F HT soit 17.227 €.
+Daniel dont le Père Raymond et le Grand Père Jules était aussi Bûcheron, 
+pare le 5 décembre 1985 le plus gros chêne des Clos (1 m 40 de diamètre), 
+qui a été vendu la bagatelle somme de 113.000F HT soit 17.227 €.
 
 {{<figure src="/images/articles/bucherons.jpg" title="Les frères Pichon et Denis Legeay">}}
     
@@ -129,125 +130,125 @@ gros chêne des Clos (1 m 40 de diamètre), qui a été vendu la bagatelle somme
     
 ###  NOM  Prénom	 Village
 	
-ADET	René	St Vincent du L
-ADET	Théodore	St Vincent du L
-BELLANGER	Victor	St Vincent du L
-BERGEON/TULLEAU	Eugène	Mayet
-BIGNON	Joseph	Chahaignes
-BIGNON	Pierre	Chahaignes
-BOUZEAU	Auguste	Mayet
-BRIMBOL	Ernest	Marigné Laillé
-BUSSON	Louis	St Vincent du L
-BUSSON	Jean Baptiste	St Vincent du L
-CARDO	Antoine	Marigne Laillé
-CHALIGNY	Pierre	Marigné Laillé
-CHANTOISEAU	Armand	Mayet
-CHANTOISEAU	Auguste	St Pierre du L
-CHARDON	René	St Vincent du L
-CHARDON	Hilaire	St Vincent du L
-CHARPENTIER	Louis	Mayet
-CHAUSSON	Georges	Chahaignes
-CHAUSSON	René	St Pierre du L
-CHOUTEAU	Joseph	St Vincent du L
-CIRET	        Pruillé L'Éguillé
-COMPAIN	Auguste	Mayet
-COMPAIN	Henri	Lavernat
-COUDRAY	Armand	St Vincent du L
-COURTEVILLE	Ferdinand	Lavernat
-DERRÉ	Auguste	St Vincent du L
-DERRÉ	Louis	St Vincent du L
-DOMINEAU	Etienne	Chahaignes
-DOUINEAU	Julien	Chahaignes
-DOUINEAU	Etienne	Chahaignes
-DRONNE	Henri	Lavernat
-DROUAULT	Henri	Marigné Laillé
-DROUAULT 	Louis	St Vincent du L
-DUBOIS	Louis	Mayet
-DUPARC	Jules	St Vincent du L
-DUPRÉ	Marin	Chahaignes
-DUPUY	Victor	Mayet
-FASSOT 	Joseph	Chahaignes
-FONTAINE	Charles	Mayet
-FOUCHER	Ernest	St Vincent du L
-FOUQUERAY	Louis	St Vincent du L
-FOUQUET	Roger	Marigne Laillé
-FOURMY	Henri	Marigné Laillé
-FOURMY	Emile	Mayet
-FRESNEAU	Jules	Mayet
-GESLIN	Roger	Marigne Laillé
-GODIN	Etienne	St Vincent du L
-GODIN	Etienne	St Vincent du L
-GOUFFIER	Alexandre	Chahaignes
-GUIMIER	Jean Baptiste	St Vincent du L
-GUIMIER	Louis	St Vincent du L
-GUIMIER	Auguste	Thoiré/Dinan
-HERVÉ	René	St Vincent du L
-HERVÉ	Théophile	St Vincent du L
-HERVÉ	Ernest	St Vincent du L
-HUBERT	Eugène	Mayet
-HUGER	Francois	St Vincent du L
-JALANS	Raphael	Jupilles
-JOUBERT	Jacques	St Vincent du L
-LANDAIS	Clément	Mayet
-LARDRON	Louis	St Vincent du L
-LE SELLEC	Jean Marie	Mayet
-LEBERT 	Antoine	St Vincent du L
-LEBERT 	Lazare	St Vincent du L
-LEBOUC	Lucien	Marigné Laillé
-LECOMTE	Louis	St Vincent du L
-LECOMTE	Louis	St Vincent du L
-LEDUC	René	St Vincent du L
-LEFEBVRE	Ferdinand	St Vincent du L
-LEFEBVRE	Louis	St Vincent du L
-LEGUILLON	Albert Auguste	Marigné Laillé
-LE MEUNIER Maxime Pruillé l'Éguillé	
-LEPROUST	Auguste	Marigné Laillé
-LESNAULT	René	Chahaignes
-LESNAULT	Pierre	Chahaignes
-LEVILLAIN	Jules	Thoiré/Dinan
-LEVILLAIN	Isidore	Thoiré/Dinan
-LEVILLAIN	Georges	Thoiré/Dinan
-LUCE	Félix	St Mars d'O
-MANCELLIER	Marius	Chahaignes
-MARAIS	Henri	Chahaignes
-MARCHAND	Albert	Thoiré/Dinan
-MENIER	Raoul	Mayet
-MIGNOT	Julien	Chahaignes
-MOREAU	Ferdinand	Marigné Laillé
-MOREAU	Clotaire	Marigné Laillé
-MOREAU	Henri	Jupilles
-PAVY	Albert	Thoiré/Dinan
-PÉNEAU	Emile	St Vincent du L
-PEQUINEAU	Jules Henri	Marigné Laillé
-PESNEAU	Ferdinand	St Vincent du L
-PICHON	Alexandre	St Vincent du L
-PORTE	Jules	St Pierre du L
-POSSON	Pierre	Chahaignes
-QUENTIN	Achille	Mayet
-RAGOT	Auguste	Mayet
-RANVAZÉ	Pierre	St Vincent du L
-RAUX	Narcisse	Marigné Laillé
-RAUX	Gabriel	Marigné Laillé
-RENIER	Francois	Beaumont P de B
-ROBERT	Albert	Marigné Laillé
-ROGELY	Louis	Marigne Laillé
-ROUILLARD	Lucien	Marigné Laillé
-ROUSSARD	Pierre	St Vincent du L
-SERPIN	Urbain	Chahaignes
-SIMON	Maurice	St Mars d'O
-TABAREAU	Joseph	St Vincent du L
-TABAREAU	Noel	St Vincent du L
-TABEUR	Raymond	Thoiré/Dinan
-TABEUR	Emile	Thoiré/Dinan
-THIODET	Alexandre	St Vincent du L
-THIODET	Pierre	St Vincent du L
-THIODET	Hilaire	St Vincent du L
-TROUILLARD	Emile	Marigné Laillé
-TROUVÉ	Marcel	Lavernat
-VENOT	X	Jupilles
-VERITÉ	Louis	St Vincent du L
-VIVET	Jules	Jupilles
-*Liste non exhaustive*
+ADET	René	St Vincent du L -
+ADET	Théodore	St Vincent du L -
+BELLANGER	Victor	St Vincent du L -
+BERGEON/TULLEAU	Eugène	Mayet -
+BIGNON	Joseph	Chahaignes -
+BIGNON	Pierre	Chahaignes -
+BOUZEAU	Auguste	Mayet -
+BRIMBOL	Ernest	Marigné Laillé -
+BUSSON	Louis	St Vincent du L -
+BUSSON	Jean Baptiste	St Vincent du L -
+CARDO	Antoine	Marigne Laillé -
+CHALIGNY	Pierre	Marigné Laillé -
+CHANTOISEAU	Armand	Mayet -
+CHANTOISEAU	Auguste	St Pierre du L -
+CHARDON	René	St Vincent du L -
+CHARDON	Hilaire	St Vincent du L -
+CHARPENTIER	Louis	Mayet -
+CHAUSSON	Georges	Chahaignes -
+CHAUSSON	René	St Pierre du L -
+CHOUTEAU	Joseph	St Vincent du L -
+CIRET	        Pruillé L'Éguillé -
+COMPAIN	Auguste	Mayet -
+COMPAIN	Henri	Lavernat -
+COUDRAY	Armand	St Vincent du L -
+COURTEVILLE	Ferdinand Lavernat -
+DERRÉ	Auguste	St Vincent du L -
+DERRÉ	Louis	St Vincent du L -
+DOMINEAU	Etienne	Chahaignes -
+DOUINEAU	Julien	Chahaignes -
+DOUINEAU	Etienne	Chahaignes -
+DRONNE	Henri	Lavernat -
+DROUAULT	Henri	Marigné Laillé -
+DROUAULT 	Louis	St Vincent du L -
+DUBOIS	Louis	Mayet -
+DUPARC	Jules	St Vincent du L -
+DUPRÉ	Marin	Chahaignes -
+DUPUY	Victor	Mayet -
+FASSOT 	Joseph	Chahaignes -
+FONTAINE	Charles	Mayet -
+FOUCHER	Ernest	St Vincent du L -
+FOUQUERAY	Louis	St Vincent du L -
+FOUQUET	Roger	Marigne Laillé - 
+FOURMY	Henri	Marigné Laillé -
+FOURMY	Emile	Mayet -
+FRESNEAU	Jules	Mayet -
+GESLIN	Roger	Marigne Laillé -
+GODIN	Etienne	St Vincent du L -
+GODIN	Etienne	St Vincent du L -
+GOUFFIER	Alexandre	Chahaignes -
+GUIMIER	Jean Baptiste	St Vincent du L -
+GUIMIER	Louis	St Vincent du L -
+GUIMIER	Auguste	Thoiré/Dinan -
+HERVÉ	René	St Vincent du L -
+HERVÉ	Théophile	St Vincent du L -
+HERVÉ	Ernest	St Vincent du L -
+HUBERT	Eugène	Mayet -
+HUGER	Francois	St Vincent du L -
+JALANS	Raphael	Jupilles -
+JOUBERT	Jacques	St Vincent du L -
+LANDAIS	Clément	Mayet -
+LARDRON	Louis	St Vincent du L -
+LE SELLEC	Jean Marie	Mayet -
+LEBERT 	Antoine	St Vincent du L -
+LEBERT 	Lazare	St Vincent du L -
+LEBOUC	Lucien	Marigné Laillé -
+LECOMTE	Louis	St Vincent du L -
+LECOMTE	Louis	St Vincent du L -
+LEDUC	René	St Vincent du L -
+LEFEBVRE	Ferdinand	St Vincent du L -
+LEFEBVRE	Louis	St Vincent du L -
+LEGUILLON	Albert Auguste	Marigné Laillé -
+LE MEUNIER Maxime Pruillé l'Éguillé -	
+LEPROUST	Auguste	Marigné Laillé -
+LESNAULT	René	Chahaignes -
+LESNAULT	Pierre	Chahaignes -
+LEVILLAIN	Jules	Thoiré/Dinan -
+LEVILLAIN	Isidore	Thoiré/Dinan -
+LEVILLAIN	Georges	Thoiré/Dinan -
+LUCE	Félix	St Mars d'Outillé - 
+MANCELLIER	Marius	Chahaignes -
+MARAIS	Henri	Chahaignes -
+MARCHAND	Albert	Thoiré/Dinan -
+MENIER	Raoul	Mayet -
+MIGNOT	Julien	Chahaignes -
+MOREAU	Ferdinand	Marigné Laillé -
+MOREAU	Clotaire	Marigné Laillé -
+MOREAU	Henri	Jupilles -
+PAVY	Albert	Thoiré/Dinan -
+PÉNEAU	Emile	St Vincent du L -
+PEQUINEAU	Jules Henri	Marigné Laillé -
+PESNEAU	Ferdinand	St Vincent du L -
+PICHON	Alexandre	St Vincent du L -
+PORTE	Jules	St Pierre du L -
+POSSON	Pierre	Chahaignes -
+QUENTIN	Achille	Mayet -
+RAGOT	Auguste	Mayet -
+RANVAZÉ	Pierre	St Vincent du L -
+RAUX	Narcisse	Marigné Laillé -
+RAUX	Gabriel	Marigné Laillé -
+RENIER	Francois	Beaumont P de B -
+ROBERT	Albert	Marigné Laillé -
+ROGELY	Louis	Marigne Laillé -
+ROUILLARD	Lucien	Marigné Laillé -
+ROUSSARD	Pierre	St Vincent du L -
+SERPIN	Urbain	Chahaignes -
+SIMON	Maurice	St Mars d'Outillé -
+TABAREAU	Joseph	St Vincent du L -
+TABAREAU	Noel	St Vincent du L -
+TABEUR	Raymond	Thoiré/Dinan -
+TABEUR	Emile	Thoiré/Dinan -
+THIODET	Alexandre	St Vincent du L -
+THIODET	Pierre	St Vincent du L -
+THIODET	Hilaire	St Vincent du L -
+TROUILLARD	Emile	Marigné Laillé -
+TROUVÉ	Marcel	Lavernat -
+VENOT	X	Jupilles -
+VERITÉ	Louis	St Vincent du L -
+VIVET	Jules	Jupilles -
+**Liste non exhaustive**
 
  ## Autres articles concernant les productions forestières: ## 
 
