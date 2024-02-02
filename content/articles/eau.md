@@ -9,7 +9,7 @@ tags: ["eau","géologie","topographie","cartographie"]
 
 **Eaux et Forêt….L’eau et Bercé**
 
-***les chemins de l’eau.*** 
+**les chemins de l’eau.** 
 
 *Si l’eau est assez rare à Bercé (à l’exception de quelques sources) 
 les formes que prennent ces chemins sont assez variées.
@@ -151,37 +151,44 @@ peut-être fourni le bâti de Jupilles.
 Le mortier de la Mondaye (situé parcelle 9)
 fut par méconnaissance asséché par un fossé 
 de plus de deux mètres de profondeur, pour faire 
-place à la sylviculture du pin. Depuis il a été réhabilité.
+place à la sylviculture du pin. 
+Depuis il a été réhabilité.
 
  
 ### Les fontaines  
  
 L'explication géologique du phénomène nous est donnée par
 l’inspecteur principal des Eaux et forêts Potel (1923) 
-dans son " Historique de la Forêt de Bercé *« … Sous le sol 
-de la forêt de Bercé, la nappe d'eau se trouve à une profondeur 
-de 30 à 33 m, elle coule sur les grès vert supérieur sur 
-lesquels repose la craie tuffeau. Les seules sources qu’on 
-rencontre émergent de ces grès au fond de petites vallées 
-assez profondes».* 
+dans son " Historique de la Forêt de Bercé 
+
+*« … Sous le sol de la forêt de Bercé, la nappe d'eau
+se trouve à une profondeur de 30 à 33 m, elle coule sur 
+les grès vert supérieur sur lesquels repose la craie tuffeau.
+Les seules sources qu’on rencontre émergent de ces grès
+au fond de petites vallées assez profondes».* 
 
 {{<figure src="/images/articles/coudre54.jpg" title="La fontaine de la Coudre ">}}
 
 
 Elles ont permis l'installation en forêt des premiers 
 ermites, des défricheurs, et de leur bétail, rendant ainsi 
-moins agressif ce milieu hostile et sauvage. La vieille 
-pratique celte de la régénération par l’eau a traversé 
+moins agressif ce milieu hostile et sauvage.
+
+La vieille pratique celte de la régénération par l’eau a traversé 
 les âges, et certaines sources ont été adulées pour 
-leur action bienfaisante : (Fontaine aux Malades, 
-recherchée pour les maladies des yeux , les bébés buvaient de cette eau).
+leur action bienfaisante : 
+(par exemple la Fontaine aux Malades, recherchée pour les maladies des yeux.
+Les bébés faisaient ablution de cette eau).
  
 {{<figure src="/images/articles/coudre3.jpg" title="Le puits et le lavoir ">}}
 
 
 Ces eaux, coulent puis se perdent dans le tréfonds avant de
-resurgir à l’air libre : Fontaine Froide, Fontaine des Roches,
-Gaie Mariée. Toutes ont été respectées au cours des siècles passés. 
+resurgir à l’air libre :
+
+Fontaine Froide, Fontaine des Roches, Gaie Mariée. 
+
+Toutes ont été respectées au cours des siècles passés. 
  
  
 Parfois, comme dans le canton des vieux puits, les eaux souterraines 
@@ -199,14 +206,16 @@ A Bercé, toute vallée possède son " Ru " ou ruisseau, en
 équilibre avec la nappe phréatique.
 Certains sont alimentés par des sources et coulent tout au 
 long de l'année :
- le Dinan à la Coudre et les Haies à l'Hermitière. 
+
+Le Dinan à la Coudre et les Haies à l'Hermitière. 
  
 {{<figure src="/images/articles/ruisseau1960.jpg" title="Le ruisseau de l’Hermitière ">}}
 
 
 D’autres sont situés sur des fonds calcaires, coulent puis se perdent dans le 
-tréfonds avant de resurgir parmi les cultures : Fontaine Froide, 
-Fontaine des Roches, Gaie Mariée.
+tréfonds avant de resurgir parmi les cultures : 
+
+Fontaine Froide, Fontaine des Roches, Gaie Mariée.
  
 Certains ne se chargent qu'en cas de pluie abondante :
 le Court s’il pleut, le Chabosson,  etc. ...
@@ -221,8 +230,9 @@ château d'eau naturel de Bercé vers le Loir, la Sarthe ou l’Huisne.
 
 ### Les lavoirs 
 Le dernier lavoir public en forêt se situait aux sources
-de l'Hermitière (deux emplacements). Réglementé par 
-arrêté préfectoral et subventionné par les communes 
+de l'Hermitière (deux emplacements).
+
+Réglementé par arrêté préfectoral et subventionné par les communes 
 de Saint-Vincent-du-Lorouër et de Jupilles, il a été 
 régulièrement entretenu par les ouvriers forestiers
 jusqu'en 1944. 
