@@ -20,7 +20,9 @@ C'est officiel... le 18 mars 2017, Bercé devient la 7ème forêt d'exception...
 Après Fontainebleau, Verdun, La Grande Chartreuse, Rouen, Val Suzon et Montagne de Reims, Bercé est enfin
 la 7ème forêt labellisée.
 
-**Dix autres forêts attendent encore de recevoir ce précieux sésame, dont une en Martinique.**
+**Dix autres forêts** 
+
+Attendent encore de recevoir ce précieux sésame, dont une en Martinique.
 
     Depuis des siècles, les arbres sont davantage
     l’œuvre des hommes que celle de la nature.
@@ -35,10 +37,11 @@ essentiels qui sont :
 1. Accueillir les visiteurs.
 
 
-## Bienvenue  à Bercé, ce terroir ou l’on cultive l’Excellence !
+## Bienvenue  à Bercé,
+## ce terroir ou l’on cultive l’Excellence !
 
-Située au Nord de la vallée du Loir, la majestueuse forêt domaniale de Bercé s’étend sur 5337 hectares,
-11 communes, et 5 communautés de communes, entre le Mans et Tours, sur le plateau Calaisien, 
+Située au Nord de la Vallée du Loir, la majestueuse forêt domaniale de Bercé s’étend sur 5337 hectares,
+**11** communes, et **4** communautés de communes, entre le Mans et Tours, sur le plateau Calaisien, 
 à une altitude moyenne de 150 m.
 
 Elle est boisée pour l’essentiel de chênes aux longs fûts plusieurs fois centenaires et de hêtres.
