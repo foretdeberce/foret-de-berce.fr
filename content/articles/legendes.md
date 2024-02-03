@@ -70,6 +70,8 @@ C'était un jeune qui pour se faire entendre aurait joué du clairon jusqu'à la
 
 ## Sous terre ##
 
+Pour vous, avec mon frère et quelques riverains, nous avons sondé plusieurs soirées d'été les profondeurs de l'Hermitière pour y découvrir les secrets enfouis...
+
 [L’Hermitière souterraine]({{<ref "articles/hermitiere4.md">}})
 
 ## Autres liens concernant les curiosités de Bercé ##
