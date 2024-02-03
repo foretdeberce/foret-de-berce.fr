@@ -21,22 +21,19 @@ Sous lieutenant de réserve le 19 septembre 1887.
 
 Il se marie avec Madeleine Caroline Dumas en 1888. 
 Lieutenant de réserve 19 septembre 1889.
-
-
 Avec Madeleine, ils auront 3 enfants.
 
 Au décès de son épouse en 1891, il se remarie en 1894 avec Mathilde
 Marguerite Jeanne Bigot avec laquelle il aura 4 enfants.
-
-Capitaine en 1895.
+A l'armée il est capitaine en 1895.
 Chef de bataillon le 9 février 1905
 Services  dans l’active : 3ans 11mois 17 jours
 Services  dans la réserve : 36 ans 3mois 17 jours
 
+
 ### Inspecteur principal des Eaux et forêts
 
-M. Potel (Louis-Amédée-Raoul), inspecteur des eaux et forets de 1ère classe à Neutchâteau-Sud (Vosges), 
-est appelé; en la même qualité, au Mans (Sarthe), en remplacement de M. Allaire, 
+M. Potel *(Louis-Amédée-Raoul)*, inspecteur des eaux et forets de 1ère classe à Neutchâteau-Sud (Vosges), est appelé le 23 mai 1919 en la même qualité, au Mans (Sarthe), en remplacement de M. Allaire, 
 qui a été admis à faire valoir ses droits à la retraite.
 
 Il habitera successivement au 41 puis au 123 de l’avenue Bollée au Mans.
@@ -45,7 +42,7 @@ Il a été promu chevalier de la légion d’Honneur en novembre 1924.
 
 Il sera nommé chevalier du mérite Agricole. 
 
-Cessation de fonction : 1929 (Retraite)
+Cessation de fonction : 1929 *(pour retraite)*
 
 {{<figure src="/images/articles/toponymiepotel1924.jpg"  title="Carte toponymique 1924">}}
 
@@ -146,7 +143,7 @@ Circonférence en :
 {{<figure src="/images/articles/potel20140317.jpg"  title="Le chêne Potel">}}
 
 
-Souvenez-vous dans l'onglet consacré à l’ancien chêne Boppe (2) Le médecin 
+Souvenez-vous dans l'onglet consacré à l’ancien chêne Boppe **(2)** Le médecin 
   légiste qui s’était penché au chevet de l’arbre déjà très intoxiqué… c’était … Potel.
 La photo ci-dessous prise par l’inspecteur montre d’ailleurs un crochetage 
   sensé détasser le sol au pied de l’ancien chêne Boppe.
