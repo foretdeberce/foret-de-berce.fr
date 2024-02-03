@@ -54,7 +54,7 @@ cerfs, daims, sangliers et loups sont chassés à courre.
      même motif avec les écoles d’agriculture.
 
 
-### Les loups
+### Les loups.
 
 N’oublions pas qu’il n'y a pas si longtemps encore le loup rodait
 dans les parages faisant lui aussi son ménage. 
@@ -63,7 +63,7 @@ La destruction en revenait aux fermiers du tir ou du courre,
 ou aux lieutenants de louveteries lors de battues particulières,
 dites « officielles », donnant droit à primes.
 
-### Le sanglier
+### Le sanglier.
  
 L'avantage des battues aux sangliers (très prisées de tous temps)
 c'est que la bête fauve offre non seulement une chasse très sportive,
@@ -104,13 +104,14 @@ Les préposés aux Eaux et forêts, portant fusil dans leurs tournées,
   
 Le système des battues repose sur les plaintes des agriculteurs environnants, 
   voir des forestiers, ainsi Heintz le 30 juin 1882 : 
+  
 *«Été chez Mr. Dineau des Arcis, pour m'entendre avec lui pour des dégâts 
-  causés dans son blé et avoine par les sangliers»*, les betteraves, 
-  les pommes de terre, les choux, le colza, le trèfle incarnat n’échappant
+  causés dans son blé et avoine par les sangliers»*, 
+  les betteraves, les pommes de terre, les choux, le colza, le trèfle incarnat n’échappant
   pas « aux dents de la forêt ». Les dégâts sont indemnisés et
   ils sont tels que la forêt semble en danger : 
   
-**24 février 1884,**
+**24 février 1884**
 	
 Pierre Marin Leroi, signalait : *« suite aux dégâts : surveillé 5 ouvriers à 
 semer de la faine au plantoir, pour réensemencer les dégâts causés 
@@ -126,7 +127,7 @@ Note de M. l'inspecteur.
   et diriger la battue. Il est rédigé ensuite un procès verbal
   de battue. Les Co-fermiers doivent être prévenus de celle-ci.»*
   
-**15 janvier 1885,**
+**15 janvier 1885**
 	
 Battue aux sangliers sur Saint-Pierre-du-Lorouër, 
   à 10h du matin surveillée par les gardes Guyomarch 
@@ -151,7 +152,7 @@ Battue aux sangliers sur Saint-Pierre-du-Lorouër,
      Résultat : Néant
      Fait et clos à la Maison Forestière des Clos
 
-**24 Janvier 1885 :**
+**24 janvier 1885 :**
 	
 Une autre battue aux sangliers est organisée sur la commune de Chahaignes
   Nous avons trouvé les nommés ci-dessous:
@@ -200,7 +201,7 @@ au sieur Ménard Albert de Saint-Pierre-du-Lorouër.»*
 
 **11 mars 1906 :** 
 	
-*« Montre au brigadier une fosse à loup, près du périmètre P.A 4 **(P.251)** 
+*« Montre au brigadier une fosse à loup, près du périmètre P.A 4 (P.251) 
   champ Guimier et le 13 fait une enquête.»*
   
 **30 juillet 1906 :** 
@@ -242,7 +243,7 @@ Silvestre écrit *« Battue au rond de Verneil et environs, vu le garde Robert �
 	
 Une note de l’inspecteur Potel précise aux adjudicataires de la chasse, 
 
-  *de ne pas tuer les biches et les chevrettes, par contre est autorisé,
+  *...de ne pas tuer les biches et les chevrettes, par contre est autorisé,
   en temps de neige la chasse par les détendeurs de ce droit, des sangliers
   et tous animaux classés comme nuisibles, jusqu'au 31 mars suivant l'ouverture.* 
 
@@ -330,11 +331,11 @@ Résultat : *4 petits sangliers tués l’après midi. »*
   
 **13 avril 1920 :** 
 	
-*« Nous foulons la croix-Marconnay – non attaqué – 5 tireurs (résultat néant) »*
+*« Nous foulons la croix-Marconnay – non attaqué – 5 tireurs **(Résultat néant)** »*
   
 **15 avril 1920 :**
 	
-*« Nous foulons Hautes-Perches et la Croix-Marconnay. Non attaqué. Résultat : néant. »*
+*« Nous foulons Hautes-Perches et la Croix-Marconnay. Non attaqué. **(Résultat : néant)**. »*
   
 ### Le chevreuil, en 1924 
   
@@ -540,6 +541,7 @@ Pour contenter  les riverains, on distribue les trophées.
 **Le 21 mai 1916 :**
 	
 Silvestre écrit
+
 *" Battue au Rond de Verneil et environs, vu le garde Robert 
   – Résultats : deux biches tuées et distribuées sur le terrain. 
   Rendu compte à Mr. l’inspecteur."*
