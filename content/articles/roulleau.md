@@ -33,7 +33,7 @@ Il partagera avec les éditeurs de cartes postales ses propres clichés,
 {{<figure src="/images/articles/roulleau325.jpg"  title="Les forestiers au rond du Clocher">}}
 
 ### Inspecteur adjoint 
-  au Mans dès 1885, et deviendra conservateur 
+  Au Mans dès 1885, et deviendra conservateur 
   des Eaux & Forêts en fin d’activité (Retraite en 1907). 
 En 1907, L.R. Roulleau de la Roussière, encore jeune, prenait sa retraite 
   de l’administration forestière. Il se consacra dès lors à la forêt privée
@@ -89,10 +89,12 @@ Le directeur des forêts refusa d'en faire une section hors cadre.
   
 ### 1904 :
   
-  Nouveau rapport... Daubrée accepte alors de surseoir aux coupes jusqu'à nouvel ordre.
+Nouveau rapport... Daubrée accepte alors de surseoir aux coupes jusqu'à nouvel ordre.
   
 Le cas est présenté à la chambre des députés en 1907, qui applaudit
-  la décision de conserver la parcelle. Révision de l'aménagement
+  la décision de conserver la parcelle. 
+  
+  Révision de l'aménagement
   en 1912 par M. Emery qui propose que la parcelle soit laissée
   en dehors des exploitations.
   
@@ -103,7 +105,7 @@ La Société historique et archéologique du Maine, la Société d’Agriculture
   Sciences et Arts de la Sarthe, puis le Conseil général écrivent au Préfet.
   L’histoire homérique de ce sauvetage fera l’objet d’un singulier 
   article publié en 1950 (Extrait de la « Revue Forestière Française » 
-  N° 12- Décembre 1950 (pages 738 à 741)
+  N° 12- décembre 1950 (pages 738 à 741)
   
 Le corps des officiers forestiers de Nancy venant régulièrement
   en déplacement sur Bercé lors des tournées forestières, 
@@ -119,9 +121,9 @@ Aujourd’hui nombre de ronds, routes ou chênes portent le souvenir de leur mé
 
 Une route, que Roulleau mettra en chantier, 
   
-  un rond qui prendra la place du rond de Croix-Veneur, 
+un rond qui prendra la place du rond de Croix-Veneur, 
   
-  et un chêne saluent aujourd’hui ce forestier d’exception.
+et un chêne saluent aujourd’hui ce forestier d’exception.
   
 {{<figure src="/images/articles/roulleau542.jpg"  title="Projet de rond et d’avenue Roulleau">}}
 
@@ -141,11 +143,11 @@ Cubage des bois sur pied et abattus : manuel pratique :
   
 Les Atteintes législatives à la propriété forestière : 
   la coupe rase et la loi des cinq possibilités / 
-  par R. Roulleau / Le Mans : impr. de Benderitter, 1909
+  par R. Roulleau / Le Mans : imprimerie de Benderitter, 1909
   
 Modalité du procédé d'estimation du bois d’œuvre chêne au
   centimètre de diamètre... / René Roulleau de la Roussière /
-  Poitiers : impr. de Blais et Roy, [1910]
+  Poitiers : imprimerie de Blais et Roy, 1910
 
 Révision de l'impôt forestier actuellement en cours :
   guide pratique pour les propriétaires de bois et état de la
@@ -158,15 +160,15 @@ Les Accidents du travail en matière forestière :
   / Paris : Berger-Levrault , 1917
   
 La Question forestière après la guerre / par le comte Jean de Nicolaÿ,
-  ... [et] R. Roulleau de La Roussière,... / Paris : 
+  ... et R. Roulleau de La Roussière,... / Paris : 
   Association nationale d'expansion économique, 1917
   
-Le cheptel forestier et le fonds des forêts / R. roulleau de la Roussière
-  / Paris : Association nationale d'expansion économique, 1918
+Le cheptel forestier et le fonds des forêts / R. Roulleau de la Roussière
+  / Paris : Association Nationale d'Expansion Économique, 1918
   
 Cubage des bois sur pied et abattus : manuel pratique : dix-sept tables 
   et tarifs de cubage pour bois en grume et équarris / R. Roulleau de La Roussière,... 
-  / 2e éd. 1919 rev. et augm. - 1926 / Paris : Librairie agricole de la Maison rustique.
+  / 2e éd. 1919 revue et augmentée - 1926 / Paris : Librairie agricole de la Maison rustique.
 
 ## Autres articles concernant les officiers forestiers : ## 
 
