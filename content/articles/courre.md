@@ -79,7 +79,9 @@ Les adjudicataires possèdent un rendez vous (habitation de loisir),
   
 Les membres d'un équipage qui portent le bouton et acquittent 
   leur cotisation pour les frais d'entretien de la meute sont 
-  appelés « boutons ».  Certains membres de l'équipage qui payent 
+  appelés « boutons ».  
+  
+  Certains membres de l'équipage qui payent 
   moins n'ont droit qu'au port du gilet sous une redingote noire :
   ils sont nommés « gilets ».
  
@@ -88,10 +90,6 @@ Par exemple, il  y a actuellement six locataires du droit de chasse :
   chevreuil et un pour celui du cerf. La chasse à courre est pratiquée
   sur l’ensemble du massif.
   
-Les adjudicataires possédaient un rendez vous (habitation de loisir), 
-  mais les départs de chasse s’effectuaient le plus souvent à partir
-  d’une loge ou d’un rond point stratégique en forêt.
- 
 Une messe de Saint Hubert (patron des forestiers et des chasseurs) 
   est célébrée  traditionnellement en forêt début octobre, marquant 
   ainsi le début de la saison de chasse. (Le 10 octobre 1954, 
@@ -121,12 +119,14 @@ Cette société avait comme président Mr le Comte d’Andigné et comme sociét
 ### 1886 :
   
 [Le Rallye Bersay](/articles/pdf/1886-1895ralliebersay.pdf) (Maine-Anjou) Maître d'équipage : duc de Gramont, château  de Mangé (Sarthe) – 
+
 Invitée [Mme la Duchesse d’Uzès](/articles/pdf/duchesse-uzes.pdf).
 
 ### 1891 : 
   
 Co-fermier du courre : M. le duc Agénor de Gramont (Château de Mangé - rallye Vallière). 
-Le Rallie Vallière est l'ancien Rallye Bersay fondé en 1886 dans la Sarthe et qui fut installé à Vallière en 1895.  
+Le "Rallie" Vallière est l'ancien Rallye Bersay fondé en 1886 dans la Sarthe et qui fut installé à Vallière en 1895.  
+
 Courre du sanglier : Mr le Comte François de la Rochefoucauld 
  
 {{<figure src="/images/articles/003equipages.jpg"  title="Les trois équipages">}}
@@ -153,11 +153,11 @@ Co Fermier du courre [Mr le Baron de Layre](/articles/pdf/1894-1936layre.pdf) :
  
 {{<figure src="/images/articles/scarequipages.jpg" title="Bercé, le courre vers 1906">}}
 
-(Chasse au Cerf)  Mr le Comte Pierre de Felcourt 
+(Chasse au Cerf)  Mr le Comte Pierre de Felcourt. 
 
 (Chasse au Sanglier) Rallye invité : [Rallye Chistré (1928-1933)](/articles/pdf/1863-1932rallyechistre.pdf)
 
-Invité : L’équipage du Luart
+Invité : L’équipage du Luart.
  
 [Le Luart](/articles/pdf/le-luart.pdf)
  
@@ -175,7 +175,7 @@ Rallyes  invités : [Rallye Juigné](/articles/pdf/1901-1924juigne.pdf) et équi
 
 {{<figure src="/images/articles/curee4500juigne.jpg"  title="Rallye Juigné">}}
 
-Louvetier : Mr de la Blanchère
+Louvetier : Mr de la Blanchère.
  
 ### 1914 :
   
@@ -186,18 +186,21 @@ La chasse est interdite pour toutes les espèces de gibier (sauf le lapin).
  {{<figure src="/images/articles/carnetchassesimier.jpg"  title="Le carnet du garde Simier">}}
  
  Entre 1916 et 1918, l’on voit de nouveau les battues et
-  les chasses à courre réapparaître par pure nécessité alimentaire (le chevreuil 
+  les chasses à courre réapparaître par pure nécessité alimentaire *(le chevreuil 
   et la moitié du sanglier a été envoyé à l’ambulance, le reste distribué aux tireurs
-  et riverains). [Le Garde particulier de Mr d’Andigné est Albert Simier](/articles/pdf/1919carnetsimier.pdf)
+  et riverains)*.
+  [Le Garde particulier de Mr d’Andigné est Albert Simier](/articles/pdf/1919carnetsimier.pdf)
   
 ### 1920 
   
 Adjudicataire du bail de 1920 à 1929 : Mr Albert Bordeaux (21 rue de Flore- le Mans)
- 
-Adjudicataire du bail de 1920 à 1929 : Mr Albert Bordeaux (21 rue de Flore- le Mans)
+
 Co Fermier du Courre : [Mr le Comte Henri d'Andigné (château de Resteau)](/articles/pdf/100rallyeberce.pdf)
-  et le Baron  de Layre : Chasse à courre cerf et sanglier, sur les lots 1à5 (lot 4 à tir)
+
+et le Baron  de Layre : Chasse à courre cerf et sanglier, sur les lots 1à5 (lot 4 à tir)
+
 [Mr le Comte Henri d'Andigné et l’équipage Champchevrier](/articles/pdf/1933sportuniverselillustre.pdf)
+
 Le louvetier est : Mr Marion
 
 {{<figure src="/images/articles/3equipages002.jpg"  title="En attendant le lancé">}}
@@ -217,6 +220,7 @@ Le louvetier est : Mr Marion
   
 Co-Fermier du tir : [Darblay](/articles/pdf/1927darblay.pdf) (château de la Motte, Souzay-Champigny– 49)
   a repris le lot n°5 pour le courre des sangliers (vautrait 1924-1928). 
+  
   Le garde particulier s’appelle Gobert.
 
 {{<figure src="/images/articles/000151.jpg"  title="Rallye Chistré">}}
@@ -228,10 +232,11 @@ Co-Fermier du tir : [Darblay](/articles/pdf/1927darblay.pdf) (château de la Mot
   
 Co-Fermier du courre : Rallye Chistré - Champchevrier
 [M. François Darblay (château de la Motte-Sonzay 37)](/articles/pdf/1924-1928vautraitdarblay.pdf) 
-  et Pierre Vernes ((banquier, dont le frère Edouard s’est marié avec Melle Darblay )
+
+et Pierre Vernes ((banquier, dont le frère Edouard s’est marié avec Melle Darblay )
 Le louvetier est: [Georges Willekens](/articles/pdf/1927-1935equipagewillekens.pdf) 
 
-En savoir plus sur cet équipage :
+Pour en savoir plus sur cet équipage : deux PDF.
   
 [1981 Vènerie N°62](/articles/pdf/1981venerie62willekens.pdf)
   
@@ -263,12 +268,12 @@ Avec mon père on a ouvert la porte et on l’a caché à l’intérieur (vallé
 cave en dessous d’un talus. Mais les chiens sont arrivés et ont reniflé l’entrée. 
 Nous avons du ouvrir quand le piqueur et les «  gros » (notables) sont arrivés.* 
   
-*Un autre jour, nous labourions un champ en bordure de forêt. Le cerf est venu sur 
-le talus avec les chiens derrière, il y avait un trou, le cerf est tombé dedans. (Fosse à gibier)*
-  
+*Un autre jour, nous labourions un champ en bordure de forêt. 
+Le cerf est venu sur le talus avec les chiens derrière, il y avait un trou, le cerf est tombé dedans.*(Fosse à gibier)
+
 *L’équipage Champchevrier, dans les débuts de saison arrivait à pied avec les chiens
-depuis la Touraine, accompagné d’hommes et de chevaux. Ils mettaient 2 jours et c’était 
-une aventure merveilleuse. L’équipage stationnait ensuite à Laillé.*
+depuis la Touraine, accompagné d’hommes et de chevaux. 
+Ils mettaient 2 jours et c’était une aventure merveilleuse. L’équipage stationnait ensuite à Laillé.*
   
 L’Histoire retiendra qu’un piqueur qui soignait au chenil les chiens depuis un balcon
 est tombé dans la fosse et s’est fait entièrement dévoré. 
@@ -308,15 +313,16 @@ Les chasses ordinaires reprennent - équipage de Champchevrier ……
 Le conservateur et les inspecteurs des Forêts suivent les chasses, 
 de même en 1952, Mr Blouère est souvent aperçu suivant 
 la chasse à courre. Les chasseurs se fédèrent en créant 
-la société des chasseurs de la forêt de Bercé.
+**la société des chasseurs de la forêt de Bercé.**
   
 ### En 1956 :
   
-le bail est porté de 9 à 12 ans.
+Le bail est porté de 9 à 12 ans.
   
 ### De 1957 à 1967 :
   
 [Rallye Touraine](/articles/pdf/1826rallietouraine.pdf): adjudicataire du courre - Hernandez surlouait le courre pour 50.000F
+
 Courre : [Marcel Tabur](/articles/pdf/1957-1980coevrons.pdf) (équipage des Coëvrons).
   
       La chasse à courre était pratiquée uniquement le dimanche. 
@@ -328,7 +334,7 @@ Mme. Couturier (équipage invité) distribuait à l’occasion de la curée, des
 et des gâteaux aux enfants présents. Le fait de tenir les chevaux : 10 F. 
 Il y avait aussi Mr de Reuzet et Mme Cheuvreux (Rallye Touraine).
 
-Informations sur le Rallye Touraine :
+Quelques informations sur le Rallye Touraine :
   
 [1969 Vènerie N° 13](/articles/pdf/1969venerietouraine13.pdf)
   
@@ -341,11 +347,12 @@ Informations sur le Rallye Touraine :
 Le bail passe de 6 à 12 ans.
   
 Vénerie :
+
 Lot 5, courre du cerf, équipage de [Champchevrier à Mme Xavier Bizard](/articles/pdf/1954bizardvenerie.pdf) 
 qui chasse depuis 1804 et est le plus vieil équipage de France ;
 Le Rallye Touraine, fondé en 1826, est souvent invité à chasser en Bercé. 
 
-Autres articles sur Champchevrier :
+Quelques articles sur Champchevrier :
   
 [1955 Vènerie N°1](/articles/pdf/1955veneriebizard.pdf)
   
@@ -396,11 +403,11 @@ spectacle auquel il faut préparer les enfants. Il est vrai qu’à l’heure de
 certains s’en prennent à ce mode "désuet" de chasse ancestrale qui perdure bien 
 après l’abolition des privilèges.
   
-  C’est signe que les veneurs ont su s’adapter.
+C’est signe que les veneurs ont su s’adapter.
  
 ### Affichette de contestation,
   
-  trouvée au Rond des Forges.
+Trouvée au Rond des Forges.
   
 {{<figure src="/images/articles/affichette.jpg"  title="Affichette de contestation, trouvée au Rond des Forges">}}
  
@@ -412,15 +419,15 @@ Dans les années 1980 le cheptel est en baisse significative, le plan de chasse
   A Bercé, cette régulation est assurée à la fois par la chasse à tir et à courre. 
  
 Aujourd’hui encore, le courre du cerf est toujours attribué à l'équipage Chamchevrier.
-Celui du chevreuil à la famille Haricot (le Mans) [Le Rallye Parence](/articles/pdf/1963rallyeparence.pdf), 
- créé en 1964 puis plus tard à son fils.
+Celui du chevreuil à la famille Haricot (le Mans) [Le Rallye Parence](/articles/pdf/1963rallyeparence.pdf), créé en 1964 puis plus tard à son fils.
+
 [Vènerie N°123 de 1996](/articles/pdf/venerie123-1996.pdf)  
 Celui du lièvre à Lionel Chevalier et Jeanick Bouraud, etc..
  
 Les mentalités évoluent et la chasse se veut de plus en plus respectueuse
   de l’environnement dans ces pratiques quotidiennes.
 
-Dans les année 1990, un couple d'ethnographes du CNRS : les Pinçon-Charlot,
+Dans les année 1990, un couple d'ethnographes du CNRS : **les Pinçon-Charlot**,
 tente de percer [les secrets de cette pratique](/articles/pdf/ethno-pincon-charlot1993.pdf) 
  qui divise en quelque sorte, notre société. 
  
@@ -470,4 +477,4 @@ Le Trésor de la Vènerie de Hardouin de Fontaines-Guérin (1394)
   
 Livrets journaliers des personnels forestiers. 
 
-Revue Au Fil du Temps N° 61 -  Pages  29 à  32  (Y. Gouchet - 10 – 2013)
+Revue Au Fil du Temps N° 61 -  Pages  29 à  32  (Y. Gouchet - 10/2013)
