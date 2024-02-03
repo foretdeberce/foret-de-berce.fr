@@ -11,10 +11,6 @@ tags: ["Faune","Biodiversité","Chasse","Lois"]
 
 Le mot "braconnier" a une origine incertaine, mais il est probablement dérivé du mot français "bracon" qui signifiait à l'origine "brasier" ou "feu de broussailles". 
 
-Au fil du temps, le terme a évolué pour désigner ceux qui chassaient illégalement sur des terres royales, souvent en utilisant des feux pour effrayer le gibier. 
-
-Ainsi, "braconnier" est devenu associé à la chasse illégale ou non autorisée. 
-
 **1178 broconnier** 
 Signifie *« veneur ou valet qui s'occupe des chiens de chasse »* (Renart, éd. Roques, v. 13401) et  1637 (Crespin, Le Thresor des trois langues);
 
@@ -22,6 +18,10 @@ Signifie *« veneur ou valet qui s'occupe des chiens de chasse »* (Renart, éd.
 Dérivé de bracon « braque » (1250, Roman d'Aubery), bracon (vers 1300 dans Rayn.);
 *bracon* est issu d'un gallo-romain. *braccóne* (braconem dans Lex Frisionum,  1552) correspondant. à l'accent germanique.
 *brakkon*; du nominé. *brakko* « chien de chasse » le fançais braque, vient de ce ce mot.
+
+Au fil du temps, le terme a évolué pour désigner ceux qui chassaient illégalement sur des terres royales, souvent en utilisant des feux pour effrayer le gibier. 
+
+Ainsi, "braconnier" est devenu associé à la chasse illégale ou non autorisée. 
 
 
 **Chasser est pour l’homme un besoin inné et fondamental à sa survie.**
@@ -196,17 +196,17 @@ Avec le temps la chasse se popularise. Tout à la joie de pouvoir enfin
 [Le droit de chasse en France de 1789 à 1914](/articles/pdf/chasseenfrancede1789a1914.pdf)
 
   
-**1793 :** c’est aussi l’époque de la chouannerie où les chouans 
+**1793 :** C’est aussi l’époque de la chouannerie où les chouans 
   sont partout et qu’on n’en voit nulle part. 
   
-Puis…1794, la chute de Robespierre… on mangeait du pain 
+Puis… **1794**, la chute de Robespierre… on mangeait du pain 
   d’avoine, de pomme de terre et même de glands. 
 
 ### Au 19ème siècle… En 1801 
 
 Beaucoup d’actes de brigandage sont recensés.  
-(Jupilles et Mayet). Parmi les victimes figure 
-  le percepteur de Jupilles, dont la femme est grièvement blessée.
+(Jupilles et Mayet).
+Parmi les victimes figure le percepteur de Jupilles, dont la femme est grièvement blessée.
 
 **En 1844** 
 
@@ -275,7 +275,7 @@ Une histoire qui aurait pu mal finir, celle du garde Passerat à la maison
   corroboré par Claude POIRRIER, les Aîtres-de-Vaux à Jupilles:
 
   *« Ce garde avait 3 filles. Mais il était peu estimé par
-  les riverains. Un  jour, en poursuivant des braconniers il
+  les riverains. Un jour, en poursuivant des braconniers il
   s’est laissé surprendre. On l’a retrouvé la tête dans une
   terrée de renards, les mains attachées et un pieu entre les
   jambes. Heureusement qu’il avait son chien ce jour là dans 
@@ -436,7 +436,7 @@ S'agissant peut-être du garde Gérard (1903) montré en exemple,
   signé : Roulleau
 		
 Suite  à cette note, les préposés iront tous faire des stages 
-  chasse, auprès dudit garde-chasse particulier
+  chasse, auprès dudit garde-chasse particulier.
   
 **23 Juin 1903 :** 
 
@@ -448,7 +448,7 @@ Barbé accompagne le soir le brigadier à Château-l'Hermitage pour
 
 **28 septembre 1919 :** 
 
-Compétence des gardes en matière de délits de chasse
+**Compétence des gardes en matière de délits de chasse**
   
 **---- Note circulaire ---- Loi –** 
 
@@ -678,9 +678,9 @@ les animaux en toutes saisons et qui fut supprimé en 1968.
 
 Les bons mots et proverbes d’Yves Camisy
 	
-**Bien sûr c’était interdit de braconner…mais pas défendu !** 
+*Bien sûr c’était interdit de braconner…mais pas défendu !* 
 	
-**Lorsqu’il neige, la forêt devient un grand livre pour les ânes.** 
+*Lorsqu’il neige, la forêt devient un grand livre pour les ânes.* 
 	
  [Yves Camisy se confie à Louis Paul Ache](/articles/pdf/camisylouispaulache.pdf)
 
@@ -789,7 +789,7 @@ Il y avait là quelques relents d’amertume
      la Doucinière  pour des raisons de service et de recherches
      complémentaires. Le dix neuf juin mil neuf cent quarante et un. »*
 
-### Juste à la sortie de la guerre,
+### Juste à la sortie de la guerre :
 
 L’on fit rapidement l’inventaire : il ne restait que très 
   peu de grands animaux (cerfs, chevreuils) par contre 
@@ -826,7 +826,9 @@ Goenvec rencontre M. le conservateur au rond de Croix-Marconnay.
   les patrouilles de nuit, autorisé d’apporter un chien,
   et n'utiliser mon arme qu'au cas de légitime défense ».*
 	
-**En 1959**, l’on retrouve lors d’une perquisition chez certains 
+**En 1959**
+
+L’on retrouve lors d’une perquisition chez certains 
   braconniers, de la viande dans une lessiveuse cachée sous 
   quelques fagots au fond du jardin. La peau de l’animal, 
   elle, avait été enfouie en terre dans le jardin, à 
@@ -847,7 +849,7 @@ Vers les années 1970, le gibier se fait rare et se tient sur
   Il faut dire qu’en l’absence de plans de chasse, 
   il était tentant de tirer sur tout ce qui bougeait.
 	
-C’était toujours cela que les gros ** (4) ** n’auraient pas…
+C’était toujours cela que les gros **(4)** n’auraient pas…
 	
 
 {{<figure src="/images/articles/093b117.jpg" title="Arrestation de braconniers">}}
@@ -962,4 +964,4 @@ Archives registres des Eaux et forêts - notes et témoignage de Robert Calvel.
 Un jeune braconnier surpris par un garde-chasse (gravure). D’après Maurice Engelhard, 
 La chasse et la pêche, souvenirs d’Alsace, Paris, Berger-Levrault, 1888, p. 227. © BnF, Gallica.
 	
-Revue Au Fil du Temps N°  47 & 48 - Pages diverses  (Y. Gouchet - 04 & 07-2010)
+Revue Au Fil du Temps N°  47 & 48 - Pages diverses  (Y. Gouchet - 04 & 07/2010)
