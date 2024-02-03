@@ -49,8 +49,7 @@ le 18 novembre 1956 à Douar-Lyra /Orléansville.
          
 ### Ces pancartes n’existent plus sur le terrain.
 
-***lES MARTYRS*** 
-liste non exhaustive
+**Les Martyrs**  liste non exhaustive
 
       08/05/1955 : -M. Raoul MOERTENS, garde forestier, est tué en KABYLYE ; 
       et M. DAUTY, garde forestier, assassiné près d'AIN KECHERA 
@@ -116,7 +115,7 @@ de Pruillé-l’-Éguillé organisent tous les 8 ans.
 Le 23 août 1965 Louis Goenvec relate des faits d'enlèvement.
  Déjà la précédente avait subi un sort comparable.
          
-*Je suis prévenu par madame veuve Fernande Jouet, 
+*"Je suis prévenu par madame veuve Fernande Jouet, 
 (nom à l’origine de l’allée Fernande qui prend naissance
 au bas du souvenir et s’étale jusqu’au périmètre) qu’un
 acte de vandalisme avait été commis au rond du Souvenir. 
@@ -127,17 +126,20 @@ plainte et signe la déposition. La veille le 22 août,
 la vitrine de l’habitacle avait été cassée et la vierge de plâtre 
 (vierge miraculeuse dite de Saint Sulpice) avait été enlevée.
 Une échelle a été construite avec une perche de hêtre 
-(5 barreaux) et servi à subtiliser la vierge»*. 
+(5 barreaux) et servi à subtiliser la vierge"*. 
          
-Cette vierge 
+**Cette vierge** 
 en plâtre nichée dans son habitacle de bois vitré (porté par 
 un poteau bois de forte dimension) a été depuis enlevée car 
 dégradée à plusieurs reprises par les jets continuels de pierres.    
-         
-### La chasse au trésor
 
 {{<figure src="/images/articles/201706souvenir.jpg"  title="fourmilière du Souvenir">}} 
 
+        Le réseau Hartmann, très actif en fond de vallon est bien présent au Souvenir
+        vu le nombre important de fourmilières qui entourent le rond. 
+        C’est un endroit électrique !
+        
+### La chasse au trésor
 
 C'est un phénomène nouveau qui est apparu avec les médias (journaux et internet).
 Il est pratiqué grandeur nature par  quelques adeptes. Plusieurs d'entre-eux ont,
@@ -161,16 +163,12 @@ et les participants n’ont fait preuve d’aucun remords…
          
 Que s’est-il passé au Souvenir ?
          
-        Le réseau Hartmann, très actif en fond de vallon est bien présent 
-        vu le nombre important de fourmilières qui entourent le rond. 
-        C’est un endroit électrique !
-         
 *Le rond du Souvenir a été exploré à fond*, diront-ils plus tard sur le web !
 Sur une photo, postée sur la toile, on aperçoit une partie des équipes de 
 « héros-vandales et fiers de l’être » qui pose, sablant le champagne 
 au pied du mat des couleurs, illustrant allègrement cet adage:  
          
-*Qui ne prend pas la peine de reboucher, peut bien déboucher !*
+***Qui ne prend pas la peine de reboucher, peut bien déboucher !***
 
 
 Une réhabilitation du site a été réalisée conjointement avec l’O.N.F. et les anciens combattants pour la cérémonie du dimanche 23 septembre 2001. Une cérémonie annuelle anime désormais ce lieu de recueillement.
@@ -193,7 +191,7 @@ Jacques de Moustier, l’ingénieur principal des Eaux et forêts écrivait :
 *Il existait en forêt domaniale de Bercé trois Ronds qui étaient dédiés 
 à trois Officiers des Eaux et Forêts, tombés pour la France en 1914-1918 :* 
          
-*d’Ussel – d’Auber de Peyrelongue et Jousset.*
+*D’Ussel – D’Auber de Peyrelongue et Jousset.*
          
 *Renseignements pris, ces Ronds avaient été baptisés vers 1930 sur 
 l’initiative de M. Ducellier, alors inspecteur des Eaux et forêts,
