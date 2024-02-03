@@ -53,7 +53,7 @@ Ils participaient selon leurs moyens à la lutte anti-braconnage aux côtés des
 
 ### 1866
 
-La Société de chasse de Bercé a été créée en 1866. 
+**La Société de chasse de Bercé** a été créée en 1866. 
 Cette société avait comme président Mr le Comte d’Andigné et comme sociétaires, 
 les Marquis et Comte de la Porte aux Loups, le Comte de Vauguyon, le Vicomte de 
 Hercé et Messieurs de Vaufleury, Moreau et de la Barre, ainsi que Mr 
@@ -231,7 +231,9 @@ Le général Madamet (Château du Ronceray) est autorisé à détruire
 du 1er avril au 30 juin 1946 huit sangliers et dix renards.
           
 La guerre bousculera toutes les habitudes….
-Les chasses ordinaires reprennent après 1947- …… 
+
+
+Les chasses ordinaires reprendront après 1947- …… 
  
  
 ### 1950-1960 
