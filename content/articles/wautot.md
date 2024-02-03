@@ -47,9 +47,9 @@ Les opérations pour Bercé commenceront le 20 janvier 1843
   
 {{<figure src="/images/articles/borne20230201valnoire.jpg"  title="Une borne en périmètre">}}
   
-Voici au niveau de la vallée Noire (Vallée des Pierres) une des rares bornes présentes
+Voici au niveau de la vallée Noire *(Vallée des Pierres)* une des rares bornes présentes
   sur le pourtour de Bercé, et qui n'a plus d'ailleurs aucune utilité sachant que le terrain 
-  mitoyen à été donné à l'ONF par Vinci-Autoroute dans le cadre de l'opération A28. 
+  mitoyen à été donné depuis à l'ONF par Vinci-Autoroute dans le cadre de l'opération A28. 
   
 ### Une rencontre déterminante à Jupilles.
   
@@ -62,6 +62,7 @@ Ah ! la forêt de Bercé… Une terre de rencontres.
 Ils auront ensemble : 
   
 "Emile" Isidore Wautot 1847-1893 
+
 et Marie Eudoxie Wautot 1851. 
   
 {{<figure src="/images/articles/cartewautot1842.jpg"  title="Assemblage des cartes Wautot">}}
@@ -81,8 +82,8 @@ La route Neuve qui rejoint le rond de Croix-Marconnay
   
 ### En 1848 :
   
-  Il est nommé maire provisoire de Revin
-Il exercera cette fonction du 28 mars 1848 au 09 septembre 1848.
+Il est nommé maire provisoire de Revin
+Il exercera cette fonction du 28 mars 1848 au 9 septembre 1848.
   
 {{<figure src="/images/articles/voitureauwautot.jpg"  title="Un Rond lui est dédié">}}
   
@@ -96,16 +97,16 @@ Il exercera cette fonction du 28 mars 1848 au 09 septembre 1848.
      plus spécial à l’Artois et au Hainaut, 
      correspond au « g » français.
      Wautot est égal à Gautot et dans Gautot 
-     il y a « gaut »qui signifie « forêt ».
+     il y a « gaut » qui signifie « forêt ».
      Le « ot » étant un diminutif, on peut 
      traduire Wautot par « Boispetit » ou
-     « Petitbois »**(1)** .  
+     « Petitbois » (1) .  
   
      
 
 {{<figure src="/images/articles/wautot007.jpg"  title="Le Rond Wautot vu de haut">}}
   
-Jean-Baptiste Isidore Wautot Décèdera le 3 septembre 1884 - 
+Jean-Baptiste Isidore Wautot décèdera le 3 septembre 1884 - 
   rue du Maine - Paris-IXème, (Île-de-France) à l'âge de 79 ans.
 
 {{<figure src="/images/articles/rondwautot1997.jpg"  title="Le Rond Wautot">}}
