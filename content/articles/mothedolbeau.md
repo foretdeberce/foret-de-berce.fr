@@ -24,9 +24,9 @@ champ *(un morceau de sigillée de l'époque romaine)*.
 Des restes de fortifications en terre sont encore bien visibles malgré 
 l’érosion, système de fossés, cours intérieurs et 2 petits tumulus, 
 l'un encore bien visible, l'autre en partie détruit à l'ancienne cidrerie. 
-*(Étude de Mr Veron)* ; 
+**(Étude de Mr Veron)** ; 
 
-Voir aussi page 30 du mémoire de [Jean-Mary COUDERC](/articles/pdf/couderc.pdf).
+Voir aussi page 30 du mémoire de [Jean-Mary Couderc](/articles/pdf/couderc.pdf).
 
 A l'époque féodale le site appelé Fief de la Mothe 
 fut utilisé pour défendre l'entrée de la vallée de l’Ire. 
@@ -55,19 +55,19 @@ Convoqué à l'arrière-ban du Maine en 1689.
 Le 22 novembre 1676, il se marie avec Françoise Huet
   (demoiselle d’Artigné, fille de Charles et de Marguerite Bougars,
   seigneur de Vaux, écuyer, seigneur d’Artigné, maître particulier 
-  des Eaux et Forêts de cette maitrise.  
+  des Eaux et Forêts de cette maîtrise.  
   
 ### 1680
 
 Son fils, Charles Mathieu de Longueval d'Haraucourt, 
   né en 1680 à la Mothe d'Olbeau, est aussi vers 1729
-  Maître particulier des Eaux et Forêt de la Maitrise
+  Maître particulier des Eaux et Forêt de la Maîtrise
   de Château du Loir, vicomte d'Haraucourt (alias Daraucourt Longueval),
   seigneur de Brette, commissaire provincial de l'artillerie royale.
   
   Il épousa Marie Anne Chesneau des Portes le 22 mars 1727
   (fille de Mathurin et de Marie Désirée Aubert du Boisguiet).
-Il est inhumé au Château du Haut-Bois (devenu depuis un Lycée agricole) 
+Il est inhumé au Château du Haut-Bois *(devenu depuis un Lycée agricole)* 
   à Brette le 23 Avril 1747.
 
 {{<figure src="/images/articles/hautbois.jpg"  title="Château du Haut-Bois">}}
@@ -107,12 +107,12 @@ En 1747 c’est le décès à la Mothe d'Olbeau de Demoiselle
   
 Charles Mathieu Etienne épousa, à Château-du-Loir, Renée Geneviève
   Mesnard de Belair de Seillac le 9 mai 1770,(fille de Gabriel, 
-  seigneur de Cornichard,  et de Geneviève de Witasse) puis 
+  seigneur de Cornichard, et de Geneviève de Witasse) puis 
   en deuxième noce Catherine Bordin (Alençon). 
   C'est à lui que nous devons probablement l'implantation d'essences
   rares dans le parc dont les cèdres.
 
-17 mars 1771
+**17 mars 1771**
   
 *Baptême de Charles à Luceau, issu du mariage de Charles de Longueval, 
   vicomte d’Haraucourt, chevalier, seigneur de La Motte –Dolbeau, 
@@ -131,7 +131,8 @@ Parrain, Charles Jean Baptiste Joseph Mesnard de Seillac, écuyer,
 Theodore Charles de Longueval, né en 1797, à la Mothe d’Olbeau, 
   dernier héritier, vend le domaine par petits lots entre 1817 et 1820.
   
-**Tout est démembré.** au propre comme au figuré.
+**Tout est démembré.** 
+au propre comme au figuré.
 
 Marquis, il fut par le passé, maire de Brette-les-Pins.
   Il devient Conseiller général du Canton d'Écommoy de 1833 à 1842.
@@ -184,14 +185,14 @@ En connaissance il fit planter en complément des tilleuls de la terrasse,
   d'autres essences rares à l’époque, mais surtout un cèdre du Liban, 
   devenu un véritable monument dominant la vallée.
   
-Ce cèdre  à 5,60 m de tour de taille, par comparaison celui du jardin 
+Ce cèdre à 5,60 m de tour de taille, par comparaison celui du jardin 
   des plantes ramené par Jussieu en 1734 fait 4, 80 m et semble plus petit en hauteur. 
   
-Depuis,  le cèdre de la Mothe a fait beaucoup de petits, déjà grands,
+Depuis, le cèdre de la Mothe a fait beaucoup de petits, déjà grands,
   notamment dans les propriétés d’alentour. Notons également un très 
   beau cèdre de l'Atlas en limite du domaine (ancienne cidrerie).
   
-Les de Longueval  étaient forestiers de père en fils, de même le sont 
+Les "de Longueval"  étaient forestiers de père en fils, de même le sont 
   les descendants de Jean Baptiste  EVE : sa petite fille, l'actuelle 
   propriétaire épousa V.R. Vinçonneau, conservateur des Eaux & forêts. 
 V.R. Vinçonneau, puis son fils Jean Claude ingénieur en chef du Génie Rural 
