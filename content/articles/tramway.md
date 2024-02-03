@@ -24,8 +24,9 @@ Mon très cher chemin de bois !
 
 Le tacot, ce tortillard, nous pourrions très justement le nommer
 "chemin de bois" du fait de la présence d’une traverse en chêne créosoté par mètre de voie. 
+
 Né d’une idée novatrice, il périt par manque de souffle, chacun voulant tirer la ligne à ses pieds.
-Pas besoin d’être diplômé pour voir que le plan définitif …n’a rien à d’une ligne TGV.
+Pas besoin d’être diplômé pour voir que le plan définitif … n’a rien à d’une ligne TGV.
 
 {{<figure src="/images/articles/tram73.jpg"  title="Une ligne plutôt serpentueuse">}}
 
@@ -38,12 +39,15 @@ stagiaire Hermier à Ecommoy qui la transmettra au brigadier Marsac.
 de procéder à une enquête relative aux produits que pourrait transporter 
 le nouveau tramway (dont la construction peut être prochaine) soit vers Le Mans
 soit vers Château du loir.
+
 Je désire que vous et vos gardes ne perdiez pas de vue, cette importante question, 
 dont j'aurai un besoin urgent, lorsque l'étude du tracé sera soumise à notre service.
 L’enquête doit porter surtout sur les produits fabriqués, tels que sabots,
 merrains, bois de chauffage, pins ou autres etc.…*
 
-### En 1904 : [Les projets](/articles/pdf/projetstram.pdf)
+### En 1904 :
+
+[Les projets](/articles/pdf/projetstram.pdf)
 
 Plusieurs itinéraires sont proposés **(2)** qui ne desservent pas les
   communes de Brette et Pruillé-l'Éguillé. 
@@ -96,7 +100,7 @@ Réponse de François Louis Marsac:
   les produits forestiers pour évincer la dite concurrence.  
   (C’est d'ailleurs en partie, déjà elle qui fait vendre si bien les bois de Bercé)*.
 
-**3°)**  *Parce que la brigade n°1(Ouest) qui a de si vastes surfaces repeuplées 
+**3°)**  *Parce que la brigade n°1 (Ouest) qui a de si vastes surfaces repeuplées 
   en "pin sylvestre" est certainement destinée à faire plus tard, de tous côtés 
   des envois considérables de perches de mine etc.… et qu'à ce moment la présence 
   du tramway aura certainement encore une grande influence sur les prix de vente. 
@@ -147,7 +151,8 @@ Note du Brigadier  Marsac.
   affiches de monsieur le préfet, invitent les parties intéressées à faire 
   leurs réserves ou réclamations avant le 28 courant, faute de quoi, 
   il sera passé outre en vertu des différentes lois visées.
-  En me communiquant les pièces (à la mairie) monsieur le maire de Marigné
+  
+  *En me communiquant les pièces (à la mairie) monsieur le maire de Marigné
   m'a dit, que considérant que le projet de déviation de la ligne
   du Ronceray, presque impraticable tel qu'il figure au plan, était
   de nature à faire du tort au bourg en lui enlevant une grande partie
@@ -159,8 +164,8 @@ Note du Brigadier  Marsac.
   
 *Au point de vue forestier, et de la sortie des grandes pièces sur 
   ce point, je crois que s'il n'y a pas deux ponts, (un sur chaque route)
-  aucune grande charge ne pourra tourner là et 
-  c'est une sortie complètement fermée à la Forêt.*
+  aucune grande charge ne pourra tourner là et c'est une sortie
+  complètement fermée à la Forêt.*
 
 ### 15 novembre 1909 :
 
@@ -174,6 +179,7 @@ En réunion de brigade, griffage des arbres sur le passage du tramway.
 	
 L'emprise se dessine progressivement en forêt, matérialisée par des
   traits de peinture rouge. 
+  
 A la Lune, le vieux rougi *(peinture du cloisonnement)*
 est enlevé et rectifié en novembre.
 
@@ -297,9 +303,9 @@ Note de l’inspecteur principal des Eaux et forêts au Mans,
   
 **1°** Entre les stations de Marigné et de Pruillé-l'Eguillé :
   
-     A) -  au rond-point du Mai :
+     A)  -  au rond-point du Mai :
   
-     B) -  en face le hameau du Pau et de 
+     B)  -  en face le hameau du Pau et de 
      la route forestière du même nom, 
      près de la limite de la forêt.
   
@@ -307,7 +313,7 @@ Note de l’inspecteur principal des Eaux et forêts au Mans,
   
      C)  – au rond-point de l'Embranchement.
   
-     D) – près du Hameau de la Chauvinière, 
+     D)  – près du Hameau de la Chauvinière, 
      à la jonction des routes allant
      de Jupilles à St. Vincent.
 
@@ -382,7 +388,7 @@ un hêtre chablis qui a été abattu comme dangereux pour le tramway.
      Parfois, quand la pente était trop raide, la machine ne pouvait 
      la gravir et alors il était conseillé aux voyageurs de 
      descendre pour la soulager et même payer de leur personne en
-     poussant le convoi. **(1)**
+     poussant le convoi. (1)
 
      Gaston Chevereau (1909-2003) racontait : " La locomotive soufflait,
      pouffait, crachait. Dans les montées, lorsque le convoi était
@@ -411,7 +417,7 @@ Leclercq : *fait remarquer aux employés de la voie du tramway,
 
 ### 8 juillet 1932 : 
 
-**C'est le terminus pour Le Mans/Château ! ...**
+***C'est le terminus pour Le Mans/Château ! ...***
 
 
 ### Le journal de Château-du-Loir annonçait :
@@ -427,7 +433,7 @@ La section Le Mans/Jupilles sera définitivement fermée le 1er janvier 1933,
   
 ### 14 mars 1933 : 
 
-**Dernière mention sur le Tramway.**
+***Dernière mention sur le Tramway.***
 
 ### 1934 et 1935 : 
 
