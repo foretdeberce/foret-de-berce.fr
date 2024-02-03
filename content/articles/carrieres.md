@@ -28,10 +28,15 @@ Vers 1840, du temps d'Isidore Wautot, ingénieur arpenteur,
 de nombreuses routes forestières ont été améliorées par l'ajout pierre.
 Avec le mauvais temps, il n'était plus possible de sortir les gros bois.
 
+Carriers et cantonniers sont la nouvelle priorité des Eaux et Forêts.
+Des gardes cantonniers sont recrutés dans cette optique, rendant accessoirement
+service aux gardes forestiers, en morte saison (Hiver).
 Les carrières sont toujours implantées en zones relativement 
 peu boisées, ces zones dites pauvres, où la pierre affleure. 
+
 Elles ne sont jamais très loin des routes, car le transport
-à cette époque n’est pas chose aisée. 
+à cette époque n’est pas chose aisée dans les terrains détrempés. 
+
 Mécanisée sur le tard, l'exploitation des pierres a réclamé 
 des carriers beaucoup d’énergie et de sueur. 
 
@@ -56,13 +61,15 @@ gardes cantonniers préposés aux stations (une sur chaque brigade).
 Les ouvriers sous leurs ordres sont chargés de l'entretien 
 des voies de communication, des ponceaux, du fauchage des bermes,
 du tracé des nouvelles routes, telle celle
-de la Vallée Noire, en juin 1881. Ils seront rémunérés 50 journées 
+de la Vallée Noire, en juin 1881. 
+
+Ils seront rémunérés 50 journées 
 à 2 francs par jour pour cette tâche.
 Ils sont aussi employés en carrière et doivent avoir pour le moins, 
 une constitution robuste. 
 
-Quand le banc de pierre se faisait insistant, 
-on n’hésitait pas à faire parler la poudre ! 
+*Quand le banc de pierre se faisait insistant, 
+on n’hésitait pas à faire parler la poudre !* 
 
 Les montures et leurs charrettes distribuaient ainsi ces 
 précieux cailloux, mètre par mètre, à la plus grande 
@@ -210,16 +217,16 @@ Chemin de l’École forestière (qui mène au chêne Boppe)
 ### 1926
   
 28 Juillet : le garde Louis Pigault rapporte :
-« Suis allé le soir avec le brigadier et
-M. l’Agent-voyer **(a)** cantonal d’Écommoy à la carrière
-des **HUTTERIES (10)**, pour la délimitation 
+*« Suis allé le soir avec le brigadier et
+M. l’Agent-voyer* **(a)** *cantonal d’Écommoy à la carrière
+des* **HUTTERIES (10)**, *pour la délimitation 
 d’une carrière destinée à  la Commune de Saint-Mars-d’Outillé,
 parcelle 12. Pruillé-l’Éguillé, Marigné-Laillé, Téloché,
 Écommoy, tireront aussi de la pierre en Bercé aux Hutteries,
-pour l’entretien de leurs chemins ruraux et vicinaux ». 
+pour l’entretien de leurs chemins ruraux et vicinaux »*. 
   
-**(a)** *l’Agent-voyer est un fonctionnaire des Ponts et Chaussées,
- chargé de veiller à l'entretien des routes et chemins vicinaux*
+**(a)** l’Agent-voyer est un fonctionnaire des Ponts et Chaussées,
+ chargé de veiller à l'entretien des routes et chemins vicinaux.
  
   
 ### 1927 
@@ -258,7 +265,8 @@ Ouverture des carrières de **LA CROIX GUINET (16)** P. 87.
        il m’a permis de faire le Roulier encore longtemps. »
  
 
-### La carrière des Hutteries (10) 1895 - 1951
+### La carrière des Hutteries (10) 
+ *1895 - 1951*
   
 En contemplant les plaies béantes laissées par leur exploitation, 
   on peut facilement réaliser que les carrières des Hutteries 
@@ -294,14 +302,14 @@ Note de P. Aubert, inspecteur principal :
        Le prix du m3 sera à l’avenir porté à 5 F/m3 à 
        partir du 1er janvier 1930. » 
   
-13 avril 1930 : « Constaté que du feu avait été allumé dans
+13 avril 1930 : *« Constaté que du feu avait été allumé dans
   une cabane de carrier, carrière des Hutteries. 
   Ai éteint ce feu qui menaçait de brûler une 
-  brouette et divers outils. » (Pigault) 
+  brouette et divers outils. »* (Pigault) 
   
-21 novembre 1931 : « Pris connaissance d’une décision de
+21 novembre 1931 : *« Pris connaissance d’une décision de
   M. l’inspecteur Principal datée du 19 courant
-  autorisant le transport par camion automobile des pierres. » 
+  autorisant le transport par camion automobile des pierres. »* 
   
 ### Note de l’inspecteur : 
   
@@ -415,7 +423,7 @@ Production carrière des Trembles en 1933 : d’avril à novembre : 316m3.
   
 ### Durant le deuxième conflit mondial. 
   
-1939
+**1939**
   
 Les carrières de la Boulaie et de **GAIE-MARIÉE (20)** 
   dite aussi des Vieux-Puits (la dernière à fermer en 1963) 
@@ -424,7 +432,7 @@ Les carrières de la Boulaie et de **GAIE-MARIÉE (20)**
   s’acquittent du transport des moellons et du tout-venant. 
   Les déchets de carrière sont revendus aux particuliers. 
  
-1941
+**1941**
   
 Surveillance par le garde Volard des chômeurs de février
   à avril sur la route de la carrière de Gaie-Mariée. 
@@ -433,14 +441,14 @@ Surveillance par le garde Volard des chômeurs de février
   des **VIEUX- PUITS (20)** pour la route 
   de Gaie-Mariée (dite route des chômeurs). 
   
-### 1946
+**1946**
   
 Les ouvriers sont occupés au découvert, c’est à dire
   à enlever le terreau, le charger avant l’ouverture de
   nouveaux trous.
 La carrière de Gaie-Mariée offre pierres et tout venant. 
   
-### 1950
+**1950**
   
 26 août : arrêt de la confection de la petite pierre 
   d’entretien dans cette carrière, fabrication 
@@ -452,13 +460,13 @@ Une avancée et non des moindres :
   l’arrivée du tracteur permet le chargement aisé
   de la pierre, le 1er octobre 1953. 
   
-### 1956
+**1956**
   
 Septembre : 2 ouvriers y travaillent à l’année et y extraient 
   700 m3 de pierres et 400 m3 de matériaux d’agrégation.
 
 
-### 1963 
+**1963** 
   
 C’est la fin de cette activité peu forestière mais au 
   combien importante dans la gestion forestière à venir. 
@@ -469,7 +477,7 @@ C’est la fin de cette activité peu forestière mais au
   
 {{<figure src="/images/articles/19720321gaiemariee2.jpg"  title="L’équipe au complet">}}
   
-### 1972
+**1972**
   
 L’équipe de marteleurs entre en action au niveau de la carrière
   de Gaie-Mariée : les gardes Peltier, Goenvec, Fivaz, Lereste, 
@@ -481,7 +489,7 @@ Voici quelques noms de carriers relevés au fil des vieux registres:
   en 1903 les carriers sont : Rouault, Busson, Leroux  Gustave (transport),
   Delcourt Achille de Beaumont en1954, Fefeu Roland 1956/1957 de Jupilles.
   
-### 1973
+**1973**
   
 {{<figure src="/images/articles/ete1973.jpg"  title="Étalement de la pierre">}}
   
