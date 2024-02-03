@@ -37,8 +37,8 @@ de ses sols, Bercé est colonisé par l'homme.
 
 **la présence de l’homme est omniprésente dans cette forêt cathédrale.**
 
-Son plateau est un excellent choix pour s'installer.
-Son limon des plateaux épais, *(sauf dans les vallées)* 
+Son plateau est un excellent choix pour une première installation.
+Son épaisseur de limon, *(sauf dans les vallées)* 
 offre à l'homme de bonnes perspectives de récolte.
 
 **Mon scénario**
