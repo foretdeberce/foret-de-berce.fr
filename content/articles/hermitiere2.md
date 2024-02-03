@@ -17,7 +17,7 @@ détournèrent la chose en achetant les terrains en périmètre des sources pour
 Lorsque ceux-ci ne pouvaient plus en assurer le service,
 ils y plaçaient un locataire.
 
-### Café Mary-Lecomte : 1905 (ou Maris-Lecomte) (propriétaire).
+### Café Mary-Lecomte : 1905 (ou Maris-Lecomte) *(propriétaire)*.
 
 La famille Maris-Lecomte créa la cave enterrée dans la butte, 
 en lisière de forêt  à l’Hermitière vers 1900. Le Café Maris-Lecomte
@@ -37,7 +37,7 @@ Vers 1909, la maison forestière des Étangs est désaffectée par l’administr
 
 Il vendra en 1937 cette propriété à Thévenot.
 
-### Café Binet : 1907 (locataire)
+### Café Binet : 1907   *(locataire)*
   
 La famille Binet loue cette année l’emplacement à la famille Maris-Lecomte.
 
@@ -68,7 +68,7 @@ Plus tard cette concession (Maris-Lecomte) – café - parquet de danse,
 {{<figure src="/images/articles/etalbinet.jpg" title="Établissement Binet">}}
 
 
-### Café Douay : 1927 (locataire et concessionnaire)
+### Café Douay : 1927 *(locataire et concessionnaire)*
 
 Les Douay remplacent Lempereur le 03 mars1927 
   (concessionnaire d’un emplacement en forêt)
@@ -202,7 +202,7 @@ Elle décédera le 10 janvier 1998 à l’âge de 81 ans.
 
 
 
-### Lucien Thévenot : 1937  (propriétaire).
+### Lucien Thévenot : 1937  *(propriétaire)*.
 
 Ayant déjà une affaire sur Saint-Vincent, il reprend en forêt, 
 le flambeau en achetant l’emplacement à la famille Mary Lecomte.
@@ -214,13 +214,14 @@ Mais pendant la guerre, le bal se fait un peu oublier renaissant peu après.
 Eugène Lasnier, garde domanial aux Étangs relate :
   
 *Monsieur l’inspecteur, suite à la chute d’un arbre sur la concession de Mr Thévenot,
-  et afin de remplacer les piquets brisés, a désigné le 22 Juillet, des arbres à l’abatage. 
+  et afin de remplacer les piquets brisés, a désigné le 22 Juillet, des arbres à l’abatage **(1)**. 
   Les perches seront délivrées le 23 à Mr Thévenot*.
   
 Thévenot est l’un des artisans de la popularité des sources de l’Hermitière. 
 Son mauvais caractère fait de lui le maître des lieux. 
 
-Témoignage de Claudette & Adrien BORDERON : 
+**Témoignage de Claudette & Adrien Borderon :** 
+
 *Les Allemands sont partis de Bercé au mois d'août 1944. La première fête qu'il y a eu,
   c'était au bal le 15 Août à l'Hermitière et nous y avons rencontré la 1ère colonne 
   américaine qui faisait un bruit inimaginable. Mon gamin avait 4 ans, 
@@ -231,6 +232,8 @@ Témoignage de Claudette & Adrien BORDERON :
 
 {{<figure src="/images/articles/hermitiere019.jpg" title="Le parquet de danse à Thévenot">}}
 		
+ **Témoignage de Daniel Allaire :** 
+ 
 Son franc parler le caractérise, tel ce jour des années 1950,
   où le directeur général des Eaux et Forêts,
   M. Merveilleux du Vigneau venait en inspection générale à Bercé.
@@ -272,15 +275,16 @@ Thévenot achève la construction du bal de l’Hermitière et  élimine progres
   Le bâtiment est construit avec des matériaux de récupération 
   (tels les rails de l’ancien tacot). 
   Le bal s’estompe peu à peu à la fin des années 60.
-  
-Témoignage de Daniel Allaire
-  *abatage pour le bûcheron, abattage pour le boucher !
 
+
+ 
 ### 1966 Les forêts domaniales s’ouvrent au Public.
 Les anciennes Eaux et Forêts ont laissé
   la place à l’Office National des Forêts.	
 
 ### Daniel Allaire de 1968 à 1976 (propriétaire).
+
+Il témoigne :
 
 Lors de sa cessation d’activité, c’est Daniel Allaire et son épouse, 
   qui le 15 Avril 1968, entrent dans les murs. À cette époque,
@@ -332,7 +336,7 @@ De Neufchâtel-en-Saosnois où il est né à Saint-Vincent-du Lorouër où il s�
   où il apprend le management dans des hôtels internationaux, à la futaie 
   ordonnée de Bercé …; 
   
-  mais qui pousse donc Guy Podevin à s’implanter dans notre doux pays ? « Le hasard » dit-il …
+  Mais qui pousse donc Guy Podevin à s’implanter dans notre doux pays ? *« Le hasard »* dit-il …
 
 {{<figure src="/images/articles/auberge1.jpg" title="l’Hermitière-vue de la terrasse">}}
 
@@ -372,6 +376,9 @@ Après avoir ouvert des chambres d’hôtes, l’auberge fermera définitivement
 Le droit de passage est supprimé, désorganisant cette entrée si prisée en forêt.
 
 {{<figure src="/images/articles/hermitiere17.jpg" title="La grande salle et le fameux poirrier">}}
+
+**(1) Abatage** pour le bûcheron, abattage pour le boucher !
+
 	
 ## Autres articles sur l'Hermitière : ## 
 
