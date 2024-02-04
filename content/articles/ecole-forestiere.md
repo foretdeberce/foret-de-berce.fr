@@ -16,9 +16,11 @@ tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques","Armement","M
 
 L’École Nationale des Eaux et Forêts (située à Nancy) 
 fut La première à étudier Bercé Le 26 mai 1875 :
-«  Visite ce jour de Mr. Le directeur de L’E.N.E.F., 
+
+*«  Visite ce jour de Mr. Le directeur de L’E.N.E.F., 
 de  Mr.  Le  sous -directeur,  de  Mrs.  les  agents 
-et de  Mr.  l’inspecteur des  Finances  ».
+et de  Mr.  l’inspecteur des  Finances  ».*
+
  Cette  prestigieuse  École forme  à l’époque 
  Les Officiers Forestiers Brevetés.
  
@@ -37,7 +39,7 @@ Du 31 mai au 3 juin 1898, Officiers, professeurs et
 élèves de cette école viennent étudier Bercé pour 
 La première fois.
 
-{{<figure src="/images/articles/tertreauxboeufs.jpg" title="Ou est caché l'élève-officier ?">}}
+{{<figure src="/images/articles/tertreauxboeufs.jpg" title="Ou se cache l'élève-officier ?">}}
 
 Depuis   lors,  ces   deux   Écoles  n'auront  de 
 cesse   de   revenir régulièrement sur Bercé à
@@ -45,8 +47,8 @@ l'invitation des inspecteurs forestiers en place.
 Afin de  renforcer  les  liens, l’on  profite  de 
 la  venue  de  L'  E.N.E.F  et  de  son directeur  
 Mr.  Boppe,  du 6  au 8  juin  1894,  pour  baptiser  
-le fameux  chêne du même  nom.  Du  18   au  22  juin 
-1895,   l'ÉcoLe  revient.  
+le fameux  chêne du même  nom.  Du  18  au  22  juin 
+1895, l'ÉcoLe  revient.  
   
   
 {{<figure src="/images/articles/1897berce.jpg" title="Tournée forestière de 1897">}}
@@ -62,12 +64,15 @@ de la part du parrain du chêne : Mr Boppe.
 
  
 Le protocole des visites est immuable.
+
 Les Officiers  et  Professeurs  logent  au Pavillon   de   Bercé   et   
  accessoirement   dans les  Hôtel Grimault (Château du Loir)
  St Hubert (Marigné)  Hôtel  de  France  (Ecommoy) – 
-on règle en 1925 :10fr la chambre d'Officier,  8fr celle des élèves) - 
- Les élèves logent en Forêt : Loge de Croix  Marconnay ( 23-06-1902 ), 
- puis à l’Hôtel St. Jacques (Jupilles) ou de nouveau à  St. Hubert.
+ 
+On règle en 1925 : 10fr la chambre d'Officier,  8fr celle des élèves) - 
+
+Les élèves logent en Forêt : Loge de Croix  Marconnay ( 23-06-1902 ), 
+puis à l’Hôtel St. Jacques (Jupilles) ou de nouveau à  St. Hubert.
 Le réveil de tout ce monde est assuré par les préposés. ...
 Les préposés sont en grande tenue.
 
@@ -77,7 +82,7 @@ Les préposés sont en grande tenue.
 1903 : Établissement par les Ouvriers d'abris en feuillage - 
  Quelques familles forestières posent ici devant une Loge et sa
  pancarte indiquant « Honneur à l' École Nationale Forestière »
- *Photo Henri NÎQUEUX - MARIGNÉ*
+ *Photo Henri Nîqueux - Marigné*
 
 
 Les jours de visite des élèves de Nancy, Le drapeau tricolore 
@@ -132,44 +137,77 @@ En 1910, les « tapissières » tirées par des chevaux,
      il réutilise sa voiture personnelle.
      GOENVEC lui utilisera son solex sa vie durant.
 
-En 1925, les camionnettes Joliveau (fils), Bignon, Provost, Rabach, Patarin, Niqueux,  transportent  tout  ce  monde  pour 1f25  du  km,  5f  de l'heure d’arrêt (arrêt non compté si plus de 80fr de déplacement.)
+En 1925, les camionnettes Joliveau (fils), Bignon, Provost, Rabach, Patarin, Niqueux,  
+transportent  tout  ce  monde  pour 1f25  du  km,  
+5f  de l'heure d’arrêt (arrêt non compté si plus de 80fr de déplacement.)
   
   
 {{<figure src="/images/articles/camionnette.jpg" title="Camionnette d'époque">}}
 
 Toute la matinée l'on écoute avec respect la conférence de Mr l'inspecteur principal.
-Les préposés devront diriger les visiteurs en se tenant toujours à portée de ma voix.  Les tracés  devront être repérés et au  besoin dégagés de manière à passer sur les points les plus intéressants à voir.
- « Il ne me sera demandé : ou faut- il aller ? »  que pour  les trajets paraissant  douteux. Dans ce cas cette question me sera utilement posée à l’avance. Note de l’inspecteur Potel (1925).
+Les préposés devront diriger les visiteurs en se tenant toujours à portée de ma voix.  
+Les tracés  devront être repérés et au  besoin dégagés de manière à passer sur les points les plus intéressants à voir.
+*Il ne me sera demandé : ou faut- il aller ?  que pour  les trajets paraissant  douteux. 
+Dans ce cas cette question me sera utilement posée à l’avance*. Note de l’inspecteur Potel (1925).
   
-Certaines fois «un éhouppeur est prié de travailler devant les élèves » (1921).   Il s'ensuit une excursion des plus instructives. Vers midi un repas est dressé. 
-Lorsqu’il se situe à L'Hermitière : Lempereur, Bignon, Thévenot, concessionnaires aux Sources, prêtent tables et bancs (prix du repas en 1925 :10fr en forêt, 8fr à l’hôtel).
-Exemple: repas traités le 20 mai 1936 pour 13fr50 service compris par  l’inspecteur Ruban chez E. Rastoul à  St. Hubert ……..  En voici le menu :
+Certaines fois *«un éhouppeur est prié de travailler devant les élèves » (1921)*.   
+Il s'ensuit une excursion des plus instructives. Vers midi un repas est dressé. 
+Lorsqu’il se situe à L'Hermitière : Lempereur, Bignon, Thévenot, concessionnaires aux Sources,
+prêtent tables et bancs (prix du repas en 1925 :10fr en forêt, 8fr à l’hôtel).
+Exemple: repas traités le 20 mai 1936 pour 13fr50 service compris par 
+l’inspecteur Ruban chez E. Rastoul à  St. Hubert ……..  
+
+En voici le menu :
 
 {{<figure src="/images/articles/menu.jpg" title="menu du jour à Saint-Hubert">}}
 
        
-Le nombre déjeuners que vous aurez à servir, sera d’environ 25. Le 19 au soir, Je vous ferai préciser par le garde Lethu, le nombre exact de déjeuners  à servir.
-Officiers et Professeurs ne mangent  pas  à  la  même  table  que  les élèves,  et  cette  situation  est portée à  son  paroxysme  le  23  mai 1944  par la note de l'inspecteur Viney lors de la visite de l'inspecteur général Deslandres : 
-«Un des brigadiers commandera les repas à St. Vincent  du Lorouër  chez Mr. Bordeau pour : quatre  Officiers  et  un Chauffeur,  en  demandant que la salle à manger nous soit entièrement réservée »
-L’après midi,  reprise  de l'instruction. Il arrive qu’après le «coup d'œil» sur les Sources de l’Hermitière, la  caravane fasse un détour par le taillis des  Étangs voir  les châtaigniers, puis  le  Chêne  de  la  Gaie-Mariée (Parcelle 194) 202 ans en 1936 (22 mètres de fût – 35 mètres de hauteur totale et 3m45 de circonférence à 1m30 soit 0m60) plus gros que le nouveau chêne Boppe à la même époque mais 1m de moins que l’ancien. 
-Les déplacements se font à pied, Les voitures suivant au plus près le groupe de forestiers, sur les routes. En une  semaine la Forêt est ainsi parcourue. En fin de séjour les gardes veillent au chargement et au départ  des bagages  et  sont  sommés  « d’ assister  au  départ  de Monsieur  Le conservateur  et de l' école, puis  de ne  se retirer  qu’après  le  départ  du train » (21 juin 1919).
-Dès 1919, l’inspecteur Potel a su développer avec efficacité l’image de Bercé à travers le Monde en accueillant bon nombre de délégations forestières étrangères, reprenant à son compte l’œuvre d'éducation entreprise par ses prédécesseurs, dont l’un des plus illustres fut : Louis René Roulleau de La Roussière,  inspecteur adjoint au Mans  dès 1885,  puis  inspecteur  et enfin conservateur .
+Le nombre déjeuners que vous aurez à servir, sera d’environ 25. Le 19 au soir, 
+Je vous ferai préciser par le garde Lethu, le nombre exact de déjeuners  à servir.
+Officiers et Professeurs ne mangent  pas  à  la  même  table  que  les élèves,  
+et  cette  situation  est portée à  son  paroxysme  le  23  mai 1944  par la note de
+l'inspecteur Viney lors de la visite de l'inspecteur général Deslandres : 
+
+*«Un des brigadiers commandera les repas à St. Vincent  du Lorouër  chez Mr. Bordeau pour :
+quatre  Officiers  et  un Chauffeur,  en  demandant que la salle à manger nous soit entièrement réservée »*
+
+L’après midi,  reprise  de l'instruction. Il arrive qu’après le «coup d'œil» sur les Sources de l’Hermitière, 
+la  caravane fasse un détour par le taillis des  Étangs voir  les châtaigniers, puis  le  Chêne  de  
+la  Gaie-Mariée (Parcelle 194) 202 ans en 1936 (22 mètres de fût – 35 mètres de hauteur totale et 3m45 de circonférence à 1m30 soit 0m60)
+plus gros que le nouveau chêne Boppe à la même époque mais 1m de moins que l’ancien. 
+
+Les déplacements se font à pied, Les voitures suivant au plus près le groupe de forestiers, sur les routes. 
+En une  semaine la Forêt est ainsi parcourue. En fin de séjour les gardes veillent au chargement et au départ 
+des bagages  et  sont  sommés  *« d’ assister  au  départ  de Monsieur  Le conservateur 
+et de l' école, puis  de ne  se retirer  qu’après  le  départ  du train » (21 juin 1919)*.
+
+Dès 1919, l’inspecteur Potel a su développer avec efficacité l’image de Bercé à travers le Monde en accueillant 
+bon nombre de délégations forestières étrangères, reprenant à son compte l’œuvre d'éducation entreprise par ses 
+prédécesseurs, dont l’un des plus illustres fut : Louis René Roulleau de La Roussière,  
+inspecteur adjoint au Mans  dès 1885,  puis  inspecteur  et enfin conservateur .
 
 {{<figure src="/images/articles/roulleau.jpg" title="Louis René Roulleau de la Rousssière photo J.Barco - Nancy ">}}
 
 
-A la veille  de  la  création  de  l’ Office  National  des  Forêts  en 1965, l’E.N.E.F devient E.N.G.R..E.F. par fusion avec l' École Nationale du Génie Rural
+A la veille  de  la  création  de  l’ Office  National  des  Forêts  en 1965, 
+l’E.N.E.F devient E.N.G.R..E.F. par fusion avec l' École Nationale du Génie Rural
 
 
 {{<figure src="/images/articles/edimbourg60.jpg" title="Tournée dans les Clos">}}
 
 
-De nos Jours, grâce à une Sylviculture de pointe, et à ses bois de qualité, Bercé reste un des phares de la forêt française, attirant sans relâche quantité de congressistes .
-«Imiter la nature, hâter son oeuvre»
-Cette célèbre définition de la sylviculture moderne, exposée par le forestier Parade (1837) directeur de l’  E.N.E.F.  garde encore aujourd’hui tout son sens.
+De nos Jours, grâce à une Sylviculture de pointe, et à ses bois de qualité,
+Bercé reste un des phares de la forêt française, attirant sans relâche quantité de congressistes .
+
+**«Imiter la nature, hâter son oeuvre»**
+
+Cette célèbre définition de la sylviculture moderne, exposée par le forestier Parade (1837)
+directeur de l’E.N.E.F.  garde encore aujourd’hui tout son sens.
 
 
-L’opération : «à l’École de la Forêt» lointaine descendante des anciennes sociétés  scolaires forestières  de  1928  pérennise  cette  action  de propagande ayant  pour  but d' intéresser les jeunes des écoles à la grande oeuvre du reboisement en France et dans le monde.
+L’opération : **«à l’École de la Forêt»** lointaine descendante des anciennes sociétés 
+scolaires forestières  de  1928  pérennise  cette  action  de propagande ayant  pour  
+but d'intéresser les jeunes des écoles à la grande oeuvre du reboisement en France et dans le monde.
 
 
  
