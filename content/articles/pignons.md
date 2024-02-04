@@ -26,7 +26,7 @@ Le ramassage s’organise dès le 14 décembre 1891 pour cesser le 1er mars.
 Octobre 1909 : les adjudicataires sont Trouvé (Saint-Mars) et Chardin (Écommoy)
 16 octobre 1910 15h à la Tasse : Trouvé et Proulières (Saint-Mars)
   
-En 1912
+## En 1912
  
 Les pignons sont récoltés à la main, ou au moyen de serpes, mailles, 
   crochets, ou fourchettes à long manche, sans couper les branches ou les rompre.
@@ -40,7 +40,7 @@ Les pignons sont récoltés à la main, ou au moyen de serpes, mailles,
   
 {{<figure src="/images/articles/resine16.jpg" title="La récolte et le séchage des pignons">}}
 
-### Le 3 octobre 1912 : 
+**Le 3 octobre 1912 :** 
  
 L’adjudicataire est Leroy Alphonse de Marigné.
   
@@ -56,12 +56,17 @@ Une autre méthode pour qu’ils s’ouvrent et libèrent leurs graines, consist
   les cônes dans des fours à 50°c pendant 18 à 20 heures. Un batteur secoue les cônes,
   les graines sont séparées, désailées et triées pneumatiquement.
   
-En 1943 le ramasseur-collecteur est Louis Leroy (Marigné) qui revend ses hommes
+## En 1943 
+
+Le ramasseur-collecteur est Louis Leroy (Marigné) qui revend ses hommes
   à M. Rousseau de Ruaudin au Mans.
   
-En 1945, on parle des derniers ramassages des cônes par les ouvriers en novembre 
+## En 1945
+
+On parle des derniers ramassages des cônes par les ouvriers en novembre 
   et décembre (parcelles 51 & 53) lors de "l’abatage" des arbres...puis en 1950 
-  et le 5 janvier 1959 (dernière mention).
+  et le **5 janvier 1959** (dernière mention).
+
 
 ## Autres articles concernant les productions forestières: ## 
 
