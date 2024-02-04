@@ -125,9 +125,10 @@ La seigneurie aurait été transmise par alliance des familles Ribole à
 Courcillon puis au début du XVème siècle à la famille de Fromentières.
  En 1288 (BN Latin 9067 fol. 273) Geoffroy, sire de Courcillon obtient 
 du seigneur de Château-du-Loir (Béatrix de Monfort), 
-** «…l’autorisation de faire un estanc entre sa meson des Estancs et la 
+
+**"l’autorisation de faire un estanc entre sa meson des Estancs et la 
  forest de Berçay, dés la rivière qui vient de l’Ermitière jusqu’à la
- vielle chaussée qui est sous la Hugerie ...sous réserve de toute justice haute et basse.» **
+ vielle chaussée qui est sous la Hugerie ...sous réserve de toute justice haute et basse."**
 
 {{<figure src="/images/articles/ign.jpg" title="Levées des Étangs">}}
 
@@ -135,7 +136,7 @@ du seigneur de Château-du-Loir (Béatrix de Monfort),
 ### Les Étangs (XVᵉ–XVIIIᵉ)
 
 Un aveu de 1406 mentionne Amaury de Fromentières, 
-seigneur des Étangs, à cause de sa femme Loyse de COURCILLON. 
+seigneur des Étangs, à cause de sa femme Loyse de Courcillon. 
  
 En 1518, Olivier de Fromentières est écuyer, seigneur des Etangs. 
 La famille de Fromentières possédait également jusqu'au 
@@ -157,11 +158,11 @@ Plus tard, Bercé se rappelle avoir reçu
 la visite du grand-maître enquêteur Hurault, qui venait de la part de Colbert. 
 Il était assisté du député Leferon et vint entre le 8 et le 17 octobre 1669.
 Ils visitèrent la forêt en compagnie d’Hilarion de Fromentières,
-maître particulier alternatif, qui «fut condamné à restituer à sa Majesté 925 livres
+maître particulier alternatif, qui *«fut condamné à restituer à sa Majesté 925 livres
 pour la valeur de 225 cordes de bois de chauffage à Maison, plus 500 livres,
 pour ses vacations aux assiettes et journées des ventes de la même période, 
 9175 livres par lui reçus de la coupe et exploitation de 46 arpents de haute
-futaie à Bercé, plus 1500 livres pour dommages et intérêts envers sa Majesté.»
+futaie à Bercé, plus 1500 livres pour dommages et intérêts envers sa Majesté.»*
 
 {{<figure src="/images/articles/cadastre-napoleonien.jpg" title="Le cadastre Napoléonien">}}
  
@@ -169,7 +170,7 @@ futaie à Bercé, plus 1500 livres pour dommages et intérêts envers sa Majest�
  
 En 1698, les habitants de Saint-Vincent-du-Lorouër, 
 se présentèrent au [Château des Étangs](/articles/pdf/chateau-archeveque.pdf), devant Nicolas Hilarion 
-de FROMENTIÈRES, pour lui déclarer 
+de Fromentières, pour lui déclarer 
  
 *« …Que les nouveaux mariés de la paroisse sont tenus de faire chacun,
  au jour de la Quasimodo, conformément aux anciens titres et jugements, 
