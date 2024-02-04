@@ -186,9 +186,10 @@ Sa fille Patricia Rayon et Alain Gilbert développeront
 {{<figure src="/images/articles/poterie2014.jpg" title="Alain Gilbert explique le fonctionnement de son four à bois">}}
 
 Depuis cette date ils affinent leur maîtrise de la terre et du feu. 
+
 *Nous utilisons le grès du Berry pour produire une collection de pièces
   uniques et de vaisselle usuelle que nous cuisons dans le four
-  à gaz ou le four à bois de type « anagama »*. 
+  à gaz ou le four à bois de type "anagama"*. 
 
 
 ### 1991 :
