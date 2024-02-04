@@ -60,7 +60,7 @@ Le procès verbal d’Aménagement de 1843 stipule que les dégâts des
   limaces et grillons sont inexistants contrairement à la rumeur
   qui s’est un temps répandue.
   
-{{<figure src="/images/articles/20190612champignon.jpg" title="La limace vorace de champignons">}}
+{{<figure src="/images/articles/20190612champignon.jpg" title="La limace est vorace de champignons">}}
 
 ### 1876 :
   
@@ -111,7 +111,7 @@ Très récemment plusieurs centaines d’hectares avaient été impactés
   
 ### Champignons
 
-1971
+**1971**
   
 Suite à l’apparition de la maladie du rond sur certaines parcelles 
   l’on ouvre des fossés à la pelleteuse autour des îlots de pins malades. 
@@ -144,13 +144,13 @@ L’hiver 1878-1879 fut rude:
   mais il est certain, à la lecture des aménagements, que la plupart 
   des semis de pin maritime avaient réussi.* (R. Viney)
   
-{{<figure src="/images/articles/373.jpg" title="Givre dans la partie résineuse © M.Marc">}}
+{{<figure src="/images/articles/373.jpg" title="Givre dans la partie résineuse © Michel Marc">}}
   
 La grêle accompagne aussi parfois le tonnerre, compromettant la venue des fleurs ou des fruits. 
   
 Certains hivers les chutes de neiges sont très importantes ;
   
-{{<figure src="/images/articles/374.jpg" title="Givre en sous bois © Calvel">}}
+{{<figure src="/images/articles/374.jpg" title="Givre en sous bois © Robert Calvel">}}
   
 16 janvier 1926, la neige empêche les auxiliaires de travailler. 
 Le martelage aux Hospices du Mans, le 23 mars, est aussi perturbé. 
@@ -223,13 +223,13 @@ Avec le goudronnage des routes, le manège des barrières de dégel commence.
 25 février 1963 : 
   sur l’article 39, un éhouppeur a brisé sa hache sur le bois gelé. 
   
-{{<figure src="/images/articles/69huberdierecalvel.jpg" title="hiver 1969 © Calvel">}}
+{{<figure src="/images/articles/69huberdierecalvel.jpg" title="Hiver 1969 © Calvel">}}
   
 12 au 18 février 1978, vingt centimètres de neige marqueront le sol, 
   occasionnant par la suite inondations et chablis.
   
 23 mars 1978 : grêle et neige qui reviennent à nouveau le 11 avril. 
-  « …brouillards de mars… frimes de mai. »
+  *« …brouillards de mars… frimes de mai. »*
   
 En janvier et février 1985 la température descend en dessous de -20°
   les arbres claquent comme des coups de fusil. 
@@ -246,15 +246,15 @@ Les hivers 2010 et 2011 amèneront aussi de la neige à foison.
  
 ### La pluie :
   
-« Si d’Lucé, t’entends Pruillé,… ça va mouiller ! »
+*« Si d’Lucé, t’entends Pruillé,… ça va mouiller ! »*
   
 17 et 24 juin 1727 des orages de pluie et de grêle dévastent les cultures 
   de blé et de chanvre sur Saint-Vincent et Saint-Pierre.
   
-29 mai 1928 : Deux siècles plus tard, « L’après midi vers 7h 45, un orage 
+29 mai 1928 : Deux siècles plus tard, *" L’après midi vers 7h 45, un orage 
   d’une rare violence s’est abattu sur la forêt de Bercé. La pluie tombant
   à verse pendant 1h 45 a profondément raviné les routes forestières. 
-  Les routes de l’Hermitière, de la vallée des Pierres, sont les plus endommagées. 
+  Les routes de l’Hermitière, de la vallée des Pierres, sont les plus endommagées."* 
   
 {{<figure src="/images/articles/valleedespierres.jpg" title="La fosse de la Lutinière dans la vallée des Pierres">}}
   
@@ -346,7 +346,7 @@ Aussi, en 2023, l'O.N.F. anticipe-t-il la raréfaction de l'eau en établissant
   
 ### La foudre :
   
-« Les fourmis sont d’sortie, l’orage aussi. »
+*« Les fourmis sont d’sortie, l’orage aussi. »*
   
 {{<figure src="/images/articles/foudre.jpg" title="Le chêne foudroyé situé derrière le chêne Boppe">}}
   
@@ -385,7 +385,7 @@ Depuis 1992, Bercé possède une station météo grâce au programme « RENECOFO
   Elle enregistre ces évènements climatiques exceptionnels ou non qui 
   participent activement à la vie ou à la mort de nos forêts. 
   
-Là…. Nous ne sommes plus dans l’ère de « l’a peu près…». 
+Là…. Nous ne sommes plus dans l’ère de *« l’a peu près…».* 
 
 ## Le changement climatique est bien présent ##
 
