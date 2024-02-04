@@ -12,8 +12,10 @@ Le martelage est une opération sylvicole qui consiste à désigner les arbres �
 
 Peu de photos anciennes relatent cette particularité du métier de forestier sur Bercé.
 
-Les gestes  du marteleur se répètent inlassablement depuis l’arrivée des premiers forestiers sur le Massif de Bercé : 
-(Gaubert (Gausbertus) forestier de Cléopas de Nouâtre en 1067 et Foucher, forestier de Gervais II, seigneur de Château du Loir (1071).
+Les gestes  du marteleur se répètent inlassablement depuis 
+l’arrivée des premiers forestiers sur le Massif de Bercé : 
+(Gaubert (Gausbertus) forestier de Cléopas de Nouâtre en 1067 et Foucher, 
+forestier de Gervais II, seigneur de Château du Loir (1071).
 
 {{<figure src="/images/articles/tampon.jpg" title="Sceau du marteau de l'état">}}
   
@@ -21,7 +23,7 @@ Martelages et griffages sont deux opérations ou le forestier peut librement
   exprimer son talent, car choisir un arbre pour le porter à la mort,
   n’est pas un acte sylvicole vide de sens. 
   
-     Le martelage 
+**Le martelage**
      
      C'est la désignation à l’aide d’un marteau 
           (dit marteau de l’État)
@@ -40,7 +42,9 @@ Martelages et griffages sont deux opérations ou le forestier peut librement
 
 **Par le passé**
   
-Les marteaux utilisés en opération conjointe de martelage étaient, eux, conservés à l’inspection du Mans dans un coffre, et amenés par l’inspecteur ou agent sur le terrain les seuls jours "d’opération".
+Les marteaux utilisés en opération conjointe de martelage étaient, eux,
+conservés à l’inspection du Mans dans un coffre, 
+et amenés par l’inspecteur ou agent sur le terrain les seuls jours "d’opération".
   
 Le 6 août 1899 il est noté dans les livrets que *«les empreintes des marteaux de l’État 
   sont déposées au Pavillon de Bercé, dans l’armoire de la chambre de Mr l’inspecteur»* . 
@@ -57,16 +61,16 @@ L’équipe est composée des préposés (ou gardes qui tiennent marteaux et com
   du brigadier (qui pointe les appels sur une feuille de pointage) et d’un, 
   voir deux agents en tournée (inspecteur ou garde général, qui supervisent l’opération). 
   
-28 septembre 1868 : LEROUX note *Rendez vous du brigadier à la loge de Croix-Marconnay
+28 septembre 1868 : Leroux note *Rendez vous du brigadier à la loge de Croix-Marconnay
   pour présenter les marteaux à Mr le sous-inspecteur*. 
 
 *Alors, sur l'ordre du brigadier, les gardes prirent dans la voiture les sacs à provisions
   et les suspendirent à une branche dans le massif. Ils accrochèrent également sous bois, 
   à quelque distance, les sacs qu'ils portaient en bandoulière… On tira ensuite du coffre 
   les marteaux de l'État enveloppés dans un étui en cuir fermé par une double serrure. 
-  Les étuis furent ouverts par l'inspecteur et un marteau remis à 
-  chacun des gardes.* 
-  Récit forestier de  Ruault de Champglin
+  Les étuis furent ouverts par l'inspecteur et un marteau remis à chacun des gardes.* 
+ 
+  Récit forestier de Ruault de Champglin
   
 {{<figure src="/images/articles/martelage.jpg" title="La virée de martelage">}}
   
@@ -162,7 +166,8 @@ L’empreinte du marteau de l’État telle que nous la connaissons aujourd’hu
 
 
 La prise des mesures de l’arbre :
-Avec le compas forestier, gradué de 5 en 5cm pour la prise du diamètre et l’œil du forestier ou aujourd’hui un dendromètre pour la prise des hauteurs.
+Avec le compas forestier, gradué de 5 en 5cm pour la prise du diamètre et 
+l’œil du forestier ou aujourd’hui un dendromètre pour la prise des hauteurs.
   
 {{<figure src="/images/articles/jeanm.jpg" title="Martelage de l’abandon et appel en « aboyant » en direction du pointeur">}}
 
@@ -231,6 +236,7 @@ Seule véritable pose d’une journée trop souvent venteuse ou pluvieuse,
 {{<figure src="/images/articles/martelagep219.jpg" title="Martelage de la parcelle 219">}}
 
 ### Les martelages à l’extérieur: 
+
 Traditionnellement, les forestiers de Bercé participent depuis
   des lustres aux martelages des forêts de Bellebranche,
   des Hospices du Mans et du bois des pauvres de Saint-Mars-de-Locquenay.
