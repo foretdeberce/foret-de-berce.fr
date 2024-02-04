@@ -22,8 +22,10 @@ Mise en place de piquets traités, anti-pénétration  et de nouveaux panneaux
   d’informations : 
   
   un sur la Géologie des lieux, 
+  
   un autre sur le bois de Marine 
-  et le troisième, la carte touristique de Bercé.
+  
+  et le troisième : la carte touristique de Bercé.
   
 ### Le Vent
   
@@ -40,19 +42,26 @@ En 2010, la tempête  Xynthia soufflera dans la  nuit du samedi 27 février
   
 Le 29 mai1928, l’après midi vers 7h45, un orage d’une rare violence s’est abattu sur la forêt de Bercé. 
 La pluie tombant à verse pendant 1h45 a profondément raviné les routes forestières. 
-La route de l’Hermitière est parmi les plus endommagées. Le  pont de la route basse de l’Hermitière à la route de Chahaignes a été partiellement emporté. Les fossés bordiers de la route haute sont creusés par place à 1m50 de profondeur. Les berges et les accotements sont profondément ravinés. 
-Cinquante à soixante mètres cubes de graviers de pierres et de détritus de toutes sortes se sont accumulés sur le terre--plain  de l’Hermitière. 
+La route de l’Hermitière est parmi les plus endommagées. Le  pont de la route basse de l’Hermitière 
+à la route de Chahaignes a été partiellement emporté. Les fossés bordiers de la route haute sont creusés par place à 1m50 de profondeur.
+Les berges et les accotements sont profondément ravinés. 
+Cinquante à soixante mètres cubes de graviers de pierres et de détritus de toutes sortes se sont accumulés sur le terre-plain  de l’Hermitière. 
 Les ponceaux, construits par Bignon pour l’exploitation de son commerce ont été emportés par les eaux. 
   
 {{<figure src="/images/articles/hermitiere221.jpg" title="Le panneau sur l’eau">}}
 
-Le curage des sources est rendu nécessaire après les gros orages et particulièrement les pluies incessantes du printemps 2001 inondant les sources tel un lac, à ne plus voir le puits.
-2005 : au printemps, les sources sont restées bien discrètes … véritable baromètre de la sècheresse, leur abondance nous renseigne sur le niveau de la nappe phréatique et peut être une modification à venir des précipitations. 
+Le curage des sources est rendu nécessaire après les gros orages et particulièrement les pluies incessantes du printemps 2001 
+inondant les sources tel un lac, à ne plus voir le puits.
+2005 : au printemps, les sources sont restées bien discrètes … véritable baromètre de la sècheresse, leur abondance
+nous renseigne sur le niveau de la nappe phréatique et peut être une modification à venir des précipitations. 
  
 ### Le vallon de l’Hermitière
 
-Cet endroit prestigieux et cher dans le cœur des Sarthois a malheureusement été, au fil des ans, mal suivi du point de vue des éclaircies qui restaient trop timides au regard du nombre de hêtres présents dans ce canton. Souvenez-vous, naturellement le hêtre se fixe bien à Bercé.
-Du procès verbal en date du samedi 19 octobre 1669 il résulte qu’à cette époque la forêt était en haute futaie, composée dans la partie feuillue d’un tiers chêne et deux tiers hêtre.
+Cet endroit prestigieux et cher dans le cœur des Sarthois a malheureusement été, au fil des ans,
+mal suivi du point de vue des éclaircies qui restaient trop timides au regard du nombre de hêtres
+présents dans ce canton. Souvenez-vous, naturellement le hêtre se fixe bien à Bercé.
+Du procès verbal en date du samedi 19 octobre 1669 il résulte qu’à cette époque la forêt était en haute futaie,
+composée dans la partie feuillue d’un tiers chêne et deux tiers hêtre.
 
 {{<figure src="/images/articles/hermitiere521.jpg" title="Forte proportion de hêtres">}}
 
@@ -74,10 +83,12 @@ Une autre parcelle, celle des clos au chêne Boppe, plébiscitée aussi
   particulièrement dense, mono spécifique, avec une forte
   concurrence entre les sujets, traitée en sylviculture dite
   « prudente », avec un minimum de coupes d’éclaircie afin
-  de favoriser la compétition entre les tiges.*(1)
+  de favoriser la compétition entre les tiges.***(1)**
   
 Tous ces facteurs fragilisent la résistance actuelle de la parcelle aux intempéries.
-(1)	Étude d’une chênaie sessiliflore exceptionnelle : François LEBOURGEOIS 
+
+
+**(1)**	Étude d’une chênaie sessiliflore exceptionnelle : François LEBOURGEOIS 
 Guillaume COUSSEAU - Yves DUCOS (Revue Forestière  Fr. LV - 4-2003)  
 
 {{<figure src="/images/articles/sylvicultureduvallon.jpg" title="La prescription des forestiers">}} 
@@ -112,7 +123,7 @@ Il ne pouvait en être autrement.
   
 [Une nouvelle génération d’arbres pour le vallon de l’hermitière](/articles/pdf/nouvellegenerationarbres2019.pdf)
 
-Des arbres « bio » ont été préalablement identifiés et resteront
+Des arbres *« bio »* ont été préalablement identifiés et resteront
   sur pied au sein de la zone en régénération.
 Une dizaine d’hectares sont conservés en îlots de vieillissement
   autour de la partie en régénération, qui permettront de 
@@ -137,18 +148,19 @@ Eléments remarquables de biodiversité
 -	Présence de nombreux micohabitats à tous les niveaux de hauteur :
   loge, fonge, plusieurs stades de dégradation du bois, chandelles, carpophore… 
 -	Régulation du débit des eaux arrivant des champs situés au sud de 
-  la parcelle et rôle de filtre (les limons se déposent dans cette parcelle) 
--	Canton prospecté lors des études naturalistes (résultats ci-dessous)
+  la parcelle et rôle de filtre (les limons se déposent dans cette parcelle). 
+-	Canton prospecté lors des études naturalistes (résultats ci-dessous).
 
 ### Flore :
 
-Présence du Lobaria pulmonaria : indicateur des milieux non pollué 
+Présence du Lobaria pulmonaria : indicateur des milieux non pollué. 
 
 ### Chiroptères :
 
 Expertise 2011 ONF-CPIE : écoute ultrasonore+radiotracking
 
-7espèces recensées :
+**7espèces recensées :**
+
 Pipistrelle commune 
 Pipistrelle de Kuhl 
 Sérotine commune 
@@ -157,10 +169,10 @@ Murin d’Alcathoé : esp.très rare (cf.ci-dessous)
 Noctule commune 
 Barbastelle : inscrite à l’annexe 2 de la Directive Habitat 
 
-Terrain de chasse et gîte d’espèces de forêts ‘matures’ (dont Barbastelle) 
+Terrain de chasse et gîte d’espèces de forêts *‘matures’* (dont Barbastelle) 
 Présence du ‘tunnel’ : gîte 
 
-Note sur Le Murin d’Alcathoé 
+**Note sur Le Murin d’Alcathoé** 
 
 Cette espèce relativement rare n’a été trouvée qu’en très
   vieille futaie de chênes, en hauteur (à 22m dans un arbre),
@@ -187,8 +199,10 @@ Cette espèce relativement rare n’a été trouvée qu’en très
 
 
 ### Entomofaune 
-  -Etude entomo en cours sur les coléoptères saproxyliques
-(2 polytraps) Sont ciblés les coléoptères circulants en vol (40 à 75% des échantillons). 
+
+  -Étude entomo en cours sur les coléoptères saproxyliques :(2 polytraps)
+  
+Sont ciblés les coléoptères circulants en vol (40 à 75% des échantillons). 
 Le principe en est un piège-vitre, ou piège-fenêtre pour intercepter les insectes en vol.
 
 ## Autres articles sur l'Hermitière : ## 
