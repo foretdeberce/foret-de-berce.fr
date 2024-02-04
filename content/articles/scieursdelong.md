@@ -115,12 +115,13 @@ Ils se faisaient délivrer un certificat de route, un «passe-port» : document 
 *"Vu passer à la Flèche le 30 décembre 1779, Maréchal de Lucé Procureur du Roi".*
   
 Cette formalité est tombée en désuétude à la fin du XIXe. 
-Un passeport daté de 1885, appartenant à Antoine CHEVALIER, natif de Saint-Jean-des-Ollières en Auvergne,
+Un passeport daté de 1885, appartenant à Antoine Chevalier, natif de Saint-Jean-des-Ollières en Auvergne,
 porte les nombreux visas apposés par les officiers municipaux des villes traversées.
 Nous pouvons facilement suivre son itinéraire, au retour dans l’exemple ci après:   
-«"Vu passer" : au Mans (72), à Château-du-Loir (72), à Tours (37), à Loches (37), 
+*«"Vu passer" : au Mans (72), à Château-du-Loir (72), à Tours (37), à Loches (37), 
 à Chatillon-sur-Indre (36), à Châteauroux (36), à Châteaumeillant (18), à Montluçon (03),
-à Montaigut-en-Combraille (63), à Riom (63), à Billom (63).»
+à Montaigut-en-Combraille (63), à Riom (63), à Billom (63).»*
+
 Du Perche au Livradois, il a parcouru à pied environ 400 km, soit une moyenne de 40 km par jour,
 ce qui correspondait à la moyenne générale.
 En plus du «passe-port», vers 1750, a été institué le livret d'ouvrier dont ils devaient être munis.
@@ -128,20 +129,23 @@ Le demandeur devait être bon catholique, non-hérétique, de bonne moralité, j
 réputation, aucun reproche à lui faire sur sa conduite, porteur d'aucune maladie épidémique..... 
 Les protestants Vellaves (du Velay) ne pouvaient donc pas émigrer.
 Les passeports, manuscrits ou imprimés, portaient à peu près tous les mêmes formules : 
-« Enjoignons à tous ceux qui sont préposés pour veiller au passage des gens suspects, 
+
+*« Enjoignons à tous ceux qui sont préposés pour veiller au passage des gens suspects, 
 et à la sûreté des chemins de notre département, et prions tous ceux qui sont à prier, 
 de laisser librement passer le dit "FAURE" et de même de lui donner toute aide et assistance 
-en cas de besoin. En foi de quoi nous lui avons délivré le présent Passeport ». 
+en cas de besoin. En foi de quoi nous lui avons délivré le présent Passeport »*. 
 
 Arrivés en forêt, ils se construisaient souvent une baraque sur le lieu même du chantier. 
 Cette "loge" qui abritait à la fois les hommes, les outils et les provisions, était faite 
 de planches, de branchages, recouverte de mottes de terre et d'herbe. Elle devait être étanche
 pour les prémunir contre l'humidité et les intempéries. A l'intérieur, le mobilier était des 
 plus sommaires avec une table, un banc, une caisse garnie de paille. 
+
 Quelquefois leur employeur, marchand de bois ou adjudicateur de coupe, leur fournissait un poêle. 
 La fumée s'échappait par un simple trou pratiqué dans la toiture ou sur la façade. 
 Dans la coupe, les autres bûcherons, charbonniers, sabotiers... étaient logés à la même 
 enseigne, même ceux qui étaient accompagnés par leur femme et toute leur marmaille.
+
 Les jours, les mois passaient, rythmés par les saisons. Aux belles journées d'automne
 succédaient les tristes jours d'hiver où la pluie tombait incessamment et transperçait 
 leurs vêtements, au point que l'on disait "qu'aucun scieur de long n'allait en enfer…
@@ -165,7 +169,7 @@ les billes devant être sciées le lendemain,
 *Ils travaillaient par équipes de deux ou trois pour manier l’énorme scie,
 qu’ils nommaient volontiers la "criminelle" ou la "belle-mère",
 sur un support nommé le "chevalet", l’un en haut (le "chevrier") 
-et l’autre en bas (le "renard"). 
+et l’autre en bas (le "renard").* 
 
 ### Le doleur,
 
@@ -194,16 +198,22 @@ Plusieurs équipes constituaient une brigade. Dans ce cas, un doleur suffisait p
  les arbres marqués, les scieurs se mettaient à l'ouvrage. La bille était hissée 
  sur le chevalet à force d'hommes, roulée par l'arrière du support ou élevée à 
  l'aide d'un cric ou d'une chèvre de charpentiers, et solidement attachée par une 
- chaîne et des coins. Il existait quatre modèles de chevalet dont celui à trois pieds
+ chaîne et des coins. 
+ 
+ Il existait quatre modèles de chevalet dont celui à trois pieds
  à l'avant, engagés dans un madrier, ce madrier étayé par une longue pièce de bois 
- appuyée d'un côté au sol. Le plus simple, le plus utilisé par les Auvergnats, 
+ appuyée d'un côté au sol. 
+ 
+ Le plus simple, le plus utilisé par les Auvergnats, 
  était formé par un long tronc de 4 à 6 m, une extrémité à terre, l'autre élevée 
  à hauteur d'homme, dans lequel deux pieds obliques venaient s'encastrer. 
  Le dessus du chevalet, équarri, s'appelait le sommier. Le méplat de la queue 
  était entaillé d'encoches qui servaient à la fois pour le ripage de la bille à 
  positionner et d'escaliers au chevrier, véritable homme singe. Des pierres et des
  grosses pièces de bois étaient appliquées à l'arrière, afin d'éviter le mouvement 
- de balancier. La grande scie de long était formée d'un cadre en bois d'environ 
+ de balancier.
+ 
+ La grande scie de long était formée d'un cadre en bois d'environ 
  1,50 m de long sur 1 m de large, munie d'une poignée aux deux transversales, 
  et d'une lame fixée en son milieu, raidie par un tendeur ou des coins.
  Les dents de la lame étaient crochues, elles ne mordaient le bois qu'en descendant. 
@@ -211,15 +221,20 @@ Plusieurs équipes constituaient une brigade. Dans ce cas, un doleur suffisait p
  légèrement de l'entaille et la guidait en fixant son regard sur le trait de scie. 
  Il progressait en reculant. Le travail était équitablement réparti entre compagnons, 
  chaque poste avait ses avantages et surtout ses inconvénients.
+ 
  Arrivés à hauteur du chevalet, ils s'arrêtaient, faisaient pivoter la bille et 
  attaquaient l'autre côté. Ils la détachaient, la jetaient au sol.
  C'était alors qu'apparaissait la ligne rugueuse marquant à la fois la jonction
- des deux traits de scie et leur "signature". Dans un magazine récent un antiquaire 
- vantant sa marchandise précisait : « Toutes mes armoires portent au dos la signature 
- des scieurs de long ». Tout en travaillant, ils discutaient et chantaient. 
+ des deux traits de scie et leur "signature". 
+ 
+ Dans un magazine récent un antiquaire vantant sa marchandise précisait : 
+ *« Toutes mes armoires portent au dos la signature 
+ des scieurs de long »*.
+ 
+ Tout en travaillant, ils discutaient et chantaient. 
  Les paroles de leurs chansons évoquaient leur région et bien sûr... leur bien-aimée ! 
  
-{{<figure src="/images/articles/sdl3.jpg"title="l’équipe">}}
+{{<figure src="/images/articles/sdl3.jpg"title="L’équipe">}}
    
 ### Les repas
  
@@ -229,8 +244,14 @@ Aux trois repas, chacun coupait du pain comme il l'entendait dans son écuelle,
  la cuillère devait tenir debout, était de rigueur. Avec la pointe de leur couteau,
  ils piochaient  un morceau de lard, directement dans la marmite. De la rapidité 
  du geste de coupe dépendait de ce que l'employeur offrait pour accommoder 
- le repas de midi. Gestes lents : un hareng pour trois…Gestes plus rapides: 
- un hareng pour deux… Gestes encore plus rapides : chacun son hareng.
+ le repas de midi. 
+ 
+ Gestes lents : un hareng pour trois…
+ 
+ Gestes plus rapides:  un hareng pour deux… 
+ 
+ Gestes encore plus rapides : chacun son hareng.
+ 
  Dès la fin de la coupe et les beaux jours revenants…vers la Saint Jean d’été, 
  il fallait songer à retrouver les siens. Pendant le trajet du retour, 
  ils devaient rester sur leurs gardes car des personnes mal intentionnées 
