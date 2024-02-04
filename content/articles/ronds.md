@@ -260,7 +260,7 @@ Erreur ! Les voitures augmentaient par la même leur vitesse.
   L’on adopta alors le fait de les remettre au centre, 
   et je pris personnellement l'initiative de tester leur solidité………
   
-**Le rond de Croix-Chambault**
+**Le Rond de Croix-Chambault**
 
 Il a suffit d’un rien !
  
