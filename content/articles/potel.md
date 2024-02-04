@@ -155,7 +155,7 @@ De même après une autre de ses publications en 1924 dans la **Revue des Eaux e
   révéla être de 260 à 1m30 de hauteur.
 
 
-{{<figure src="/images/articles/boppe1924potel.jpg"  title="Chêne Boppe - photo: Potel">}}
+{{<figure src="/images/articles/crochetageboppe.jpg"  title="Chêne Boppe - photo: Potel">}}
 
 ## Autres articles concernant les officiers forestiers : ## 
 
