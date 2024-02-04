@@ -63,7 +63,7 @@ L’aîné, Théophile Laurent Pierre est né le 3 avril 1874.
   
 Une seconde naissance arrive le 20 juillet 1875, 
   mais Laurent note sur son livret :
- «Resté à la maison pour faire enterrer mon enfant nouveau né ». 
+ *«Resté à la maison pour faire enterrer mon enfant nouveau né ».* 
   Les obsèques auront lieu à Thoiré.
   
 ### Équipement du chasseur forestier Heintz
@@ -100,12 +100,12 @@ Une seconde naissance arrive le 20 juillet 1875,
      un "couteau de chasse" qui pouvait s’apparenter
      à un glaive.
   
-Le 4 décembre 1875, « au Château du Loir pour payer les frais de timbre
-  de mon extrait de naissance et du consentement de mes parents pour mon mariage »
+Le 4 décembre 1875, *« au Château du Loir pour payer les frais de timbre
+  de mon extrait de naissance et du consentement de mes parents pour mon mariage »*
 
-Le 8 novembre 1876 « Été à Lucé pour chercher un enfant de l’Assistance publique de Douai. ».
+Le 8 novembre 1876 *« Été à Lucé pour chercher un enfant de l’Assistance publique de Douai. »*
   
-Le 27 octobre 1877 : « chez le médecin pour faire remettre le bras cassé à mon enfant (à Château du Loir) »
+Le 27 octobre 1877 : *« chez le médecin pour faire remettre le bras cassé à mon enfant (à Château du Loir) »*
 
 Laurence Marie Raymonde nait quant à elle le 30 octobre 1878 et Eugène Camille, le 16 juillet 1881.
 
@@ -114,24 +114,24 @@ Janvier 1879, le froid a raison des écritures du livret journalier.
 {{<figure src="/images/articles/ecritureheintz.jpg" title="La dérive de l’écriture">}}
 
 
-17 Juillet 1881 : « Été à Thoiré faire baptiser mon enfant (Eugène Camille) né de samedi.
-  Passé le reste de la journée à vaquer à mes affaires ». 
+17 Juillet 1881 : *« Été à Thoiré faire baptiser mon enfant (Eugène Camille) né de samedi.
+  Passé le reste de la journée à vaquer à mes affaires »*. 
 
 
 13 novembre 1882 
-« Le soir accompagné le juge de paix sur le canton de
+*« Le soir accompagné le juge de paix sur le canton de
 Croix-Veneur parcelle A5 pour la reconnaissance d’un cadavre trouvé 
-dans cette parcelle par le sieur Branjonneau. Rendu compte au brigadier » 
+dans cette parcelle par le sieur Branjonneau. Rendu compte au brigadier »*
   
-9 avril 1883 : « Gardé la maison pour cause d’enflure du pied droit,
-ne pouvant pas mettre de chaussures. » Laurent Heintz souffre comme
+9 avril 1883 : *« Gardé la maison pour cause d’enflure du pied droit,
+ne pouvant pas mettre de chaussures. »* Laurent Heintz souffre comme
 nombre de forestiers des pieds, organes essentiels de la marche  en forêt. 
 
-1890, du 21 mars au 16 avril….malade (vu le docteur Manceau de Château du Loir)
+1890, du 21 mars au 16 avril….*malade (vu le docteur Manceau de Château du Loir)*
   
 **5 août au 13 septembre 1890 :** 
   
-  « parti aux eaux thermales de Bourbon-l’Archambault (idem en 1891)
+  *parti aux eaux thermales de Bourbon-l’Archambault* (idem en 1891)
 
 21 & 22 avril 1892,  ses rhumatismes ne l’empêchent  pas de travailler
   car le conservateur, l’inspecteur et l’inspecteur adjoint sont en forêt.
@@ -146,7 +146,7 @@ Il reçoit en 1893, la médaille d’honneur forestière à défaut de la médai
   
 En effet, de brillants états de services et plusieurs faits d’armes lui sont
   crédités, malheureusement sans que personne ne puisse en témoigner. 
-Bon nombre de ses camarades sont en effet « Morts pour la France ».
+Bon nombre de ses camarades sont en effet *« Morts pour la France »*.
 
   
 **Note de Roulleau - 1893**
@@ -166,20 +166,20 @@ Du 3 mai 1894 au 6 juin puis en 1895, du 21 aout au 21 octobre Laurent Heintz
   se plaint toujours des rhumatismes et est souvent arrêté.
 
 
- Le 23 janvier 1895 « A Château-du-Loir, tiré le billet du sort de mon 
-  fils Théophile né le 3 avril 1874».
+ Le 23 janvier 1895 *« A Château-du-Loir, tiré le billet du sort de mon 
+  fils Théophile né le 3 avril 1874»*.
     
 Heintz perçoit comme tous ses collègues, la ration mensuelle de tabac.
   Cet « avantage » perdurera malheureusement  pour notre santé, 100 ans plus tard. 
   
 Le 7 juillet 1897 il va à Château du Loir pour tirer un certificat de médecin.
 Son état de santé ne lui permettait plus de continuer dans ses fonctions
- « visite du médecin assermenté : 5fr ».
+ *« visite du médecin assermenté : 5fr »*.
   
 Laurent Heintz a pris sa retraite le 11 septembre 1897
   
 Du 1er au 10 novembre 1897 date de sa retraite effective il est 
-  en position de « permission retraite ».
+  en position de *« permission retraite »*.
   
 30 juillet 1917 : enterrement de l’ancien garde Heintz décédé à Thoiré-sur-Dinan. 
 
