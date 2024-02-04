@@ -37,7 +37,7 @@ Par décret Royal,
   des décisions de justice, ne doivent exercer leurs fonctions que revêtus 
   de leur manteau bigarré et la verge à la main »*
   
-*bien entendu, nous ne parlons ici que d’un bâton de bois…! 
+bien entendu, nous ne parlons ici que d’un bâton de bois…! 
   
 (Ordonnances sur le fait de la chasse donc des Eaux et forêts 
   de François 1er de mars 1515 et août 1533).
@@ -77,27 +77,27 @@ Les "Maistres" et officiers établis pour commander aux gardes d’une
 
 ...et spécialement dès le début de l'époque révolutionnaire.
 
-Il fut admis « … que les plaques ou broderies pourraient être portées sur
+Il fut admis *« … que les plaques ou broderies pourraient être portées sur
   un brassard, et même remplacées par des médailles à une ou deux 
-  faces parlantes appendues au cou. 
+  faces parlantes appendues au cou.* 
   
-Les emblèmes royaux, couronne et fleurs de lys demeurent encore 
+*Les emblèmes royaux, couronne et fleurs de lys demeurent encore 
   en vigueur jusqu'au 20 septembre 1792 
   (21 septembre : arrestation de Varennes). 
 Certaines plaques, dès la fin du XVIIIème siècle,
-ont été estampées au moyen de matrices finement travaillées.
+ont été estampées au moyen de matrices finement travaillées.*
 
 
-Elles sont généralement en laiton naturel, en bronze naturel patiné
+*Elles sont généralement en laiton naturel, en bronze naturel patiné
   ou doré. On en connaît en cuivre argenté, en argent et aussi en
   vermeil ou en corne de bœuf aplanie et gravée (Directoire). 
 Elles adoptent toutes les formes, au gré des régimes politiques 
   successifs. Fleur de lys, coq gaulois, aigle, palmes et bien sur,
-  les légendes s’adaptent aux circonstances :
+  les légendes s’adaptent aux circonstances :*
   
-  « la Loi, le Roi », 
+  *« la Loi, le Roi », 
   « Force à la Loi », 
-  « Respect à la Loi »…
+  « Respect à la Loi »…*
   
 A partir de la révolution la plaque du garde particulier invoque et 
   c’est la règle, la Loi, (le garde est décoré selon le vœu de la loi). 
@@ -183,23 +183,34 @@ Ces mots avaient été chassés par la révolution car ils rappelaient
 
 Ainsi la Vendée va vouloir montrer son attachement à la monarchie et au Roi Louis XVI. 
 Les gardes vont être amenés à effacer certains mots de leur plaque de baudrier :
+
 le mot “ République ” de l’expression “ République Française ”,
+
 le mot “ Nationales ” de l’expression “ Forêts Nationales ”,
+
 Le mot “ Conservation ” mot nouveau qui remplace l’ancienne maîtrise.
+
   
 {{<figure src="/images/articles/boutonsofficiers.jpg" title="L’évolution des boutons accompagne celle des plaques">}}
 
 
 **XIX° siècle :**
 
-Jean Claude Chausse, Jacques PETITFILS, Richard BACCHETTA, aidés des dessins d’Henri BOISSELIER (1881 – 1959) et de Patrick BERTHELOT nous présentent dans les deux exposés joints en PDF, [L’uniforme des forestiers de la couronne aux chasses présidentielles](/articles/pdf/tenuesforetdelacouronne.pdf) et [L’uniforme des forestiers de 1830 à 1870](/articles/pdf/tenuesforetde1830-1870.pdf).
+Jean Claude Chausse, Jacques PETITFILS, Richard BACCHETTA, aidés des dessins d’Henri BOISSELIER (1881 – 1959) 
+et de Patrick BERTHELOT nous présentent dans les deux exposés joints en PDF,
+
+[L’uniforme des forestiers de la couronne aux chasses présidentielles](/articles/pdf/tenuesforetdelacouronne.pdf) 
+
+et
+
+[L’uniforme des forestiers de 1830 à 1870](/articles/pdf/tenuesforetde1830-1870.pdf).
 
 Code forestier du 28 mai 1827 et ordonnance d'exécution du 1er août: 
-« Les gardes à cheval et les gardes à pied porteront une bandoulière 
+*« Les gardes à cheval et les gardes à pied porteront une bandoulière 
   chamois avec bandes de drap vert, et au milieu une plaque de métal 
-  blanc portant ces mots : " Forêts royales" avec une fleur de lys ».
+  blanc portant ces mots : " Forêts royales" avec une fleur de lys ».*
   
-« Lorsque ces Messieurs les agents (officiers) reçurent un uniforme au commencement 
+*« Lorsque ces Messieurs les agents (officiers) reçurent un uniforme au commencement 
   du 19ème siècle, on se contenta (vers 1835) de pourvoir les préposés
   de l’insigne apparent qui distinguait les dépositaires de l’autorité 
   publique : la plaque. Cette plaque était attachée à une bandoulière 
@@ -207,10 +218,10 @@ Code forestier du 28 mai 1827 et ordonnance d'exécution du 1er août:
   C’est le costume classique du garde champêtre dans les caricatures de CHAM.
   Plus tard, la bandoulière prit fin lorsque tout le personnel reçut un uniforme, 
   mais la plaque resta, on ne sait pourquoi, et fut attachée à la bretelle du sac.
-  (Musette de service en cuir…bien entendu). 
+  (Musette de service en cuir…bien entendu).* 
   
-  Les préposés reçurent plusieurs fois l’ordre de porter ostensiblement
-  la plaque dans leurs tournées ». **(1)** 
+  *Les préposés reçurent plusieurs fois l’ordre de porter ostensiblement
+  la plaque dans leurs tournées ».* **(1)** 
 
 {{<figure src="/images/articles/pezeray.jpg" title="Le garde et ses attributs">}}
 
@@ -288,28 +299,28 @@ Les gardes particuliers ne possèdent pas d'uniforme particulier.
  
 ### Bibliographie :
   
-* « Des plaques de Gardes » par Raymond GAGNEUX (administrateur de la Société pour 
-  la protection des paysages et de l’esthétique en France – Paris) 
+*« Des plaques de Gardes » par Raymond GAGNEUX (administrateur de la Société pour 
+  la protection des paysages et de l’esthétique en France – Paris)*
   publié par La Revue Forestière Française – 1982.
   
-* « Insignes et marques distinctives de l'Administration des Eaux et Forêts » 
-  Étude de monsieur Louis LAVAUDEN (Nancy. Promotion 1907) publiée par
+*« Insignes et marques distinctives de l'Administration des Eaux et Forêts » 
+  Étude de monsieur Louis LAVAUDEN (Nancy. Promotion 1907)* publiée par
   la « Revue des Eaux et Forêts » en 1927.
   
-**(1)** « Des années entières dans les bois Lozériens » mémoire 
+**(1)** *« Des années entières dans les bois Lozériens »* mémoire 
   d’Olivier NOUGAREDE 1985 Laboratoire de l’INRA : les agents et préposés 
   des Eaux et forêts en Lozère du code forestier à la Grande Guerre.
   
-* Étude de Jean Claude CHAUSSE : « la reformation des plaques de baudrier 
-  des eaux et forets. Question de communication ou affirmation du pouvoir ? » 
+  Étude de Jean Claude CHAUSSE : *« la reformation des plaques de baudrier 
+  des eaux et forets. Question de communication ou affirmation du pouvoir ? »* 
   Revue Forestière Française LXII - 2-2010 pages 175 à 178.
   
-* Jean-Claude Chausse. L’évolution des plaques de baudrier (suite). 
+Jean-Claude Chausse. *L’évolution des plaques de baudrier (suite)*. 
   La plaque de garde terrassier employé aux routes forestières.
   Revue forestière française, AgroParisTech, 2013, 65 (3), pp.271-278.
   ff10.4267/2042/51856ff. ffhal-03447401f
  
-* Revue Au Fil du Temps N° 45 & 46 - Pages diverses (Y. Gouchet - 2009/2010)
+Revue Au Fil du Temps N° 45 & 46 - Pages diverses (Y. Gouchet - 2009/2010)
 
  
 
