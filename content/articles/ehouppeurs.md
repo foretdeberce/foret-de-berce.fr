@@ -10,8 +10,11 @@ tags: ["Exploitation","Travaux","Hommes","Bucherons"]
                   
  ### L'éhouppeur ou émondeur
   
-C’est la profession la plus exposée. Imaginez-vous grimper à 25 ou 30 m du sol avec votre matériel, 
-  et du haut, entreprendre à la hache, l’abatage **(1)**, tout en prenant soin de votre équilibre. 
+C’est la profession la plus exposée en forêt.
+
+Imaginez-vous grimper à 25 ou 30 m du sol avec votre matériel, 
+  et du haut, entreprendre à la hache, 
+  l’abatage **(1)**, tout en prenant soin de votre équilibre. 
   
 {{<figure src="/images/articles/ehoup3.jpg" title="Éhouppeurs de la scierie Berger de Marigné-Laillé">}}
   
@@ -19,7 +22,8 @@ Les grumes de chênes de Bercé, parées de leur belle couleur rosée, sont tend
   
 Ces particularités font que les marchands de bois ne tergiversent pas longtemps sur le nombre d’arbres à éhoupper.
   
-La valeur de ces arbres est comme le risque à prendre : 
+La valeur de ces arbres est comme le risque à prendre :
+
   ...trop grand. 
   
 {{<figure src="/images/articles/serain1285.jpg" title="Guy Éluard sur un gros collet dans les Clos">}}
@@ -35,6 +39,7 @@ Sur la photo ci-dessus, Auguste RAMAUGÉ aidé d'un autre éhouppeur, ce vendred
   
  *Le collet de l’arbre était tellement 
   gros qu’ils ont dû monter à deux pour l’étêter.* 
+  
   (Photo Albert Leclercq)
   
 ### Les accidents
@@ -54,9 +59,11 @@ En 1912 Thiodet a eu la main coupée par la hache de son comparse.
  Ces  «Thiodet» étaient sur Jupilles,
  A Jupilles, c’était à l’époque un petit Paris, ils avaient l’eau sous pression, 
  le soir tout le monde se mettait à faire des sabots.* 
+ 
    (Paulette Berthelon)
   
 *Mais avec le secours mutuel, la solidarité n'a jamais été un vain mot sur Jupilles.* 
+
 Témoignages de Marcel Perroux.
 
     
@@ -80,6 +87,7 @@ Dans les années 1959/60, il répondait au surnom de Badel « dit Pas d’Ailes 
   Il décéda peu après.
 
 ### Cissé Gaston :
+
 Père à Jean-Pierre (Bûcheron et marchand de bois), il travaillait avec le Père 
   Compain. 
   Son décès eut lieu en 1974, dans le milieu de la parcelle 192 (parcelles aux malheurs): 
@@ -124,7 +132,7 @@ La cognée est encore du voyage au cas où...
 
 ### Les incidents
   
-### Vannier Émile :
+**Vannier Émile :**
   
  C’est Marcel Ramaugé qui a enseigné le métier à Émile Vannier
    de Chahaignes, né en 1900.
@@ -132,7 +140,7 @@ La cognée est encore du voyage au cas où...
  C’est lui aussi qui lui a vendu
    ses crampons. André le fils à Émile, était scieur.
   
-      Robert CALVEL se souvient qu’Émile VANNIER de Chahaignes,
+      Robert Calvel se souvient qu’Émile Vannier de Chahaignes,
       éhouppeur, lui raconta qu’un jour devant ses collègues 
       bûcherons…après avoir eu du mal à éhoupper un arbre, 
       l’alcool ayant peut-être rendu l’entreprise plus ardue,
@@ -177,8 +185,10 @@ Ses débuts, il les fait en 1956, avec Raymond et Camille Lemoine
 {{<figure src="/images/articles/guillier3.jpg" title="Édouard Guillier éhouppe un chêne">}}
 
 Le film Chronique de Bercé relate ce dur métier.
+
 Édouard et sa famille en sont les vedettes.
-*Attendu le 23 mai 1972 les cinéastes jusqu'à 8h45. Rejoint l'équipe cinématographique chez Mr Guillier éhouppeur à Saint-Vincent.* **Robert Calvel**
+*Attendu le 23 mai 1972 les cinéastes jusqu'à 8h45. Rejoint l'équipe cinématographique 
+chez Mr Guillier éhouppeur à Saint-Vincent.* **Robert Calvel**
 
   
  {{<youtube id="x2xzQTDO5i4">}}
@@ -271,29 +281,30 @@ Au départ, il n’y avait pas de vêtements de sécurité. (Image tirée du fil
 {{<figure src="/images/articles/guillier4.jpg" title="1973 Édouard bûchant un peuplier">}}
 
 Le métier d’éhouppeur était et reste toujours difficile et dangereux. 
- *J’ai commencé à bûcher les pieds dans le fond des Monnées, sans tronçonneuse. 
+
+ *J’ai commencé à bûcher les pieds dans le fond des Monnées, sans tronçonneuse.* 
   
-  Au début, les salaires étaient plus avantageux. Nous n’avions pas de casque et 
+  *Au début, les salaires étaient plus avantageux. Nous n’avions pas de casque et 
   un jour, j’ai reçu une trique sèche.  
   Quand il pleuvait sur les hêtres, 
-  la corde ne tenait pas. 
+  la corde ne tenait pas.* 
   
-  Les hêtres de Bercé, étaient plus durs, alors 
-  qu’en forêt de Lyons, ils étaient plus tendres.
+  *Les hêtres de Bercé, étaient plus durs, alors 
+  qu’en forêt de Lyons, ils étaient plus tendres.*
   
-  L’éhouppement se faisait à l'époque avec une petite hache. 
+  *L’éhouppement se faisait à l'époque avec une petite hache.* 
   
-  C’était pénible sans l’être, car les premières tronçonneuses étaient lourdes,
-  mais ça partait plus vite avec la tronçonneuse. 
+  *C’était pénible sans l’être, car les premières tronçonneuses étaient lourdes,
+  mais ça partait plus vite avec la tronçonneuse.* 
   
-  C’était tellement épais à c’t’époque-là. 
-  Il en sortait du bois.
+  *C’était tellement épais à c’t’époque-là. 
+  Il en sortait du bois.*
   
-  On n’a pas toujours été heureux à bûcher les souches. 
+  *On n’a pas toujours été heureux à bûcher les souches. 
   J’ai travaillé beaucoup avec Garnier Michel, C.D.S. 
-  (Pontvallain) et Lecobois. 
+  (Pontvallain) et Lecobois.* 
   
-  Sur le terrain on mangeait dans un balai. 
+  *Sur le terrain on mangeait dans un balai. 
   De la viande : entrecôte de cochon, ou du poisson : hareng,  puis du fromage,
   pain, pomme, banane ou pêche. La boisson : c’était du cidre. Il y avait aussi 
   la bouteille de goutte cachée sous le balai pour les grandes occasions.*
