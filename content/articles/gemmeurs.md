@@ -30,14 +30,18 @@ C’est de lui que l’on tire la gemme.…
   
 **Quelques définitions :**
  
-Le gemmage : consiste à blesser un pin pour en récolter la gemme ou résine. 
+**Le gemmage :**
+
+Consiste à blesser un pin pour en récolter la gemme ou résine. 
   Le gemmage remonte sans doute à l'apparition de la forêt elle-même,
   c'est-à-dire aussi loin que les hommes s'en souviennent ! 
   Dans les Landes, bien avant la loi de Napoléon III en 1857, 
   le berger cède peu à peu place à celui qui incarne la nouvelle 
   économie forestière :
  
-le gemmeur : C’est un "résinier" comme on disait autrefois en 
+**le gemmeur :**
+
+C’est un "résinier" comme on disait autrefois en 
   Sarthe……… vous savez……..l'autre pays du pin maritime ! 
   Généralement métayer, il est payé au poids récolté. 
   La plupart d'entre eux continuent à travailler le reste de 
@@ -61,12 +65,14 @@ La campagne de gemmage commence vers la fin du mois de janvier pour
   
 {{<figure src="/images/articles/resine1.jpg" title="Le résinier">}}
   
-La résine ou gemme : Son prix est passé de 68 francs la barrique landaise 
+**La résine ou gemme :**
+
+Son prix est passé de 68 francs la barrique landaise 
   de 340 litres en 1857 à 1087 francs en 1925 (francs-papier). 
   La  production moyenne annuelle de la  gemme est de 120 millions
   de litres (dont 67 millions pour le seul département des Landes), 
-  soit 145 litres par hectare. Elle contient 20 % d'essence de térébenthine
-  et 70 % de colophane. 
+  soit 145 litres par hectare. 
+  Elle contient 20 % d'essence de térébenthine et 70 % de colophane. 
  
 ### La distillation permet de séparer ces deux corps.
   
@@ -78,7 +84,7 @@ La colophane est exposée au soleil, sur des plateaux circulaires en zinc et,
   musique à cordes frottées et permet à ces crins "d'accrocher" sur les
   cordes et de les faire résonner ». 
  
- Stockée en fûts de pin, la résine 
+Stockée en fûts de pin, la résine 
   est ensuite expédiée vers les savonneries Marseillaises, pour distillation.
   
 {{<figure src="/images/articles/resine3.jpg" title="La poterie réceptacle">}}
@@ -87,7 +93,9 @@ La colophane est exposée au soleil, sur des plateaux circulaires en zinc et,
 {{<figure src="/images/articles/resine10.jpg" title="Le hapchot">}}
   
 
-### 1- Y aurait-il eu du pin maritime en Sarthe avant le XVIIème ?
+### Épisode 1 - 
+
+**Y aurait-il eu du pin maritime en Sarthe avant le XVIIème ?**
   
 «La culture du pin maritime», écrit M. Henry Roquet, dans un intéressant 
   article paru dans le Bulletin de la Société d'Agriculture, Sciences et 
@@ -109,9 +117,12 @@ M. Roquet pense que cette  date est beaucoup trop récente et que le pin maritim
   
 *L’amasse (du gascon amassa) est le nom donné dans les Landes de Gascogne à la récolte de la résine de pin.*
 
-### 2 « Les pionniers du gemmage industriel en Sarthe »
+### Épisode 2 - 
 
-**Un visionnaire : M. Lefebvre des Allayx** …..
+**« Les pionniers du gemmage industriel en Sarthe »**
+
+**Un visionnaire :**
+**M. Lefebvre des Allayx** …..
   
 De l’intérêt de l’extraction de la térébenthine des pins du département de la Sarthe.
   
@@ -232,11 +243,15 @@ On choisira des tiges droites pour éviter un trop grand nombre de copeaux ;
  
 Nos produits sont de deux espèces :
  
-**1°** - le galipot qui se détache de l'entaille, et qu'on livre
+**1°** - 
+
+Le galipot qui se détache de l'entaille, et qu'on livre
   au commerce sans aucune préparation, au prix de 0 fr.40 c.
   le kilo; il forme le 1/4 de la récolte totale.
   
-**2°** - la térébenthine qu'on prend dans les boîtes, pour la
+**2°** - 
+
+La térébenthine qu'on prend dans les boîtes, pour la
   soumettre à l'analyse et obtenir l'essence, la colophane,
   la résine, le brai et autres matières que nous pourrons
   bientôt exposer. Ces opérations sont plus simples et moins 
@@ -298,8 +313,8 @@ Un riche propriétaire du département des Landes, m'écrivait dernièrement que
 {{<figure src="/images/articles/resine13.jpg" title="Lettre à la société d’agriculture">}}
 
 La veuve de l’entrepreneur visionnaire Lefebvre des Allayx, obtiendra en 1842 
-  le 1er Prix du Concours de la Société d'agriculture sciences
-  et arts de la Sarthe (médaille d’or).
+  le 1er Prix du Concours de la Société d'Agriculture Sciences
+  et Arts de la Sarthe (médaille d’or).
 
 La voix de la Société d'agriculture, sciences et arts de la Sarthe et les
   travaux de M. des Allayx ont été compris, car déjà 40 mille pins environ 
@@ -329,7 +344,9 @@ La voix de la Société d'agriculture, sciences et arts de la Sarthe et les
  {{<figure src="/images/articles/resine8.jpg" title="La barette (pioche) ou hapchot">}}
   
 
-Après 1860, l'accroissement de la production de gemme s'explique par le
+**Après 1860**
+
+L'accroissement de la production de gemme s'explique par le
   développement des étendues de pins gemmés, au fur et à mesure que 
   progressent les ensemencements des landes dites communales. 
   
@@ -369,7 +386,9 @@ On ne saurait trop insister, sur l'importance du gemmage dans la Sarthe.
   
  {{<figure src="/images/articles/resinier16.jpg" title="Piquage d’un pin maritime à une care">}}
 
-Vers 1914, il y avait, dans la région du Lude, près d’un million d’arbres gemmés. 
+**Vers 1914**
+
+Il y avait, dans la région du Lude, près d’un million d’arbres gemmés. 
   La Société forestière de Sologne passait avec les propriétaires, des baux de 
   4 ans pour la récolte de la résine, ou bien les propriétaires lui vendaient  
   leur récolte après avoir fait résiner  eux-mêmes.
@@ -378,7 +397,9 @@ Mais c’est seulement 85 ans plus tard que la production de gemme
   est entreprise sur Bercé.
 L’outillage et les techniques sont originaires du Sud-Ouest.
 
-### 3  - La culture du pin maritime à Bercé :
+### Épisode 3  - 
+
+**La culture du pin maritime appliquée à Bercé :**
   
 **Six ans de gemmage à Bercé (1927 à 1932)**
 
