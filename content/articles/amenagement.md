@@ -65,7 +65,8 @@ Un arrêt du Conseil du Roi du 19 août 1689 et un ordre particulier
 
 {{<figure src="/images/articles/berce1669.jpg" title=" Carte de la forêt royale">}}  
   
-Elle a toujours été traitée, depuis [1669, date du premier aménagement](/articles/pdf/proces-verbal-de-reconnaissance-de-1669.pdf), en haute futaie de chêne et de hêtre. 
+Elle a toujours été traitée, depuis [1669, date du premier aménagement](/articles/pdf/proces-verbal-de-reconnaissance-de-1669.pdf),
+en haute futaie de chêne et de hêtre. 
   
   Lors de la grande réformation des forêts par Colbert (Ordonnance de 1669),
   Bercé, contrairement à beaucoup d’autres, est en bon état et n’a pas 
@@ -188,7 +189,7 @@ Le grand maître Eynard de Ravanne avait visité plusieurs fois, de 1727 à 1740
 
 ### 1783 - Deuxième aménagement 
 
-**(1)**(Extrait du procès-verbal d'aménagement de 1783-1785 (A.D.S/ B 3858)
+**(1)** (Extrait du procès-verbal d'aménagement de 1783-1785 (A.D.S/ B 3858)
   
      « La forêt de Bercé est située dans la province du Maine et dans l'étendue de 
      la Baronnie de Château-du-Loir, elle est à 56 lieues de Paris, à deux lieues 
@@ -293,13 +294,13 @@ Les aménagistes de 1843 constatent que le pin sylvestre n'existait alors que su
   arbres isolés mais très bien-venants.
   
 Selon l’aménagiste de 1843, la bourdaine, utilisée pour les moulins à poudre et le houx,
-  signe d’une bonne qualité du sol...doivent « être extirpés lors des éclaircies et
-  surtout dans les coupes principales » (définitives).
+  signe d’une bonne qualité du sol...doivent *« être extirpés lors des éclaircies et
+  surtout dans les coupes principales »* (définitives).
   
 C’est enfin lors de cet aménagement qu’est acté le fait de construire la 10ème 
   maison forestière à La Tasse (Beaumont-Pied-de-Bœuf) car un agent non logé est
-  « vu lorsqu’il sort pour se rendre dans son triage et lorsqu’il rentre pour 
-  prendre ses repas, ce qui rend la surveillance de son triage très difficile. »
+  *« vu lorsqu’il sort pour se rendre dans son triage et lorsqu’il rentre pour 
+  prendre ses repas, ce qui rend la surveillance de son triage très difficile. »*
 
 {{<figure src="/images/articles/1874.jpg" title="carte de 1874 ">}}
 
@@ -497,12 +498,12 @@ Si elle est inéluctable, elle aura pourtant été réfléchie et concertée.
 Autre sujet polémique qui hante les esprits, à l’heure ou la révolution 
   passe de 240 à 180 ans. Une étude de "Nature" (2014) contredit le postulat 
   selon lequel les vieux arbres contribueraient moins à la lutte contre 
-  le réchauffement climatique…Or plus un arbre est vieux, gros et vivant, 
-  plus il absorbe du CO2. La forêt vit, évolue et meurt, mais elle renaît
-  toujours plus belle.
+  le réchauffement climatique… 
+  Or plus un arbre est vieux, gros et vivant, plus il absorbe du CO2. 
+  La forêt vit, évolue et meurt, mais elle renaît toujours plus belle.
   
-Laissons les jeunes générations de forestières gérer celle-ci, 
-  pour le bien commun.
+Laissons les jeunes générations forestières gérer celle-ci, 
+  pour le bien commun en leur faisant confiance.
  
 {{<figure src="/images/articles/nouvel-amenagement.jpg" title="2006 – 8ème et dernier aménagement ">}}
 
