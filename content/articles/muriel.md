@@ -24,7 +24,7 @@ Le 9 mars 1944, sous les yeux impuissants de M. Viney (inspecteur) et de ses
 Pourtant la veille, avec ses collègues ils avaient ensemble répété un plan pour
   disparaître par les toits. Hélas la surprise fût totale.
 
-***Baptisé le 9 mars 2002 ***
+***Baptisé le 9 mars 2002***
   
   Un chêne est dédié à la mémoire
   du commisforestier **(1)**
@@ -169,22 +169,24 @@ Ni ses petits-enfants : Armelle, Anne-Lise et Alexis*.
 {{<figure src="/images/articles/image14.jpg" title="Le camp Alsacien du Struthof">}}
 
 
-108 hommes et femmes du réseau Alliance, dont Georges  Muriel,  moururent  pendant 
-  ces  nuits d'épouvante et d'horreur. 
-Comment qualifier de tels actes ? Comment trouver les mots pour le dire ?
-Notre mémoire est la seule sépulture d'hommes, qui, tel votre père, Général Muriel,
+*108 hommes et femmes du réseau Alliance, dont Georges  Muriel,  moururent  pendant 
+  ces  nuits d'épouvante et d'horreur.* 
+  
+*Comment qualifier de tels actes ? Comment trouver les mots pour le dire ?*
+
+*Notre mémoire est la seule sépulture d'hommes, qui, tel votre père, Général Muriel,
   ont su dépasser leur destin individuel pour ne considérer que le destin collectif
   de la France.  Ils  nous  ont  offert,  nous  offrent  encore aujourd'hui, 
-  une leçon sur le courage, les convictions, l'engagement. 
+  une leçon sur le courage, les convictions, l'engagement.* 
   
-II nous appartient de la méditer.
+*II nous appartient de la méditer.*
   
-Le chêne, que nous avons dédié il y a quelques instants à Georges Muriel, et, à travers 
+*Le chêne, que nous avons dédié il y a quelques instants à Georges Muriel, et, à travers 
   lui, à tous les forestiers- résistants et aux combattants de la Résistance, se dresse 
   fièrement vers le ciel pour nous rappeler que des hommes ont sacrifié leur vie pour 
-  que nous vivions libres ! 
+  que nous vivions libres !*
   
-Avant  de  conclure,  je  voudrais  m'adresser  en particulier à Georges Muriel en ces termes :
+*Avant  de  conclure,  je  voudrais  m'adresser  en particulier à Georges Muriel en ces termes :*
   
 *Georges,
 Vous avez fait le choix de résister vous avez fait le choix de faire couler les 
@@ -248,52 +250,53 @@ Participaient également à la cérémonie  les arrière-petits-enfants de  Geor
 
 ### Intervention de  Mr Jean Bourcet  (2)
 
-Je saluerais d'abord Madame le Préfet qui témoigne par sa présence de l'importance
-  du sacrifice fait il y a prés de 60 ans par les résistants français.
+*Je saluerais d'abord Madame le Préfet qui témoigne par sa présence de l'importance
+  du sacrifice fait il y a prés de 60 ans par les résistants français.*
   
-Je voudrais tous Mesdames et Messieurs vous remercier de vous être déplacés pour 
-  rendre un hommage particulier à Monsieur Georges France Muriel. 
+*Je voudrais tous Mesdames et Messieurs vous remercier de vous être déplacés pour 
+  rendre un hommage particulier à Monsieur Georges France Muriel.* 
   
-Dans cette fin d'hiver il est bon de jeter un œil en arrière pour mieux apprécier 
+*Dans cette fin d'hiver il est bon de jeter un œil en arrière pour mieux apprécier 
   ensuite la renaissance de la nature et de la vie.
-« Ceux qui ne tiennent pas compte de l'histoire sont condamnés à la répéter » **(3)**.
+« Ceux qui ne tiennent pas compte de l'histoire sont condamnés à la répéter »* **(3)**.
   
-Naturellement les forestiers s'intéressent à l'histoire. 
+*Naturellement les forestiers s'intéressent à l'histoire. 
 Les Directeurs Régionaux de l'ONF se sont appelés longtemps Conservateurs des Eaux et forêts 
   et ce avant la réforme de 1966. Notre métier nous conduit à porter un regard attentif au
-  passé des peuplements pour mieux en anticiper le devenir. 
+  passé des peuplements pour mieux en anticiper le devenir.* 
   
-Le devoir de mémoire est donc chez nous un devoir professionnel. Les chantiers forestiers 
+*Le devoir de mémoire est donc chez nous un devoir professionnel. Les chantiers forestiers 
   ont accueilli pendant la guerre de 39-45 beaucoup de personnes qui devaient se cacher.
-  Lors de l'établissement du STO (Service du Travail Obligatoire) le flux s'est renforcé.
+  Lors de l'établissement du STO (Service du Travail Obligatoire) le flux s'est renforcé.*
   
-Les lieux reculés et bien sûr les forêts ont servi de refuge aux résistants.
+*Les lieux reculés et bien sûr les forêts ont servi de refuge aux résistants.*
   
-Il est donc doublement symbolique de baptiser un arbre et plus spécialement un 
-  chêne en mémoire du résistant Georges France Muriel.
+*Il est donc doublement symbolique de baptiser un arbre et plus spécialement un 
+  chêne en mémoire du résistant Georges France Muriel.*
   
-Le chêne est à la fois le symbole de la longévité comme doit l'être notre mémoire, 
-  et de la majesté comme la été son action. L'arbre est un être vivant et notre devoir de mémoire doit rester vivant au travers des générations.
+*Le chêne est à la fois le symbole de la longévité comme doit l'être notre mémoire, 
+  et de la majesté comme la été son action. L'arbre est un être vivant et notre devoir de mémoire doit rester vivant au travers des générations.*
 
 {{<figure src="/images/articles/image8.jpg" title="Une assemblée attentive">}}
 
-L’action de Monsieur Georges France Muriel n'est pas morte elle conditionne et 
-  dans le bon sens, notre vie actuelle.
+*L’action de Monsieur Georges France Muriel n'est pas morte elle conditionne et 
+  dans le bon sens, notre vie actuelle.*
   
-Enfin je reviens sur le prénom du commis Muriel. Que son deuxième prénom soit
+*Enfin je reviens sur le prénom du commis Muriel. Que son deuxième prénom soit
   France ne peut pas être du hasard.
 Que son père ait donné sa vie pour la France en 14-18. 
 Que lui-même ait donné sa vie pour la France en 39-45. 
-Tout cela est inscrit pour l'éternité dans ce deuxième prénom. 
+Tout cela est inscrit pour l'éternité dans ce deuxième prénom.* 
   
-Les égyptiens attachaient une importance capitale à la dénomination des gens. 
+*Les égyptiens attachaient une importance capitale à la dénomination des gens. 
   Pour eux c'était pratiquement lié à la compréhension des gens voire pour
-  le nom secret à leur appréhension. 
+  le nom secret à leur appréhension.* 
   
-Le commis forestier Georges France Muriel s'est engagé très tôt dans la résistance et le renseignement. Il l'a payé de sa vie pour notre liberté. Que cette leçon nous inspire. 
+*Le commis forestier Georges France Muriel s'est engagé très tôt dans la résistance et le renseignement. 
+Il l'a payé de sa vie pour notre liberté. Que cette leçon nous inspire. 
 Nous formons tous une chaîne humaine qui s’étend au-delà des générations et les unit.
 La devise de Briançon (la ville la plus haute d'Europe) le rappelle :
-  « Le passé répond de l'avenir. »
+  « Le passé répond de l'avenir. »*
 
 ## Autres articles concernant les chênes remarquables: ## 
 
