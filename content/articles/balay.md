@@ -20,17 +20,17 @@ Deux orthographes une seule destination : le bien être du forestier.
 
 Balai de sorcière … non mais presque… le balai de sorcière est 
 un enchevêtrement de branchages sur les pins, 
-(sa formation est due à une maladie) Le balai de sorcière couvre la branche…
+*(sa formation est due à une maladie)* Le balai de sorcière couvre la branche…
 
 Balai de bouleau … peut-être car le nom dérive 
-de « betula », bouleau (branchages dont on fait les balais)
+de *« betula »*, bouleau (branchages dont on fait les balais)
 
 *On fait des balais de menuës branches de bouleau liées ensemble au 
 bout d'un baston. On en fait aussi de genest, de jonc.»*
 
 Lécorce de bouleau servait autrefois à l'étanchéité de toitures.
 
-Or nos Balais ou Balays (en vieux français) étaient recouverts 
+Or nos Balais ou Balays *(en vieux français)* étaient recouverts 
 de ramures (branchages de bouleaux ou autres à la manière d’un toit de chaume).
 
 Dans certaines autres forêts, on utilisait la bruyère ou brande voir le genêt pour barder la loge.
@@ -38,7 +38,7 @@ Dans certaines autres forêts, on utilisait la bruyère ou brande voir le genêt
 *Les petits métiers se sont développés dans les massifs malaisés à exploiter et
 écartés des voies d’eau ou de terre ; La confection d’objets représentait un moyen
 de valoriser sur place les matières ligneuses et de leur ouvrir malgré les obstacles,
-une certaine zone d’exportation ».*
+une certaine zone d’exportation.*
 
 P.Deffontaines :L’Homme et la Forêt (Paris 1933) –
 Roger Blais  - La Forêt (P.U.F. 1947).
@@ -52,6 +52,7 @@ Roger Blais  - La Forêt (P.U.F. 1947).
      Rappelons  que Bercé ne fut percé qu’en 1783 -
      
 Parfois la sécurité est bien mise à mal comme ce 24 aout 1881, 
+
 *il y a le feu à croix Veneur dans une coupe à Louis Chevalier de 
 Thoiré sur Dinan. Le feu gagne sur 9m2 autour de la loge du 
 rond qui flambe ainsi que 3 arbres*.
@@ -73,7 +74,7 @@ Elle est lieu de vie de toute la famille et lieu privilégié du travail.
 {{<figure src="/images/articles/2villahuguette1931170.jpg" title="La villa Huguette en 1931 dans la parcelle 170">}}
 
 
-En compagnie de Mr, Mme. et Melle. Cartereau  (Boisselier) « à la Villa Huguette » 
+En compagnie de Mr, Mme. et Melle. Cartereau  (Boisselier) *« à la Villa Huguette »* 
   Emile et Olga Ballion devant leur loge implantée Parcelle 161, au carrefour  
   de la ligne de chemin de fer et de la ligne du Pau. 
 	Roland, sur les genoux de sa mère est né au Rond de Verneil en 1930 ; 
@@ -82,7 +83,7 @@ En compagnie de Mr, Mme. et Melle. Cartereau  (Boisselier) « à la Villa Huguet
 	(Photo : Famille Ballion, mai 1931).
 
 La cabane en Forêt (rêve de tous gamins) était présente dans le milieu des
-  coupes et devait répondre (Fin XIXe) à des sévères règles d’établissement, 
+  coupes et devait répondre (fin XIXe) à des sévères règles d’établissement, 
   encore en vigueur  avant la dernière guerre.
   Albrecht (1905) écrit : 
 	
@@ -105,10 +106,11 @@ Bernard Chevalier, de Saint Vincent, se souvient avoir fait des fagots pour la c
 
 Transformation dans une coupe, de billons en produits manufacturés (Fendeurs de Merrains,
   et bois pour la boissellerie).
-     « Lucien Miat a travaillé pour le père Provost à la tâche,
+
+*« Lucien Miat a travaillé pour le père Provost à la tâche,
      il a fait du merrain jusqu’en 1963, il y en avait d’autres,
      mais ils sont décédés, après il est devenu tonnelier et 
-     faisait des barriques. » (Marcel  Perroux)
+     faisait des barriques. »* (Marcel  Perroux)
 
 
 Atelier de confection de cerclages de tonneaux avec des perches de châtaigniers
@@ -118,18 +120,20 @@ Atelier de confection de cerclages de tonneaux avec des perches de châtaigniers
 
 
     28 Janvier 1905 : Note de l’inspecteur Roulleau.
+    
     "Suite aux plaintes sérieuses adressées par les Chasseurs, 
     et fondées  car  je l’ai moi-même constaté, suite aux instructions
     adressées au personnel des gardes, relativement à la divagation 
-    des chiens qui ne se comptent plus". 
+    des chiens qui ne se comptent plus".*
 
     Note à Monsieur le Garde Général
+    
     "Vous voudriez bien rappeler aux préposés sous vos ordres,
     l’instruction inscrite à l’art.67 du cahier des charges ainsi conçue":
     "Les adjudicataires, ainsi que leurs facteurs, employés, bûcherons, 
     ouvriers et voituriers, ne pourront laisser errer leurs chiens 
     dans les Forêts – Les chiens servant à la garde des loges ateliers 
-    et chantiers devront être constamment attachés ou enfermés"………
+    et chantiers devront être constamment attachés ou enfermés"………*
 
     "Et si au cours de mes tournées, j’avais à constater moi-même
     que les tolérances prescrites ont été continuées sans que 
@@ -159,7 +163,8 @@ De Gauche à droite : Bouttier – Blutteau – François – Leroux – Foussar
 Emondeurs et Bûcherons au repos, dans leur « balai » à Bercé.
 de gauche à droite : André Chesnier, Georges Chambon, Camille Lemoine,
   Emile Chignard, Gaston Vérité, se confectionnent  sur le foyer à même 
-  le sol, un vin chaud.	(Photo Calvel 15 novembre 1959)
+  le sol, un vin chaud.
+(Photo Calvel 15 novembre 1959)
 
 {{<figure src="/images/articles/6famillepapillon.jpg" title="La famille Papillon dans leur balai">}}
 
