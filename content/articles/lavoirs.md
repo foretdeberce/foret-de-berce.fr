@@ -24,7 +24,7 @@ d’un coup ont été fréquentés par les touristes.
 
 ### Sermaize :
 
-Émilienne BLUTEAU (de Saint-Vincent) fréquentait quant à elle,
+Émilienne Bluteau (de Saint-Vincent) fréquentait quant à elle,
  après guerre encore,  le lavoir des Fontaines Froides dans Sermaize.
  
 ### L’Hermitière :
@@ -74,7 +74,7 @@ Le dernier lavoir public en forêt se situait aux sources de l’Hermitière
 
 {{<figure src="/images/articles/h1600.jpg" title="Premier plan d’eau de l’Hermitière">}}
 
-Pour assurer le curage annuel du lavoir et le nettoyage de ses abords 
+*Pour assurer le curage annuel du lavoir et le nettoyage de ses abords 
  après utilisation, les communes de Jupilles et de Saint-Vincent-du-Lorouër 
  devront chacune et chaque année, payer une  somme  de 24 f aux ouvriers 
  qui seront chargés de ces travaux par le service des Eaux et forêts, 
@@ -82,7 +82,7 @@ Pour assurer le curage annuel du lavoir et le nettoyage de ses abords
  En outre les communes de Jupilles et de Saint-Vincent-du-Lorouër seront 
  tenues d’exécuter à toute réquisition du même chef de service, 
  les travaux nécessaires à la réparation des dégradations résultant 
- de l’exercice de la concession. »
+ de l’exercice de la concession.*
 
 
 ### 1928 : 
@@ -90,7 +90,7 @@ Pour assurer le curage annuel du lavoir et le nettoyage de ses abords
  Le garde GUIOMARD relate le nettoyage des sources qui dure deux 
  semaines par les ouvriers du lavoir public. Manque de chance, 
  le 29 mai un fort orage s’abat sur Bercé, ravageant, par des coulées
- de boues et de pierres, les bassins. Comme faire et défaire…c’est travailler, 
+ de boues et de pierres, les bassins. Comme faire et défaire… c’est travailler, 
  les ouvriers se sont remis à l’ouvrage. 
  
 Au 30 juin 1928, la commune de Jupilles n’est plus concessionnaire du lavoir public.
@@ -177,6 +177,6 @@ La dernière maison qui fut construite sur Bercé fut celle de la
 
 ### Bibliographie : 
  
-Le massif forestier de Bercé  (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet  - 2018)
+Le massif forestier de Bercé  (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
 
 L'Or Vert de la Sarthe aux éditions de la Reinette (2007 - Traces - Yves Gouchet )
