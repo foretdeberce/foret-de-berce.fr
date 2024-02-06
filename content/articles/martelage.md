@@ -238,7 +238,7 @@ Seule véritable pose d’une journée trop souvent venteuse ou pluvieuse,
 ### Les martelages à l’extérieur: 
 
 Traditionnellement, les forestiers de Bercé participent depuis
-  des lustres aux martelages des forêts de Bellebranche,
+  des lustres aux martelages des forêts de Bellebranche, de Brette,
   des Hospices du Mans et du bois des pauvres de Saint-Mars-de-Locquenay.
   Ainsi, de 1931 à 1953 (retraite) Deneu Constant, ancien garde chasse
   dans les bois contigus à ceux du bureau de bienfaisance est devenu,
@@ -298,7 +298,9 @@ aux préposés forestiers de visiter et de marteler bon nombre de propriétés p
   Je me suis toujours mis en uniforme pour aller en forêt. 
   Mais j'étais le seul des officiers de l'ouest, avec le conservateur… 
   mais il y allait rarement en service ;*
-  
+
+{{<figure src="/images/articles/19720215lorne.jpg" title="2 mai 1972 à Brette les Pins">}}  
+
   *Viney, comme les autres, y usait ses vieilles affaires, 
   ce qui m'a toujours choqué. 
   Monsieur Blouère, y allait aussi une ou deux fois par semaine 
