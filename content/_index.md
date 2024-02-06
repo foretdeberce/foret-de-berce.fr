@@ -5,7 +5,7 @@ featured_image: "/images/brigadier.jpg"
 ---
 
 Ce massif Sarthois de 5400 hectares, situé
-au sud du Mans et au Cœur de la Vallée du Loir,
+au sud du Mans et au cœur de la Vallée du Loir,
 colonise la bordure du plateau Calaisien. 
 
 Les feuillus peuplent la partie "Est" (anciennement Royale)
@@ -13,9 +13,9 @@ et les résineux, les anciennes landes au "Nord et à l'Ouest".
 
 La qualité de ses bois, la richesse de son histoire 
 et l’attachement des Sarthois, en font l'un des 
-lieux secrets les plus prisés de la vallée du Loir.
+lieux secrets les plus prisés de cette Vallée du Loir.
 
-La qualité de ses chênes, est recherchée par 
+La couleur et la qualité de ses chênes, sont recherchées par 
 tous les savoirs faire anciens. 
 
 Paysages, diversité naturelle, culturelle et 
@@ -45,7 +45,7 @@ Il y a, situé en haut de page, sur la photo :
 L'onglet ***"A propos"***  qui vous présente l'auteur.
 
 L'onglet ***"Recherche"***, 
-... qui permet un accès rapide à vos recherches.  
+... qui permet un accès rapide à vos recherches avec le moteur Google.  
 
 Dans chaque bas de page, ***des liens*** vous proposent des sujets concomitants.
 
