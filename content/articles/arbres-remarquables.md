@@ -158,6 +158,9 @@ Ce jour, l’heureux retraité (en poste à Bercé d’octobre 1913 à fin 1945,
 Situé dans la parcelle 112, près de sa mare dont il boit toute l’eau, 
 majestueux au bout de son allée, avec 41,50 m de haut, 496 cm de circonférence 
 et 28,74 m3 de grume.
+
+{{<figure src="/images/articles/20210203chenedumai.jpg" title="Le chêne le 3 février 2021">}}
+
 C'est actuellement à 232 ans, le plus gros chêne de Bercé.
 En 2021 il a perdu malheureusement une de ses branches maitresse.
 
