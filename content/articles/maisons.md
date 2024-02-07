@@ -12,9 +12,11 @@ de maisons forestières comme indispensable pour assurer, en même temps
 que la répression des délits, la surveillance incessante 
 des exploitations et des travaux.* 
 
-L'installation de ces maisons a aussi pour résultat d'améliorer le sort
+*L'installation de ces maisons a aussi pour résultat d'améliorer le sort
 des préposés et par conséquent, d'attacher à leur fonction, 
-ces utiles serviteurs de l'État. » Le prix total moyen de la maison type,
+ces utiles serviteurs de l'État. »*
+
+Le prix total moyen de la maison type,
 en 1878 est de 7550 francs pour l'habitation complète et de 6340 francs
 seulement pour le bâtiment principal. (Extrait du catalogue raisonné des 
 collections exposées par l'Administration des forêts, lors de 
@@ -35,9 +37,11 @@ que celle de la Révolution.
 
 Et c’est donc sous la Restauration que la plus part de nos maisons 
   à Bercé furent élevées : des maisons caractéristiques, dont l'allure 
-  rappelle celle des maisons éclusières. L'administration des Eaux et forêts 
-  édifia très tôt ses premiers plans types et donna ses premières consignes
-  générales, mais très précises, de construction. 
+  rappelle celle des maisons éclusières. 
+  
+  L'administration des Eaux et forêts édifia très tôt ses premiers plans types
+  et donna ses premières consignes générales, mais très précises, de construction. 
+  
   Les bâtiments devaient ainsi être élevées dans un lieu sain et aéré,
   de préférence dans les vallées et les terrains les plus fertiles,
   à distance des arbres pour limiter l'humidité.
@@ -67,9 +71,9 @@ Bref, l'implantation, les fondations,
   
     La circulaire précisait que :  
 	
-    "l'épaisseur des murs, les cloisons, les encadrements des portes et des fenêtres, 
+*"l'épaisseur des murs, les cloisons, les encadrements des portes et des fenêtres, 
     la couverture des bâtiments et par suite la charpente pourront être modifiés en
-    raison de la nature des matériaux employés dans les localités."
+    raison de la nature des matériaux employés dans les localités."*
   
 D'autant que c'étaient les entrepreneurs locaux qui se chargeaient 
   eux-mêmes de mettre en œuvre les plans de l'Administration. 
@@ -90,13 +94,13 @@ Des aménagements complémentaires étaient possibles,
 ### Une administration paternaliste.
   
 La maison forestière, administrativement, est un abri permettant 
-  «…l'épanouissement de la vie familiale et l'accomplissement 
-  aisé de tous les travaux ménagers». 
+  *«…l'épanouissement de la vie familiale et l'accomplissement 
+  aisé de tous les travaux ménagers»*. 
 Dans cet ordre d'idées tout à fait paternaliste, 
-  la maison est prévue sans étage «…afin d’éviter 
-  toute fatigue inutile à la mère de famille». 
+  la maison est prévue sans étage *«…afin d’éviter 
+  toute fatigue inutile à la mère de famille»*. 
   
-    En outre, «…les conditions de vie du préposé forestier faisant 
+    En outre, «…les conditions de vie du préposé forestier faisant
     généralement obstacle au maintien du logis en bon état de propreté.
     (… ) Il est donc conseillé d'établir un petit vestibule d'entrée à 
     proximité immédiate d'une salle d'eau ou bien de doter cette 
@@ -105,19 +109,23 @@ Dans cet ordre d'idées tout à fait paternaliste,
     opérations culinaires plus complètes (charcuterie, conserves 
     de fruits et de légumes) ; enfin, la préparation des produits 
     du jardin nécessite un nettoyage inconnu à la ville». 
+    
     L'Administration prévoyait dès le départ de nombreuses annexes:
     « étable, porcherie, clapier, poulailler, chenil, fenil, fumière,
-    hangar, four, bûcher, buanderie, écurie... » Elle permettait des
-    compensations en nature pour un personnel aux revenus plutôt 
-    modestes, comme la gratuité du bois de chauffage, le droit au 
-    pâturage en forêt et au ramassage de l'herbe pour l'hiver. 
+    hangar, four, bûcher, buanderie, écurie... » 
+    
+    Elle permettait des compensations en nature pour un personnel
+    aux revenus plutôt modestes, comme la gratuité du bois de chauffage,
+    le droit au pâturage en forêt et au ramassage de l'herbe pour l'hiver. 
     Certaines annexes ont disparu, d'autres ont été transformées 
     en atelier, remise ou garage, mais le « terrain de service » 
     existe toujours.Un terrain de 50 ares, porté à l hectare en 1856, 
     générale ment situé à côté de la maison, permettait de satisfaire
     la consommation familiale. Il est encore attribué au garde qui doit
     le gérer « en bon père de famille » ….exactement comme le logement 
-    … du reste.Certes, aujourd’hui, les forestiers ne s'en servent plus
+    … du reste.
+    
+    Certes, aujourd’hui, les forestiers ne s'en servent plus
     vraiment pour y produire de quoi nourrir leur maisonnée, mais ces 
     prairies sont au tant de zones tampons servant de gagnage au grand gibier.
   
@@ -127,7 +135,10 @@ Dans cet ordre d'idées tout à fait paternaliste,
 
 10 maisons, c’est sur une période de 50 ans seulement, de 1900 à 1950, plus de 50 forestiers qui veilleront successivement sur Bercé. 
   
-  Certains feront souche par le biais du mariage, d’autres, soit réfractaires à l’autorité ou au climat, soit nostalgiques de leur région d’origine, ne feront pas de vieux os à Bercé. Telle l’histoire du garde Césari, ce Corse arrivé à contrecœur sur Bercé.
+  Certains feront souche par le biais du mariage, d’autres, soit réfractaires à
+  l’autorité ou au climat, soit nostalgiques de leur région d’origine, 
+  ne feront pas de vieux os à Bercé. Telle l’histoire du garde Césari, 
+  ce Corse arrivé à contrecœur sur Bercé.
 
 ### Noms de baptême des maisons
 
