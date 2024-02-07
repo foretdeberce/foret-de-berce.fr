@@ -20,13 +20,13 @@ Aujourd’hui il ne reste plus que la dépendance et son four à pain.
 
 ### Anecdotes liées au poste :
 
-Le garde Benoni ERNULT dont le prénom signifie en hébreux: 
-  “fils de douleur“ est un chasseur forestier qui prend part
+Le garde Benoni Ernult dont le prénom signifie en hébreux: 
+  *“fils de douleur“* est un chasseur forestier qui prend part
   au siège de Paris du 30 août 1870 au 9 mars 1871, 
   d’où il reviendra malade d’une pleurésie le 10 avril 1871.
   Devenu garde général il sera enterré à Beaumont le 27 juillet 1894.
   
-Le garde LEVOYER dispose au coin du terrain des Profonds-Vaux 
+Le garde Levoyer dispose au coin du terrain des Profonds-Vaux 
   le 16 novembre 1894, une botte de ronces artificielles pour
   en interdire l’accès aux riverains qui avaient l’habitude
   de passer par le poste pour rejoindre la nationale.
@@ -34,30 +34,31 @@ Le garde LEVOYER dispose au coin du terrain des Profonds-Vaux
 Le garde Césari Jean Toussaint, dont je vous relaterai l’épopée,
   passe avec grande difficulté du 19ème au 20ème  siècle.
   
-Le garde THIBAULT Bélizaire (chasseurs forestiers) 
+Le garde Thibault Bélizaire (chasseurs forestiers) 
   sera lui aussi enterré à Beaumont. 
-  Cette maison est loin de tout… THIBAULT écrit le 28 octobre 1908
+  Cette maison est loin de tout… Thibault écrit le 28 octobre 1908
      « À ma rentrée à la maison forestière des Profonds-Vaux à 3h du soir, 
      j’ai trouvé un rendez-vous donné par Mr le garde général, 
      je me suis mis en route immédiatement, mais pris par la nuit,
      j’ai dû m’arrêter au rond de Bercé. »
   
-Suite au décès du garde THIBAULT en mai 1910, 
+Suite au décès du garde Thibault en mai 1910, 
   à la maison forestière on désinfecte par lessivage à la potasse 
   les peintures des plafonds et murs de la cuisine, du vestibule, de la chambre.
   Lavage des pavages au chlorure de chaux. 
      
-Au début du siècle dernier des enfants de l’Assistance Publique ont été acheminés dans diverses familles sarthoises. On les appelait : les pitauds, les assistés, les «P’tits-Paris».
+Au début du siècle dernier des enfants de l’Assistance Publique ont été acheminés 
+dans diverses familles sarthoises. On les appelait : les pitauds, les assistés, les «P’tits-Paris».
 Georges et François sont ainsi passés à la maison forestière des Profonds-Vaux en 1911.
      
      
 {{<figure src="/images/articles/beaumont1911.jpg" title="Les pitauds des Profonds-Vaux">}}
      
   
-11 décembre 1928, le garde GAUTRON note sur son livret journalier :
+11 décembre 1928, le garde Gautron note sur son livret journalier :
   « le prédécesseur a laissé 2m³ de fumier. »
   C’est en 1929 que la maison est désaffectée et
-  louée 350 f/an à des particuliers : ALLARD puis à PENARD. 
+  louée 350 f/an à des particuliers : Allard puis à Penard. 
   
 **L’électricité arrive à ce poste en novembre 1964.**
   
