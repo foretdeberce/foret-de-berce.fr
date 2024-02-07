@@ -173,7 +173,7 @@ La famille Guettier rachète les murs en 1962. Elle exploitera l’établissemen
 
 ### 1981 :
   
-Andrée Gilberte TISON (mamie TISON) pour les habitués rachète l’établissement.
+Andrée Gilberte Tison (mamie Tison) pour les habitués rachète l’établissement.
   
   Elle savait tout comme les autres chefs des alentours de Bercé, 
   si bien recevoir ce petit monde forestier.
@@ -194,7 +194,7 @@ Depuis cette date ils affinent leur maîtrise de la terre et du feu.
 
 ### 1991 :
   
-En mars, le fond est mis en gérance, et c’est la famille LARDON qui est aux fourneaux.
+En mars, le fond est mis en gérance, et c’est la famille Lardon qui est aux fourneaux.
   
 ### 1995 :
   
