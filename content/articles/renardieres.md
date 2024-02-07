@@ -19,41 +19,45 @@ Sa rénovation a été entamée juste après celle des Étangs, sur le même mod
 
 ### Anecdotes liées au poste :
 
-Le garde RICHELET fut nommé commis à l’inspection du Mans. 
+Le garde Richelet fut nommé commis à l’inspection du Mans. 
   
-HEURÉ avait un traitement annuel de 450 f.
+Heuré avait un traitement annuel de 450 f.
   
-En août 1912 le brigadier MARSAC, pourtant en retraite depuis avril habite toujours la maison forestière...
-  BOUGREAU et SYLVESTRE s’activent en août à déménager MARSAC. 
+En août 1912 le brigadier Marsac, pourtant en retraite depuis avril habite toujours la maison forestière...
+  Bougreau et Sylvestre s’activent en août à déménager Marsac. 
   
-  Durant sa retraite, ALBRECHT (sans doute présent sur la photo)
+  Durant sa retraite, Albrecht (sans doute présent sur la photo)
   s’occupera de tenir la caisse des concessionnaires, 
   c'est-à-dire qu’il était le gestionnaire de tous les menus produits de la forêt. 
+  
   En 1947, les travaux des maisons forestières sont ainsi réglés par cette caisse.
-  CALVEL a repris plus tard cette caisse des concessionnaires, 
+  Calvel a repris plus tard cette caisse des concessionnaires, 
   qui servait à régler pas mal de dépenses.
-  Avec la retraite de M.de MOUSTIER il est mis fin à cette pratique 
+  Avec la retraite de M.de Moustier il est mis fin à cette pratique 
   qui devenait à peine légale.
   
-Petite interruption de service pour une mission d’avril à juillet 1923, note de POTEL : 
-« Un télégramme venant aviser le brigadier ALBRECHT qu’il devra partir pour la Rhénanie,
-dès réception de Paris des ordres de mission et de transport. Le courrier de ce jour est déjà adressé au garde PIGAULT chargé de l’intérim de la 2ème brigade ».
-ALBRECHT prend retraite sur Mayet. 
+Petite interruption de service pour une mission d’avril à juillet 1923, note de Potel : 
+
+*« Un télégramme venant aviser le brigadier Albrecht qu’il devra partir pour la Rhénanie,
+dès réception de Paris des ordres de mission et de transport. Le courrier de ce jour est
+déjà adressé au garde Pigault chargé de l’intérim de la 2ème brigade »*.
+Albrecht prend retraite sur Mayet. 
   
-André Louis Auguste PIE, (photo) est originaire du nord Sarthe. 
+André Louis Auguste Pie, (photo) est originaire du nord Sarthe. 
 Son père originaire de Saint-Pierre-du-Lorouër fut aussi forestier 
-comme ses deux fils Roland et Jean. André PIE a élevé des sangliers 
-aux Renardières. Mars 1957 : installation d’une pompe Dragor.
+comme ses deux fils Roland et Jean. André Pie a élevé des sangliers 
+aux Renardières. 
+Mars 1957 : installation d’une pompe Dragor.
 La création d’une salle d’eau aura lieu en août 1965. 
   
-Guillaume LE RESTE se déplaçait en Solex. Son fils Guy deviendra lui aussi forestier mais en Bretagne.
+Guillaume Le Reste se déplaçait en Solex. Son fils Guy deviendra lui aussi forestier mais en Bretagne.
 Spécialiste des chiroptères, il revient assez souvent sur Bercé organiser des comptages.
   
 En 1977, la rénovation des Renardières suit celle des Étangs. 
 
 **La famille Pie**
      
-Auguste Alexis Pierre PIE est né le 27 Avril 1867 à Saint-Pierre-du-Lorouër.
+Auguste Alexis Pierre Pie est né le 27 avril 1867 à Saint-Pierre-du-Lorouër.
 Il est nommé brigadier en forêt domaniale de Perseigne et cessera ses fonctions en 1924.
 Quittant le nord Sarthe, André son fils occupera le poste des Renardières, en forêt de Bercé.
   
