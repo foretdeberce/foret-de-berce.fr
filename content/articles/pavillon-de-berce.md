@@ -20,28 +20,28 @@ officiers forestiers de passage à Bercé.
 	
 Elle assurera fidèlement sa mission jusque vers 1965. 
 	
-Ces "messieurs les agents" se succèdent ainsi dans cette respectable 
+Ces *"messieurs les agents"* se succèdent ainsi dans cette respectable 
 villégiature, venant régulièrement y passer quelques jours lors 
 de martelages, d’inspections ou de vacances estivales en famille.
 	
-Lorne avait fait monter un mât à la gauche du bâtiment.  
+     Lorne avait fait monter un mât à la gauche du bâtiment.  
 	
-Lorsque les couleurs virevoltaient au vent, cela signifiait que
-les officiers étaient présents et tout Jupilles en était fier. 
+     Lorsque les couleurs virevoltaient au vent, cela signifiait que
+     les officiers étaient présents et tout Jupilles en était fier. 
 	
-        Parfois, des gardes ou brigadiers sédentaires y séjournaient, 
-	le temps de leur vacation. En 1905 les gardes domaniaux 
-	Jeanselme Alphonse (né en 1869), et plus tard Cordonnier 
-	Basile Alexandre (né en 1881), Kleber, Silly ou Burgès 
-	(stagiaire en 1945), logeront au Pavillon.
+     Parfois, des gardes ou brigadiers sédentaires y séjournaient, 
+     le temps de leur vacation. En 1905 les gardes domaniaux 
+     Jeanselme Alphonse (né en 1869), et plus tard Cordonnier 
+     Basile Alexandre (né en 1881), Kleber, Silly ou Burgès 
+     (stagiaire en 1945), logeront au Pavillon.
 
-Lorsque les officiers venaient au Pavillon, ils prenaient le soin
-d’être accompagné par un Brigadier sédentaire qui pourvoyait à
-l’intendance et s’adjoignait un auxiliaire chargé de casser le bois, 
-tirer l’eau, faire les feux.
+     Lorsque les officiers venaient au Pavillon, ils prenaient le soin
+     d’être accompagné par un Brigadier sédentaire qui pourvoyait à
+     l’intendance et s’adjoignait un auxiliaire chargé de casser le bois, 
+     tirer l’eau, faire les feux.
 	
-Une cuisinière, était alors engagée pour régler 
-tous les problèmes d’intendance. 
+     Une cuisinière, était alors engagée pour régler 
+     tous les problèmes d’intendance. 
 
 ###  Vie quotidienne
 
@@ -144,11 +144,11 @@ repas du 11 au soir.*
 	
 *Le programme des tournées fera l’objet de prochaines instructions.*
 
-Le Mans le 25 novembre 1921,L’inspecteur des E et F **Potel**
+Le Mans le 25 novembre 1921, l’inspecteur des E et F **Potel**
 	 
 Quelques  jours plus tard, un courrier de monsieur Potel précise : 
 	
-*«Mademoiselle Marie Beucher, en vous confirmant mon arrivée
+*« Mademoiselle Marie Beucher, en vous confirmant mon arrivée
 au Pavillon de Bercé le dimanche 11 décembre après-midi vers 
 15 heures, je viens vous donner les indications ou instructions 
 préalables qui paraissent utiles* :
