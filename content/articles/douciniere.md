@@ -11,7 +11,7 @@ La maison forestière de la Doucinière est située sur la commune de Pruillé l
 Là aussi nous avons à faire à un agrandissement de logement.
 Bâtie en 1815, elle avait elle aussi dépassé la norme, 
 devenue trop petite pour une famille d’aujourd’hui.
-Façade tournée vers l’ouest, elle est bordée de 1.08ha de terre,
+Façade tournée vers l’ouest, elle est bordée de 1,08ha de terre,
 près du CD13 menant au village. Contrairement à l’isolement recherché, 
 elle est contigüe à une autre maison. 
 
@@ -28,7 +28,7 @@ Voici la liste des forestiers ayant occupé cette maison forestière :
       (1890-1986) de Montreuil-le-Henri, épouse de Léon Brossard qui fut ma belle mère. 
       Le 1er aout 1880 à Pruillé, Heintz, sera parrain de l’une de ses filles.
       Le garde Passerat succédera à ses beaux parents à la Haute Claie. 
-      Ses deux filles ainées travaillaient à la fabrique de brosse à Saint-Vincent. » 
+      Ses deux filles ainées travaillaient à la fabrique de brosse à Saint-Vincent. »
  
       (Témoignage de Gaston Gautronneau - Montreuil-le-Henri) 
  
@@ -61,7 +61,7 @@ Leclercq Albert Né à Neufchâtel-en Saosnois le 12 juin 1902. Brigade 2 – Tr
   
 L'électricité arrive à la maison forestière en octobre 1954,
   mais pour le défaut de règlement d’une facture le compteur électrique ne peut être posé le 20 octobre. 
-  Pour arranger le coup et éviter le surcoût, GOENVEC ira lui-même avec une autre personne dans le même
+  Pour arranger le coup et éviter le surcoût, Goenvec ira lui-même avec une autre personne dans le même
   cas régler les 4949 f demandés à Arnage.
   
 ### 22 avril 1952 : 
@@ -71,6 +71,7 @@ L'électricité arrive à la maison forestière en octobre 1954,
   même 4 mois plus tard révèleront encore la présence de matières organiques. 
   On mesure alors les distances entre le puits et les fosses à purin et septique. 
   En attendant l’eau est prise en face...chez les Bluteau.
+  
   En juillet on vide le puits et remonte une taupe décomposée et des limaces
   (les anciens trous d’échafaudage n’avaient sans doute pas été bouchés).
   En janvier 1953, l’ingénieur Lorne demande à ce que chaque mois il y soit mis de l’eau de javel.
@@ -78,13 +79,14 @@ L'électricité arrive à la maison forestière en octobre 1954,
   faire la désinfection par un apport de permanganate et de chlorate de soude. 
   Il a encore été remonté un morceau de poils et de peau...vraisemblablement un rat ! 
   
-GOENVEC, ce Breton , ancien des "Corps francs", cité pour fait de résistance, fut avec Calvel, chargé de ma formation.
+Goenvec, ce Breton , ancien des "Corps francs", cité pour fait de résistance, fut avec Calvel, chargé de ma formation.
 Jeannette son épouse, savait avec empathie recevoir les forestiers lors des repas de martelage. 
 Louis participera à la vie communale de Pruillé, élu sur la liste d’Émile BALLION en mars 1971.
 Son unique moyen de locomotion fut … un Solex. 
+
 Il décèdera dans sa Bretagne natale le 30 juillet 2002.
   
-  La rénovation complète de la M. F. s’étalera de 1977 à 1979.
+La rénovation complète de la M. F. s’étalera de 1977 à 1979.
 
 ## Autres articles concernant les maisons forestières : ## 
 
