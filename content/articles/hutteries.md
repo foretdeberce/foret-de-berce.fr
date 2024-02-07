@@ -18,22 +18,24 @@ Elle est construite en lisière ouest au sein d’un hameau de quelques maisons.
 
  ### Anecdotes liées au poste :
   
-13 mars 1791 : Jacques COURCITTÉ y est en poste.
+13 mars 1791 : Jacques Courcitté y est en poste.
   
-MAFSERON : utilise un artifice d’écriture pour noter son nom, en remplaçant un « s » par un « f ». 
+Mafseron : utilise un artifice d’écriture pour noter son nom, en remplaçant un « s » par un « f ». 
   
-ROUSSEAU Julien est révoqué pour avoir fuit devant l’ennemi au siège de Paris. Le garde cantonnier 
+Rousseau Julien est révoqué pour avoir fuit devant l’ennemi au siège de Paris. Le garde cantonnier 
   
-BEAULIEU Pierre Marie (né en 1858) et son épouse FOUGERAY Louise Mathilde (née en 1867-) ont une fille Elisabeth Madeleine. 
+Beaulieu Pierre Marie (né en 1858) et son épouse Fougeray Louise Mathilde (née en 1867-) ont une fille Elisabeth Madeleine. 
   
-Louis Victor SILVESTRE pavoise chaque année la maison forestière au 14 juillet. 
+Louis Victor Silvestre pavoise chaque année la maison forestière au 14 juillet. 
 Le 7 juin 1912 il passe au tribunal correctionnel du Mans 
 
      « Pour avoir traité ….le lumbago en faisant un signe de croix à 
-     l’intérieur d’un cercle avec son gros orteil » La sentence le relaxe… 
+     l’intérieur d’un cercle avec son gros orteil » 
+     
+     La sentence le relaxe… 
   
 La boisson nationale aux Hutteries est le cidre, aussi tous les ans à la fin d’octobre 
-  va-t-il à Ecommoy « prendre livraison d’un wagon de pommes ». 
+  va-t-il à Ecommoy *« prendre livraison d’un wagon de pommes »*. 
   
 En septembre 1925 : démolition et réfection de la toiture. 
   
