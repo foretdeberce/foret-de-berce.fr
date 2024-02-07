@@ -19,31 +19,33 @@ Voici la liste des forestiers ayant occupé cette maison forestière :
 
 ### En 1834, 
    
-MAGNÉ de LALONDE a dû démissionner à la suite d’une plainte "pour voie de fait" 
+Magné de Lalonde a dû démissionner à la suite d’une plainte *"pour voie de fait"* 
 sur des délinquants qu’il a surpris en forêt et ce, dans l’exercice de ses fonctions. 
 Des problèmes sérieux concernant la santé de son épouse lui ont fait bénéficier de 
-huit jours de congés avant la mise à pied. Il a été condamné à 2 ans de prison 
-et 200f d’amende par la Cour royale d’Angers le 29 juin 1839. 
-Pierre Louis Amédée (de) MONTHULÉ a lui aussi été poussé vers la porte de sortie.
+huit jours de congés avant la mise à pied. 
+Il a été condamné à 2 ans de prison et 200f d’amende par la Cour royale d’Angers le 29 juin 1839. 
+Pierre Louis Amédée (de) Monthulé a lui aussi été poussé vers la porte de sortie.
 
 ### Vers 1850,
    
 Le terrain de la maison forestière est pourvu d’une pépinière forestière.
 
-Le garde GUYOMARCH (malade) décédé aux Clos est enterré à Saint-Pierre le 10 mai 1885.
-PERRIOT, garde-cantonnier venant de Perseigne arrive aux Clos le 20 janvier 1885.
-Le garde PORÉE Raymond, devait prendre sa suite….mais refuse et devient marchand de bois à Fougères (Ille-& -Vilaine). 
+Le garde Guyomarch (malade) décédé aux Clos est enterré à Saint-Pierre le 10 mai 1885.
+Perriot, garde-cantonnier venant de Perseigne arrive aux Clos le 20 janvier 1885.
+Le garde Porée Raymond, devait prendre sa suite….mais refuse et devient marchand de bois à Fougères (Ille-& -Vilaine). 
 
-Le garde Émile-Clément ALBRECHT est né le 20 janvier 1873 à Vitry-aux-Loges, (Loiret). 
+Le garde Émile-Clément Albrecht est né le 20 janvier 1873 à Vitry-aux-Loges, (Loiret). 
 Son père Nicolas était lui-aussi forestier.
-Marié le 26 octobre 1899 à Villaines-la-Gonais (Sarthe), avec Cécile Eugénie Alphonse LEROY (1875-1957). 
-Leur fils, Georges Camille Émile ALBRECHT né le 13 octobre 1901 à Saint-Pierre-du-Lorouër, 
+Marié le 26 octobre 1899 à Villaines-la-Gonais (Sarthe), avec Cécile Eugénie Alphonse Leroy (1875-1957). 
+Leur fils, Georges Camille Émile Albrecht né le 13 octobre 1901 à Saint-Pierre-du-Lorouër, 
 sera forestier jusqu’en 1925 et décédera le 5 juin 1940 à Chaulnes, (Somme).  
 Émile sera le 12 août 1900, décoré de la médaille forestière et du mérite agricole et
 recevra en vertu de sa bravoure, en octobre 1902, une médaille de bronze et 
 un diplôme du Syndicat central des pêcheurs de France. 
-ROULLEAU notera en tournée les 5 et 6 février 1903 : 
+
+Roulleau (inspecteur) notera en tournée les 5 et 6 février 1903 : 
 *Triage très bien tenu. Rivières bien surveillées.*
+
 En 1906 : 81 km de rivières étaient affecté à ce poste.
 Il rejoint avec la guerre du 7 août 1914 au 28 mars 1916, la 3ème compagnie de chasseurs forestiers. 
 Cessant ses fonctions le 31 janvier 1935, il décèdera le 9 mars 1951 à Mayet, à l’âge de 78 ans.
