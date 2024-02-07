@@ -37,16 +37,17 @@ Une autre habitation la jouxte en lisière.
   étaient insignifiantes, que la plainte a été déposée uniquement en vengeance
   d'un procès-verbal dressé par lui. Le tribunal ordonne une enquête. »* **(1)**
    
- Le garde CARPENTIER, est né à Cormeilles (Oise). Le 13 décembre 1844 il subit,
+ Le garde Carpentier, est né à Cormeilles (Oise). Le 13 décembre 1844 il subit,
   sur le territoire forestier de Thoiré, une tentative d’*afsafsinat* par un
-  délinquant surpris en flagrant délit. Jean Baptiste CARPENTIER a reçu à la 
+  délinquant surpris en flagrant délit. Jean Baptiste Carpentier a reçu à la 
   figure un violent coup de serpe qui lui a coupé la joue droite, fendu le nez
   et attaqué l’œil gauche. Dans cette regrettable affaire, M. le maire de 
   Thoiré (sans nier ce fait incontestable) a refusé avec son conseil de 
   corroborer les faits. Selon eux, la victime connaissait parfaitement le 
-  délinquant (qui était, aux dires du maire, un brave homme). Elle aurait dû
-  dresser procès verbal puis se retirer. L’arrêt de la cour a cependant 
-  condamné le dénommé BOYER à 8 ans de réclusion, à la surveillance de la 
+  délinquant (qui était, aux dires du maire, un brave homme).
+  
+  Elle aurait dû dresser procès verbal puis se retirer. L’arrêt de la cour a cependant 
+  condamné le dénommé Boyer à 8 ans de réclusion, à la surveillance de la 
   police le reste du temps et à 100 f de dommages et intérêts envers la victime
   (réf. : salaire en 1947 : 600 f). En 1847, il est muté brigadier domanial 
   aux Étangs. En novembre 1860 il est nommé brigadier à Saint-Rigomer des-Bois
@@ -55,25 +56,25 @@ Une autre habitation la jouxte en lisière.
    
 **28 décembre 1868**
   
-  Note de LEROUX : *« Mr. le sous -inspecteur est venu chez moi
+  Note de Leroux : *« Mr. le sous -inspecteur est venu chez moi
   pour mentionner les dégâts ou réparations à faire à la M.F. qui seraient 
   susceptibles d’être imputés à mon compte. »*
-  LEROUX profitera le 27 janvier 1870 
+  Leroux profitera le 27 janvier 1870 
   d’une permission de 8 jours pour se marier, deviendra brigadier fin 1872 et
   sera enterré à Pruillé-l’Éguillé le 18 mai 1874.
   
 Réparations effectuées en septembre 1876, 
   mise en place de grave dans la cour le 20 septembre 1876 avec un charretier 
-  et 2 prestataires (DUTERTRE de Chahaignes).
+  et 2 prestataires (Dutertre de Chahaignes).
   Le sous inspecteur constate le 22 septembre que la tenue de la maison 
-  du garde HEINTZ est convenable… Quelques réparations en août 1889, drainage des 
+  du garde Heintz est convenable… Quelques réparations en août 1889, drainage des 
   fossés le 8 novembre 1894 et en mars 1897, l’ouvrier couvreur a employé 
   100 ardoises, peint les lambourdes des gouttières, mis un tuyau de descente, 
   recrépi les cheminées avec du ciment.
    
 {{<figure src="/images/articles/anciens-boussions.jpg" title="Ancienne maison forestière des Boussions">}}
   
-Alfred JOUAUX appartient au corps des chasseurs forestiers,
+Alfred Jouaux appartient au corps des chasseurs forestiers,
   
   il se rend le 7 août 1914 au camp de Sainte-Maure, mais il est renvoyé à son 
   poste le 20 juin 1915, car il est âgé de plus de 45 ans. 
@@ -87,19 +88,19 @@ Alfred JOUAUX appartient au corps des chasseurs forestiers,
   y travailleront. 
   « À Saint Calais le 12 novembre pour toucher ma prime d’assuré pour incendie. »
   
-Pierre RIMASSON et Marie.
-  Ils ont en 1936, pour berger CHALIGNÉ William (né en 1922) 
+Pierre Rimasson et Marie.
+  Ils ont en 1936, pour berger Chaligné William (né en 1922) 
   et pour fille Aline dont la passion est l’élevage des "p’tits chiens". 
-  Elle se maria avec Jean LACHIVER forestier à la Fresnaye-sur-Chédouet dont le père André,
+  Elle se maria avec Jean Lachiver forestier à la Fresnaye-sur-Chédouet dont le père André,
   lui-même forestier occupait le poste de Saint-Rigomer-des Bois. 
   
 **20 juin 1952**
   
-*«Mon cher GOENVEC...j’ai transmis à Mr l’ingénieur principal un rapport 
+*« Mon cher Goenvec...j’ai transmis à Mr l’ingénieur principal un rapport 
   concernant le curage urgent du puits de la M.F. et joint deux factures.
-  J’espère avoir satisfaction et demande que monsieur BARDET, seul spécialiste de la région
+  J’espère avoir satisfaction et demande que monsieur Bardet, seul spécialiste de la région
   effectue ces travaux avec l’aide de nos auxiliaires. 
-  Tu as eu une bonne idée de faire effectuer cette analyse.»* 
+  Tu as eu une bonne idée de faire effectuer cette analyse. »* 
   
 {{<figure src="/images/articles/20171018boussions.jpg" title="Maquette des Boussions">}}
   
