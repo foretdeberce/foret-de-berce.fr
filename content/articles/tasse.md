@@ -35,7 +35,7 @@ Juillet 1906 : pavage de la maison forestière.
   Pour la couverture on utilise des tôles ramassées en zone occupée. 
   
 Location de 1921 à 1929 : 250 f/an pour un terrain de 50 ares et 70 ca, 
-  les 41 ares restants sont ensemencés par le père PELTIER 
+  les 41 ares restants sont ensemencés par le père Peltier 
   et ne seront concédés au garde chasse particulier 
   qu’à la fin de la récolte 1921. 
   
@@ -44,18 +44,19 @@ situation d’être située en bordure de nationale.
   
 
      31 juillet 1933 : « Il est formellement interdit 
-     au garde GAUTRON de se tenir sur la borne de la route 
+     au garde Gautron de se tenir sur la borne de la route 
      devant la maison forestière (et partout ailleurs) 
      s’il n’est pas dans une tenue extrêmement correcte. 
      En particulier, il lui est interdit de s’y tenir couché, 
      une bouteille de cidre ou autre boisson près de lui. 
      Ce manque de tenue dans un lieu public, dont il a la garde, 
      sera l’objet d’une sanction, la prochaine fois » 
-     (signé l’inspecteur adjoint DEMY).  
+     
+     (signé l’inspecteur adjoint Demy).  
   
 Janvier 1939 : on est toujours dans le sanitaire… 
   
-    (Note de l’inspecteur au brigadier René POUMEROL). 
+    (Note de l’inspecteur au brigadier René Poumerol). 
   
     « Vous voudrez bien me signaler s’il convient de faire 
     effectuer un badigeonnage au grésil ou un nettoiement
@@ -68,7 +69,7 @@ Janvier 1939 : on est toujours dans le sanitaire…
 La Tasse est électrifiée le 29 décembre 1956 à 18h30. 
 Une salle d’eau est construite le 9 décembre 1968. 
   
-Le fils GENDRE épouse le 9 juin 1969 la fille de Georges MORANCAIS, ancien ouvrier forestier.
+Le fils Gendre épouse le 9 juin 1969 la fille de Georges Morançais, ancien ouvrier forestier.
   
 {{<figure src="/images/articles/tasse1983.jpg" title="Maison forestière de la Tasse">}}
   
