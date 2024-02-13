@@ -12,11 +12,13 @@ tags: ["Arbres","Curiosités","hommes","travaux"]
 
 Un livre...(février 2024)
 
+{{<figure src="/images/articles/livre.jpg" title="Le livre d'Alain Szczuczynski et de Jean-François Clémence">}}
+
 Un nouveau livre vient de paraître :
 Alain Szczuczynski et Jean-François Clémence nous emmènent
 découvrir les mystères cachés dans l'imaginaire de Bercé.
 
-{{<youtube id="unO0oqrmd1Q">}}
+{{<youtube id="unO0oqrmd1Q">}} **2'13**
 
 
 **La forêt, l'Homme et Bercé**
