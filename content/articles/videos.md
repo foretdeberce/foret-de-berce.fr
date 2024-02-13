@@ -7,6 +7,21 @@ featured_image: "/images/et.dron.jpg"
 tags: ["Arbres","Curiosités","hommes","travaux"]
 ---
 
+ 
+**Bercé, forêt des hommes**
+
+Un livre...(février 2024)
+
+Un nouveau livre vient de paraître :
+Alain Szczuczynski et Jean-François Clémence nous emmènent
+découvrir les mystères cachés dans l'imaginaire de Bercé.
+
+{{<youtube id="unO0oqrmd1Q">}}
+
+
+**La forêt, l'Homme et Bercé**
+
+Un film...(2019)
 
 Laissez vous guider en forêt de Bercé par :
 Louis, Arthur et Côme (étudiants)
