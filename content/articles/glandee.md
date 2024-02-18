@@ -45,6 +45,10 @@ Aujourd’hui, seuls deux grainetiers sont habilités à ramasser
   du gland en forêt de Bercé. L’O.N.F. et VILMORIN. 60 tonnes
   de glands sont ramassées à la main lors d’une bonne glandée.
   Cela représente 15 millions de glands. 
+
+Anthony Jeanneau nous précise pourquoi le gland du chêne sessile de bercé est si prisé pour la reproduction de l'espèce.**0'17"**
+
+{{<youtube id="XzceeCBFVb0">}}
   
 ### Chapeau bas les glandeurs !!!
 
