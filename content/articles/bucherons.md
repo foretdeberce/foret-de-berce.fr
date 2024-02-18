@@ -119,13 +119,16 @@ mais plusouvrageuse.
 Edouard Guillier (quand il n’éhoupait pas) abattait les coupes pour Garnier, 
 marchand de bois à Mayet et pour bien d’autres encore.
 
-La famille Pichon, a fourni en Bercé des bûcherons de père en fils depuis des générations.
-Daniel dont le Père Raymond et le Grand Père Jules était aussi Bûcheron, 
-pare le 5 décembre 1985 le plus gros chêne des Clos (1 m 40 de diamètre), 
-qui a été vendu la bagatelle somme de 113.000F HT soit 17.227 €.
+La famille Pichon, a fourni en Bercé des bûcherons de père en fils depuis des générations. Alfred (émondeur), Émile
+Daniel, Joël, Michel, dont le Père Raymond et le Grand Père Jules était aussi Bûcheron, pare le 5 décembre 1985 le plus gros chêne des Clos (1 m 40 de diamètre), qui a été vendu la bagatelle somme de 113.000F HT soit 17.227 €.
 
 {{<figure src="/images/articles/bucherons.jpg" title="Les frères Pichon et Denis Legeay">}}
-    
+
+La famille Robert est aussi source de main d'oeuvre, avec René Robert (débardeur), Gaston le père, Pascal le fils puis Nicolas le petit fils (tous bûcherons).
+
+ {{<youtube id="0-fqmtNaH90">}}   
+
+ 
 **Liste des bucherons de 1850 à 1914 :**
     
 ###  NOM  Prénom	 Village
