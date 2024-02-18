@@ -126,11 +126,20 @@ Daniel, Joël, Michel, dont le Père Raymond et le Grand Père Jules était auss
 
 La famille Robert est aussi source de main d'œuvre, avec René Robert (débardeur), Gaston le père, Pascal le fils puis Nicolas le petit fils (tous bûcherons).
 
+ 
 **Voici Nicolas en mode bûcheronnage années 70**
-C'est à dire sans le casque et la visière.
+
+C'est à dire sans le casque et la visière. 
+ © Reportage : FR3 - **(3'44")**
 
  {{<youtube id="0-fqmtNaH90">}}   
 
+Et voici le film des derniers instants d'un chêne âgé de 350 ans, dans la futaie des Clos 
+en forêt de Bercé, abattu pour le compte de la Tonnellerie Sylvain.
+Il sera transformé en barrique pour des vins de prestige
+ © Reportage : Le Petit Courrier, l'Écho de la Vallée du Loir. **(1'57")**
+
+  {{<youtube id="rmTDZ0iqA5s">}} 
  
 **Liste des bucherons de 1850 à 1914 :**
     
