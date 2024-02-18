@@ -124,7 +124,7 @@ Daniel, Joël, Michel, dont le Père Raymond et le Grand Père Jules était auss
 
 {{<figure src="/images/articles/bucherons.jpg" title="Les frères Pichon et Denis Legeay">}}
 
-La famille Robert est aussi source de main d'oeuvre, avec René Robert (débardeur), Gaston le père, Pascal le fils puis Nicolas le petit fils (tous bûcherons).
+La famille Robert est aussi source de main d'œuvre, avec René Robert (débardeur), Gaston le père, Pascal le fils puis Nicolas le petit fils (tous bûcherons).
 
  {{<youtube id="0-fqmtNaH90">}}   
 
