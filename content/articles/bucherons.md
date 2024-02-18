@@ -126,6 +126,9 @@ Daniel, Joël, Michel, dont le Père Raymond et le Grand Père Jules était auss
 
 La famille Robert est aussi source de main d'œuvre, avec René Robert (débardeur), Gaston le père, Pascal le fils puis Nicolas le petit fils (tous bûcherons).
 
+**Voici Nicolas en mode bûcheronnage années 70**
+C'est à dire sans le casque et la visière.
+
  {{<youtube id="0-fqmtNaH90">}}   
 
  
