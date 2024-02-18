@@ -528,11 +528,13 @@ Il y a eu au plus fort de l'emploi "moderne" deux chauffeurs de tracteurs :
 La tire des bois se veut plus respectueuse des sols.
 Le cablage est actuellement une bonne opportunité... mais plus onéreuse.
 
-Tel ce reportage de 2022 du
+Tel ce reportage de mars 2022.
+l'ONF applique la solution douce (la plus respectueuse pour nos sols) 
+au débardage des grumes dans le Sault-Moulin.
+ © Reportage : Le Petit Courrier, l'Écho de la Vallée du Loir.  (Photo d'intro : Pascal Corbin)
+**(1'57")**
 
-**Petit Courrier L'Écho de la vallée du Loir**
-
-{{<youtube id="OqKoNJd3emQ">}}
+{{<youtube id="CtTTk9-ZGi4">}}
 
 ## Autres liens concernant les moyens d'exploitation de Bercé ##
 
