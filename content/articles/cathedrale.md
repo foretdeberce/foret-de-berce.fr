@@ -49,6 +49,9 @@ Les bois de Bercé serviront avec d'autres bois de diverses forêts françaises
 
 ### Les acteurs de la filière bois vous interpellent.
 
+**5 mars 2020**
+Lancement des opérations.
+
 {{<youtube id="vOUzmAMd81Q">}}
 Les premiers chênes marqués pour la flèche. **(2'06)**.
 
@@ -60,7 +63,10 @@ Le savoir faire de toute une profession. **(6'32)**
 
 {{<youtube id="JMwiSfucalg">}}
 Reportage de France-Bois-Forêt. **(5'04)**
-  
+
+
+**Jupilles le 24 juin 2021** 
+
 {{<youtube id="xjk_bXF9_N4">}}
 Les opérations de transport. **(2'20)**
 
@@ -73,6 +79,22 @@ L’exploitation des géants. **(1'57)**
 {{<youtube id="awjEiKaEJAg">}}
 On en parle aussi sur CNN. **(6'19)**
 
+**22 novembre 2021**
+
+Une drôle de chasse au trésor est proposé aux promeneurs dans le massif forestier
+de Bercé en Sarthe. Une centaine de tabourets en chêne massif ont été dispersés 
+par l'Office National des Forêts, une manière de sensibiliser 
+le public à la nécessité de couper des arbres.
+
+*Reportage de Marc Yvard et Christelle Massé et Emmanuelle Lagrange*
+
+**(1'47")**
+
+
+
+  {{<youtube id="rapXcN68yYM">}} 
+
+
 ### En mars 2023, le tabouret de la flèche monte à bon rythme.
 
 Vicissitudes de la cathédrale de Paris au cours du temps
@@ -84,7 +106,9 @@ L'histoire de la restitution à l'identique de la charpente. **(26'17)**
 
 ### Depuis :
 
-Fin 2023... des nouvelles du montage de la flèche.
+**Fin 2023**
+... des nouvelles du montage de la flèche.
+
 {{<youtube id="suAqu1uvmGw">}} 
 
 ## Autres articles concernant les productions forestières: ## 
