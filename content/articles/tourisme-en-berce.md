@@ -201,8 +201,14 @@ Confection de l'accès au Chemin de la Coudre (voir route) – délimitation du 
 
 *Le 31/08/42 Vu des opérateurs de Cinéma en train de filmer sur la croix Segrier.*
 
-  Aujourd'hui Bercé attire par sa renommée quantité de monde
+  Aujourd'hui Bercé attire par sa renommée quantité de monde.
   
+ ## La randonnée
+  
+  Un sport qui est à la foi loisir et thérapie.
+**(26'27")**
+
+  {{<youtube id="8m-Ctbwq8M8">}} 
 
 ## Pages en rapport avec le tourisme sur Bercé ##
 
