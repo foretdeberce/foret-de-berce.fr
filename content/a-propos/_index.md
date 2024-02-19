@@ -95,14 +95,19 @@ foretdeberce@gmail.com
  
 ***Au plus près de la forêt :*** 
   
-L'Âme du Cinq 72220 Écommoy
+**L'Âme du Cinq** 
+72220 Écommoy
 
-Leclerc Montval-sur-Loir 72500 "Espace Culturel Loir et Bercé" 
+**Leclerc Montval-sur-Loir** 
+72500 "Espace Culturel Loir et Bercé" 
 
-**Le livre est encore disponible** à Carnuta "Maison de l'Homme et de la Forêt" Jupilles 72500.
-  
+**Carnuta**
+La Maison de l'Homme et de la Forêt 72500 Jupilles **(2'25")**.
+Seul endroit ou **Le livre est encore disponible**
 
-  
+  {{<youtube id="46jt3N0wuMw">}} 
+
+ 
   
 [Librairies Indépendantes](https://www.librairiesindependantes.com/product/9782359920529/)
   
