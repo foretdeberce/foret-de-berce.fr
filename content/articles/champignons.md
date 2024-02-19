@@ -115,6 +115,16 @@ Rejoindre la page facebook :
      et plus, le poids total récolté ne devra pas dépasser 10 kg.
      
      Au-delà, la cueillette devient frauduleuse. 
+
+Reportage du Petit Courrier, L'Écho de la Vallée du Loir.
+Daniel Fouchard, expert en mycologie, installé à Ecommoy dans la Sarthe,
+fait le point sur ce qu'on trouve en forêt en cet *automne 2016*.
+**(0'50")**
+
+
+
+  {{<youtube id="PJqmKlG8Zxw">}} 
+
      
      La récolte est tolérée de 9h00 à la tombée de la nuit 
      toute la semaine sauf le jeudi ...
