@@ -53,6 +53,14 @@ Anthony Jeanneau nous précise pourquoi le gland du chêne sessile de bercé est
   
 ### Chapeau bas les glandeurs !!!
 
+Reportage FR 3 sur la glandée 2018 en forêt de Bercé.
+**(0'15")**
+
+**Les secrêts du ramassage des glands :**
+c'est la persévérence et le trie.
+
+  {{<youtube id="wN8mDWRihBs">}} 
+
 **Contée par un glandeur...de première !**
   
 …Cette fable …est une demande d’embauche.
