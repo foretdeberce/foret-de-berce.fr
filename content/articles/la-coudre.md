@@ -350,6 +350,15 @@ adresse un chèque de 1.000 f afin que l’ONF procède au nettoyage de celle-ci
 **2010**- année internationale de la biodiversité : 
 curage complet des bassins, et remise en eau fin octobre.
 
+**2019**
+Survol de la fontaine de la Coudre en 2019.
+
+**(5'20")**
+
+
+  {{<youtube id="ldNDHdk3VSM">}} 
+  
+
 ## Pages en rapport avec le tourisme sur Bercé ##
 
 [Le tramway]({{<ref "articles/tramway.md">}})
