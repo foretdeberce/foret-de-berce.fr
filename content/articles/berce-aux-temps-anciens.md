@@ -180,6 +180,18 @@ ses lettres de noblesse et lui fait renouer avec ses racines Gauloises.
 
 {{<figure src="/images/articles/tonneaux.jpg" title="Tonneaux de provenance Jupilles chez Martell à Cognac">}}
 
+## La taille des forêts françaises a-t-elle diminué ou augmenté depuis 20 ans ?
+
+  {{<youtube id="tTL13fbPK1c">}} 
+
+Selon une étude Opinionway pour France Bois Forêt réalisée en septembre 2023, 
+6 Français/10 considèrent que la surface des forêts diminue
+ (7/10 chez les moins de 35 ans), alors qu’elle est en constante augmentation. 
+
+Découvrez ce reportage Brut avec Antoine Colin, 
+coordinateur de l'Observatoire des forêts françaises, **(3'20")**
+qui nous raconte comment et pourquoi c'est important d’observer 
+et analyser les forêts.
 
 ### Bibliographie : 
   
