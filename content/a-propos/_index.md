@@ -19,6 +19,13 @@ Mais la forêt d’antan ne ressemblait en rien à celle que nous fréquentons a
 En lieu et place de la forêt, pâtures et cultures organisaient l'espace.
 
 l'essartage était alors en chose courante.
+
+
+**Histoire de nos forêts.**
+
+**(0'47")**
+
+  {{<youtube id="vLBZig_THVA">}} 
   
 Au fil des siècles, l’homme en a façonné patiemment les contours
   pour en faire ce qu’elle est devenue aujourd’hui.
