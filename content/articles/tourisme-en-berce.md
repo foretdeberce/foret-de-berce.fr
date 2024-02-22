@@ -205,10 +205,17 @@ Confection de l'accès au Chemin de la Coudre (voir route) – délimitation du 
   
  ## La randonnée
   
-  Un sport qui est à la foi loisir et thérapie.
+  Un sport qui est tout à la fois un loisir et une thérapie.
+  
 **(26'27")**
 
   {{<youtube id="8m-Ctbwq8M8">}} 
+
+Petit conseil pour une randonnée réussie en forêt.
+
+**(0'32")**
+
+  {{<youtube id="9mh1SrvTZzE">}}   
 
 ## Pages en rapport avec le tourisme sur Bercé ##
 
