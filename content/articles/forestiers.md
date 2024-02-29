@@ -53,6 +53,19 @@ François Pavis, est segréier (segrayer) des eaux et forêts
 Adrien de Fromentières, écuyer, sieur de La Moynerie, 
 conseiller du Roi, est maître particulier des Eaux et forêts de Château du Loir
 
+Sur le terrain la police forestière est bien présente.
+
+## La plaque de baudrier
+
+Décore le garde "au voeu de la loi"
+Le vœu de la loi : c’est le but poursuivi par celle-ci, le motif pour lequel elle a été adoptée.
+Voici pour illustrer ce propos des documents concernant spécifiquement la plaque de Baudrier, 
+un des signes distinctifs du représentant de la loi en activité: le forestier.
+
+ [Des plaques de baudriers par R. GAGNEUX](/articles/pdf/desplaquesdegardespargagneux.pdf) 
+
+ [Plaques de baudriers du 16ème au 18ème](/articles/pdf/pb1du16eau18esiecle.pdf), 
+ 
 **25 mai 1667 :**
 
 [Organisation forestière au 17ème siècle](/articles/pdf/organisationforestiere2.pdf)
@@ -317,6 +330,8 @@ Jacques Barrier et François Jousselet, en 1789 sont gardes à Jupilles
 
 **1791 - 1799 :**
 
+[Plaques de baudriers de 1799 à 1814](/articles/pdf/pb2duconsulat1799alarestauration1814.pdf) 
+
 Le 13 mars, la municipalité de Marigné établit un certificat 
 de bonne conduite à Jacques Courcitté afin que celui-ci puisse
 devenir garde de la "forest de Bercé"
@@ -422,15 +437,21 @@ Une étude collective a été publiée lors du 2ème colloque par " Histrafor " 
 Voici rassemblés par Jean Claude CHAUSSE, Richard BACCHETTA et Patrick BERTHELOT deux documents :
 
 [L’armement des Eaux et Forêts – partie 1](/articles/pdf/armement1.pdf) 
-et  
+ 
 [L’armement des Eaux et Forêts – partie 2](/articles/pdf/armement2.pdf).
 
+[Plaques de baudriers de 1814 à 1827](/articles/pdf/pb2delarestauration1814a1827.pdf),
+
  
-**1820 :** Dans la 11ème conservation en Sarthe, au Mans, 
+**1820 :** 
+
+Dans la 11ème conservation en Sarthe, au Mans, 
 M. Doazan est inspecteur. En 1839  il est chargé de l’ouverture 
 du chemin de grande communication la Flèche – Saint – Calais.
 
 En 1831 : Louis Joseph Mariage est garde général à Jupilles. 
+
+[Plaques de baudriers de 1827 à 1848](/articles/pdf/pb2ducodeforestier1827alouisphilippe1848.pdf)
 
 **Dès 1833 :**
 
@@ -445,6 +466,8 @@ installe son bureau à Château-du-Loir **(8)**.
 Il est chargé de la rédaction du procès verbal de délimitation 
 de la forêt, l’arpenteur Isidore Wautot s’activant à en décrire
 le périmètre. Il devient inspecteur au Mans le 27 janvier 1863.
+
+[Plaques de baudriers de 1848 à 1945](/articles/pdf/pb3dela2derepublique1848a1945.pdf)
 
 [Le métier de forestier traditionnel est détourné](/articles/pdf/lemetierdeforestier.pdf) 
 de 1850 à 1910. L’énorme chantier des routes à Bercé, prime sur la sylviculture.
@@ -479,7 +502,10 @@ et Bercé (Sarthe), 15 mars 1884.
 En 1934, [l’administration forestière](/articles/pdf/administrationforestiere1934.pdf) 
 se modernise petit à petit.
 
+[Plaques de baudriers de 1945 à nos jours](/articles/pdf/pb3dela2deguerre1945anosjours.pdf)
+
 [Tableau des officiers en poste](/articles/pdf/officiers19et20e.pdf)
+
 
 ## Pages en rapport avec ce sujet ##
 
