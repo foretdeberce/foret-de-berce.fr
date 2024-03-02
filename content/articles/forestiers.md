@@ -434,13 +434,13 @@ C’est le conservateur Louis Lavauden qui fait la 1ère communication sur les a
 
 Une étude collective a été publiée lors du 2ème colloque par " Histrafor " (la section Histoire de l’APAS-ONF) dans les dossiers forestiers de l’ONF en 2013. 
 
-Voici rassemblés par Jean Claude CHAUSSE, Richard BACCHETTA et Patrick BERTHELOT deux documents :
+Voici rassemblés par Jean Claude CHAUSSE, Richard BACCHETTA et Patrick BERTHELOT trois documents :
 
 [L’armement des Eaux et Forêts – partie 1](/articles/pdf/armement1.pdf) 
  
-[L’armement des Eaux et Forêts – partie 2](/articles/pdf/armement2.pdf).
+[L’armement des Eaux et Forêts – partie 2](/articles/pdf/armement2.pdf)
 
-[Plaques de baudriers de 1814 à 1827](/articles/pdf/pb2delarestauration1814a1827.pdf),
+[Plaques de baudriers de 1814 à 1827](/articles/pdf/pb2delarestauration1814a1827.pdf)
 
  
 **1820 :** 
