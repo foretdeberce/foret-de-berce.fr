@@ -61,10 +61,15 @@ Décore le garde "au voeu de la loi"
 Le vœu de la loi : c’est le but poursuivi par celle-ci, le motif pour lequel elle a été adoptée.
 Voici pour illustrer ce propos des documents concernant spécifiquement la plaque de Baudrier, 
 un des signes distinctifs du représentant de la loi en activité: le forestier.
+La seule vue de cette plaque faisait fuir braconniers et délinquants du massif.
+
+Portée ostensiblement sur le baudrier en travers de la poitrine, 
+elle assurait légitimité et pouvoir à son possesseur.
+
 
  [Des plaques de baudriers par R. GAGNEUX](/articles/pdf/desplaquesdegardespargagneux.pdf) 
 
- [Plaques de baudriers du 16ème au 18ème](/articles/pdf/pb1du16eau18esiecle.pdf), 
+ [Plaques de baudriers du 16ème au 18ème](/articles/pdf/pb1du16eau18esiecle.pdf) 
  
 **25 mai 1667 :**
 
