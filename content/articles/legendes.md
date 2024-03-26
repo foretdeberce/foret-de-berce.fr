@@ -6,6 +6,24 @@ description: "Elles hantent Bercé"
 featured_image: "/images/et.legendesberce.jpg"
 tags: ["Tourisme","Loisirs","Biodiversite","Eau","Légende","Hommes"]
 ---
+### Un arbre et ses racines
+
+#### Le chêne
+
+Reportage de France Culture
+sur le chêne de Bercé,
+mettant en scène les personnes suivantes : 
+Pierre Lieutaghi (Ethnobotaniste)
+Robert Calvel (Technicien forestier)
+Henri Hoyau (Ingénieur du génie rural)
+Benoît Fleury (Ingénieur des travaux)
+Jean Pasquier ( Charpentier à Chahaignes)
+Émile Ballion (Scieur à Pruillé)
+Paul-Marie Duval (Historien spécialiste de la Gaule Celtique et gallo-romaine)
+
+**Temps de lecture : 57'23"**
+
+{{<youtube id="dOVWYHljzkA">}}
 
 ### Histoires d’eau à Bercé 
 
