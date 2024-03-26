@@ -20,6 +20,7 @@ Benoît Fleury (Ingénieur des travaux)
 Jean Pasquier ( Charpentier à Chahaignes)
 Émile Ballion (Scieur à Pruillé)
 Paul-Marie Duval (Historien spécialiste de la Gaule Celtique et gallo-romaine)
+Soyez indulgents pour le son d'époque (qui sature un peu ... parfois)
 
 **Temps de lecture : 57'23"**
 
