@@ -111,6 +111,13 @@ L'histoire de la restitution à l'identique de la charpente. **(26'17)**
 
 {{<youtube id="suAqu1uvmGw">}} 
 
+**Mars 2024**
+
+Montage de la forêt...
+
+{{<youtube id="xak8163E-LM">}} 
+
+
 ## Autres articles concernant les productions forestières: ## 
 
 [Indigents]({{<ref "articles/indigents.md">}})
