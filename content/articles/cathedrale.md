@@ -113,7 +113,7 @@ L'histoire de la restitution à l'identique de la charpente. **(26'17)**
 
 **Mars 2024**
 
-Montage de la forêt...
+Montage de la forêt...**(6'01)**
 
 {{<youtube id="xak8163E-LM">}} 
 
