@@ -107,7 +107,7 @@ L'histoire de la restitution à l'identique de la charpente. **(26'17)**
 ### Depuis :
 
 **Fin 2023**
-... des nouvelles du montage de la flèche.
+... des nouvelles du montage de la flèche.**(2'08)**
 
 {{<youtube id="suAqu1uvmGw">}} 
 
