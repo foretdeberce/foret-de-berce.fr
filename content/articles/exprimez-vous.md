@@ -19,3 +19,13 @@ Cette rubrique est faite pour vous!
 Contactez-moi à cette adresse courriel :
 
 foretdeberce@gmail.com
+
+## Façon de voir :## 
+
+
+Thierry Pradier
+Président de Patrimoine Environnement Loir-Lucé-Bercé
+réagit à l'exploitation des vieux arbres.**(1'38)**
+
+{{<youtube id="Y52_WUHDgkU">}}
+
