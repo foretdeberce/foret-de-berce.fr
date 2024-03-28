@@ -7,20 +7,6 @@ featured_image: "/images/et.dron.jpg"
 tags: ["Arbres","Curiosités","hommes","travaux"]
 ---
 
- 
-**Bercé, forêt des hommes**
-
-Un livre...(février 2024)
-
-{{<figure src="/images/articles/livre.jpg" title="Le livre d'Alain Szczuczynski et de Jean-François Clémence">}}
-
-Un nouveau livre vient de paraître :
-Alain Szczuczynski et Jean-François Clémence nous emmènent
-découvrir les mystères cachés dans l'imaginaire de Bercé.
-
-{{<youtube id="unO0oqrmd1Q">}} **2'13**
-
-
 **La forêt, l'Homme et Bercé**
 
 Un film...(2019)
@@ -32,7 +18,30 @@ et Guillaume (photographe animalier).
 
 {{<youtube id="IcelTcBckeE">}}
   
-Films d'étudiants en filière bois à la Germinière de Rouillon. **(20'05)**
+Films d'étudiants en filière bois à la Germinière de Rouillon. **(20'05)** 
+
+
+**Bercé, forêt des hommes**
+
+Un livre...(février 2024)
+
+{{<figure src="/images/articles/livre.jpg" title="Le livre d'Alain Szczuczynski et de Jean-François Clémence">}}
+
+Un nouveau livre vient de paraître :
+Alain Szczuczynski et Jean-François Clémence nous emmènent
+découvrir les mystères cachés dans l'imaginaire de Bercé.**(2'13)**
+
+{{<youtube id="unO0oqrmd1Q">}} 
+
+
+**Jean-François Clémence**
+
+Gens de la terre...
+l'amoureux de la forêt de Bercé.(FR3 - 21 mars 2024)
+Entre photo, forêt et écriture, le quotidien de Jean-François.**(3'51)**
+
+{{<youtube id="_ttyk8OfyEk">}} 
+
 
 ## Pages en rapport avec le tourisme sur Bercé ##
 
