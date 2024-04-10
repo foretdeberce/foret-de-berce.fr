@@ -125,7 +125,7 @@ Selon une étude Opinionway pour France Bois Forêt réalisée en septembre 2023
 6 Français/10 considèrent que la surface des forêts diminue
 (7/10 chez les moins de 35 ans), alors qu’elle est en constante augmentation. 
 
-Découvrez ce reportage Brut avec Antoine Colin, 
+Découvrez ce reportage **Brut** avec Antoine Colin, 
 coordinateur de l'Observatoire des forêts françaises, **(3'21")**
 qui nous raconte comment et pourquoi c'est important d’observer 
 et analyser les forêts.
