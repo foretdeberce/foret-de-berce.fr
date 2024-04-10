@@ -115,6 +115,20 @@ tout en conservant une gestion raisonnée et un sentiment écologique plus fort 
 
 Bonne lecture !
 
+La taille des forêts françaises a-t-elle diminué ou augmenté depuis 20 ans ?
+
+
+  {{<youtube id="S6PZjPu-1O8">}} 
+
+
+Selon une étude Opinionway pour France Bois Forêt réalisée en septembre 2023, 
+6 Français/10 considèrent que la surface des forêts diminue
+(7/10 chez les moins de 35 ans), alors qu’elle est en constante augmentation. 
+
+Découvrez ce reportage Brut avec Antoine Colin, 
+coordinateur de l'Observatoire des forêts françaises, **(3'21")**
+qui nous raconte comment et pourquoi c'est important d’observer 
+et analyser les forêts.
 
 ## Pour suivre au fil du temps les actualités de Bercé ##
 
