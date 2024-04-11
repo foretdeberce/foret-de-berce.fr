@@ -7,14 +7,14 @@ featured_image: "/images/et.lienpps.jpg"
 tags: ["Tourisme","Lieux","Paysage","Hommes"]
 ---
 
-### Le 18 mars 2023
+### La fête des forêts
 
-Pour sa 5ème édition, les acteurs de **Bercé Forêt d’Exception** et 
-leurs partenaires ont fêté malgré le temps maussade (mais de saison)
+Depuis le 21 mars 2017, les acteurs de **Bercé Forêt d’Exception** 
+fêtent avec régularité (sauf en cas de COVID)
 
 ***la Journée Internationale des forêts***.
 
-**Rendez-vous désormais en mars prochain pour la 6ème édition de la JIF 2024 !**
+**Rendez-vous désormais en mars prochain pour la 7ème édition : la JIF 2025 !**
 
 Bercé fait depuis le 17ème siècle l’objet de l’attention sans 
 faille des forestiers qui en ont la charge.
