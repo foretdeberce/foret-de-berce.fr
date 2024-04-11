@@ -42,6 +42,49 @@ Les cultivateurs mirent en place les premiers parcellaires ou enclos.
 *Notre région éminemment forestière offre en pleine "Paix Romaine" une insécurité totale, 
 car cultivée suivant le mode Celtique, par clairières isolées.* Marc Bloch
 
+À l’époque des peuples gaulois, la Gaule s’étendait sur le territoire de la France, mais aussi en Belgique,
+en Suisse et une partie de l’Allemagne actuelle. 
+Ce vaste territoire était maillé de différents peuples dont la culture et les origines différaient. 
+Ils n’avaient ni la même nourriture, ni les mêmes chefs gaulois, 
+ni la même organisation politique.
+
+Les Gaulois sont issus des Celtes qui se sont installés à l’ouest de l’Europe pour donner naissance à la Gaule. 
+Tous les Gaulois sont donc issus des Celtes, mais par la suite, 
+ils se sont constitués en tribus en lien avec le territoire.
+
+Malgré l’opposition aux Romains, certains groupements vont s’assimiler à l’Empire.
+Des forts relais avaient été établis par décret de l'empereur pour protéger 
+la voie romaine  "Via Agrippa"  (route de Tours) construite en 40 après.J.C. 
+
+Trois des cinq villes, portant le nom de Sermaise en France le doivent à ces établissements militaires. 
+Ils avaient l'appellation première de "Sarmatia" ou "fundum" (fondation).
+
+Il faut savoir que le nombre de soldats Sarmates envoyés dans ces relais 
+était estimé à environ 500 individus. 
+
+     Aux environs de l'an 300, le royaume des Sarmates qui s'étendait de la Mer Baltique 
+     au nord et à la Mer Noire au sud a été détruit par les Gohts. 
+     Pourchassés par ces derniers, ils font partie des peuples orientaux qui ont pris part
+     aux grandes migrations précédent la chute de l'Empire Romain.
+     Venus du Haut Caucase près des bords de la Mer Noire, 
+     ils se sont naturellement installés sur les hauteurs, aidés en cela par 
+     l'implantation militaire précédente et y ont fondé des villages!
+
+Voilà donc des Sarmates combattant dans l’armée romaine.
+Ils et elles y apporteront leurs techniques et leur équipement. 
+Et lorsque l’Empire chute, le peuple finit par se soumettre aux Goths, 
+puis ensuite aux Huns, bien plus tard.
+
+En 376, les Sarmates de la Mer noire s’allièrent aux Huns pour détruire
+le royaume des Goths et prirent part aux invasions hunniques du Ve siècle en Europe occidentale.
+    
+     
+     Sous Louis XIV, dans certaines familles souches de la région, 
+     on trouvait encore lors de naissances quelques individus aux
+     yeux bridés et au teint mat issus des grandes migrations 
+     qui ont accompagné ces nombreux mouvements de population.
+
+
 Vers *l'An mil*, l'implantation de colonies religieuses en forêt marque 
 aussi le début des grands défrichements médiévaux. 
 
