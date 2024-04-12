@@ -133,9 +133,14 @@ Ceux-ci ont été miraculeusement épargnés par la désormais célèbre tempêt
 {{<figure src="/images/articles/p180-20230208.jpg" title="Le chêne Sermaize">}}
  
 Dit aussi *Chêne Seul* ou *Chêne Parapluie*.
-Dans la parcelle 180, nous avons à faire à un chêne droit,
-très droit, haut très haut :34,60 m. Gros, très gros: 308 cm de circonférence.
+Dans la parcelle 180, nous avons à faire
+à un chêne droit,très droit,
+haut, très haut :34,60 m. 
+Gros, très gros: 308 cm de circonférence.
 Premier nœud à 16 m. 
+
+Témoignage d'un ancien forestier de Bercé:  [Jean-François Clémence raconte le chêne Sermaise](/articles/pdf/ chenesermaise.pdf)
+
 Seulement 355 ans en 2024 et qui dépasse tous ses congénères d’une tête.   
  
 {{<figure src="/images/articles/sermaize.jpg" title="Le chêne Sermaize">}}
