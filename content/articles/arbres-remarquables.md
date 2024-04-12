@@ -139,7 +139,7 @@ haut, très haut :34,60 m.
 Gros, très gros: 308 cm de circonférence.
 Premier nœud à 16 m. 
 
-Témoignage d'un ancien forestier de Bercé:  [Jean-François Clémence raconte le chêne Sermaise](/articles/pdf/ chenesermaise.pdf)
+Témoignage d'un ancien forestier de Bercé:  [Jean-François Clémence raconte le chêne Sermaise](/articles/pdf/chenesermaise.pdf)
 
 Seulement 355 ans en 2024 et qui dépasse tous ses congénères d’une tête.   
  
