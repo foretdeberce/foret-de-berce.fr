@@ -134,9 +134,13 @@ Ceux-ci ont été miraculeusement épargnés par la désormais célèbre tempêt
  
 Dit aussi *Chêne Seul* ou *Chêne Parapluie*.
 Dans la parcelle 180, nous avons à faire
-à un chêne droit,très droit,
-haut, très haut :34,60 m. 
+
+A un chêne droit,très droit.
+
+Haut, très haut :34,60 m. 
+
 Gros, très gros: 308 cm de circonférence.
+
 Premier nœud à 16 m. 
 
 Témoignage d'un ancien forestier de Bercé:  [Jean-François Clémence raconte le chêne Sermaise](/articles/pdf/chenesermaise.pdf)
