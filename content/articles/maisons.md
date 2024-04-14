@@ -7,6 +7,11 @@ featured_image: "/images/tasse-chasse.jpg"
 tags: ["Forestiers","MF","Hommes"]
 ---
 
+
+## A propos 
+
+[à propos du bâti forestier](/articles/pdf/aproposdubatiforestier.pdf)
+
 *« L'Administration des forêts a toujours considéré la construction 
 de maisons forestières comme indispensable pour assurer, en même temps
 que la répression des délits, la surveillance incessante 
