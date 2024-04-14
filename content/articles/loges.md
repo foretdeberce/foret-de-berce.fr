@@ -7,6 +7,11 @@ featured_image: "/images/et.verneil97.jpg"
 tags: ["Topographie","Cartographie","Routes","Ronds"] 
 ---
 
+## A propos 
+
+[à propos du bâti forestier](/articles/pdf/aproposdubatiforestier.pdf)
+
+
 ### L’âme des lieux
 
  Les loges forestières qui agrémentent ces Ronds, 
