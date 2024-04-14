@@ -7,6 +7,10 @@ featured_image: '/images/et.2005.jpg'
 tags: ["Arbre","Météo","Pluie","Froid","Feux"]
 ---
 
+## A propos 
+
+[à propos du climat](/articles/pdf/aproposduclimat.pdf) 
+
 La hauteur des sources, l’absence de glandée ou de faînée, les plaies sur les arbres, 
 l’importance des récoltes de champignons, l’arrivée ou le départ de la faune sont 
 autant de signes qui nous renseignent sur les aléas climatiques.
