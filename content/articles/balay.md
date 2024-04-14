@@ -7,6 +7,10 @@ featured_image: "/images/et.109b21.jpg"
 tags: ["Travaux","Coupes","Hommes",""]
 ---
 
+## A propos 
+
+[à propos du bâti forestier](/articles/pdf/aproposdubatiforestier.pdf)
+
 **La loge de l’atelier ou du chantier**
 
 La forêt-abri est la fonction la plus ancienne des massifs forestiers. 
