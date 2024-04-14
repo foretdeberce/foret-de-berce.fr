@@ -7,6 +7,11 @@ featured_image: "/images/cartegenerale.jpg"
 tags: ["Tourisme","Lieux","Paysage"]
 ---
 
+
+## A propos 
+
+[à propos de sa situation](/articles/pdf/aproposdesasituation.pdf)
+
 Pour ne rien perdre de vos ballades, voici quelques cartes 
 touristiques de Bercé.
 
