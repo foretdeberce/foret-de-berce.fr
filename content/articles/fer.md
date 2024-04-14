@@ -8,6 +8,10 @@ tags: ["Tourisme","Archéologie","Aménagement","Sylviculture","Exploitation"]
 ---
 
 
+## A propos 
+
+[à propos de la métallurgie](/articles/pdf/aproposdelametallurgie.pdf) 
+
 ### Au secondaire
 
 La région est sous les eaux. C’est la pleine époque du Cénomanien, les sables et argiles se déposent. 
