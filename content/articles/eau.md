@@ -7,6 +7,10 @@ featured_image: "/images/mare-en-foret.jpg"
 tags: ["eau","géologie","topographie","cartographie"] 
 ---
 
+## A propos 
+
+[à propos des chemins de l'eau](/articles/pdf/aproposdescheminsdeleau.pdf)
+
 **Eaux et Forêt….L’eau et Bercé**
 
 **les chemins de l’eau.** 
