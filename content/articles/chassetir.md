@@ -6,6 +6,10 @@ description: "Le mal nécessaire"
 featured_image: '/images/et.chasse00583.jpg'
 tags: ["Faune","Biodiversité","Chasse","Lois"]
 ---
+
+## A propos 
+
+[à propos de la chasse](/articles/pdf/aproposdelachasse.pdf)
  
 La chasse à tir …n’attire vraiment pas les photographes. 
 
