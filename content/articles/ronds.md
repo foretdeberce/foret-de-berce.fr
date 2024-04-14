@@ -6,6 +6,10 @@ description: "Ilot de civilisation au milieu d'un océan de verdure"
 featured_image: "/images/et.croixmarconnay.jpg"
 tags: ["Topographie","Cartographie","Carrières ","Hommes","Ronds"] 
 ---
+
+## A propos 
+
+[à propos des routes et chemins](/articles/pdf/aproposdesroutesetchemins.pdf) 
  
 {{<figure src="/images/articles/rond-wautot.jpg" title="Le rond Wautot.">}}
 
