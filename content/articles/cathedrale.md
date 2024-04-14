@@ -7,6 +7,10 @@ featured_image: "/images/et.notredamedeparis.jpg"
 tags: ["Arbres","Curiosités","hommes","travaux"]
 ---
 
+## A propos 
+
+[à propos de la sylviculture](/articles/pdf/aproposdelasylviculture.pdf)
+
 ### Par le passé déjà  en 1896 :
 
 Le mardi 7 juillet 1896 vers 19h15, 
