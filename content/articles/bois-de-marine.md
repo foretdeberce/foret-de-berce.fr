@@ -11,6 +11,8 @@ tags: ["Exploitation","Travaux","Hommes"]
 
 [à propos de la sylviculture](/articles/pdf/aproposdelasylviculture.pdf)
 
+[à propos de sa renommée](/articles/pdf/aproposdesarenommee.pdf) 
+
 Le bois de marine représente l’archétype de l’éternel 
 décalage entre l’action présente des forestiers
 et les besoins futurs des générations montantes…
