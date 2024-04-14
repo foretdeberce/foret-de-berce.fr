@@ -8,6 +8,11 @@ tags: ["Histoire","Guerres","Armement"]
 ---
 
 
+## A propos 
+
+[à propos des guerres](/articles/pdf/aproposdesguerres.pdf)
+
+
 La guerre de 1870 passée, les personnels s’activent pour une défense passive.
 Les combattants sont revenus épuisés des lignes de front,
 mais auréolés par les médailles et récompenses.
