@@ -7,6 +7,10 @@ featured_image: '/images/et.099b1008.jpg'
 tags: ["Faune","Biodiversité","Chasse","Lois"]
 ---
 
+## A propos 
+
+[à propos de la chasse](/articles/pdf/aproposdelachasse.pdf)
+
 En Bercé depuis l’origine des temps, les battues et la chasse en elles même, 
 sont un mal nécessaire. De tout temps on chasse les bêtes fauves en Bercé.
 La survie des jeunes reboisements, des régénérations naturelles, 
