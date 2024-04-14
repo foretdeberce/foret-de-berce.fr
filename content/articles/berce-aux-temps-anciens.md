@@ -7,6 +7,10 @@ featured_image: "/images/et.cartecassini.jpg"
 tags: ["Histoire","archeologie","toponymie"]
 ---
 
+## A propos 
+
+[à propos de son histoire](/articles/pdf/aproposdesonhistoire.pdf) 
+
 ### Un peu d’Histoire…
 
 À mi chemin entre Le Mans et Tours, lambeau de l’antique forêt de la gaule chevelue, 
