@@ -7,6 +7,10 @@ featured_image: '/images/et.chasseverneil.jpg'
 tags: ["Faune","Biodiversité","Chasse","Lois"]
 ---
 
+## A propos 
+
+[à propos de la chasse](/articles/pdf/aproposdelachasse.pdf)
+
 ### Au Néolithique et durant l'Antiquité :
 
 La chasse telle une cueillette, est libre et peut être pratiquée par tous :
