@@ -7,6 +7,11 @@ featured_image: "/images/tourisme1973.jpg"
 tags: ["Remarquables","Tourisme","Hommes","Tramway","Hermitiere","Coudre","Boppe"]
 ---
 
+
+## A propos 
+
+[à propos du tourisme](/articles/pdf/aproposdutourisme.pdf)
+
 ### 3 Avril 1905
 
 Dès le xxe siècle, le tourisme se développe avec les avancées techniques et 
