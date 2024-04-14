@@ -7,6 +7,11 @@ featured_image: "/images/et.routes.jpg"
 tags: ["Topographie","Cartographie","Carrières ","Ronds"]  
 ---
 
+
+## A propos 
+
+[à propos des routes et chemins](/articles/pdf/aproposdesroutesetchemins.pdf) 
+
 ## Au début de notre ère :
 
 {{<figure src="/images/articles/france.jpg" title="Première carte de l'ouest de la France">}}
