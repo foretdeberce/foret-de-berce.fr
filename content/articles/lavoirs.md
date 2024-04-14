@@ -8,7 +8,13 @@ tags: ["Tourisme"," MF ","Biodiversite","Eau","Hommes"]
 ---
 
 
-La création des lavoirs fut particulièrement importante entre 1820 et 1880 
+## A propos 
+
+[à propos des chemins de l'eau](/articles/pdf/aproposdescheminsdeleau.pdf)
+
+**La création des lavoirs**
+
+fut particulièrement importante entre 1820 et 1880 
 en forêt de Bercé. La fontaine de la Coudre, Sermaize, Sources de l'Hermitière, 
 et sur les terrains des maisons forestières les lavoirs fleurissent.
 
