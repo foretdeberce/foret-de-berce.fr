@@ -7,6 +7,10 @@ featured_image: '/images/et.130585bj01.jpg'
 tags: ["Faune","Biodiversité","Chasse","Lois"]
 ---
 
+## A propos 
+
+[à propos de la chasse](/articles/pdf/aproposdelachasse.pdf)
+
 ## Étymologie et Histoire ##
 
 Le mot "braconnier" a une origine incertaine, mais il est probablement dérivé du mot français "bracon" qui signifiait à l'origine "brasier" ou "feu de broussailles". 
