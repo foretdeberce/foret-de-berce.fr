@@ -7,6 +7,10 @@ featured_image: '/images/et.1981p251.jpg'
 tags: ["Remarquables","Arbre"]
 ---
 
+## A propos 
+
+[à propos des géants](/articles/pdf/aproposdesgeants.pdf)
+
 *L'arbre remarquable n'est pas seulement un arbre d'élite que sa taille ou sa forme distingue de
 tous les autres. C'est aussi l'arbre consacré par une histoire et qu'une collectivité humaine reconnaît
 comme un élément de son patrimoine*
