@@ -7,6 +7,11 @@ featured_image: "/images/antenne-mayet.jpg"
 tags: ["Remarquables","Curiosités","Monument"]
 ---
 
+
+## A propos 
+
+[à propos de sa situation](/articles/pdf/aproposdesasituation.pdf)
+
 ### Un monument de Bercé ... Le pylône de Mayet
 
 Bercé, cet océan de verdure, se devait bien de posséder 
