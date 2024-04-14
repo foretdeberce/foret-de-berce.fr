@@ -7,6 +7,11 @@ featured_image: "/images/ouest-eclair.jpg"
 tags: ["Remarquables","Tourisme","Hommes","Tramway","Hermitiere","Coudre","Boppe"]
 ---
 
+
+## A propos 
+
+[à propos de sa situation](/articles/pdf/aproposdesasituation.pdf)
+
 ### Paysages forestiers
 
 Le paysage sylvicole de Bercé est peu représenté seul sur 
