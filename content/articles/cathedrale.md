@@ -11,6 +11,9 @@ tags: ["Arbres","Curiosités","hommes","travaux"]
 
 [à propos de la sylviculture](/articles/pdf/aproposdelasylviculture.pdf)
 
+
+[à propos de sa renommée](/articles/pdf/aproposdesarenommee.pdf) 
+
 ### Par le passé déjà  en 1896 :
 
 Le mardi 7 juillet 1896 vers 19h15, 
