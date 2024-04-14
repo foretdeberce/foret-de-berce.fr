@@ -12,6 +12,8 @@ tags: ["Remarquables","Tourisme","Hommes","Tramway","Hermitiere","Coudre","Boppe
 
 [à propos de sa situation](/articles/pdf/aproposdesasituation.pdf)
 
+[à propos du tourisme](/articles/pdf/aproposdutourisme.pdf)
+
 ### Paysages forestiers
 
 Le paysage sylvicole de Bercé est peu représenté seul sur 
