@@ -7,6 +7,10 @@ featured_image: "/images/et.chateau.jpg"
 tags: ["Chateau","Eau","Archeologie","Forestiers","Histoire"]
 ---
 
+## A propos 
+
+[à propos de son histoire](/articles/pdf/aproposdesonhistoire.pdf) 
+
 ### La vallée de l’Hermitière, est un lieu riche en vestiges. 
 
 Les vastes parties boisées du département ont conservé 
