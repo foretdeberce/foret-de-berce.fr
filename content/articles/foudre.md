@@ -7,6 +7,10 @@ featured_image: "/images/et.finthuir4.jpg"
 tags: ["Tourisme","Exploitations","Arbres","Curiosités"]
 ---
 
+## A propos 
+
+[à propos de sa renommée](/articles/pdf/aproposdesarenommee.pdf) 
+
 ## Tonnerre de Brest….
 
 un foudre issu de Bercé ! 
