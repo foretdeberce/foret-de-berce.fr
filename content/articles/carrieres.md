@@ -6,6 +6,10 @@ description: "L'exploitation de la pierre"
 featured_image: "/images/et.carrieres2023.jpg"
 tags: ["Tourisme","Loisirs","Biodiversite","Eau","Légende","Hommes"]
 ---
+
+## A propos 
+
+[à propos des routes et chemins](/articles/pdf/aproposdesroutesetchemins.pdf) 
  
 **L’ouverture des carrières est subordonnée aux arrêtés préfectoraux.**
 
