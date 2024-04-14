@@ -7,6 +7,10 @@ featured_image: '/images/annamite.jpg'
 tags: ["Exploitation","Travaux","Hommes"]
 ---
 
+## A propos 
+
+[à propos de la sylviculture](/articles/pdf/aproposdelasylviculture.pdf)
+
 Le bois de marine représente l’archétype de l’éternel 
 décalage entre l’action présente des forestiers
 et les besoins futurs des générations montantes…
