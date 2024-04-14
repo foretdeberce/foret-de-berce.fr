@@ -6,6 +6,12 @@ description: "Depuis 1863"
 featured_image: "/images/et.hubert1917.jpg"
 tags: ["Histoire", "Route","Rond"]
 ---
+
+## A propos 
+
+[à propos du tourisme](/articles/pdf/aproposdutourisme.pdf)
+
+
 Situé en bordure de voie romaine sur la départementale le Mans/Tours :
 
 **La N138 deviendra D338.**
