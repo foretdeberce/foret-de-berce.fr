@@ -7,6 +7,10 @@ featured_image: "/images/et.lienpps.jpg"
 tags: ["Tourisme","Lieux","Paysage","Hommes"]
 ---
 
+## A propos 
+
+[à propos de son histoire](/articles/pdf/aproposdesonhistoire.pdf) 
+
 ### La fête des forêts
 
 Depuis le 21 mars 2017, les acteurs de **Bercé Forêt d’Exception** 
