@@ -7,6 +7,10 @@ featured_image: "/images/futaie.jpg"
 tags: ["Exploitation","Aménagement"]
 ---
 
+## A propos 
+
+[à propos de la sylviculture](/articles/pdf/aproposdelasylviculture.pdf)
+
 Jacques Lacarrière disait de nos forêts :
 
 **...Depuis des siècles, les arbres sont davantage l’œuvre des hommes que celle de la nature ... 
