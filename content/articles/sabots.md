@@ -6,6 +6,10 @@ description: " L'industrie locale "
 featured_image: "/images/et.sabots.jpg"
 tags: ["Bûcherons","artisans","Boisiers","travaux"]
 ---
+
+## A propos 
+
+[à propos de sa renommée](/articles/pdf/aproposdesarenommee.pdf) 
  
 ### La saga du sabot 
 
