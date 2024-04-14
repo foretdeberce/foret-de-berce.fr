@@ -7,6 +7,10 @@ featured_image: "/images/et.lidar.jpg"
 tags: ["Tourisme","Archéologie","Aménagement","Sylviculture","Curiosités"]
 ---
 
+## A propos 
+
+[à propos des découvertes archéologiques](/articles/pdf/aproposdesdecouvertesarcheologiques.pdf)
+
 ### La forêt n'a pas toujours été là ...
 
 Et elle n'est pas naturelle car entièrement façonnée par l'homme.
