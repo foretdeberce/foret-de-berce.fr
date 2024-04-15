@@ -124,7 +124,8 @@ Montage de la forêt...**(6'01)**
 
 {{<youtube id="xak8163E-LM">}} 
 
-     Du bois vert dans les charpentes
+**Du bois vert dans les charpentes**
+
      L'analyse des bois de la "forêt" de Notre-Dame, 
      ce maillage dense de charpentes, a également 
      révélé que les bois avaient été installés 
