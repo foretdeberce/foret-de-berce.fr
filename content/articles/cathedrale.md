@@ -124,6 +124,32 @@ Montage de la forêt...**(6'01)**
 
 {{<youtube id="xak8163E-LM">}} 
 
+     Du bois vert dans les charpentes
+     L'analyse des bois de la "forêt" de Notre-Dame, 
+     ce maillage dense de charpentes, a également 
+     révélé que les bois avaient été installés 
+     encore verts puis séchaient sur place. 
+     
+     "Nous avons pu dater des bois de 1185 alors 
+     que la première cérémonie dans la cathédrale s'est 
+     déroulée en 1183", explique Philippe Dillmann.
+     
+     Cette découverte suscite de nouvelles questions
+     sur la construction de l'édifice.
+     
+     "Le bois jeune est certes plus facile à travailler
+     que le bois sec, mais il faut alors prendre en compte
+     son séchage et la façon dont il va travailler ensuite."
+     
+     Des fissures apparaissent sur la longueur, sans toutefois
+     affecter la rigidité et la résistance des poutres, ont 
+     mis en lumière des spécialistes du groupe '"bois'", 
+     l'une des huit équipes thématiques mises en place par 
+     le CNRS et le ministère de la Culture.
+     
+     (franceinfo - France Télévisions -  Publié le 15/04/2024 06:03)
+
+
 
 ## Autres articles concernant les productions forestières: ## 
 
