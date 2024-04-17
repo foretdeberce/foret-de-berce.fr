@@ -126,6 +126,19 @@ Cette société avait comme président Mr le Comte d’Andigné et comme sociét
 
 Invitée [Mme la Duchesse d’Uzès](/articles/pdf/duchesse-uzes.pdf).
 
+     La duchesse d'Uzès 
+     (Anne de Rochechouart de Mortemart), 
+     a été la première femme française à passer, 
+     et obtenir le 22 avril 1898, son brevet de 
+     conductrice d'automobile. 
+     Mais moins de deux mois plus tard,
+     la duchesse se montre pionnière 
+     dans un autre domaine en étant la première 
+     femme verbalisée pour un excès de vitesse 
+     dans la traversée du bois de Boulogne :
+     
+     15km/h au lieu de 12km/h !
+
 ### 1891 : 
   
 Co-fermier du courre : M. le duc Agénor de Gramont (Château de Mangé - rallye Vallière). 
