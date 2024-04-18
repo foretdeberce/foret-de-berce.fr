@@ -127,10 +127,16 @@ Cette société avait comme président Mr le Comte d’Andigné et comme sociét
 Invitée [Mme la Duchesse d’Uzès](/articles/pdf/duchesse-uzes.pdf).
 
      La duchesse d'Uzès 
-     (Anne de Rochechouart de Mortemart), 
-     a été la première femme française à passer, 
+     (Marie Adrienne Anne Victurnienne Clémentine 
+     de Rochechouart de Mortemart),
+     était l'arrière-petite-fille 
+     de la célèbre Veuve Clicquot.
+     Elle devient duchesse d’Uzès à 20 ans en épousant
+     Emmanuel de Crussol d’Uzès.
+     Elle fut la première femme française à passer, 
      et obtenir le 22 avril 1898, son brevet de 
-     conductrice d'automobile. 
+     conductrice d'automobile sur 
+     sa Delahaye bicylindre de type 1. 
      Mais moins de deux mois plus tard,
      la duchesse se montre pionnière 
      dans un autre domaine en étant la première 
