@@ -141,9 +141,11 @@ Invitée [Mme la Duchesse d’Uzès](/articles/pdf/duchesse-uzes.pdf).
      la duchesse se montre pionnière 
      dans un autre domaine en étant la première 
      femme verbalisée pour un excès de vitesse 
-     dans la traversée du bois de Boulogne :
+     dans la traversée du bois de Boulogne
+     (en compagnie de son fils):
      
      15km/h au lieu de 12km/h !
+     Amende : 28 francs...
 
 ### 1891 : 
   
