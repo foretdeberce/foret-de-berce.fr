@@ -52,11 +52,28 @@ Elle offrira 8 de ses plus grands chênes.
 Les bois de Bercé serviront avec d'autres provenant de diverses forêts françaises
 à bâtir au printemps 2023, le tabouret qui supportera la flèche.
 
-1700 grumes de chênes proviendront des forêts domaniales.
-491 grumes seront utilisées pour la reconstitution de la
-flèche de Viollet le Duc et les charpentes des transepts.
-Les 1200 restantes serviront à reconstruire les charpentes
-du 13ème siècle de la nef et du chœur.
+     Les besoins sont énormes : 
+     2000 chênes
+     qui proviennent 
+     pour moitié de forêts 
+     publiques et 
+     pour moitié de forêts privées.
+     
+     1700 grumes  de chênes 
+     proviendront des forêts 
+     domaniales et communales.
+     491 grumes seront utilisées 
+     pour la reconstitution de la
+     flèche de Viollet le Duc et les
+     charpentes des transepts.
+     Les 1200 restantes serviront 
+     à reconstruire les charpentes
+     du 13ème siècle de la nef et 
+     du chœur.
+     
+     *grume : (partie du tronc).
+
+
 
 {{<figure src="/images/articles/flechecathedrale.jpg" title="Les différents éléments de la flèche - croquis des architectes">}}
 
