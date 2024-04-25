@@ -23,7 +23,7 @@ La longévité des arbres leur permet d'être les témoins de l'histoire humaine
 La fascination qu'ils exercent tient beaucoup à cette mémoire qu’ils portent en eux, 
 celle des événements du temps où l'on n'était pas là.
 
-## Les records du Nouveau Monde.
+## Les records du Nouveau et de l'ancien Monde.
 
 {{<youtube id="hMdzzjF9OLo">}}
 
