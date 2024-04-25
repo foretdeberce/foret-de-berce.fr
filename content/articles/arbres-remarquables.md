@@ -23,6 +23,13 @@ La longévité des arbres leur permet d'être les témoins de l'histoire humaine
 La fascination qu'ils exercent tient beaucoup à cette mémoire qu’ils portent en eux, 
 celle des événements du temps où l'on n'était pas là.
 
+## Les records du Nouveau Monde.
+
+{{<youtube id="hMdzzjF9OLo">}}
+
+Les plus hauts et les plus vieux sont bien souvent 
+situés de l'autre côté de l'Atlantique **(9'13)**
+
 Par circulaire du 29 juin 1899, le directeur général des Eaux et Forêts demandait à
  tous les conservateurs des forêts françaises de protéger 
  
