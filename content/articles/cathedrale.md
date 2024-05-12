@@ -146,7 +146,14 @@ L'histoire de la restitution à l'identique de la charpente. **(26'17)**
 
 Montage de la forêt...**(6'01)**
 
-{{<youtube id="xak8163E-LM">}} 
+{{<youtube id="xak8163E-LM">}}
+
+**Mai 2024**
+
+La dernière ligne droite ... **(7'19)**
+
+{{<youtube id="Z6QAUV7GQUg">}}
+
 
 **Du bois vert dans les charpentes**
 
