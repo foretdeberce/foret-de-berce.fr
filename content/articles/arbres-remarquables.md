@@ -25,7 +25,8 @@ celle des événements du temps où l'on n'était pas là.
 
 ## Les records du Nouveau et de l'ancien Monde.
 
-les chênes de Bercé sont les plus hauts du monde (50m) !!!
+les chênes de Bercé sont les plus hauts du monde.
+Plus de 50m dans l'Hermitière !!!
 
 
 Mais jusqu'à quelle hauteur, 
