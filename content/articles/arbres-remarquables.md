@@ -25,27 +25,38 @@ celle des événements du temps où l'on n'était pas là.
 
 ## Les records du Nouveau et de l'ancien Monde.
 
-{{<youtube id="hMdzzjF9OLo">}}
+les chênes de Bercé sont les plus hauts du monde (50m) !!!
+
+
+Mais jusqu'à quelle hauteur, 
+les arbres peuvent-ils ainsi grimper ? **(1'18)**
+
+{{<youtube id="VB4CrRbqqKg">}}
 
 Les plus hauts et les plus vieux sont bien souvent 
 situés de l'autre côté de l'Atlantique **(9'13)**
 
-Par circulaire du 29 juin 1899, le directeur général des Eaux et Forêts demandait à
- tous les conservateurs des forêts françaises de protéger 
+{{<youtube id="hMdzzjF9OLo">}}
+
+
+Par circulaire du 29 juin 1899, 
+le directeur général des Eaux et Forêts demandait à
+tous les conservateurs des forêts françaises de protéger 
+
+     «…les arbres renommés dans la contrée soit par 
+     les souvenirs historiques ou légendaires qui 
+     s’y rattachent, soit par l'admiration qu'inspirent 
+     la majesté de leur port, leurs dimensions
+     exceptionnelles ou leur âge vénérable».
  
 {{<figure src="/images/articles/note1899.jpg" title="directive sur les arbres remarquables">}}
 
-            «…les arbres renommés dans la contrée soit par 
-            les souvenirs historiques ou légendaires qui 
-            s’y rattachent, soit par l'admiration qu'inspirent 
-            la majesté de leur port, leurs dimensions
-            exceptionnelles ou leur âge vénérable».
- 
-{{<figure src="/images/articles/tableau.jpg" title="Tableau des arbres remarquables">}}
 
 En forêt de Bercé existent des arbres commémoratifs, devenus remarquables
 par une décision humaine. 
- 
+
+{{<figure src="/images/articles/tableau.jpg" title="Tableau des arbres remarquables">}}
+
 Ces arbres monumentaux le sont au sens de *«ce qui rappelle le souvenir d'un homme ou d'un événement»*.
  
 {{<figure src="/images/articles/arbres-remarquables.jpg" title="Un arbre remarquable">}}
