@@ -20,6 +20,8 @@ tags: ["Faune","Biodiversité"]
 Sans doute le plus dangereux de nos protagonistes,
 bien présent dès les premiers beaux jours.
 
+Comment échapper à l'épidémie ?
+
 **[Voici le pédigrée de cet insecte ravageur](/articles/pdf/anti_tique.pdf)**
 
 *« Parler de biodiversité en forêt ne peut s’envisager 
