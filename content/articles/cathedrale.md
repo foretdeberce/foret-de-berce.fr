@@ -181,7 +181,9 @@ La dernière ligne droite ... **(7'19)**
      
      (franceinfo - France Télévisions -  Publié le 15/04/2024 06:03)
 
+Ébéniste... Un métier d'art au service du beau ... **(4'16)**
 
+{{<youtube id="8F3Wkgd-3fU">}}
 
 ## Autres articles concernant les productions forestières: ## 
 
