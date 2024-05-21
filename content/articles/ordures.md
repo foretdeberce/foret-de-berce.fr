@@ -56,6 +56,8 @@ Quelques foyers infectieux subsistent çà et là,
 {{<figure src="/images/articles/dechets2011.jpg" title="Un don à Dame Nature">}}
   
 {{<figure src="/images/articles/vauxdupuits.jpg" title="Parfois discrets … mais toujours encombrants">}}
+
+http://pascal-corbin72.overblog.com/2024/05/un-depot-sauvage-en-foret-de-berce.html
   
 Fort heureusement les enquêtes menées par le 
 service forestier mènent parfois à leur condamnation.
@@ -63,7 +65,9 @@ service forestier mènent parfois à leur condamnation.
 ### L’embellie
   
 Quelques associations se mobilisent régulièrement vers le rond des Forges
-pour effacer toutes traces du passage de l’homme telle :
+pour effacer toutes traces du passage de l’homme.
+
+L'une d'entre elles, recense en france toutes ces incivilités !
  
 **https://www.clean4green.org/**
 
