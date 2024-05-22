@@ -438,7 +438,7 @@ un concept très particulier de sylviculture.
       qui … elle, a en ce moment le vent en poupe ! 
       
 Mais l’Histoire comme chacun le sait est un éternel recommencement et
-récemment, la Recouvrance dès 1992 [la Recouvrance dès 1992](/articles/pdf/pinsduboisdemarine.pdf)
+récemment, [la Recouvrance dès 1992](/articles/pdf/pinsduboisdemarine.pdf)
 puis l’Hermione en réparation ont renoué avec la tradition.      
    
 Ainsi les "charpentiers du Guip" (l'île aux Moines et Brest) 
