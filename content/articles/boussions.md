@@ -104,7 +104,9 @@ Pierre Rimasson et Marie.
   
 {{<figure src="/images/articles/20171018boussions.jpg" title="Maquette des Boussions">}}
   
-Gaston Fivaz, (forestier centenaire) nostalgique des Boussions a réalisé cette maquette.
+Gaston Fivaz, (forestier centenaire, 102 ans, décédé le 13 août 2023) 
+était un nostalgique des Boussions.
+Il a réalisé cette maquette.
   
 **Le 26 septembre 1955 :**
   
