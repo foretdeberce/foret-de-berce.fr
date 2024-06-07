@@ -162,11 +162,16 @@ La scierie Ballion dispose d’un excellent tracteur le Hürlimann
            
 Au fil du temps l’entreprise se sédentarisera sur Pruillé. 
 Elle a été depuis le décès d’Émile en décembre 1987, 
-reprise par ses fils puis par les Scieries du Maine. 
+reprise par ses fils puis par les Scieries du Maine.
 Ces ateliers disparurent progressivement ...
 L'après-guerre sera l'occasion de constater des mutations 
 qui vont transformer les travaux forestiers. 
-       
+
+La scierie Ballion a été depuis le décès d’Émile en décembre 1987, 
+reprise par ses fils puis par les Scieries du Maine.
+
+[Michel Ménard (Scieries du Maine) a repris en main la scierie Ballion, jusqu'à son decès en 2024.](/articles/pdf/necrologiemenard.pdf)
+
 {{<figure src="/images/articles/pierreballion.jpg" title="Pierre, Georges, Marc Ballion et leurs ouvriers">}}
 
 Les tronçonneuses à deux hommes puis à un homme -
