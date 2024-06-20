@@ -157,10 +157,12 @@ L’empreinte du marteau de l’État telle que nous la connaissons aujourd’hu
      Le flachis de la marque au pied est quand
      à elle faite en premier (pour ne pas l’oublier)
   
-    (3) – Empreinte du marteau de l’État N°1.
+     (3) – Empreinte du marteau de l’État N°1.
      L’arbre abandonné doit être obligatoirement
      porteur de celle-ci.
 
+     
+["Généralités sur le marteau forestier à travers les âges"](/articles/pdf/marteauxforestiersversion5.pdf) 
 
 {{<figure src="/images/articles/goenvec.jpg" title="Louis Goenvec, mon collègue Breton, en action de martelage">}}
 
