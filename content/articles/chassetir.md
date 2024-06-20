@@ -28,6 +28,8 @@ chasse à courre, chasse spectacle par excellence.
 Depuis la révolution, la chasse n’appartient plus à un seul homme
 … le roi.
 
+["Des forêts de la couronne... aux chasses présidentielles"](/articles/pdf/lesforetsdelacouronneversion9.pdf)
+
 Les adjudicataires du tir sont en forêt Domaniale de Bercé désormais,
 et suite aux adjudications publiques, propriétaires d'un bail de
 chasse qui leur est personnel.
