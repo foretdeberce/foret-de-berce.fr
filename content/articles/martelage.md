@@ -162,7 +162,9 @@ L’empreinte du marteau de l’État telle que nous la connaissons aujourd’hu
      porteur de celle-ci.
 
      
-["Généralités sur le marteau forestier à travers les âges"](/articles/pdf/marteauxforestiersversion5.pdf) 
+["Généralités sur le marteau forestier à travers les âges (partie 1)"](/articles/pdf/marteauxforestiersversion5.pdf)
+
+["Généralités sur le marteau forestier à travers les âges (partie 2)"](/articles/pdf/marteauxforestiersversion6.pdf)
 
 {{<figure src="/images/articles/goenvec.jpg" title="Louis Goenvec, mon collègue Breton, en action de martelage">}}
 
