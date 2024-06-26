@@ -119,7 +119,7 @@ L’équipe est composée des préposés (ou gardes qui tiennent marteaux et com
 ### Les marteaux 
   
 **Le marteau particulier et le marteau chablis.** 
-  
+
 Chaque garde était propriétaire, donc responsable de l’utilisation de son propre
   marteau particulier qui servait uniquement à la reconnaissance des souches 
   exploitées et des délits reconnus. 
@@ -130,6 +130,8 @@ Chaque garde était propriétaire, donc responsable de l’utilisation de son pr
   par JOUAUX »*. 
   L’empreinte du marteau particulier du garde forestier cantonnier est ovale, 
   toutes les autres sont carrées
+
+  ["Les marteaux forestier, sujet traité par Alain Macaire"](/articles/pdf/marteauxparticuliersalainmacaire.pdf)  
   
 {{<figure src="/images/articles/hach.jpg" title="Le marteau particulier">}}
   
