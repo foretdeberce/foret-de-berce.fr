@@ -173,6 +173,10 @@ gardes cantonniers.
 
 
 ### En 1860
+     
+À Cherbourg, on arme **"La Sarthe"** :
+     
+ [La flotte de Napoléon III](/articles/pdf/lasarthe.pdf)   
 
 À la lecture des premiers livrets journaliers, en 1860 on rentre dans le vif du sujet.
 Tous les cantons boisés en feuillus de Bercé dans lesquels l’on ouvre les parcelles
@@ -225,21 +229,6 @@ le garde MASSERON *«… recommande de faire mettre
 les copeaux d’écarifsage et les souches des pièces 
 de marine, au fur et à mesure du déculage des arbres.»* 
 
-### 1860 : 
-     
-À Cherbourg, on arme **"La Sarthe"** :
-     
-     un bâtiment de servitude
-     (coque en bois, gréé en trois-mâts)
-     de type Annamite. (photo du haut de page)
-     La flotte de Napoléon III s’enorgueillit,     
-     grâce à un approvisionnement de
-     bois provenant de Bercé, d’un navire 
-     armé dès 1863 pour la guerre de Cochinchine.
-     Après plusieurs rotations, il importera à 
-     son retour en 1884 la dernière épidémie de 
-     choléra en France. Au terme de sa mission,
-     en 1911, il sera démembré.
 
 ### En 1870 
      
