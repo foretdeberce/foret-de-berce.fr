@@ -176,7 +176,7 @@ gardes cantonniers.
      
 À Cherbourg, on arme **"La Sarthe"** :
      
- [La flotte de Napoléon III](/articles/pdf/lasarthe.pdf)   
+ [Caractéristiques du vaisseau "La Sarthe" faisant partie de la flotte de Napoléon III](/articles/pdf/lasarthe.pdf)   
 
 À la lecture des premiers livrets journaliers, en 1860 on rentre dans le vif du sujet.
 Tous les cantons boisés en feuillus de Bercé dans lesquels l’on ouvre les parcelles
