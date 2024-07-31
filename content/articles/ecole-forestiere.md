@@ -24,6 +24,18 @@ et de  Mr.  l’inspecteur des  Finances  ».*
  Cette  prestigieuse  École forme  à l’époque 
  Les Officiers Forestiers Brevetés.
  
+     Elle prendra au fil du temps 
+     d'autres dénominations :
+
+     1823 : École Royale Forestière.
+     1848 : École Nationale Forestière 
+     1853 : École Impériale Forestière.
+     1873 : École Nationale Forestière.
+     1898 : École Nationale des Eaux et Forêts.
+     1965 : École Nationale du Génie Rural, 
+            des Eaux et des Forêts (ENGREF).
+     2007 : AgroParisTech.
+ 
  
 {{<figure src="/images/articles/depart.jpg" title="Départ en tournée (1)">}}
  
