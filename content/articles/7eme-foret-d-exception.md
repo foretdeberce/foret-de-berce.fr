@@ -25,9 +25,9 @@ C'est officiel... le 18 mars 2017, Bercé devient la 7ème forêt d'exception...
 Après Fontainebleau, Verdun, La Grande Chartreuse, Rouen, Val Suzon et Montagne de Reims, Bercé est enfin
 la 7ème forêt labellisée.
 
-**Dix autres forêts** 
+**Dix sept autres forêts** 
 
-Attendent encore de recevoir ce précieux sésame, dont une en Martinique.
+Sont en attente ou parées de ce précieux sésame (dont une en Martinique).
 
     Depuis des siècles, les arbres sont davantage
     l’œuvre des hommes que celle de la nature.
