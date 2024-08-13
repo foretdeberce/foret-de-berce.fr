@@ -25,6 +25,19 @@ C'est officiel... le 18 mars 2017, Bercé devient la 7ème forêt d'exception...
 Après Fontainebleau, Verdun, La Grande Chartreuse, Rouen, Val Suzon et Montagne de Reims, Bercé est enfin
 la 7ème forêt labellisée.
 
+2024 renouvellement du Label "Forêt d'Exception".
+La forêt de Bercé s'est engagée dans de grands projets.
+
+Le 9 août 2024 Olivia Gay, violoncelliste (Ambassadrice du fonds de dotation "ONF-Agir pour la forêt)
+a sensibilisé le public à la vulnérabilité de nos forêts en donnant un récital. 
+
+Avec Aurélien Pontier, pianiste, ils ont joué à 4 mains, au coeur de la Coudre,
+quelques morceaux dont voici un petit aperçu. 
+
+
+{{<youtube id="REcsLYr7YSs">}}
+
+
 **Dix sept autres forêts** 
 
 Sont en attente ou parées de ce précieux sésame (dont une en Martinique).
