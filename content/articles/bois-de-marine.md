@@ -26,7 +26,7 @@ nécessaires à la construction des navires de guerre.
 Dans le Maine, la forêt de Bercé est pressentie. 
 
 Un vaisseau de première ligne requiert environ 
-4000 chênes de 1mᶟ soit quelques hectares de ce chêne 
+4000 chênes de 1mᶟ soit quelques hectares de forêt de chênes 
 dont on fait la coque, la quille, la contre quille, 
 la fausse quille et la couverture.
 En aucun cas ces pièces de Marine n’étaient destinées à la Mâture.
@@ -34,7 +34,11 @@ Les mâts provenaient des Pyrénées ou de Riga (baltique)
 
 *Avec les bois de guerre  … ainsi vogue la forêt.*
 
-### Le procès-verbal d’aménagement de 1783/1785 relate *
+### 1689 à 1858 :
+
+Afin d’appréhender la chronologie rapide des services de la Marine ayant eu en charge la recherche, le martelage et l’exploitation des bois propres aux constructions navales, [Voici l’étude de Richard Bacchetta sur ce sujet](/articles/pdf/articleboisdemarine-1689-1858.pdf)
+
+### A Bercé le procès-verbal d’aménagement de 1783/1785 relate *
 (ADS,B3858)
 
 *« Les plus beaux bois de cette forêt s’exploitent en bois 
