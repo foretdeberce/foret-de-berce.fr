@@ -16,7 +16,7 @@ tags: ["Faune","Biodiversité","Chasse","Lois"]
 La chasse telle une cueillette, est libre et peut être pratiquée par tous :
 *"loi salique"* du temps des Francs. 
 
-Mais au Moyen Age, elle sera réservée à la noblesse *(ordonnance de 1396)*.
+Mais au Moyen-âge, elle sera réservée à la noblesse *(ordonnance de 1396)*.
 
 ### Au Xème siècle
 
@@ -41,9 +41,17 @@ Le vassal, lui, n'avait droit qu’à la chasse à lièvres, goupils et connins
 (lapins) dans ses garennes (petite vénerie).
 
 {{<figure src="/images/articles/001chasseacourre.jpg"  title="L’art de la chasse">}}
-Le droit de chasse exclusif du propriétaire terrien et la constitution de vastes réserves de chasse pour "les plaisirs du roi" (les capitaineries)…. étaient  privilèges.
+
+Le droit de chasse exclusif du propriétaire terrien et la constitution de vastes réserves
+de chasse pour "les plaisirs du roi" (les capitaineries)… étaient des privilèges.
  
-*Le peuple, lui, pendant ce temps, subit la destruction de ses récoltes  par les cervidés, sangliers, lapins et les prédateurs: loups renards, (seuls les louvetiers agréés par le seigneur peuvent chasser).  Les délits seront donc fréquents, tout comme le braconnage : les paysans chassent le petit gibier, à l'aide de pièges ou collets, pour se protéger, se nourrir ou commercialiser la viande et les peaux.*
+
+     Le peuple, lui, pendant ce temps, subit la destruction de ses récoltes
+     par les cervidés, sangliers, lapins et les prédateurs: loups renards, 
+     (seuls les louvetiers agréés par le seigneur peuvent chasser).
+     Les délits seront donc fréquents, tout comme le braconnage : 
+     les paysans chassent le petit gibier, à l'aide de pièges ou collets, 
+     pour se protéger, se nourrir ou commercialiser la viande et les peaux.
  
 ### Au XIème siècle :
 
@@ -52,7 +60,52 @@ Le droit de chasse exclusif du propriétaire terrien et la constitution de vaste
   cerf en bronze en l’honneur des chasses anciennes en Sarthe.
 
  [Le Cerf de Gervais à Reims, un bon souvenir du passé à Bercé](/articles/pdf/cerfdegervais.pdf)
-  
+ 
+ **Dans l'antiquité le cerf était considéré comme Jésus-Christ vainqueur du démon.**
+
+    
+     Le "Physiologus", un bestiaire chrétien des premiers siècles,
+     joua un rôle crucial dans l'interprétation du cerf en tant que 
+     symbole chrétien. Le texte raconte que le cerf se purifie en 
+     consommant des serpents, une métaphore de la victoire du bien,
+     incarné par le cerf, sur le mal, symbolisé par le serpent. 
+     Cette image est profondément enracinée dans la théologie 
+     chrétienne où le cerf symbolise le Christ triomphant sur 
+     le mal et le péché. D'ailleurs, Saint Hubert, patron des 
+     chasseurs, est une autre figure clé dans la symbolique 
+     chrétienne du cerf. La légende raconte que Saint Hubert
+     vit un cerf avec une croix lumineuse entre ses bois. 
+     Une interprétation divine qui le pousse à convertir sa vie
+     et à suivre le Christ. Ce récit renforce le lien entre le
+     cerf et les valeurs chrétiennes de conversion et de rédemption. 
+
+     (Ca m’intéresse © Koffi Serge N’Guessan)
+     
+**Le sanglier était aussi l'un des animaux les plus chassés au Moyen-âge, en France.**
+
+     "Au Moyen-âge, le sanglier par sa force et sa férocité, 
+     représentait un défi considérable pour les chasseurs, 
+     ce qui en faisait un gibier de choix pour tester et 
+     démontrer les compétences et le courage des chevaliers.
+     Si pour certains, elle paraissait un moment de loisir 
+     et de détente, la chasse au sanglier n'était pas que 
+     ludique. Mais aussi une forme d'entraînement au combat
+     à une époque où il était important de maîtriser des 
+     compétences martiales hautement valorisées. En outre,
+     le sanglier connu pour sa robustesse peuplait abondamment
+     les vastes forêts françaises. Il offrait ainsi une source 
+     accessible de nourriture et de matériaux. 
+     À cet effet sa chair étant prisée pour les banquets ainsi
+     que ses poils qui servaient à la conception de certains 
+     matériaux pour la défense. Plusieurs membres de son corps 
+     intervenaient dans divers objets artisanaux."
+
+     (Ca m’intéresse © Koffi Serge N’Guessan)
+
+     
+     
+## 1789 ...
+
 À partir de la révolution conduisant à l'abolition des privilèges 
   dans la nuit du 4 août 1789, le domaine semble loué ….démocratiquement ! 
 
@@ -62,45 +115,7 @@ Le droit de chasse exclusif du propriétaire terrien et la constitution de vaste
   
 Les adjudicataires de chasse entrent en lice.
   
-Au début du XXème siècle on pouvait lire : « tout notable se fait un devoir
-  de suivre, à cheval ou en automobile, les laisser courre des équipages 
-  qui ont survécu aux nombreuses difficultés de l’après guerre. » 
-  Et de rajouter : (en automobile.. les mânes des vieux veneurs doivent frémir devant ce progrès)
- 
-Près de Paris il y avait des lots communs à la chasse à courre et à tir, régulés par le Veneur.
-En province les lots étaient distincts et les gros lots pouvaient dépasser un loyer de 10.000 francs.
-En forêt Domaniale de Bercé on nommait les propriétaires du droit de chasser : 
-  les fermiers ou locataires de chasse. La population les nommait 
-  « ces Messieurs » ou « les gros ». Leurs ayants droit sont les co-fermiers
-  et sont accrédités pour un ou plusieurs modes de chasse, sur un ou plusieurs 
-  lots de la forêt. Un co-fermier s’entoure d’actionnaires : les chasseurs. 
-  
-La chasse à courre est pratiquée sur l’ensemble du massif.
-  
-Les adjudicataires possèdent un rendez vous (habitation de loisir), 
-  mais les départs de chasse s’effectuent le plus souvent à partir 
-  d’une loge ou d’un rond point stratégique en forêt.
-  
-Les membres d'un équipage qui portent le bouton et acquittent 
-  leur cotisation pour les frais d'entretien de la meute sont 
-  appelés « boutons ».  
-  
-  Certains membres de l'équipage qui payent 
-  moins n'ont droit qu'au port du gilet sous une redingote noire :
-  ils sont nommés « gilets ».
- 
-Par exemple, il  y a actuellement six locataires du droit de chasse : 
-  quatre pour le tir (lots de 1000 à 1300ha), un pour le courre du 
-  chevreuil et un pour celui du cerf. La chasse à courre est pratiquée
-  sur l’ensemble du massif.
-  
-Une messe de Saint Hubert (patron des forestiers et des chasseurs) 
-  est célébrée  traditionnellement en forêt début octobre, marquant 
-  ainsi le début de la saison de chasse. (Le 10 octobre 1954, 
-  elle avait lieu dans la parcelle 163, en présence de Monsieur le 
-  conservateur Ruban, de Mr l’ingénieur Lorne et des agents techniques 
-  Boulanger, Lachiver, et Rimasson, des Veneurs et leurs boutons.)
- 
+
 ### 1866 
   
 La Société de chasse de Bercé est créée.
@@ -189,6 +204,45 @@ Invité : L’équipage du Luart.
 [1901- sport universel illustré](/articles/pdf/1901sportuniverselillustre.pdf)
  
 [1992-Vènerie N°106](/articles/pdf/1842-1939venerie106.pdf)
+
+
+     Au début du XXème siècle on pouvait lire : « tout notable se fait un devoir
+     de suivre, à cheval ou en automobile, les laisser courre des équipages 
+     qui ont survécu aux nombreuses difficultés de l’après guerre. » 
+     Et de rajouter : (en automobile.. les mânes des vieux veneurs doivent 
+     frémir devant ce progrès)
+     Près de Paris il y avait des lots communs à la chasse à courre et à tir,
+     régulés par le Veneur.
+     En province les lots étaient distincts et les gros lots pouvaient dépasser
+     un loyer de 10.000 francs.
+     En forêt Domaniale de Bercé on nommait les propriétaires du droit de chasser : 
+     les fermiers ou locataires de chasse. La population les nommait 
+     « ces Messieurs » ou « les gros ». Leurs ayants droit sont les co-fermiers 
+     et sont accrédités pour un ou plusieurs modes de chasse, sur un ou plusieurs 
+     lots de la forêt. Un co-fermier s’entoure d’actionnaires : les chasseurs. 
+     La chasse à courre est pratiquée sur l’ensemble du massif.
+     Les adjudicataires possèdent un rendez vous (habitation de loisir), 
+     mais les départs de chasse s’effectuent le plus souvent à partir 
+     d’une loge ou d’un rond point stratégique en forêt.
+     Les membres d'un équipage qui portent le bouton et acquittent 
+     leur cotisation pour les frais d'entretien de la meute sont 
+     appelés « boutons ». 
+     Certains membres de l'équipage qui payent moins n'ont droit 
+     qu'au port du gilet sous une redingote noire :
+     ils sont nommés « gilets ».
+     
+     Par exemple, il  y a actuellement six locataires du droit de chasse : 
+     quatre pour le tir (lots de 1000 à 1300ha), un pour le courre du 
+     chevreuil et un pour celui du cerf. La chasse à courre est pratiquée
+     sur l’ensemble du massif.
+     
+     Une messe de Saint Hubert (patron des forestiers et des chasseurs) 
+     est célébrée  traditionnellement en forêt début octobre, marquant
+     ainsi le début de la saison de chasse. (Le 10 octobre 1954, 
+     elle avait lieu dans la parcelle 163, en présence de Monsieur le 
+     conservateur Ruban, de Mr l’ingénieur Lorne et des agents techniques
+     Boulanger, Lachiver, et Rimasson, des Veneurs et leurs boutons.)
+
  
 ### 1911 :
   
