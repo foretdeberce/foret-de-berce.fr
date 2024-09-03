@@ -36,7 +36,12 @@ Les mâts provenaient des Pyrénées ou de Riga (baltique)
 
 ### 1689 à 1858 :
 
-Afin d’appréhender la chronologie rapide des services de la Marine ayant eu en charge la recherche, le martelage et l’exploitation des bois propres aux constructions navales, [Voici l’étude de Richard Bacchetta sur ce sujet](/articles/pdf/articleboisdemarine-1689-1858.pdf)
+Afin d’appréhender la chronologie rapide des services de la Marine ayant eu en charge la recherche, 
+le martelage et l’exploitation des bois propres aux constructions navales,
+[Voici l’étude de Richard Bacchetta sur ce sujet](/articles/pdf/articleboisdemarine-1689-1858.pdf)
+
+Et pour approfondir "l'Histoire des marins", l'excellent site d'Éric Schérer : "Histoires de marins"
+https://www.marins-traditions.fr/autres-articles
 
 ### A Bercé le procès-verbal d’aménagement de 1783/1785 relate *
 (ADS,B3858)
@@ -124,11 +129,11 @@ les autres produits de cette forêt »*
 Dans une lettre du 13 septembre 1797, Braud, 
 le Sous-Ingénieur provisoire de la Marine précise :*
 
-*«qu'il y a encore tant dans la forêt de Bercé que dans
+*« qu'il y a encore tant dans la forêt de Bercé que dans
 les ports de la Pointe et de Cour d'Hamont sur le Loir,
 environ 22000 pieds cubes (soit 754 m³) de superbes bois
 qui pourront je l'espère, descendre la rivière dans
-le courant du mois prochain, Salut et fraternité.»*.
+le courant du mois prochain, Salut et fraternité. »*.
 
 D'autres références connues font état de 34 trains 
 de bois sur le Loir en 1832.
