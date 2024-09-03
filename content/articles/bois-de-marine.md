@@ -38,13 +38,12 @@ Les mâts provenaient des Pyrénées ou de Riga (baltique)
 
 Afin d’appréhender la chronologie rapide des services de la Marine ayant eu en charge la recherche, 
 le martelage et l’exploitation des bois propres aux constructions navales,
-[Voici l’étude de Richard Bacchetta sur ce sujet](/articles/pdf/articleboisdemarine-1689-1858.pdf)
+[Voici l’étude de Richard Bacchetta](/articles/pdf/articleboisdemarine-1689-1858.pdf)
 
-Et pour approfondir "l'Histoire des marins", l'excellent site d'Éric Schérer : "Histoires de marins"
+Et pour approfondir le sujet ... tour sur "l'Histoire des marins", l'excellent site d'Éric Schérer : "Histoires de marins"
 https://www.marins-traditions.fr/autres-articles
 
-### A Bercé le procès-verbal d’aménagement de 1783/1785 relate *
-(ADS,B3858)
+### A Bercé, le procès-verbal d’aménagement de 1783/1785 relate
 
 *« Les plus beaux bois de cette forêt s’exploitent en bois 
 carrés et se tirent pour la marine,
@@ -69,6 +68,7 @@ n’est traversée par aucun cours d’eau flottable, mais vers le sud,
 dans la direction de l’est à l’ouest,coule la rivière du Loir qui se jette 
 dans la Sarthe, au dessus d’Angers,et cette dernière rivière entre dans 
 la Loire à cinq lieues plus bas.*  
+(ref : ADS,B3858)
 
 ### Le flottage des bois …… 1664 – 1843
 
