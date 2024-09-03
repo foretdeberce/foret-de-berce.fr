@@ -60,8 +60,10 @@ de chasse pour "les plaisirs du roi" (les capitaineries)… étaient des privil�
   cerf en bronze en l’honneur des chasses anciennes en Sarthe.
 
  [Le Cerf de Gervais à Reims, un bon souvenir du passé à Bercé](/articles/pdf/cerfdegervais.pdf)
+
+ ## Sa majesté le cerf.
  
- **Dans l'antiquité le cerf était considéré comme Jésus-Christ vainqueur du démon.**
+*Dans l'antiquité le cerf était considéré comme Jésus-Christ, vainqueur du démon.*
 
     
      Le "Physiologus", un bestiaire chrétien des premiers siècles,
@@ -80,8 +82,10 @@ de chasse pour "les plaisirs du roi" (les capitaineries)… étaient des privil�
      cerf et les valeurs chrétiennes de conversion et de rédemption. 
 
      (Ca m’intéresse © Koffi Serge N’Guessan)
-     
-**Le sanglier était aussi l'un des animaux les plus chassés au Moyen-âge, en France.**
+
+## La virilité et la force caractérisent le sanglier.     
+
+*Le sanglier était aussi l'un des animaux les plus chassés au Moyen-âge, en France.*
 
      "Au Moyen-âge, le sanglier par sa force et sa férocité, 
      représentait un défi considérable pour les chasseurs, 
