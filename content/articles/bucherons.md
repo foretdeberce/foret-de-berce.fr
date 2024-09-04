@@ -145,123 +145,124 @@ Il sera transformé en barrique pour des vins de prestige
     
 ###  NOM  Prénom	 Village
 	
-ADET	René	St Vincent du L -
-ADET	Théodore	St Vincent du L -
-BELLANGER	Victor	St Vincent du L -
+ADET René St Vincent du Lorouër -
+ADET Théodore St Vincent du LorouërL -
+BELLANGER Victor St Vincent du Lorouër -
 BERGEON/TULLEAU	Eugène	Mayet -
 BIGNON	Joseph	Chahaignes -
 BIGNON	Pierre	Chahaignes -
 BOUZEAU	Auguste	Mayet -
 BRIMBOL	Ernest	Marigné Laillé -
-BUSSON	Louis	St Vincent du L -
-BUSSON	Jean Baptiste	St Vincent du L -
+BUSSON	Louis	St Vincent du Lorouër -
+BUSSON	Jean Baptiste St Vincent du Lorouër -
 CARDO	Antoine	Marigne Laillé -
-CHALIGNY	Pierre	Marigné Laillé -
-CHANTOISEAU	Armand	Mayet -
-CHANTOISEAU	Auguste	St Pierre du L -
-CHARDON	René	St Vincent du L -
-CHARDON	Hilaire	St Vincent du L -
-CHARPENTIER	Louis	Mayet -
-CHAUSSON	Georges	Chahaignes -
-CHAUSSON	René	St Pierre du L -
-CHOUTEAU	Joseph	St Vincent du L -
-CIRET	        Pruillé L'Éguillé -
+CHALIGNY Pierre	Marigné Laillé -
+CHANTOISEAU Armand Mayet -
+CHANTOISEAU Auguste St Pierre du Lorouër-
+CHARDON	René St Vincent du Lorouër -
+CHARDON	Hilaire	St Vincent du Lorouër -
+CHARPENTIER Louis Mayet -
+CHAUSSON Georges Chahaignes -
+CHAUSSON René	St Pierre du Lorouër -
+CHOUTEAU Joseph	St Vincent du Lorouër -
+CIRET   Pruillé L'Éguillé -
 COMPAIN	Auguste	Mayet -
 COMPAIN	Henri	Lavernat -
-COUDRAY	Armand	St Vincent du L -
+COUDRAY	Armand	St Vincent du Lorouër -
 COURTEVILLE	Ferdinand Lavernat -
-DERRÉ	Auguste	St Vincent du L -
-DERRÉ	Louis	St Vincent du L -
-DOMINEAU	Etienne	Chahaignes -
-DOUINEAU	Julien	Chahaignes -
-DOUINEAU	Etienne	Chahaignes -
+DERRÉ	Auguste	St Vincent du Lorouër -
+DERRÉ	Louis	St Vincent du Lorouër -
+DOMINEAU Etienne Chahaignes -
+DOUINEAU Julien	Chahaignes -
+DOUINEAU Etienne Chahaignes -
 DRONNE	Henri	Lavernat -
-DROUAULT	Henri	Marigné Laillé -
-DROUAULT 	Louis	St Vincent du L -
+DROUAULT Henri	Marigné Laillé -
+DROUAULT Louis	St Vincent du Lorouër -
 DUBOIS	Louis	Mayet -
-DUPARC	Jules	St Vincent du L -
+DUPARC	Jules	St Vincent du Lorouër -
 DUPRÉ	Marin	Chahaignes -
 DUPUY	Victor	Mayet -
 FASSOT 	Joseph	Chahaignes -
 FONTAINE	Charles	Mayet -
-FOUCHER	Ernest	St Vincent du L -
-FOUQUERAY	Louis	St Vincent du L -
+FOUCHER	Ernest	St Vincent du Lorouër -
+FOUQUERAY Louis	St Vincent du Lorouër -
 FOUQUET	Roger	Marigne Laillé - 
 FOURMY	Henri	Marigné Laillé -
 FOURMY	Emile	Mayet -
-FRESNEAU	Jules	Mayet -
+FRESNEAU Jules	Mayet -
+GAULTIER Louis  Jupilles
 GESLIN	Roger	Marigne Laillé -
-GODIN	Etienne	St Vincent du L -
-GODIN	Etienne	St Vincent du L -
-GOUFFIER	Alexandre	Chahaignes -
-GUIMIER	Jean Baptiste	St Vincent du L -
-GUIMIER	Louis	St Vincent du L -
+GODIN	Etienne	St Vincent du Lorouër -
+GODIN	Etienne	St Vincent du Lorouër -
+GOUFFIER Alexandre Chahaignes -
+GUIMIER	Jean Baptiste	St Vincent du Lorouër -
+GUIMIER	Louis	St Vincent du Lorouër -
 GUIMIER	Auguste	Thoiré/Dinan -
-HERVÉ	René	St Vincent du L -
-HERVÉ	Théophile	St Vincent du L -
-HERVÉ	Ernest	St Vincent du L -
+HERVÉ	René	St Vincent du Lorouër -
+HERVÉ	Théophile St Vincent du Lorouër -
+HERVÉ	Ernest	St Vincent du Lorouër -
 HUBERT	Eugène	Mayet -
-HUGER	Francois	St Vincent du L -
+HUGER	Francois St Vincent du Lorouër -
 JALANS	Raphael	Jupilles -
-JOUBERT	Jacques	St Vincent du L -
+JOUBERT	Jacques	St Vincent du Lorouër -
 LANDAIS	Clément	Mayet -
-LARDRON	Louis	St Vincent du L -
-LE SELLEC	Jean Marie	Mayet -
-LEBERT 	Antoine	St Vincent du L -
-LEBERT 	Lazare	St Vincent du L -
+LARDRON	Louis	St Vincent du Lorouër -
+LE SELLEC Jean Marie	Mayet -
+LEBERT 	Antoine	St Vincent du Lorouër -
+LEBERT 	Lazare	St Vincent du Lorouër -
 LEBOUC	Lucien	Marigné Laillé -
-LECOMTE	Louis	St Vincent du L -
-LECOMTE	Louis	St Vincent du L -
-LEDUC	René	St Vincent du L -
-LEFEBVRE	Ferdinand	St Vincent du L -
-LEFEBVRE	Louis	St Vincent du L -
-LEGUILLON	Albert Auguste	Marigné Laillé -
+LECOMTE	Louis	St Vincent du Lorouër -
+LECOMTE	Louis	St Vincent du Lorouër -
+LEDUC	René	St Vincent du Lorouër -
+LEFEBVRE Ferdinand St Vincent du Lorouër -
+LEFEBVRE Louis	St Vincent du Lorouër -
+LEGUILLON Albert Auguste Marigné Laillé -
 LE MEUNIER Maxime Pruillé l'Éguillé -	
-LEPROUST	Auguste	Marigné Laillé -
-LESNAULT	René	Chahaignes -
-LESNAULT	Pierre	Chahaignes -
-LEVILLAIN	Jules	Thoiré/Dinan -
-LEVILLAIN	Isidore	Thoiré/Dinan -
-LEVILLAIN	Georges	Thoiré/Dinan -
-LUCE	Félix	St Mars d'Outillé - 
-MANCELLIER	Marius	Chahaignes -
+LEPROUST Auguste Marigné Laillé -
+LESNAULT René	Chahaignes -
+LESNAULT Pierre	Chahaignes -
+LEVILLAIN Jules	Thoiré/Dinan -
+LEVILLAIN Isidore Thoiré/Dinan -
+LEVILLAIN Georges Thoiré/Dinan -
+LUCE Félix St Mars d'Outillé - 
+MANCELLIER Marius Chahaignes -
 MARAIS	Henri	Chahaignes -
-MARCHAND	Albert	Thoiré/Dinan -
+MARCHAND Albert	Thoiré/Dinan -
 MENIER	Raoul	Mayet -
 MIGNOT	Julien	Chahaignes -
-MOREAU	Ferdinand	Marigné Laillé -
-MOREAU	Clotaire	Marigné Laillé -
+MOREAU	Ferdinand Marigné Laillé -
+MOREAU	Clotaire Marigné Laillé -
 MOREAU	Henri	Jupilles -
-PAVY	Albert	Thoiré/Dinan -
-PÉNEAU	Emile	St Vincent du L -
-PEQUINEAU	Jules Henri	Marigné Laillé -
-PESNEAU	Ferdinand	St Vincent du L -
-PICHON	Alexandre	St Vincent du L -
-PORTE	Jules	St Pierre du L -
+PAVY Albert Thoiré/Dinan -
+PÉNEAU	Émile	St Vincent du Lorouër -
+PEQUINEAU Jules Henri	Marigné Laillé -
+PESNEAU	Ferdinand St Vincent du Lorouër -
+PICHON	Alexandre St Vincent du Lorouër -
+PORTE	Jules	St Pierre du Lorouër -
 POSSON	Pierre	Chahaignes -
 QUENTIN	Achille	Mayet -
 RAGOT	Auguste	Mayet -
-RANVAZÉ	Pierre	St Vincent du L -
-RAUX	Narcisse	Marigné Laillé -
-RAUX	Gabriel	Marigné Laillé -
-RENIER	Francois	Beaumont P de B -
+RANVAZÉ	Pierre	St Vincent du Lorouër -
+RAUX Narcisse Marigné Laillé -
+RAUX Gabriel Marigné Laillé -
+RENIER	Francois Beaumont Pied de Boeuf -
 ROBERT	Albert	Marigné Laillé -
 ROGELY	Louis	Marigne Laillé -
-ROUILLARD	Lucien	Marigné Laillé -
-ROUSSARD	Pierre	St Vincent du L -
+ROUILLARD Lucien Marigné Laillé -
+ROUSSARD Pierre	St Vincent du Lorouër -
 SERPIN	Urbain	Chahaignes -
 SIMON	Maurice	St Mars d'Outillé -
-TABAREAU	Joseph	St Vincent du L -
-TABAREAU	Noel	St Vincent du L -
+TABAREAU Joseph	St Vincent du Lorouër -
+TABAREAU Noël	St Vincent du Lorouër -
 TABEUR	Raymond	Thoiré/Dinan -
 TABEUR	Emile	Thoiré/Dinan -
-THIODET	Alexandre	St Vincent du L -
-THIODET	Pierre	St Vincent du L -
-THIODET	Hilaire	St Vincent du L -
-TROUILLARD	Emile	Marigné Laillé -
+THIODET	Alexandre St Vincent du Lorouër -
+THIODET	Pierre	St Vincent du Lorouër -
+THIODET	Hilaire	St Vincent du Lorouër -
+TROUILLARD Émile Marigné Laillé -
 TROUVÉ	Marcel	Lavernat -
-VENOT	X	Jupilles -
-VERITÉ	Louis	St Vincent du L -
+VENOT X Jupilles -
+VERITÉ	Louis	St Vincent du Lorouër -
 VIVET	Jules	Jupilles -
 **Liste non exhaustive**
 
