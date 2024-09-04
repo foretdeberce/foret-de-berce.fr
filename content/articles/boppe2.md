@@ -187,7 +187,7 @@ des clichés pris la veille au chêne Boppe*.
 
 ### L’abatage a lieu le 22 juillet. 
 	
-Guimier aidé de Granier A. et de bien d’autres bûcherons,
+Guimier aidé de Granier A., de Louis Gaultier et d’autres bûcherons,
 eurent raison de ce géant que l’on découpa bille par bille. 
 Il ne reste aujourd’hui que le pied de l’arbre d’un diamètre de 1,40 m. 
 Effectivement l’arbre débité en billes et billons
@@ -202,7 +202,7 @@ du chêne Boppe et le baptême de son successeur.
 	
 l’abatage vient d’avoir lieu. Le chêne Boppe gît à terre,
 sa souche devant être bientôt sanctuarisée. 
-Les bûcherons Guimier, A. Granier, E. Vannier, A. Ramaugé,
+Les bûcherons Guimier, A. Granier, E. Vannier, A. Ramaugé, Louis Gaultier
 et Hervé dit "Pape" eurent raison, en un instant, du géant.
 
 {{<figure src="/images/articles/famillepieboppe.jpg" title="Les familles Pie et Ledru au chevet du géant">}}
