@@ -43,6 +43,8 @@ le martelage et l’exploitation des bois propres aux constructions navales,
 Et pour approfondir le sujet ... tour sur "l'Histoire des marins", l'excellent site d'Éric Schérer : "Histoires de marins"
 https://www.marins-traditions.fr/autres-articles
 
+[Exemples du droit de préemption exercé par le ministère de la Marine](/articles/pdf/pvmarine.pdf)
+
 ### A Bercé, le procès-verbal d’aménagement de 1783/1785 relate
 
 *« Les plus beaux bois de cette forêt s’exploitent en bois 
