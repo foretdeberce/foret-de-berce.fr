@@ -18,6 +18,8 @@ décalage entre l’action présente des forestiers
 et les besoins futurs des générations montantes…
 avec le temps qui passe, ce qui est…
 n’est déjà plus au goût du jour…
+
+
 En 1669, Jean-Baptiste Colbert, contrôleur des finances
 du royaume de France, met en place une vigoureuse
 politique d’expansion navale, pour repousser l’Anglais. 
@@ -25,16 +27,42 @@ Il faut drainer à travers tout le royaume les bois
 nécessaires à la construction des navires de guerre.
 Dans le Maine, la forêt de Bercé est pressentie. 
 
-Un vaisseau de première ligne requiert environ 
-4000 chênes de 1mᶟ soit quelques hectares de forêt de chênes 
-dont on fait la coque, la quille, la contre quille, 
-la fausse quille et la couverture.
-En aucun cas ces pièces de Marine n’étaient destinées à la Mâture.
-Les mâts provenaient des Pyrénées ou de Riga (baltique)   
+Colbert comprit rapidement que la puissance maritime de
+la France dépendait de sa capacité à construire une
+flotte forte et durable. À l'époque, les navires étaient
+principalement construits en bois, en particulier de chêne,
+qui devait être de haute qualité pour résister aux 
+conditions maritimes. Le problème était que les forêts 
+françaises, surexploitées et mal gérées, ne pouvaient 
+plus fournir suffisamment de bois adapté à la construction navale.
+
+### Mesures mises en place :
+
+**1. Ordonnance sur les Eaux et Forêts (1669)** :
+   
+Colbert a fait adopter cette ordonnance qui visait à mieux gérer
+et protéger les forêts françaises. Elle renforçait le contrôle
+royal sur les forêts, imposait des règles strictes d’abattage, 
+et organisait leur replantation. L'objectif principal était
+d'assurer un approvisionnement continu en bois pour la marine royale.
+
+     Un vaisseau de première ligne requiert environ 
+     4000 chênes de 1mᶟ soit quelques hectares de forêt de chênes 
+     dont on fait la coque, la quille, la contre quille, 
+     la fausse quille et la couverture.
+     En aucun cas ces pièces de Marine n’étaient destinées à la Mâture.
+     Les mâts provenaient des Pyrénées ou de Riga (baltique)   
 
 *Avec les bois de guerre  … ainsi vogue la forêt.*
 
-### 1689 à 1858 :
+
+**2. Gestion centralisée des forêts** :
+
+Les forêts royales étaient directement gérées par
+l’administration des eaux et forêts, et des inspecteurs
+étaient chargés de surveiller la coupe du bois pour
+éviter toute sur-exploitation.
+   
 
 Afin d’appréhender la chronologie rapide des services de la Marine ayant eu en charge la recherche, 
 le martelage et l’exploitation des bois propres aux constructions navales,
@@ -43,7 +71,22 @@ le martelage et l’exploitation des bois propres aux constructions navales,
 Et pour approfondir le sujet ... tour sur "l'Histoire des marins", l'excellent site d'Éric Schérer : "Histoires de marins"
 https://www.marins-traditions.fr/autres-articles
 
+**3. Droit de préemption** :
+
+La marine avait un droit de préemption sur certaines forêts, notamment celles contenant des chênes, en raison de leurs qualités de résistance et de longévité. Cela signifiait que l'État pouvait prioriser l'achat de ce bois, ou interdire son exploitation privée, pour le réserver aux chantiers navals. En voici un exemple dans les forêts des Côtes du Nord en 1817 et 1819.
+
 [Exemples du droit de préemption exercé par le ministère de la Marine](/articles/pdf/pvmarine.pdf)
+
+**Impact sur la flotte :**
+
+*Ces mesures ont permis à la France de construire une flotte puissante sous Louis XIV, notamment grâce aux chantiers navals comme ceux de Rochefort et de Brest, qui dépendaient fortement du bois fourni par les forêts réformées.*
+
+**Héritage à long terme :**
+
+*Le régime de préemption de bois pour la marine a perduré bien après Colbert, même jusqu'à l'époque de la marine à voile au XIXe siècle. Les principes de gestion durable des forêts introduits par l'ordonnance de 1669 ont également influencé la gestion forestière moderne en France.*
+
+
+*Ce système de préemption est un exemple de la manière dont l'État français, sous Colbert, a su anticiper les besoins futurs de la marine et établir une gestion durable des ressources naturelles pour renforcer la puissance maritime du royaume.*
 
 ### A Bercé, le procès-verbal d’aménagement de 1783/1785 relate
 
