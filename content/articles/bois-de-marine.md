@@ -194,6 +194,8 @@ au ¾ du tonnage total, de bois et de planches
 Cette date de 1852, correspond avec l’amélioration 
 du réseau routier, à Bercé comme en Sarthe.
 
+[A voir aussi le PDF sur le flottage des bois en Savoie](/articles/pdf/flottagealbertville.pdf) 
+
 ### En 1825  Choix des pièces de marine 
 
 (extrait d'un procès verbal de martelage des bois de marine) 
