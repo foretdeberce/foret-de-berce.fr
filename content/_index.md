@@ -35,8 +35,11 @@ Mais ici se termine la comparaison avec notre capitale !
 
 
 ### Pour ne rien perdre de vos ballades : 
+
 Pensez à indexer ce site sur vos écrans de téléphone,
 en y plaçant un raccourci !
+
+{{<figure src="/images/articles/foret-de-berce2.jpg"  title="le QR code du site">}}
 
 ### Pour ne pas se perdre dans le site :
 
