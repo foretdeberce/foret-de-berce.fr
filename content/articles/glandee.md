@@ -29,7 +29,6 @@ chargé de trier feuilles et graines.
 
 {{<figure src="/images/articles/105b1-2.jpg" title="Aspirateur à glands accroché au vieux Same">}}
   
-{{<figure src="/images/articles/105b1-3.jpg" title="plan de cet aspirateur à glands">}}
 
 Le meilleur ramasseur arrivait tous les jours du Mans en bicyclette, 
   récoltait en moyenne à la main sur la journée 141 litres soit près
