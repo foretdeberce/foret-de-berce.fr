@@ -13,7 +13,6 @@ Dans le temps, menait au (parnage ou pasnage ou panage) les cochons (ou gorins)
 au pâturage ou à la glandée en forêt. La nourriture qui y était glanée n’était pas une 
 charge pour les usagers… tout au contraire.
 
-{{<figure src="/images/articles/017.jpg" title="Le Panage des porcs">}}
   
 Au début du 20ème siècle c’était pour réapprovisionner les différentes 
 pépinières du massif.
