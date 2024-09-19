@@ -83,7 +83,29 @@ Les officiers  et  professeurs  logent  au Pavillon  de Bercé et
  accessoirement dans les  Hôtel Grimault (Château du Loir)
  St Hubert (Marigné)  Hôtel  de  France  (Ecommoy) – 
  
-On règle en 1925 : 10fr la chambre d'Officier,  8fr celle des élèves) - 
+On règle en 1925 : 10fr la chambre d'Officier, 8fr celle des élèves) - 
+
+     À l'École nationale forestière de Nancy, les professeurs
+     portaient le titre de conservateurs des forêts, qui est
+     un grade élevé dans la hiérarchie du Corps forestier français. 
+     
+     Ces conservateurs étaient chargés de la formation des ingénieurs
+     forestiers et des techniciens supérieurs spécialisés dans la
+     gestion des forêts et des ressources naturelles.
+     
+     Le Corps des ingénieurs des eaux et forêts, auquel étaient 
+     associés ces enseignants, se distinguait par une hiérarchie 
+     avec plusieurs grades, parmi lesquels le grade de conservateur
+     était l'un des plus élevés. 
+     
+     Les enseignants pouvaient également être des ingénieurs 
+     de haut rang, appelés ingénieurs en chef, inspecteurs généraux,
+     ou ingénieurs ordinaires, en fonction de leur expérience et 
+     de leur ancienneté.
+     
+     Ces professeurs étaient non seulement des experts en sylviculture,
+     mais aussi en gestion des écosystèmes, en botanique, 
+     et en protection de l'environnement.
 
 Les élèves quant à eux, logent en Forêt : Loge de Croix  Marconnay (23-06-1902), 
 puis à l’Hôtel St. Jacques (Jupilles) ou de nouveau à  St. Hubert.
