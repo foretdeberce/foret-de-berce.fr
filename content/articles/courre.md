@@ -397,7 +397,16 @@ Le conservateur et les inspecteurs des Forêts suivent les chasses,
 de même en 1952, Mr Blouère est souvent aperçu suivant 
 la chasse à courre. Les chasseurs se fédèrent en créant 
 **la société des chasseurs de la forêt de Bercé.**
-  
+
+Le baron E.d'Argenton écrit dans la parution 
+"Sarthe" -(Les documents de France 1952)-
+*" Les chasseurs à courre de la Sarthe doivent une grande
+reconnaissance aux autorités départementales ainsi qu'à
+l'Administration des Eaux et Forêts, qui montrent, par leur
+bienveillance à leur égard,qu'elles apprécient à leur juste
+valeur l'aide substantielle apportée au commerce et l'intérêt 
+national que représente la vénerie. Qu'elles en soient remerciées"*
+ 
 ### En 1956 :
   
 Le bail est porté de 9 à 12 ans.
