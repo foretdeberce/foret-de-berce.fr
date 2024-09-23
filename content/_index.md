@@ -21,6 +21,13 @@ tous les savoirs faire anciens.
 Paysages, diversité naturelle, culturelle et 
 patrimoniale, en font une "Forêt d'Exception ®"
 
+
+*" C'est là aussi que, dans le silence et la majesté du lieu,
+on peut songer avec fruit au travail des générations passées
+et méditer sur la pérénnité des oeuvres que l'Homme entreprend
+avec méthode et poursuit avec cotinuité "*
+(Blouère, dans la Sarthe - Les documents de France - 1952)
+
 Véritable petit Paris, Bercé offre aux visiteurs 
 des allées dignes de certains boulevards Haussmanniens.
 
