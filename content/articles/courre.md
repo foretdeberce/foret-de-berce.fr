@@ -261,6 +261,12 @@ Rallyes  invités : [Rallye Juigné](/articles/pdf/1901-1924juigne.pdf) et équi
 Louvetier : Mr de la Blanchère.
  
 ### 1914 :
+
+*"Les deux guerres successives 14-18 puis plus tard 39-45 ont porté
+un grand coup à ce beau sport en raison des difficultés financières
+et de l'incertitude du lendemain. La vènerie est une oeuvre de longue
+haleine; le morcellement des propriétés a aussi contribué à réduire
+le nombre des équipages"* (Baron E.d'Argenton.)
   
 La chasse est interdite pour toutes les espèces de gibier (sauf le lapin). 
   La chasse au sanglier est placée sous le contrôle du lieutenant de louveterie 
