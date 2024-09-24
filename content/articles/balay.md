@@ -19,12 +19,32 @@ construites en forêt par les bûcherons,
 charbonniers et autres sabotiers, étaient des survivances
 des premiers abris construits par les hommes avant l'*Histoire*
 
-Recherchons l'origine du mot *balay* selon les définitions du XVIIème. 
-Deux orthographes une seule destination : le bien être du forestier.
+Recherchons l'origine du mot *balay, balet, ballet* selon les définitions du XVIIème. 
+Diverses orthographes...mais une seule destination : le bien être du forestier.
+
+
+     Balay, ballet, balet, appelé  aussi en 
+     centre France : caquetoire (Poitou).
+     A l'origine ce nom désigne une pièce 
+     d’architecture ancienne accolée à l'église : 
+     "Un petit auvent couvert par un toit en saillie.
+     Les paroissiens pouvaient s'y abriter après les 
+     offices pour échanger les nouvelles, s’asseoir 
+     sur les murets ceinturant l’auvent pour 
+     « caqueter » (parler à tort et à travers), 
+     échanger des nouvelles au sortir de la messe, 
+     ce qui aurait été à l’origine du mot caquetoire.
+     Les scieurs de long, et bûcherons qui voyageaient 
+     de forêts en forêts ont importé ce terme et aussi 
+     l'architecture de ce havre de paix du bûcheron,
+     ce palais forestier ainsi que la convivialité du lieu. 
+
+
 
 Balai de sorcière … non mais presque… le balai de sorcière est 
 un enchevêtrement de branchages sur les pins, 
 *(sa formation est due à une maladie)* Le balai de sorcière couvre la branche…
+comme la toiture de brande sur le balet.
 
 Balai de bouleau … peut-être car le nom dérive 
 de *« betula »*, bouleau (branchages dont on fait les balais)
@@ -32,7 +52,7 @@ de *« betula »*, bouleau (branchages dont on fait les balais)
 *On fait des balais de menuës branches de bouleau liées ensemble au 
 bout d'un baston. On en fait aussi de genest, de jonc.»*
 
-Lécorce de bouleau servait autrefois à l'étanchéité de toitures.
+L'écorce de bouleau servait autrefois à l'étanchéité de toitures.
 
 Or nos Balais ou Balays *(en vieux français)* étaient recouverts 
 de ramures (branchages de bouleaux ou autres à la manière d’un toit de chaume).
