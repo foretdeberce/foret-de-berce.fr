@@ -19,12 +19,12 @@ construites en forêt par les bûcherons,
 charbonniers et autres sabotiers, étaient des survivances
 des premiers abris construits par les hommes avant l'*Histoire*
 
-Recherchons l'origine du mot *balay, balet, ballet* selon les définitions du XVIIème. 
+Recherchons l'origine du mot **balay, balet, ballet, loge** selon les définitions du XVIIème. 
 Diverses orthographes...mais une seule destination : le bien être du forestier.
 
 
-     Balay, ballet, balet, appelé  aussi en 
-     centre France : caquetoire (Poitou).
+     Le Balay, ballet, balet, la loge, a pour
+     nom : caquetoire en centre France (Poitou).
      A l'origine ce nom désigne une pièce 
      d’architecture ancienne accolée à l'église : 
      "Un petit auvent couvert par un toit en saillie.
@@ -35,35 +35,32 @@ Diverses orthographes...mais une seule destination : le bien être du forestier.
      échanger des nouvelles au sortir de la messe, 
      ce qui aurait été à l’origine du mot caquetoire.
      Les scieurs de long, et bûcherons qui voyageaient 
-     de forêts en forêts ont importé ce terme et aussi 
-     l'architecture de ce havre de paix du bûcheron,
-     ce palais forestier ainsi que la convivialité du lieu. 
+     de forêts en forêts ont importé tout à la fois
+     ce terme, l'architecture de ce havre de paix,
+     et la convivialité de ce type d'habitation. 
 
 
 
-Balai de sorcière … non mais presque… le balai de sorcière est 
+Balai de sorcière … non, mais presque… le balai de sorcière est 
 un enchevêtrement de branchages sur les pins, 
 *(sa formation est due à une maladie)* Le balai de sorcière couvre la branche…
-comme la toiture de brande sur le balet.
+comme la toiture de brande ou de bouleau sur le balet.
 
-Balai de bouleau … peut-être car le nom dérive 
-de *« betula »*, bouleau (branchages dont on fait les balais)
-
-*On fait des balais de menuës branches de bouleau liées ensemble au 
-bout d'un baston. On en fait aussi de genest, de jonc.»*
+*"On fait des balais de menuës branches de bouleau liées ensemble au 
+bout d'un baston. On en fait aussi de genest, de jonc."*
 
 L'écorce de bouleau servait autrefois à l'étanchéité de toitures.
 
-Or nos Balais ou Balays *(en vieux français)* étaient recouverts 
+Or nos Balays *(en vieux français)* étaient recouverts 
 de ramures (branchages de bouleaux ou autres à la manière d’un toit de chaume).
 
-Dans certaines autres forêts, on utilisait la bruyère ou brande voir le genêt pour barder la loge.
+Nos balets à nous étaient des petites chaumières accueillant les bûcherons
+et leurs familles.
 
 *Les petits métiers se sont développés dans les massifs malaisés à exploiter et
 écartés des voies d’eau ou de terre ; La confection d’objets représentait un moyen
 de valoriser sur place les matières ligneuses et de leur ouvrir malgré les obstacles,
 une certaine zone d’exportation.*
-
 P.Deffontaines :L’Homme et la Forêt (Paris 1933) –
 Roger Blais  - La Forêt (P.U.F. 1947).
 
@@ -89,8 +86,9 @@ des temps où il fallait écarter les fauves avec des brasiers.*
 
 {{<figure src="/images/articles/1habitatrustique.jpg" title="Habitat rustique sur Bercé">}}
 
-L’habitation rustique à Bercé,  faite de planches et de branchages (au début Loge et Atelier sont liés)
-Cabanes de Berger, baraque de fortune, hutte de sabotier, balai de bûcheron, refuge du promeneur,
+L’habitation rustique à Bercé est faite de planches et de branchages (au début Loge et Atelier sont liés).
+
+Cabanes de Berger, baraque de fortune, hutte de sabotier, balet de bûcheron, refuge du promeneur,
   la loge se décline ici sous toutes ses formes, de la plus rudimentaire à la plus sophistiquée.
 	
 Elle est lieu de vie de toute la famille et lieu privilégié du travail.
@@ -120,12 +118,12 @@ Celles-étaient repérées par de la peinture d’arbres témoins, dont on prena
 {{<figure src="/images/articles/bernardchevalier.jpg" title="Bernard, un observateur de choix">}}
 
 Bernard Chevalier, de Saint Vincent, se souvient avoir fait des fagots pour la cuisson des
-  patates et des cochons, et être (étant tout jeune) toujours placé dans le balai du côté 
+  patates et des cochons, et être (étant tout jeune) toujours placé dans le balet du côté 
   où allait la fumée, cela faisait beaucoup rire les anciens bûcherons.
 
 {{<figure src="/images/articles/311b21.jpg" title="Atelier de merrains">}}
 
-{{<figure src="/images/articles/n110.jpg" title="Le balai de merrandier et l’atelier">}}
+{{<figure src="/images/articles/n110.jpg" title="Le balet de merrandier et l’atelier">}}
 
 
 Transformation dans une coupe, de billons en produits manufacturés (Fendeurs de Merrains,
@@ -162,7 +160,7 @@ Atelier de confection de cerclages de tonneaux avec des perches de châtaigniers
     "Et si au cours de mes tournées, j’avais à constater moi-même
     que les tolérances prescrites ont été continuées sans que 
     vous y missiez obstacle, je vous en  rendrais personnellement
-    responsable.
+    responsable"
   					Signé Roulleau
   
     Communiqué au personnel du Cantonnement, lui rappelant que je
@@ -184,16 +182,16 @@ De Gauche à droite : Bouttier – Blutteau – François – Leroux – Foussar
 {{<figure src="/images/articles/005.jpg" title="Émondeurs et bûcherons">}}
 
 
-Emondeurs et Bûcherons au repos, dans leur « balai » à Bercé.
+Emondeurs et Bûcherons au repos, dans leur « balet » à Bercé.
 de gauche à droite : André Chesnier, Georges Chambon, Camille Lemoine,
   Emile Chignard, Gaston Vérité, se confectionnent  sur le foyer à même 
   le sol, un vin chaud.
 (Photo Calvel 15 novembre 1959)
 
-{{<figure src="/images/articles/6famillepapillon.jpg" title="La famille Papillon dans leur balai">}}
+{{<figure src="/images/articles/6famillepapillon.jpg" title="La famille Papillon dans leur balet">}}
 
 
-La Famille Papillon Maurice de Marigné-Laillé, dans son « balai » 
+La Famille Papillon Maurice de Marigné-Laillé, dans son « balet » 
   placé dans la coupe secondaire de la parcelle 212 (Janvier 1998). 
   La Loge en bois était plus chaude que l’actuelle loge en tôle.
 Bois et tôles étaient prisés de tous et quelques fois prenaient des pattes.
@@ -201,17 +199,17 @@ Bois et tôles étaient prisés de tous et quelques fois prenaient des pattes.
 {{<figure src="/images/articles/9meunier-ciret.jpg" title="Les familles Meunier et Ciret ">}}
 
 
-Balai des familles Meunier et Ciret de Pruillé dans les Clos en 1964.
+Balet des familles Meunier et Ciret de Pruillé dans les Clos en 1964.
 	
-{{<figure src="/images/articles/7111b22.jpg" title="Le balai vu par © Michel Marc">}}
+{{<figure src="/images/articles/7111b22.jpg" title="Le balet vu par © Michel Marc">}}
 
 											
-Le balai, "palais" du bûcheron, qui y trouve un peu de quiétude et de chaleur au moment du repas 
+Le balet, "palais" du bûcheron, qui y trouve un peu de quiétude et de chaleur au moment du repas 
 
 {{<figure src="/images/articles/famillepie2002.jpg" title="La famille Pie en 2002">}}
 
 
-{{<figure src="/images/articles/10logecigogne1999.jpg" title="Un balai de tôles dans la Cigogne en 1999">}}
+{{<figure src="/images/articles/10logecigogne1999.jpg" title="Un balet de tôles dans la Cigogne en 1999">}}
 
 ## Autres articles concernant les productions forestières: ## 
 
