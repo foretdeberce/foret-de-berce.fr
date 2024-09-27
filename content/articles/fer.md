@@ -54,6 +54,28 @@ sur le sujet, où seul le nord de la Sarthe apparaissait dans le paysage minier.
 
 **Car l'homme en creusant ses mares, y a découvert le minerai.**
 
+     Comment les premiers hommes ont-ils découvert le métal ?
+     
+     Tout part d'un caillou découvert fortuitement, en creusant
+     une mare ou un puits par exemple.
+     
+     Les métaux sont fréquemment cachés dans une pierre
+     particulière : le minerai, qui possède aussi un éclat
+     particulier et un poids qui interroge.
+     En chauffant des pierres, les anciens ont découvert 
+     que certaines devenaient liquides, une transformation 
+     qui les a poussés à creuser plus loin. 
+     Après plusieurs tentatives, ils ont appris à isoler 
+     une grande partie de ce métal contenu dans le minerai. 
+     
+     La réduction minière devient au fil du temps une 
+     technologie à part entière.
+     La métallurgie qui en découle est donc le fruit
+     d'une combinaison entre hasard et expérimentation
+     technique, démontrant qu’il n’existe pas de chemin unique.
+
+
+
  En creusant ses mares, l'homme, curieux de nature, 
  avise ces petits nodules résistants et commence à les extraire. 
  Ce matériau de surface que l’on rencontre jusqu'à 7 m de profondeur, 
