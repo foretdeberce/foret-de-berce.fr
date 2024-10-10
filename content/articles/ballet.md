@@ -97,7 +97,7 @@ Elle est lieu de vie de toute la famille et lieu privilégié du travail.
 
 
 En compagnie de Mr, Mme. et Melle. Cartereau  (Boisselier) *« à la Villa Huguette »* 
-  Emile et Olga Ballion devant leur loge implantée Parcelle 161, au carrefour  
+  Émile et Olga Ballion devant leur loge implantée Parcelle 161, au carrefour  
   de la ligne de chemin de fer et de la ligne du Pau. 
 	Roland, sur les genoux de sa mère est né au Rond de Verneil en 1930 ; 
 	Marc prêt à naître en ce lieu, en 1931 sera le dernier enfant né en Forêt.
