@@ -31,9 +31,9 @@ Au début du XIXe siècle la Loge commence à orner les ronds-points
   
 En briques de Pruillé l’Éguillé, en bois, torchis, paille, terre,
  tôles, elles répondent aux besoins de halte, repos et convivialité.
-Certaines ressemblent à s’y méprendre aux balais des coupes, 
+Certaines ressemblent à s’y méprendre aux ballets des coupes, 
   avec leur pelisse de terre engazonnée, telle la loge du rond 
-  de Verneil encore présente en 1997. (photo du haut de page)
+  de Verneil encore présente en 1997. *(photo du haut de page)*
   
 *« Le 4 septembre 1866, les Cantonniers Berger, Dupré, Venot et Le Simple,
   abattent un chêne pour la réparation de la loge de la croix
@@ -49,15 +49,15 @@ Malgré ces continuelles réhabilitations, les Loges sont endommagées
 Vers 1900, l’abri du Rond du Nacron, couvert de ses bardeaux possède
   une immense cheminée qui est le reste d’une première construction.
 	
-  Cette Loge fut incendiée accidentellement le 7 Janvier 1940,
+  Cette Loge fut incendiée accidentellement le 7 janvier 1940,
   par des soldats, qui du 7 février à la fin août en rebâtirent une autre.
   
 {{<figure src="/images/articles/nacron2.jpg" title="L’ancienne loge du Nacron">}}
 
 La loge de Volumiers vers 1900, peut accueillir trois chevaux de chasse
-  à courre ou éventuellement ceux de Messieurs les officiers forestiers,
+  à courre ou éventuellement ceux de ces Messieurs les officiers forestiers,
   venus en opération de Martelage. Il s’y déroulait aussi les revues 
-  d’armes ou les inspections forestières.
+  d’armes ou des inspections forestières.
   
 {{<figure src="/images/articles/volumiers2.jpg" title="3 stalles attendent les chevaux à Volumiers">}}
 
@@ -89,16 +89,17 @@ A l’intérieur, il y avait une table rustique et deux bancs.
      Le 8 avril 1935 un incendie ravage la loge de Verneil : 
      Leroy procédaient à l’échenillage des pins dans les parcelles 71, 79,87 
      le matin avec l’auxiliaire Dronne qui faisait bruler les nids sur 
-     le chemin de Verneil. Après déjeuner, il ne restait que peu de
-     braises dans la cheminée (c’est fait courant qu’il y ait du feu 
-     à l’âtre d’un repas à l’autre), le sol balayé, ils fermèrent la
-     porte de la loge à clef et rejoignirent la p 83. La cheminée, 
-     construite en terre étant fortement endommagée depuis longtemps 
-     déjà, et n’ayant plus la hauteur suffisante pour empêcher le vent 
-     soufflant du Sud Ouest d’attiser le foyer, celui-ci expulsa des 
-     charbons ardents vers la porte qui se consuma. Comme cette loge 
-     était couverte de planches qui avaient été passées au Carbonyl…
-     le tout a flambé comme fétu de paille (la façade en premier). 
+     le chemin de Verneil. 
+     Après déjeuner, il ne restait que peu de braises dans la cheminée
+     (c’est fait courant qu’il y ait du feu à l’âtre d’un repas à l’autre), 
+     le sol balayé, ils fermèrent la porte de la loge à clef et 
+     rejoignirent la p 83. 
+     La cheminée, construite en terre étant fortement endommagée 
+     depuis longtemps déjà, et n’ayant plus la hauteur suffisante
+     pour empêcher le vent soufflant du Sud Ouest d’attiser le foyer,
+     celui-ci expulsa des charbons ardents vers la porte qui se consuma. 
+     Comme cette loge était couverte de planches qui avaient été passées
+     au Carbonyl… le tout a flambé comme un fétu de paille (la façade en premier). 
      La perte de cette loge est grande car nous n’avions que celle là
      dans ce triage, et c’était le lieu de réunion pour la délivrance 
      des menus produits de la brigade le 30 de chaque mois. 
@@ -107,7 +108,7 @@ A l’intérieur, il y avait une table rustique et deux bancs.
 
 {{<figure src="/images/articles/coudre1.jpg" title="La loge de la Coudre, aujourd’hui disparue">}}
 
-La loge de la Coudre, aujourd’hui disparue date de la dernière guerre. 
+**La loge de la Coudre, aujourd’hui disparue date de la dernière guerre**. 
   
 {{<figure src="/images/articles/coudre2.jpg" title="La loge de la Coudre, bâtie par les Chômeurs">}}
 
@@ -136,21 +137,22 @@ Il avouera être l’auteur de ces incendies.
 **1976** 
 
 Le 14 juin, l’année de la sècheresse, le feu se déclare dans
-la maison d’Yves Camisy au Bout du Clos. Il n’en reste rien.
+la maison d’Yves Camisy au Bout du Clos. Il n’en restait
+rien...que des murs calcinés.
 	
 **Le 30 avril 1977 à 23h**
 
 Mr Jacob de Marigné prévient Calvel par téléphone
 que l’abri du Buisson risquait de prendre feu, la cheminée ayant été bourrée 
 de bois par des pique-niqueurs avant leur départ. 
-Emportant 100l d’eau, il nous est impossible d’approcher l’intérieur 
+*Emportant 100l d’eau, il nous est impossible d’approcher l’intérieur 
 de l’abri. A 2 heures du matin, avec l’aide sur place et 2 autres 
-transferts d’eau, tout danger est écarté.
+transferts d’eau, tout danger est écarté.*
 	
 **1984** 
 
-Le 29 avril, suite à l’incendie d’une loge, on détruit 
-le 2 mai systématiquement, toutes les cheminées des loges forestières.
+Le 29 avril, suite à l’incendie d’une loge, on détruit systématiquement
+le 2 mai, toutes les cheminées des loges forestières.
 	
 Le public a tellement maltraité ces loges que beaucoup ont été rasées,
   leur reconstruction coûtant plus cher qu'une simple démolition.	
