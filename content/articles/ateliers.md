@@ -20,13 +20,13 @@ En effet, de 1919 à 1931 nombre de pins ont subit cette traumatisante expérien
 Mais ces ateliers n’ont pas su attirer, contrairement à ceux du merrain l’attention des photographes. 
 Les bois de merrains étaient transformés en douelles pour barriques dans les ateliers situés en forêt ou
 dans les villages, tels ceux des tonneliers huiliers, recensés par Lucette Bardet de Château du Loir :
-* 1755 : René Savignard (la Huberdière)
-* 1806 : Pierre Savignard (Thoiré) et Jean Savignard
-* 1843 : Prospère Savignard (Volumiers) * 
-* Ou plus proche de nous, celui d’Albert Gateau, artisan tonnelier à St Vincent du Lorouër (1891-1987)
+*1755 : René Savignard (la Huberdière)*
+*1806 : Pierre Savignard (Thoiré) et Jean Savignard*
+*1843 : Prospère Savignard (Volumiers)* 
+*Ou plus proche de nous, celui d’Albert Gateau, artisan tonnelier à St Vincent du Lorouër (1891-1987)*
 
 *Lucien Miat a travaillé pour le Père Provost à la tâche, il a fait du merrain jusqu’en 1963 (il y en avait
-d’autres, mais i.ls sont décédés).
+d’autres, mais ils sont décédés)*
 Après il a été tonnelier et faisait des barriques à la Chartre sur le Loir*
 (Témoignage de Marcel Perroux, né en 1922)
 
@@ -110,7 +110,7 @@ L’hiver il faisait ses merrains avec son gars : Roger.*
 
 [Bois chantant]({{<ref "articles/bois-chantant.md">}})
 
-[Balay et habitat rustique]({{<ref "articles/balay.md">}})
+[Ballet et habitat rustique]({{<ref "articles/ballet.md">}})
 
 [Carbonisation]({{<ref "articles/carbonisation.md">}})
 
