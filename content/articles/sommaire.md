@@ -122,7 +122,7 @@ vers d'autres pages traitant du même thème.
 
 [Saint-Hubert]({{<ref "articles/saint-hubert.md">}})
 
-[Balay et habitat rustique]({{<ref "articles/ballet.md">}})
+[Ballet et habitat rustique]({{<ref "articles/ballet.md">}})
 
 [Loges forestières]({{<ref "articles/loges.md">}})
 
