@@ -20,7 +20,9 @@ charbonniers et autres sabotiers, étaient des survivances
 des premiers abris construits par les hommes avant l'*Histoire*
 
 Recherchons l'origine du mot **balay, balet, ballet, loge** selon les définitions du XVIIème. 
-Diverses orthographes...mais une seule destination : le bien être du forestier.
+Diverses orthographes... 
+
+Une seule destination : le bien être du forestier.
 
 
      Le Balay, ballet, balet, la loge, a pour
