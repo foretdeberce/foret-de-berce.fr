@@ -177,7 +177,7 @@ avec des perches de châtaigniers**
 {{<figure src="/images/articles/4ouvriers.jpg" title="A la pépinière de Sermaize">}}
 
 
-**Les Auxiliaires à la Loge de la pépinière de Sermaize**  (édifiée en 1952)
+**Les Auxiliaires à la Loge de la pépinière de Sermaize**  *(édifiée en 1952)*
 De gauche à droite : Bouttier – Blutteau – François – Leroux – Foussard –
   Fresneau – Hauteville – Bouyer – Boulay .  (Photo Calvel – février 1954) 
 
