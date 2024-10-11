@@ -41,7 +41,7 @@ Diverses orthographes...mais une seule destination : le bien être du forestier.
 
 
 
-Balai de sorcière
+**Balai de sorcière**
 … non, mais presque… le balai de sorcière est 
 un enchevêtrement de branchages sur les pins, 
 *(sa formation est due à une maladie)* Le balai de sorcière couvre la branche…
