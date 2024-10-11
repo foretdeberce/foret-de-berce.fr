@@ -201,12 +201,13 @@ Bois et tôles étaient prisés de tous mais quelques fois prenaient des pattes.
 {{<figure src="/images/articles/9meunier-ciret.jpg" title="Les familles Meunier et Ciret ">}}
 
 
-Ballet des familles Meunier et Ciret de Pruillé dans les Clos en 1964.
+**Ballet des familles Meunier et Ciret de Pruillé dans les Clos en 1964.**
 	
 {{<figure src="/images/articles/7111b22.jpg" title="Le ballet vu par © Michel Marc">}}
 
 											
-Le ballet, "palais" du bûcheron, qui y trouve un peu de quiétude et de chaleur au moment du repas 
+**Le ballet, "palais" du bûcheron**, 
+qui y trouve un peu de quiétude et de chaleur au moment du repas 
 
 {{<figure src="/images/articles/famillepie2002.jpg" title="La famille Pie en 2002">}}
 
