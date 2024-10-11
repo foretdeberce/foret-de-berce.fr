@@ -191,7 +191,7 @@ De gauche à droite : Bouttier – Blutteau – François – Leroux – Foussar
 de gauche à droite : André Chesnier, Georges Chambon, Camille Lemoine,
   Emile Chignard, Gaston Vérité, se confectionnent  sur le foyer à même 
   le sol, un vin chaud.
-(Photo Calvel 15 novembre 1959)
+*(Photo Calvel 15 novembre 1959)*
 
 {{<figure src="/images/articles/6famillepapillon.jpg" title="La famille Papillon dans leur balet">}}
 
