@@ -58,46 +58,46 @@ L’hiver il faisait ses merrains avec son gars : Roger.*
   BIGNON	Jacques	   Chahaignes
   BIGNON	Julien	   Chahaignes
   BIGNON	Jacques	   Chahaignes
-  BOUSSION Julien	   St Vincent du L
-  BRANJONNEAU	Alexandre	St Vincent du L
-  BUSSON 	Louis	St Vincent du L
-  BUSSON 	Eugène	St Vincent du L
+  BOUSSION Julien	   St Vincent 
+  BRANJONNEAU	Alexandre	St Vincent 
+  BUSSON 	Louis	St Vincent 
+  BUSSON 	Eugène	St Vincent 
   CADOR	Victor	Lavernat
   CHALIGNE	Henri	Marigné Laillé
   CHÂTEAU	Louis	Lavernat
-  DEREAU	René	St Vincent du L
-  DEREAU	Etienne	St Vincent du L
-  DEREAU	Etienne	St Vincent du L
-  DOMMÉE	Etienne	St Vincent du L
+  DEREAU	René	St Vincent 
+  DEREAU	Etienne	St Vincent 
+  DEREAU	Etienne	St Vincent 
+  DOMMÉE	Etienne	St Vincent 
   DOMMÉE	Jacques	Chahaignes
   DOMMÉE	François	Chahaignes
-  DOUCET	Pierre	St Vincent du L
-  DROUAULT	Gabriel 	St Vincent du L
-  DROUAULT	Laurent	St Vincent du L
-  DROUAULT	François	St Vincent du L
-  DROUAULT	François	St Vincent du L
-  DROUAULT	Etienne	St Vincent du L
-  DROUAULT	René	St Vincent du L
-  DROUAULT	René	St Vincent du L
-  DROUAULT	René	St Vincent du L
-  DROUAULT	Jean Baptiste	St Vincent du L
-  DROUAULT	Alexandre	St Vincent du L
-  DROUAULT	Joseph	St Vincent du L
-  DROUAULT	Joseph	St Vincent du L
-  DROUAULT	René	St Vincent du L
-  DROUAULT	Victor	St Vincent du L/St Pierre du L
-  DROUAULT	Arsène	St Vincent du L
-  DROUAULT	François	St Pierre du L
-  GUIMIER	Jean Baptiste	St Vincent du L
+  DOUCET	Pierre	St Vincent 
+  DROUAULT	Gabriel 	St Vincent 
+  DROUAULT	Laurent	St Vincent 
+  DROUAULT	François	St Vincent 
+  DROUAULT	François	St Vincent 
+  DROUAULT	Etienne	St Vincent 
+  DROUAULT	René	St Vincent 
+  DROUAULT	René	St Vincent 
+  DROUAULT	René	St Vincent 
+  DROUAULT	Jean Baptiste	St Vincent 
+  DROUAULT	Alexandre	St Vincent 
+  DROUAULT	Joseph	St Vincent 
+  DROUAULT	Joseph	St Vincent 
+  DROUAULT	René	St Vincent 
+  DROUAULT	Victor	St Vincent/St Pierre 
+  DROUAULT	Arsène	St Vincent 
+  DROUAULT	François	St Pierre 
+  GUIMIER	Jean Baptiste	St Vincent
   HERVÉ	Gabriel	Jupilles
-  HUGER	Julien	St Vincent du L
+  HUGER	Julien	St Vincent 
   JOUSSE	Auguste	Lavernat
-  LEBERT	Antoine	St Vincent du L
-  LEBERT	Antoine	St Vincent du L
+  LEBERT	Antoine	St Vincent 
+  LEBERT	Antoine	St Vincent 
   LEMOINE	Pierre	Chahaignes
   LESNAULT	Jean	Chahaignes
   MAILLARD	Charles	Thoiré/Dinan
-  RICHER	Louis	St Pierre du L
+  RICHER	Louis	St Pierre 
   ROGER	Victor	Lavernat 
   
   Cette liste est non exhaustive !
