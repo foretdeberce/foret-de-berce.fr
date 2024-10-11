@@ -193,4 +193,6 @@ Le public a tellement maltraité ces loges que beaucoup ont été rasées,
 
 ### Bibliographie : 
 	
-Le massif forestier de Bercé (Y. Gouchet - 2002) & Bercé, une forêt d’exception (Y. Gouchet - 2018)
+Le massif forestier de Bercé (Y. Gouchet - 2002) 
+
+& Bercé, une forêt d’exception (Y. Gouchet - 2018)
