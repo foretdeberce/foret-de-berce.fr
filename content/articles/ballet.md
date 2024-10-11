@@ -46,7 +46,8 @@ Une seule destination : le bien être du forestier.
 **Balai de sorcière**
 … non, mais presque… le balai de sorcière est 
 un enchevêtrement de branchages sur les pins, 
-*(sa formation est due à une maladie)* Le balai de sorcière couvre la branche…
+*(sa formation est due à une maladie)*
+Le balai de sorcière couvre la branche…
 comme la toiture de brande ou de bouleau sur le balet.
 
 *"On fait des balais de menuës branches de bouleau liées ensemble au 
@@ -64,7 +65,7 @@ et leurs familles.
 écartés des voies d’eau ou de terre ; La confection d’objets représentait un moyen
 de valoriser sur place les matières ligneuses et de leur ouvrir malgré les obstacles,
 une certaine zone d’exportation.*
-P.Deffontaines : L’Homme et la Forêt (Paris 1933) –
+P.Deffontaines : L’Homme et la Forêt (Paris 1933) 
 Roger Blais  : La Forêt (P.U.F. 1947).
 
      Les Loges ou huttes sont donc anciennes. 
@@ -89,7 +90,8 @@ des temps où il fallait écarter les fauves avec des brasiers.*
 
 {{<figure src="/images/articles/1habitatrustique.jpg" title="Habitat rustique sur Bercé">}}
 
-L’habitation rustique à Bercé est faite de planches et de branchages (au début Loge et Atelier sont liés).
+L’habitation rustique à Bercé est faite de planches et de branchages 
+(au début Loge et Atelier sont liés).
 
 Cabanes de Berger, baraque de fortune, hutte de sabotier, ballet de bûcheron, refuge du promeneur,
   la loge se décline ici sous toutes ses formes, de la plus rudimentaire à la plus sophistiquée.
@@ -126,7 +128,7 @@ Bernard Chevalier, de Saint Vincent, se souvient avoir fait des fagots pour la c
 
 {{<figure src="/images/articles/311b21.jpg" title="Atelier de merrains">}}
 
-{{<figure src="/images/articles/n110.jpg" title="Le balet de merrandier et l’atelier">}}
+{{<figure src="/images/articles/n110.jpg" title="Le ballet de merrandier et l’atelier">}}
 
 
 Transformation dans une coupe, de billons en produits manufacturés (Fendeurs de Merrains,
@@ -172,7 +174,7 @@ avec des perches de châtaigniers**
     demanderai une punition sévère contre le garde qui ne se 
     conformera pas à ces instructions.
   
-			29/01/1905 Signé : Hermier  Garde général à Ecommoy
+	29/01/1905 Signé : Hermier  Garde général à Ecommoy
   
     Cette même année la circulaire 689 dispense du timbre les
     demandes relatives aux désignations des Loges et Ateliers.
