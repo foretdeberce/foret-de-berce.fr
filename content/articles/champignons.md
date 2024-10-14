@@ -138,7 +138,7 @@ fait le point sur ce qu'on trouve en forêt en cet *automne 2016*.
 
 [Bois chantant]({{<ref "articles/bois-chantant.md">}})
 
-[Balay et habitat rustique]({{<ref "articles/balay.md">}})
+[Balay et habitat rustique]({{<ref "articles/ballet.md">}})
 
 [Les éhouppeurs]({{<ref "articles/ehouppeurs.md">}})
 

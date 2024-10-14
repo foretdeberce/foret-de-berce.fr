@@ -243,7 +243,7 @@ Le XXe siècle voient la révolution industrielle et la généralisation de l'em
 
 [Bois chantant]({{<ref "articles/bois-chantant.md">}})
 
-[Balay et habitat rustique]({{<ref "articles/balay.md">}})
+[Balay et habitat rustique]({{<ref "articles/ballet.md">}})
 
 [La glandée]({{<ref "articles/glandee.md">}})
 

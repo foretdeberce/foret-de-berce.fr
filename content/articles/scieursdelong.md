@@ -291,7 +291,7 @@ Les nouvelles sources d'énergie, les progrès vertigineux de l'industrialisatio
 
 [Bois chantant]({{<ref "articles/bois-chantant.md">}})
 
-[Balay et habitat rustique]({{<ref "articles/balay.md">}})
+[Balay et habitat rustique]({{<ref "articles/ballet.md">}})
 
 [Les éhouppeurs]({{<ref "articles/ehouppeurs.md">}})
 

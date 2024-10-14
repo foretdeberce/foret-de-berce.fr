@@ -484,7 +484,7 @@ Aujourd’hui, la technique innovante des trous circulaires dans l’écorce,
 
 [Bois chantant]({{<ref "articles/bois-chantant.md">}})
 
-[Balay et habitat rustique]({{<ref "articles/balay.md">}})
+[Balay et habitat rustique]({{<ref "articles/ballet.md">}})
 
 [Les éhouppeurs]({{<ref "articles/ehouppeurs.md">}})
 

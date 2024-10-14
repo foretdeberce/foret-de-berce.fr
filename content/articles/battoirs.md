@@ -127,7 +127,7 @@ qui faisait vivre la région.  ”
 
 [Bois chantant]({{<ref "articles/bois-chantant.md">}})
 
-[Balay et habitat rustique]({{<ref "articles/balay.md">}})
+[Balay et habitat rustique]({{<ref "articles/ballet.md">}})
 
 [Carbonisation]({{<ref "articles/carbonisation.md">}})
 

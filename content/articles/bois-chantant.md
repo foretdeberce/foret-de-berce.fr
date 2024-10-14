@@ -144,7 +144,7 @@ Quand le bois chante c’est la phase délicate où le "maître " accorde son in
 
 [Indigents]({{<ref "articles/indigents.md">}})
 
-[Balay et habitat rustique]({{<ref "articles/balay.md">}})
+[Balay et habitat rustique]({{<ref "articles/ballet.md">}})
 
 [Les éhouppeurs]({{<ref "articles/ehouppeurs.md">}})
 

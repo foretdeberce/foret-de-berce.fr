@@ -354,7 +354,7 @@ Une part importante des chênes de qualité et des hêtres au feuillage trop imp
 
 [Bois chantant]({{<ref "articles/bois-chantant.md">}})
 
-[Balay et habitat rustique]({{<ref "articles/balay.md">}})
+[Balay et habitat rustique]({{<ref "articles/ballet.md">}})
 
 [La glandée]({{<ref "articles/glandee.md">}})
 

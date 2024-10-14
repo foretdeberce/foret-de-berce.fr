@@ -591,7 +591,7 @@ Cet historique, nous fait comprendre l’attachement du monde rural à sa forêt
 
 [Bois chantant]({{<ref "articles/bois-chantant.md">}})
 
-[Balay et habitat rustique]({{<ref "articles/balay.md">}})
+[Balay et habitat rustique]({{<ref "articles/ballet.md">}})
 
 [Les éhouppeurs]({{<ref "articles/ehouppeurs.md">}})
 
