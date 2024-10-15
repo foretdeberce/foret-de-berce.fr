@@ -76,7 +76,7 @@ On parle des derniers ramassages des cônes par les ouvriers en novembre
 
 [Bois chantant]({{<ref "articles/bois-chantant.md">}})
 
-[Balay et habitat rustique]({{<ref "articles/ballet.md">}})
+[Ballet et habitat rustique]({{<ref "articles/ballet.md">}})
 
 [Carbonisation]({{<ref "articles/carbonisation.md">}})
 
