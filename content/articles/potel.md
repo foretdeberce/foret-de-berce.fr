@@ -139,6 +139,9 @@ Circonférence en :
 
 {{<figure src="/images/articles/cochardpotel.jpg"  title="fève de la boulangerie Cochard 2022">}}
 
+En octobre 2024, malgré une saison optimale pour les arbres sur Bercé, le chêne Potel
+donne des signes évidents de dépérissement.
+Il a perdu très récemment une de ses branches maitresse, handicapant sa croissance.
 
 {{<figure src="/images/articles/potel20140317.jpg"  title="Le chêne Potel">}}
 
