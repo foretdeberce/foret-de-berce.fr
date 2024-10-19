@@ -196,11 +196,14 @@ Depuis cette date ils affinent leur maîtrise de la terre et du feu.
 *Nous utilisons le grès du Berry pour produire une collection de pièces
   uniques et de vaisselle usuelle que nous cuisons dans le four
   à gaz ou le four à bois de type "anagama"*. 
+  
+Voici le reportage de "l'Infiltré" du 21 avril sur la Poterie de Saint-Hubert.
 
+{{<youtube id="B6jRhu7lajk">}}
 
 ### 1991 :
   
-En mars, le fond est mis en gérance, et c’est la famille Lardon qui est aux fourneaux.
+En mars, le fond du restaurant est mis en gérance, et c’est la famille Lardon qui est aux fourneaux.
   
 ### 1995 :
   
