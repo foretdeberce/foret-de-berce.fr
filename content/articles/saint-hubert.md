@@ -182,7 +182,7 @@ La famille Guettier rachète les murs en 1962. Elle exploitera l’établissemen
 Andrée Gilberte Tison (mamie Tison) pour les habitués rachète l’établissement.
   
   Elle savait tout comme les autres chefs des alentours de Bercé, 
-  si bien recevoir ce petit monde forestier.
+  si bien recevoir ce petit monde de la forêt.
 
 ### La poterie de Saint-Hubert.
   
@@ -197,7 +197,7 @@ Depuis cette date ils affinent leur maîtrise de la terre et du feu.
   uniques et de vaisselle usuelle que nous cuisons dans le four
   à gaz ou le four à bois de type "anagama"*. 
   
-Voici le reportage de "l'Infiltré" du 21 avril sur la Poterie de Saint-Hubert.
+Voici un reportage de "l'Infiltré" du 21 avril 2021 sur la Poterie de Saint-Hubert.
 
 {{<youtube id="B6jRhu7lajk">}}
 
