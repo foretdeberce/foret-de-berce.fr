@@ -28,6 +28,7 @@ celle des événements du temps où l'on n'était pas là.
 les chênes de Bercé sont les plus hauts du monde.
 Plus de 50m dans l'Hermitière !!!
 
+https://www.monumentaltrees.com/en/fra/sarthe/jupilles/4052_foretdeberce/
 
 Mais jusqu'à quelle hauteur, 
 les arbres peuvent-ils ainsi grimper ? **(1'18)**
