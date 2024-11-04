@@ -185,6 +185,15 @@ La dernière ligne droite ... **(7'19)**
 
 {{<youtube id="8F3Wkgd-3fU">}}
 
+**Mai 2024**
+
+État des lieux
+
+*Le chantier de Notre-Dame vu du ciel - Octobre 2024*
+
+{{<youtube id="vyoaoRSJSTE">}}
+
+
 ## Autres articles concernant les productions forestières: ## 
 
 [Indigents]({{<ref "articles/indigents.md">}})
