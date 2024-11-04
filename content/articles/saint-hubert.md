@@ -197,9 +197,6 @@ Depuis cette date ils affinent leur maîtrise de la terre et du feu.
   uniques et de vaisselle usuelle que nous cuisons dans le four
   à gaz ou le four à bois de type "anagama"*. 
   
-Voici un reportage de "l'Infiltré" du 21 avril 2021 sur la Poterie de Saint-Hubert.
-
-{{<youtube id="B6jRhu7lajk">}}
 
 ### 1991 :
   
