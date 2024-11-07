@@ -26,7 +26,7 @@ Heuré avait un traitement annuel de 450 f.
 En août 1912 le brigadier Marsac, pourtant en retraite depuis avril habite toujours la maison forestière...
   Bougreau et Sylvestre s’activent en août à déménager Marsac. 
   
-  Durant sa retraite, Albrecht (sans doute présent sur la photo)
+  Durant sa retraite, Albrecht (sans doute présent sur la photo d'introduction)
   s’occupera de tenir la caisse des concessionnaires, 
   c'est-à-dire qu’il était le gestionnaire de tous les menus produits de la forêt. 
   
