@@ -317,6 +317,41 @@ moins hauts. La prise au vent s'en trouvera améliorée
 et les tempêtes seront peut-être moins catastrophiques.
 À voir sur le long terme cet effet à double tranchant.
 
+## Souplesse de la génétique des chênes #
+
+     La génétique des chênes en forêt de Bercé.
+     Les populations de chênes sessiles (Quercus petraea),
+     prospérant depuis des siècles en forêt de Bercé 
+     présentent une diversité génétique remarquable.
+
+     Cette diversité est cruciale pour la résilience de
+     la forêt face aux changements climatiques, 
+     aux maladies et aux ravageurs.
+     Les études génétiques d’Alexis Ducousso 
+     (Ingénieur de recherche à l'Inrae Bordeaux-Aquitaine) 
+     montrent que cette diversité provient de plusieurs facteurs :
+     Les chênes de Bercé sont adaptés aux conditions climatiques 
+     et pédologiques de la région.
+
+     Des études de génétique adaptative montrent que ces arbres
+     possèdent des allèles spécifiques qui les aident à mieux
+     résister aux conditions locales, comme le type de sol
+     (souvent acide et pauvre en nutriments) et le climat
+     (tempéré mais avec des périodes de sécheresse).
+     Ils sont issus génétiquement de trois parentalités
+     (celle des chênes pubescents, pédonculés et sessiles)
+     
+     D’origine Hispanique les chênes de Bercé se montrent 
+     aussi en plantation comparées… plus performants.
+     Ces caractéristiques biologiques et génétiques les aident
+     à survivre et à prospérer dans des conditions de faible 
+     disponibilité en eau. 
+     
+     Ils illustrent la capacité d’adaptation de la nature 
+     face aux contraintes environnementales.
+
+
+
 ## Le changement climatique est bien présent ##
 
 {{<youtube id="ikdAa-9YQAQ">}} 
