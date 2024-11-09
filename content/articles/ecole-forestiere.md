@@ -303,6 +303,10 @@ Depuis lors, bon  nombre d'Officiers Forestiers,
       
      10 - Chêne EMERY (Parcelle 144) ancien aménagiste de Bercé. 
 
+## 1957 - Retour en Sarthe du Directeur de l'École supérieure du bois.##
+
+...à l'occasion d'une visite de l'école sur Bercé le 8 avril 1957 : [Lettre de remerciement adressée à Émile Ballion](/articles/pdf/roger-blais.pdf)
+
 ## Autres articles concernant les officiers forestiers : ## 
 
 
