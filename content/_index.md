@@ -46,7 +46,7 @@ Mais ici se termine la comparaison avec notre capitale !
 Pensez à indexer ce site sur vos écrans de téléphone,
 en y plaçant un raccourci !
 
-{{<figure src="/images/articles/foret-de-berce2.jpg"  title="le QR code du site">}}
+Grande 
 
 ### Pour ne pas se perdre dans le site :
 
@@ -60,3 +60,15 @@ L'onglet ***"Recherche"***,
 Dans chaque bas de page, ***des liens*** vous proposent des sujets concomitants.
 
 Le ***Sommaire*** regroupe tous les articles qui vous sont proposés.
+
+## GRANDE COLLECTE DE TEMOIGNAGES.
+
+{{<figure src="/images/articles/collecte2.jpg"  title="Grande collecte de témoignages">}}
+
+Proposez pour abonder la mémoire collective, vos textes, vos enregistrements, 
+vos photos et films, vos divers témoignages sur la forêt de Bercé. 
+(COLLECTE assurée jusqu'à la fin février 2025)
+Par le biais de ce site, contactez :  foretdeberce@gmail.com 
+
+
+
