@@ -11,10 +11,9 @@ featured_image: '/images/chene-muriel.jpg'
 
 {{<figure src="/images/articles/collecte2.jpg"  title="Grande collecte de témoignages">}}
 
-Proposez vos textes, vos enregistrements, 
-vos photos et films 
-ainsi que vos témoignages sur les hommes, les fêtes, la faune, 
-la flore, la guerre...
+Proposez vos témoignages, vos enregistrements, 
+vos photos et films ainsi que vos souvenirs 
+sur les hommes, les fêtes, la guerre...
 bref...tous les secrets cachés et enfouis en forêt de Bercé. 
 
 **(COLLECTE assurée jusqu'à la fin février 2025)**
