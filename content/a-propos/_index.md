@@ -52,8 +52,7 @@ Pour en conserver la mémoire, un premier ouvrage
 Cet ouvrage paru aux éditions Alan Sutton dans la collection
   **mémoire en images**, détaillait le côté visuel de l’histoire 
   de la forêt de Bercé, présentant un bon nombre de photographies et
-  cartes postales anciennes, accompagnées de courts textes. 
-  
+  cartes postales anciennes, accompagnées de courts textes.   
 *Cet ouvrage est aujourd’hui épuisé.*
 
 Un deuxième ouvrage **L'or vert de La Sarthe** paru aux éditions de la Reinette,
@@ -73,7 +72,7 @@ L'action était inscrite au sein du livret
   
 *Bercé Forêt d’Exception : 14 actions pour la forêt et le territoire*
   
-Le livre **Bercé, une forêt d’exception** est aujourd'hui aussi épuisé !
+Le livre **Bercé, une forêt d’exception** est aujourd'hui en réimpression !
  
 ### Bercé, ce trésor est à partager !
 
@@ -99,8 +98,10 @@ foretdeberce@gmail.com
 
   
 ### Merci aux diffuseurs actifs qui ont oeuvré à faire perdurer la mémoire !
- 
-***Au plus près de la forêt :*** 
+
+**Librairie Thuard au Mans** 
+
+*Et au plus près de la forêt :* 
   
 **L'Âme du Cinq** 
 72220 Écommoy
@@ -110,7 +111,8 @@ foretdeberce@gmail.com
 
 **Carnuta**
 La Maison de l'Homme et de la Forêt 72500 Jupilles **(2'25")**.
-Seul endroit ou **Le livre est encore disponible**
+
+**Réédition du livre prévue en décembre 2024**
 
   {{<youtube id="46jt3N0wuMw">}} 
 
