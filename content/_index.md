@@ -65,10 +65,17 @@ Le ***Sommaire*** regroupe tous les articles qui vous sont proposés.
 
 {{<figure src="/images/articles/collecte2.jpg"  title="Grande collecte de témoignages">}}
 
-Proposez pour abonder la mémoire collective, vos textes, vos enregistrements, 
-vos photos et films, vos divers témoignages sur la forêt de Bercé. 
-(COLLECTE assurée jusqu'à la fin février 2025)
-Par le biais de ce site, contactez :  foretdeberce@gmail.com 
+Proposez pour abonder la mémoire collective,
+vos textes, vos enregistrements, 
+vos photos et films 
+ainsi que vos témoignages sur les hommes, les fêtes, la faune, 
+la flore...
+bref...tous les secrets cachés de la forêt de Bercé. 
+
+**(COLLECTE assurée jusqu'à la fin février 2025)**
+
+Par le biais de ce site,
+contactez :  foretdeberce@gmail.com 
 
 
 
