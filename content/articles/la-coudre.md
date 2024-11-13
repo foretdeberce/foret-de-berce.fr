@@ -363,7 +363,6 @@ Survol de la fontaine de la Coudre en 2019.
 [Des travaux de remise en état de la prairie humide ont été diligentés par l'ONF](/articles/pdf/lacoudren2000.pdf)
 
 
-{{<figure src="/images/articles/coudre20241113.jpg" title="Après ouverture, le 13 novembre 2024">}}
 
 ## Pages en rapport avec le tourisme sur Bercé ##
 
