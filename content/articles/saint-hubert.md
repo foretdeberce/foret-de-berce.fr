@@ -217,8 +217,8 @@ Une croix forestière haute de quatre mètres et d’un poids d’une tonne,
 ### 2007 :
   
 La gérance passe la main, et désormais, avant de partir chasser à courre, 
-  les équipages partagent ensemble un solide petit-déjeuner chez Richard 
-  et Sandrine Hardouin, dont le lien avec la forêt est encore très fort, 
+  les équipages partagent ensemble un solide petit-déjeuner 
+  chez Richard Hardouin, dont le lien avec la forêt est encore très fort, 
   et qui s’articule autour du  père : Jean Louis Hardouin, 
   président du GIC de Bercé (Groupement d'intérêt cynégétique).
   
