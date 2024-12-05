@@ -187,7 +187,18 @@ La dernière ligne droite ... **(7'19)**
 
 **Mai 2024**
 
-État des lieux
+
+***Ouest-France du 1er mai 2024***
+
+La sémiologue Mariette Darrigrand (qui analyse les signes au sein de la
+vie sociale : symboles, gestes, photographies, icônes, mots, logos, vêtements, etc.) 
+soutient l'idée que l'origine du mot travail vient du latin ***trabes***
+donnant le mot travée,la poutre sur laquelle repose le toit. 
+*"Par extension, dit-elle, on peut dire que le travail est un soutien
+et qu'il charpente nos vie. Il faut se saisir de cette image du travail 
+qui prend racine dans un beau bois issu de la forêt."* 
+
+# État des lieux en Octobre
 
 *Le chantier de Notre-Dame vu du ciel - Octobre 2024*
 
