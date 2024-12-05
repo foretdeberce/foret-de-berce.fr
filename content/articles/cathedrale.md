@@ -185,8 +185,6 @@ La dernière ligne droite ... **(7'19)**
 
 {{<youtube id="8F3Wkgd-3fU">}}
 
-**Mai 2024**
-
 
 ***Ouest-France du 1er mai 2024***
 
@@ -198,7 +196,7 @@ donnant le mot travée,la poutre sur laquelle repose le toit.
 et qu'il charpente nos vie. Il faut se saisir de cette image du travail 
 qui prend racine dans un beau bois issu de la forêt."* 
 
-# État des lieux en Octobre
+***État des lieux en Octobre***
 
 *Le chantier de Notre-Dame vu du ciel - Octobre 2024*
 
