@@ -199,11 +199,60 @@ P.D.F. à votre disposition pour étayer l’argumentation L.I.D.A.R. :
 [L’apport des données L.I.D.A.R. sur la foret domaniale de Bercé](/articles/pdf/dardignac-lejeune2016.pdf)
   
 [prospections L.I.D.A.R. sur la forêt de Bercé](/articles/pdf/lejeune-hd.pdf)
-  
+
+  ### le cas des enclos fins
+
+     Les enclos fins visibles sur les clichés des missions LiDAR 
+     au-dessus des forêts sont souvent des structures 
+     anthropiques anciennes, témoins d'activités humaines passées.
+     Voici quelques hypothèses sur leur usage :
+     
+     1. Enclos agricoles
+     
+     Ces enclos pourraient avoir servi à délimiter des champs
+     cultivés ou des zones de pâturage.
+     Les lignes fines correspondent souvent à des haies, 
+     des murets de pierre ou des fossés destinés à retenir 
+     le bétail ou à délimiter des propriétés.
+     
+     2. Enclos funéraires ou cultuels
+     
+     Certaines structures étaient utilisées pour des rituels
+     ou des sépultures. Les sites protohistoriques ou 
+     néolithiques comportent parfois des cercles ou des 
+     enclos, destinés à des cérémonies.
+     
+     3. Défense et protection
+     
+     Des enclos servaient parfois de fortifications légères
+     pour protéger des biens ou du bétail contre les prédateurs
+     ou les pillards.
+     
+     Ces structures pouvaient aussi marquer des limites entre
+     des territoires de clans ou de communautés.
+     
+     4. Vestiges d’habitats
+     
+     Les enclos peuvent indiquer des zones d’habitation, 
+     parfois entourées de palissades pour se protéger ou 
+     pour organiser les espaces domestiques et agricoles.
+     
+     5. Gestion des ressources
+     
+     Ils pouvaient délimiter des zones pour exploiter des 
+     ressources spécifiques (bois, minerais, eaux) 
+     ou réguler la chasse.
+
+
+Analyse grâce au LiDAR
+
+Le LiDAR est particulièrement utile pour révéler ces structures car il "voit" à travers la végétation, permettant de détecter les traces enfouies sous la canopée. L'étude de ces structures nécessite généralement une interprétation plus approfondie à l'aide de fouilles archéologiques ou de recherches historiques.
+
+Les enclos fins sont donc des témoins précieux pour comprendre les modes de vie, l'organisation sociale et les activités économiques des sociétés passées.
 
 ### Qu'est-ce que le L.I.D.A.R. ?
-  
-  
+
+    
 Le L.I.D.A.R., Light Detection an Ranging,
   est un système topographique extrêmement précis. 
 Embarqué dans un avion, un scanner balaye d’impulsions 
