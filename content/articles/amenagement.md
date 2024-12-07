@@ -15,8 +15,10 @@ Les grands défrichements médiévaux se sont achevés autour de Bercé vers
 le 12ème siècle. A cette époque, la forêt faisait partie des possessions
 de la Couronne d’Angleterre.
 
-Mais jusqu’en 1843 l’on constata la 
-présence de vide bien souvent laissés par l’agriculture et l’élevage.
+Au XIIIème siècle, l'administration des eaux et forêts, comme celle des autres parties du domaine royal, appartenait aux baillis et sénéchaux
+
+
+[Au XIIIème et XIIIème siècle](/articles/pdf/administration14et15esiecle.pdf),
 
 **Elle devint forêt royale en 1337.**
 
@@ -255,7 +257,8 @@ sylviculture dite « dynamique », ramené à 180 ans.
 L’âge d’exploitabilité des chênes, abaissé de 200 à 100 ans en 1783, est
 heureusement ramené à 150, puis 180 ans avant la fin du 18ème siècle. 
   
-
+Mais jusqu’en 1843 l’on constata la 
+présence de vide bien souvent laissés par l’agriculture et l’élevage.
   
 ### 1843 - Troisième aménagement 
   
