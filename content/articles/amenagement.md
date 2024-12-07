@@ -15,12 +15,15 @@ Les grands défrichements médiévaux se sont achevés autour de Bercé vers
 le 12ème siècle. A cette époque, la forêt faisait partie des possessions
 de la Couronne d’Angleterre.
 
-Au XIIIème siècle, l'administration des eaux et forêts, comme celle des autres parties du domaine royal, appartenait aux baillis et sénéchaux
+Au XIIIème siècle, l'administration des eaux et forêts, comme celle des autres
+parties du domaine royal, appartenait aux baillis et sénéchaux.
+
+**Bercé devint forêt royale en 1337.**
 
 
-[Au XIIIème et XIIIème siècle](/articles/pdf/administration14et15esiecle.pdf),
+[Au XIVème et XVème siècle](/articles/pdf/administration14et15esiecle.pdf)
 
-**Elle devint forêt royale en 1337.**
+
 
 Malgré  la  possession  du  Roi  et  l'ordonnance  de  1346  qui
 avait interdit de créer de nouveaux droits d'usage dans les forêts 
