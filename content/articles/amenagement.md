@@ -12,7 +12,12 @@ La forêt de Bercé, au fil du temps n’a pas échappé aux défrichements.
 Les traces néolithiques et gallo-romaine en font foi.
 
 Les grands défrichements médiévaux se sont achevés autour de Bercé vers
-le 12ème siècle. A cette époque, la forêt faisait partie des possessions
+le 12ème siècle. 
+
+
+[Les forêts du roi au Moyen-âge ](/articles/pdf/administrerlesforetsduroiaumoyenage.pdf)
+
+A cette époque, la forêt faisait partie des possessions
 de la Couronne d’Angleterre.
 
 Au XIIIème siècle, l'administration des eaux et forêts, comme celle des autres
