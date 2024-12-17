@@ -15,7 +15,7 @@ Les grands défrichements médiévaux se sont achevés autour de Bercé vers
 le 12ème siècle. 
 
 
-[Les forêts du roi au Moyen-âge ](/articles/pdf/administrerlesforetsduroiaumoyenage.pdf)
+[Les forêts du roi au Moyen-âge : 1204-1328](/articles/pdf/administrerlesforetsduroiaumoyenage.pdf)
 
 A cette époque, la forêt faisait partie des possessions
 de la Couronne d’Angleterre.
