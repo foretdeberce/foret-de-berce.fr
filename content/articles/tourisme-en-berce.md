@@ -12,7 +12,7 @@ tags: ["Remarquables","Tourisme","Hommes","Tramway","Hermitiere","Coudre","Boppe
 
 [à propos du tourisme](/articles/pdf/aproposdutourisme.pdf)
 
-### 3 Avril 1905
+### 3 avril 1905
 
 Dès le xxe siècle, le tourisme se développe avec les avancées techniques et 
 le développement de l'automobile. Note de Roulleau :
@@ -42,9 +42,9 @@ Touring-Club, des Débats, ou du Petit Parisien sont avec nous.
 J’espère donc que les gardes de Bercé rempliront leur devoir sans 
 passion comme sans faiblesse.*
 
-### 5 Mars 1920
+### 5 mars 1920
 
-Le Conseiller d’État, Directeur Général des E et F (L.DABAT) s’exprime en ces mots :
+Le Conseiller d’État, Directeur Général des Eaux et Forêts (L.DABAT) s’exprime en ces mots :
 
 *Le Tourisme constituant pour la France, une source d’importants revenus, il importe
 dans les circonstances actuelles, plus encore que par le passé, d’en favoriser le 
@@ -53,19 +53,27 @@ portions de notre patrimoine national, présentent pour les touristes un attrait
 Il importe d’accroître encore nos efforts pour conserver et mettre en valeur les 
 beautés naturelles des forêts, ainsi que pour y faciliter la circulation des touristes.
 Mesures de conservation (n’entraînant aucune dépense) :
+
 •	Création en France de 44 séries artistiques ( groupe d’arbres remarquables pour leur forme, leurs dimensions, leur situation.
+
 •	Les routes, sentiers fréquentés, les carrefours et ronds-points doivent être bordés de réserves.
+
 •	Les emplacements de carrières doivent également être choisis avec soins.
+
 •	Mettre en valeur les souvenirs historiques.
-Mesures d’amélioration :
-•	Amélioration des routes et sentiers touristiques ( élargissement des routes).
+
+## Mesures d’amélioration :
+
+•	Amélioration des routes et sentiers touristiques (élargissement des routes).
 (pour que l’ombre des arbres (Réserves) ne donne pas trop d’humidité à la partie 
 empierrée, on sera parfois amené à créer, de chaque côté de celle-ci, un large 
 accotement gazonné, coupé de saignées pour l’écoulement des eaux.
+
 •	Les carrefours devront avoir un diamètre suffisant.
+
 •	Certaines parties de forêt, pourront être aménagées en Parc, en Jardin.*
 
-### 10 Mai 1920
+### 10 mai 1920
 
 Note de Potel à porter verbalement à la connaissance
 des gardes en réunion de brigade.
@@ -80,7 +88,7 @@ nouveaux sentiers seront tracés, s’il en est besoin.
 La question des plaques indicatrices, devra être aussi étudiée.	
 Propagande Touristique*
 
-**27 Déc. 1924**
+**27 décembre 1924**
 
 En vue de la préparation d’une brochure de Propagande destinée au Public 
 Anglais au sujet de la Chasse et de la Pêche en Sarthe, lieux desservis
@@ -97,7 +105,8 @@ publicité à la disposition des Compagnies privées.*
 *D’autre part les indemnités de déplacement qui sont allouées à ces
 Préposés ne sont pas destinées pour servir à des
 intérêts particuliers.*
-Point de vue partagé par le Brigadier Albrecht.
+
+(Point de vue partagé par le Brigadier Albrecht.)
 
 
 {{<youtube id="hHovPnvJXkw">}}
@@ -192,7 +201,9 @@ Note de Mr l’inspecteur principal Potel
 Il existe déjà à Bercé, aux Cantons des Clos et des Forges, deux séries artistiques :
   
 **1.**	la 1ère depuis longtemps
-**2.**  la 2ème proposée depuis 1920 et dont le classement sera de nouveau proposé cette année.
+
+**2.**  la 2ème proposée depuis 1920 et dont le classement 
+sera de nouveau proposé cette année.
   
 18 Septembre 1929, réponse d’Albrecht :
 
@@ -202,11 +213,20 @@ pré-comptables : 130 – 140 – 141 – 27.*
   
 ### 1936
   
-Confection de l'accès au Chemin de la Coudre (voir route) – délimitation du chemin des Salles Maison Neuve : Terrain labouré en 1937.
+Confection de l'accès au Chemin de la Coudre (voir dossier sur les routes)  
+délimitation du chemin des Salles Maison Neuve : Terrain labouré en 1937.
 
 *Le 31/08/42 Vu des opérateurs de Cinéma en train de filmer sur la croix Segrier.*
 
   Aujourd'hui Bercé attire par sa renommée quantité de monde.
+  Aussi faut-il dès 1974 canaliser le touriste.
+  Une zone de silence sera établie dès cette époque, matérialisée par des "panneaux acier", 
+  disposés tout autour du canton de la Gaie-Mariée.
+  1984, sera l'occasion pour moi, de fabriquer le premier panneau à destination du public sur Bercé.
+  Il sera édifié au rond Wautot, entouré de la symbolique de ce grand arpenteur des Eaux et Forêts.
+  Voici le petit bout de film **(1'45)** réalisé à l'époque par Jean Manac'h.
+
+   {{<youtube id="gJRhISFPaPw">}}  
   
  ## La randonnée
   
