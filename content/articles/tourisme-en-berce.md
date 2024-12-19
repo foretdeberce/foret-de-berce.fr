@@ -222,9 +222,13 @@ délimitation du chemin des Salles Maison Neuve : Terrain labouré en 1937.
   Aussi faut-il dès 1974 canaliser le touriste.
   Une zone de silence sera établie dès cette époque, matérialisée par des "panneaux acier", 
   disposés tout autour du canton de la Gaie-Mariée.
-  1984, sera l'occasion pour moi, de fabriquer le premier panneau à destination du public sur Bercé.
-  Il sera édifié au rond Wautot, entouré de la symbolique de ce grand arpenteur des Eaux et Forêts.
-  Voici le petit bout de film **(1'45)** réalisé à l'époque par Jean Manac'h.
+
+### 1984 Pose du premier panneau touristique sur Bercé:
+
+1984, sera l'occasion pour moi, de fabriquer le premier panneau à destination du public sur Bercé.
+Il sera édifié au rond Wautot, entouré de toute la symbolique de ce grand arpenteur des Eaux et Forêts.
+
+Voici le petit bout de film **(1'45)** réalisé à l'époque par Jean Manac'h.
 
    {{<youtube id="gJRhISFPaPw">}}  
   
