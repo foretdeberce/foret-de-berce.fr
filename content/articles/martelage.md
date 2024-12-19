@@ -117,6 +117,9 @@ L’équipe est composée des préposés (ou gardes qui tiennent marteaux et com
  Bibliographie : **(1)** Revue des Eaux et Forêts - 1896.
 
 ### Les marteaux 
+
+[Marteaux et Pucelles, sujet traité par Renaud Trangosi (His Tra For)](/articles/pdf/marteauxetpucelles.pdf)
+
   
 **Le marteau particulier et le marteau chablis.** 
 
