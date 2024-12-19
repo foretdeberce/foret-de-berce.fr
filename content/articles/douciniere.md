@@ -88,6 +88,16 @@ Il décèdera dans sa Bretagne natale le 30 juillet 2002.
   
 La rénovation complète de la M. F. s’étalera de 1977 à 1979.
 
+### 1980
+
+Un jeune forestier arrivera par la suite qui deviendra lui aussi (c'est un privilège du poste) 
+responsable de production à la pépinière de Sermaize, l'une des 3 principales pépinières de Bercé.
+Jean Manac'h, alors forestier aux Renardières nous livre à l'été 1984 cet aperçu furtif de
+la pépinière **(0'26)** et de son responsable : Bernard Serain.
+
+{{<youtube id="7oj5tcD6KN0">}}
+
+
 ## Autres articles concernant les maisons forestières : ## 
 
 [Un Corse à Bercé]({{<ref "articles/cesari.md">}})
