@@ -95,6 +95,7 @@ responsable de production à la pépinière de Sermaize, l'une des 3 principales
 Jean Manac'h, alors forestier aux Renardières nous livre à l'été 1984 cet aperçu furtif de
 la pépinière **(0'26)** et de son responsable : Bernard Serain.
 
+
 {{<youtube id="7oj5tcD6KN0">}}
 
 
