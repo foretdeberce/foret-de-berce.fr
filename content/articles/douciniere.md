@@ -38,7 +38,7 @@ C’est un bon exemple d’intégration dans notre contrée.
 Messager, dont les voisins diront qu’il aimait bien sa cave, tant et si bien qu’il s’y cachait, 
   avait été, durant la dernière guerre, mobilisé au centre des bois N°15 à Versailles pour une 
   quinzaine avant d’être affecté jusqu’à nouvel ordre à son poste.
- En août 1951 il rejoindra son poste de SaintRémy (Côte-d’Or). 
+ En août 1951 il rejoindra son poste de Saint-Rémy (Côte-d’Or). 
  
 Sur le livret d’ordres du garde Messager, figure en bonne place à la journée 
   du 7 mai 1941 et pour toute la durée de celle-ci :
@@ -53,7 +53,9 @@ Sur le livret d’ordres du garde Messager, figure en bonne place à la journée
  
 Leclercq Albert Né à Neufchâtel-en Saosnois le 12 juin 1902. Brigade 2 – Triage 3. 
  Garde de 3ème classe en poste du 1er mars 1932 jusqu’au 21 mai 1937 à la M.F. de la Doucinière,
- il fut installé par son brigadier : Pierre Féliot. Il succède au garde Jules Verseau. 
+ il fut installé par son brigadier (Pierre Féliot).
+ 
+ Il succède au garde Jules Verseau. 
  Originaire de Radon, dans l’Orne, son dernier poste se situait à Conflans-sur-Seine. 
  
  {{<figure src="/images/articles/albertleclercq1960.jpg" title="Albert Leclercq en 1960">}}
@@ -75,7 +77,9 @@ L'électricité arrive à la maison forestière en octobre 1954,
   En juillet on vide le puits et remonte une taupe décomposée et des limaces
   (les anciens trous d’échafaudage n’avaient sans doute pas été bouchés).
   En janvier 1953, l’ingénieur Lorne demande à ce que chaque mois il y soit mis de l’eau de javel.
-  Une pompe est installée en octobre 1957. Bardet est revenu en janvier 1958 
+  Une pompe est installée en octobre 1957.
+  
+  Bardet est revenu en janvier 1958 
   faire la désinfection par un apport de permanganate et de chlorate de soude. 
   Il a encore été remonté un morceau de poils et de peau...vraisemblablement un rat ! 
   
@@ -88,9 +92,13 @@ Il décèdera dans sa Bretagne natale le 30 juillet 2002.
   
 La rénovation complète de la M. F. s’étalera de 1977 à 1979.
 
-### 1980 à l'affiche du poste : La pépinière de Sermaize.
+### 1980
 
-Un jeune forestier arrivera par la suite qui deviendra lui aussi (c'est un privilège du poste) 
+à l'affiche du poste :
+
+**La pépinière de Sermaize.**
+
+Un jeune forestier arrive par la suite qui deviendra lui aussi (c'est un privilège du poste) 
 responsable de production à la pépinière de Sermaize, l'une des 3 principales pépinières de Bercé.
 Jean Manac'h, alors forestier aux Renardières, nous livre à l'été 1984 cet aperçu furtif de
 la pépinière **(0'26)** et de son responsable : Bernard Serain.
