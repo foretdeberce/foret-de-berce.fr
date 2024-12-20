@@ -85,12 +85,12 @@ L'électricité arrive à la maison forestière en octobre 1954,
   
 Goenvec, ce Breton , ancien des "Corps francs", cité pour fait de résistance, fut avec Calvel, chargé de ma formation.
 Jeannette son épouse, savait avec empathie recevoir les forestiers lors des repas de martelage. 
-Louis participera à la vie communale de Pruillé, élu sur la liste d’Émile BALLION en mars 1971.
+Louis participera à la vie communale de Pruillé, élu sur la liste d’Émile Ballion en mars 1971.
 Son unique moyen de locomotion fut … un Solex. 
 
 Il décèdera dans sa Bretagne natale le 30 juillet 2002.
   
-La rénovation complète de la M. F. s’étalera de 1977 à 1979.
+La rénovation complète de la maison forestière s’étalera de 1977 à 1979.
 
 ### 1980
 
