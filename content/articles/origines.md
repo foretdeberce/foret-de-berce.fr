@@ -89,7 +89,7 @@ ont pu nous léguer un si beau massif.
      créant ainsi des droits d'usage bien souvent abusifs
      qui ne cesseront qu'au XVIIe. 
      
-   ### XIIe Siècle  ### 
+   ### XIIe Siècle   Possession Anglaise  
    
      La fille de Mathilde de Château du Loir et d' 
      Hélie de la Flèche épouse en 1107 
