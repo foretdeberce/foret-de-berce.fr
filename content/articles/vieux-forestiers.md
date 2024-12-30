@@ -35,8 +35,18 @@ En l’an 877, après Charlemagne, Charles II le Chauve, par capitulaire, rend h
 
 Gervais II, évêque du Mans, Seigneur de Château du Loir, succède à Gervais Ier. 
 
+
+## Bercé Possession Anglaise
+
+Par le jeu des successions, elle appartient successivement 
+à la Maison d'Anjou puis aux rois d'Angleterre à partir 
+du Xème Siècle  jusqu’à  1337. 
+
+Elle sera définitivement rattachée à la Couronne Royale en 1595.
+
 **XIe siècle :**
 
+Période du Moyen-âge 1067/1097:
 Foulques Néra, Comte d'Anjou concède la partie Est de Bercé à Malleran de Nouâtre. 
 Celui-ci la transmet à Cléopas le dernier de ses fils. 
 Ce nom de forêt de Bercay et de Cléophas perdurera jusqu'au XVIIIe
@@ -51,7 +61,6 @@ neveux tourangeaux dont Geoffroy de Sanzay. Les possessions particulières
 se développent en forêt, créant ainsi des droits d'usage bien souvent 
 abusifs qui ne cesseront qu'au XVIIe siècle. 
 
-**Période du Moyen-âge 1067/1097:** 
 
 Gervais II, seigneur de Château-du-Loir, 
 dont l'ascendance est historiquement liée au royaume de France, 
@@ -62,6 +71,39 @@ Un des témoins de cet acte était le forestier de l'époque qui s'appelait Gaub
 Le texte du *Cartulaire de Château-du-Loir* porte en effet : 
 
 *« Testcs sunt isti : Hubertus, ejusdem Cleopa filiu, Gausbertus forestarius »*.
+
+**En Sarthe, l'empreinte de la dynastie Plantagenêt :**
+
+     Hérités des comtés mis en place par Charlemagne et convoités
+     par ses puissants voisins normands et angevins, le Maine entre,
+     au XIIème siècle, dans la mouvance angevine.
+     Le lien des Plantagenêt et du Mans s'établit le 17 juin 1128
+     avec le mariage dans la cathédrale de Geoffroy Plantagenêt, 
+     comte d'Anjou et du Maine et de Mathilde, veuve de l'Empereur
+     d'Allemagne. Petite fille de Guillaume le Conquérant, elle 
+     est l'héritière du royaume d'Angleterre et du duché de Normandie.
+     
+     Leur fils Henry est né en 1133 dans le palais comtal du Mans
+     (actuel Hôtel de Ville) et fût baptisé dans la cathédrale 
+     Saint-Julien. Mort en 1151, Geoffroy est enterré dans la
+     cathédrale : la plaque en émail le représentant ornait
+     autrefois son tombeau. 
+     Elle est exposée au Musée Jean-Claude Boulard ... 
+     Carré Plantagenêt, le musée d'archéologie et d'histoire du Mans.
+     
+     En 1152, Henri épouse Aliénor d'Aquitaine qui lui apporte 
+     en dot tout le sud-ouest de la France. Il est couronné roi 
+     d'Angleterre en 1154. Le Maine est alors pris dans les conflits
+     entre royaumes d'Angleterre et de France. Leur fils 
+     Richard Cœur de Lion partant en Terre Sainte, 
+     épouse en 1191 à Chypre, Bérengère de Navarre. 
+     Devenue veuve, la reine Bérengère obtient, en 1204,
+     la gestion de la cité mancelle et du territoire alentour. 
+     Elle vivra 25 ans dans le palais comtal et royal.
+     
+     La souveraine repose au Mans, à l'Abbaye Royale de 
+     l'Épau qu'elle a fondée.
+
 
 
 **XIIe siècle :**
