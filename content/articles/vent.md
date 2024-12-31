@@ -14,6 +14,7 @@ tags: ["Arbre","Météo","Pluie","Froid"]
 ### Le vent
 
 Le plus grand fléau de la forêt, est avec le feu, la conjugaison du vent et de la pluie. 
+Les sols gorgés d'eau se désagrègent vite avec l'effet de succion généré par le vent.
 Une forte rafale de vent sur un sol détrempé et c’est la catastrophe assurée.
 Sur Bercé, au fil du temps, de grandes "ventouses" (gros coups de vent brisant les arbres)
 ont imprimé sur le sol, leur passage. 
