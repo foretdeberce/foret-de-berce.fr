@@ -211,9 +211,12 @@ du Souvenir et de Gaie-Mariée. Les arbres sont défibrés sur pied, la presse r
  
 
 ### 26 et 27 décembre 1999 :
+
+## Passage de 2 ouragans : Lothar et Martin
  
 80% de l’espace forestier Français est gravement atteint dans son intégrité par des
-vents de 90 à 200 km/h. Même les jeunes peuplements de pins, en première ligne des coups de boutoirs sont impactés.
+vents de 90 à 200 km/h. Même les jeunes peuplements de pins, en première ligne des coups de boutoirs 
+sur Bercé sont impactés.
 
  {{<figure src="/images/articles/26dec99p63.jpg" title="La parcelle 63 ravagée">}} 
  
