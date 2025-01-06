@@ -221,7 +221,9 @@ a bien mérité de la Résistance et compte parmi les glorieux artisans de la vi
  
 {{<figure src="/images/articles/image10.jpg" title="Mur de l’école de Saint Vincent">}}
 
-
+## Voici l'histoire racontée au journal Ouest-France,
+par son fils, le Général Michel Muriel à la veille du 11 novembre 2023 : 
+[en pièce jointe le PDF de l'article](/articles/pdf/georgesfrancemuriel.pdf)
 
 ### Les grands témoins :
 
