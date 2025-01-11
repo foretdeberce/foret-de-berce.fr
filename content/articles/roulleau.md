@@ -10,42 +10,48 @@ tags: ["Tourisme","Arbres","Chênes","Toponymie","Hommes"]
 ### Louis René Roulleau de la Roussière
 
 Est né le 14 novembre 1857 à Blois.
-Son père Louis Roulleau de la Roussière : inspecteur adjoint à Blois (1830-1865)
-et sa mère Marie Anne Noémie Beaussier (1833-1909)sont originaires de Château-la-Vallière.
 
-**Son père**     
+**Louis... le père** 
 
-     fait partie de la 28ème Promotion de l'ENEF 
+Louis Roulleau de la Roussière est inspecteur adjoint à Blois (1830-1865)
+et sa mère Marie Anne Noémie Beaussier (1833-1909) sont originaires de Château-la-Vallière.
+
+    
+
+     Il fait partie de la 28ème Promotion de l'E.N.E.F. 
   
      Patrick Deffes nous précise le détail de cette 
      28ème promotion (1851) en y ajoutant la source :
      
-     "l'Enseignement forestier en France - 
-     l'école de Nancy par Charles GUYOT 1898." 
+     "L'enseignement forestier en France - 
+     L'école de Nancy par Charles GUYOT - 1898." 
      
-     dont l'éffectif se composait de : "Broillard, Guerrier de Dumast, 
-     Jolyet, Puton, Roussel (Edmond), Carichon, Lambert (Henri),
+     L'effectif se composait de 12 élèves :
+     "Broillard, Guerrier de Dumast, Jolyet, 
+     Puton, Roussel (Edmond), Carichon, Lambert (Henri),
      Ouvrard de Linière (Jules Joseph Raoul), Gouet, 
-     Roulleau de la Roussière (Louis), Philippe, de Wegmann. Total : 12."
+     Roulleau de la Roussière (Louis), Philippe, de Wegmann.
      
-     Et Richard  Bacchetta complète avec le livre de P.M. WEYD, 
+     Richard Bacchetta complète cette liste avec le livre de P.M. WEYD, 
      
-     "Etat des services  de l'école forestière"
+     "État des services de l'école forestière"
      
-     cette histoire :
-     En réalité il en avait été recruté 13, mais un a choisi Polytechnique.
+     En réalité il en avait été recruté 13, mais l'un
+     d'eux a choisi Polytechnique.
      
-     - 2 élèves ont vu leur période prolongée d'une année, maladie ? absences ?
-     ( Roulleau et Philippe) ils sont donc sortis en 1854, alors que la promo 
+     - 2 élèves ont vu leur période prolongée d'une année (maladie ? absences ?...
+     Roulleau et Philippe) ils sont donc sortis en 1854, alors que la promo 
      a bien fini en 1853.
      
-     - 1 élève (Martin) de la promotion précédente a terminé avec eux, 
-     mais il n'est pas sur la photo, forcément.
+     - 1 élève (Martin) de la promotion précédente a terminé avec eux.
+   
      Il faut noter qu'il y a au moins 3 ingénieurs poids lourds dans
      cette promo : Broillard, Puton et Gouët. 
+     
     
+**Louis-René... le fils** 
 
-Louis René (son fils) se Marie le 2 septembre 1884 à Tours, avec Martine Henriette Cézanne (1864-1925), 
+Louis René se marie le 2 septembre 1884 à Tours, avec Martine Henriette Cézanne (1864-1925), 
 ils auront ensemble 2 garçons et une fille.
 
 {{<figure src="/images/articles/roulleau1878jbarconancy.jpg"  title="Louis René Roulleau en 1878 à Nancy (photo J.Barco)">}}
@@ -67,12 +73,12 @@ témoignant ainsi de son époque.
 
 ### Inspecteur adjoint 
 
-Au Mans dès 1885, et deviendra conservateur 
-  des Eaux & Forêts en fin d’activité (Retraite en 1907). 
-En 1907, L.R. Roulleau de la Roussière, encore jeune, prenait sa retraite 
-  de l’administration forestière. Il se consacra dès lors à la forêt privée
-  où il joua, au niveau national, un rôle de premier plan.
-  Il fonda le Comité des Forêts en 1912. **(1)**
+Il rejoint Le Mans dès 1885, et deviendra conservateur 
+  des Eaux & Forêts en fin d’activité. 
+En 1907, L.R. Roulleau de la Roussière, encore jeune, prend sa retraite 
+  de l’administration forestière. Il se consacre dès lors à la forêt privée
+  où il joue, au niveau national, un rôle de premier plan.
+en 1912, il fonde le Comité des Forêts. **(1)**
   
 {{<figure src="/images/articles/roulleaudelaroussiere.jpg"  title="L.R.Roulleau de la Roussière">}}
   
@@ -91,12 +97,12 @@ Ce chêne a été baptisé le 27 mai 1952, lors de la tournée du Comité des Fo
   du nom de l’inspecteur qui a contribué à la sauvegarde 
   du clos du chêne Boppe (1885-1900) et créé en 1912 ce fameux comité. **(1)**
   
-À ce baptême, on avait même prévu, à la méthode marine, de faire lancer 
+*À ce baptême, on avait même prévu, à la méthode marine, de faire lancer 
   par la marraine une bouteille de champagne sur l’infortuné arbre… 
-  mais elle n’a jamais voulu exploser! Elle était trop solide...
+  mais elle n’a jamais voulu exploser! Elle était trop solide...*
   
-Le conservateur Blouère, se rappelle Yves Camisy, 
-  avait fait ce jour là un sacré beau discours. 
+*Le conservateur Blouère,* se rappelle Yves Camisy, 
+  *avait fait ce jour là un sacré beau discours.* 
   
 {{<figure src="/images/articles/cheneroul1952.jpg"  title="Le chêne Roulleau">}}
   
@@ -153,11 +159,11 @@ Aujourd’hui nombre de ronds, routes ou chênes portent le souvenir de leur mé
   
 {{<figure src="/images/articles/roulleauhaut1.jpg"  title="Le rond Roulleau">}}
 
-Une route, que Roulleau mettra en chantier, 
+- Une route, que Roulleau mettra en chantier, 
   
-un rond qui prendra la place du rond de Croix-Veneur, 
+- un rond qui prendra la place du rond de Croix-Veneur, 
   
-et un chêne saluent aujourd’hui ce forestier d’exception.
+- et un chêne saluent aujourd’hui ce forestier d’exception.
   
 {{<figure src="/images/articles/roulleau542.jpg"  title="Projet de rond et d’avenue Roulleau">}}
 
