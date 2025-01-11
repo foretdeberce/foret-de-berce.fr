@@ -11,10 +11,41 @@ tags: ["Tourisme","Arbres","Chênes","Toponymie","Hommes"]
 
 Est né le 14 novembre 1857 à Blois.
 Son père Louis Roulleau de la Roussière : inspecteur adjoint à Blois (1830-1865)
-et sa mère Marie Anne Noémie Beaussier (1833-1909)
-sont originaires de Château-la-Vallière.
+et sa mère Marie Anne Noémie Beaussier (1833-1909)sont originaires de Château-la-Vallière.
 
-Marié le 2 septembre 1884 à Tours, avec Martine Henriette Cézanne (1864-1925), 
+**Son père**     
+
+     fait partie de la 28ème Promotion de l'ENEF 
+  
+     Patrick Deffes nous précise le détail de cette 
+     28ème promotion (1851) en y ajoutant la source :
+     
+     "l'Enseignement forestier en France - 
+     l'école de Nancy par Charles GUYOT 1898." 
+     
+     dont l'éffectif se composait de : "Broillard, Guerrier de Dumast, 
+     Jolyet, Puton, Roussel (Edmond), Carichon, Lambert (Henri),
+     Ouvrard de Linière (Jules Joseph Raoul), Gouet, 
+     Roulleau de la Roussière (Louis), Philippe, de Wegmann. Total : 12."
+     
+     Et Richard  Bacchetta complète avec le livre de P.M. WEYD, 
+     
+     "Etat des services  de l'école forestière"
+     
+     cette histoire :
+     En réalité il en avait été recruté 13, mais un a choisi Polytechnique.
+     
+     - 2 élèves ont vu leur période prolongée d'une année, maladie ? absences ?
+     ( Roulleau et Philippe) ils sont donc sortis en 1854, alors que la promo 
+     a bien fini en 1853.
+     
+     - 1 élève (Martin) de la promotion précédente a terminé avec eux, 
+     mais il n'est pas sur la photo, forcément.
+     Il faut noter qu'il y a au moins 3 ingénieurs poids lourds dans
+     cette promo : Broillard, Puton et Gouët. 
+    
+
+Louis René (son fils) se Marie le 2 septembre 1884 à Tours, avec Martine Henriette Cézanne (1864-1925), 
 ils auront ensemble 2 garçons et une fille.
 
 {{<figure src="/images/articles/roulleau1878jbarconancy.jpg"  title="Louis René Roulleau en 1878 à Nancy (photo J.Barco)">}}
