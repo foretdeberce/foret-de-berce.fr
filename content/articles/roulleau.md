@@ -10,19 +10,21 @@ tags: ["Tourisme","Arbres","Chênes","Toponymie","Hommes"]
 ### Louis René Roulleau de la Roussière
 
 Est né le 14 novembre 1857 à Blois.
-Son père Louis Roulleau de la Roussière (1830-1865) et sa mère 
-Marie Anne Noémie Beaussier (1833-1909) sont originaires de Château-la-Vallière.
+Son père Louis Roulleau de la Roussière : inspecteur adjoint à Blois (1830-1865)
+et sa mère Marie Anne Noémie Beaussier (1833-1909)
+sont originaires de Château-la-Vallière.
 
 Marié le 2 septembre 1884 à Tours, avec Martine Henriette Cézanne (1864-1925), 
 ils auront ensemble 2 garçons et une fille.
 
 {{<figure src="/images/articles/roulleau1878jbarconancy.jpg"  title="L’élève à Nancy (photo J.Barco)">}}
   
-Louis Roulleau a su développer avec efficacité l’image de Bercé à travers
-  le monde en accueillant bon nombre de délégations forestières étrangères, 
-  reprenant à son compte l’œuvre d'éducation entreprise par ses prédécesseurs.
+Louis René Roulleau de la Roussière a su développer avec efficacité l’image de Bercé 
+à travers le monde en accueillant bon nombre de délégations forestières étrangères, 
+reprenant à son compte l’œuvre d'éducation entreprise par ses prédécesseurs.
+
 Il partagera avec les éditeurs de cartes postales ses propres clichés, 
-  témoignant ainsi de son époque.
+témoignant ainsi de son époque.
   
 {{<figure src="/images/articles/ehouppeurp178roulleau.jpg"  title="Éhouppeur dans Sermaize">}}
   
@@ -33,7 +35,8 @@ Il partagera avec les éditeurs de cartes postales ses propres clichés,
 {{<figure src="/images/articles/roulleau325.jpg"  title="Les forestiers au rond du Clocher">}}
 
 ### Inspecteur adjoint 
-  Au Mans dès 1885, et deviendra conservateur 
+
+Au Mans dès 1885, et deviendra conservateur 
   des Eaux & Forêts en fin d’activité (Retraite en 1907). 
 En 1907, L.R. Roulleau de la Roussière, encore jeune, prenait sa retraite 
   de l’administration forestière. Il se consacra dès lors à la forêt privée
