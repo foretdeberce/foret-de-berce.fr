@@ -17,7 +17,7 @@ sont originaires de Château-la-Vallière.
 Marié le 2 septembre 1884 à Tours, avec Martine Henriette Cézanne (1864-1925), 
 ils auront ensemble 2 garçons et une fille.
 
-{{<figure src="/images/articles/roulleau1878jbarconancy.jpg"  title="L’élève à Nancy (photo J.Barco)">}}
+{{<figure src="/images/articles/roulleau1878jbarconancy.jpg"  title="Louis René Roulleau en 1878 à Nancy (photo J.Barco)">}}
   
 Louis René Roulleau de la Roussière a su développer avec efficacité l’image de Bercé 
 à travers le monde en accueillant bon nombre de délégations forestières étrangères, 
