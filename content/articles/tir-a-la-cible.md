@@ -107,9 +107,17 @@ Note du Conservateur, Alençon le 3 juillet 1879 :
         des exercices. Il sera tenu compte de ces notes pour les grades à
         conférer ou pour des gratifications ou récompenses à obtenir.*
 
-        L'écusson sur le bras (vert foret et cor argent)
-        est celui de "BON TIREUR" 
-        (insigne militaire obtenu lors des exercices de tir.) 
+        
+**Insigne militaire obtenu lors des exercices de tir.** 
+       
+        Les insignes en question sont des prix de tir, du modèle de l'armée,  
+        "La prime de tir consiste en un cor de chasse brodé au fil d'argent 
+        au passé, sans paillette ni canetille, 
+        sur un écusson rectangulaire en drap vert de jaquette.
+        Le cor de chasse est cousu sur la manche gauche de l'effet à 0,230
+        de la couture d'emmanchure.
+        L'écusson est celui de "BON TIREUR" 
+       
         
 
 
@@ -215,7 +223,9 @@ En 1959 les vieux fusils et revolvers de calibre 6/35 seront délaissés au prof
     
 * Les Eaux et Forêts du XIIème au XXème  siècle.
     
-* Patrick DEFFES (historien et forestier vendéen)
+* Patrick DEFFES (HisTraFor - forestier vendéen)
+
+* Jean-Luc VERITA (HisTraFor)
     
 * Les recherches de Pierre CRAMOISY,
   ancien sous-officier des goums, des sahariens, et autres.
