@@ -107,6 +107,11 @@ Note du Conservateur, Alençon le 3 juillet 1879 :
         des exercices. Il sera tenu compte de ces notes pour les grades à
         conférer ou pour des gratifications ou récompenses à obtenir.*
 
+        L'écusson sur le bras (vert foret et cor argent)
+        est celui de "BON TIREUR" 
+        (insigne militaire obtenu lors des exercices de tir.) 
+        
+
 
    {{<figure src="/images/articles/tir.jpg" title="Émulation des équipes">}}
 
