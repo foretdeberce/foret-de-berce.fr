@@ -290,7 +290,19 @@ L’administration des forêts ne fera l’acquisition
   
 ## 1943
 
-{{<figure src="/images/articles/muletier.jpg" title="Les muletiers échappent au STO">}}
+## Les muletiers échappent au STO :
+
+     Par l'envoi d'un télégramme, le 29 mars 1943,
+     le Commissariat Général au service du travail 
+     obligatoire, déclare que doivent être assimilés
+     aux muletiers et par conséquent exemptés
+     d'inscription sur la liste "départ Allemagne", 
+     les conducteurs de tous animaux de trait, 
+     utilisés au débardage des bois et les conducteurs
+     des camions forestiers. 
+     
+     (signé : BRIAT)
+
 
 
 {{<figure src="/images/articles/etatchevaux1943.jpg" title="Chevaux placés chez des particuliers">}}
