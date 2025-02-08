@@ -20,10 +20,13 @@ touristiques de Bercé.
   {{<figure src="/images/articles/cartedeberce.jpg" title="Pour rejoindre la forêt">}}
   
   
-   {{<figure src="/images/articles/planonf.jpg" title="Pour repérer les parcelles">}}
+  {{<figure src="/images/articles/planonf.jpg" title="Pour repérer les parcelles">}}
    
 
   {{<figure src="/images/articles/cartesentiers2019.jpg" title="La randonnée à fond">}}
+
+  
+  {{<figure src="/images/articles/rando.jpg" title="Des itinéraires pour tous les types de randonnée">}}
   
   
    [Carte O.N.F. en ligne](/articles/pdf/carte-touristique-berce-2020.pdf)
