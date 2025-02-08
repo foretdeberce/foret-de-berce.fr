@@ -152,8 +152,6 @@ c’est actuellement en 2014, l’une des plus hautes constructions
 de France après l'émetteur *«grandes ondes»* de France Inter
 à Allouis près de Bourges (354 m).
  
-  {{<figure src="/images/articles/eiffel.jpg" title="Un des plus hauts de france">}}
-
 *" Mais nous sommes désormais prêts à accueillir toutes nouvelles
 technologies du futur, notamment en matière de 4 G et RNT "*, 
 poursuit le gardien du patrimoine. 
