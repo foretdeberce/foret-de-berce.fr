@@ -245,7 +245,12 @@ Les cloisonnements d'exploitation pour acheminer personnes et
 véhicules sont systématiquement implantés dès le jeune âge 
 permettant ainsi de réduire considérablement le tassement anarchique
 de nos limons fragiles.
-* Quand un sol limoneux est tassé,  les dommages en sont irréparables. 
+Dans les coupes non pourvues de cloisonnements, les forestiers passent
+désormais désigner à la vente, et ce l'année précèdant le martelage de la coupe,
+les arbres génant le passage des débusqueurs.
+
+**Quand un sol limoneux est tassé,
+les dommages en sont irréparables.** 
   
   {{<figure src="/images/articles/tracteurenault.jpg" title="les premiers tracteurs">}}
 
