@@ -16,10 +16,12 @@ vos photos et films ainsi que vos souvenirs
 sur les hommes, les fêtes, la guerre...
 bref...tous les secrets cachés et enfouis en forêt de Bercé. 
 
-**(LA COLLECTE sera assurée bien après la fin février 2025 !)**
+**(La grande COLLECTE sera assurée bien après la fin février 2025 !)**
 
 Par le biais de ce site,
-contactez :  foretdeberce@gmail.com 
+**Pour celà contactez : 
+foretdeberce@gmail.com** 
+
 
 ### Bercé, la captivante !
 
