@@ -20,8 +20,9 @@ bref...tous les secrets cachés et enfouis en forêt de Bercé.
 
 Par le biais de ce site : foret-de-berce.fr  
 
-**Pour celà contactez : 
-foretdeberce@gmail.com** 
+Pour celà contactez : 
+
+**foretdeberce@gmail.com** 
 
 
 ### Bercé, la captivante !
