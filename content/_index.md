@@ -72,11 +72,15 @@ ainsi que vos témoignages sur les hommes, les fêtes, la faune,
 la flore...
 bref...tous les secrets cachés de la forêt de Bercé. 
 
-(La grande COLLECTE sera assurée bien après la fin février 2025 !)
+**(La grande COLLECTE sera assurée bien après la fin février 2025 !)**
 
-Par le biais de ce site : foret-de-berce.fr
+Par le biais de ce site :
 
-Pour celà contactez : foretdeberce@gmail.com
+foret-de-berce.fr
+
+Pour celà contactez :
+
+foretdeberce@gmail.com
 
 
 
