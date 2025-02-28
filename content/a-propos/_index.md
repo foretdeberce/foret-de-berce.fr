@@ -18,7 +18,9 @@ bref...tous les secrets cachés et enfouis en forêt de Bercé.
 
 **(La grande COLLECTE sera assurée bien après la fin février 2025 !)**
 
-Par le biais de ce site : foret-de-berce.fr  
+Par le biais de ce site : 
+
+foret-de-berce.fr  
 
 Pour celà contactez : 
 
