@@ -17,6 +17,60 @@ Du bois d'œuvre, de Marine, des Madriers, Planches, Parquet, Merrain (1937) et 
 Menuiserie de voitures : charronnerie (orme, charme un peu moins le chêne) carrosserie de wagon, tramways, autobus) (Renault Le Mans)
 Tous ces petits métiers ont pour dénominateur commun .... le bûcheron.
 
+## Travail le dimanche
+
+Note de l’Inspecteur, Mr de Verely  à Mr. l’Inspecteur Adjoint ( mars 1899 )
+
+Je constate que certains préposés de l’Inspection du Mans ne connaissent pas
+suffisamment les cahiers des charges et des clauses spéciales des coupes à 
+exploiter ; je crois même que pour  les délits ordinaires ils seraient très
+embarrassés de viser dans leurs procès-verbaux les articles du Code Forestier,
+de la Chasse, ou de la Pêche, en vertu desquels ils constatent des contraventions.
+Jusqu’à nouvel ordre, ils devront dorénavant indiquer au bas des feuilles de 
+renseignements, les articles de ces Codes, des Cahiers des Charges et des
+Clauses Spéciales etc…en vertu desquels ils auront verbalisé.
+Plus tard, quand ils connaîtront suffisamment leur service, 
+ces articles seront visés sur les procès verbaux même.
+Je compte sur vous pour donner les instructions nécessaires afin que les 
+préposés sous vos ordres soient capables d’ici peu de remplir leurs fonctions 
+d’une manière plus intelligente.
+Vous aurez à me signaler ceux qui montreront de la mauvaise volonté à se 
+mettre au courant de cette partie très importante de leur service.
+
+**Puis ce fut des rappelsv incessants jusqu'à la grande guerre !** 
+
+     Note du 13 février 1905 du Brigadier Marsac (les Renardières)
+     
+     Hier j’ai constaté que les ouvriers de la coupe des profonds vaux 
+     ( A5 ) travaillaient le dimanche sans permission spéciale de 
+     Mr. L’inspecteur ainsi que le prescrit l’article 66 du cahier des charges.
+     J’invite tous les gardes à faire cesser cette irrégularité dans leurs
+     coupes etc.…. partout où les règlements l’ interdisent et j’appelle 
+     spécialement leur attention sur la grande responsabilité qu’ils 
+     assument en laissant faire les ouvriers etc.., car un accident, 
+     un incendie mis par leur faute peut éclater ces jours là, et les 
+     adjudicataires diraient qu’ils n’ont point commandé leurs ouvriers. 
+     Donc quand ceux ci voudront travailler le dimanche, ils n’auront 
+     qu’à le faire demander par leur patron à Mr. L’inspecteur .
+     
+     
+     Note du 21 mai 1913 de Mr. l’inspecteur Ducellier (Le Mans) 
+     
+     Les Adjudicataires ne peuvent faire travailler le dimanche sans 
+     une autorisation : Art.66 du Cahier des Charges. Pourquoi les gardes
+     n’ont ils pas déjà constaté cette infraction ?
+     
+     
+     Note du 27 mai 1913 du Brigadier Esse (les Renardières)
+     
+     Je constate depuis quelque temps, dans les tournées que je fais
+     le dimanche, que beaucoup de bûcherons et de charretiers travaillent 
+     dans les coupes ce jour là.
+     L’article 66 du cahier des charges interdisant aux adjudicataires de 
+     faire travailler le dimanche, les gardes auraient dû, depuis longtemps
+     constater cette infraction. Monsieur l’inspecteur adjoint me charge de 
+     le rappeler aux préposés de la 1ère brigade.  
+
 
 
 ### L’exploitation des bois est le fait du marchand qui emploie ses bûcherons.
