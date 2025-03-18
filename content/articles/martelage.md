@@ -387,8 +387,17 @@ En fin d'année 2021 Le Meilleurs des Mags sur France 3 **(7'05)**
 C'est en Sarthe, en forêt de Bercé ...
 Un martelage qui se passe aujourd'hui...
 
+**Pour remonter un peu dans le temps ....**
+
+  ["L’évolution du commerce des bois  par Raymond Viney"](/articles/pdf/evolutionducommercedesbois.pdf)  
 
 
+  ["Exploitation et commerce des bois aux XVIIe et XXVIIIe siècles, par  Jean Boissière"](/articles/pdf/exploitationdes.pdf)  
+
+
+  ["Les forêts françaises à la veille de la Révolution par  Michel Devèze"](/articles/pdf/lesforetsfrancaisesalaveilledelarevolution.pdf)  
+  
+  
 ## Autres articles concernant les personnels forestiers : ## 
 
 
