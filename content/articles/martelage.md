@@ -290,6 +290,54 @@ En 1941, le 26 novembre, les forestiers de Bercé, accompagnent de 10h à 19h
 leur inspecteur à un martelage dans le parc du château du Grand-Lucé.
 Pendant la dernière guerre, l’approvisionnement en bois de l’armée imposera 
 aux préposés forestiers de visiter et de marteler bon nombre de propriétés privées. 
+
+
+## LE MARCHAND DE BOIS
+
+Le marchand de bois remplace en quelque sorte le seigneur local d’autrefois 
+en s’achetant le droit de vendre à autrui le bois que le quidam du coin ne
+peut s’offrir. Il devient adjudicataire en s’octroyant des droits sur la 
+coupe, mais aussi des devoirs envers le propriétaire qui fut tour à tour 
+et depuis peu, le Roi puis l’État. Il remplace le cueilleur des temps 
+anciens, mais commerce oblige, aujourd’hui, permet de soutenir tout un 
+pan de l’activité sociale et économique de la région. Sous la pression 
+constante du service forestier en charge du suivi des coupes, 
+il fédère l’activité de son chantier, et en est tenu seul responsable. 
+
+**Par le passé**
+
+**1717 à 1721** : 
+
+Augustin PEAN, fendeur de bois, condamné à l'amende pour avoir établi 
+un atelier de bûcherons à une distance de la forêt interdite par des 
+règlements (f° 5). Registre des jugements d’avant la révolution. 
+
+MM. les Marchands de bois ne devront se servir pour marquer les arbres 
+lorsqu'ils visiteront et estimeront les coupes, que de crayons ou de
+la craie. Il leur est interdît de se servir de la griffe et de la rouanne.
+
+**Entre 1912 et 1928**
+
+Si l'adjudicataire ne brûle pas les ramilles, il sera tenu, dans la forêt
+de Bercé, de les façonner en bourrées ayant les dimensions prévues et de
+les payer au prix fixé par le procès-verbal d'adjudication.
+Des charges sur coupes lui sont imposées pour le chauffage des personnels 
+de l’administration en 1911, à fournir pour le 15 juillet au plus tard.
+Ainsi cette année-là : 8 stères et 100 fagots 
+(façon et transport 35 fr + réparation des voies de vidange 200 fr -total 235 fr). 
+Puis en 1935 : 16 stères (façon et transport évalués à 320 fr)…
+De nos jours ces charges n’existent plus. 
+
+**Témoignage de Claudette (née en 1918) & Adrien (né en 1915) BORDERON**
+
+      BORDERON était marchand de bois et son petit fils est tourneur à Pruillé,
+      « Des marchands y en avait des petits et des gros, les petits y prenaient
+      les dessous de coupe (bois de feu).
+      Le grand-père ALLARD (né en 1838) m'a raconté beaucoup de choses, 
+      car l'arrière grand-père avait fait 7 ans
+      à la Martinique sous Louis-Philippe.
+      Le nom des Allard, ça va être fini ! »
+     
   
 ### Souvenirs de Rémond Lorne sur les martelages en Sarthe.
   
