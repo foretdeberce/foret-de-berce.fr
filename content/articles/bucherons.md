@@ -7,6 +7,17 @@ featured_image: '/images/bucherons.jpg'
 tags: ["Exploitation","Travaux","Hommes"]
 ---
 
+En 1905 la forêt de Bercé produit:
+
+Des harts : délivrance aux ouvriers des marchands ou aux facteurs de coupe en 1870 – 1884
+Des attelles de colliers, fagots, Bourrées, bois de feu, écorces, 
+copeaux (bois de fascinage et piquets 1882) Du hêtre pour l’aviation (en mars 1918), 
+des bardeaux, traverses, étais de mine : (1932), hélices d’avion (2 déc. 1936  pour le chantier Cartereau).
+Du bois d'œuvre, de Marine, des Madriers, Planches, Parquet, Merrain (1937) et cercles de tonneaux en châtaignier (ligature en osier), Alumettes en bois de Peuplier et de tremble (usine à Trélazé 49) Poteaux télégraphiques  1942 -1948. Lattes pour treillage – clôture - toiture, des articles de boissellerie, du bois de Sabotage 1948 (hêtre aulne : 1m3 de bois pour 150 paires), pour montures de brosse, boissellerie (Jupilles, Pruillé, St Vincent) fabrique de jouets et meubles rustiques (Château du Loir) Pelles de four (Orne). 
+Menuiserie de voitures : charronnerie (orme, charme un peu moins le chêne) carrosserie de wagon, tramways, autobus) (Renault Le Mans)
+Tous ces petits métiers ont pour dénominateur commun .... le bûcheron.
+
+
 
 ### L’exploitation des bois est le fait du marchand qui emploie ses bûcherons.
 
@@ -44,6 +55,43 @@ Maurice Vérité dont le père était Charretier".
 > -- Édouard Guillier
 
 {{<figure src="/images/articles/ciret-tire-fort.jpg" title="Le père Ciret et le premier tire-fort en 1964">}}
+
+## Coût de la vie en 1938
+
+        Abattage d'un arbre selon grosseur de: 
+	2 à 6f le pied.
+
+	Découpe de grume en coupe d'ensemencement
+        2f le pied.
+
+	Éhouppement sur pied :
+        20f le Pied.
+
+	Façonnage de résineux - Écorçage compris :
+        14f/ M3 réel.
+
+	Abattage d'arbre par extraction de souche : 
+        16 à 25f/Pied.
+
+	Débardage de grumes et étais:
+        20f/m3 réel en ensemencement -
+	10f/m3  réel en éclaircie
+
+	Transport sur route  pour 10 kilomètres : 
+        10 à 50f le m3 selon grosseur.
+
+	Prix de façon du stère de chauffage et charbonnettes : 
+        8 à 10f/st.
+
+	Fente du stère :
+        4 à 5f/st.
+
+	Bourrées, résineuses  et feuillues : 
+        30f le cent (en 1937) .
+
+	Les culées, les fagots, les "écarios", et les copeaux, 
+        étaient vendus par les bûcherons.
+
 
 Gaston Masseau est né en 1914 de parents Agriculteurs sur Pruillé.
 
@@ -143,7 +191,7 @@ Il sera transformé en barrique pour des vins de prestige
  
 **Liste des bucherons de 1850 à 1914 :**
     
-###  NOM  Prénom	 Village
+###  NOM  Prénom  Village
 	
 ADET René St Vincent du Lorouër -
 ADET Théodore St Vincent du LorouërL -
