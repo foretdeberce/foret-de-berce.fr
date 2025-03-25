@@ -9,7 +9,7 @@ tags: ["Travaux","Poemes","Sylviculture","Materiel"]
 
 
 [UN SYLVICULTEUR INATTENDU, MAIS EFFICACE](/articles/pdf/unsylviculteurinattendumaisefficace.pdf)
-
+Cliquez sur ce lien pour découvrir les secrêts du chêne de Bercé.
 
 ### De tous temps, on a glandé à Bercé, mais toujours dans le bon sens du terme. 
 
