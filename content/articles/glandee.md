@@ -7,6 +7,10 @@ featured_image: "/images/et.panage.jpg"
 tags: ["Travaux","Poemes","Sylviculture","Materiel"]
 ---
 
+
+[UN SYLVICULTEUR INATTENDU, MAIS EFFICACE](/articles/pdf/unsylviculteurinattendumaisefficace.pdf)
+
+
 ### De tous temps, on a glandé à Bercé, mais toujours dans le bon sens du terme. 
 
 Dans le temps, menait au (parnage ou pasnage ou panage) les cochons (ou gorins)
