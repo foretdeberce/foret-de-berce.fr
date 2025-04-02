@@ -198,8 +198,9 @@ le feu gagne la parcelle 90 de la Guiltière puis se dirige
 vers la route de Vaas alimenté par la fougère sèche. »*
 
 Le garde Guilbauld, la gendarmerie de Mayet et 50 habitants
-de Verneil participent à ce combat. Cette année-là, 
-les reboisements seront crédités par le produit des jeux (en France).
+de Verneil participent à ce combat. 
+
+Cette année-là, les reboisements seront crédités par le produit des jeux (en France).
 
 "La franchise téléphonique permet au garde de contacter 
 l’inspecteur en cas d’incendie".
@@ -541,6 +542,16 @@ Ce feu est sans conteste d’origine criminelle.
  {{<youtube id="2JiT0IzPVx4">}}
      
  En Bercé le 30 mars 2012 **(1'28)**
+
+ ## Bon à savoir : Les hâles de mars.
+
+     Il est courant que l’avant-printemps soit 
+     caractérisé par une période de sécheresse 
+     (les hâles de mars) particulièrement dange­reuse.
+     Constat de Michel Buffet, 
+     Sylviculture du Pin sylvestre en plaine. 
+     (Bulletin technique de l’Office national 
+     des forêts, no 15, 1984)
 
 **2014**, le mardi 15 avril, feu sur Grammont et aux Forges. 
  Cet incendie criminel a brûlé près de 170 hectares de la forêt 
