@@ -264,7 +264,10 @@ des veneurs et de leurs boutons.*
 le bail est porté de 9 à 12 ans.
  
 ### De 1957 à 1967 
-          
+
+
+les chasses d'avant 1963 n'étaient pas soumises à plan de chasse, les chasseurs en ont profité. 
+
 Adjudicataire : Hernandez (Château du Loir): président de **la 
 société intercommunale de chasse de Bercé** *« 5 jours par semaine. 
 Pas plus de deux jours de traque ou battue par semaine. 
@@ -288,14 +291,22 @@ le bail passe à 12 ans.
 
 Tir : Dupré (lot Est) – Dairon (lot mi-Est) -
       Bourbon (lot 6 - mi Ouest)-Vivet ( lot ouest)
+
+A Bercé, le plan de chasse mis en place à la fin des années 1970 sur le territoire a permis d'augmenter la population
+en 1973 , un comptage a recensé 60 cerfs et biches ainsi que 20 chevreuils.      
  
 ### 1980 :
+
+Dans les années 1980 le cheptel est en baisse significative, le plan de chasse s’impose pour éviter l’arrêt de la chasse. 
+C'est à cette époque, alors que Joël Picard vient de prendre ses fonction comme chef du secteur "Est" de la forêt, que l'on fait venir de Chambord des cervidés qui viendront étoffer les effectifs en place.
           
 Tir : Ouest lot 1 : Jean Louis Coupet. 
       Centre lot 2 et 3 : Marcel Dairon.
       Est lot 4 : Albert Letourneau.
  
- 
+Gérer les effectifs et protéger les biotopes passent par une régulation dévolue aux chasseurs, 
+qui, parfois, critiquent à tort la tendance des forestiers à augmenter les plans de tirs... 
+A Bercé, cette régulation est assurée à la fois par la chasse à tir et à courre.
  
 ### 1992 :
  
