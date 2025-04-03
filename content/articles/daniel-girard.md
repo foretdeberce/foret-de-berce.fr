@@ -289,8 +289,31 @@ cette vraie nature pour en découvrir toute la beauté cachée.
 Dans la peau du cerf de Bercé **(4'03)**
 Une vidéo de Daniel Girard, dans laquelle il
  explique sa passion pour cet animal mythique.
+
+## Autre facette de Daniel
+
+     "19-04-2016 : Daniel Girard, photographe, 
+     est à la tête d’un collectif d'amis de la forêt.
+     Le collectif lance un cri d’alarme contre le plan 
+     de chasse de cerfs et écrit à la préfète de la Sarthe.
+     "Le projet de plan de chasse 2016-2017 prévoit, 
+     pour l’espèce cerfs, un prélèvement de 270 à
+     350 individus sur le massif de Bercé. 
+     Ce prélèvement est totalement démesuré, 
+     sachant que la population reste très faible 
+     au regard de la superficie (14 000 hectares)
+     et en constante diminution. Depuis trois ans,
+     les comptages de printemps ont permis de dénombrer
+     378 animaux en 2014, 325 en 2015 et seulement 
+     279 en 2016, indique le communiqué, et de poursuivre:
+     Lors de la saison de chasse écoulée, 240 cervidés 
+     ont été prélevés à Bercé. Ce nombre d’animaux tués
+     était donc largement supérieur au nombre de naissances,
+     qui seront encore moins nombreuses cette année."
+
  
  {{<figure src="/images/articles/daniel.jpg" title="Ce n'est qu'un au revoir, Daniel">}}
+ 
 
 ## Autres liens concernant les curiosités de Bercé ##
 
