@@ -565,7 +565,7 @@ et en photos le déroulé de la [Chasse en battue du 12 janvier 1998](/articles/
   Yves CAMISY de dire à son voisin du jour, Jacques BIZARD : 
   *« Il n’y a pas de différence entre nous, sauf peut-être la maison d’habitation et le compte en banque »*.
 	
-  Et s’adressant au directeur départemental de l’agriculture tout en acceptant de lui un gâteau chocolaté :
+  Et s’adressant au directeur départemental de l’agriculture (Eugène Robidou) tout en acceptant de lui un gâteau chocolaté :
   *« Ça me fait plaisir d’accepter ce gâteau car j’ai l’impression de récupérer mes impôts »*
   
   … C’est cela aussi le plaisir de la communication…
