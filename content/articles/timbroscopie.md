@@ -39,6 +39,14 @@ avec ce titre de l’Ouest Éclair du 5 avril 1931….
   
 {{<figure src="/images/articles/broceliande2006.jpg" title="Timbre Brocéliande 2006">}}
 
+     Malheureusement, ces timbres n'ont pas été émis 
+     par la Poste française, mais ont été produits
+     à l'initiative locale du Syndicat d'initiative
+     de la Sarthe. De ce fait, ils sont rares et
+     peu documentés.Il n'existe pas d'images 
+     numériques facilement accessibles de ces 
+     timbres spécifiques. 
+
   
 ### Ouest Éclair du 5 avril 1931
 
@@ -54,33 +62,56 @@ immédiatement aux très nombreux souscripteurs qui ont tenu à appuyer l'effort
 
 ### Planche 1 :
   
-La Cathédrale, la Maison d'Adam et Eve, le Moulin d'Enfer, le Pont Vieux à Pontlieue, 
-le plan de l'ancienne Enceinte Gallo-romaine (IVe siècle), l'hôtel de Vaux, la Tour Madeleine, la Tour du Vivier, 
+La Cathédrale, la Maison d'Adam et Eve,
+le Moulin d'Enfer, le Pont Vieux à Pontlieue, 
+le plan de l'ancienne Enceinte Gallo-romaine (IVe siècle), 
+l'hôtel de Vaux, la Tour Madeleine, la Tour du Vivier, 
 la Maison du Pilier Rouge, la Grande Poterne. 
   
 ### Planche 2 : 
   
-Le Donjon de Sillé-le-Guillaume, l'Eglise, les ruines du Donjon et une vue de la Sarthe à
-Fresnay,
-l'Église Notre-Dame à Mamers, la Porte de Ville à la Ferté-Bernard, le plan des forêts de Sillé et de Perseigne,
-la Sarthe à Saint-Léonard-des-Bois, le vieux pont a Beaumont-sur-Sarthe, le Château de Ballon et 
-l'Église Notre-Dame-des-Marais à la Ferté-Bernard. 
+Le Donjon de Sillé-le-Guillaume, l'Église, 
+les ruines du Donjon et une vue de la Sarthe à Fresnay,
+l'Église Notre-Dame à Mamers, la Porte de Ville à la Ferté-Bernard, 
+le plan des forêts de Sillé et de Perseigne,
+la Sarthe à Saint-Léonard-des-Bois, le vieux pont à Beaumont-sur-Sarthe,
+le Château de Ballon et l'Église Notre-Dame-des-Marais à la Ferté-Bernard. 
   
 ### Planche 3 :
   
-L'Église Notre-Dame de Saint-Calais, le plan de la Forêt de Bercé et vue de la Source de 
-l'Hermitière, les Château de Sablé, du Lude et de Bonnétable, l'Hôtel de ville de la Flèche et l'entrée du 
-Prytanée, l'Abbaye de Solesmes. 
+L'Église Notre-Dame de Saint-Calais, 
+# le plan de la Forêt de Bercé et vue de la Source de l'Hermitière,
+les Château de Sablé, du Lude et de Bonnétable, l'Hôtel de ville de la Flèche
+et l'entrée du Prytanée, l'Abbaye de Solesmes. 
 
 {{<figure src="/images/articles/bonnetable.jpg" title="Le château de Bonnétable">}}
   
 {{<figure src="/images/articles/lelude.jpg" title="Papeterie de la Courbe">}} 
 
+### Suggestion de représentation pour le timbre "Plan de la Forêt de Bercé"
+
+     Format : Rectangulaire horizontal
+     Couleurs dominantes : Vert foncé et brun.
+     Illustration : Carte stylisée de la forêt
+     de Bercé, mettant en évidence les 
+     principaux sentiers et points d'intérêt,
+     avec des arbres emblématiques en arrière-plan. 
+
 ### Planche 4 : 
 
-Deux rues de la Cathédrale du Mans, la Porte de ville de la Ferté-Bernard, deux timbres de 
-la Forêt de Bercé, l'Abbaye de Solesmes, le plan de la Forêt de Perseigne, 
-  le plan de l'Enceinte Gallo-romaine du Mans et une vue de la Tour Madeleine. 
+Deux rues de la Cathédrale du Mans, la Porte de ville de la Ferté-Bernard,
+# deux timbres de la Forêt de Bercé, 
+l'Abbaye de Solesmes, le plan de la Forêt de Perseigne, 
+le plan de l'Enceinte Gallo-romaine du Mans et une vue de la Tour Madeleine. 
+
+### Suggestion de représentation pour le timbre "Source de l’Hermitière"
+
+     Format : Rectangulaire vertical
+     Couleurs dominantes : Bleu clair et vert.
+     Illustration : Représentation de la source
+     de l’Hermitière, avec l'eau jaillissant 
+     au milieu d'une clairière boisée, entourée
+     de chênes majestueux. 
 
 *Les personnes qui désireraient en acquérir peuvent en faire la demanda au Syndicat d'initiative de la Sarthe (bureau du tourisme, 10, rue du Cornet).*
   
