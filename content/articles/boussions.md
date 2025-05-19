@@ -7,10 +7,10 @@ featured_image: "/images/et.2017boussions.jpg"
 tags: ["Forestiers","MF"]
 ---
 
-{{<figure src="/images/articles/boussions2.jpg" title="Cartouche de la maison forestière des Boussions">}}
 
-La précédente batie selon les préceptes de l'époque en 1814,
-présentait quelques désordres qui auraient alourdi sa rénovation. 
+La précédente maison forestière, batie selon les préceptes de l'époque en 1814,
+présentait quelques désordres qui auraient alourdi sa rénovation.
+C'est pour cette raison qu'elle fut rasée puis reconstruite à ossature bois.
 
 ### Voici la liste des forestiers ayant occupé cette maison forestière :
 
