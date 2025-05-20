@@ -73,6 +73,9 @@ Bref, l'implantation, les fondations,
   les dimensions, tout était fixé à l'avance. 
   
   {{<figure src="/images/articles/etangsplan.jpg" title="Modifications de 1950">}}
+
+  **Ce plan modifié en 1950 de la maison forestière des étangs correspondait à l’évolution des normes en raison de l’accroissement de la natalité après guerre.**
+
   
     La circulaire précisait que :  
 	
