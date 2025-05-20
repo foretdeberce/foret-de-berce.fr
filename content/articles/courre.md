@@ -549,6 +549,10 @@ Présentation de La propriété de Champchevrier en 2012 **(3'07)**
 D’ici là, nous aurons eu le plaisir d’aller au brame 
  ou d’observer les jeunes au printemps.
  
+
+## Aujourd'hui la chasse à courre, à cor et à cri est ouverte du 15 septembre au 31 mars. 
+
+
  
 ### Livres à lire : 
   
