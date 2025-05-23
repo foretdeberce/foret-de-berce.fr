@@ -3,7 +3,7 @@ title: "Ronds forestiers"
 date: 2022-10-11T13:21:44+01:00
 draft: false
 description: "Ilot de civilisation au milieu d'un océan de verdure"
-featured_image: "/images/et.croixmarconnay.jpg"
+featured_image: "/images/et.desire2.jpg"
 tags: ["Topographie","Cartographie","Carrières ","Hommes","Ronds"] 
 ---
 
