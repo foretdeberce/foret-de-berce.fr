@@ -3,7 +3,7 @@ title: "Chevaux"
 date: 2022-11-30T08:21:04+01:00
 draft: false
 description: "et chevaux fiscaux"
-featured_image: '/images/et.charretiers.jpg'
+featured_image: '/images/transport-grumes.jpg'
 tags: ["Exploitation","Hommes","travaux"]
 ---
 
