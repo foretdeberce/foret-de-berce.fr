@@ -71,16 +71,21 @@ vos photos et films
 ainsi que vos témoignages sur les hommes, les fêtes, la faune, 
 la flore...
 bref...tous les secrets cachés de la forêt de Bercé. 
+🌳 Dans le cadre de la Forêt d'Exception, l'idée est venue de mettre
+à l'honneur les fêtes, danses et repas ayant pris 
+place dans la forêt au XXe siècle.
 
-**(La grande COLLECTE sera assurée bien après la fin février 2025 !)**
+Toutes les périodes et toutes les anecdotes peuvent être partagées.🌳
 
-Par le biais de ce site :
+📆 Les retours sont souhaités avant la fin juillet 2025.
 
-foret-de-berce.fr
+Vous pouvez déposer vos témoignages : 
+- en mairie
+- à l'accueil de Carnuta
+- via l'adresse mail : foretdeberce@gmail.com
+- par téléphone : Julie Habert : 06 22 62 77 41
 
-Pour celà contactez :
 
-foretdeberce@gmail.com
 
 
 
