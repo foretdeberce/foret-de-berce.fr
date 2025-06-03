@@ -9,22 +9,16 @@ featured_image: '/images/chene-muriel.jpg'
 
 ## Abondez la mémoire collective !
 
-{{<figure src="/images/articles/collecte2.jpg"  title="Grande collecte de témoignages">}}
+🌳 Dans le cadre de la Forêt d'Exception, l'idée est venue de mettre à l'honneur les fêtes, danses et repas ayant pris place dans la forêt au XXe siècle.
+Toutes les périodes et toutes les anecdotes peuvent être partagées.🌳
 
-Proposez vos témoignages, vos enregistrements, 
-vos photos et films ainsi que vos souvenirs 
-sur les hommes, les fêtes, la guerre...
-bref...tous les secrets cachés et enfouis en forêt de Bercé. 
+📆 Les retours sont souhaités avant la fin juillet 2025.
 
-**(La grande COLLECTE sera assurée bien après la fin février 2025 !)**
-
-Par le biais de ce site : 
-
-foret-de-berce.fr  
-
-Pour celà contactez : 
-
-**foretdeberce@gmail.com** 
+Vous pouvez déposer vos témoignages : 
+- en mairie
+- à l'accueil de Carnuta
+- via l'adresse mail : foretdeberce@gmail.com
+- par téléphone : Julie Habert : 06 22 62 77 41
 
 
 ### Bercé, la captivante !
