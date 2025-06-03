@@ -138,6 +138,24 @@ Quand le bois chante c’est la phase délicate où le "maître " accorde son in
   Afin de savoir si le bois est assez sec, pour le travailler il faut taper deux 
   bûches l’une contre l’autre et écouter si leur choc émet un son « chantant ». 
 
+  ## le 9 août 2024
+  
+Le vendredi 9 aout 2024 Olivia Gay, 
+violoncelliste et ambassadrice du fonds de dotation ONF-Agir
+pour la forêt, et le pianiste Aurélien Pontier 
+se sont produits en forêt de Bercé (7ème forêt d'Exception).
+
+**"Se rendre au cœur de la forêt pour jouer est comme une évidence. 
+On se retrouve au milieu des arbres, des oiseaux, du vent, 
+en présence des éléments qui ont inspiré les compositeurs. 
+Mon instrument, lui-même en bois, s’inscrit logiquement dans ce paysage. 
+C’est une expérience qui a du sens !"**
+
+Concert à la Coudre...**(2'28)**
+
+{{<youtube id="dyLa_5JEs1Y">}}
+
+
 ## Autres articles concernant les productions forestières: ## 
 
 [Du bois pour Paris]({{<ref "articles/cathedrale.md">}})
