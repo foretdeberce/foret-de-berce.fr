@@ -2,7 +2,7 @@
 title: "Bercé aux temps anciens"
 date: 2019-11-16T13:18:08+01:00
 draft: false
-description: "Une forêt vouée à l'élevage"
+description: "L'homme a façonné son paysage"
 featured_image: "/images/et.enclosforet.jpg"
 tags: ["Histoire","archeologie","toponymie"]
 ---
