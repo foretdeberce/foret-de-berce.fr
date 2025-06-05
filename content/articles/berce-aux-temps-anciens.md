@@ -41,7 +41,7 @@ bouleversent les connaissances acquises jusqu'à présent sur le sujet,
 où seul le nord de la Sarthe apparaissait dans le paysage Minier. 
   
 
- {{<figure src="/images/articles/agricultute.jpg" title="La forêt est remodelée par les pratiques agricoles">}}
+ {{<figure src="/images/articles/agriculture.jpg" title="La forêt est remodelée par les pratiques agricoles">}}
 
    
 ### l'agriculture bouleverse le paysage
