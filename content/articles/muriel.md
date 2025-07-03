@@ -3,7 +3,7 @@ title: "Le chêne Muriel"
 date: 2022-10-21T13:24:33+01:00
 draft: false
 description: " Arbre, mémoire vivante "
-featured_image: '/images/et.minutedesilence.jpg'
+featured_image: '/images/mmeeallaire.jpg'
 tags: ["Remarquables","Tourisme","Arbres"]
 ---
 
