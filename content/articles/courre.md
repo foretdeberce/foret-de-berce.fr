@@ -3,7 +3,7 @@ title: "La chasse à courre"
 date: 2023-01-12T13:15:08+01:00
 draft: false
 description: "La chasse spectacle"
-featured_image: '/images/et.chasseverneil.jpg'
+featured_image: '/images/courreducerf.jpg'
 tags: ["Faune","Biodiversité","Chasse","Lois"]
 ---
 
