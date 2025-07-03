@@ -3,7 +3,7 @@ title: "Anastomoses"
 date: 2022-09-24T00:21:25+01:00
 draft: false
 description: " Cabinet des curiosités forestières "
-featured_image: "/images/a186.jpg"
+featured_image: "/images/hetrehp28.jpg"
 tags: ["Arbres","Curiosité"]
 ---
 L'anastomose est un terme d'anatomie biologique signifiant : 
