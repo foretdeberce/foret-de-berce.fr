@@ -3,7 +3,7 @@ title: "Chêne Émery"
 date: 2023-01-21T15:33:44+01:00
 draft: false
 description: "Tout à la fois, homme et chêne"
-featured_image: "/images/et.panneaucoudre2.jpg"
+featured_image: "/images/cheneemerydessin.jpg"
 tags: ["Tourisme","Arbres","Chênes","Toponymie","Hommes"]
 ---
 
