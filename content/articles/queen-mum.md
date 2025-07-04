@@ -3,7 +3,7 @@ title: "Queen Mum à Bercé"
 date: 2022-10-12T09:21:25+01:00
 draft: false
 description: "Au pays de Lucé"
-featured_image: "/images/et.reine-mere.jpg"
+featured_image: "/images/queenmum.jpg"
 tags: ["Sources","Fontaines","Hommes"]
 ---
 
