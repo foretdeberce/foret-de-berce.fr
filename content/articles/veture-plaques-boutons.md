@@ -3,7 +3,7 @@ title: "Vêture, plaques et boutons"
 date: 2022-10-19T17:23:44+01:00
 draft: false
 description: " Insignes de la livrée forestière "
-featured_image: "/images/et.rendezvous.jpg"
+featured_image: "/images/gardeaupezeray.jpg"
 tags: ["Forestiers","Gardes", "Service"]
 ---
   
