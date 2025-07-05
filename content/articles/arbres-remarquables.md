@@ -3,7 +3,7 @@ title: "Arbres remarquables"
 date: 2019-11-16T13:24:05+01:00
 draft: false
 description: "Modèles pour les générations futures"
-featured_image: '/images/et.1981p251.jpg'
+featured_image: '/images/et.cheneboppe36.jpg'
 tags: ["Remarquables","Arbre"]
 ---
 
