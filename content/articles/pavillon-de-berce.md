@@ -3,7 +3,7 @@ title: "Le Pavillon des Officiers"
 date: 2022-09-16T15:23:44+01:00
 draft: false
 description: " sur Jupilles "
-featured_image: "/images/pavillon.jpg"
+featured_image: "/images/pavillonberce1900.jpg"
 tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques","Armement","MF"]
 ---
 
