@@ -3,7 +3,7 @@ title: "Daniel Girard"
 date: 2019-11-16T13:15:08+01:00
 draft: false
 description: "Photographe animalier"
-featured_image: '/images/cerf.jpg'
+featured_image: '/images/daniel.jpg'
 tags: ["Faune","Biodiversité","chasse"]
 ---
 
