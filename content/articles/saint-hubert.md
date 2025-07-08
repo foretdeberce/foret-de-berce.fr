@@ -3,7 +3,7 @@ title: "Saint Hubert"
 date: 2022-11-11T09:49:46+01:00
 draft: false
 description: "Depuis 1863"
-featured_image: "/images/et.hubert1917.jpg"
+featured_image: "/images/aubergesainthubert.jpg"
 tags: ["Histoire", "Route","Rond"]
 ---
 
