@@ -3,7 +3,7 @@ title: "Ancien chêne Boppe - 1"
 date: 2022-11-26T12:33:44+01:00
 draft: false
 description: "Baptisé en 1894"
-featured_image: "/images/et.cheneboppe36.jpg"
+featured_image: "/images/baptemecheneboppe.jpg"
 tags: ["Tourisme","Arbres","Chênes","Toponymie","Hommes"]
 ---
 
