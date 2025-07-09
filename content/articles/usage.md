@@ -109,6 +109,8 @@ La réformation des forêts de 1526 à 1531 donne lieu à de nombreux arrêts
 
 {{<figure src="/images/articles/image41.jpg" title="Usages entre les 11ème et 13ème siècle ">}}
 
+{{<figure src="/images/articles/prieuredegrammont.jpg" title="reconstitution du Prieuré Saint-Étienne de Grammont">}}
+
 
 *Borrel et Chrestien de Burrau ont l'aurillerie par tote la forest de Burçay et de 
   Cloipas hors Bois Corbon, et ont chacun doze mansais ou premier pasnage. 
