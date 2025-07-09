@@ -3,7 +3,7 @@ title: "Les éhouppeurs"
 date: 2022-10-22T09:21:25+01:00
 draft: false
 description: "Les As de Bercé "
-featured_image: '/images/guillier1973.jpg'
+featured_image: '/images/ehouppeurpruille.jpg'
 tags: ["Exploitation","Travaux","Hommes","Bucherons"]
 ---
 
