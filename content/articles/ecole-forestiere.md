@@ -3,7 +3,7 @@ title: " Les tournées forestières "
 date: 2022-09-30T19:23:44+01:00
 draft: false
 description: " Les écoles forestières en Bercé "
-featured_image: "/images/honneur.jpg"
+featured_image: "/images/tourneenancy.jpg"
 tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques","Armement","MF"]
 ---
 
