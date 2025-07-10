@@ -3,7 +3,7 @@ title: "Maison forestière des Clos"
 date: 2022-09-18T17:23:44+01:00
 draft: false
 description: "Saint Pierre du Lorouër"
-featured_image: "/images/clos.jpg"
+featured_image: "/images/maisonforestieredesclos.jpg"
 tags: ["Forestiers","MF"]
 ---
 
