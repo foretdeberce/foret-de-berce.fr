@@ -3,7 +3,7 @@ title: "Bois de marine"
 date: 2022-09-14T00:08:04+01:00
 draft: false
 description: "Les bateaux naissent en forêt"
-featured_image: '/images/annamite.jpg'
+featured_image: '/images/boisdemarineberce.jpg'
 tags: ["Exploitation","Travaux","Hommes"]
 ---
 
