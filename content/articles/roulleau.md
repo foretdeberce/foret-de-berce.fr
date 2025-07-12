@@ -3,7 +3,7 @@ title: "Chêne Roulleau de la Roussière"
 date: 2023-01-20T10:33:44+01:00
 draft: false
 description: "Tout à la fois, l’homme, le chêne, l’avenue, le rond"
-featured_image: "/images/et.roulleau2507.jpg"
+featured_image: "/images/cheneroulleaudelaroussiere2.jpg"
 tags: ["Tourisme","Arbres","Chênes","Toponymie","Hommes"]
 ---
 
