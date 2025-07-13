@@ -3,7 +3,7 @@ title: "Aménagements Touristiques"
 date: 2022-09-15T08:24:16+01:00
 draft: false
 description: "sur Bercé"
-featured_image: "/images/tourisme1973.jpg"
+featured_image: "/images/zonedesilencedegaiemariee.jpg"
 tags: ["Remarquables","Tourisme","Hommes","Tramway","Hermitiere","Coudre","Boppe"]
 ---
 
