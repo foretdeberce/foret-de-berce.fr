@@ -3,7 +3,7 @@ title: "Le vent"
 date: 2019-11-16T13:24:52+01:00
 draft: false
 description: "ne fait pas bon ménage avec nos grands chênes"
-featured_image: '/images/et.boulaie1999.jpg'
+featured_image: '/images/chablisparcelle165.jpg'
 tags: ["Arbre","Météo","Pluie","Froid"]
 ---
 
