@@ -80,6 +80,10 @@ Au début du 18e siècle, le loup était partout.
 
 {{<figure src="/images/articles/le-loup.jpg" title="Marie Vérité 1753">}}
 
+{{<figure src="/images/articles/loup-marie-verite.jpg" title="Reconstitution de l'attaque">}} 
+
+
+
 *Thoiré sur Dinan,le 29 mai 1753 Le corps de Marie Vérité âgée de 8 ans, décédée d'hier a été inhumé en
 le petit cimetière de cette paroisse par moi prêtre vicaire d'icelle soussigné le 30 de mai 1753,
 J.H. Lepingleux.* 
