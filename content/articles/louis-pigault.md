@@ -3,7 +3,7 @@ title: "Louis Pigault"
 date: 2022-10-02T16:23:44+01:00
 draft: false
 description: "Tragique destinée"
-featured_image: "/images/et.pigault.jpg"
+featured_image: "/images/lafamillelouispigault.jpg"
 tags: ["Exploitation","Martelage","Livrets","Forestiers","Plaques","Armement","MF"]
 ---
 
