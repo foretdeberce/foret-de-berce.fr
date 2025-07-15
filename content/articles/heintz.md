@@ -3,7 +3,7 @@ title: "La famille Heintz"
 date: 2022-10-20T17:23:44+01:00
 draft: false
 description: " Un forestier modèle "
-featured_image: "/images/et.boussions83.jpg"
+featured_image: "/images/familleheintz.jpg"
 tags: ["Forestiers","MF"]
 ---
   
