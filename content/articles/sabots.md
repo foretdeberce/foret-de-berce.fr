@@ -3,7 +3,7 @@ title: "la saboterie"
 date: 2022-09-28T13:21:25+01:00
 draft: false
 description: " L'industrie locale "
-featured_image: "/images/et.sabots.jpg"
+featured_image: "/images/lessabotiers.jpg"
 tags: ["Bûcherons","artisans","Boisiers","travaux"]
 ---
 
