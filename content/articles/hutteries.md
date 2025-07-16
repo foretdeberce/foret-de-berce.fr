@@ -3,7 +3,7 @@ title: "Maison forestière des Hutteries"
 date: 2022-09-18T17:23:44+01:00
 draft: false
 description: "Marigné-Laillé"
-featured_image: "/images/hutteries.jpg"
+featured_image: "/images/maisondeshutteries.jpg"
 tags: ["Forestiers","MF"]
 ---
 
