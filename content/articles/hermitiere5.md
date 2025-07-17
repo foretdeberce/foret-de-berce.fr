@@ -3,7 +3,7 @@ title: "L’Hermitière - 5"
 date: 2022-11-21T19:23:44+01:00
 draft: false
 description: "devenir paysager "
-featured_image: "/images/et.hermitiere5.jpg"
+featured_image: "/images/et.hermitiere6.jpg"
 tags: ["Tourisme","Loisirs","Biodiversite","Eau","Hommes"]
 ---
 
