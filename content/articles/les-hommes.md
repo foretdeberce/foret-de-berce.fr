@@ -3,7 +3,7 @@ title: "Les auxiliaires forestiers"
 date: 2022-09-12T00:18:04+01:00
 draft: false
 description: "La génèse d'une Forêt d'Exception"
-featured_image: '/images/ouvriers-1976.jpg'
+featured_image: '/images/ouvriers-1976b.jpg'
 tags: ["Exploitation","Forestiers","Hommes","carriers","auxiliaires","cantonnier","tacherons"]
 ---
 
