@@ -3,7 +3,7 @@ title: "Travailleurs de 1900 à 2000"
 date: 2019-11-16T13:17:03+01:00
 draft: false
 description: "1900-1950"
-featured_image: "/images/vieux-ouvriers-est.jpg"
+featured_image: "/images/ouvriersdu19esiecle.jpg"
 tags: ["Hommes","Auxiliaires","Ouvriers","Journaliers","Carriers","Tacherons","Cantonniers","Bûcherons"]
 
 ---
