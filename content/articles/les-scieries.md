@@ -3,7 +3,7 @@ title: "Les scieries"
 date: 2022-11-27T00:22:25+01:00
 draft: false
 description: "et scieries mobiles "
-featured_image: '/images/et.2022notreami.jpg'
+featured_image: '/images/scieriemobile.jpg'
 tags: ["Exploitation","Travaux","Hommes"]
 ---
 
