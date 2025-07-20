@@ -86,14 +86,17 @@ C'était un jeune qui pour se faire entendre aurait joué du clairon jusqu'à la
      Ce Compagnon de la Libération est enterré
      au cimetière du Père-Lachaise à Paris
      dans la 97eme division.
+
      
-{{<figure src="/images/articles/et.legendesdeberce.jpg"  title="A l'Hermitière, la célèbre légende du veau d'or">}}
+{{<figure src="/images/articles/pineau.jpg"  title="Christian Pineau, Histoires de la forêt de Bercé (1958)">}}
+     
 
 ## Sous terre ##
 
 Pour vous, avec mon frère et quelques riverains, nous avons sondé durant plusieurs soirées d'été les profondeurs de l'Hermitière pour y découvrir les secrets enfouis...
 
-{{<figure src="/images/articles/pineau.jpg"  title="Christian Pineau, Histoires de la forêt de Bercé (1958)">}}
+
+{{<figure src="/images/articles/et.legendesdeberce.jpg"  title="A l'Hermitière, la célèbre légende du veau d'or">}}
 
 [L’Hermitière souterraine]({{<ref "articles/hermitiere4.md">}})
 
