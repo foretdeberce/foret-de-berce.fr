@@ -81,6 +81,9 @@ Nous ne sommes pas encore à l’ère industrielle et la sylviculture est encore
   tire et aire, (c'est-à-dire qu’on traite les parcelles en régénération de proche en proche, 
   par réensemencement naturel). 
 
+  
+{{<figure src="/images/articles/et.routes.jpg" title="Carte des chemins forestiers vers 1780">}}
+
     Article 3 du titre 28 de l'Ordonnance de 1669
     règlant les matières forestières.
     "Ordonnons que tous bois, épines, et broussailles,
