@@ -3,7 +3,7 @@ title: "Légendes"
 date: 2023-01-24T20:13:44+01:00
 draft: false
 description: "Elles hantent Bercé"
-featured_image: "/images/et.legendesberce.jpg"
+featured_image: "/images/legendesdeberce.jpg"
 tags: ["Tourisme","Loisirs","Biodiversite","Eau","Légende","Hommes"]
 ---
 ### Un arbre et ses racines
