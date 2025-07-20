@@ -96,7 +96,7 @@ C'était un jeune qui pour se faire entendre aurait joué du clairon jusqu'à la
 Pour vous, avec mon frère et quelques riverains, nous avons sondé durant plusieurs soirées d'été les profondeurs de l'Hermitière pour y découvrir les secrets enfouis...
 
 
-{{<figure src="/images/articles/et.legendesdeberce.jpg"  title="A l'Hermitière, la célèbre légende du veau d'or">}}
+{{<figure src="/images/articles/et.legendesberce.jpg"  title="A l'Hermitière, la célèbre légende du veau d'or">}}
 
 [L’Hermitière souterraine]({{<ref "articles/hermitiere4.md">}})
 
