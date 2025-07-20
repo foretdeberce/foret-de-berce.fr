@@ -58,7 +58,7 @@ Les gars du voisinage ont entendu sonner le clairon, jusqu'à
 l'épuisement du sonneur qui se serait enfoncé dans l'eau et la boue. 
 C'était un jeune qui pour se faire entendre aurait joué du clairon jusqu'à la fin*.
   
-{{<figure src="/images/articles/mortierclaironp154.jpg"  title="Le Mortier Clairon">}}
+{{<figure src="/images/articles/mortierclairon.jpg"  title="Le Mortier Clairon">}}
 
 ### 1958 ### 
 
