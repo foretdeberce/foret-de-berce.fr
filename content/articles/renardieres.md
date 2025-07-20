@@ -3,7 +3,7 @@ title: "Maison forestière des Renardières"
 date: 2022-09-18T17:23:44+01:00
 draft: false
 description: "Marigné-Laillé"
-featured_image: "/images/mfrenardieres.jpg"
+featured_image: "/images/mfrenardieres1900.jpg"
 tags: ["Forestiers","MF"]
 ---
 
