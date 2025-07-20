@@ -3,7 +3,7 @@ title: "Routes et chemins"
 date: 2022-10-10T13:21:44+01:00
 draft: false
 description: "La forêt de Bercé est enfin percée"
-featured_image: "/images/et.routes.jpg"
+featured_image: "/images/routesrosesdeberce.jpg"
 tags: ["Topographie","Cartographie","Carrières ","Ronds"]  
 ---
 
