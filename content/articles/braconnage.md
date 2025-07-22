@@ -356,7 +356,6 @@ Note circulaire de l’inspecteur adjoint des forêts René Roulleau (de la Rous
   ne chassent pas et n'aient pas de chiens de chasse* 
   (9 juillet 1863). 
 
-{{<figure src="/images/articles/engelhard227" title="La pose de collet">}}
 
 Profil bas de rigueur, pas question pour eux d'avoir un cheval,
   ni même un chien courant ou d'arrêt durant le service en forêt,
@@ -819,8 +818,10 @@ Il a fallu que les chasseurs du coin menacent le père
 
 Dans les années 1950 il y a surpopulation de lapins, 
   mais les battues et la myxomatose y mettront un terme.
+  
 
-{{<figure src="/images/articles/094b510.jpg" title="Pose des collets">}}
+{{<figure src="/images/articles/engelhard227" title="La pose de collet">}}
+
 
 **23 mars 1953 :**
 
