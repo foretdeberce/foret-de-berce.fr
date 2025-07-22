@@ -820,7 +820,7 @@ Dans les années 1950 il y a surpopulation de lapins,
   mais les battues et la myxomatose y mettront un terme.
   
 
-{{<figure src="/images/articles/engelhard227" title="La pose de collet">}}
+{{<figure src="/images/articles/engelhard227.jpg" title="La pose de collet">}}
 
 
 **23 mars 1953 :**
