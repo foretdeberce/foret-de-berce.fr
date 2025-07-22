@@ -271,7 +271,7 @@ Les forestiers de Bercé qui ont par ailleurs beaucoup d’autres
      l’afirmation et à Ecommoy à l’enregistrement du
      procès verbal ci-defsus. *
 
-{{<figure src="/images/articles/092b654.jpg" title="Relevé d’identité à Rambouillet ">}}
+{{<figure src="/images/articles/092b654.jpg" title="Relevé d’identité au Bout du Clos">}}
 
 Une histoire qui aurait pu mal finir, celle du garde Passerat à la maison
   forestière de la Doucinière entre  1876 et 1891. 
@@ -356,7 +356,7 @@ Note circulaire de l’inspecteur adjoint des forêts René Roulleau (de la Rous
   ne chassent pas et n'aient pas de chiens de chasse* 
   (9 juillet 1863). 
 
-{{<figure src="/images/articles/103324361gb.jpg" title="La rencontre avec un braconnier">}}
+{{<figure src="/images/articles/engelhard227" title="La pose de collet">}}
 
 Profil bas de rigueur, pas question pour eux d'avoir un cheval,
   ni même un chien courant ou d'arrêt durant le service en forêt,
@@ -420,7 +420,7 @@ S'agissant peut-être du garde Gérard (1903) montré en exemple,
   du droit de chasse ou bien des essais de repeuplement en 
   certains gibiers, chevreuils ou faisans.*		
   
-{{<figure src="/images/articles/braconnier354.jpg" title="Arrestation d’un jeune garçon">}}
+
   
 *Si ce concours est donné, dans les conditions de zèle que j'indique, 
   les gardes auront vite fait d'être au courant de  la chasse et s’y 
@@ -541,7 +541,7 @@ parallèlement à la suppression du droit d'affût.
   
 ### Quelques exemples de braconnage sur Bercé
  
-{{<figure src="/images/articles/engelhard227.jpg" title="Le geste de l’appréhension">}}
+{{<figure src="/images/articles/braconnier354.jpg" title="Arrestation d’un jeune délinquant">}}
 
 **Référence (3)** Du latin apprehendere : prendre, saisir, attraper ; 
   dans le cas présent, appréhender au corps ou au collet.
