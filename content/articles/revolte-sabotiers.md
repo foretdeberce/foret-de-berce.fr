@@ -334,11 +334,8 @@ Que la plupart de ces ouvriers attroupés furent intimidés et contraints
   qui avait son fer paroir sur l'épaule, en colère, criait 
   qu'il se foutait d'abattre un bras à ceux qui refusaient 
   d'aller avec lui à Lucé, qu'il ficherait le camp dans la 
-  nuit après avoir commis ce mauvais traitement"
-
-  {{<figure src="/images/articles/fer-paroir.jpg" title="Grand paroir de sabotier">}}
-
-et que plusieurs autres furent entraînés et séduits par les
+  nuit après avoir commis ce mauvais traitement"et que 
+  plusieurs autres furent entraînés et séduits par les
   assurances que les affidés du dit Pierre CHAZIER leur 
   donnèrent qu'ils ne s'exposoient point et qu'on ne vouloit
   faire aucune  violence, ni aucun mal aux habitans de la ville ;
@@ -565,7 +562,7 @@ Le blocage des prix, soulageant le petit peuple. Les ouvriers de Bercé font
   figure de précurseurs. Pour l'instant matés et résignés,
   ils ont quand même pris conscience des influences qu'ils pouvaient susciter.
 
-{{<figure src="/images/articles/tiersetat.jpg" title="Le tiers-état">}}
+{{<figure src="/images/articles/tiersetatmini.jpg" title="Le tiers-état">}}
 
 On a bien vu, à travers cet épisode peu connu de l'histoire locale, que la population
   pauvre avait bien quelques velléités, mais le pouvoir faisait bonne garde :
