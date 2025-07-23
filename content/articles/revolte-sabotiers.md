@@ -529,8 +529,6 @@ BOUTTIER maire, LEMARCHAND officier, François BOMMER officier,
 Jean BEAUGE officier, LAROZE procureur de la commune, BRISSET secrétaire.»
 
 
-{{<figure src="/images/articles/bagne.jpg" title="La pose des fers">}}
-
 
 ### Le 31 mai 1792, Pierre CHAZIER,
   
@@ -545,7 +543,6 @@ dit SANS-FACON est condamné à la peine des fers pendant 16 années,
   et le présent jugement imprimé à cent exemplaires 
   pour Lucé, Château-du-Loir, Pruillé-l’Éguillé et là où besoin sera.»*
   
-{{<figure src="/images/articles/chaines.jpg" title="fers et chaîne">}}
 
 La population Lucéenne avait montré sa sympathie à l'égard des ouvriers de la forêt. 
   Elle connaissait leurs intentions : 
@@ -568,7 +565,7 @@ Le blocage des prix, soulageant le petit peuple. Les ouvriers de Bercé font
   figure de précurseurs. Pour l'instant matés et résignés,
   ils ont quand même pris conscience des influences qu'ils pouvaient susciter.
 
-{{<figure src="/images/articles/tiersetatmini.jpg" title="Le tiers-état">}}
+{{<figure src="/images/articles/tiersetat.jpg" title="Le tiers-état">}}
 
 On a bien vu, à travers cet épisode peu connu de l'histoire locale, que la population
   pauvre avait bien quelques velléités, mais le pouvoir faisait bonne garde :
@@ -583,7 +580,6 @@ Cet historique, nous fait comprendre l’attachement du monde rural à sa forêt
   qui compose encore aujourd’hui la vie locale et associative (sociétés mutuelles d’entraide).
   Les honnêtes travailleurs haïssent tout simplement l’injustice allant jusqu’à se rebeller.
 
-{{<figure src="/images/articles/menottes.jpg" title="Les fers">}}
 
 ## Autres articles concernant les productions forestières: ## 
 
