@@ -132,7 +132,7 @@ Des maisons seigneuriales et des logis, il y en avait dans chaque villages.
 Les abbayes jouissaient du terrain qui leur était accordé.
   
 
-{{<figure src="/images/articles/grammont.jpg" title="L'abbaye de Grammont au nord de Bercé">}}
+{{<figure src="/images/articles/prieuredegrammont.jpg" title="L'abbaye de Grammont au nord de Bercé">}}
 
    
 Nombre de logis et châteaux d'églises et de maisons ont utilisé pour 
