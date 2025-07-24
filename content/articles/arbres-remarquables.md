@@ -186,7 +186,7 @@ Ce jour, l’heureux retraité (en poste à Bercé d’octobre 1913 à fin 1945,
  Louis Goenvec, Pierre Rimasson, Fernande Pelletier,
  Fernand Pelletier (fils) et Lucile Pelletier.
  
- {{<figure src="/images/articles/chene-peltier.jpg" title="Baptême du chêne parcelle 183">}}
+ {{<figure src="/images/articles/chenepeltier.jpg" title="Baptême du chêne parcelle 183">}}
 
 ### Le Chêne du Mai
 
