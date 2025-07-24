@@ -96,6 +96,8 @@ Il est aussi fait mention le 16 Avril 1937 du chêne CHAPLAIN (ancien directeur 
 Le chêne Girafe (curiosité botanique située parcelle 251) est aujourd’hui disparu. 
 Déstabilisé par les exploitations dans les années 1980, 
  il n’a pas eu le soutien nécessaire pour témoigner de son originalité. 
+ 
+{{<figure src="/images/articles/chenegirafe2.jpg" title="Le chêne Girafe de la parcelle 251 (illustration)">}}
 
 Ce phénomène de double empattement se nomme anastomose 
  (jonction de deux brins en contact étroit, dont l’un dépérira au profit de l’autre).  
