@@ -100,7 +100,7 @@ Alors qu’en Sarthe le feu céleste du 18 décembre 1934 tue le célèbre chên
 Après sa tournée, c’est finalement la forêt de "Jupilles" dans la Sarthe, 
   qui retient toute son attention.
   
-{{<figure src="/images/articles/002reperage.jpg" title="A Bercé avec le brigadier Pelletier">}}
+{{<figure src="/images/articles/reperagethuir.jpg" title="A Bercé avec le brigadier Pelletier">}}
 
 
 Le Brigadier Peltier accompagne pour l’occasion les acheteurs de la  société Fruhinsholz en repérage sur Bercé. 
