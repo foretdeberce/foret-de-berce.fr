@@ -53,7 +53,7 @@ d’une plaquette explicative.
 Quelques foyers infectieux subsistent çà et là,
   dus à quelques pollueurs impénitents.  
 
-{{<figure src="/images/articles/canape.jpg" title="Même l'hermitière est surclassée">}}
+{{<figure src="/images/articles/canape.jpg" title="Même l'Hermitière est surclassée">}}
    
   
 {{<figure src="/images/articles/dechets2011.jpg" title="Un don à Dame Nature">}}
