@@ -233,6 +233,10 @@ Un sentiment écologique plus fort qu'auparavant.
 
 ### Travaux forestiers.
 
+# Voici l'ancienne pépinière de Sermaize
+
+ {{<youtube id="7oj5tcD6KN0">}}  
+
 **[Les pépinières](/articles/pdf/pepinieres.pdf)** 
 ont quitté la forêt pour des raisons de coût dans
 un premier temps, puis sanitaires dans un deuxième temps.
