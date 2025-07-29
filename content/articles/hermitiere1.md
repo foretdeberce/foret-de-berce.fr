@@ -72,7 +72,7 @@ Dès les premières cartes postales :
 Le Tourisme reste très développé à l’Hermitière et les promeneurs arrivent de partout
  avec leurs  vélos, leurs automobiles et leurs calèches.
 	
-{{<figure src="/images/articles/wehermitiere.jpg" title="Petite vendeuse de drapeaux à l’Hermitière">}}
+{{<figure src="/images/articles/wehermitiere.jpg" title="un jour de 15 août">}}
 
 Sur place, ces dernières sont dételées de leurs chevaux (en général  1 par véhicule)  
   et ceux-ci sont attachés à des poteaux en bordure de ruisseau, 
@@ -139,7 +139,7 @@ nous relate le 1er octobre 1934, sa journée cycliste en forêt de Bercé.
 
  [1936, Chanson de Jean Jousse](/articles/pdf/chanson-a-l-hermitiere.pdf)
   
-{{<figure src="/images/articles/foulehermitiere.jpg" title="Chez Bignon">}}
+{{<figure src="/images/articles/foulehermitiere.jpg" title="Chez Binet, cela déborde en forêt">}}
   
 
 Des promeneurs, il y en avait beaucoup à l’Hermitière et la surveillance 
