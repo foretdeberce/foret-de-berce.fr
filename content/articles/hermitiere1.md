@@ -84,7 +84,7 @@ Le garde Benoît, le 28 mai 1922 (dimanche de Pentecôte) nous relate sa journé
 les promeneurs de (respecter : mot rayé dans le texte) 
 ne pas toucher aux arbres et d’attacher leurs chevaux aux endroits désignés.* 
   
-{{<figure src="/images/articles/paysages157.jpg" title="A cheval jusqu’aux sources">}}
+{{<figure src="/images/articles/paysage157.jpg" title="A cheval jusqu’aux sources">}}
   
 ### Thérèse Common née Bignon de Pruillé se souvient :
   
