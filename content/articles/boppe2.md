@@ -302,7 +302,7 @@ avait vite fait de maigrir d’un bon mètre en longueur.
 {{<figure src="/images/articles/boppe1.jpg" title="Dans son sanctuaire crayonné par Melle Letourneur">}}
 
 
-{{<figure src="/images/articles/boppe0959calvel.jpg" title="Son abri en 1959 — photo Calvel">}}
+{{<figure src="/images/articles/boppe0959.jpg" title="Son abri en 1959 — photo Calvel">}}
 
 ## Autres articles concernant les officiers forestiers : ## 
 
