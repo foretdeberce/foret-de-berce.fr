@@ -165,6 +165,9 @@ Il  me  fallait  seul  assurer  le  travail de  deux.
 
 
  ### Conservateur, puis directeur régional de l’Office national des forêts 1964- 1969
+
+
+ {{<figure src="/images/articles/lornelgl.jpg" title="en 1968 au Grand-Lucé">}}
   
 *La vie au Mans suivait son cours et l'événement du moment 
   était le chamboulement du centre ville avec l'ouverture 
