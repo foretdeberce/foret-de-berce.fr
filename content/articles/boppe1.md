@@ -107,6 +107,8 @@ La hauteur importante des arbres,
 dans le vallon de l’Hermitière), leur qualité et leur abondance 
 incitent les forestiers d'alors à demander le maintien en futaie, 
 alors qu'elle devait être logiquement régénérée (à 240 ans). 
+
+{{<figure src="/images/articles/boppe3.jpg" title="Le chêne Boppe piétiné par ses admirateurs">}}
   
 Mais y a t il quelconque logique dans une telle décision ?
 
@@ -160,7 +162,7 @@ En 1897 les élèves de l'ENEF sont au chevet de la réfection de la pancarte.
 La méthode est sportive et efficace, tellement qu'elle sera encore utilisée
 en forêt de Réno-Valdieu.
 
-{{<figure src="/images/articles/reno.jpg" title="En forêt de Réno-Valdieu (Orne) vers 1950">}}
+{{<figure src="/images/articles/reno.jpg" title="en visite au vénérable chêne Boppe">}}
   
 ### En 1904 :
   
