@@ -61,7 +61,8 @@ Fidèle aux traditions forestières, préférant l'observation à l'expérimenta
   représentant le meilleur de l'ancienne école, il est le continuateur des 
   anciens maîtres, qu'on ne doit ni rejeter, ni oublier, 
   même si leurs méthodes sont en partie dépassées.
-  
+
+   
 ### Retraite de Mr. L’inspecteur Potel
 
      En cessant mes fonctions à l’ inspection du Mans où j’avais pris le service 
@@ -136,8 +137,6 @@ Circonférence en :
  - 2001 : 3,15 m 
   
  - 2006 : 3,19 m
-
-{{<figure src="/images/articles/cochardpotel.jpg"  title="fève de la boulangerie Cochard 2022">}}
 
 En octobre 2024, malgré une saison optimale pour les arbres sur Bercé, le chêne Potel
 donne des signes évidents de dépérissement.
