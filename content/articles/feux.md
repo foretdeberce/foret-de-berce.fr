@@ -1,4 +1,3 @@
-<img width="861" height="567" alt="image" src="https://github.com/user-attachments/assets/2b6ae1ec-48de-432b-88f2-9164afa203b9" />---
 title: "Le feu"
 date: 2023-02-02T20:24:52+01:00
 draft: false
