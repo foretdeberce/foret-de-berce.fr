@@ -207,6 +207,8 @@ garde-marteau en la maîtrise particulière des Eaux et Forêts de Château-du-L
 1770 -  Raymond Belgarde, est receveur des amendes en la maîtrise particulière 
 des Eaux et forêts de Château-du-Loir. 
 
+{{<figure src="/images/articles/gardeduroi.jpg"  title="le garde du domaine">}}
+
 **1770 - 1790 :**
 
 Jacques Bouvier et François Lefebvre en 1780-1789, sont gardes à Jupilles.
@@ -310,7 +312,9 @@ messire Joseph-François de Longueval d'Haraucourt, chevalier de
 Saint-Louis, et dame Agathe de Monty (des Mouties), sa femme,
 demandeurs en retrait lignager (droit à reprendre un héritage), 
 contre Jean Riolon (f° 8, v°). **(5)**
- 
+
+
+{{<figure src="/images/articles/gardeduroi2.jpg"  title="le maitre, accompagné du garde du domaine">}} 
 
 [Réorganisation de l’administration forestière du 17ème au 18ème siècle](/articles/pdf/cartemaitrises.pdf) 
 
