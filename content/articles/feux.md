@@ -1,4 +1,4 @@
----
+<img width="861" height="567" alt="image" src="https://github.com/user-attachments/assets/2b6ae1ec-48de-432b-88f2-9164afa203b9" />---
 title: "Le feu"
 date: 2023-02-02T20:24:52+01:00
 draft: false
@@ -519,6 +519,8 @@ Les campeurs autorisés sont avertis par leurs associations responsables
 des délivrances de permis, mais les promeneurs du dimanche restent redoutables. 
 
 **1998**, Le cadre de la loi se renforce…
+
+
 
 ### Arrêt total en forêt des incinérations en forêt à partir de 1998
  
