@@ -520,7 +520,7 @@ des délivrances de permis, mais les promeneurs du dimanche restent redoutables.
 
 **1998**, Le cadre de la loi se renforce…
 
-
+{{<figure src="/images/articles/p198en97.jpg" title="dernier feu provoqué à Bercé">}}
 
 ### Arrêt total en forêt des incinérations en forêt à partir de 1998
  
