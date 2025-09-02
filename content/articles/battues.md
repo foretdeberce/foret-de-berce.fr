@@ -421,7 +421,7 @@ Le garde Thomas, nous écrit pour la journée du 20 mai 1942 :
 demandant la construction d’un affût en remplacement d’un affût détruit.
 Enquête avec mon collègue Pie sur la destruction de l’affût précité »*.  
 
-{{<figure src="/images/articles/102b0256.jpg"  title="Les affuts tant décriés par les locaux">}}
+{{<figure src="/images/articles/miradorsallemands.jpg"  title="Les affuts tant décriés par les locaux">}}
 
 La chasse à l’affût prisée par les **"Doryphores"(2)**, 
   donne l’idée à certains de scier les montants de ces constructions en bois,
