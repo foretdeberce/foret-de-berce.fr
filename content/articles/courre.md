@@ -33,6 +33,8 @@ La chasse à courre n’était pas seulement un « chic » exercice  de style
 mais utile à la formation du cavalier, ce même cavalier que l’on trouvera
 au fil du temps sur les champs de bataille.
 
+{{<figure src="/images/articles/chasseauvol.jpg"  title="L’art de la chasse au vol">}}
+
 Le suzerain chassait " à toute manière de bestes grosses et menues, fauves, 
 rousses, rouges, (cerfs, chevreuils, daims) noires (sangliers) et autres 
 (grande vénerie) avec la poursuite d'icelles partout où bon lui semblait, 
@@ -371,6 +373,8 @@ Les chiens ne sont pas méchants malgré qu’ils soient pour certains coupés a
 *De nos jours le fossé séparant la chasse des populations riveraines s’estompe.*  
   
 [Monsieur Jacques par Yves Camisy](/articles/pdf/monsieurjacques.pdf)
+
+{{<figure src="/images/articles/monsieurjacques.jpg"  title="Jacques Bizard aux commandes">}} 
  
 ### 1932 : 
   
