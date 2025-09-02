@@ -666,6 +666,8 @@ Durant la première guerre mondiale,
   sont aux premières loges pour en manger. 
   
 Yves Camisy (toujours dans les bons coups, mais là visiblement…regrettant le fait) 
+
+{{<figure src="/images/articles/1000028534.jpg"  title="La chasse aux Ortolants">}}
 	
 témoigne que *le garde des Clos, Émile Albrecht, avait pour habitude d’aller se servir,
   à hauteur, dans les jeunes fourrés, le soir avec sa lanterne, 
