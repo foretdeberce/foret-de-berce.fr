@@ -800,6 +800,8 @@ L’on fit rapidement l’inventaire : il ne restait que très
   cultures. D’âpres battues en firent chuter le nombre. 
   « Énergiques ces bêtes fauves…en effet elles cassaient
   les collets ! » 
+
+{{<figure src="/images/articles/1000028539.jpg" title="Le piège imparable">}}
   
 Certains, comme le père Renaud, habitant la « Grande fosse »
   (nom prédestiné) refusait de boucher les siennes 
