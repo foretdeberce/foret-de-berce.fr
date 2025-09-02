@@ -316,7 +316,6 @@ Co-Fermier du tir : [Darblay](/articles/pdf/1927darblay.pdf) (château de la Mot
 
 {{<figure src="/images/articles/000151.jpg"  title="Rallye Chistré">}}
 
-{{<figure src="/images/articles/00155.jpg"  title="L'instant de la curée">}}
 
 
 ### 1929 : 
@@ -374,12 +373,15 @@ Les chiens ne sont pas méchants malgré qu’ils soient pour certains coupés a
   
 [Monsieur Jacques par Yves Camisy](/articles/pdf/monsieurjacques.pdf)
 
-{{<figure src="/images/articles/monsieurjacques.jpg"  title="Jacques Bizard aux commandes">}} 
+{{<figure src="/images/articles/monsieurjacques.jpg"  title="L'équipage Champchevrier">}} 
  
 ### 1932 : 
   
 Agrément des gardes Rousselet et Julien le 24 novembre. 
- 
+
+### 1933 : 
+
+{{<figure src="/images/articles/rondduchenedesire1933.jpg"  title="Au rendez-vous des suiveurs">}} 
 
 ### 1936 :
   
