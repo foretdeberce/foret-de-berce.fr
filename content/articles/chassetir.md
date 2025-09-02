@@ -11,9 +11,9 @@ tags: ["Faune","Biodiversité","Chasse","Lois"]
 
 [à propos de la chasse](/articles/pdf/aproposdelachasse.pdf)
  
-La chasse à tir …n’attire vraiment pas les photographes. 
+La chasse au 18ème c'était celà :
 
-Cette rubrique est et sera l’une des moins imagée. 
+{{<figure src="/images/articles/chasseatirdeux.jpg"  title="chasse au XVIIIe">}} 
 
 La forêt et les champs aux alentours ne peuvent se 
 défendre seuls contre les envahisseurs à quatre pattes.
@@ -21,9 +21,13 @@ défendre seuls contre les envahisseurs à quatre pattes.
 Les hommes , quand il s'agit d'un bien commun comme la forêt,
 se fédérent en association pour la défendre.
 
+{{<figure src="/images/articles/gardeduroi3.jpg"  title="chasse en compagnie du garde">}} 
+
 Le tir, il est vrai à force d’être si discret reste inconnu
 du grand public et n’en tire pas le même prestige que la 
 chasse à courre, chasse spectacle par excellence.
+
+{{<figure src="/images/articles/1000030363.jpg"  title="Plaisirs de la chasse">}} 
 
 Depuis la révolution, la chasse n’appartient plus à un seul homme
 … le roi.
