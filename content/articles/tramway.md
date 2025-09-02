@@ -287,6 +287,10 @@ Tétue Adolphe (1879) employé.
 
 Ouverture de la ligne Jupilles/Château du Loir : 16,5km
 
+
+{{<figure src="/images/articles/tramjupilles.jpg"  title="La gare de Jupilles">}}
+
+
 {{<figure src="/images/articles/tram312.jpg"  title="A la croisée de la ligne du Pau et du CD13">}}
 
 
@@ -308,6 +312,9 @@ Note de l’inspecteur principal des Eaux et forêts au Mans,
      B)  -  en face le hameau du Pau et de 
      la route forestière du même nom, 
      près de la limite de la forêt.
+
+{{<figure src="/images/articles/garepruille.jpg"  title="La gare de Pruillé l'Éguillé">}}
+
   
 **2°** Entre les stations de Pruillé-l'Eguillé et de Jupilles :
   
