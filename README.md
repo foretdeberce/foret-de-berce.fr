@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ebb0bdb1-42f8-4558-9f48-cf8a90ee35a7/deploy-status)](https://app.netlify.com/projects/foret-de-berce/deploys)
+
 # Bercé, une forêt d'exception
 
 Le site est propulsé par [Hugo](https://gohugo.io/documentation/).
