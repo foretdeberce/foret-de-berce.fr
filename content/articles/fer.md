@@ -106,6 +106,8 @@ recherchant à accroître ses surfaces pour nourrir ses enfants.
 
 Les livres sont restés muets….mais la forêt raconte..
 
+{{<figure src="/images/articles/exploitationfer.jpg" title="Exemple d'un puits d'extraction">}}
+
 Contrairement au sol agricole qui, enfouit et ré-enfouit tout objet,
 le sol forestier, immuable, garde gravé en sa mémoire, 
 toutes traces du passé. 
