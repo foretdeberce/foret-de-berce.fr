@@ -100,7 +100,7 @@ Exemples de `rel` et `relref`:
 [Lieux Mythiques]({{<ref "articles/lieux-mythiques.md">}})
 [La coudre]({{<relref "articles/lieux-mythiques.md#la-coudre">}})
 
-### youtube
+### Youtube
 
 Le shortcode `youtube` permet d'afficher un lecteur vidéo dédié aux vidéos présente sur Youtube.
 Seul l'ID de la vidéo est requis., e.g.: `https://www.youtube.com/watch?v=w7Ft2ymGmfc`
