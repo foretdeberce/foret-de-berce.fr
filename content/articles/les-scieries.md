@@ -421,7 +421,7 @@ la scierie. Les arbres étaient hissés au treuil.
 L’entreprise Adet employait 20 personnes dont Adet 
 Louis Armand né à Bouloire le 17 juin 1875.
        
-{{<figure src="/images/articles/laurentcochard.jpg" title="Vue générale de la scierie Adet">}}
+{{<figure src="/images/articles/laurentcochard.jpg" title="Vue générale de la scierie Adet (photo Cochard)">}}
 
      Louis Armand Adet est trésorier 
      du Syndicat des marchands de bois
@@ -453,7 +453,7 @@ Fait divers : « En 1935, le patron et sa femme en
 admirant les arbres dans le canton de Sermaize ont buté 
 avec la voiture, dans un arbre » (témoignage de Thérèse Breton).
        
-{{<figure src="/images/articles/accidentbreton.jpg" title="l'accident du camion à Breton- photo Calvel">}}  
+{{<figure src="/images/articles/accidentbreton.jpg" title="l'accident du camion à Breton- (photo Calvel)">}}  
 
 Ce 11 septembre 1959, c'est le camion de l'entreprise Breton
 de Bourgueuil (37) qui bascule dans le fossé au niveau de 
