@@ -43,7 +43,7 @@ gigantesque foudre repose dans les caves.
 il était réservé à la dîme seigneuriale,
   il fut rempli pour la dernière fois en 1847. 
 
-{{<figure src="/images/articles/Ludwigsburg.jpg" title="Foudre de Ludwigsburg 1719">}}
+{{<figure src="/images/articles/ludwigsburg.jpg" title="Foudre de Ludwigsburg 1719">}}
   
 Cette réalisation exigea l’emploi de trente chênes, cinq hêtres et un poirier.
 
