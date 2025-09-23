@@ -331,6 +331,9 @@ elle veille, et retrouve bientôt les siens…
       reconnaissant  de bien vouloir remettre votre 
       cheval prêté, à la disposition de M. Allard 
       Henri à Luceau, dans le plus bref délai*  
+
+{{<figure src="/images/articles/camionrenault2.jpg" title="les gazogènes commencent à fouler la forêt">}}
+      
   
 ## Jupilles le 10 mars 1945 : 
   
