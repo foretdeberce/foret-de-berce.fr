@@ -23,13 +23,17 @@ et les évacuait du massif.
 Voituriers, charretiers, fardiers, attelages, tous utilisent la plus 
   belle conquête de l'homme, qui sera malheureusement, après-guerre,
   trop vite détrônée par le cheval-vapeur.
+
   
+{{<figure src="/images/articles/palanachaine.jpg" title="Système de chargement des grumes sur le fardier">}} 
+
+
 ### En 1905 
   
   On pouvait compter sur le massif de Bercé : 
   68 chevaux, 42 fardiers, 29 diables…. 
   
- {{<figure src="/images/articles/debardageboeuf.jpg" title="Exemple de bœufs en débardage dans une autre forêt">}}
+ {{<figure src="/images/articles/debardageboeuf.jpg" title="Exemple de bœufs en débardage en forêt">}}
   
   Au tout début, seule la traction animale était capable de sortir les bois de la forêt. 
   Chevaux et charretiers formaient couples. 
