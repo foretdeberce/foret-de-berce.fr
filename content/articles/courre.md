@@ -145,6 +145,9 @@ Cette société avait comme président Mr le Comte d’Andigné et comme sociét
   
 [Le Rallye Bersay](/articles/pdf/1886-1895ralliebersay.pdf) (Maine-Anjou) Maître d'équipage : duc de Gramont, château  de Mangé (Sarthe) – 
 
+{{<figure src="/images/articles/chateaumange-chenil.jpg"  title="Le chenil du chateau de Mangé">}}
+
+
 Invitée [Mme la Duchesse d’Uzès](/articles/pdf/duchesse-uzes.pdf).
 
      La duchesse d'Uzès 
