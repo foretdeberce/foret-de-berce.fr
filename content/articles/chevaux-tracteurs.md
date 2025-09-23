@@ -543,6 +543,33 @@ Il y a eu au plus fort de l'emploi "moderne" deux chauffeurs de tracteurs :
 {{<figure src="/images/articles/chevauxfin.jpg" title="La fin du cheval et la fin d’une époque">}}
 
 ### De nos jours :
+     Le temps où l’homme évoluait avec sa monture est révolu.
+     Les fiacres venus de la ville, prémices d’un tourisme naissant,
+     les charretiers, les inspecteurs forestiers en tournée,
+     les producteurs de charbon de bois : tout ça… c’est du passé !
+     
+     Aujourd’hui, la forêt est moins vivante.
+     Son sol ne reçoit plus ce crottin bienfaisant qui nourrissait
+     les champignons et faisaient le bonheur des bousiers.
+     Les déjections des tracteurs, en participant au grossissement
+     des troncs par le rejet du gaz carbonique, ne servent en rien à 
+     l’alimentation du sol si ce n’est qu’elle permettent aux 
+     champignons de stocker un peu plus de métaux lourds.
+     
+     Le cheval est trop rarement employé pour le débusquage des
+     grumes (et c’est fort dommage en terrain fragile).
+     Notre époque privilégie plus le rendement et
+     la rentabilité que la sauvegarde d’un savoir faire plus 
+     coûteux, peut être, mais respectueux de l’environnement.
+     
+     Si le tracteur est plus puissant qu’un cheval, il est aussi plus
+     lourd. Ce handicap, on le découvre chaque hiver sur les sols
+     limoneux qui, durant ces périodes humides, se gorgent d’eau
+     puis se tassent irrémédiablement…et à vie, 
+     sous des charges de plus en plus pesantes…
+     
+     Qu’il est loin le temps où l’on pouvait rencontrer en
+     toute quiétude la jument blanche de l’hermitière. 
 
 La tire des bois se veut plus respectueuse des sols.
 Le cablage est actuellement une bonne opportunité... mais plus onéreuse.
