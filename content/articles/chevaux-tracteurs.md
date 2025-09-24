@@ -399,7 +399,7 @@ Bellanger, charretier, emmenait ses billes avec son diable et ses chevaux jusqu�
 
  {{<figure src="/images/articles/leroux1955.jpg" title="Leroux en crochetage du sol P D3 Série 4 en 1955">}}
 
-{{<figure src="/images/articles/semis1956.jpg" title="Travaux forestiers en 1956">}}
+{{<figure src="/images/articles/semis1956.jpg" title="Parcelle G4 ouverte en 1944">}}
 
 ### Rouliers & débardeurs
   
