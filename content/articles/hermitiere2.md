@@ -33,7 +33,7 @@ Vers 1909, la maison forestière des Étangs est désaffectée par l’administr
   
   Son épouse est une femme Maris (Juliette Eugénie Maris : 24 ans en 1914). 
 
-{{<figure src="/images/articles/693cafemarylecomte.jpg" title="à Gauche : Juliette">}}
+{{<figure src="/images/articles/693cafemarylecomte.jpg" title="A gauche : Juliette">}}
 
 Il vendra en 1937 cette propriété à Thévenot.
 
@@ -369,7 +369,7 @@ Guy espère ainsi maintenir dans la contrée l’esprit de tradition.
   2006, la recette infaillible de l’auberge ce sont des plats simples, savoureux ...
   naturels pour un plaisir partagé entre traditions séculaires et inspiration moderne.
 
-{{<figure src="/images/articles/lechefetkatia.jpg" title="Le couple Podevin">}}
+{{<figure src="/images/articles/lechefetkatia.jpg" title="Le chef Guy Podevin">}}
 
 Après avoir ouvert des chambres d’hôtes, l’auberge fermera définitivement ses portes
   et ses accès routiers, car la propriété est vendue à des particuliers. 
