@@ -269,6 +269,9 @@ C’est à cet endroit que nous retrouverons notre arbre en 1936.
 
 {{<figure src="/images/articles/oe19360107.jpg" title="Ouest-Éclair du 1er juillet 1936">}}
 
+
+{{<figure src="/images/articles/venteausyndicat.jpg" title="Cérémonie de cession du Boppe">}}
+
 C’est finalement le syndicat des Marchands de bois par 
 l’intermédiaire de son Président Mr. Pasquier (de la Chartre s/le Loir) 
 qui se portera acquéreur de ces vestiges qui n'ont par ailleurs pas trouvé autres preneurs. 
