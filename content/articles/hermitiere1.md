@@ -147,6 +147,8 @@ Des promeneurs, il y en avait beaucoup à l’Hermitière et la surveillance
   les endroits les plus fréquentés par les visiteurs et les touristes,
   n’était pas un vain mot.
   
+{{<figure src="/images/articles/autocarberce.jpg" title="Le tourisme grandissant">}}
+
 Les infrastructures de l’Hermitière n’ont jamais pu, sans conteste accueillir
   favorablement les 1500 à 3000 véhicules, malgré les travaux d’abaissement 
   des accotements, d’extraction de souches, d’élargissement de la chaussée, 
@@ -167,6 +169,8 @@ Il est vrai qu’écologie et respect de l’environnement  n’ont pas encore d
   et la fosse à ordures, creusée à même le sol, réservera aux archéologues du futur, 
   quelques thèmes peu ordinaires d’études.
   
+{{<figure src="/images/articles/tourismecar.jpg" title="Arrivée à l’ Hermitière">}}  
+
 Après guerre, la parcelle « 203 » est classée en série artistique (Touristique 3) 
   de même que le Chêne Boppe (T1), les Pressenteries (T2), Les cabanes du Mai (T4),
   la fontaine de la Coudre (T5).
@@ -261,7 +265,6 @@ Des représentations y étaient données régulièrement l’après-midi sous l�
 Les groupes qui venaient au Théatre de verdure empruntaient le tramway 
   puis la voiture aménagée à partir de Jupilles.
   
-{{<figure src="/images/articles/tourismecar.jpg" title="Arrivée à l’ Hermitière">}}
 
 Les acteurs reprendront ce nom de « L'Enfumeraie » pour leur salle de spectacle au Mans.
   
