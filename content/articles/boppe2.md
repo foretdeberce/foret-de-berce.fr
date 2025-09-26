@@ -163,6 +163,19 @@ Le vieux chêne "Boppe" (4m41 de circonférence) est foudroyé.
     Il sera même présent au baptême du
     petit nouveau le 14 juillet 1935.
 
+{{<figure src="/images/articles/venteausyndicat.jpg" title="Cérémonie de cession du Boppe">}}
+
+Derrière toute cette assemblée, le malheureux chêne Boppe foudroyé.
+
+C’est finalement le syndicat des Marchands de bois par 
+l’intermédiaire de son Président Mr. Pasquier (de la Chartre s/le Loir) 
+qui se portera acquéreur de ces vestiges qui n'ont par ailleurs pas trouvé autres preneurs. 
+
+{{<figure src="/images/articles/cahieraffiche1935.jpg" title="Page 26 du cahier affiche de la vente d’octobre 1935">}}
+	
+
+	
+
 ### Abatage  du chêne Boppe (*)
 	
 ### Le Vendredi 19 Juillet 1935 commence l’ébranchage. 
@@ -259,8 +272,6 @@ peut-être 25 ou 30 ans, ce qui porterait l’âge du Chêne
 Boppe à environ 275 ans*.
 
 	
-{{<figure src="/images/articles/cahieraffiche1935.jpg" title="Page 26 du cahier affiche de la vente d’octobre 1935">}}
-	
 Le garde Lasnier écrit le 22 Octobre 1935 : 
 *Suis parti à St.Vincent à la scierie Adet - 
 (Note au sujet du chêne Boppe)*. 
@@ -270,11 +281,6 @@ C’est à cet endroit que nous retrouverons notre arbre en 1936.
 {{<figure src="/images/articles/oe19360107.jpg" title="Ouest-Éclair du 1er juillet 1936">}}
 
 
-{{<figure src="/images/articles/venteausyndicat.jpg" title="Cérémonie de cession du Boppe">}}
-
-C’est finalement le syndicat des Marchands de bois par 
-l’intermédiaire de son Président Mr. Pasquier (de la Chartre s/le Loir) 
-qui se portera acquéreur de ces vestiges qui n'ont par ailleurs pas trouvé autres preneurs. 
 
 {{<figure src="/images/articles/085b3.jpg" title="A la scierie Adet de Saint-Vincent">}}
 
