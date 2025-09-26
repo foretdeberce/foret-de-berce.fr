@@ -222,29 +222,7 @@ et Hervé dit "Pape" eurent raison, en un instant, du géant.
 	
 {{<figure src="/images/articles/famillepieboppe2.jpg" title="Les familles Pie et Ledru aux Clos">}}
 
-### Quiproquo sur son âge : 
-	
-***275 ans ? - 385 ans ? - 485 ans ?*** 
 
-C’est l’âge du chêne Boppe avancé sur certaines cartes postales
-*(celles ci faisaient état d’un âge approximatif en 1922
-de 235 ans + 150 ans= 385 ans : 235 ans étant l’âge supposé du
-peuplement situé autour du chêne Boppe et 150 ans l’âge auquel 
-celui ci avait été, semble-il, anciennement régénéré.)*
-
-Une publication de l’inspecteur Potel concerne l’âge probable du chêne Boppe : 
-	
-{{<figure src="/images/articles/boppeage.jpg" title="l’âge du Boppe est affiché sur les cartes">}}
-	
-La revue des Eaux et forêts de février 1924 relate : 
-Les plus gros de ces arbres sont visiblement d’anciennes 
-réserves du « Tire et Aire » dont l’âge doit donc être d’environ 450 ans. 
-
-Pour les forestiers c’est une évidence et personne n’avait auparavant
-pensé à compter les cernes sur les souches des arbres exploités. 
-(Ils avaient sans doute oublié le rapport de l’inspecteur 
-Roulleau du 30 novembre 1895 qui estimait à 208 ans l’âge des Clos).
-	
 ## Les Clos (1675)
 La plus vieille futaie de France (...jusqu'à preuve du contraire !...)
 
@@ -271,28 +249,51 @@ Au cas particulier on peut sans doute ajouter d’avantage,
 peut-être 25 ou 30 ans, ce qui porterait l’âge du Chêne 
 Boppe à environ 275 ans*.
 
+
+### Quiproquo sur son âge : 
+	
+***275 ans ? - 385 ans ? - 485 ans ?*** 
+
+C’est l’âge du chêne Boppe avancé sur certaines cartes postales
+*(celles ci faisaient état d’un âge approximatif en 1922
+de 235 ans + 150 ans= 385 ans : 235 ans étant l’âge supposé du
+peuplement situé autour du chêne Boppe et 150 ans l’âge auquel 
+celui ci avait été, semble-il, anciennement régénéré.)*
+
+Une publication de l’inspecteur Potel concerne l’âge probable du chêne Boppe : 
+	
+{{<figure src="/images/articles/boppeage.jpg" title="l’âge du Boppe est affiché sur les cartes">}}
+	
+La revue des Eaux et forêts de février 1924 relate : 
+Les plus gros de ces arbres sont visiblement d’anciennes 
+réserves du « Tire et Aire » dont l’âge doit donc être d’environ 450 ans. 
+
+Pour les forestiers c’est une évidence et personne n’avait auparavant
+pensé à compter les cernes sur les souches des arbres exploités. 
+(Ils avaient sans doute oublié le rapport de l’inspecteur 
+Roulleau du 30 novembre 1895 qui estimait à 208 ans l’âge des Clos).
+
 	
 Le garde Lasnier écrit le 22 Octobre 1935 : 
 *Suis parti à St.Vincent à la scierie Adet - 
 (Note au sujet du chêne Boppe)*. 
 	
-C’est à cet endroit que nous retrouverons notre arbre en 1936.
-
-{{<figure src="/images/articles/oe19360107.jpg" title="Ouest-Éclair du 1er juillet 1936">}}
-
+C’est à cet endroit que nous retrouverons notre arbre.
+La Scierie Adet de St. Vincent, fut chargée de la découpe des 
+billes en planches.
 
 
 {{<figure src="/images/articles/085b3.jpg" title="A la scierie Adet de Saint-Vincent">}}
 
-La Scierie Adet de St. Vincent, fut chargée de la découpe des 
-billes en planches.
+
+{{<figure src="/images/articles/oe19360107.jpg" title="Ouest-Éclair du 1er juillet 1936">}}
+
+
+### Son sanctuaire :
 
 Des meubles (armoires, chambre, bureau), furent
 réalisés avec le bois du chêne Boppe, et ornent encore 
 l’intérieur de certaines maisons de Saint-Vincent, notamment. 	
-	
-### Son sanctuaire :
-	
 Les rondelles découpées à la base de la  bille de pied, 
 furent données à différents corps constitués.
 Deux rondelles de sa base, de 1,40 m de diamètre et 0,20 m 
