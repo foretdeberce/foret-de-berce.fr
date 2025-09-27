@@ -35,9 +35,7 @@ Une semaine avant l’événement, l’inspecteur Viney
 
 [Les officiels au baptême du nouveau chêne Boppe et au chevet de l'ancien](/articles/pdf/officielsauboppe.pdf) 
 
-
-Il faudra attendre le 25 mai 1961, pour qu’Émile Ballion 
-  livre au nouveau chêne Boppe une clôture bois en protection.
+**(Document : la famille Adet)**
 
 {{<figure src="/images/articles/oe19350715.jpg" title="Ouest-Éclair du 15 juillet 1935">}}
   
@@ -46,6 +44,9 @@ Il faudra attendre le 25 mai 1961, pour qu’Émile Ballion
   Après guerre la futaie des Clos est intégrée 
   à la "série touristique" qui rassemble les parcelles 
   les plus prestigieuses de Bercé.
+  Il faudra attendre le 25 mai 1961, pour qu’Émile Ballion 
+  livre au nouveau chêne Boppe une clôture bois en protection.
+
  
 {{<figure src="/images/articles/boppe20142.jpg" title="La croissance comparée des deux Boppe">}}
   
