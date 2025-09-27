@@ -79,7 +79,6 @@ Accueillant par centaine les touristes de passage et grâce à ses cartes postal
   il dévoie quelque peu l’appellation d’origine…forêt de Bercé. 
   D’ailleurs sur bon nombre de cartes, c’est toujours la même famille Bignon que l’on voit.
 
-{{<figure src="/images/articles/paysageshermitiere84.jpg" title="Famille  Bignon">}}
 
 
            Les gens venaient de très loin « C’était beau la Forêt, évidemment à l’époque.
