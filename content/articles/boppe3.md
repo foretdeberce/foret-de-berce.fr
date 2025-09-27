@@ -31,7 +31,11 @@ Une semaine avant l’événement, l’inspecteur Viney
   
 [Organisation du Baptême du nouveau chêne Boppe](/articles/pdf/notedeviney80735.pdf) 
   
-  
+### 14 juillet 1935
+
+[Les officiels au baptême du nouveau chêne Boppe et au chevet de l'ancien](/articles/pdf/officielsauboppe.pdf) 
+
+
 Il faudra attendre le 25 mai 1961, pour qu’Émile Ballion 
   livre au nouveau chêne Boppe une clôture bois en protection.
 
