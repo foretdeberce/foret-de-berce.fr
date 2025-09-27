@@ -107,7 +107,7 @@ Un vallon humide, une situation de pente, un court si il pleut
   Sans compter les incivilités de tous genres 
   (destruction de cabanes, dépots d’ordures).
 
-{{<figure src="/images/articles/paysageshermitiere.jpg" title="Grand confort à l’Hermitière">}}
+{{<figure src="/images/articles/canape.jpg" title="Grand confort à l’Hermitière">}}
 
 Au fil des années, les trouées se sont agrandies donnant
   encore plus de lumière aux hêtres en place. 
