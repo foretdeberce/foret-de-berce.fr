@@ -165,8 +165,8 @@ Le vieux chêne "Boppe" (4m41 de circonférence) est foudroyé.
 
 {{<figure src="/images/articles/venteausyndicat.jpg" title="Baptême du Chêne Boppe">}}
 
-Derrière toute cette assemblée venue au Baptême du petit nouvea,
-notre malheureux chêne Boppe foudroyé, derrière son enclos.
+Observez, derrière toute l'assemblée venue au Baptême du petit nouveau,
+notre malheureux chêne Boppe foudroyé, dans son enclos.
 
 
 {{<figure src="/images/articles/cahieraffiche1935.jpg" title="Page 26 du cahier affiche de la vente d’octobre 1935">}}
