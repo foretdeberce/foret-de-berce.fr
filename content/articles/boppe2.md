@@ -163,17 +163,17 @@ Le vieux chêne "Boppe" (4m41 de circonférence) est foudroyé.
     Il sera même présent au baptême du
     petit nouveau le 14 juillet 1935.
 
-{{<figure src="/images/articles/venteausyndicat.jpg" title="Cérémonie de cession du Boppe">}}
+{{<figure src="/images/articles/venteausyndicat.jpg" title="Baptême du Chêne Boppe">}}
 
-Derrière toute cette assemblée, le malheureux chêne Boppe foudroyé.
+Derrière toute cette assemblée venue au Baptême du petit nouvea,
+notre malheureux chêne Boppe foudroyé, derrière son enclos.
 
-C’est finalement le syndicat des Marchands de bois par 
-l’intermédiaire de son Président Mr. Pasquier (de la Chartre s/le Loir) 
-qui se portera acquéreur de ces vestiges qui n'ont par ailleurs pas trouvé autres preneurs. 
 
 {{<figure src="/images/articles/cahieraffiche1935.jpg" title="Page 26 du cahier affiche de la vente d’octobre 1935">}}
 	
-
+C’est finalement le syndicat des Marchands de bois par 
+l’intermédiaire de son Président Mr. Pasquier (de la Chartre sur Le Loir) 
+qui se portera acquéreur de ces vestiges qui n'ont par ailleurs pas trouvé d'autres preneurs. 
 	
 
 ### Abatage  du chêne Boppe (*)
