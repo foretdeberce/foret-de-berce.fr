@@ -440,15 +440,18 @@ Louis a arrêté en même temps que la scierie Adet et Les fils
 entre 1956 et 1962. 
        
 Marcel Adet, le fils était bronchiteux...
-à moins que cet état ne soit du tout simplement à la poussière 
-de bois dont on sous-estimait à l’époque l’importance des dégâts sanitaires.
+Il était victime des séquelles de la première guerre mondiale.
        
 {{<figure src="/images/articles/scierieadet2.jpg" title="Le parc à bois chez Adet">}}
 
-Avec son jeune frère : le petit Lucien, né  en 1929, la scierie Adet
-s’arrêta en 1963 et Lucien partit au Gabon. Elle fut reprise par 
-Hardouin qui l’a malheureusement fait couler. M. Roger Derré 
-son gendre, avait une scierie à Château-Renault.
+### 1956-1962
+
+introduction dans la société des fils Lucien (né en 1929 partis plus tard au Gabon)
+André (né en 1936) et d'un associé extérieur nommé Hardouin. cette assosiation
+avec ce dernier entrant fut malheureuse
+et conduit plus tard à la fermeture de l'entreprise.
+
+M. Roger Derré son gendre, avait une scierie à Château-Renault.
 Fait divers : « En 1935, le patron et sa femme en 
 admirant les arbres dans le canton de Sermaize ont buté 
 avec la voiture, dans un arbre » (témoignage de Thérèse Breton).
