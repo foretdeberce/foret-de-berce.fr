@@ -61,6 +61,9 @@ Dans chaque bas de page, ***des liens*** vous proposent des sujets concomitants.
 
 Le ***Sommaire*** regroupe tous les articles qui vous sont proposés.
 
+***Vous trouverez dans certains articles, des liens soulignés (bleu) : 
+ce sont des PDF que vous pouvez alors ouvrir et enregistrer.***
+
 ## GRANDE COLLECTE DE TEMOIGNAGES.
 
 {{<figure src="/images/articles/collecte2.jpg"  title="Grande collecte de témoignages">}}
@@ -77,7 +80,7 @@ place dans la forêt au XXe siècle.
 
 Toutes les périodes et toutes les anecdotes peuvent être partagées.🌳
 
-📆 Les retours sont souhaités avant la fin juillet 2025.
+📆 Les retours sont souhaités avant la fin 2025.
 
 Vous pouvez déposer vos témoignages : 
 - en mairie
