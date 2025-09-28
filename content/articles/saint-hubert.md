@@ -117,7 +117,7 @@ Cet établissement deviendra progressivement cette auberge renommée
   
 {{<figure src="/images/articles/parcsthubert2.jpg" title="Aménagement du fond du Parc">}}
   
-{{<figure src="/images/articles/sthubert15.jpg" title="Départ de la meute">}}
+{{<figure src="/images/articles/sthubert15.jpg" title="les propriétaires">}}
 
 ### 1927 :
   
