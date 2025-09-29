@@ -90,6 +90,8 @@ Le dernier lavoir public en forêt se situait aux sources de l’Hermitière
  les travaux nécessaires à la réparation des dégradations résultant 
  de l’exercice de la concession.*
 
+{{<figure src="/images/articles/h1601.jpg" title="deuxième plan d’eau de l’Hermitière servant de lavoir">}}
+
 
 ### 1928 : 
  
