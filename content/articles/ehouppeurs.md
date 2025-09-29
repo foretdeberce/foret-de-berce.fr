@@ -17,6 +17,11 @@ Imaginez-vous grimper à 25 ou 30 m du sol avec votre matériel,
   l’abatage **(1)**, tout en prenant soin de votre équilibre. 
   
 {{<figure src="/images/articles/ehoup3.jpg" title="Éhouppeurs de la scierie Berger de Marigné-Laillé">}}
+
+Voici une image créée par l'intelligence artificielle qui célèbre "les As de Berger"
+
+
+{{<figure src="/images/articles/lesasdeberger.jpg" title="Les éhouppeurs de la scierie Berger de Marigné-Laillé">}}
   
 Les grumes de chênes de Bercé, parées de leur belle couleur rosée, sont tendres à souhait et se fendent facilement.
   
