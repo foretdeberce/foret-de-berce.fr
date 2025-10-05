@@ -148,7 +148,6 @@ L’hiver 1878-1879 fut rude:
   mais il est certain, à la lecture des aménagements, que la plupart 
   des semis de pin maritime avaient réussi.* (R. Viney)
   
-{{<figure src="/images/articles/373.jpg" title="Givre dans la partie résineuse © Michel Marc">}}
   
 La grêle accompagne aussi parfois le tonnerre, compromettant la venue des fleurs ou des fruits. 
   
