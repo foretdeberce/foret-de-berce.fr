@@ -95,7 +95,8 @@ La réformation des forêts de 1526 à 1531 donne lieu à de nombreux arrêts
 		          " Segon la coustume de cette Forest " (XIII ° siècle).
 
      Pacage : ou " Paissage de bêtes Ausmailles " - Autorisation de mener les bovins et bêtes
-		         à laine (les chèvres sont interdites) , hors défaits sous la surveillance d'un                                berger - Les chiens doivent être attachés tout le mois de Mai (durant les nais -
+		         à laine (les chèvres sont interdites) , hors défaits sous la surveillance d'un                                
+				 berger - Les chiens doivent être attachés tout le mois de Mai (durant les nais -
 		         sances du gibier).
 
     Chasse : Le Seigneur se réserve prioritairement la chasse, toutefois certains vassaux,
@@ -104,10 +105,9 @@ La réformation des forêts de 1526 à 1531 donne lieu à de nombreux arrêts
 
     Aurillerie : ou Abeillage: Droit de disposer des ruches en forêt.
 		 Au Moyen Age, la récolte du miel et de la cire, dans les troncs creux
-                 constituait un bon revenu.  On y avait même institué des gardes spécialisés :                                                    «Les Bigres» qui étaient des éleveurs d’essaims d’abeilles sauvages
+                 constituait un bon revenu.  On y avait même institué des gardes spécialisés :                                                    
+				 «Les Bigres» qui étaient des éleveurs d’essaims d’abeilles sauvages
 
-
-{{<figure src="/images/articles/image41.jpg" title="Usages entre les 11ème et 13ème siècle ">}}
 
 {{<figure src="/images/articles/prieuredegrammont.jpg" title="reconstitution du Prieuré Saint-Étienne de Grammont">}}
 
