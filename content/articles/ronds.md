@@ -339,7 +339,7 @@ Croisement route forestière des Renardières au Pressoir / Chemin de Mayet à L
 	(commune de Marigné-Laillé) : 
 Croisement route forestière de la Croix-Ségrier / route forestière des Renardières au Pressoir /Allée du Machefer.
 	
-{{<figure src="/images/articles/001clos.jpg"  title="Rond du Clos">}}
+{{<figure src="/images/articles/clos5.jpg"  title="Rond du Clos">}}
 	
 {{<figure src="/images/articles/002clos.jpg"  title="Le poteau">}}
 
