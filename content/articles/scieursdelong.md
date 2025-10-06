@@ -81,7 +81,7 @@ se chargeait des conditions de travail, des rémunérations.
 Il s'occupait des trajets, de l'hébergement et de la nourriture.
 A la fin de la campagne, il répartissait les gains...le fameux pécule. 
 
-{{<figure src="/images/articles/dessin-sdl.jpg"title="Une équipe à trois">}}
+{{<figure src="/images/articles/dessin-sdl.jpg"title="Une équipe à deux">}}
 
 ### La scie et le balluchon
   
@@ -235,6 +235,33 @@ Plusieurs équipes constituaient une brigade. Dans ce cas, un doleur suffisait p
  Les paroles de leurs chansons évoquaient leur région et bien sûr... leur bien-aimée ! 
  
 {{<figure src="/images/articles/sdl3.jpg"title="L’équipe">}}
+
+     Mais tous ne sont pas rentrés.
+     Tous les anciens scieurs de long interrogés pour l'occasion
+     ont en commun le souvenir d'avoir exercé un beau mais 
+     rude métier, un crève corps. Ils usent des qualificatifs de
+     bagnards, de galériens ou de forçats pour le représenter.
+     Un accident, la maladie, la mort pouvait surprendre chacun
+     au détour d'un sentier ou d'une coupe. 
+     Mais fort heureusement une nouvelle conquête, l'amour, 
+     une nouvelle vie pouvaient aussi les retenir...
+     A leur bonne réputation, s'ajoutait leur agréable physique,
+     fruit de la rude gymnastique à laquelle ils étaient soumis
+     et de leur vie au grand air.
+     Rien d'étonnant que ces beaux garçons, bien charpentés,
+     sans graisse superflue, aientun franc succès auprès des
+     filles de "là-bas".
+     Ils fréquentaient une "bonne amie", se mariaient et 
+     fondaient une famille. Ainsi ont-ils fait souche en Touraine, 
+     dans le Perche... et l'émigration temporaire devenait pour
+     euxémigration définitive.
+     A l'inverse des couples cités précédemment, certains
+     s'installèrent dans le massif central, les mariées renonçant
+     à leurs leurs racines pour suivre leurs beaux scieurs de long.
+
+     Annie Arnoult.
+     (La Grande Histoire des Scieurs de Long (tomes 1 & 2) 
+     par Annie Arnoult - 2001 Édition Au Bon Laboureur.) 
    
 ### Les repas
  
