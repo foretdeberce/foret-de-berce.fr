@@ -156,7 +156,7 @@ En mars 1911 : Jouaux (successeur de Heintz) repeint les poteaux des ronds de so
   Ces poteaux seront régulièrement repeints en brun, puis au minium et enfin en blanc.
 Tels le Guinier (1906), Bel-air (1923).
  
-{{<figure src="/images/articles/guinier1.jpg" title="Rond du Guinier">}}
+{{<figure src="/images/articles/guignier1.jpg" title="Rond du Guinier">}}
 	
 {{<youtube id="bPD5DrYe5ck">}}
 
@@ -483,7 +483,7 @@ Croisement route forestière de la Guiltière / Route forestière des Terres Bla
 	(commune de Lavernat) : 
 Croisement route forestière des Terres Blanches / D 279 / route forestière de Verneil à Beaumont./ Route forestière des Profonds-Vaux.
 	
-{{<figure src="/images/articles/001verneil.jpg" title="Rond de Verneil">}}
+{{<figure src="/images/articles/verneil1.jpg" title="Rond de Verneil">}}
 
 {{<figure src="/images/articles/topo1.jpg" title="Ronds ou carrefours sans poteaux">}}
 	
