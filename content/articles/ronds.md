@@ -156,7 +156,7 @@ En mars 1911 : Jouaux (successeur de Heintz) repeint les poteaux des ronds de so
   Ces poteaux seront régulièrement repeints en brun, puis au minium et enfin en blanc.
 Tels le Guinier (1906), Bel-air (1923).
  
-{{<figure src="/images/articles/guignier1.jpg" title="Rond du Guinier">}}
+{{<figure src="/images/articles/001guignier.jpg" title="Rond du Guinier">}}
 	
 {{<youtube id="bPD5DrYe5ck">}}
 
