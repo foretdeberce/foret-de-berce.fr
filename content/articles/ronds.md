@@ -321,7 +321,7 @@ Croisement route forestière de Grammont / D 96.
 	(commune de Marigné-Laillé) : 
 Croisement route forestière du Ronceray / D 96 / route forestière de la Croix-Ségrier.
 	
-{{<figure src="/images/articles/001lune.jpg"  title="Rond de la Lune">}}
+{{<figure src="/images/articles/lune.jpg"  title="Rond de la Lune">}}
 
 ### 03 – Rond du Buisson 
 	(commune de Marigné-Laillé) : 
