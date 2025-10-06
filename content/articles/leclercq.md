@@ -81,6 +81,8 @@ Le 2 mars 1937 il écrit : *« Malade, adressé ma demande pour obtenir ma nomin
   à Saint-Martin-du-Vieux-Bellême (Orne, 15ème Conservation), 
   de préférence aux postes que j’ai déjà demandé précédemment »*.
   
+{{<figure src="/images/articles/albert2.jpg" title="Albert Leclercq en 1933">}}  
+
 Le jeudi 22 avril 1937, suite à l’achat d’un véhicule
   *« Resté au poste : aménagement d’un hangar pour loger une voiture automobile.»*
   
