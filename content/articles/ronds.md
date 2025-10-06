@@ -327,7 +327,7 @@ Croisement route forestière du Ronceray / D 96 / route forestière de la Croix-
 	(commune de Marigné-Laillé) : 
 Croisement route forestière de Grammont / route forestière du Ronceray.
 	
-{{<figure src="/images/articles/001buisson.jpg"  title="Rond du Buisson">}}
+{{<figure src="/images/articles/buisson2.jpg"  title="Rond du Buisson">}}
 
 ### 04 – Rond des Renardières 
 	(commune de Marigné-Laillé) : 
