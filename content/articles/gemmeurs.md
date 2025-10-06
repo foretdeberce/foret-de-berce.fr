@@ -87,8 +87,6 @@ La colophane est exposée au soleil, sur des plateaux circulaires en zinc et,
 Stockée en fûts de pin, la résine 
   est ensuite expédiée vers les savonneries Marseillaises, pour distillation.
   
-{{<figure src="/images/articles/resine3.jpg" title="La poterie réceptacle">}}
-  
   
 {{<figure src="/images/articles/resine10.jpg" title="Le hapchot">}}
   
