@@ -302,7 +302,7 @@ Ces plantations perdureront.
     curage des fossés,
     entretien des dalots.
 
-{{<figure src="/images/articles/wautot.jpg" title="La gare à pierres du Wautot">}}
+{{<figure src="/images/articles/rondwautot.jpg" title="La gare à pierres du Wautot">}}
 
 
 On dispose des gares à pierres (1896) encore visibles de nos jours,
@@ -387,7 +387,7 @@ Les charretiers disparaissent progressivement du paysage forestier au profit de 
   Par exemple sur l’allée Bretonne, on utilisera des pierres de calibre 0,15 et 1m 3 
   de sable pour 5 m 3 de pierres. 
 
-{{<figure src="/images/articles/maine1946.jpg" title="Les chargements s’allourdissent">}}
+{{<figure src="/images/articles/cahiersmainelibre1946.jpg" title="Les chargements s’allourdissent">}}
 
 Et de nos jours encore les chargements sont monstrueux!
 
