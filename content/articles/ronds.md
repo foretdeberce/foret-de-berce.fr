@@ -377,7 +377,7 @@ Croisement route forestière des Renardières au Pressoir / D 13.
 	(commune de Saint-Vincent du Lorouër) : 
 Croisement route forestière des Renardières au Pressoir / Ligne de la Marchandière / route forestière du Pau à Chahaignes 
 	
-{{<figure src="/images/articles/001chenedesire.jpg"  title="Rond du Chêne Désiré">}}
+{{<figure src="/images/articles/chenedesire4.jpg"  title="Rond du Chêne Désiré">}}
 
 ### 12 – Rond Wautot 
 	(commune de Saint-Vincent-du-Lorouër) :
