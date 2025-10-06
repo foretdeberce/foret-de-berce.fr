@@ -24,6 +24,8 @@ Cette marque distinctive de leur fonction d’autorité fait partie du
 
 Mise en place d’un service forestier sur le « forestage seigneurial de Berçay »
 
+{{<figure src="/images/articles/11esiecle.jpg" title="garderie royale des forêts">}}
+
 ### XII-XVI° siècles :
 
 Vers 1291 (date de la création par Philippe le Bel du corps des Eaux et forêts),
@@ -169,7 +171,8 @@ L'administration des forêts n'a pas été en mesure de fournir aux gardes les
   nouvelles plaques correspondant aux sept régimes politiques différents 
   de la première moitié du XIXe siècle…..
   
-{{<figure src="/images/articles/1854empire.jpg" title="Plaque empire 1854">}}
+
+{{<figure src="/images/articles/1852republique3.jpg" title="Plaque 3ème république 1852-1870">}}
 
 L’Empire a mis en place une administration très présente avec un symbole fort,
   celui de l’aigle, avec les mots “ Eaux et Forêts ” sur les plaques de
@@ -178,8 +181,7 @@ L’Empire a mis en place une administration très présente avec un symbole for
 Ces mots avaient été chassés par la révolution car ils rappelaient 
   trop l’ancien régime.
   
-{{<figure src="/images/articles/1852republique3.jpg" title="Plaque 3ème république 1852-1870">}}
-
+{{<figure src="/images/articles/1854empire.jpg" title="Plaque empire 1854">}}
 
 Ainsi la Vendée va vouloir montrer son attachement à la monarchie et au Roi Louis XVI. 
 Les gardes vont être amenés à effacer certains mots de leur plaque de baudrier :
