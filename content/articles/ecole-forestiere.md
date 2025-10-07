@@ -222,7 +222,7 @@ et de l' école, puis  de ne  se retirer  qu’après  le  départ  du train » 
 
 Dès 1919, l’inspecteur Potel a su développer avec efficacité l’image de Bercé à travers le Monde en accueillant bon nombre de délégations forestières étrangères, reprenant à son compte l’œuvre d'éducation entreprise par ses prédécesseurs, dont l’un des plus illustres fut : Louis René Roulleau de La Roussière, inspecteur adjoint au Mans dès 1885, puis inspecteur et enfin conservateur .
 
-{{<figure src="/images/articles/roulleau.jpg" title="Louis René Roulleau de la Rousssière photo J.Barco - Nancy ">}}
+{{<figure src="/images/articles/roulleau1878jbarconancy.jpg" title="Louis René Roulleau de la Rousssière photo J.Barco - Nancy ">}}
 
 
 A la veille  de  la  création  de  l’ Office  National  des  Forêts  en 1965, 
