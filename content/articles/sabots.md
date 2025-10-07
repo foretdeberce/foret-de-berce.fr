@@ -147,6 +147,8 @@ Il existe encore des inconditionnels du sabot :
 enfile quotidiennement ses sabots à collet. 
 Il est surnommé «Sabots-de-Bois».*
 
+{{<figure src="/images/articles/saboteriejupilles.jpg" title="Un atelier de saboterie">}}
+
 **Quelques chiffres sur Jupilles**
 
 [Les sabotiers de 1906 à 1936](/articles/pdf/sabotiersjupillesentre1906et1936.pdf)
