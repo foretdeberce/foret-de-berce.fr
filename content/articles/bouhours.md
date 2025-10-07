@@ -267,7 +267,9 @@ Mais tandis qu'ils vous parlent ainsi sur un ton neutre,
 
 
 ### Christian Pineau (5)
-  
+
+{{<figure src="/images/articles/pineau.jpg"  title="Christian Pineau, Histoires de la forêt de Bercé (1958)">}}  
+
 Histoire du petit Hêtre. 
 
 Le grand chêne était déjà vieux et solennel lorsque
@@ -417,6 +419,99 @@ Bleuet
 ### Joël PICARD ... Un responsable Atypique et poète. 
   
 [L'illumite... au pays des Oulines](/articles/pdf/joelpicard.pdf)
+
+## 2 mars 1944 : 
+Poème écrit par ***Monsieur CRESPIN,*** 
+(secrétaire général de la sous préfecture de Saint Nazaire – 44)
+A l’ intention de Marcel ADET 
+(Scieur à St Vincent du Lorouër et grand admirateur de la forêt de Jupilles) 
+
+O… Forêt !
+
+A Monsieur Marcel Adet
+Maître-Scieur
+A Saint Vincent du Lorouër
+….
+Je t’ai vue O forêt ! quand dans l’aube naissante
+Le printemps colorait de ses plus tendres verts
+Ton feuillage touffu, d’où s’éveillait, bruissante
+La foule des oiseaux endormis tout l’hiver.
+
+J’ai suivi les sentiers qui courent sous tes chênes –
+Les plus beaux de l’Europe, ainsi qu’on me l’a dit
+Et je le crois, vraiment – jusqu’aux sources lointaines
+D’où jaillit l’Hermitière en se creusant son lit.
+
+Et j’ai senti descendre, en mon âme blasée,
+Devant la majesté de tes troncs verdoyants
+Une paix bienheureuse et d’amour embrasée
+Pour celui qui, des cieux, te tira du Néant.
+
+Je t’ai vue, O forêt ! Quand le soleil torride
+Accablait de ses feux l’imprudent voyageur :
+Ton front, calme et serein, n’avait pas une ride,
+Et sous tes verts rameaux, j’ai goûté la fraîcheur.
+
+J’ai laissé, bien souvent, mon âme vagabonde
+Errer dans le domaine infini du passé
+Comme de la légende et j’oubliais le monde
+Pour écouter les voix qui, jadis, m’ont bercé.
+
+C’étaient les douces voix des invisibles fées
+Celles des enchanteurs cachés sous les halliers
+Ou des vaillants chasseurs dont les sanglants trophées
+Ornaient les châteaux forts de nos preux chevaliers.
+
+Et je me réveillais, tout surpris de n’entendre
+Que la voix du Zéphyr chantant dans les roseaux
+De l’étang, sa chanson  mélodieuse et tendre,
+Mêlant ses notes au gazouillis des oiseaux. 
+
+Je t’ai vue O forêt ! Dans ta splendeur d’automne
+Quand dans l’air attiédi par des souffles divers
+Ton dôme frémissant, devant l’œil qui s’étonne, 
+Resplendissait des ors : jaunes, rouges et verts.
+
+Plus d’une fois, assis à l’ombre de tes chênes,
+J’ai surpris, fort souvent, le vol lourd des ramiers
+Revenant, bien repus, des pâtures prochaines,
+Gagnant, pour la nuit, tes rameaux hospitaliers.
+
+Et quelquefois aussi, comme un éclair rapide,
+Passait, devant mes yeux, en bond désordonnés
+Quelque biche apeurée, à l’œil morne et stupide
+Qui fuyait, je ne sais, quel faune insoupçonné.
+
+D’autrefois, nez au vent, je cherchais près des mousses
+Les coprins chevelus, les bolets parfumés,
+Qui répandent dans l’air des odeurs extra douces :
+Champignons succulents que j’ai toujours aimés.
+
+Et je m’en revenais en cueillant la bruyère 
+Qui croit sur les talus, comme au bord des étangs,
+Et que j’enveloppais d’une verte fougère
+Pour la bien préserver des rayons éclatants.
+Je t’ai vue O forêt ! Dans ta gloire hivernale
+Quand la neige ouatait tes rameaux effeuillés
+D’où pendaient des cristaux d’une blancheur d’opale :
+Scintillantes larmes des grands bois endeuillés.
+
+Tu paraissais alors, une vielle marquise
+Aux cheveux saupoudrés des frimas les plus blancs,
+Et le gel me montrait, dessus ta robe grise
+Des dessins merveilleux, inconnus et troublants.
+
+Et j’errais, lentement, promeneur solitaire,
+Humant le vent du nord, et sous mes pas feutrés
+Craquait le froid grésil qui recouvrait la terre
+Et les feuilles de tes layons enchevêtrés.
+
+Le calme était en moi… Dors forêt ! Me disais-je
+La nature travaille à ton prochain réveil,
+Car, bientôt, tombera ton blanc manteau de neige,
+Et tu resplendiras sous les feux du soleil
+ 
+
 
 
 ## Autres liens concernant les curiosités de Bercé ##
