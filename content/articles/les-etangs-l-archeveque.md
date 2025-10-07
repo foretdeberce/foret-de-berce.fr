@@ -51,7 +51,7 @@ archéologiques sur le terrain. **(1)**
  des caractéristiques également communes à la nécropole similaire relevée dans
  le Bois d'Avort sur la commune de Louerre près de Gênes dans le Maine-et-Loire* **(2)** 
 
-{{<figure src="/images/articles/tumulus2.jpg" title="Un des 6 Tumuli du taillis des Étangs">}}
+{{<figure src="/images/articles/tumulus2.jpg" title="Les 6 Tumuli du taillis des Étangs">}}
 
 *Pour le moment, l'unique et significative constante d'une telle distribution est sa 
  relation avec une rivière importante en sa vallée. Dans les trois cas - Amenon, 
