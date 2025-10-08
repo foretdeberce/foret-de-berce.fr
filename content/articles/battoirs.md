@@ -9,6 +9,9 @@ tags: ["Forestiers","MF"]
 
 ## Laissons la parole à nos témoins.
 
+
+{{<figure src="/images/articles/fabricantdebattoirs.jpg" title="La lavandière">}}
+
 Après la dernière guerre, je suis allé en apprentissage
 chez Auguste BORDERON au « SAULT », 
 à PRUILLE-L’EGUILLE. J’avais alors 14, 15 ans. 
