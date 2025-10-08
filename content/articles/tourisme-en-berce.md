@@ -54,7 +54,7 @@ Il importe d’accroître encore nos efforts pour conserver et mettre en valeur 
 beautés naturelles des forêts, ainsi que pour y faciliter la circulation des touristes.
 Mesures de conservation (n’entraînant aucune dépense) :
 
-•	Création en France de 44 séries artistiques ( groupe d’arbres remarquables pour leur forme, leurs dimensions, leur situation.
+•	Création en France de 44 séries artistiques (groupe d’arbres remarquables pour leur forme, leurs dimensions, leur situation.)
 
 •	Les routes, sentiers fréquentés, les carrefours et ronds-points doivent être bordés de réserves.
 
