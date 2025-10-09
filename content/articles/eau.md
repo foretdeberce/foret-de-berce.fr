@@ -241,7 +241,7 @@ de Saint-Vincent-du-Lorouër et de Jupilles, il a été
 régulièrement entretenu par les ouvriers forestiers
 jusqu'en 1944. 
 
-{{<figure src="/images/articles/lavandiere.jpg" title=" Le lavoir de l’Hermitière">}}
+{{<figure src="/images/articles/h1601.jpg" title=" Le lavoir de l’Hermitière">}}
 
 
 Émilienne Bluteau (de Saint-Vincent) fréquentait 
