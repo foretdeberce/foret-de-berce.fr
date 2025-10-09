@@ -244,6 +244,8 @@ Les travaux mécaniques sur les sols limoneux sont aujourd’hui,
 réduits au minimum, afin d'éviter toute évaporation et exportation
 d'eau utile.
 
+{{<figure src="/images/articles/c3hirondelles.jpg" title="L'ancienne opération de crochetage en 1956 Parcelle C3 des Hirondelles">}}
+
 Il n'y a donc plus de crochetage **(1)** avant glandée.
 Les cloisonnements d'exploitation pour acheminer personnes et 
 véhicules sont systématiquement implantés dès le jeune âge 
