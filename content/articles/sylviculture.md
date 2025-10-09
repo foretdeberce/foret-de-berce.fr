@@ -256,7 +256,7 @@ les arbres génant le passage des débusqueurs.
 **Quand un sol limoneux est tassé,
 les dommages en sont irréparables.** 
   
-  {{<figure src="/images/articles/tracteurenault.jpg" title="les premiers tracteurs">}}
+  {{<figure src="/images/articles/19310417.jpg" title="les premiers tracteurs">}}
 
 **(1)** crochetage : travail superficiel du sol destiné à favoriser la régénération.
     *(voir photo d'en tête : crochetage du sol dans les Hirondelles en 1953)*
