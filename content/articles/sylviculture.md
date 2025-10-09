@@ -229,7 +229,7 @@ ces peuplements fragilisés, dans le respect total de la biodiversité.
 Changement des mentalités dans notre société d'après-guerre :
 Un sentiment écologique plus fort qu'auparavant.
 
-{{<figure src="/images/articles/bas-perchis-50 ans.jpg" title="Bas perchis cinquantenaire">}}
+{{<figure src="/images/articles/bas-perchis-50ans.jpg" title="Bas perchis cinquantenaire">}}
 
 ### Travaux forestiers.
 
