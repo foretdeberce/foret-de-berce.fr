@@ -16,6 +16,8 @@ Vous souhaitez réagir en tant que citoyen du monde !
 
 Cette rubrique est faite pour vous!
 
+{{<figure src="/images/articles/exprimezvous.jpg" title="Remonter le temps">}}
+
 Contactez-moi à cette adresse courriel :
 
 foretdeberce@gmail.com
