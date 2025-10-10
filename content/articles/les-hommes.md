@@ -11,7 +11,7 @@ Cheville ouvrière de la forêt, celle-ci ne peut pas se passer d’eux.
 Si l’officier en est l’architecte, le préposé ...Le maître d’œuvre, l’ouvrier en est le maçon. 
 Cette forêt que l’on dit naturelle est un pur produit de l’homme et sans celui-ci elle aurait tôt fait de redevenir hostile. Ces ouvriers, ces « sans-grade », sont sans aucun doute les plus méritants des forestiers et pourtant les moins bien rémunérés.
 
-{{<figure src="/images/articles/1860.jpg" title="ouvriers forestier en dégagement de jeunes chênes">}}
+{{<figure src="/images/articles/1860.jpg" title="Tacherons forestiers du 18e siècle en dégagement de jeunes chênes">}}
 
 ### 1860 
 
@@ -67,7 +67,7 @@ Les ouvriers chargés des travaux imposés sur les coupes et payés par les adju
 
 ### Les auxiliaires forestiers
 
-{{<figure src="/images/articles/4ouvriers.jpg" title="auxilliaires forestier en pause à la pépinière">}}
+{{<figure src="/images/articles/4ouvriers.jpg" title="auxilliaires forestiers en pause à la pépinière">}}
 
 deviennent dans la seconde partie du 20ème, de véritables ouvriers forestiers
 
