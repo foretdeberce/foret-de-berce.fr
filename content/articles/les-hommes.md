@@ -67,7 +67,7 @@ Les ouvriers chargés des travaux imposés sur les coupes et payés par les adju
 
 ### Les auxiliaires forestiers
 
-{{<figure src="/images/articles/4ouvriers.jpg" title="auxilliaires forestiers en pause à la pépinière">}}
+{{<figure src="/images/articles/4ouvriers.jpg" title="Auxilliaires forestiers en pause à la pépinière">}}
 
 deviennent dans la seconde partie du 20ème, de véritables ouvriers forestiers
 
