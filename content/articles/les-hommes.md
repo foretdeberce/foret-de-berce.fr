@@ -11,6 +11,7 @@ Cheville ouvrière de la forêt, celle-ci ne peut pas se passer d’eux.
 Si l’officier en est l’architecte, le préposé ...Le maître d’œuvre, l’ouvrier en est le maçon. 
 Cette forêt que l’on dit naturelle est un pur produit de l’homme et sans celui-ci elle aurait tôt fait de redevenir hostile. Ces ouvriers, ces « sans-grade », sont sans aucun doute les plus méritants des forestiers et pourtant les moins bien rémunérés.
 
+{{<figure src="/images/articles/1860.jpg" title="ouvriers forestier en dégagement de jeunes chênes">}}
 
 ### 1860 
 
@@ -65,6 +66,8 @@ En 1920 l’âge légal de retraite des ouvriers est de 60 ans, mais ils peuvent
 Les ouvriers chargés des travaux imposés sur les coupes et payés par les adjudicataires, ne sont pas considérés comme salariés de l'État. Même chose pour les travaux exécutés par les concessionnaires de menus produits ou travaillant à leur compte : à l’époque le temps de travail est 10 h/ jour.
 
 ### Les auxiliaires forestiers
+
+{{<figure src="/images/articles/4ouvriers.jpg" title="auxilliaires forestier en pause à la pépinière">}}
 
 deviennent dans la seconde partie du 20ème, de véritables ouvriers forestiers
 
