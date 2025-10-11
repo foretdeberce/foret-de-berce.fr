@@ -25,10 +25,14 @@ dans les villages, tels ceux des tonneliers huiliers, recensés par Lucette Bard
 *1843 : Prospère Savignard (Volumiers)* 
 *Ou plus proche de nous, celui d’Albert Gateau, artisan tonnelier à St Vincent du Lorouër (1891-1987)*
 
+{{<figure src="/images/articles/atelier3.jpg" title="Atelier de cerclage à la M.F. de la Tasse">}}
+
 *Lucien Miat a travaillé pour le Père Provost à la tâche, il a fait du merrain jusqu’en 1963 (il y en avait
 d’autres, mais ils sont décédés)*
 Après il a été tonnelier et faisait des barriques à la Chartre sur le Loir*
 (Témoignage de Marcel Perroux, né en 1922)
+
+{{<figure src="/images/articles/atelier2.jpg" title="Ateliers dans une coupe secondaire">}}
 
 Les ateliers en forêt, prennent ainsi place autour des loges, elles mêmes situées au cœur des ventes.
 La maison Gauthereau a été la dernière à fabriquer le merrain en forêt.
