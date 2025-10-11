@@ -304,7 +304,7 @@ En 1979 le Chef Calvel l’utilisera à son tour car la Huberdière fera aussi l
 La remise aux Domaines pour vente sera réalisée en mai 1998.
   
 
-{{<figure src="/images/articles/pavillon2.jpg" title="Le pavillon aujourd'hui">}}
+{{<figure src="/images/articles/pavillon2.jpg" title="Le pavillon avec son drapeau">}}
 
 ## Autres articles concernant les maisons forestières : ## 
 
