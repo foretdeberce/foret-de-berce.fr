@@ -26,7 +26,9 @@ Il n’y avait peut-être plus de forêt à l’emplacement actuel…
 
 **IXe siècle :**
 
-En l’an 877, après Charlemagne, Charles II le Chauve, par capitulaire, rend héréditaire les charges et bénéfices des fonctionnaires royaux ou Comtes *"Comes"* créant ainsi les fiefs, diminuant le pouvoir royal *(par usurpations)*.
+En l’an 877, après Charlemagne, Charles II le Chauve, par capitulaire, rend héréditaire
+les charges et bénéfices des fonctionnaires royaux ou Comtes *"Comes"* créant ainsi les fiefs,
+diminuant le pouvoir royal *(par usurpations)*.
 
 **Xe siècle :**
 
@@ -161,7 +163,7 @@ En 1585, à sa mort, elle revient définitivement au domaine Royal.
 
 **XVIIe siècle :**
 
-**(1667-1669**
+**1667-1669**
 
 Colbert entreprend  la grande réformation des forêts.
 Le commissaire enquêteur sanctionnera les abus du maître particulier alternatif :
@@ -213,6 +215,8 @@ Titre X (p.596 et 597) délits et malversations de René Gaudron & Michel Dupré
 * Signé, RANСHIN **(4)**
 
 **XVIIIe siècle :**
+
+{{<figure src="/images/articles/vieuxforestiers.jpg" title="Réunion en forêt">}}
 
 **En 1723**
 
