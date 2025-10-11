@@ -234,7 +234,7 @@ gardes cantonniers.
      
  [Caractéristiques du vaisseau "La Sarthe" faisant partie de la flotte de Napoléon III](/articles/pdf/lasarthe.pdf)   
 
-{{<figure src="/images/articles/annamitesarthe.jpg" title="Le vaisseau Sarthe à Toulon">}}
+{{<figure src="/images/articles/annamite.jpg" title="Le vaisseau Sarthe à Toulon">}}
 
 À la lecture des premiers livrets journaliers, en 1860 on rentre dans le vif du sujet.
 Tous les cantons boisés en feuillus de Bercé dans lesquels l’on ouvre les parcelles
