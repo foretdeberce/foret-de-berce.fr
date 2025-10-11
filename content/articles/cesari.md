@@ -260,7 +260,7 @@ N’en pouvant plus de lutter contre une administration à ce point sourcilleuse
   le député Dominique FORCIOLI, député de la Corse de 1905 à 1910 
   (inscrit au groupe radical-socialiste).
 
-{{<figure src="/images/articles/forcioli.jpg" title="Le député Corse Dominique  FORCIOLI">}}
+{{<figure src="/images/articles/forcioli.jpg" title="Le député Corse Dominique Forcioli">}}
 
 ### Et oh … miracle ! :  
 
