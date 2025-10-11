@@ -29,6 +29,8 @@ dans le canton des Follets p.224 : le 16 fév. 1880 »* ou
 voir encore *« extraction à la main de bruyères dans les 
 coupes définitives de la p. 242 en octobre 1880. »* 
 
+{{<figure src="/images/articles/crochetageberce.jpg" title="Vers 1900 crochetage d'une parcelle en coupe secondaire">}}
+
 ### *Note n° 139 du 6 septembre concernant les calepins d'attachement :*
 
 1er avril 1881 : *« Accompagné mon brigadier en tournée dans mon triage* 
