@@ -56,7 +56,7 @@ Des travaux sont programmés en août 1978.
      l’un des tous premiers accidents de 
      la circulation routière à Bercé.     
      
-{{<figure src="/images/articles/louispigault.jpg" title="Louis Pigault aux Hutteries">}}
+{{<figure src="/images/articles/famille-pigault.jpg" title="Louis Pigault aux Hutteries">}}
 
 ## Autres articles concernant les maisons forestières : ## 
 
