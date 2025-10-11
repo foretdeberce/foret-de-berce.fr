@@ -39,7 +39,6 @@ et le garde général stagiaire HERMIER consigneront sur son livret cette phrase
      Le préposé a été informé qu’il serait puni d’une retenue sur son
      traitement au premier accroc dans son service."	
      
-{{<figure src="/images/articles/train1903.jpg" title="Voyage à Paris de février 1903">}}  
 
 ### Le 18 Mars 1904, 
 
@@ -218,7 +217,7 @@ Dans ses tournées le garde doit toujours avoir son livret,
 	                 Le 26 décembre 1904 – ROULLEAU
  
 
-{{<figure src="/images/articles/roulleau.jpg" title="L’inspecteur René Roulleau de la Roussière">}}
+{{<figure src="/images/articles/roulleau1878jbarconancy.jpg" title="L’inspecteur René Roulleau de la Roussière">}}
 	
 {{<figure src="/images/articles/19050220.jpg" title="20 février 1905 lettre du ministre au préfet">}}  
 
