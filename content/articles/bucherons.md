@@ -188,7 +188,7 @@ Le métier de bûcheron, Gaston l’exerçait au début avec Maxime Claudot né 
     ils étaient habitués avec nous, en plus ils étaient presque
     tous du « Pays ».
     
-{{<figure src="/images/articles/culeenoir.jpg" title="Exploitation à culée noire">}}
+{{<figure src="/images/articles/culeenoire.jpg" title="Exploitation à culée noire">}}
     
 Bernard, quant à lui, se souvient de cet accident arrivé dans les années 60/61, dans le Sault Moulin.
 Le Père Trouvé, originaire de Pruillé mais résidant à Marigné, bûchait dans de l’efforage.
