@@ -185,7 +185,7 @@ l’œil du forestier ou aujourd’hui un dendromètre pour la prise des hauteur
 Puis avec force et conviction, crie en direction du pointeur, l’essence,
   le diamètre, la hauteur estimée et la qualité.
   
-{{<figure src="/images/articles/Calvel1.jpg" title="Calvel au pointage">}}
+{{<figure src="/images/articles/Calvel.jpg" title="Calvel au pointage">}}
   
 {{<figure src="/images/articles/cloture.jpg" title="L’ingénieur, ici Fleury, clos la fiche de martelage">}}
 
