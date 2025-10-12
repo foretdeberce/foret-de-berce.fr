@@ -58,9 +58,9 @@ Leclercq Albert Né à Neufchâtel-en Saosnois le 12 juin 1902. Brigade 2 – Tr
  Il succède au garde Jules Verseau. 
  Originaire de Radon, dans l’Orne, son dernier poste se situait à Conflans-sur-Seine. 
  
- {{<figure src="/images/articles/albertleclercq1960.jpg" title="Albert Leclercq en 1960">}}
+ {{<figure src="/images/articles/mfdouciniere.jpg" title="La Doucinière en 1933">}}
   
-  
+  oucinière en 1933
 L'électricité arrive à la maison forestière en octobre 1954,
   mais pour le défaut de règlement d’une facture le compteur électrique ne peut être posé le 20 octobre. 
   Pour arranger le coup et éviter le surcoût, Goenvec ira lui-même avec une autre personne dans le même
