@@ -171,10 +171,17 @@ Hilarion de Fromentières qui sera condamné à verser au Roi,
 le trop perçu des revenus de la Forêt soit : 12.100 Livres (par jugement du 2 juillet 1668).
 1669 : premier aménagement de la forêt Royale de Bercé "du 8 au 17 Octobre".
 
+
 *« 4.243 hectares situés dans un fond très bon pour porter des bois de haute 
 futaie où ils peuvent profiter jusqu'à l'âge de 200 ans ... 
 dont 1.000 hectares de bois plus jeunes ruinés par le pâturage, à recéper ».*
 
+### Pendant ce temps
+
+{{<figure src="/images/articles/martinlambert.jpg" title="A Saint Vincent, la vie coule des jours heureux">}}
+
+Fresque de Yannick Sepré sur la vie de Martin Lambert, d'après la vie des personnages
+peints sur la voute de l'église paroissiale de Saint Vincent du Lorouër.
 
 **1669** 
 
