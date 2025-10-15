@@ -86,6 +86,10 @@ Néanmoins, durant la  dernière guerre, les gazogènes et autres machines à va
   on tâtait la consistance de la meule à mesure que la cuisson descendait. 
   Quand la couche cédait, c'était cuit.*
 
+### 1935 
+
+[PDF sur le Rallye international Rome-Le Mans-Paris](/articles/pdf/livretrallye.pdf)
+
 ### Pour l’Exposition  universelle de 1937
   
  et jusqu’en 1940 dans les bureaux 
