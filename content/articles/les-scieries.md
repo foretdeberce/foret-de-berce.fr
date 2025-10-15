@@ -407,6 +407,8 @@ apportera la modernisation. Émile Allard décèdera en 1976 à 73 ans.
 ### À Saint-Vincent-du-Lorouer 
        
 **La scierie Adet** 
+
+[PDF sur la scierie Adet](/articles/pdf/scierieadet.pdf)
        
 Adet s’associe avec Vaillant Auguste en 1924. 
        
