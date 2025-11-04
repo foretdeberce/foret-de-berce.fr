@@ -67,7 +67,6 @@ et Marie Eudoxie Wautot 1851.
   
 {{<figure src="/images/articles/cartewautot1842.jpg"  title="Assemblage des cartes Wautot">}}
 
-{{<figure src="/images/articles/1846-1884.jpg"  title="Carte Wautot 1846 remaniée en 1884">}}
   
 *Ce plan, dressé en 1846 par Wautot arpenteur forestier a 
 été complèté et mis à jour en 1884 par Mr Roulleau inspecteur
