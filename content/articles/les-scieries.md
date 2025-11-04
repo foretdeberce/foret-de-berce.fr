@@ -408,7 +408,9 @@ apportera la modernisation. Émile Allard décèdera en 1976 à 73 ans.
        
 **La scierie Adet** 
 
-[PDF sur la scierie Adet](/articles/pdf/scierieadet.pdf)
+[PDF sur la scierie Adet de 1924 à 1945](/articles/pdf/scierieadet1924-1945.pdf)
+
+[PDF sur la scierie Adet et fils](/articles/pdf/scierieadetdepuis1945.pdf)
        
 Adet s’associe avec Vaillant Auguste en 1924. 
        
