@@ -73,6 +73,8 @@ et à cette époque, il n’y avait pas de vol entre ramasseurs.
 
 **Aujourd’hui**
 
+[en pièce jointe le PDF sur les champignons de Bercé](/articles/pdf/champignons2.pdf)
+
 …1 000 espèces de champignons sont répertoriées,
 mais il y a beaucoup plus de ramasseurs. 
 Le ramassage est désormais une occupation ludique et gratuite. 
