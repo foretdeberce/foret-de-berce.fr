@@ -73,7 +73,7 @@ et à cette époque, il n’y avait pas de vol entre ramasseurs.
 
 **Aujourd’hui**
 
-[En pièce jointe, le PDF sur les champignons à Bercé](/articles/pdf/champignons.pdf)
+[En pièce jointe, le PDF sur les champignons à Bercé](/articles/pdf/champi01.pdf)
 
 …1 000 espèces de champignons sont répertoriées,
 mais il y a beaucoup plus de ramasseurs. 
