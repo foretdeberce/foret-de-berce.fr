@@ -333,7 +333,7 @@ Plusieurs personnes se plaignent des trop  grands prélèvements de cervidés.
 
 ### Saison en cours
 
-[Voici le calendrier de chasse pour la saison 2024 - 2025 sur Bercé](/articles/pdf/saison24-25berce.pdf)
+[Voici le calendrier de chasse pour la saison 2025 - 2026 sur Bercé](/articles/pdf/saison25-26berce.pdf)
 
 
 ## Autres articles concernant la chasse ou la pêche: ## 
