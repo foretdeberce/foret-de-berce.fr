@@ -580,6 +580,13 @@ En Bercé le 16 avril 2014 **(1'45)**
 *(La Liste des parcelles touchées par le feu est non exhaustive. 
  Numérotation  des parcelles mis à jour en 2016.)*
 
+ 
+**2025**, *"Des barrières métalliques sont en cours d’installation en forêt. 
+Elles s’inscrivent dans la stratégie de prévention des feux de forêts (DFCI) 
+et pourront en période hivernale, lorsqu'un gros coup de tempête aura couché des arbres,
+de sécuriser certaines routes forestières."*
+Indique Hervé Daviau, responsable ONF de l’Unité Territoriale Sarthe–Mayenne.
+
 
 ## Autres liens concernant les redoutables épreuves de la nature ##
 
