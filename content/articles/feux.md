@@ -584,7 +584,7 @@ En Bercé le 16 avril 2014 **(1'45)**
 **2025**, *"Des barrières métalliques sont en cours d’installation en forêt. 
 Elles s’inscrivent dans la stratégie de prévention des feux de forêts (DFCI) 
 et pourront en période hivernale, lorsqu'un gros coup de tempête aura couché des arbres,
-sécuriser ainsi certaines routes forestières,"*
+permettre de sécuriser ainsi certaines routes forestières,"*
 indique Hervé Daviau, responsable ONF de l’Unité Territoriale Sarthe–Mayenne.
 
 
