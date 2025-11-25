@@ -121,7 +121,13 @@ tout en conservant une gestion raisonnée et un sentiment écologique plus fort 
 [L'évolution sylvicole renoue avec les valeurs de l'écologie](/articles/pdf/evolutiondupatrimoinedeberce.pdf)  
 
 
+
+Après 8 ans de secheresse relative, l'année 2025 est hygrométriquement limite. 
+Jean-François Clémence nous livre ici sa vision de l'automne en forêt de Bercé.
 Bonne lecture !
+
+{{<youtube id="o2hBvSOOIfM">}}
+L'arrivée de l'automne 2025 racontée par Jean-François Clémence. **(3'40)**
 
 La taille des forêts françaises a-t-elle diminué ou augmenté depuis 20 ans ?
 
