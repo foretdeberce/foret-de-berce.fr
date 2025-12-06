@@ -37,7 +37,7 @@ La valeur de ces arbres est comme le risque à prendre :
   fatidique de la découpe.*
   À trois dans le même hêtre, c’est souvent pour trinquer à la santé d'un photographe.
   
-{{<figure src="/images/articles/ehouppageboppe.jpg" title="Éhouppage du chêne Boppe - 1935">}}
+{{<figure src="/images/articles/emondageboppe.jpg" title="Éhouppage du chêne Boppe - 1935">}}
 
 Sur la photo ci-dessus, Auguste RAMAUGÉ aidé d'un autre éhouppeur, ce vendredi 19 juillet 1935, 
   sont en train d’officier à plus de 25m de hauteur.
