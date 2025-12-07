@@ -37,7 +37,7 @@ d’une manière plus intelligente.
 Vous aurez à me signaler ceux qui montreront de la mauvaise volonté à se 
 mettre au courant de cette partie très importante de leur service.
 
-**Puis ce fut des rappelsv incessants jusqu'à la grande guerre !** 
+**Puis ce fut des rappels incessants jusqu'à la grande guerre !** 
 
      Note du 13 février 1905 du Brigadier Marsac (les Renardières)
      
