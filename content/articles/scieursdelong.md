@@ -212,6 +212,8 @@ Plusieurs équipes constituaient une brigade. Dans ce cas, un doleur suffisait p
  positionner et d'escaliers au chevrier, véritable homme singe. Des pierres et des
  grosses pièces de bois étaient appliquées à l'arrière, afin d'éviter le mouvement 
  de balancier.
+
+{{<figure src="/images/articles/sdl5.jpg"title="Une équipe de la forêt de Perseigne">}}
  
  La grande scie de long était formée d'un cadre en bois d'environ 
  1,50 m de long sur 1 m de large, munie d'une poignée aux deux transversales, 
