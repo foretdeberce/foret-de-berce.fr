@@ -123,7 +123,9 @@ Les préposés sont en grande tenue.
  Quelques familles forestières posent ici devant une Loge et sa
  pancarte indiquant « Honneur à l'École Nationale Forestière »
 
+## La tenue était de rigueur !
 
+[en pièce jointe le PDF de Jean Claude Chausse, sur les dagues de l'École forestière de Nancy](/articles/pdf/gazettedagueenef.pdf)
 
 Les jours de visite des élèves de Nancy, Le drapeau tricolore 
  flotte au pavillon de la Huberdière et à la Tasse.
