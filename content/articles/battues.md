@@ -669,7 +669,7 @@ Yves Camisy (toujours dans les bons coups, mais là visiblement…regrettant le 
 
 {{<figure src="/images/articles/1000028534.jpg"  title="La chasse aux Ortolans">}}
 	
-témoigne que *les gardes des Clos, Émile Albrecht, et celui des Étangs (1937-1948) Volard, 
+témoigne que *les gardes des Clos, (1901-1918) Émile Albrecht, et celui des Étangs (1937-1948) Volard, 
 avaient pour habitude d’aller se servir, à hauteur, dans les jeunes fourrés, le soir avec leur lanterne, 
 en pinsons des Ardennes (dits du Nord). 
 En effet, cette espèce évoluant en bande, trouve dans les peuplements
