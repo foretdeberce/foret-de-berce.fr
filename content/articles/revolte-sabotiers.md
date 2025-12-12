@@ -100,31 +100,31 @@ Dès lors, les troubles se déclenchent:
       - le désarmement des brigands, leur arrestation et leur 
       traduction devant le Juge de Paix du canton,
       - l'autre réquisitoire par écrit aux municipalités voisines et 
-      particulièrement celle de Saint-Vincent -du-Lorouer de fournir 
+      particulièrement celle de Saint-Vincent-du-Lorouer de fournir 
       et tenir 30 hommes prêts à marcher le lendemain 5 heures du matin,
       - l'autre procès-verbal de ladite municipalité du 22 du même mois qui 
-      constate que les brigands arrêtés ont été con-duits dans les prisons 
+      constate que les brigands arrêtés ont été conduits dans les prisons 
       du Château-du-Loir par la Gendarmerie Nationale et la Garde 
-      Nationale du Grand-Lucé ; qu'à Saint-Vincent- du- Lorouër 
+      Nationale du Grand-Lucé ; qu'à Saint-Vincent-du-Lorouër 
       il n'y avait aucun garde national sous les armes pour relever la 
-      Garde Nationale du Grand - Lucé escortant la Gendarmerie,
+      Garde Nationale du Grand-Lucé escortant la Gendarmerie,
       - que ladite Garde Nationale a été insultée, assaillie à coups 
-      de pierres dans ce bourg (St -Vincent) par les femmes 
+      de pierres dans ce bourg (St-Vincent) par les femmes 
       PIAT, BODIN, COCHAIN et JOUANNEAU, habitantes du lieu,
       - et la plainte rendue de ces faits par la Garde Nationale, 
       devant le maire du Grand-Lucé, à son retour de la conduite des brigands,
       - l'avis préparatoire du district du Château-du-Loir du 24 dudit mois de mars,
-      - l'extrait de la délibération de la municipalité de Saint-Vincent- du- Lorouër 
+      - l'extrait de la délibération de la municipalité de Saint-Vincent-du-Lorouër 
       du 21 mars,
       - la réponse de la municipalité en conséquence de l'avis du district du 
       Château-du-Loir, en date du 25 mars,
       - les trois rapports des sieurs PERDRIGEON, DERRE et CHABANS,
-      capitaines de la Garde Nationale de Saint- Vincent du -Lorouër des 
+      capitaines de la Garde Nationale de Saint-Vincent-du-Lorouër des 
       22 et 25 mars qui portent que les 30 hommes de la Garde Nationale 
       requis ont été commandés par eux, mais ont été empêchés de se
       rassembler ainsi qu’eux, capitaines, qui se sont retirés par crainte
       des femmes et d'exciter une émeute dans le bourg,
-      - l'avis motivé du Directoire du district du Château -du- Loir du 28 mars,
+      - l'avis motivé du Directoire du district du Château-du-Loir du 28 mars,
       - lecture faite des articles 41, 42 et 43 (loi du 3 août 1791) relative à l'emploi
       de la force publique contre les attroupements,
 
@@ -134,11 +134,11 @@ Dès lors, les troubles se déclenchent:
       de la ville du Grand-Lucé,
       - que leur conduite ferme et courageuse a maintenu dans cette ville la tranquillité 
       publique et protégé les propriétés particulières qui y étoient menacées,
-      - que les citoyens de la commune de Saint-Vincent du -Lorouër qui ne se sont pas 
-      rendus à la réquisition  légale qui leur a été faite,  
+      - que les citoyens de la commune de Saint-Vincent-du-Lorouër qui ne se sont pas 
+      rendus à la réquisition légale qui leur a été faite,  
       sont coupables de désobéissance à la loi,
       - que les excès, insultes et voies de fait commis dans le bourg de 
-      Saint-Vincent du -Lorouër contre la Garde Nationale du Grand-Lucé étant dans 
+      Saint-Vincent-du-Lorouër contre la Garde Nationale du Grand-Lucé étant dans 
       l'exercice de ses fonctions, sont des délits punissables, 
 
 
@@ -146,8 +146,8 @@ Dès lors, les troubles se déclenchent:
       - que la municipalité de Saint-Vincent-du-Lorouër sera tenue
       de faire parvenir au Directoire la liste exacte et nominative des 30 citoyens et 
       des 3 officiers par elle requis au nom de la loi et qui ont refusé d'obéir, pour être
-      pris contre eux les mesures  indiquées par les articles 41 et 42 de la loi du 3 août 1791 ;
-      - Réserves à prononcer sur ladite municipalité de Saint-Vincent du -Lorouër jusqu'après
+      pris contre eux les mesures indiquées par les articles 41 et 42 de la loi du 3 août 1791 ;
+      - Réserves à prononcer sur ladite municipalité de Saint-Vincent-du-Lorouër jusqu'après
       les informations qui seront faites sur les poursuites qui auront lieu contre les citoyens
       compris en ladite liste ;
 
@@ -155,11 +155,11 @@ Dès lors, les troubles se déclenchent:
       - qu'à la requête du Procureur Syndic du district du Château-du-Loir, 
       suites et diligences du Procureur de la commune du Grand-Lucé, les insultes,
       excès et voies de fait commis et exercés contre la Garde Nationale du Grand-Lucé 
-      le 22 mars 1792 dans le bourg de Saint-Vincent -du- Lorouër et notamment
+      le 22 mars 1792 dans le bourg de Saint-Vincent-du-Lorouër et notamment
       les femmes PIAT, BODIN, COCHAIN et JOUANNEAU à qui les excès et
-      voies de fait sont principalement  imputés, ainsi que tout autre auteur ou complice
+      voies de fait sont principalement imputés, ainsi que tout autre auteur ou complice
       des dits attentats contre ladite Garde Nationale dans l'exercice de ses fonctions, seront
-      dénoncés au Juge de Paix du Canton .
+      dénoncés au Juge de Paix du Canton.
 
       Adresse 
       - un témoignage de satisfaction à la municipalité et
@@ -177,82 +177,83 @@ Voici le signalement des 9 hommes qui ont été arrêtés, conduits au Château-
 
 ### François BARDET :
 
-  taille 5 pieds ; visage rond, cheveux ronds et sourcils châtains ; 
-  Barbe claire, yeux bleus ; nez assez bien fait ; bouche moyenne ; menton carré ; 
-  visage assez coloré. Taille carrée. Veste de droguet bleu ; gilet de serge bleue.
-  Profession : fûtier ; Age : 30 ans, marié, domicilié à Jupilles ; 
+  taille 5 pieds ; visage rond, cheveux ronds et sourcils châtains; 
+  Barbe claire, yeux bleus; nez assez bien fait ; bouche moyenne ; menton carré; 
+  visage assez coloré. Taille carrée. Veste de droguet bleu; gilet de serge bleue.
+  Profession : fûtier; Age : 30 ans, marié, domicilié à Jupilles; 
   ne sait ni lire, ni écrire, ni signer.
 
 ### Michel GORY : 
 
   Taille 5 pieds 2 pouces ; visage ovale, cheveux et sourcils châtains
-  tirant sur le blond ; barbe même cou-leur ; front haut ; yeux roux, un peu enfoncés ; 
-  nez épaté ; joues creuses ; bouche moyenne ; menton rond ; stature large et vigoureuse.
-  Mauvaise veste grise rapiécetée ; un mauvais gilet d'étamine brune ; 
-  profession : fendeur de seillerie ; âge environ 34 ans, domicilié à la Marchandiere
-  à Jupilles ; sait lire, écrire et signer.
+  tirant sur le blond ; barbe même couleur; front haut; yeux roux, un peu enfoncés; 
+  nez épaté; joues creuses; bouche moyenne; menton rond; stature large et vigoureuse.
+  Mauvaise veste grise rapiécetée; un mauvais gilet d'étamine brune; 
+  profession : fendeur de seillerie; âge environ 34 ans, domicilié à la Marchandiere
+  à Jupilles; sait lire, écrire et signer.
 
 ### Pierre BOURREAU :
 
   Taille 5 pieds 4 pouces, cheveux châtains, sourcils blonds, 
-  visage pâle et allongé ; nez gros et écrasé ; bouche moyenne, yeux roux ; menton moyen ; 
-  barbe blonde ; visage marqué de petites rousseurs ; assez  bien corporé. 
-  Veste de droguet bleu et culotte de même ; gi-let blanc de molleton ; 
-  guêtres de toile blanche et  boutons de cuir) souliers ferrés et chapeaurond.
-  Profession : sabottier ; âge 21 ans ; demeurant à Pruillé - l’Éguillé ; 
-  ne sait ni lire ; ni écrire ; ni signer.
+  visage pâle et allongé; nez gros et écrasé; bouche moyenne, yeux roux; menton moyen; 
+  barbe blonde; visage marqué de petites rousseurs; assez  bien corporé. 
+  Veste de droguet bleu et culotte de même; gilet blanc de molleton; 
+  guêtres de toile blanche et boutons de cuir; souliers ferrés et chapeaurond.
+  Profession : sabottier; âge 21 ans; demeurant à Pruillé-l’Éguillé; 
+  ne sait ni lire; ni écrire; ni signer.
 
 ### Pierre BOUSSION : 
 
-  Taille 5 pieds 2 pouces ; visage rond ; yeux roux tirant sur le bleu ;
-  Cheveux et sourcils   châtains clairs ; figure assez jolie ; nez bien fait ; 
-  sans barbe et assez bien fait. 2 mauvais gilets de  travail d'une étoffe de laine brune ; 
-  grande culotte de toile de commun. Profession : fendeur de merrein ; âge 17 ans 1/2 ;
-  demeure chez Vaujoy, son oncle vigneron ; ne sait ni lire, ni écrire, ni signer,
+  Taille 5 pieds 2 pouces; visage rond; yeux roux tirant sur le bleu;
+  Cheveux et sourcils châtains clairs; figure assez jolie; nez bien fait; 
+  sans barbe et assez bien fait. 2 mauvais gilets de  travail d'une étoffe de laine brune; 
+  grande culotte de toile de commun. Profession: fendeur de merrein; âge 17 ans 1/2;
+  demeure chez Vaujoy, son oncle vigneron ; ne sait ni lire, ni écrire, ni signer.
 
 ### Paul PREVOT : 
   
-  Taille 5 pieds 3 pouces ; cheveux, sourcils et barbe noirs, 
-  Yeux gris un peu enfoncés ; nez long et gros du bout ; front haut ; visage assez rempli ; 
+  Taille 5 pieds 3 pouces; cheveux, sourcils et barbe noirs. 
+  Yeux gris un peu enfoncés; nez long et gros du bout; front haut; visage assez rempli; 
   assez bonne mine, ayant au petit doigt de la main droite un caillou qui le tient courbé. 
-  Veste de serge grise ; culotte de même couleur ; mauvais gilet aussi de serge beurre ;
-  guêtres de toile blanche. Profession : fendeur de merrein ; âge 42 ans ; demeurant à
-  l'Etre-du-Vau à Jupilles ; ne sait ni lire, ni écrire, ni signer.
+  Veste de serge grise; culotte de même couleur; mauvais gilet aussi de serge beurre;
+  guêtres de toile blanche. Profession: fendeur de merrein; âge 42 ans; demeurant à
+  l'Etre-du-Vau à Jupilles; ne sait ni lire, ni écrire, ni signer.
 
 ### Marin GROSBOIS : 
   
-  Taille 5 pieds 2 pouces ; cheveux et barbe noirs ; sourcils châtains ;
-  Yeux roux ; nez gros, bouche moyenne ; menton pointu ; visage blême, bien fait, 
-  un peu marqué de petite vérole. Mauvaise veste de droguet brun, mauvais gilet de serge grise ; 
-  culotte de même couleur en étoffe ; mauvaises guêtres de toile.
-  Profession : bûcheron ; âge 28 ans ; domicilié paroisse de Jupilles ;
+  Taille 5 pieds 2 pouces; cheveux et barbe noirs; sourcils châtains;
+  Yeux roux; nez gros, bouche moyenne; menton pointu; visage blême, bien fait, 
+  un peu marqué de petite vérole. 
+  Mauvaise veste de droguet brun, mauvais gilet de serge grise; 
+  culotte de même couleur en étoffe; mauvaises guêtres de toile.
+  Profession: bûcheron; âge 28 ans; domicilié paroisse de Jupilles;
   ne sait ni lire, ni écrire, ni signer.
 
-### Pierre CHAZIER, dit SANS-FACON :
+### Pierre CHAZIER, dit Sans-Façon :
   
-  Taille 5 pieds 2 pouces ; cheveux, en catogan 
-  (queue au bas de la nuque) châtains ; sourcils et barbe noirs ; bouche moyenne, 
-  menton rond, nez ordinaire et pointu ; yeux bleus et gros, à fleur de tête ; 
+  Taille 5 pieds 2 pouces; cheveux, en catogan, 
+  (queue au bas de la nuque) châtains; sourcils et barbe noirs; bouche moyenne, 
+  menton rond, nez ordinaire et pointu; yeux bleus et gros, à fleur de tête; 
   mince et assez bien fait. Vieille et mauvaise veste de drap blanc,
-  gilet de ra…. z de même couleur, une mauvaise culotte de tricot blanche, 
-  guêtres de coton barré bleu. Profession : sabottier ; âgé de 30 ans, marié, 
-  habite à Pruillé au canton de l'Etang ; ne sait ni lire, ni écrire, ni signer.
+  gilet de même couleur, une mauvaise culotte de tricot blanche, 
+  guêtres de coton barré bleu. Profession: sabottier; âgé de 30 ans, marié, 
+  habite à Pruillé au canton de l'Etang; ne sait ni lire, ni écrire, ni signer.
 
 ### René VERITÉ : 
   
-  Taille 4 pieds 11 pouces ; cheveux, sourcils et barbe châtains ;
-  front long et étroit ; yeux bleus enfoncés ; nez menu, bouche moyenne ; menton rond ; 
-  mauvaises dents : une manquante en haut. Veste de serge bleuâtre, gilet de berluche bleu ciel ;
-  grande culotte de cotonnade rayée bleue. Profession : garçon apprenti sabotier, âge 25 ans ;
-  demeurant à Pruillé ; ne sait ni lire, ni écrire, ni signer.
+  Taille 4 pieds 11 pouces; cheveux, sourcils et barbe châtains;
+  front long et étroit; yeux bleus enfoncés; nez menu, bouche moyenne; menton rond; 
+  mauvaises dents: une manquante en haut. Veste de serge bleuâtre, gilet de berluche bleu ciel;
+  grande culotte de cotonnade rayée bleue. Profession: garçon apprenti sabotier, âge 25 ans;
+  demeurant à Pruillé; ne sait ni lire, ni écrire, ni signer.
 
 ### Adrien CHAZIER : 
 
-  Taille 5 pieds ; cheveux et sourcils noirs, barbe claire ; front couvert ; 
-  visage rond ; yeux roux à fleur de tête ; nez court et retroussé; petite bouche, menton rond ;
-  belle figure, joues remplies; assez bien fait. Veste et culotte bleues ; gilet d'indienne à 
-  fond blanc rayée rouge et bleu ; bas drapés blancs ; souliers. Profession : garçon  apprenti 
-  tourneur ; âge 18 ans ; habite à Pruillé au canton de l'Etang ;
+  Taille 5 pieds; cheveux et sourcils noirs, barbe claire; front couvert; 
+  visage rond; yeux roux à fleur de tête; nez court et retroussé; petite bouche, menton rond;
+  belle figure, joues remplies; assez bien fait. Veste et culotte bleues; gilet d'indienne à 
+  fond blanc rayée rouge et bleu; bas drapés blancs; souliers. Profession: garçon  apprenti 
+  tourneur; âge 18 ans; habite à Pruillé au canton de l'Étang;
   ne sait ni lire, ni écrire, ni signer.
 
 ### Voilà les BRIGANDS : 
@@ -261,15 +262,16 @@ Ce ne sont pourtant que des ouvriers de la forêt de Bercé …!!!
 
 Leur interrogatoire nous révélera leurs intentions : 
 que venaient-ils faire au marché de Lucé ?  
+
 Le piller ?
 
-A ces questions, chacun des détenus – consulté séparément — affirme qu'il s'agissait
+A ces questions, chacun des détenus (consultés séparément) affirme qu'il s'agissait
 *«d'aller, le jour même (mercredi 21 mars 1792), à Lucé pour voir si, au marché, 
-  il y aura des blattiers, et si nous en trouvons, les chasser et les empêcher 
+  il y aura des blatiers, et si nous en trouvons, les chasser et les empêcher 
   d'enlever les blés.»*
 Certains ajoutent des précisions : *«sans leur faire de mal, ni à personne, 
   celui qui (en) feroit sera remis au corps de garde»*.             
-L'achat du blé par des marchands grossistes (les blattiers) 
+L'achat du blé par des marchands grossistes (les blatiers) 
   était *«la cause d'une augmentation considérable sur le prix du pain»*... 
       
 Alors, dès l'arrivée des ouvriers de la forêt à Lucé, 
@@ -282,20 +284,20 @@ Alors, dès l'arrivée des ouvriers de la forêt à Lucé,
 Les forestiers (qui ne s'adonnent à aucune culture de céréales) sont les premiers atteints par
   la montée des prix. 
   Ils entendent maintenir la valeur des grains à un niveau abordable en l'imposant au besoin, 
-  par une démonstration de leur « force, qu'ils prétendent tranquille ».
+  par une démonstration de leur «force, qu'ils prétendent tranquille».
   
 Comment ces taxateurs se sont-ils concertés pour élaborer leur projet et tenter de le mener à bien ? 
   Les minutes du procès établissent l'influence d'un sabotier de Pruillé qui fait figure de meneur 
   et qui, d'ailleurs, sera le seul inculpé de cette révolte: 
   
-***Pierre CHAZIER, dit SANS-FAÇON.*** 
+***Pierre CHAZIER, dit Sans-Façon.*** 
 
 Le compte-rendu de son jugement reprend 
    les différents témoignages et restitue les péripéties de la marche des 
-   ouvriers de la forêt :
+   ouvriers de la forêt:
    *Le directeur du juré déclare qu'il résulte de l'examen des pièces :
    Que le 21 mars dernier, sur les 7 à 8 heures du matin, le dit Pierre 
-   CHAZIER, dit SANS-FAÇON fit battre la douelle dans la jeune vente 
+   CHAZIER, dit Sans-Façon fit battre la douelle dans la jeune vente 
    de la Chauvinière, dépendante de la forêt de Bercé, paroisse 
    de Jupilles et que ce signal fut répété aussitôt dans d'autres
    ventes voisines. Qu'aussitôt, il se fit un rassemblement considérable
@@ -323,26 +325,28 @@ Le compte-rendu de son jugement reprend
   
     Que le sujet de cet attroupement étoit de chasser, 
     le même jour, du marché du dit Lucé, tous les marchands
-    blattiers qui s'y présenteroient et de les empêcher d'y faire 
+    blatiers qui s'y présenteroient et de les empêcher d'y faire 
     des enlèvements de grains et même de taxer les subsistances ;
 
 
 Que la plupart de ces ouvriers attroupés furent intimidés et contraints
   par les menaces du dit Pierre CHAZIER à le suivre: 
   
-  "à ceux qui témoignaient de la répugnance, CHAZIER, 
+  *"à ceux qui témoignaient de la répugnance, CHAZIER, 
   qui avait son fer paroir sur l'épaule, en colère, criait 
   qu'il se foutait d'abattre un bras à ceux qui refusaient 
   d'aller avec lui à Lucé, qu'il ficherait le camp dans la 
-  nuit après avoir commis ce mauvais traitement"et que 
+  nuit après avoir commis ce mauvais traitement"* et que 
   plusieurs autres furent entraînés et séduits par les
   assurances que les affidés du dit Pierre CHAZIER leur 
-  donnèrent qu'ils ne s'exposoient point et qu'on ne vouloit
-  faire aucune  violence, ni aucun mal aux habitans de la ville ;
+  ordonnèrent *qu'ils ne s'exposoient point et qu'on ne vouloit
+  faire aucune  violence, ni aucun mal aux habitans de la ville* ;
   
 Que la première bande précéda l'autre et qu’elle fut arrêtée et
   désarmée à l’entrée de la ville de Lucé par la Garde Nationale 
-  (à cheval et à pied) ; mais que ceux qui étoient armés de fusils 
+  (à cheval et à pied) ;
+  
+mais que ceux qui étoient armés de fusils 
   eurent la subtilité de s'évader après avoir rendu leurs armes
   (en allant chez le juge de paix) et qu'il n’y eut que BOUSSION 
   et Adrien CHAZIER qui furent conduits au corps de garde et ont 
@@ -362,8 +366,8 @@ Que cet attroupement illicite et séditieux avoit été annoncé par deux lettre
   à la municipalité du dit Lucé, que cette municipalité a pris des mesures sages 
   et prudentes pour prévenir les funestes et désastreux effets du dit attroupement;
   
-Que le dit Pierre CHAZIER, dit SANS-FAÇON, est convenu d'avoir fait battre la douelle
-  pour faire faire le dit rassemblement à l'effet seulement de chasser les blattiers
+Que le dit Pierre CHAZIER, dit Sans-Façon, est convenu d'avoir fait battre la douelle
+  pour faire faire le dit rassemblement à l'effet seulement de chasser les blatiers
   du marché de Lucé, de les empêcher d'en enlever du blé et d'envoyer quatre députés 
   d'entre les ouvriers, qui auroient déposé leurs armes à l'entrée de la dite ville, 
   au sieur juge de paix de Lucé pour lui faire part de leur projet ; 
@@ -417,11 +421,11 @@ Ces derniers pensèrent plus à démontrer leur innocence devant une éventuelle
 Après avoir subi la pression de multiples questions et de leur ton menaçant,
   Pierre LEPROUST s'effondre et avoue
   
-  *« être l'auteur des deux lettres anonymes adressées au sieur Pierre RAYER, 
+  ***« être l'auteur des deux lettres anonymes adressées au sieur Pierre RAYER, 
   maire de Pruillé-l'Eguillé, je ne les avais faites qu'à la sollicitation des ouvriers de la forêt ;
   notamment du nommé ROUILLARD de la paroisse de Jupilles, RIVIERE de Pruillé,
   RIVIERE demeurant au lieu du Bouet à Marigné, JOUSSE de la Gaudinière à Marigné
-  et COTTEREAU de Pruillé, qui tous m’avaient intimidés par leur menaces »* . 
+  et COTTEREAU de Pruillé, qui tous m’avaient intimidés par leur menaces »*** . 
   
  Aussitôt, LEPROUST est mis en état d’arrestation. Deux semaines plus tard, on le relâchera.
 
@@ -441,7 +445,7 @@ Ce sont ces lettres qui ont alerté le service d’ordre de Lucé et
   
 Bien qu'elles aient du être menaçantes, elles permirent l’arrestation de 9 hommes.
   Le juge de Paix, Pierre ROTTIER les interrogea et voulut les transférer 
-  sous bonne garde au Château du Loir. 
+  sous bonne garde au Château-du-Loir. 
 
 Mais à Saint-Vincent, alors que l’escorte
   aurait du être relayée par 30 gardes nationaux locaux, on risqua l’émeute : 
@@ -527,9 +531,9 @@ Jean BEAUGE officier, LAROZE procureur de la commune, BRISSET secrétaire.»
 
 
 
-### Le 31 mai 1792, Pierre CHAZIER,
+### Le 31 mai 1792, Pierre CHAZIER,"dit Sans-Façon" 
   
-dit SANS-FACON est condamné à la peine des fers pendant 16 années, 
+est condamné à la peine des fers pendant 16 années, 
   après avoir été
   
   *« attaché à un poteau dressé sur un échafaud pour y demeurer 6 heures,
@@ -557,8 +561,8 @@ la randonnée des taxateurs, connaisse un succès qui s'étendra
 sur le territoire du département. 
 
 Un an plus tard, le 29 septembre 1793, la Convention Nationale décrétera 
-Le maximum général des denrées
-Le blocage des prix, soulageant le petit peuple. Les ouvriers de Bercé font 
+Le maximum général des denrées, le blocage des prix, soulageant le petit peuple. 
+Les ouvriers de Bercé font 
   figure de précurseurs. Pour l'instant matés et résignés,
   ils ont quand même pris conscience des influences qu'ils pouvaient susciter.
 
