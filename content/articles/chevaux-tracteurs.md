@@ -392,6 +392,8 @@ de Beaumont. « C’est lui qui en fêtant ses 60 ans à Pruillé,
 s’était renversé avec son tracteur ». 
   (Témoignage de Gustave Herpin de Saint-Vincent). 
 Bellanger, charretier, emmenait ses billes avec son diable et ses chevaux jusqu’au Mans. 
+René Robert de Pruillé l'Éguillé passa plus tard les rênes à son gendre Denis Legeay 
+qui officie encore aujourd'hui.
   
 ### Cette liste n’est pas exhaustive.
 
