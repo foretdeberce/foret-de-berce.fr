@@ -111,6 +111,10 @@ bêtes a creusé et raviné des chemins, laissant çà et là des traces indél�
 le *"Coin des fossés"* (ancien canton de 1783 situé Parcelles 241 et 242), 
 véritable passage obligé de toute une époque en fond de vallon.
 
+## La forêt au Moyen-Age
+
+[Voici l'exemple des forêts normandes au Moyen Age (Thèse de Danny Lake-Giguère)](/articles/pdf/administrer_les_forets_du_roi_au_moyen_age.pdf)
+
 ### Au 12e siècle :
 
 La forêt est ratachée aux possessions de la couronne d’Angleterre.
