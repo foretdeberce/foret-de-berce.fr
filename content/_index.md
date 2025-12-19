@@ -46,7 +46,8 @@ Mais ici se termine la comparaison avec notre capitale !
 Pensez à indexer ce site sur vos écrans de téléphone,
 en y plaçant un raccourci !
 
-Grande 
+### Plus de 1000 photos, des films, des PDF téléchargeables émaillent les divers textes.
+
 
 ### Pour ne pas se perdre dans le site :
 
