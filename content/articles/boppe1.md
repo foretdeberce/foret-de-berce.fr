@@ -36,6 +36,8 @@ pleine en France…
 
 …ceux de  la futaie des Clos. 
 
+[Historique des lieux : depuis 1894](/articles/pdf/cheneboppeancien.pdf) 
+
 {{<figure src="/images/articles/carteboppe.jpg" title="Les Clos sur Saint-Pierre du Lorouër">}}
 
 Il est bien loin le temps des cueilleurs-chasseurs.
