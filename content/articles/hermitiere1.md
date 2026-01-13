@@ -15,6 +15,8 @@ en 1834 la parcelle de 27 ans semble alors baignée de lumière,
 car le peuplement est du type gaulis : 6 m de haut.
 
 
+[Historique des lieux : depuis 1834](/articles/pdf/hermitiereleslieux.pdf) 
+
 ### En 1834,
  *une entrevue qui eut lieu, sous le motif d’une partie de chasse,
   entre le Préfet de la Sarthe et le Sous-préfet de St.Calais, à l’entrée 
