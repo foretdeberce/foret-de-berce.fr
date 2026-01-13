@@ -20,6 +20,8 @@ et Guillaume (photographe animalier).
   
 Films d'étudiants en filière bois à la Germinière de Rouillon. **(20'05)** 
 
+[Historique des lieux : depuis 1792](/articles/pdf/laforetlhommeetberce.pdf) 
+
 
 **Bercé, forêt des hommes**
 
