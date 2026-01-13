@@ -11,6 +11,8 @@ tags: ["Histoire", "Route","Rond"]
 
 [à propos du tourisme](/articles/pdf/aproposdutourisme.pdf)
 
+[Historique des lieux : depuis 1840](/articles/pdf/sainthubert.pdf)
+
 
 Situé en bordure de voie romaine sur la départementale le Mans/Tours :
 
