@@ -28,6 +28,8 @@ qu’il y a placé trois poteaux pour attacher les chevaux des promeneurs.
 en 1907 n’est pas du tout l’actuelle route, mais bien un sentier en terrain 
     naturel régulièrement ragréé de pierres.
 
+[Historique des lieux : depuis 1920](/articles/pdf/lafontainedelacoudre.pdf)     
+
 ### 1921 
     
 Les travaux projetés à cet endroit commencent le 18 juillet.
