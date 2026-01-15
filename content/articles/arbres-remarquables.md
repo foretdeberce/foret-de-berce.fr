@@ -134,6 +134,8 @@ Le chêne le plus haut du monde (jusqu’au démenti) est situé dans la vallée
 {{<figure src="/images/articles/ch50m.jpg" title="Abel au pied du chêne le plus haut du monde !">}}
 
 ### Autre particularité de Bercé : 
+
+
 # Les 3 chênes à gui. 
 
 *« Tout gui venant du Rouvre est regardé comme un envoyé du ciel. »* écrivait
@@ -156,7 +158,7 @@ Ceux-ci ont été miraculeusement épargnés par la désormais célèbre tempêt
  Il sera rendu compte de l'état actuel de ce chêne et de la touffe de gui existant encore, 
  je crois, sur son tronc et signalée comme curiosité botanique... »* signé Potel.
  
-## Celui de la parcelle 260 et le dernier recensè : parcelle 137
+## Celui de la parcelle 260 et le dernier recensé dans la parcelle 137
 
  {{<figure src="/images/articles/20140722chenep260.jpg" title="chêne de la parcelle 260 en juillet 2014">}}
  
