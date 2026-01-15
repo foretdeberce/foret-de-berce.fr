@@ -143,7 +143,7 @@ Pline l’Ancien Missive de l’Inspecteur Potel du 1er décembre 1928.
 Sur le peu de chênes à gui recensés en France,
 Bercé en possède encore trois (un quatrième fut recensé et non retrouvé parcelle 207),
 
-## PARCELLE 228
+## Celui de la parcelle 228
 
 {{<figure src="/images/articles/p228-1999.jpg" title="Le chêne à gui en 1999">}}
 
