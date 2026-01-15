@@ -142,7 +142,8 @@ Pline l’Ancien Missive de l’Inspecteur Potel du 1er décembre 1928.
 
 Sur le peu de chênes à gui recensés en France,
 Bercé en possède encore trois (un quatrième fut recensé et non retrouvé parcelle 207),
-un autre parcelle 260
+
+## PARCELLE 228
 
 {{<figure src="/images/articles/p228-1999.jpg" title="Le chêne à gui en 1999">}}
 
@@ -154,6 +155,12 @@ Ceux-ci ont été miraculeusement épargnés par la désormais célèbre tempêt
  en dehors de celui qui a été signalé dans la parcelle 228, canton des Clos. 
  Il sera rendu compte de l'état actuel de ce chêne et de la touffe de gui existant encore, 
  je crois, sur son tronc et signalée comme curiosité botanique... »* signé Potel.
+ 
+## Celui de la parcelle 260 et le dernier recensè : parcelle 137
+
+ {{<figure src="/images/articles/20140722chenep260.jpg" title="chêne de la parcelle 260 en juillet 2014">}}
+ 
+ {{<figure src="/images/articles/20260114parcelle260.jpg" title="chêne de la parcelle 260 en janvier 2026">}}
  
 ### Le Chêne Sermaize
  
