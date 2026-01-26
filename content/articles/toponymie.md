@@ -12,6 +12,11 @@ Le nom d'un lieu est bien souvent le fait de l'observation, du nom des
 personnes y ayant vécu ou d'une particularité physique ou géologique.
 Les tableaux qui suivent donnent des indications sur les lieux forestiers
 suivant la nomenclature indiquée dans la légende.
+
+""Les arbres et les forêts, des noms à consonnance Gauloise""... **(16'50)**
+
+{{<youtube id="bvFLOCAsV8k">}}
+
 D’autre part, Joël PICARD nous éclaire sur la signification de quelques toponymes 
 dans son mémoire : «C’TE FORÊT»
 
