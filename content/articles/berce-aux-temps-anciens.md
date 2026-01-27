@@ -48,6 +48,9 @@ où seul le nord de la Sarthe apparaissait dans le paysage Minier.
 
 Les cultivateurs mirent en place les premiers parcellaires ou enclos.
 
+L'homme en défrichant petit à petit son environnement, passe progressivement
+de la forêt sauvage "Sylva"...au pays "sage".
+
 *Notre région éminemment forestière offre en pleine "Paix Romaine" une insécurité totale, 
 car cultivée suivant le mode Celtique, par clairières isolées.* Marc Bloch
 
