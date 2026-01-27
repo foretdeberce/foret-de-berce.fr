@@ -15,7 +15,7 @@ suivant la nomenclature indiquée dans la légende.
 
 ""Les arbres et les forêts, des noms à consonnance Gauloise""... **(16'50)**
 
-{{<youtube id="bvFLOCAsV8k">}}
+{{<youtube id="bvFL0CAsV8k">}}
 
 D’autre part, Joël PICARD nous éclaire sur la signification de quelques toponymes 
 dans son mémoire : «C’TE FORÊT»
