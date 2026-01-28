@@ -44,10 +44,14 @@ où seul le nord de la Sarthe apparaissait dans le paysage Minier.
  {{<figure src="/images/articles/agriculture.jpg" title="La forêt est remodelée par les pratiques agricoles">}}
 
    
-### l'agriculture bouleverse le paysage
+### L'agriculture bouleverse le paysage
 
 Les cultivateurs mirent en place les premiers parcellaires ou enclos.
 
+## AU TEMPS DES ROMAINS
+
+l’expansion impériale a donné lieu à une véritable déforestation organisée, 
+qui a complètement remodelé le paysage sylvestre.
 L'homme en défrichant petit à petit son environnement, passe progressivement
 de la forêt sauvage "Sylva"...au pays "sage".
 
