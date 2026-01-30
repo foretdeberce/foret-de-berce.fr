@@ -31,6 +31,12 @@ touristiques de Bercé.
   
    [Carte O.N.F. en ligne](/articles/pdf/carte-touristique-berce-2020.pdf)
 
+### Pour tout savoir sur l'ouverture et la clôture 
+de la saison de chasse en cours et sur la situation des lots..
+
+[Voici le calendrier de chasse pour la saison 2025 - 2026 sur Bercé](/articles/pdf/saison25-26berce.pdf)
+  
+
 ## Autres articles concernant les voies forestières: ## 
 
 
