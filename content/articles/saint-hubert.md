@@ -223,6 +223,11 @@ La gérance passe la main, et désormais, avant de partir chasser à courre,
   chez Richard Hardouin, dont le lien avec la forêt est encore très fort, 
   et qui s’articule autour du  père : Jean Louis Hardouin, 
   président du GIC de Bercé (Groupement d'intérêt cynégétique).
+
+### Pour tout savoir sur l'ouverture et la clôture 
+de la saison de chasse en cours et sur la situation des lots..
+
+[Voici le calendrier de chasse pour la saison 2025 - 2026 sur Bercé](/articles/pdf/saison25-26berce.pdf)
   
 ## Pages en rapport avec le tourisme sur Bercé ##
 
