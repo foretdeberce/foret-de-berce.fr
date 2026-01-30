@@ -142,6 +142,9 @@ En octobre 2024, malgré une saison optimale pour les arbres sur Bercé, le chê
 donne des signes évidents de dépérissement.
 Il a perdu très récemment une de ses branches maitresse, handicapant sa croissance.
 
+ - 2026 : 3.30 m et 46 m
+
+
 {{<figure src="/images/articles/potel20140317.jpg"  title="Le chêne Potel">}}
 
 
@@ -158,6 +161,14 @@ De même après une autre de ses publications en 1924 dans la **Revue des Eaux e
 
 
 {{<figure src="/images/articles/crochetageboppe.jpg"  title="Chêne Boppe - photo: Potel">}}
+
+## Mort du chêne Potel (1'20")
+
+A 10h40 ce vendredi 30 janvier 2026, sous l’action des bûcherons expérimentés, un chêne tricentenaire
+de la Futaie des Clos en forêt de Bercé (Sarthe) rendait son dernier souffle !
+Éhouppeur, bûcherons et débardeur vinrent à son chevet pour l'assister. 
+
+{{<youtube id="IoUBCoJE_bY?">}}
 
 ## Autres articles concernant les officiers forestiers : ## 
 
