@@ -926,7 +926,12 @@ Ce n’est donc pas catastrophique pour l’avenir,
   car nos chères petites têtes blondes sont désormais
   bien sensibilisées à la protection de la nature…
   et plus proches de leur tablette.
-  
+
+### Ouverture et clôture de la saison de chasse en cours-
+### Situation des lots.
+
+[Voici le calendrier de chasse pour la saison 2025 - 2026 sur Bercé](/articles/pdf/saison25-26berce.pdf)
+
 ## Pages en rapport avec ce sujet ##
 
 [La police forestière]({{<ref "articles/forestiers.md">}})
