@@ -162,13 +162,18 @@ De même après une autre de ses publications en 1924 dans la **Revue des Eaux e
 
 {{<figure src="/images/articles/crochetageboppe.jpg"  title="Chêne Boppe - photo: Potel">}}
 
-## Mort du chêne Potel (1'20")
+## Mort du chêne Potel par Ici Maine (1'20")
 
 A 10h40 ce vendredi 30 janvier 2026, sous l’action des bûcherons expérimentés, un chêne tricentenaire
 de la Futaie des Clos en forêt de Bercé (Sarthe) rendait son dernier souffle !
 Éhouppeur, bûcherons et débardeur vinrent à son chevet pour l'assister. 
 
 {{<youtube id="IoUBCoJE_bY?">}}
+
+## Mort du chêne Potel par Le Petit Courrier – L’Écho de la Vallée du Loir. (0'48")
+
+{{<youtube id="_5FC-p_kx8U">}}
+
 
 ## Autres articles concernant les officiers forestiers : ## 
 
