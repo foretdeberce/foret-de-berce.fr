@@ -561,6 +561,11 @@ D’ici là, nous aurons eu le plaisir d’aller au brame
 
 ## Aujourd'hui la chasse à courre, à cor et à cri est ouverte du 15 septembre au 31 mars. 
 
+### Ouverture et clôture de la saison de chasse en cours-
+### Situation des lots.
+
+[Voici le calendrier de chasse pour la saison 2025 - 2026 sur Bercé](/articles/pdf/saison25-26berce.pdf)
+
 
  
 ### Livres à lire : 
