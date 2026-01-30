@@ -331,7 +331,7 @@ mais l’histoire est un éternel recommencement :
 Plusieurs personnes se plaignent des trop  grands prélèvements de cervidés.
 
 
-### Saison en cours
+### Ouverture et clôture de la saison en cours et situation des lots.
 
 [Voici le calendrier de chasse pour la saison 2025 - 2026 sur Bercé](/articles/pdf/saison25-26berce.pdf)
 
