@@ -715,7 +715,10 @@ La sylviculture moderne préfère de loin la stricte application du plan de
   les dégâts pour ensuite agir sur le plan de chasse.
  
 
-[Ouverture et clôture de la saison 2022-2023 : (1661-1683)](/articles/pdf/chasse2022-2023.pdf)
+### Ouverture et clôture de la saison de chasse en cours-
+### Situation des lots.
+
+[Voici le calendrier de chasse pour la saison 2025 - 2026 sur Bercé](/articles/pdf/saison25-26berce.pdf)
 
 
 ## Autres articles concernant la chasse ou la pêche: ## 
