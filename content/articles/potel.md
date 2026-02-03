@@ -172,6 +172,9 @@ de la Futaie des Clos en forêt de Bercé (Sarthe) rendait son dernier souffle�
 
 ## Mort du chêne Potel par Le Petit Courrier – L’Écho de la Vallée du Loir. (0'48")
 
+L’arbre âgé de près de 360 ans, culminait à 46 mètres avec un fut de 28 mètres de hauteur 
+pour un volume total d’environ 18 m3.
+
 {{<youtube id="_5FC-p_kx8U">}}
 
 
