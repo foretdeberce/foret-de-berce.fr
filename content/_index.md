@@ -9,11 +9,11 @@ au sud du Mans et au cœur de la Vallée du Loir,
 colonise la bordure du plateau Calaisien. 
 
 Les feuillus peuplent la partie "Est" (anciennement Royale)
-et les résineux, les anciennes landes au "Nord et à l'Ouest".
+et les résineux, les anciennes landes au "Nord et au Sud-Ouest".
 
 La qualité de ses bois, la richesse de son histoire 
 et l’attachement des Sarthois, en font l'un des 
-lieux secrets les plus prisés de cette Vallée du Loir.
+lieux secrets les plus prisés de la Vallée du Loir.
 
 La couleur et la qualité de ses chênes, sont recherchées par 
 tous les savoirs faire anciens. 
@@ -53,14 +53,14 @@ en y plaçant un raccourci !
 
 Il y a, situé en haut de page, sur la photo :
 
-L'onglet ***"A propos"***  qui vous présente l'auteur.
+L'onglet ***"A propos"***  qui vous présente les publications.
 
 L'onglet ***"Recherche"***, 
 ... qui permet un accès rapide à vos recherches avec le moteur Google.  
 
 Dans chaque bas de page, ***des liens*** vous proposent des sujets concomitants.
 
-Le ***Sommaire*** regroupe tous les articles qui vous sont proposés.
+Le ***Sommaire*** (ci-dessous) regroupe tous les articles qui vous sont proposés.
 
 ***Vous trouverez dans certains articles, des liens soulignés (bleu) : 
 ce sont des PDF que vous pouvez alors ouvrir et enregistrer.***
@@ -76,14 +76,12 @@ ainsi que vos témoignages sur les hommes, les fêtes, la faune,
 la flore...
 bref...tous les secrets cachés de la forêt de Bercé. 
 🌳 Dans le cadre de la Forêt d'Exception, l'idée est venue de mettre
-à l'honneur les fêtes, danses et repas ayant pris 
-place dans la forêt au XXe siècle.
+à l'honneur les fêtes, danses et repas en forêt au XXe siècle.
 
 Toutes les périodes et toutes les anecdotes peuvent être partagées.🌳
 
-📆 Les retours sont souhaités avant la fin 2025.
 
-Vous pouvez déposer vos témoignages : 
+Ou déposer vos témoignages....
 - en mairie
 - à l'accueil de Carnuta
 - via l'adresse mail : foretdeberce@gmail.com
