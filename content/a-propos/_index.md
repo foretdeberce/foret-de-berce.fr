@@ -9,10 +9,8 @@ featured_image: '/images/chene-muriel.jpg'
 
 ## Abondez la mémoire collective !
 
-🌳 Dans le cadre de la Forêt d'Exception, l'idée est venue de mettre à l'honnexcvur les fêtes, danses et repas ayant pris place dans la forêt au XXe siècle.
+🌳 Dans le cadre de la Forêt d'Exception, l'idée est venue de mettre à l'honneur les fêtes, danses et repas ayant pris place dans la forêt au XXe siècle.
 Toutes les périodes et toutes les anecdotes peuvent être partagées.🌳
-
-📆 Les retours sont souhaités avant la fin juillet 2025.
 
 Vous pouvez déposer vos témoignages : 
 - en mairie
