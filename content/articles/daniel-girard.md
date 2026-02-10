@@ -315,6 +315,17 @@ Une vidéo de Daniel Girard, dans laquelle il
  {{<figure src="/images/articles/daniel.jpg" title="Ce n'est qu'un au revoir, Daniel">}}
  
 
+## D'autres photographes Sarthois subliment la forêt de Bercé...
+
+Et parmi eux Rémy Lépinay.
+Rencontre, au cœur de la forêt de Bercé, avec le photographe naturaliste Rémi Lepinay
+Reportage Benjamin Bonte, Charles Proult, Estelle Roux  **(2'13")**
+
+
+{{<youtube id="9yz8-Ge7TEw">}}
+
+
+
 ## Autres liens concernant les curiosités de Bercé ##
 
 [Légendes]({{<ref "articles/legendes.md">}})
