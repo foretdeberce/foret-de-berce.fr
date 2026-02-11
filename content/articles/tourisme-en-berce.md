@@ -227,14 +227,18 @@ délimitation du chemin des Salles Maison Neuve : Terrain labouré en 1937.
 
 1984, sera l'occasion pour moi, de fabriquer le premier panneau à destination du public sur Bercé.
 Il sera édifié au rond Wautot, entouré de toute la symbolique de ce grand arpenteur des Eaux et Forêts.
-
+Il mettait en garde le public sur la mise en place d'une "Zone de Silence".
 Voici le petit bout de film **(1'45)** réalisé à l'époque par Jean Manac'h.
 
    {{<youtube id="gJRhISFPaPw">}}  
   
  ## La randonnée
-  
-  Un sport qui est tout à la fois un loisir et une thérapie.
+ En 1988, je réalise deux panneaux spécifiques pour la randonnée, l'un est posé à l'Hermitière
+ et l'autre sur la place du monument aux morts à Saint-Vincent. 
+ 
+{{<figure src="/images/articles/cartes1988.jpg" title="Panneaux de l'Hermitière et de Saint-Vincent">}} 
+
+  La randonnée à pied, à cheval ou en vélo est tout à la fois un loisir et une thérapie.
   
 **(26'27")**
 
@@ -245,6 +249,14 @@ Petit conseil pour une randonnée réussie en forêt.
 **(0'32")**
 
   {{<youtube id="9mh1SrvTZzE">}}   
+  
+## Par la suite 
+
+Sur commande de l'ONF, l'entreprise Confetti (de Jupilles) fabriquera des 
+panneaux informatifs et didactiques qui émailleront les divers ronds-points de Bercé. 
+Jean-Louis Désiré (décédé le 1 février 2026) et son épouse Patricia sont à l'origine de ce projet. 
+
+  {{<figure src="/images/articles/panneauclos1.jpg" title="Panneaux type Confetti de Jupilles">}}
 
 ## Pages en rapport avec le tourisme sur Bercé ##
 
