@@ -22,6 +22,8 @@ Et chaque silence sait ce qu’est l’amitié.
 Si je devais donner un nom à cette paix,
 Je dirais simplement et sans hésiter :
 
-« Bienvenue mon ami en forêt de Bercé »
+*Havre exceptionnel !*
+
+« Bienvenue mon ami, en forêt de Bercé »
 
 **Texte original inspiré par les effluves de la forêt de Bercé**
