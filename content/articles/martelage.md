@@ -376,6 +376,41 @@ De nos jours ces charges n’existent plus.
   très voisines, mais cependant, pour Viney, 
   des nuances plus conservatrices que pour moi.*
 
+**Le martelage est une épreuve parfois douloureuse pour les corps :** 
+
+       La tendinite et l'épicondylite sont en embuscade. 
+       Bien présentes dans le "passif des forestiers" ces 
+       deux maladies invalidantes sont dues aux chocs répétés 
+       des marteaux sur les arbres et à l'attitude hors norme 
+       et répétée des bras tendus avec des outils de poids. 
+       
+       Pour la tendinite, le forestier s'est protégé :
+       
+       1- En adoptant un marteau équilibré et ergonomique.
+       
+       2- En ne reconnaissant de son marteau que les souches
+       des abandons qui ne posséderait pas d'empreintes 
+       réglementaires et en effectuant, lors du martelage
+       qu'une seule marque au pied ....les autres étant
+       réalisées à la peinture.
+       
+       Pour l'épicondylite :
+       
+       1- En adoptant un compas forestier ergonomique et 
+       léger et en greffant sur son bras le terminal
+       informatique au lieu qu'il soit fixer sur le compas.
+       
+       2- en allégeant le marteau et le compas afin de 
+       mieux porter à 1m30 ces outils bras écartés.
+       
+       Tous ces maux anciens, les vieux forestiers s'en 
+       debarrassaient pour un court moment en fin de 
+       saison de martelage, lors du repas pris en
+       commun pour "tuer le chien" ....
+       c'est à dire oublier la vie de chien qu'ils
+       avaient subi tout l'hiver....
+       
+
 {{<youtube id="tFKv-eMuWTI">}}
   
 Reportage à Bercé de Roger Gicquel **(4'04)**
