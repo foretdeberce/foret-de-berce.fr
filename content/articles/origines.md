@@ -28,7 +28,15 @@ ont pu nous léguer un si beau massif.
 
 ## Résumé de l'historique :
 
+  ### - 10.000 à - 6000 ans  ###
 
+    les hommes du mésolithique (chasseurs cueilleurs)
+    sont présents sur notre territoir, 
+    mais les premiers déffrichements seront 
+    le fait des hommes du néolithique, 
+    arrivés de Mésopotamie : (nos premiers agriculteurs)
+ 
+  
   ### - 6000 à - 400 ans  ###
   
     Lente évolution de Bercé -
