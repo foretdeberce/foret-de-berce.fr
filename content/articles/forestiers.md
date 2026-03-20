@@ -439,9 +439,11 @@ Voilà l'honnête homme qu'était Foubert".»*	**(7)**
 Suite à plusieurs incidents voir accidents ayant entrainés la mort, les forestiers
 sont dotés d'un armement pour assurer leur sécurité.
 
-C’est le conservateur Louis Lavauden qui fait la 1ère communication sur les armes des gardes et des officiers  forestiers dans « recherches rétrospectives sur les insignes et les marques distinctives…en 1927 ». 
+C’est le conservateur Louis Lavauden qui fait la 1ère communication sur les armes des gardes et des officiers 
+forestiers dans « recherches rétrospectives sur les insignes et les marques distinctives…en 1927 ». 
 
-Une étude collective a été publiée lors du 2ème colloque par " Histrafor " (la section Histoire de l’APAS-ONF) dans les dossiers forestiers de l’ONF en 2013. 
+Une étude collective a été publiée lors du 2ème colloque par " Histrafor "
+(la section Histoire de l’APAS-ONF) dans les dossiers forestiers de l’ONF en 2013. 
 
 Voici rassemblés par Jean Claude CHAUSSE, Richard BACCHETTA et Patrick BERTHELOT trois documents :
 
