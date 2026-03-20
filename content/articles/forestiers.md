@@ -451,7 +451,7 @@ Voici rassemblés par Jean Claude CHAUSSE, Richard BACCHETTA et Patrick BERTHELO
  
 [L’armement des Eaux et Forêts – partie 2](/articles/pdf/armement2.pdf)
 
-[Plaques de baudriers de 1814 à 1827](/articles/pdf/pb2delarestauration1814a1827.pdf)
+[Plaques de baudriers de 1814 à 1827](/articles/pdf/03-1814a1827.pdf)
 
  
 **1820 :** 
@@ -462,7 +462,7 @@ du chemin de grande communication la Flèche – Saint – Calais.
 
 En 1831 : Louis Joseph Mariage est garde général à Jupilles. 
 
-[Plaques de baudriers de 1827 à 1848](/articles/pdf/pb2ducodeforestier1827alouisphilippe1848.pdf)
+[Plaques de baudriers de 1827 à 1848](/articles/pdf/04-1827a1848.pdf)
 
 **Dès 1833 :**
 
@@ -478,7 +478,7 @@ Il est chargé de la rédaction du procès verbal de délimitation
 de la forêt, l’arpenteur Isidore Wautot s’activant à en décrire
 le périmètre. Il devient inspecteur au Mans le 27 janvier 1863.
 
-[Plaques de baudriers de 1848 à 1945](/articles/pdf/pb3dela2derepublique1848a1945.pdf)
+[Plaques de baudriers de 1848 à 1945](/articles/pdf/05-1848a1945.pdf)
 
 [Le métier de forestier traditionnel est détourné](/articles/pdf/lemetierdeforestier.pdf) 
 de 1850 à 1910. L’énorme chantier des routes à Bercé, prime sur la sylviculture.
@@ -513,7 +513,7 @@ et Bercé (Sarthe), 15 mars 1884.
 En 1934, [l’administration forestière](/articles/pdf/administrationforestiere1934.pdf) 
 se modernise petit à petit.
 
-[Plaques de baudriers de 1945 à nos jours](/articles/pdf/pb3dela2deguerre1945anosjours.pdf)
+[Plaques de baudriers de 1945 à nos jours](/articles/pdf/06-1945a2026.pdf)
 
 [Tableau des officiers en poste](/articles/pdf/officiers19et20e.pdf)
 
