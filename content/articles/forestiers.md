@@ -69,7 +69,7 @@ elle assurait légitimité et pouvoir à son possesseur.
 
  [Des plaques de baudriers par R. GAGNEUX](/articles/pdf/desplaquesdegardespargagneux.pdf) 
 
- [Plaques de baudriers du 16ème au 18ème](/articles/pdf/pb1du16eau18esiecle.pdf) 
+ [Plaques de baudriers du 16ème au 18ème](/articles/pdf/01-1600a1800.pdf) 
  
 **25 mai 1667 :**
 
@@ -339,7 +339,7 @@ Jacques Barrier et François Jousselet, en 1789 sont gardes à Jupilles
 
 **1791 - 1799 :**
 
-[Plaques de baudriers de 1799 à 1814](/articles/pdf/pb2duconsulat1799alarestauration1814.pdf) 
+[Plaques de baudriers de 1799 à 1814](/articles/pdf/02-1799a1814.pdf) 
 
 Le 13 mars, la municipalité de Marigné établit un certificat 
 de bonne conduite à Jacques Courcitté afin que celui-ci puisse
