@@ -7,14 +7,6 @@ featured_image: "/images/et.fontaine.jpg"
 tags: ["Histoire", "Remarquables","Eau","Lieux"]
 ---
 
-Proposée dès 1920 en série artistique, proposée à nouveau 
-dans le classement en 1929,
-La Coudre fait partie du triptyque conventionnel de Bercé 
-à savoir les 3 parcelles touristiques :
-La Coudre, l’Hermitière, le Chêne Boppe.
-
-{{<figure src="/images/articles/fontainecoudre.jpg" title="Le lavoir de la Coudre">}}
-
 ### 1905
     
 L’essor du tourisme sur Bercé fin du 19ème siècle et début du 20ème,
@@ -22,13 +14,28 @@ nous fait commencer l’histoire de la Coudre en 1905, bien que figurant
 sur la carte de Bercé déjà en 1673.
 
 La fontaine est régulièrement nettoyée depuis 1905, Barbé mentionne
-    le 8 février de cette même année
-qu’il y a placé trois poteaux pour attacher les chevaux des promeneurs.
-    Le chemin qui menait à la Coudre
-en 1907 n’est pas du tout l’actuelle route, mais bien un sentier en terrain 
-    naturel régulièrement ragréé de pierres.
+le 8 février de cette même année qu’il y a placé trois poteaux 
+pour attacher les chevaux des promeneurs.
+
+### 1907  
+
+Le chemin qui menait à la Coudre
+n’est pas du tout l’actuelle route, 
+mais bien un sentier en terrain 
+naturel régulièrement ragréé de pierres.
 
 [Historique des lieux : depuis 1920](/articles/pdf/lafontainedelacoudre.pdf)     
+
+
+### 1920
+
+Proposée dès 1920 en série artistique, proposée à nouveau 
+dans le classement en 1929,
+La Coudre fait partie du triptyque conventionnel de Bercé 
+à savoir les 3 parcelles touristiques :
+La Coudre, l’Hermitière, le Chêne Boppe.
+
+{{<figure src="/images/articles/fontainecoudre.jpg" title="Le lavoir de la Coudre">}}
 
 ### 1921 
     
@@ -78,7 +85,9 @@ cela n’autorise pas grands travaux.
     trop de pierres, et les terres déposées et nivelées 
     le mieux possible ».
 
-**1er mai 1923** : Quatre ouvriers au curage du lac de la Coudre, 
+**1er mai 1923** : 
+
+Quatre ouvriers au curage du lac de la Coudre, 
 ainsi qu’à la réfection d’un barrage rustique et confection 
 par deux ouvriers de tables et bancs rustiques.
 Cette même année *« mise en peinture du poteau indicateur de la
@@ -93,36 +102,51 @@ Pour ce faire, abattage dans la parcelle 144 de 2 chênes de
 Dinan au passage du chemin périmètral (au niveau de la route
 actuelle), allant du village des Forges à ce site.
 
-**1925**, le barrage rustique fuit, il faut le réparer.
+**1925**
+
+Le barrage rustique fuit, il faut le réparer.
     
-**1927**, M. Grégoire, charron à Beaumont-pied-de-Bœuf
+**1927**
+
+M. Grégoire, charron à Beaumont-pied-de-Bœuf
 façonne les piquets de support de la couverture de lafontaine. 
 La mise en place nécessite la présence de deux ouvriers charrons,
 quatre auxiliaires, Peltier et le brigadier.
     
-**1928**, les grands moyens : Creusage du bassin par un entrepreneur 
-et sa pelleteuse, aidé de neuf ouvriers (août). 
+**1928**
+
+Les grands moyens : Creusage du bassin par un entrepreneur 
+et sa pelleteuse, aidé de neuf ouvriers (en août). 
 Des ponts rustiques sont construits par les auxiliaires aux alentours 
 du nouveau bassin, l’ancien bassin est quant à lui curé.
     
 {{<figure src="/images/articles/famille-pioger-fouqueray-1931.jpg" title="La famille Pioger-Fouqueray en 1931">}}
     
-**1929 à 1932**, l’aveuglement des fuites d’eau est un problème constant
+**1929 à 1932**
+
+L’aveuglement des fuites d’eau est un problème constant
 sur cet ouvrage neuf, de même que la réfection du barrage...
 Mystère de cette verte fontaine !
     
 {{<figure src="/images/articles/famille-pioger-fouqueray.jpg" title="La famille Pioger-Fouqueray en 1931">}}
     
-**2 juin 1930**, on procède au baptême du chêne Emery, 
+**2 juin 1930**
+
+On procède au baptême du chêne Emery, 
 en présence du conservateur Emery. Arrachage de houx,
 dans le chemin d’accès de la Coudre
     
-**16 mai 1933**, deux ouvriers confectionnent une clôture 
+**16 mai 1933**
+
+Deux ouvriers confectionnent une clôture 
 dans la parcelle 145 autour d’un trou dangereux
 pour les promeneurs. *Il s'agit d'un ancien puits 
-d’extraction de minerai de fer*.On y retrouvera un sanglier.
+d’extraction de minerai de fer*.
+On y retrouvera un sanglier.
     
-**23 juin 1933**, PELTIER Fernand : *« Allé chez Maître PÉAN,
+**23 juin 1933**
+
+PELTIER Fernand : *« Allé chez Maître PÉAN,
 notaire à Jupilles et au cadastre à la mairie de Jupilles 
 afin d’obtenir des renseignements au sujet d’une vente de 
 bien dont deux parcelles bordent la forêt dans notre triage. »*
@@ -138,14 +162,16 @@ avec Maître Péan de Jupilles, l’État s’est rendu propriétaire
 de la Maison Neuve, du pré de la Coudre, et de la Fontaine aux Malades
 *(qui guérirait les affections des yeux)*.
 
-**Le 7 juillet 1933**- le brigadier ALBRECHT écrit : 
+**Le 7 juillet 1933**
+
+Le brigadier ALBRECHT écrit : 
     
 *J’ai l’honneur de faire connaître à Mr. l’inspecteur
 que Mr. Péan, notaire à Jupilles, demande 10.000 Frs. 
 (frais en plus de 20 %) pour les deux pièces de pré
 et taillis situés en dessous de la Fontaine de la Coudre 
-et en bordure des parcelles 140 – 141 – 142
-*(Fontaine aux Malades) *soit 2 ha  39 a 30 ca.*
+et en bordure des parcelles 140 – 141 – 142*
+*(Fontaine aux Malades) soit 2 ha  39 a 30 ca.*
 
 *D’un autre côté, il vendrait le tout soit 10 ha 77 a 40 ca, 
 bâtiments compris : 20.000 Frs.
@@ -176,7 +202,9 @@ forêt domaniale.
 Celui-ci a écrit au Ministre de l’Agriculture qui lui
 a répondu qu’il prenait bonne note de sa demande, le 25 août 1933.*
 
-      Le 1er août 1933 l’inspecteur Ruban écrivait en effet:
+**Le 1er août 1933**
+
+l’inspecteur Ruban écrivait en effet:
 
     « Suite à une demande de Me. Péan Notaire à Jupilles concernant
     une tolérance de passage pour la sortie de cette ferme par la
@@ -199,7 +227,9 @@ De toute façon, il serait désirable que l’affaire fût traitée
 rapidement, tout retard risquant de diminuer les possibilités 
 d’obtenir le crédit nécessaire. »*
 
-**11 août 1933**- réponse d’Albrecht : *« Il n’y a jamais eu de
+**11 août 1933**
+
+Réponse d’Albrecht : *« Il n’y a jamais eu de
 tolérance à travers la parcelle 143, pour rejoindre la route 
 des Trembles. L’habitation se faisant par la ferme de la Ferrière.
 Dans tous les cas, j’ai interdit à Mr. Binet de passer par ces chemins
@@ -207,20 +237,26 @@ d’exploitation sous peine de procès verbal.
 Il semble bien que cette question de tolérance a été soulevée 
 avec intention de faire payer plus cher les terrains de l’administration. »*
 
-**25 septembre 1933**- il semble que la pétition et le recours exercé auprès 
+**25 septembre 1933**
+
+Il semble que la pétition et le recours exercé auprès 
 du Ministre ai porté, car ce jour un arrêté donnant concession de passage
 à M. Binet *(simple tolérance)* est pris, *(moyennant une redevance annuelle 
 de 20 frs./an, 1 m3 de pierres cassées de 0,06  et la remise en état des 
 lieux après usage)* pour le chemin menant à la route forestière des Trembles.
 
-**3 octobre 1933**- mais dans le même temps : Le ministre de l’agriculture a 
+**3 octobre 1933**
+
+Mais dans le même temps : Le ministre de l’agriculture a 
 reconnu l’utilité et la convenance de l’acquisition au compte de l’État, 
 de la ferme de la Maison Neuve moyennant le prix de 20.000 f. 
 frais non compris, pour 10 ha 77 a 40 ca appartenant à Mme. 
 Veuve Duchesne demeurant à Luceau - (Sarthe). 
 
-**Cette ferme est finalement achetée avec entrée en jouissance 
-au 1er novembre 1934.**
+**1er novembre 1934**
+
+Cette ferme est finalement achetée avec entrée en jouissance 
+au 1er novembre 1934.
 
 
    « Allé avec un cultivateur reconnaître le terrain à cultiver 
@@ -253,24 +289,18 @@ de 90 f à 100 f et 150 kg. de poires à 60/70 f les 1000 kg. »*
     Sur le reste des terres Mr Binet récoltait en moyenne : 
     2500 kg. de blé et 1500 kg. d’avoine par an.
 
-**+**  Verger : P.199 : 12 pommiers de rapport (3 dépérissants) 
+**Verger P.199 :** 
+12 pommiers de rapport (3 dépérissants) 
     et 3 poiriers.
-**+**  P.200 : 1 châtaignier – 1 poirier.
-**+**  P.201 : 1 cerisier – 4 pommiers – 4 poiriers
-**+**  P.202 partie : 1 pommier »
-
-**9 septembre 1935**- Travaux à réaliser à la Maison Neuve (devis).
-    Resserrement des tuiles de couverture sur la cuisine et la chambre, 
-    enlèvement de 1400 tuiles sur le grange et remise de ces tuiles 
-    en couverture sur la cuisine et la chambre.
-
-En 1935- réparation des bancs rustiques dont plusieurs barres étaient cassées
-    – Le dessus des tables, actuellement constitué par des barres sera 
-    remplacé par des plateaux (du commerce) – les crédits sont à prendre
-    sur la caisse des concessionnaires.
+**P.200 :**
+1 châtaignier – 1 poirier.
+**P.201 :**
+1 cerisier – 4 pommiers – 4 poiriers
+**P.202 partie :** 
+1 pommier »
 
 
-### Mars 1935 :Plantation des prés
+### Mars 1935 : Plantation des prés
 
 Envisagée le 9 avril 1935 elle est réalisée avec la préparation des potets en mars 1935.
 Pré de la Coudre (bas) 165 peupliers.
@@ -306,23 +336,48 @@ Outre le traditionnel nettoyage des étangs de la Coudre au printemps,
         (0,70 m à 0,90 m) : 28 f  (épicéas du Colorado).
       + Total 161,80 f – 25% accordés à l’administration. 
 
-**6 novembre 1936**- (Pie André) *«Plantation d’arbustes dans le pré 
+**9 septembre 1935**
+
+**Travaux à réaliser à la Maison Neuve (devis).**
+
+- Resserrement des tuiles de couverture sur la cuisine et la chambre,
+  enlèvement de 1400 tuiles sur le grange et remise de ces tuiles
+  en couverture sur la cuisine et la chambre.
+
+- Réparation des bancs rustiques dont plusieurs barres étaient cassées
+
+– Le dessus des tables, actuellement constitué par des barres sera 
+    remplacé par des plateaux (du commerce) 
+    
+– les crédits sont à prendre
+    sur la caisse des concessionnaires.
+      
+
+**6 novembre 1936**
+
+(Pie André) *«Plantation d’arbustes dans le pré 
 de la Coudre et extraction de plants de chêne (par deux ouvriers) 
 pour plantation à la Maison Neuve- huit ouvriers jusqu’au 2 octobre 1936
 et 1 laboureur jusqu’au 2 novembre 1937.»*
 
-**1937**- construction d’une passerelle sur la ligne de série à la 
+**1937**
+
+construction d’une passerelle sur la ligne de série à la 
 fontaine de la Coudre en fond de vallée.
 Avec quatre ouvriers sur le terrain de la Maison Neuve.
 Réfection des digues des étangs. 
 
-**Octobre 1940**- démolition d’un mur de la Maison Neuve. 
+**Octobre 1940**
+
+Démolition d’un mur de la Maison Neuve. 
 Les pierres étant disposées en remblai sur la nouvelle
 route de la Coudre par les «chômeurs». 
 Cette maison tombera en ruine après guerre faute de
 crédits pour pouvoir la conserver. 
 
-**En juillet 1943**- la Maison neuve est réduite à un tas de pierres. 
+**En juillet 1943**
+
+La Maison neuve est réduite à un tas de pierres. 
 Seul le puits est en état. Construction de la loge de la Coudre 
 par les chômeurs dans la vallée.
 
@@ -342,17 +397,26 @@ des vannes au petit et grand étang.
 Septembre 1964- étude de l’aménagement du parking de 
 la fontaine de la Coudre.
 
-**1965**- réfection de l’abri haut de la Coudre.
+**1965**
 
-**1966**- empierrement du parking
+Réfection de l’abri haut de la Coudre.
 
-**1995**- une touriste inconditionnelle de la fontaine de la Coudre 
+**1966**
+
+Empierrement du parking
+
+**1995**
+
+Une touriste inconditionnelle de la fontaine de la Coudre 
 adresse un chèque de 1.000 f afin que l’ONF procède au nettoyage de celle-ci.
 
-**2010**- année internationale de la biodiversité : 
+**2010**
+
+Année internationale de la biodiversité : 
 curage complet des bassins, et remise en eau fin octobre.
 
 **2019**
+
 Survol de la fontaine de la Coudre en 2019.
 
 **(5'20")**
