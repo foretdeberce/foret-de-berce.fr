@@ -65,21 +65,27 @@ dans les années 1970 à diagnostiquer sa présence à Bercé.
 Cortège impressionnant dans cette grande futaie avec 
   l’un des plus petits oiseaux : Le troglodyte.
 
-## Le Pic Cendré
+## Le Pic Cendré (1)
 
-La dernière station du grand Ouest pour le pic cendré se trouve en forêt de Bercé
+La dernière station du Grand Ouest pour 
+le pic cendré se trouve en forêt de Bercé
 
 Gilles Paineau (Président du groupe Sarthois Ornithologique)
-nous en informe la présence,
-*En 2025, nous avons réalisé une prospection. Notre étude montre que seulement quatre à cinq couples se trouvent en forêt domaniale de Bercé.*
+nous informe de sa présence :
+*En 2025, nous avons réalisé une prospection. 
+Notre étude montre que seulement quatre à cinq couples se
+trouvent en forêt domaniale de Bercé.*
 
 *C’est une espèce sylvicole vivant dans les très vieilles futaies de chênes. 
-Il a disparu dans les années 80 des forêts de Vibraye et de Sillé-le-Guillaume puis en 2014 de Bretagne et Normandie. En 2025, nous avons réalisé une prospection.* 
-*Notre étude montre que seulement quatre à cinq couples se trouvent en forêt domaniale de Bercé.*
+Il a disparu dans les années 80 des forêts de Vibraye et 
+de Sillé-le-Guillaume puis en 2014 de Bretagne et Normandie. 
+En 2025, nous avons réalisé une prospection.* 
 
-**Source : https://pascal-corbin72.overblog.com**
+*Notre étude montre que seulement quatre à cinq couples se 
+trouvent en forêt domaniale de Bercé.*
 
-{{<figure src="/images/articles/piccendre.jpg" title="Le pic cendré Pic Cendré © dessin de François Desbordes / LPO">}}
+
+{{<figure src="/images/articles/piccendre1.jpg" title="Le Pic Cendré © dessin de François Desbordes / LPO">}}
   
   
 ## Autres liens concernant les curiosités de Bercé ##
@@ -102,6 +108,8 @@ Il a disparu dans les années 80 des forêts de Vibraye et de Sillé-le-Guillau
 
 
 ### Bibliographie : 
-  
+
+**(1) Source : https://pascal-corbin72.overblog.com**
+
 Bercé, une forêt d’exception (Y. Gouchet  - 2018)
   
