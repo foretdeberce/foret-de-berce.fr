@@ -85,7 +85,7 @@ En 2025, nous avons réalisé une prospection.*
 trouvent en forêt domaniale de Bercé.*
 
 
-{{<figure src="/images/articles/piccendre1.jpg" title="Le Pic Cendré © dessin de François Desbordes / LPO">}}
+{{<figure src="/images/articles/piccendre1.jpg" title="Dessin du Pic Cendré">}}
   
   
 ## Autres liens concernant les curiosités de Bercé ##
