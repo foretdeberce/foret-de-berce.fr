@@ -195,12 +195,12 @@ Le mot “ Conservation ” mot nouveau qui remplace l’ancienne maîtrise.
   
 {{<figure src="/images/articles/boutonsofficiers.jpg" title="L’évolution des boutons accompagne celle des plaques">}}
 
-
+R
 **XIX° siècle :**
 
 ### 1815-1827
 
-{{<figure src="/images/articles/administrateurforets.jpg" title="représentation de l'administrateur des forêts">}}
+{{<figure src="/images/articles/administrateurforets.jpg" title="Représentation d'un administrateur des forêts">}}
 
 Jean Claude Chausse, Jacques PETITFILS, Richard BACCHETTA, aidés des dessins d’Henri BOISSELIER (1881 – 1959) 
 et de Patrick BERTHELOT nous présentent dans les deux exposés joints en PDF,
