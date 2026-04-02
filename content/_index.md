@@ -44,7 +44,8 @@ Mais ici se termine la comparaison avec notre capitale !
 ### Pour ne rien perdre de vos ballades : 
 
 Pensez à indexer ce site sur vos écrans de téléphone,
-en y plaçant un raccourci !
+en y créant un raccourci !
+Découvrez ainsi les secrets cachés de votre randonnée. 
 
 ### Plus de 1000 photos,
 *(Les photos des têtes de chapitres"générées par "IA" ont toutes été corrigées par Y.G.)*
