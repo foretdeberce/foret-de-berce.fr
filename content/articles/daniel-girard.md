@@ -8,7 +8,7 @@ tags: ["Faune","Biodiversité","chasse"]
 ---
 
 
-## Portrait d’un talentueux et à la fois discret photographe animalier :
+## Portrait d’un talentueux et à la fois discret photographe animalier : Daniel Girard.
 
 {{<figure src="/images/articles/20160609.jpg" title="Daniel survolant la forêt en juin 2016">}}
 
