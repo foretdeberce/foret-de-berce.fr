@@ -587,6 +587,11 @@ et pourront en période hivernale, lorsqu'un gros coup de tempête aura couché 
 permettre de sécuriser ainsi certaines routes forestières,"*
 indique Hervé Daviau, responsable ONF de l’Unité Territoriale Sarthe–Mayenne.
 
+**En 2026**, les agents de l'ONF se préparent avant la saison des feux de forêts." 
+
+
+{{<youtube id="XMwAekV2dHM">}}  
+
 
 ## Autres liens concernant les redoutables épreuves de la nature ##
 
