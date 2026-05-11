@@ -417,7 +417,13 @@ Rejoindre la page facebook :
  
 (Prise de vue : Julien Helaine - Conséquences /novembre 2023)
 
+## Été 2025
 
+Le réseau national « Forêts d’exception » se penche sur la forêt de demain, au cœur de Bercé.
+Reportage   Marc Yvard, Benjamin Bonte, Joakim Arlaud.
+
+**(2'15)**
+{{<youtube id="YXx69KgTz1U">}} 
 
 ## Autres liens concernant les redoutables épreuves de la nature ##
 
