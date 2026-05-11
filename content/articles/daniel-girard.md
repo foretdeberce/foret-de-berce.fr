@@ -319,10 +319,16 @@ Une vidéo de Daniel Girard, dans laquelle il
 
 Et parmi eux Rémy Lépinay.
 Rencontre, au cœur de la forêt de Bercé, avec le photographe naturaliste Rémi Lepinay
-Reportage Benjamin Bonte, Charles Proult, Estelle Roux  **(2'13")**
+Reportage Benjamin Bonte, Charles Proult, Estelle Roux.  **(2'13")**
 
 
 {{<youtube id="9yz8-Ge7TEw">}}
+
+La faune et la flore face au changement climatique, 
+présentation Hervé Daviau et Rémi Lépinay.**(3'31")**
+
+{{<youtube id="IDQ0Br4wGXw ">}}  
+
 
 
 
