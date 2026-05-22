@@ -56,7 +56,8 @@ essentiels qui sont :
 
 ## « Bercé, au fil du temps », 
 est un film de Michel Esquirol avec des images de Michel Esquirol et de Gérard Sergent 
-tourné en 1998, il se veut un marqueur de cette époque. Mention spéciale ONF au 4ème festival
+tourné en 1998, il se veut un marqueur de cette époque. 
+Ce film a reçu une mention spéciale ONF au 4ème festival
 du film sur l'arbre et la forêt de Réaumont en Isère. 
 (https://www.24images.fr) **(56’56)**
 
