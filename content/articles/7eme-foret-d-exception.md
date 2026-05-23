@@ -54,11 +54,14 @@ essentiels qui sont :
 1. Protéger et de conserver ce milieu fragile.
 1. Accueillir les visiteurs.
 
-## « Bercé, au fil du temps », 
-est un film de Michel Esquirol avec des images de Michel Esquirol et de Gérard Sergent 
-tourné en 1998, il se veut un marqueur de cette époque. 
-Ce film a reçu une mention spéciale ONF au 4ème festival
+## « Bercé, au fil du temps ». 
+Film de Michel Esquirol de 1999.
+Les images sont de Michel Esquirol et de Gérard Sergent. 
+
+*"Bercé, au fil du temps"* a reçu une mention spéciale ONF au 4ème festival
 du film sur l'arbre et la forêt de Réaumont en Isère. 
+C'est un élément marqueur de cette époque! 
+
 (https://www.24images.fr) **(56’56)**
 
 
