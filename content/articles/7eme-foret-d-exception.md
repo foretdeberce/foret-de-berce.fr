@@ -55,11 +55,12 @@ essentiels qui sont :
 1. Accueillir les visiteurs.
 
 ## « Bercé, au fil du temps ». 
-Film de Michel Esquirol de 1999.
-Les images sont de Michel Esquirol et de Gérard Sergent. 
+Film de Michel Esquirol (1999).
+Les images de Michel Esquirol et de Gérard Sergent mettent en lumière
+le travail des forestiers, des naturalistes et passionnés de la forêt. 
 
 *"Bercé, au fil du temps"* a reçu une mention spéciale ONF au 4ème festival
-du film sur l'arbre et la forêt de Réaumont en Isère. 
+du film sur l'arbre et la forêt de Réaumont (Isère). 
 C'est un élément marqueur de cette époque! 
 
 (https://www.24images.fr) **(56’56)**
