@@ -62,11 +62,8 @@ le travail des forestiers, des naturalistes et passionnés de la forêt.
 *"Bercé, au fil du temps"* a reçu une mention spéciale ONF au 4ème festival
 du film sur l'arbre et la forêt de Réaumont (Isère). 
 C'est un élément marqueur de cette époque! 
-
-(https://www.24images.fr) **(56’56)**
-
-
-{{<youtube id="Po9tRr-cNDM">}}
+Pour se le procurer **visitez**
+https://www.24images.fr/fr/berce-au-fil-du-temps/
 
 
 ## Bienvenue  à Bercé,
