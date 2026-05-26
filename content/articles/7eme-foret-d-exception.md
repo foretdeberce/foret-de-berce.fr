@@ -64,7 +64,7 @@ du film sur l'arbre et la forêt de Réaumont (Isère).
 C'est un élément marqueur de cette époque! 
 Pour se le procurer **visitez**
 https://www.24images.fr/fr/berce-au-fil-du-temps/
-Vous le trouverez en**vente** à **Carnuta**
+Vous le trouverez en **vente** sur Jupilles à **Carnuta**
 
 
 ## Bienvenue  à Bercé,
