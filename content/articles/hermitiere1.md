@@ -69,6 +69,13 @@ Dès les premières cartes postales :
 {{<figure src="/images/articles/dejeunerhermitiere.jpg" title="La table creusée à même le sol -1911">}}
 
 
+### En 1914
+
+Le monde de la fête s'écroule soudain.
+Le conflit mondial prend le devant de la scène. Les hommes sont appelés sous les drapeaux.
+Les femmmes remplacent les hommes au travail, assurant la pérénité des familles.
+L'Hermitière tombe en sommeil.
+
 ### En 1920
   
 Le Tourisme reste très développé à l’Hermitière et les promeneurs arrivent de partout
@@ -120,7 +127,10 @@ Pancarte que l’on pouvait voir aux sources pour attirer l’attention
 Les plans d’eau servaient de lavoirs qui étaient régulièrement utilisés par les
  habitants de Jupilles et de Saint-Vincent (voir la page dédiée aux lavoirs)
 	Les enfants fréquentaient avec assiduité les sources.
-	
+
+### 16 mai 1923
+
+33 concurrents s'élancent pour la première fois sur le **Circuit de la Sarthe**.
 {{<figure src="/images/articles/oueste19260921.jpg" title="1926 - La garderie du Mans aux sources">}}
   	
   
@@ -135,7 +145,8 @@ nous relate le 1er octobre 1934, sa journée cycliste en forêt de Bercé.
 {{<figure src="/images/articles/19340916h.jpg" title="Les cyclistes à l'Hermitière">}}
 	
 ### 1936 : 
-  
+
+Institution des fameux **Congés Payés**.
 • On chante « A l’Hermitière », chanson écrite par Jean Jousse en 1936.
 à rechercher par vous-même ... les paroles de cette chanson.
 
@@ -173,7 +184,15 @@ Il est vrai qu’écologie et respect de l’environnement  n’ont pas encore d
   
 {{<figure src="/images/articles/tourismecar.jpg" title="Arrivée à l’ Hermitière">}}  
 
-Après guerre, la parcelle « 203 » est classée en série artistique (Touristique 3) 
+### 3 septembre 1939 
+
+La seconde guerre mondiale s'invite dans le paysage. 
+L'Hermitière retombe en disgrace le temps du conflit
+
+                           
+### Après guerre  
+
+la parcelle « 203 » est classée en série artistique (Touristique 3) 
   de même que le Chêne Boppe (T1), les Pressenteries (T2), Les cabanes du Mai (T4),
   la fontaine de la Coudre (T5).
   
