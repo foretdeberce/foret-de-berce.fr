@@ -216,7 +216,7 @@ Mrs les agents viennent du Mans en train ou tramway jusqu’à Jupilles (1920).
      le pâté, les bouteilles de vin, le café et les verres". 
      (Ruault de Champglin)
   
-{{<figure src="/images/articles/martelage5.jpg" title="Repas de martelage">}}
+{{<figure src="/images/articles/martelage5.jpg" title="Repas de martelage- d'après gravure d'Hercouet (1939)">}}
   
 Seule véritable pose d’une journée trop souvent venteuse ou pluvieuse, 
   il était "tiré du sac" et pris en commun au sec dans un abri forestier, 
@@ -224,7 +224,7 @@ Seule véritable pose d’une journée trop souvent venteuse ou pluvieuse,
   Deux groupes se formaient alors, d’un côté le brigadier et Mr l’inspecteur,
   ….de l’autre, les préposés. Deux feux étaient alors allumés.
   
-  Plus tard, au siècle dernier et jusque dans les années 1950, 
+  Plus tard, au siècle dernier et jusque dans les années 1950, ercouet
   les repas seront pris dans les maisons forestières, la salle à manger 
   étant seulement réservée au brigadier et à Mrs les officiers forestiers, 
   la cuisine au reste de la troupe, chacun se faisant un devoir d’apporter 
