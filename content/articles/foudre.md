@@ -228,11 +228,11 @@ le train achemine les éléments du foudre à Thuir
   
 {{<figure src="/images/articles/003thuir.jpg" title="La cuve en phase finale">}}
   
-{{<figure src="/images/articles/004thuir.jpg" title="Cuve terminée">}}
+{{<figure src="/images/articles/004thuir.jpg" title="Raymond Duchesne de la Vallée des Pierres, pose devant la cuve terminée">}}
   
 {{<figure src="/images/articles/005thuir.jpg" title="Détail de la cuve">}}
   
-### Conclusion
+### ConclusionPierres
   
 Un monument des plus singuliers et le plus grand dédié au « vin allemand »
   fut construit au printemps 1934 par le tonnelier vigneron Fritz Keller 
