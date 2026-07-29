@@ -162,6 +162,8 @@ où elle sera édifiée*.
   nom qui s'inscrit en grosses lettres sur le front de celles-ci.
   Ces plaques de baptême en fonte, vissées au dessus de la porte d’entrée, 
   agissent sûrement beaucoup dans le charme que ces maisons des bois exercent sur tous ...  
+
+[Article de la revue du GHFF-Forêt N 28-2028 (Stephanie Barioz Aquilon)  ](/articles/pdf/lesmaisonsforestieres.pdf)
 	
 Avantage pour la région, outre la pierre abondante, 
 [la brique](/articles/pdf/labriqueaberce.pdf) est omniprésente en bordure de forêt.
