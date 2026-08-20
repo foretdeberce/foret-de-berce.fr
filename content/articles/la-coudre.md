@@ -7,6 +7,11 @@ featured_image: "/images/et.fontaine.jpg"
 tags: ["Histoire", "Remarquables","Eau","Lieux"]
 ---
 
+### Au 19ème siècle
+
+La source de la fontaine de la coudre proprement dite est à l'époque propriété 
+de la ferme de "la Maison Neuve", mais accessible uniquement par le chemin domanial.
+
 ### 1905
     
 L’essor du tourisme sur Bercé fin du 19ème siècle et début du 20ème,
