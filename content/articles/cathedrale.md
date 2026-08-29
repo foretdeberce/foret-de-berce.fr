@@ -7,6 +7,30 @@ featured_image: "/images/et.notredamedeparis.jpg"
 tags: ["Arbres","Curiosités","hommes","travaux"]
 ---
 
+## "Forêt" VS "Futaie Cathédrale"
+
+**Sous les grands Chênes, on parle de "Futaie Cathédrale"**
+
+L'architecture même de la forêt, rappelle
+celle des cathédrales gothiques.
+Des piliers majestueux et droits. 
+Une voûte élancée. 
+Une lumière distillée par les feuilles à la façon d'un vitrail.
+Au sol, un espace propre à la méditation.
+
+
+**Sous la toiture de la Cathédrale, on parle de "Forêt".** 
+
+L'enchevêtrement complexe de milliers de poutres horizontales, 
+verticales et obliques de la charpente rappelle la densité 
+et la complexité des branches d'une véritable forêt.
+
+## Le lapsus 
+
+Est donc un magnifique chassé-croisé linguistique et métaphorique. 
+L'homme a emprunté à la nature pour bâtir ses monuments, 
+et utilise désormais ces mêmes monuments pour décrire la nature.
+
 ## A propos 
 
 [à propos de la sylviculture](/articles/pdf/aproposdelasylviculture.pdf)
