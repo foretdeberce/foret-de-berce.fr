@@ -71,10 +71,12 @@ de 2000 chênes.
 Contrairement à Saint-Ouen en Belin, pour Paris.... c'est cadeau !
 
 Bercé fut la première à se mettre en œuvre dans le dispositif de reconstruction.
-Elle offrira 8 de ses plus grands chênes.
+Elle offrira dans un premier temps 8 de ses plus grands chênes. 
+Ces longs bois de Bercé serviront pour établir le tabouret qui supportera la flèche.
+Par la suite 225 chênes seront aussi prélevés en Bercé, 
+qui rejoindront les autres provenant de diverses forêts françaises pour édifier
+la "forêt" de Notre Dame de Paris à partir du printemps 2023.
 
-Les bois de Bercé serviront avec d'autres provenant de diverses forêts françaises
-à bâtir au printemps 2023, le tabouret qui supportera la flèche.
 
      Les besoins sont énormes : 
      2000 chênes
