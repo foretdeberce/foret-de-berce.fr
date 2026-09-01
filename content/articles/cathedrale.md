@@ -71,10 +71,13 @@ de 2000 chênes.
 Contrairement à Saint-Ouen en Belin, pour Paris.... c'est cadeau !
 
 Bercé fut la première à se mettre en œuvre dans le dispositif de reconstruction.
-Elle offrira dans un premier temps 8 de ses plus grands chênes. 
+Elle offrira dans un premier temps et avant les autres forêts 8 de ses plus grands chênes. 
+
 Ces longs bois de Bercé serviront pour établir le tabouret qui supportera la flèche.
-Par la suite 225 chênes seront aussi prélevés en Bercé, 
-qui rejoindront les autres provenant de diverses forêts françaises pour édifier
+
+Par la suite 225 chênes seront aussi prélevés en Bercé,
+62 chênes seront utilisés pour la flèche et 163 pour la charpente médiévale.
+Tous ces bois rejoindront les autres provenant de diverses forêts françaises afin d'édifier
 la "forêt" de Notre Dame de Paris à partir du printemps 2023.
 
 
@@ -90,7 +93,7 @@ la "forêt" de Notre Dame de Paris à partir du printemps 2023.
      domaniales et communales.
      491 grumes seront utilisées 
      pour la reconstitution de la
-     flèche de Viollet le Duc et les
+     flèche d'Eugène Viollet-le-Duc et les
      charpentes des transepts.
      Les 1200 restantes serviront 
      à reconstruire les charpentes
