@@ -72,12 +72,15 @@ Contrairement à Saint-Ouen en Belin, pour Paris.... il est fait état
 d'un mécénat de la filière bois, au niveau National.
 
 Bercé fut la première à se mettre en œuvre dans le dispositif de reconstruction.
-Elle offrira dans un premier temps et avant les autres forêts 8 de ses plus grands chênes. 
+Elle offrira en avant première **8 de ses plus grands chênes**. 
 
 Ces longs bois de Bercé serviront pour établir le tabouret qui supportera la flèche.
 
-Par la suite 225 chênes seront aussi prélevés en Bercé,
-62 chênes seront utilisés pour la flèche et 163 pour la charpente médiévale.
+**Puis par la suite 225 chênes** seront aussi prélevés en Bercé,
+62 chênes, pris aussi dans les parcelles en régénération, pour profiter de belles dimensions, 
+seront utilisés pour la flèche et 163 exploités dans les parcelles en amélioration 
+seront destinés à charpente médiévale.
+
 Tous ces bois rejoindront les autres provenant de diverses forêts françaises afin d'édifier
 la "forêt" de Notre Dame de Paris à partir du printemps 2023.
 
