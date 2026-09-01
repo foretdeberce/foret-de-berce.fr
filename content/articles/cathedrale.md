@@ -68,7 +68,8 @@ Les forêts Publiques et privées se sont alors mobilisées pour fournir
 aux bâtisseurs la matière première de leurs chantiers soit plus 
 de 2000 chênes.
 
-Contrairement à Saint-Ouen en Belin, pour Paris.... c'est cadeau !
+Contrairement à Saint-Ouen en Belin, pour Paris.... il est fait état
+d'un mécénat de la filière bois, au niveau National.
 
 Bercé fut la première à se mettre en œuvre dans le dispositif de reconstruction.
 Elle offrira dans un premier temps et avant les autres forêts 8 de ses plus grands chênes. 
