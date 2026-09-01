@@ -72,6 +72,7 @@ Contrairement à Saint-Ouen en Belin, pour Paris.... il est fait état
 d'un mécénat de la filière bois, au niveau National.
 
 Bercé fut la première à se mettre en œuvre dans le dispositif de reconstruction.
+
 Elle offrira en avant première **8 de ses plus grands chênes**. 
 
 Ces longs bois de Bercé serviront pour établir le tabouret qui supportera la flèche.
