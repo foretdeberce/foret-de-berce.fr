@@ -3,7 +3,7 @@ title: "Recherche"
 date: 2023-05-01T13:15:51+01:00
 draft: false
 description: "Recherchez des informations sur la forêt de Bercé"
-featured_image: '/images/toile-d-araignee.jpg'
+featured_image: '/images/recherche.jpg'
 ---
 
 {{< raw-html >}}
