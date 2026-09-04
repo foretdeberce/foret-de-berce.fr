@@ -592,6 +592,13 @@ indique Hervé Daviau, responsable ONF de l’Unité Territoriale Sarthe–Mayen
 
 {{<youtube id="XMwAekV2dHM">}}  
 
+### 2026, été de tous les dangers
+
+70 000 hectares de forêt et de végétation sont partis en fumée entre le 1er juin et le 31 août, 
+Des températures hors normes et une sécheresse historique font 
+que l'équivalent de 13 forêts de Bercé sont parties en fumée.
+
+
 
 ## Autres liens concernant les redoutables épreuves de la nature ##
 
