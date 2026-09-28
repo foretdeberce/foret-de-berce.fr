@@ -378,6 +378,8 @@ De nos jours ces charges n’existent plus.
 
 **Le martelage est une épreuve parfois douloureuse pour les corps :** 
 
+{{<figure src="/images/articles/marteleuraujourdhui.jpg" title="le martelage, une épreuve physique!">}}  
+
        La tendinite et l'épicondylite sont en embuscade. 
        Bien présentes dans le "passif des forestiers" ces 
        deux maladies invalidantes sont dues aux chocs répétés 
