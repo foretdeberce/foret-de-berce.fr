@@ -123,16 +123,16 @@ foretdeberce@gmail.com
 **Carnuta**
 La Maison de l'Homme et de la Forêt 72500 Jupilles **(2'25")**.
 
-**La dernière réédition du livre date de décembre 2024**
-
-  {{<youtube id="46jt3N0wuMw">}} 
+ {{<youtube id="46jt3N0wuMw">}} 
 
   
 ### A PROPOS
 
-Aujourd'hui faisons revivre en Sarthe...le passé !
+**Aujourd'hui faisons revivre en Sarthe...le passé !** **(1'34)**
 
- {{<youtube id="XYsOcJmsxJc">}} 
+ {{<youtube id="rP0EJqv2YWE">}} 
+
+ **La dernière réédition du livre date de décembre 2024**
   
 [Librairies Indépendantes](https://www.librairiesindependantes.com/product/9782359920529/)
   
