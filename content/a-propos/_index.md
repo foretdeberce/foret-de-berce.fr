@@ -130,7 +130,7 @@ La Maison de l'Homme et de la Forêt 72500 Jupilles **(2'25")**.
 
 **Aujourd'hui faisons revivre en Sarthe...le passé !** **(1'34)**
 
- {{<youtube id="rP0EJqv2YWE">}} 
+ {{<youtube id="d7AUHWp1JEg">}} 
 
  **La dernière réédition du livre date de décembre 2024**
   
