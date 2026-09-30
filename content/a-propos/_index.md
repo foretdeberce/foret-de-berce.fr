@@ -108,7 +108,7 @@ foretdeberce@gmail.com
 ### Pour ne rien perdre de vos balades en forêt de Bercé. 
 
   
-### Merci aux diffuseurs actifs qui ont oeuvré à faire perdurer la mémoire !
+### Merci aux diffuseurs actifs qui ont œuvré à faire perdurer la mémoire !
 
 **Librairie Thuard au Mans** 
 
@@ -123,11 +123,16 @@ foretdeberce@gmail.com
 **Carnuta**
 La Maison de l'Homme et de la Forêt 72500 Jupilles **(2'25")**.
 
-**Réédition du livre prévue en décembre 2024**
+**La dernière réédition du livre date de décembre 2024**
 
   {{<youtube id="46jt3N0wuMw">}} 
 
- 
+  
+### A PROPOS
+
+Aujourd'hui faisons revivre en Sarthe...le passé !
+
+ {{<youtube id="XYsOcJmsxJc">}} 
   
 [Librairies Indépendantes](https://www.librairiesindependantes.com/product/9782359920529/)
   
