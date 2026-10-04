@@ -82,6 +82,7 @@ par le biais d'une exposition temporaire.
 Cette exposition est le fruit d’un travail entre
 le Pays du Mans, le PETR de la Vallée du Loir, 
 la CDC Loir-Lucé-Bercé et l’ONF. 
+Dès 2027, elle tournera dans les 11 communes riveraines.
 
 {{<figure src="/images/articles/affiche2.jpg"  title="Le rendez-vous de novembre 2026">}}
 
