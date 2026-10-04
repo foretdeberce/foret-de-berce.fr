@@ -22,11 +22,11 @@ Paysages, diversité naturelle, culturelle et
 patrimoniale, en font une "Forêt d'Exception ®"
 
 
-*" C'est là aussi que, dans le silence et la majesté du lieu,
-on peut songer avec fruit au travail des générations passées
-et méditer sur la pérénnité des oeuvres que l'Homme entreprend
-avec méthode et poursuit avec continuité "*
-(Blouère, dans la Sarthe - Les documents de France - 1952)
+    *" C'est là aussi que, dans le silence et la majesté du lieu,
+    on peut songer avec fruit au travail des générations passées
+    et méditer sur la pérénnité des oeuvres que l'Homme entreprend
+    avec méthode et poursuit avec continuité "*
+    (Blouère, dans la Sarthe - Les documents de France - 1952)
 
 Véritable petit Paris, Bercé offre aux visiteurs 
 des allées dignes de certains boulevards Haussmanniens.
@@ -36,10 +36,38 @@ La pureté de son air est sans conteste, irréprochable.
 Savez vous qu'en son sein, une tour existe,
 plus haute que la tour Eiffel?
 
-Un véritable **RER** existe à Bercé: .....le **R**éseau **E**ntre **R**acines !
+Un véritable **RER** existe à Bercé: 
+
+
+.....le **R**éseau **E**ntre **R**acines !
 
 Mais ici se termine la comparaison avec notre capitale !
 
+### En ce moment à CARNUTA
+    
+🌳 Dans le cadre de la Forêt d'Exception, l'idée est venue de mettre
+à l'honneur les fêtes, danses et repas en forêt au XXe siècle.
+    Une exposition explore les repas qui ont rythmé 
+    la vie en forêt de Bercé. D'abord, ceux des
+    hommes et femmes qui y travaillent : 
+    repas pris dans les ballets, moments de 
+    convivialité après les chantiers.
+    Puis viennent les repas "hors travail" : 
+    pique-niques familiaux à la Fontaine de la
+    Coudre ou repas de chasse dans des lieux 
+    emblématiques comme Saint-Hubert ou l'Hermitière.
+    Un parcours pour découvrir comment la forêt a 
+    toujours été un lieu de partage, de travail...
+    et de convivialité !
+
+    Cette exposition est le fruit d’un travail 
+    entre le Pays du Mans, le PETR de 
+    la Vallée du Loir, la CDC Loir-Lucé-Bercé
+    et l’ONF. 
+
+{{<figure src="/images/articles/affiche1.jpg"  title="L'expo du moment">}}
+
+{{<figure src="/images/articles/affiche2.jpg"  title="Le rendez-vous de novembre 2026">}}
 
 ### Pour ne rien perdre de vos ballades : 
 
@@ -48,49 +76,52 @@ en y créant un raccourci !
 Découvrez ainsi les secrets cachés de votre randonnée. 
 
 ### Plus de 1000 photos,
-*(Les photos des têtes de chapitres"générées par "IA" ont toutes été corrigées par Y.G.)*
+
+*(Les photos des têtes de chapitres 
+"générées par une "IA" ont toutes été 
+revues et corrigées par Y.G.)*
+
+
 ### des films et des PDF téléchargeables émaillent les divers textes.
+*Vous trouverez dans certains articles, des liens soulignés (bleu) : 
+ce sont des PDF que vous pouvez alors ouvrir et enregistrer.*
 
 
 ### Pour ne pas se perdre dans le site :
 
-Il y a, situé en haut de page, sur la photo :
+Il y a, situé en haut de cette page, sur la photo :
 
-L'onglet ***"A propos"***  qui vous présente les publications.
+L'onglet ***"A propos"*** 
+
+qui vous présente les publications.
 
 L'onglet ***"Recherche"***, 
+
 ... qui permet un accès rapide à vos recherches avec le moteur Google.  
 
 Dans chaque bas de page, ***des liens*** vous proposent des sujets concomitants.
 
-Le ***Sommaire*** (ci-dessous) regroupe tous les articles qui vous sont proposés.
 
-***Vous trouverez dans certains articles, des liens soulignés (bleu) : 
-ce sont des PDF que vous pouvez alors ouvrir et enregistrer.***
-
-## GRANDE COLLECTE DE TEMOIGNAGES.
-
-{{<figure src="/images/articles/collecte2.jpg"  title="Grande collecte de témoignages">}}
-
-Proposez pour abonder la mémoire collective,
-vos textes, vos enregistrements, 
-vos photos et films 
-ainsi que vos témoignages sur les hommes, les fêtes, la faune, 
-la flore...
-bref...tous les secrets cachés de la forêt de Bercé. 
-🌳 Dans le cadre de la Forêt d'Exception, l'idée est venue de mettre
-à l'honneur les fêtes, danses et repas en forêt au XXe siècle.
-
-Toutes les périodes et toutes les anecdotes peuvent être partagées.🌳
+## GRANDE COLLECTE DE TÉMOIGNAGES.
 
 
-Ou déposer vos témoignages....
-- en mairie
-- à l'accueil de Carnuta
-- via l'adresse mail : foretdeberce@gmail.com
-- par téléphone : Julie Habert : 06 22 62 77 41
+    Proposez pour abonder la mémoire collective,
+    vos textes, vos enregistrements, 
+    vos photos et films 
+    ainsi que vos témoignages sur les hommes,
+    les fêtes,la faune,la flore...
+    Toutes périodes et toutes anecdotes 
+    peuvent être partagées.🌳
+    
+    Ou déposer vos témoignages....
+    
+    - à l'accueil de Carnuta
+    - ou via l'adresse mail :
+    foretdeberce@gmail.com
 
 
+Le ***Sommaire*** (Ci-dessous)
 
+regroupe tous les articles qui vous sont proposés.
 
 
