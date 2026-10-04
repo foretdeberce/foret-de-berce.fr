@@ -22,11 +22,16 @@ Paysages, diversité naturelle, culturelle et
 patrimoniale, en font une "Forêt d'Exception ®"
 
 
-    *" C'est là aussi que, dans le silence et la majesté du lieu,
-    on peut songer avec fruit au travail des générations passées
-    et méditer sur la pérénnité des oeuvres que l'Homme entreprend
-    avec méthode et poursuit avec continuité "*
-    (Blouère, dans la Sarthe - Les documents de France - 1952)
+    *" C'est là aussi que, dans le 
+    silence et la majesté du lieu,
+    on peut songer avec fruit au 
+    travail des générations passées
+    et méditer sur la pérénnité des
+    oeuvres que l'Homme entreprend
+    avec méthode et poursuit 
+    avec continuité "*
+    (Blouère, dans la Sarthe -
+    Les documents de France - 1952)
 
 Véritable petit Paris, Bercé offre aux visiteurs 
 des allées dignes de certains boulevards Haussmanniens.
@@ -43,29 +48,39 @@ Un véritable **RER** existe à Bercé:
 
 Mais ici se termine la comparaison avec notre capitale !
 
-### En ce moment à CARNUTA
+### En ce moment à Carnuta
     
-🌳 Dans le cadre de la Forêt d'Exception, l'idée est venue de mettre
-à l'honneur les fêtes, danses et repas en forêt au XXe siècle.
-    Une exposition explore les repas qui ont rythmé 
-    la vie en forêt de Bercé. D'abord, ceux des
-    hommes et femmes qui y travaillent : 
-    repas pris dans les ballets, moments de 
-    convivialité après les chantiers.
-    Puis viennent les repas "hors travail" : 
-    pique-niques familiaux à la Fontaine de la
-    Coudre ou repas de chasse dans des lieux 
-    emblématiques comme Saint-Hubert ou l'Hermitière.
-    Un parcours pour découvrir comment la forêt a 
-    toujours été un lieu de partage, de travail...
-    et de convivialité !
+🌳 Dans le cadre de la Forêt d'Exception, 
+l'idée est venue de mettre à l'honneur les fêtes, 
+danses et repas en forêt de Bercé au XXe siècle,
+par le biais d'une exposition temporaire.
+      Elle met en valeur les hommes
+      et femmes qui y travaillent,
+      les repas pris dans les ballets,
+      les moments de convivialité 
+      des chantiers.
+      Puis viennent les repas 
+      "hors travail" : 
+      pique-niques familiaux
+      à la Fontaine de la
+      Coudre ou repas de chasse
+      dans des lieux emblématiques
+      comme Saint-Hubert 
+      ou l'Hermitière.
+      
+      Tout un parcours pour découvrir
+      comment la forêt a toujours 
+      été un lieu de partage, 
+      de travail...
+      et de convivialité !
 
-    Cette exposition est le fruit d’un travail 
-    entre le Pays du Mans, le PETR de 
-    la Vallée du Loir, la CDC Loir-Lucé-Bercé
-    et l’ONF. 
+    
 
 {{<figure src="/images/articles/affiche1.jpg"  title="L'expo du moment">}}
+
+Cette exposition est le fruit d’un travail entre
+le Pays du Mans, le PETR de la Vallée du Loir, 
+la CDC Loir-Lucé-Bercé et l’ONF. 
 
 {{<figure src="/images/articles/affiche2.jpg"  title="Le rendez-vous de novembre 2026">}}
 
