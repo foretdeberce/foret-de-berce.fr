@@ -79,7 +79,9 @@ par le biais d'une exposition temporaire.
 
 {{<figure src="/images/articles/affiche1.jpg"  title="L'expo du moment">}}
 
-Cette exposition est le fruit d’un travail entre
+Cette exposition mise en forme par Simon Altermatt, 
+étudiant en Master 2 "Patrimoine et développement local" 
+à l'université du Maine,est le fruit d’un travail entre
 le Pays du Mans, le PETR de la Vallée du Loir, 
 la CDC Loir-Lucé-Bercé et l’ONF. 
 Dès 2027, elle tournera dans les 11 communes riveraines.
