@@ -54,6 +54,7 @@ Mais ici se termine la comparaison avec notre capitale !
 l'idée est venue de mettre à l'honneur les fêtes, 
 danses et repas en forêt de Bercé au XXe siècle,
 par le biais d'une exposition temporaire.
+
       Elle met en valeur les hommes
       et femmes qui y travaillent,
       les repas pris dans les ballets,
