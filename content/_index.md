@@ -84,7 +84,7 @@ le Pays du Mans, le PETR de la Vallée du Loir,
 la CDC Loir-Lucé-Bercé et l’ONF. 
 Dès 2027, elle tournera dans les 11 communes riveraines.
 
-{{<figure src="/images/articles/affiche2.jpg"  title="Le rendez-vous de novembre 2026">}}
+{{<figure src="/images/articles/affiche2.jpg"  title="Le rendez-vous de novembre 2026 à Carnuta">}}
 
 ### Pour ne rien perdre de vos ballades : 
 
