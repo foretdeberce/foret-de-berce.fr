@@ -80,7 +80,7 @@ Ces longs bois de Bercé serviront pour établir le tabouret qui supportera la f
 **Puis par la suite 225 chênes** seront aussi prélevés en Bercé,
 62 chênes, pris aussi dans les parcelles en régénération, pour profiter de belles dimensions, 
 seront utilisés pour la flèche et 163 exploités dans les parcelles en amélioration 
-seront destinés à charpente médiévale.
+seront destinés à la confection de la charpente médiévale.
 
 Tous ces bois rejoindront les autres provenant de diverses forêts françaises afin d'édifier
 la "forêt" de Notre Dame de Paris à partir du printemps 2023.
