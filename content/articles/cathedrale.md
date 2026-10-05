@@ -78,8 +78,8 @@ Elle offrira en avant première **8 de ses plus grands chênes**.
 Ces longs bois de Bercé serviront pour établir le tabouret qui supportera la flèche.
 
 **Puis par la suite 225 chênes** seront aussi prélevés en Bercé,
-62 chênes, pris aussi dans les parcelles en régénération, pour profiter de belles dimensions, 
-seront utilisés pour la flèche et 163 exploités dans les parcelles en amélioration 
+**62 chênes**, pris aussi dans les parcelles en régénération, pour profiter de belles dimensions, 
+seront utilisés pour la flèche et **163 chênes** exploités dans les parcelles en amélioration 
 seront destinés à la confection de la charpente médiévale.
 
 Tous ces bois rejoindront les autres provenant de diverses forêts françaises afin d'édifier
