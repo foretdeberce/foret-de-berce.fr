@@ -65,17 +65,20 @@ Le sinistre déclaré en fin d'après-midi
 et se propage à l’ensemble de la charpente.
 
 Les forêts Publiques et privées se sont alors mobilisées pour fournir 
-aux bâtisseurs la matière première de leurs chantiers soit plus 
-de 2000 chênes.
+aux bâtisseurs la matière première de leurs chantiers soit près
+de 2400 chênes.
 
 Contrairement à Saint-Ouen en Belin, pour Paris.... il est fait état
 d'un mécénat de la filière bois, au niveau National.
+
+{{<figure src="/images/articles/ndparis.jpg" title="De la futaie à la Cathédrale">}}
 
 Bercé fut la première à se mettre en œuvre dans le dispositif de reconstruction.
 
 Elle offrira en avant première **8 de ses plus grands chênes**. 
 
-Ces longs bois de Bercé serviront pour établir le tabouret qui supportera la flèche.
+Ces longs bois de Bercé à la rectitude la plus stricte,
+serviront pour établir le tabouret qui supportera la flèche.
 
 **Puis par la suite 225 chênes** seront aussi prélevés en Bercé,
 **62 chênes**, pris aussi dans les parcelles en régénération, pour profiter de belles dimensions, 
