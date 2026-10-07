@@ -271,8 +271,10 @@ Autre  centre d’intérêt ou d’attraction, situé dans le fin haut de cette 
   de trois ruisseaux  qui gonflent en cet endroit en cas de pluie, dont le ruisseau des Haies : 
   
   «C’est le Théâtre de Verdure».
+
+{{<figure src="/images/articles/theatreverdure.jpg" title="Le Théâtre de verdure du vallon de l'Hermitière">}}  
   
-Etabli en ce lieu dégagé, profitant d’une ancienne carrière d’extraction de matériaux 
+Établi en ce lieu dégagé, profitant d’une ancienne carrière d’extraction de matériaux 
   et d’un cirque naturel, le théâtre de verdure est situé à la limite des Parcelles 
   188 et 203 dans la parcelle 203. 
 
@@ -283,7 +285,7 @@ Des représentations y étaient données régulièrement l’après-midi sous l�
   dimanche 24 août 1924, mercredi 19 juillet 1925 (lors de la fête de l’Hermitière) 
   et du dimanche 20 juin 1926.
   
-Les groupes qui venaient au Théatre de verdure empruntaient le tramway 
+Les groupes qui venaient au Théâtre de verdure empruntaient le tramway 
   puis la voiture aménagée à partir de Jupilles.
   
 
@@ -291,11 +293,10 @@ Les acteurs reprendront ce nom de « L'Enfumeraie » pour leur salle de spectacl
   
 {{<figure src="/images/articles/10aout1926.jpg" title="spectacle du 15 août 1926">}}
   
-{{<figure src="/images/articles/puitshermitiere.jpg" title="Le puits des années 1960">}}
   
-{{<figure src="/images/articles/makyo.jpg" title="Celui des années 1980 croqué par Makyo">}} 
+{{<figure src="/images/articles/makyo.jpg" title="Le puits des années 1980 croqué par Makyo">}} 
 
-## Autres articles sur l'Hermitière : ## 
+## Autres articles sur l'Hermitière : ##
 
 [L’Hermitière - les cafetiers]({{<ref "articles/hermitiere2.md">}})
 
