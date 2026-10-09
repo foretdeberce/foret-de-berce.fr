@@ -1,7 +1,7 @@
 ---
 title: "La forêt de Bercé"
 description: "Forêt d'exception"
-featured_image: "/images/brigadier.jpg"
+featured_image: "/images/brigadier2.jpg"
 ---
 
 Ce massif Sarthois de 5400 hectares, situé
