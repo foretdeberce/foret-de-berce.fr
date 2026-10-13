@@ -44,12 +44,18 @@ De nos jours, on exporte toujours l’excellence de la semence dans tout
   scolaires mettent le coup de collier à l'automne pour participer à 
   cette grande œuvre, ce beau coup de pouce à la nature. 
   
-Aujourd’hui, seuls deux grainetiers sont habilités à ramasser 
-  du gland en forêt de Bercé. L’O.N.F. et VILMORIN. 60 tonnes
-  de glands sont ramassées à la main lors d’une bonne glandée.
+Il n'y a encore pas si longtemps, seuls deux grainetiers sont habilités à ramasser 
+  du gland en forêt de Bercé. L’O.N.F. et VILMORIN.
+  
+  **60 tonnes** de glands sont ramassées à la main lors d’une bonne glandée.
   Cela représente 15 millions de glands. 
 
-Anthony Jeanneau nous précise pourquoi le gland du chêne sessile de bercé est si prisé pour la reproduction de l'espèce.
+Anthony Jeanneau nous précise pourquoi le gland du chêne sessile de bercé 
+est si prisé pour la reproduction de l'espèce.
+" La provenance des glands de Bercé est nommée QPE 106
+(qui désigne une région de provenance officielle pour les Matériels Forestiers 
+de Reproduction en France). Elle peut être utilisée dans tout le nord de la France."
+
 **0'17"**
 
 {{<youtube id="XzceeCBFVb0">}}
@@ -59,8 +65,8 @@ Anthony Jeanneau nous précise pourquoi le gland du chêne sessile de bercé est
 Reportage FR 3 sur la glandée 2018 en forêt de Bercé.
 **(0'15")**
 
-**Les secrêts du ramassage des glands :**
-c'est la persévérence et le trie.
+**Les secrets du ramassage des glands :**
+c'est la persévérance et le tri.
 
   {{<youtube id="wN8mDWRihBs">}} 
 
@@ -115,9 +121,19 @@ Ne pas en fiche une ramée chez vous pendant encore deux ans,
   dont la morale est que « Dieu fait bien ce qu’il fait ».* 
   
 *Je me tiens à votre disposition pour un éventuel entretien 
-  et vous prie de croire, Monsieur le Directeur, à l’expression de mon profond respect."* 
+  et vous prie de croire, Monsieur le Directeur, à l’exCOLLECTEpression de mon profond respect."* 
   
 ***Signé M. G.***
+
+## 2026
+
+C'est l'année de tous les records de chaleur et de sécheresse. 
+*Les parcelles doivent être composées de chênes sessiles qui doivent avoir au moins 100 ans 
+et ainsi présenter des qualités en termes de vigueur et qualité de bois. »
+Cette année, une vingtaine d'association de parents d'élèves participent à la
+collecte. Elles sont rémunérées à 2,70 € le litre. Cette année, nous avons même récolté des alises.*
+....Anthony Jeanneau 
+
 
 ## Autres articles concernant les productions forestières: ## 
 
