@@ -131,7 +131,7 @@ C'est l'année de tous les records de chaleur et de sécheresse.
 *Les parcelles doivent être composées de chênes sessiles qui doivent avoir au moins 100 ans 
 et ainsi présenter des qualités en termes de vigueur et qualité de bois. »
 Cette année, une vingtaine d'association de parents d'élèves participent à la
-collecte. Elles sont rémunérées à 2,70 € le litre. Cette année, nous avons même récolté des alises.*
+collecte. Elles sont rémunérées à 2,70 € le litre. Nous avons même récolté des alises.*
 ....Anthony Jeanneau 
 
 
