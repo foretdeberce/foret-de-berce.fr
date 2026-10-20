@@ -34,7 +34,7 @@ touristiques de Bercé.
 ### Pour tout savoir sur l'ouverture et la clôture 
 de la saison de chasse en cours et sur la situation des lots..
 
-[Voici le calendrier de chasse pour la saison 2025 - 2026 sur Bercé](/articles/pdf/saison25-26berce.pdf)
+[Voici le calendrier de chasse pour la saison 2026 - 2027 sur Bercé](/articles/pdf/saison26-27berce.pdf)
   
 
 ## Autres articles concernant les voies forestières: ## 
