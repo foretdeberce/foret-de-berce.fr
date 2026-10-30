@@ -42,8 +42,11 @@ situés de l'autre côté de l'Atlantique **(9'13)**
 
 
 Par circulaire du 29 juin 1899, 
-le directeur général des Eaux et Forêts demandait à
-tous les conservateurs des forêts françaises de protéger 
+le directeur général des Eaux et Forêts, 
+**Marie Joseph Charles Lucien Daubrée**, 
+qui était également conseiller d'État, 
+demandait à tous les conservateurs des 
+forêts françaises de protéger... 
 
      «…les arbres renommés dans la contrée soit par 
      les souvenirs historiques ou légendaires qui 
