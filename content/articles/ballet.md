@@ -130,11 +130,11 @@ où allait la fumée, cela faisait beaucoup rire les anciens bûcherons.
 
 
 Bernard Chevalier et Éric Demougin se souviennent des soirées 
-passées par nos anciens dans les 
+passées par nos anciens, après guerre, dans les :
 
 ### Cafés- Épiceries 
 
-On retiendra pour l’exemple deux établissements : 
+On retiendra pour exemple deux établissements : 
 
 **La Butte** (sur Pruillé l’Éguillé) 
 et **La Jambe en l’air** (sur les Ventes à St.Vincent)
