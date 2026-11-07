@@ -1,5 +1,5 @@
 ---
-title: "Ballet et habitat rustique"
+title: "BalLet et habitat rustique"
 date: 2022-11-07T17:23:44+01:00
 draft: false
 description: "Loges forestières"
@@ -122,9 +122,78 @@ Celles-étaient repérées par de la peinture d’arbres témoins, dont on prena
 
 {{<figure src="/images/articles/bernardchevalier.jpg" title="Bernard, un observateur de choix">}}
 
+
 Bernard Chevalier, de Saint Vincent, se souvient avoir fait des fagots pour la cuisson des
-  patates et des cochons, et être (étant tout jeune) toujours placé dans le ballet du côté 
-  où allait la fumée, cela faisait beaucoup rire les anciens bûcherons.
+patates et des cochons, et être (étant tout jeune) toujours placé dans le ballet du côté 
+où allait la fumée, cela faisait beaucoup rire les anciens bûcherons.
+
+
+
+Bernard Chevalier et Éric Demougin se souviennent des soirées 
+passées par nos anciens dans les 
+
+### Cafés- Épiceries 
+
+On retiendra pour l’exemple deux établissements : 
+
+**La Butte** (sur Pruillé l’Éguillé) 
+et **La Jambe en l’air** (sur les Ventes à St.Vincent)
+
+Ces anciens cafés-épiceries de hameaux 
+possédaient une double importance :
+
+## 1-Ils étaient le quartier général des métiers du bois : 
+À l'époque de la grande exploitation manuelle 
+de la forêt, ces cafés (idéalement situés sur les 
+communes, en lisière de Bercé) servaient de 
+point de ralliement stratégique. Les bûcherons, 
+fendeurs, débardeurs et sabotiers s'y retrouvaient 
+après d'exténuantes journées de labeur pour y 
+boire un coup, régler des comptes de chantier, 
+mais surtout pour y « faire l'assemblée ».
+
+## 2- Et le cœur social et festif de la forêt : 
+Dans ces campagnes, l'épicerie-café ne servait 
+pas seulement à acheter du sel ou du sucre. 
+C'était le seul espace public du hameau où
+l'on poussait les tables pour organiser des 
+bals improvisés, chanter les chansons 
+traditionnelles des forestiers, et fêter les 
+fins de grosses coupes. L'ambiance y était 
+joyeuse, parfois rude, typique de cette 
+forte corporation des gens de Bercé.
+
+
+     Dans un rôle de pivot les tenanciers de la Butte
+     ou du café de la Jambe en l’air étaient les 
+     confidents des bûcherons, Ils leur faisaient 
+     crédit les mois d'hiver quand la forêt était 
+     impraticable, et leur préparaient la 
+     fameuse « potée » ou la buvette pour 
+     les assemblées.
+
+Aujourd'hui, si ces cafés ont disparu depuis 
+longtemps au profit d'habitations privées, 
+ils restent  intactes dans le cœur de certains 
+et nous tentons  de les protéger de l'oubli.
+C'est précisément grâce à ces transmissions 
+orales et à ces souvenirs partagés que la 
+mémoire de nos villages reste vivante.
+Sans ces récits racontés au coin du feu 
+ou lors des repas de famille, l'histoire de 
+ces grands gaillards de la forêt et des fêtes 
+de la Butte se serait éteinte avec la 
+fermeture du café.
+
+
+Ce genre de souvenir dessine une époque 
+où la lisière de la forêt de Bercé grouillait 
+de vie, rythmée par le bruit des haches, 
+des scies, et par les éclats de rire de nos 
+besogneux de la forêt, une fois la nuit tombée.
+
+
+
 
 {{<figure src="/images/articles/311b21.jpg" title="Atelier de merrains">}}
 
