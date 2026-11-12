@@ -85,7 +85,7 @@ L’équipe est composée des préposés (ou gardes qui tiennent marteaux et com
      offre un double avantage : 
   
 
-     **1.** — Les enlèvements illicites d'arbres 
+     1 — Les enlèvements illicites d'arbres 
      conservés pour le réensemencement ou l'abri
      des jeunes recrus sont beaucoup plus faciles
      à constater que dans les coupes marquées 
@@ -100,7 +100,7 @@ L’équipe est composée des préposés (ou gardes qui tiennent marteaux et com
      et de retrouver la souche de l'arbre enlevé ; 
   
 
-     **2.** — Les arbres livrés à l'exploitation, 
+     2 — Les arbres livrés à l'exploitation, 
      ne portant aucune empreinte du marteau de 
      l'État, peuvent être exploités par extraction
      de souche; ce qui permet, d'une part, 
@@ -224,14 +224,15 @@ Seule véritable pose d’une journée trop souvent venteuse ou pluvieuse,
   Deux groupes se formaient alors, d’un côté le brigadier et Mr l’inspecteur,
   ….de l’autre, les préposés. Deux feux étaient alors allumés.
   
-  Plus tard, au siècle dernier et jusque dans les années 1950, ercouet
-  les repas seront pris dans les maisons forestières, la salle à manger 
-  étant seulement réservée au brigadier et à Mrs les officiers forestiers, 
-  la cuisine au reste de la troupe, chacun se faisant un devoir d’apporter 
-  son repas. 
+  Plus tard, au siècle dernier et jusque dans les années 1950,
+  les repas seront pris dans les maisons forestières, 
+  la salle à manger étant seulement réservée au brigadier 
+  et à Mrs les officiers forestiers, la cuisine au reste de la troupe,
+  chacun se faisant un devoir d’apporter son repas. 
+  
   Ces repas partagés étaient pour l’équipe un bon moyen de renforcer
   les liens et la cohésion et de synchroniser cette activité….mais parfois
-  …..gare au pousse café….qui pouvait rapidement en ralentir certains.
+  …..gare au pousse café…qui pouvait rapidement en ralentir certains.
   
      On donne encore au dernier repas de la saison le terrible
      nom de « tuer le chien ». Cette expression trouve aisément 
@@ -243,6 +244,19 @@ Seule véritable pose d’une journée trop souvent venteuse ou pluvieuse,
      lors de journées chargées en humidité… car en sous bois
      on attrape vite des rhumatismes, qui se révèlent
      quelquefois tardivement, mais on ne perd rien pour attendre.
+
+Le martelage est une épreuve difficile pour les corps.
+La marche est pour le forestier essentielle à ses déplacements.
+Autant dire qu'il faut à chacun une excellente condition physique
+pour progresser dans un milieu parfois hostile 
+(trous, fourrés, fougères, ronciers).
+On apprend en tout début de notre formation à ne pas traîner 
+les pieds, les lever bien haut pour enjamber les obstacles 
+...et faire ainsi le moins de bruit possible.
+
+Par le passé, en approche de braconniers ou délinquants, 
+il était nécessaire d'avoir le pied léger pour éviter
+de faire craquer les branches.
   
 {{<figure src="/images/articles/martelagep219.jpg" title="Martelage de la parcelle 219">}}
 
