@@ -17,7 +17,7 @@ l’arrivée des premiers forestiers sur le Massif de Bercé :
 (Gaubert (Gausbertus) forestier de Cléopas de Nouâtre en 1067 et Foucher, 
 forestier de Gervais II, seigneur de Château du Loir (1071).
 
-{{<figure src="/images/articles/tampon.jpg" title="Sceau du marteau de l'état">}}
+{{<figure src="/images/articles/tampon.jpg" title="Sceau du marteau de l'État">}}
   
 Martelages et griffages sont deux opérations ou le forestier peut librement 
   exprimer son talent, car choisir un arbre pour le porter à la mort,
@@ -46,14 +46,21 @@ Les marteaux utilisés en opération conjointe de martelage étaient, eux,
 conservés à l’inspection du Mans dans un coffre, 
 et amenés par l’inspecteur ou agent sur le terrain les seuls jours "d’opération".
   
-Le 6 août 1899 il est noté dans les livrets que *«les empreintes des marteaux de l’État 
+Le 6 août 1899 il est noté dans les livrets que 
+
+*«les empreintes des marteaux de l’État 
   sont déposées au Pavillon de Bercé, dans l’armoire de la chambre de Mr l’inspecteur»* . 
   
 Le 24 mai 1894, l’inspecteur Chautan de Vercly et son adjoint Roulleau de La Roussiere
   visent ainsi le matin, en guise de prologue au martelage, les livrets d’ordres 
-  des préposés en y apposant cette phrase *Vu par les agents forestiers en tournée*….d’ailleurs,
-  depuis le 15 mai, c’est tous les jours qu’est laconiquement inscrite sur les livrets
-  des préposés la phrase suivante : *Accompagné Mrs les agents forestiers
+  des préposés en y apposant cette phrase 
+  
+  *Vu par les agents forestiers en tournée*…
+  
+  D’ailleurs, depuis le 15 mai, c’est tous les jours qu’est laconiquement inscrite sur les livrets
+  des préposés la phrase suivante :
+  
+  *Accompagné Mrs les agents forestiers
   aux opérations dans les 1ère, 2ème et 3ème série*, pas de répit donc...
   même le jour du seigneur ! 
   
@@ -61,16 +68,22 @@ L’équipe est composée des préposés (ou gardes qui tiennent marteaux et com
   du brigadier (qui pointe les appels sur une feuille de pointage) et d’un, 
   voir deux agents en tournée (inspecteur ou garde général, qui supervisent l’opération). 
   
-28 septembre 1868 : Leroux note *Rendez vous du brigadier à la loge de Croix-Marconnay
+28 septembre 1868 : Le garde Leroux note *Rendez vous du brigadier à la loge de Croix-Marconnay
   pour présenter les marteaux à Mr le sous-inspecteur*. 
 
-*Alors, sur l'ordre du brigadier, les gardes prirent dans la voiture les sacs à provisions
-  et les suspendirent à une branche dans le massif. Ils accrochèrent également sous bois, 
-  à quelque distance, les sacs qu'ils portaient en bandoulière… On tira ensuite du coffre 
-  les marteaux de l'État enveloppés dans un étui en cuir fermé par une double serrure. 
-  Les étuis furent ouverts par l'inspecteur et un marteau remis à chacun des gardes.* 
- 
-  Récit forestier de Ruault de Champglin
+    "Alors, sur l'ordre du brigadier, les gardes 
+    prirent dans la voiture les sacs à provisions 
+    et les suspendirent à une branche dans le massif.
+    Ils accrochèrent également sous bois,
+    à quelque distance, les sacs qu'ils portaient 
+    en bandoulière… On tira ensuite du coffre 
+    les marteaux de l'État enveloppés dans un 
+    étui en cuir fermé par une double serrure. 
+    Les étuis furent ouverts par l'inspecteur 
+    et un marteau remis à chacun des gardes.* 
+    
+    Récit forestier de Ruault de Champglin
+      
   
 {{<figure src="/images/articles/martelage.jpg" title="La virée de martelage">}}
   
@@ -127,10 +140,12 @@ Chaque garde était propriétaire, donc responsable de l’utilisation de son pr
   marteau particulier qui servait uniquement à la reconnaissance des souches 
   exploitées et des délits reconnus. 
   Jupilles le 11décembre 1898, le Brigadier MAUNY,
+  
   *« remet au garde JOUAUX, un marteau particulier neuf, car l’ancien est usé. 
   Le prix d’achat est 12fr, les frais de timbres, transport et envoi de mandat de 1fr.
   Total du prix de revient : 13fr. L’ancien marteau a été payé au garde sortant 0fr50
   par JOUAUX »*. 
+  
   L’empreinte du marteau particulier du garde forestier cantonnier est ovale, 
   toutes les autres sont carrées
 
@@ -140,7 +155,12 @@ Chaque garde était propriétaire, donc responsable de l’utilisation de son pr
   
 **Les marteau de l’État n° 1 & 2 :** 
 
-Sur des illustrations de P. Berthelot, R. Bacchetta et JC. Chausse nous renseignent sur cet outil en vogue en forêt depuis 7 siècles par le biais d’une étude sur le sujet : ["Les marteaux régaliens"](/articles/pdf/historiquemarteaux1.pdf)   
+Sur des illustrations de P. Berthelot, R. Bacchetta et JC. Chausse 
+nous renseignent sur cet outil en vogue en forêt depuis 7 siècles 
+par le biais d’une étude sur le sujet : 
+
+
+["Les marteaux régaliens"](/articles/pdf/historiquemarteaux1.pdf)   
 
 L’empreinte du marteau de l’État telle que nous la connaissons aujourd’hui (ronde) 
   est définie par l’administration le 14 août 1830. Les empreintes portent alors 
@@ -149,7 +169,7 @@ L’empreinte du marteau de l’État telle que nous la connaissons aujourd’hu
   entouré d’un cercle. Il faut noter qu’entre le début XXe siècle et la création 
   de l’ONF en 1964, le numéro d’inspection disparaît et celui de conservation 
   n’est plus obligatoire. 
-  le marteau N° 2 del'État dit marteau chablis possède une empreinte hexagonale.
+  le marteau N° 2 de l'État dit marteau chablis possède quant à lui une empreinte hexagonale.
   
 {{<figure src="/images/articles/empreinteroyale.jpg" title="La game des empreintes">}}
   
