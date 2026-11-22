@@ -50,7 +50,10 @@ Bref, l’endroit était sympathique, gai et le vin, etc. Bon.
   Le père BLIN, un forain de Chahaignes, vendait des poupées 
   en plumes, des cacahuètes (c’était son surnom) et des pipes en terre.*
   (Témoignage d’Yves CAMISY) 
- 
+
+  
+{{<figure src="/images/articles/cafebignon.jpg" title="Affluence des grands jours chez Bignon">}} 
+
 
 Les jours d’affluence, le service forestier sollicitait 
   la présence de la brigade de gendarmerie du Grand Lucé.
