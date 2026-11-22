@@ -42,6 +42,15 @@ Touring-Club, des Débats, ou du Petit Parisien sont avec nous.
 J’espère donc que les gardes de Bercé rempliront leur devoir sans 
 passion comme sans faiblesse.*
 
+
+### 13 juillet 1906 :
+
+      La loi a instauré en France 
+      le repos hebdomadaire obligatoire 
+      d'au moins 24h consécutives 
+      (en principe le dimanche).
+
+
 ### 5 mars 1920
 
 Le Conseiller d’État, Directeur Général des Eaux et Forêts (L.DABAT) s’exprime en ces mots :
@@ -212,6 +221,13 @@ ils pourraient être délaissés, quelques uns dans les parties
 pré-comptables : 130 – 140 – 141 – 27.*
   
 ### 1936
+
+      La loi du 20 juin 1936 met en place 
+      le système des congés payés en France
+
+      
+{{<figure src="/images/articles/automobile.jpg" title="Affiche parue en 1936">}}
+
   
 Confection de l'accès au Chemin de la Coudre (voir dossier sur les routes)  
 délimitation du chemin des Salles Maison Neuve : Terrain labouré en 1937.
