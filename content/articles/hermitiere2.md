@@ -17,6 +17,10 @@ détournèrent la chose en achetant les terrains en périmètre des sources pour
 Lorsque ceux-ci ne pouvaient plus en assurer le service,
 ils y plaçaient un locataire.
 
+{{<figure src="/images/articles/concessionshermitiere.jpg" title="Positionnement des concessions au fil du temps">}}
+
+
+
 ### Café Mary-Lecomte : 1905 (ou Maris-Lecomte) *(propriétaire)*.
 
 La famille Maris-Lecomte créa la cave enterrée dans la butte, 
