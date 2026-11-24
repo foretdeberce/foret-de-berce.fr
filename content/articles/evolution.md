@@ -9,7 +9,7 @@ tags: ["Tourisme","Lieux","Paysage","Hommes"]
 
 ## A propos 
 
-[à propos de son histoire](/articles/pdf/aproposdesonhistoire.pdf) 
+[A propos de son histoire](/articles/pdf/aproposdesonhistoire.pdf) 
 
 ### La fête des forêts
 
@@ -18,7 +18,7 @@ fêtent avec régularité (sauf en cas de COVID)
 
 ***la Journée Internationale des forêts***.
 
-**Rendez-vous désormais en mars prochain pour la 7ème édition : la JIF 2025 !**
+**Rendez-vous désormais en mars prochain pour la 9ème édition : la JIF 2027 !**
 
 Bercé fait depuis le 17ème siècle l’objet de l’attention sans 
 faille des forestiers qui en ont la charge.
@@ -29,6 +29,8 @@ les forestiers et leurs successeurs.
 
 L’homme n’est pas sans défauts et la foresterie est une science complexe.
 
+
+[Remontons le temps](/articles/pdf/2026histoiredeberce.pdf) 
 
 France-Bois-Forêt nous présente un extrait de l’émission
 « Notre Forêt Demain du 30 octobre 2023 **(21’26)**
