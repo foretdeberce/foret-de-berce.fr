@@ -14,15 +14,10 @@ tags: ["Topographie","Cartographie","Carrières ","Ronds"]
 
 ## Au début de notre ère :
 
-{{<figure src="/images/articles/france.jpg" title="Première carte de l'ouest de la France">}}
-
-La gaule celtique incorporait la Cénomanie : la province du Maine.
-Mais discrète, Bercé ne figure même pas, contrairement à la forêt d’Andaînes, 
-sur la première carte de France. Dans les débuts, il y a 2000 ans, 
 
 {{<figure src="/images/articles/camp-cesar.jpg" title="Le camp de César, proche de Bercé">}}
 
-la Légion de César, basée non loin d'ici, à Sougé, près du Loir, 
+Dans les débuts, il y a 2000 ans, la Légion de César, basée non loin d'ici, à Sougé, près du Loir, 
 était saisie d'effroi à l'idée de traverser la grande forêt des Aulerques Cénomans 
 et des Carnutes, forêts noires et impénétrables.  
   
@@ -138,6 +133,13 @@ Certains ronds se trouveront ainsi décalés par rapport aux carrefours anciens,
 
 
 ### 1789
+
+
+La gaule celtique incorporait la Cénomanie : la province du Maine.
+Mais discrète, Bercé ne figure même pas, contrairement à la forêt d’Andaines, 
+sur la première carte de France (1525). A la révolution, Bercé est bien là.
+
+{{<figure src="/images/articles/france.jpg" title="Première carte révolutionnaire de la Sarthe">}}
 
 A la révolution, si les routes sont apparemment ouvertes, elles ressemblent bien souvent 
   à des lignes étroites en terrain naturel, allant par monts et par vaux, ignorant 
