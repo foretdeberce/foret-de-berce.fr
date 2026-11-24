@@ -19,7 +19,7 @@ ils y plaçaient un locataire.
 
 {{<figure src="/images/articles/concessionshermitiere.jpg" title="Positionnement des concessions au fil du temps">}}
 
-
+[Bercé, forêt festive](/articles/pdf/2026bercefestif.pdf) 
 
 ### Café Mary-Lecomte : 1905 (ou Maris-Lecomte) *(propriétaire)*.
 
