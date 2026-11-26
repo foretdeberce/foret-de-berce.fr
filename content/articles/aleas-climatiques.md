@@ -303,21 +303,26 @@ Les hauteurs maximales seront enregistrées durant l’hiver 2000-2001,
   
 Les fontaines froides de Sermaize quant à elles, n’arrivent plus à entonner.
   
-Depuis quelques années, la sècheresse pointe son nez, contraignant notre massif 
+Depuis quelques années, la sécheresse pointe son nez, contraignant notre massif 
   à suivre un régime drastique !
   
-Voici les valeurs relevées de 1994 à 2024 sur le **flanc est** de Bercé.
+Voici les valeurs relevées de 1994 à 2026 sur le **flanc est** de Bercé.
 Les valeurs recommandées pour le hêtre en forêt sont :
-**750mm par an dont 250 à 300mm d'eau utile durant la saison de végétation.**
-De janvier à mars 2025 nous relevons : 265mm
-d'avril à septembre 2025 : 251mm
+
+
+## 750mm par an dont 250 à 300mm d'eau utile durant la saison de végétation.
+
+
+En 2026 il manque les valeurs du mois de décembre, qui ont été reprises sur celles de 2025
+pour pouvoir établir ce tableau...
+
 Nous tendons donc le dos pour la suite !
 
 
 Ce déficit de pluviométrie impacte directement le Hêtre, 
 surtout lorsqu'il est à l'étage dominant.
 Le changement climatique le touche au plus profond au plus profond de son "être"
-lui qui a une écorce toute fine et un enracinement très superficiel.
+lui qui a une écorce si fine et un enracinement si superficiel.
 
 {{<figure src="/images/articles/pluviometrie2.jpg" title="Pluviométrie du flanc Est de Bercé">}}
 
