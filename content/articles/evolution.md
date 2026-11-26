@@ -30,7 +30,7 @@ les forestiers et leurs successeurs.
 L’homme n’est pas sans défauts et la foresterie est une science complexe.
 
 
-[Remontons le temps](/articles/pdf/2026histoiredeberce.pdf) 
+[Aujourd'hui remontons le temps](/articles/pdf/2026-histoiredeberce.pdf) 
 
 France-Bois-Forêt nous présente un extrait de l’émission
 « Notre Forêt Demain du 30 octobre 2023 **(21’26)**
