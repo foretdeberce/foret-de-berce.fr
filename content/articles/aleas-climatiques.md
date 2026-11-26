@@ -316,11 +316,13 @@ Les valeurs recommandées pour le hêtre en forêt sont :
 En 2026 il manque les valeurs du mois de décembre, qui ont été reprises sur celles de 2025
 pour pouvoir établir ce tableau...
 
-Nous tendons donc le dos pour la suite !
+*Nous tendons donc le dos pour la suite !*
 
 
 Ce déficit de pluviométrie impacte directement le Hêtre, 
 surtout lorsqu'il est à l'étage dominant.
+
+
 Le changement climatique le touche au plus profond au plus profond de son "être"
 lui qui a une écorce si fine et un enracinement si superficiel.
 
@@ -355,8 +357,15 @@ Aussi, en 2023, l'O.N.F. anticipe-t-il la raréfaction de l'eau en établissant
   dans toutes les forêts du département, des plantations comparatives 
   de chênes sessiles (comme à Bercé), pubescents (régions méditerranéennes), Zéens (Algérie), de séquoias toujours verts (Amérique du nord), 
   de pins de Brutie (Turquie) ou de robiniers faux acacias (Amérique du Nord).
+
   
-  L'O.N.F. et les pompiers intensifient aussi la surveillance des incendies.
+En 2026, les canicules à répétition, (du jamais vu !) vont impacter durablement les sols forestiers.
+
+     L'O.N.F. et les pompiers intensifient 
+     a surveillance des incendies et la 
+     forêt est totalement interdite à l
+     a pénétration de l'homme.
+     
   
 ### La foudre :
   
