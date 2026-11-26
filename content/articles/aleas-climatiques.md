@@ -319,7 +319,7 @@ surtout lorsqu'il est à l'étage dominant.
 Le changement climatique le touche au plus profond au plus profond de son "être"
 lui qui a une écorce toute fine et un enracinement très superficiel.
 
-{{<figure src="/images/articles/pluviometrie.jpg" title="Pluviométrie du flanc Est de Bercé">}}
+{{<figure src="/images/articles/pluviometrie2.jpg" title="Pluviométrie du flanc Est de Bercé">}}
 
   
 ### La sécheresse :
