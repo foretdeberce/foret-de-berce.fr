@@ -316,6 +316,8 @@ Les valeurs recommandées pour le hêtre en forêt sont :
 En 2026 il manque les valeurs du mois de décembre, qui ont été reprises sur celles de 2025
 pour pouvoir établir ce tableau...
 
+## Avenir du Hêtre !
+
 *Nous tendons donc le dos pour la suite !*
 
 
